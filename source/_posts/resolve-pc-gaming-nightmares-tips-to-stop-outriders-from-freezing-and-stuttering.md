@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-11-15T00:01:31.233Z
-updated: 2024-11-16T17:10:12.258Z
+date: 2024-11-21T16:25:59.852Z
+updated: 2024-11-26T19:12:01.990Z
 tags:
   - win11
   - win10
@@ -44,19 +44,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
@@ -64,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
@@ -107,10 +91,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -151,6 +132,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
@@ -164,10 +149,7 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
@@ -175,6 +157,10 @@ To do so, follow these steps:
 Launch Metro Exodus and see if it works now.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
 
@@ -207,18 +193,18 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-selecting-your-perfect-vr-experience-mobile-vs-tethered-options/"><u>[New] Selecting Your Perfect VR Experience Mobile Vs. Tethered Options</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/orlds-highest-paying-streamer-for-2024/"><u>[New] World's Highest Paying Streamer for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009221939-battling-bugs-in-gears-master-these-techniques-to-stop-game-crashes-forever/"><u>Battling Bugs in Gears Ⅴ? Master These Techniques to Stop Game Crashes Forever!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/craft-a-unique-gpt-framework/"><u>Craft a Unique GPT Framework</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-visuals-how-to-address-and-fix-blurry-graphics-while-playing-cod-warzone-on-your-pc/"><u>Enhancing Visuals - How to Address and Fix Blurry Graphics While Playing COD: Warzone on Your PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-advanced-strategies-to-elevate-client-spots-and-product-endorsements/"><u>In 2024, Advanced Strategies to Elevate Client Spots and Product Endorsements</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-becoming-a-meet-maestro-chat-techniques-unveiled/"><u>In 2024, Becoming a Meet Maestro Chat Techniques Unveiled</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-troubleshooting-steps-for-resolving-rainbow-six-siege-startup-issues/"><u>Solved: Troubleshooting Steps for Resolving Rainbow Six Siege Startup Issues</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/transform-audio-experience-the-simplified-guide-for-tiktok-users/"><u>Transform Audio Experience The Simplified Guide for TikTok Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-world-of-warcraft-optimization-overcoming-lag-and-low-frame-rates-in-the-new-year/"><u>Ultimate World of Warcraft Optimization: Overcoming Lag and Low Frame Rates in the New Year</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlock-better-connections-in-dating-the-power-of-chatgpt-revealed/"><u>Unlock Better Connections in Dating: The Power of ChatGPT Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/warframe-lag-problems-now-fixed-and-smooth-gaming-experience/"><u>Warframe Lag Problems - Now Fixed and Smooth Gaming Experience</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>[New] Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pioneering-techniques-for-popularizing-youtube-videos/"><u>[Updated] In 2024, Pioneering Techniques for Popularizing YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-pc-launch-fix-a-complete-guide-for-gamers/"><u>Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-the-wasteland-giants-a-comprehensive-guide-to-scavengers-on-pc/"><u>Defeating the Wasteland Giants: A Comprehensive Guide to Scavengers on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-total-war-warhammer-ii-from-freezing-and-crashing-effective-solutions-and-troubleshooting-tips/"><u>How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-the-boundaries-vr-film-production-essentials-top-9/"><u>In 2024, Breaking the Boundaries VR Film Production Essentials (Top 9)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/instant-solutions-to-fix-league-of-legends-crashes-get-back-in-action-now/"><u>Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/mastering-podcast-release-schedules/"><u>Mastering Podcast Release Schedules</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>New In 2024, The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/secure-methods-for-attaching-new-hard-drives-to-your-vmware-esxi-environment/"><u>Secure Methods for Attaching New Hard Drives to Your VMware ESXi Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
 </ul></div>
 

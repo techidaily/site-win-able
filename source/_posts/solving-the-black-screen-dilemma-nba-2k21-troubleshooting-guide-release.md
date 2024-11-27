@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2024-11-13T21:18:10.288Z
-updated: 2024-11-17T05:26:00.455Z
+date: 2024-11-21T17:43:20.319Z
+updated: 2024-11-26T19:59:45.681Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ Recommended
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue in Halo Infinite. To rule out the issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -76,9 +69,17 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -94,10 +95,7 @@ If the issue remains, check out the next fix.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -108,13 +106,6 @@ If the issue remains, check out the next fix.
 
 If the issue persists, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check for Windows updates
 
  Much like cell phone updates, Windows updates are intended to give you new functionality, security improvement and bug fixes, helping your device run smoothly and efficiently. If you can’t remember the last time you ran Windows Update, you should give it a try now. To do so:
@@ -122,6 +113,10 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
@@ -137,14 +132,15 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
-  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
@@ -167,37 +163,15 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
@@ -209,10 +183,7 @@ If the issue persists, take a look at the next fix.
  If the black screen issue still occurs after you disable all unnecessary services, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Halo Infinite
@@ -223,13 +194,6 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -257,20 +221,20 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/aker-milestones-subscriber-and-interactive-feature-prizes/"><u>[New] Maker Milestones Subscriber & Interactive Feature Prizes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-noiseless-speech-transcription-services-for-2024/"><u>[Updated] Noiseless Speech Transcription Services for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726027578294-3/"><u>【対談】最新版動画編集ツールで『無料』マーク除去方法3種類</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-spearheading-efficient-speech-recognition-on-google-platforms/"><u>2024 Approved Spearheading Efficient Speech Recognition on Google Platforms</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bluetooth-basics-for-new-iphones-users-a-comprehensive-guide/"><u>Bluetooth Basics for New iPhones Users - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/download-premium-blu-ray-films-for-free-step-by-step-guide-to-high-definition-content/"><u>Download Premium Blu-Ray Films for Free - Step by Step Guide to High Definition Content</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/error-webpage-unavailable-page-doesnt-exist/"><u>Error: Webpage Unavailable (Page Doesn't Exist)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-dead-by-daylight-latest-fixed-solutions/"><u>How To Resolve Constant Crashes in Dead By Daylight - Latest Fixed Solutions</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-xiaomi-13t-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Xiaomi 13T – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/noise-problem-in-evil-genius-2-here-are-proven-audio-troubleshooting-tips/"><u>Noise Problem in 'Evil Genius 2'? Here Are Proven Audio Troubleshooting Tips!</u></a></li>
-<li><a href="https://win-tips.techidaily.com/preserve-excellent-video-clarity-uploading-hd-footage-from-ios-device-directly-to-personal-laptop/"><u>Preserve Excellent Video Clarity: Uploading HD Footage From iOS Device Directly to Personal Laptop</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/repairing-an-inoperative-obs-video-feed-for-2024/"><u>Repairing an Inoperative OBS Video Feed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/sea-of-thieves-troubleshooting-fixes-for-game-crashes-and-errors/"><u>Sea of Thieves Troubleshooting: Fixes for Game Crashes and Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-how-to-address-game-security-threat-uncovered/"><u>Solution Steps: How to Address 'Game Security Threat Uncovered'</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-overcoming-the-elder-scrolls-online-initial-loading-problems/"><u>Success! Overcoming The Elder Scrolls Online Initial Loading Problems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premier-call-customization-and-editing-software/"><u>[New] 2024 Approved Premier Call Customization and Editing Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlock-youtubes-power-for-free-educational-sessions/"><u>[New] 2024 Approved Unlock YouTube's Power for FREE Educational Sessions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-secrets-for-skillful-extraction-of-superior-quality-videos/"><u>[Updated] Secrets for Skillful Extraction of Superior Quality Videos</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-haptic-feedback-in-e-commerce-trials/"><u>2024 Approved Haptic Feedback in E-Commerce Trials</u></a></li>
+<li><a href="https://win-able.techidaily.com/7-ways-to-fix-steam-black-screen-not-loading-2024/"><u>7 Ways to Fix Steam Black Screen/ Not Loading 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-dota-2s-latest-vac-error-effective-strategies-for-account-revival/"><u>Addressing Dota 2'S Latest VAC Error: Effective Strategies for Account Revival</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-groovy-gaming-troubleshoot-crashes-with-these-simple-steps/"><u>Alan Wake Groovy Gaming: Troubleshoot Crashes with These Simple Steps</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/guida-passo-passo-per-la-creazione-di-unimmagine-disco-con-windows-user/"><u>Guida Passo-Passo per La Creazione Di Un'Immagine Disco Con Windows [User]:</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-install-canon-mf743cdw-printer-software-on-your-windows-device/"><u>How to Install Canon MF743CDW Printer Software on Your Windows Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-vivo-t2-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Vivo T2 5G Lock Screen Password?</u></a></li>
+<li><a href="https://win-able.techidaily.com/insufficient-system-specs-detected-boosting-your-pc-for-smooth-vanguard-experience/"><u>Insufficient System Specs Detected - Boosting Your PC for Smooth Vanguard Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-release-hurdle-solving-your-football-manager-2022-access-challenges-easily/"><u>Overcome the Release Hurdle: Solving Your Football Manager 2022 Access Challenges Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connectivity-problems-for-a-smooth-gta-5-online-experience/"><u>Resolving Connectivity Problems for a Smooth GTA 5 Online Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-audio-issues-in-halo-infinite-gameplay/"><u>Troubleshooting Common Audio Issues in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-packed-review-testing-the-speeds-of-tp-link-archer-a6-ac1200-network-router/"><u>Value-Packed Review: Testing the Speeds of TP-Link Archer A6 AC1200 Network Router</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2024-11-13T05:13:04.592Z
-updated: 2024-11-17T05:32:31.833Z
+date: 2024-11-22T21:32:22.149Z
+updated: 2024-11-26T19:13:59.291Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -46,14 +50,15 @@ You can use these steps to scan and repair your game:
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this doesn’t help, check out the next fix below.
 
@@ -68,34 +73,13 @@ If this doesn’t help, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Mass Effect crashes again.
 
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable hardware monitors
 
@@ -113,13 +97,6 @@ Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -130,9 +107,17 @@ Here’s how to disable VSync with NVIDIA graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
 Now you can launch Mass Effect and check if it crashes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -165,20 +150,19 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-address-mobile-devices-stalled-fb-videos/"><u>[New] Address Mobile Devices Stalled FB Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-conversations-google-meet-essentials/"><u>[New] Mastering Conversations Google Meet Essentials</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-detailed-inspection-elite-edition-parrot-drone/"><u>[Updated] In 2024, Detailed Inspection Elite Edition Parrot Drone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-real-time-capture-simplified-a-deep-dive-into-vimeo-record-for-2024/"><u>[Updated] Real-Time Capture Simplified A Deep Dive Into Vimeo Record for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/darktable-a-cost-free-alternative-to-editing-high-quality-raw-photographs-on-your-apple-or-linux-machine/"><u>Darktable: A Cost-Free Alternative to Editing High-Quality RAW Photographs on Your Apple or Linux Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-guilty-gear-strive-crash-issues-on-the-windows-platform/"><u>Diagnosing & Repairing Guilty Gear Strive Crash Issues on the Windows Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-dayzs-performance-issues-fast-and-user-friendly-methods/"><u>Fixing DayZ's Performance Issues: Fast and User-Friendly Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-gta-v-crashes-a-comprehensive-guide/"><u>Fixing GTA V Crashes: A Comprehensive Guide</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Itel S23+? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-star-wars-battlefront-2-gaming-experience-by-cutting-down-pc-loading-delays/"><u>Improve Your Star Wars Battlefront 2 Gaming Experience by Cutting Down PC Loading Delays</u></a></li>
-<li><a href="https://win-able.techidaily.com/logitech-g403-driver-and-software-upgrade-for-pc-get-it-here/"><u>Logitech G403 Driver & Software Upgrade for PC – Get It Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-fix-ending-frontier-gaming-disruptions-on-your-personal-computer/"><u>Master the Fix: Ending 'Frontier' Gaming Disruptions on Your Personal Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-arma-3-essential-fixes-for-crash-free-gaming-in-the-enhanced-engine-update-e4/"><u>Mastering Arma 3: Essential Fixes for Crash-Free Gaming in the Enhanced Engine Update (E4)</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/the-ultimate-software-for-reviving-unavailable-disk-sectors-and-forgotten-drives/"><u>The Ultimate Software for Reviving Unavailable Disk Sectors & Forgotten Drives</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/uniform-visual-clarity-in-microsoft-teams-conferences-for-2024/"><u>Uniform Visual Clarity in Microsoft Teams Conferences for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-oral-explanitations-and-slides/"><u>[New] In 2024, Mastering the Art of Oral Explanitations & Slides</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-stutters-and-boosting-frames-in-dragons-dogma-n-second-edition/"><u>A Comprehensive Guide to Fixing Stutters and Boosting Frames in Dragon's Dogma N: Second Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite-for-2024/"><u>Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/enhance-video-quality-with-winxvideo-ais-advanced-frame-enrichment-technology/"><u>Enhance Video Quality with Winxvideo AI's Advanced Frame Enrichment Technology</u></a></li>
+<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Data Completely | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-city-builder-game-from-crashing-on-pc-tips-for-cities-skylines-pressures/"><u>How to Stop Your City Builder Game From Crashing on PC: Tips for Cities: Skylines Pressures</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-google-pixel-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Google Pixel 8 Pro Data? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astery-choosing-top-dj-videos-for-events/"><u>Mix Mastery Choosing Top DJ Videos for Events</u></a></li>
+<li><a href="https://win11.techidaily.com/reversing-windows-11-fs-errors-swiftly/"><u>Reversing Windows 11 FS Errors Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-fixing-finals-continuous-freezing-problems-on-desktops/"><u>The Definitive Guide to Fixing 'Finals' Continuous Freezing Problems on Desktops</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-tools-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Tools - Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/tricks-to-enhance-performance-and-minimize-delay-for-an-optimal-fall-guys-experience/"><u>Tricks to Enhance Performance & Minimize Delay for an Optimal Fall Guys Experience</u></a></li>
 </ul></div>
 

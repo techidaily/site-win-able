@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac"
-date: 2024-10-22T12:52:43.964Z
-updated: 2024-10-26T04:50:48.807Z
+date: 2024-11-21T18:57:25.237Z
+updated: 2024-11-26T21:11:23.046Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Many Origin users have recently experienced an error while trying to log in Orig
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,10 +41,7 @@ Many Origin users have recently experienced an error while trying to log in Orig
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Restart Origin completely
@@ -53,13 +54,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -68,21 +62,12 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
@@ -90,25 +75,31 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Click**OK** .
 
  Now the date and time on your computer is in sync with an Internet time server. Try logging in Origin and see if the error is gone. Hopefully it is. But if not, then try Fix 3, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your device drivers
 
@@ -129,6 +120,10 @@ or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -144,53 +139,27 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1899850">
-					<video width="486" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now restart your computer and check to see if this fixed your Origin error.
 
@@ -226,18 +195,15 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-fast-and-easy-filming-techniques-the-best-5-hacks-unveiled/"><u>[New] In 2024, Fast & Easy Filming Techniques – The Best 5 Hacks Unveiled</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-essential-history-series-youtube-recommendations-for-learners/"><u>[Updated] 2024 Approved Essential History Series YouTube Recommendations for Learners</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-easy-ways-to-merge-igtv-and-instagram-stories-for-2024/"><u>[Updated] Easy Ways to Merge IGTV & Instagram Stories for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-effective-strategies-for-announcing-your-first-phenomenal-giveaway/"><u>[Updated] In 2024, Effective Strategies for Announcing Your First Phenomenal Giveaway</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-essential-techniques-in-creating-youtube-thumbnails-that-stand-out/"><u>2024 Approved Essential Techniques in Creating YouTube Thumbnails That Stand Out</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/cookiebot-enabled-personalization-enhancing-user-experience-through-smart-tracking/"><u>Cookiebot-Enabled Personalization: Enhancing User Experience Through Smart Tracking</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-overcoming-the-crash-dilemma-of-thunder-tier-one-while-playing-on-your-desktop/"><u>Expert Guide to Overcoming the Crash Dilemma of Thunder TIER One While Playing on Your Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-installed-overcoming-blackwood-dlc-issues-in-the-elder-scrolls-online/"><u>Fixes Installed: Overcoming Blackwood DLC Issues in The Elder Scrolls Online</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-creation-on-windows-10-a-step-by-step-guide/"><u>In 2024, Mastering Video Creation on Windows 10 A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/leading-free-software-to-remove-unwanted-duplicates-from-your-pc-images-on-windows-111087/"><u>Leading Free Software to Remove Unwanted Duplicates From Your PC Images on Windows (11/10/8/7)</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-your-matches-the-definitive-guide-to-overcoming-fps-drops-in-valorant-tips-and-tricks/"><u>Maximize Your Matches: The Definitive Guide to Overcoming FPS Drops in Valorant - Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/nox-emulator-instability-on-desktops-identifying-and-fixing-persistent-issues/"><u>Nox Emulator Instability on Desktops: Identifying and Fixing Persistent Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-your-azeroth-struggles-fixing-issues-with-world-of-warcraft-not-starting/"><u>Overcome Your Azeroth Struggles: Fixing Issues with World of Warcraft Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-yakuza-like-a-dragon-crashing-on-pc/"><u>[SOLVED] Yakuza: Like a Dragon Crashing on PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-strategies-for-mastering-full-screen-editing-in-premiere/"><u>2024 Approved Cutting-Edge Strategies for Mastering Full Screen Editing in Premiere</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27e Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enrich-file-interaction-use-windows-11s-selection-boxes/"><u>Enrich File Interaction: Use Windows 11'S Selection Boxes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-z440-motherboard-and-graphics-cards-find-update-or-download-all-necessary-drivers/"><u>HP Z440 Motherboard & Graphics Cards: Find, Update or Download All Necessary Drivers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>In 2024, Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-playtime-effective-fixes-for-low-frames-per-second-fps-in-war-thunder-tips-for-gamers/"><u>Optimizing Playtime: Effective Fixes for Low Frames Per Second (FPS) in War Thunder - Tips for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-find-and-download-the-right-asus-wifi-networking-drivers/"><u>Quick Fix: How to Find & Download the Right ASUS WiFi Networking Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-log-in-troubles-heres-how-to-successfully-access-your-account/"><u>Steam Log-In Troubles? Here’s How to Successfully Access Your Account</u></a></li>
 </ul></div>
 

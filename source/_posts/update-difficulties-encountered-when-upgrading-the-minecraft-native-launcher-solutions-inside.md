@@ -1,7 +1,7 @@
 ---
 title: Update Difficulties Encountered When Upgrading the Minecraft Native Launcher - Solutions Inside!
-date: 2024-11-03T21:10:15.481Z
-updated: 2024-11-06T21:00:15.090Z
+date: 2024-11-20T23:57:53.493Z
+updated: 2024-11-26T23:38:46.772Z
 tags:
   - win11
   - win10
@@ -71,10 +71,7 @@ If the issue remains, try the next fix.
 3. Select the **Local files** tab then click the **Verify integrity of game files…** button.![](https://www.drivereasy.com/wp-content/uploads/2021/09/Microsoft-Flight-Simulator-Verify-integrity-of-game-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Steam will scan the installation and download missing files or remove outdated or corrupted files. This process may take several minutes.
@@ -88,19 +85,16 @@ If the issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/mfs-app-settings.jpg)
 3. On the page that opens, select**Repair** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-mfs.jpg)
 4. Windows will begin to scan and repair your game files.
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
 
 If this method doesn’t work for you, go ahead with the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -110,25 +104,15 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
 
@@ -183,8 +167,16 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 3. In the left panel, select**Windows Security** , then click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
@@ -201,13 +193,6 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
@@ -217,13 +202,6 @@ on Windows 11:
 6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Other antivirus programs
 
@@ -244,6 +222,10 @@ on Windows 11:
 
  If you still can’t get past the checking for updates screen, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Use a VPN
 
  If your connection is poor, you may experience the issue of Microsoft Flight Simulator being stuck on the checking for updates screen. To gain a better Internet connection, you can give a VPN a try.
@@ -259,10 +241,7 @@ Here are some gaming VPNs we recommend:
 If this method doesn’t solve your problem, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Do a clean install
@@ -275,6 +254,11 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -288,14 +272,15 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -325,20 +310,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-dodge-disruptive-fb-video-promotions/"><u>[New] Dodge Disruptive FB Video Promotions</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevate-your-youtube-presentations-with-imovie-editing-skills/"><u>[New] In 2024, Elevate Your YouTube Presentations with iMovie Editing Skills</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-frames-per-second-fps-and-solve-stuttering-issues-in-valorant-a-comprehensive-guide/"><u>Boost Your Frames per Second (FPS) & Solve Stuttering Issues in Valorant: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/copernics-innovative-downloader-a-game-changer-for-savvy-data-organisation-and-access/"><u>Copernic's Innovative Downloader: A Game-Changer for Savvy Data Organisation and Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-outlooks-failed-search-with-copernic-the-ultimate-alternative/"><u>Fix Outlook's Failed Search with Copernic: The Ultimate Alternative</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-6-plus-and-ipad-securely-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 6 Plus and iPad Securely</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Google Pixel 8 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-copernic-tips-and-tricks-for-ultimate-customization-and-peak-performance/"><u>Mastering Copernic: Tips and Tricks for Ultimate Customization & Peak Performance</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/maximize-results-with-gpt-top-7-methods-to-boost-workday-prod/"><u>Maximize Results with GPT: Top 7 Methods to Boost Workday Prod</u></a></li>
-<li><a href="https://win-able.techidaily.com/streamline-your-illustrator-searches-with-powerful-tips-from-copernic-expertise/"><u>Streamline Your Illustrator Searches with Powerful Tips From Copernic Expertise</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-4-idevices-on-your-pause-list-what-not-to-buy-at-moment-according-to-zdnet/"><u>Top 4 iDevices on Your Pause List: What Not to Buy at Moment, According to ZDNet</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/-free-youtube-video-editor-apps-for-apple-users/"><u>Top 5 Free YouTube Video Editor Apps for Apple Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/updating-your-current-copernic-membership-a-step-by-step-guide/"><u>Updating Your Current Copernic Membership: A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-vision-to-visual-impact-youtube-trailers-via-filmora/"><u>[New] From Vision to Visual Impact YouTube Trailers via Filmora</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-high-flying-brain-games-top-11-knowledge-channels/"><u>[New] High-Flying Brain Games Top 11 Knowledge Channels</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>[New] The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-the-quick-fix-efficient-use-of-the-eraser-in-psx/"><u>[Updated] 2024 Approved The Quick Fix Efficient Use of the Eraser in PSX</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-eliminates-screen-freeze-problems-for-players/"><u>Cyberpunk 2077 Update Eliminates Screen Freeze Problems for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-unlocking-all-levels-in-mass-effect-trilogy-fps-enhancements/"><u>Fixes Implemented: Unlocking All Levels in Mass Effect Trilogy - FPS Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-disconnection-errors-in-fallout-76-on-pc-essential-tips-and-tricks/"><u>Fixing Disconnection Errors in Fallout 76 on PC - Essential Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-grand-theft-auto-5s-errgfxd3dinit-graphics-issue-easily/"><u>Fixing Grand Theft Auto 5'S ERR_GFX_D3D_INIT Graphics Issue Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m14-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M14 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-slide-share-experience-with-webcam/"><u>In 2024, Streamline Your Slide Share Experience with Webcam</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/latest-release-magicard-rio-pro-driver-game-enthusiasts-available-for-win-10817-users/"><u>Latest Release: Magicard Rio Pro Driver Game Enthusiasts! Available for Win 10/8.1/7 Users</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-next-level-gaming-with-microsofts-upscaler-and-the-latest-copilot-pc-innovations/"><u>Unlocking Next-Level Gaming with Microsoft's Upscaler and the Latest CoPilot PC Innovations</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-optimal-phone-integration-in-windows-11-innovations/"><u>Unlocking Optimal Phone Integration in Windows 11 Innovations</u></a></li>
 </ul></div>
 

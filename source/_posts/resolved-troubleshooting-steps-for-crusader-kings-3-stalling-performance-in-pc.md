@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-11-06T00:40:00.758Z
-updated: 2024-11-06T20:14:12.346Z
+date: 2024-11-19T18:20:52.137Z
+updated: 2024-11-27T00:58:22.998Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Necromunda: Hired Gun
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## The system requirements of Necromunda: Hired Gun
 
@@ -69,6 +73,10 @@ Necromunda: Hired Gun
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It may take some time to complete the verifying process.
 
 **For Epic Games Launcher users:**
@@ -78,10 +86,7 @@ It may take some time to complete the verifying process.
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -115,13 +120,6 @@ It may take some time to complete the verifying process.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  Streum On Studio (the developers of Necromunda: Hired Gun) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -131,10 +129,7 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
@@ -147,25 +142,15 @@ It may take some time to complete the verifying process.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
@@ -203,14 +188,22 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-smart-image-sharing-on-instagram/"><u>[Updated] Smart Image Sharing on Instagram</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/best-electronics-discounts-on-2024s-exclusive-amazon-prime-day-event/"><u>Best Electronics Discounts on 2024'S Exclusive Amazon Prime Day Event</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-winword-application-errors-instantly-top-5-tips/"><u>Fix Your WINWORD Application Errors Instantly: Top 5 Tips</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Xiaomi Phone Without Password?</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pro-animation-software-the-ultimate-guide-to-mac-and-windows-tools/"><u>Pro Animation Software The Ultimate Guide to Mac and Windows Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-programming-overcoming-deadlock-and-fixed-issues/"><u>Rust Programming: Overcoming Deadlock and Fixed Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-end-of-cycle-system-crashes-on-pcs-latest-techniques/"><u>Step-by-Step Troubleshooting for End of Cycle System Crashes on PCs - Latest Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-nioh-nendos-stability-issues-in-the-complete-edition/"><u>The Definitive Fix for Nioh Nendo's Stability Issues in the Complete Edition</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-qualitysnap-video-reporter-checkup/"><u>[New] In 2024, QualitySnap Video Reporter Checkup</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-gif-recorder-mac/"><u>[New] In 2024, Top 10 Gif Recorder Mac</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-merge-music-and-graphics-in-ppt/"><u>2024 Approved Merge Music and Graphics in PPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/all-set-for-action-the-official-launch-of-it-takes-two/"><u>All Set for Action! The Official Launch of 'It Takes Two'</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-pc-boot-glitches-effective-strategies-for-fixing-saints-row-start-up-failures/"><u>Beat PC Boot Glitches: Effective Strategies for Fixing Saints Row Start-Up Failures</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Narzo N53 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-improving-your-minecraft-experience-on-desktops-tips-and-tricks-2023-update/"><u>Cutting Edge Fixes for Improving Your Minecraft Experience on Desktops (Tips & Tricks) - 2023 Update</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-most-enjoyable-free-movies-streaming-on-youtube-this-july-2nd4/"><u>Discover the Most Enjoyable Free Movies Streaming on YouTube This July 2nD4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhance-your-reading-list-with-smart-choices-from-our-top-picks-of-ai-book-recommender-tools/"><u>Enhance Your Reading List with Smart Choices From Our Top Picks of AI Book Recommender Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-guides-resolving-arma-3-software-errors-2024-edition/"><u>Fixes and Guides: Resolving Arma 3 Software Errors, 2024 Edition</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-control-on-your-windows-11-system/"><u>How To Restore Brightness Control on Your Windows 11 System</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterclass-diagnosing-and-fixing-stability-problems-with-mount-and-blade-2-bannerlord/"><u>Masterclass: Diagnosing and Fixing Stability Problems with Mount & Blade 2 - Bannerlord</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/mastering-dvd-rip-configuration-top-notch-handbrake-settings-update/"><u>Mastering DVD Rip Configuration: Top-Notch HandBrake Settings Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launching-problems-in-rainbow-six-siege-fixed/"><u>Overcoming Launching Problems in Rainbow Six Siege – Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-top-6-troubleshooting-tips-when-your-steam-vr-isnt-showing-up/"><u>Solving the Mystery: Top 6 Troubleshooting Tips When Your Steam VR Isn't Showing Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-mystery-understanding-beyond-the-wire-and-its-aftermath/"><u>Unlock the Mystery: Understanding 'Beyond The Wire' And Its Aftermath</u></a></li>
 </ul></div>
 

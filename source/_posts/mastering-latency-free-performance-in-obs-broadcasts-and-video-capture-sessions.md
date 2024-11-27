@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2024-11-16T01:48:24.882Z
-updated: 2024-11-17T00:39:44.503Z
+date: 2024-11-25T21:23:06.353Z
+updated: 2024-11-26T17:30:23.090Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -54,13 +51,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  When you’re sure that your machine meets (or better,**way above** ) the minimum system requirements to run the games, but you’re still experiencing FPS dopping problems, please move on to the other fixes below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Make sure your computer is not overheating
 
@@ -81,6 +71,10 @@ To do so:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each resource-hogging application and click **End Task** to close them one by one.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
@@ -105,6 +99,10 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -114,24 +112,10 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
 
@@ -141,31 +125,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
@@ -176,9 +143,17 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Update graphics card and network card drivers
 
@@ -216,6 +191,10 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -225,6 +204,10 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -236,15 +219,12 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -275,24 +255,20 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/updated-expert-tips-to-triumph-in-spotifys-ad-marketplace/"><u>[Updated] Expert Tips to Triumph in Spotify's Ad Marketplace</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-iconic-iphone-meme-creations/"><u>[Updated] Iconic iPhone Meme Creations</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-keywords-in-the-world-of-selling-monetized-youtube-channels/"><u>[Updated] Keywords in the World of Selling Monetized Youtube Channels</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-prime-list-top-rated-camcorders-reviewed/"><u>[Updated] The Prime List Top-Rated Camcorders Reviewed</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006420059-age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/calcineurin-inhibitors-are-an-experimental-option-for-treatment-resistant-lupus-nephritis-and-should-be-considered-based-on-clinical-evidence/"><u>Calcineurin Inhibitors Are an Experimental Option for Treatment-Resistant Lupus Nephritis and Should Be Considered Based on Clinical Evidence.</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-problems-and-solutions-when-fifa-21-refuses-to-start/"><u>Common Problems & Solutions When FIFA 21 Refuses to Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722990797887-epic-games-launcher-wont-load-swift-and-simple-repair-methods/"><u>Epic Games Launcher Won't Load? Swift & Simple Repair Methods!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-top-7-substitutes-for-chatgpt-in-coding-software-automation/"><u>Exploring the Top 7 Substitutes for ChatGPT in Coding Software Automation</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-unresponsive-load-screen-in-fortnite-a-comprehensive-guide/"><u>Fixing the Unresponsive Load Screen in Fortnite: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-instantly-create-a-custom-youtube-feed-via-your-smartphone/"><u>In 2024, Instantly Create a Custom YouTube Feed via Your Smartphone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/next-level-gaming-unveiling-microsofts-acquisition-of-blizzards-creative-vision-exclusive-interview/"><u>Next Level Gaming: Unveiling Microsoft's Acquisition of Blizzard's Creative Vision [Exclusive Interview]</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-interruptions-repair-techniques-for-a-smoothly-running-ps4-the-complete-tutorial/"><u>No More Interruptions: Repair Techniques for a Smoothly Running PS4 – The Complete Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-loading-screen-issues-in-call-of-duty-cold-war-solutions-for-playstation-and-xbox-owners/"><u>Overcoming Loading Screen Issues in Call of Duty: Cold War - Solutions for PlayStation & Xbox Owners</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010633866-shadowplay-not-capturing-gameplay-solve-the-issue-on-windows-now/"><u>ShadowPlay Not Capturing Gameplay? Solve the Issue on Windows Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-out-your-fortnite-gameplay-tips-for-eliminating-pc-stutters-and-lags/"><u>Smooth Out Your Fortnite Gameplay: Tips for Eliminating PC Stutters and Lags</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-infinix-zero-30-5g-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Infinix Zero 30 5G with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-resolving-the-dark-hole-in-call-of-duty-warzone-expert-advice-for-2er4-players/"><u>Step-by-Step Solutions: Resolving the Dark Hole in Call of Duty Warzone – Expert Advice for 2Er4 Players</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/gsm-mp3/"><u>가상 공간에서 원조 없이 GSM 파일을 MP3로 전환: 스타트리 가이드</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/rofiling-excellence-a-guide-to-refined-youtube-summaries-for-2024/"><u>[New] Profiling Excellence A Guide to Refined YouTube Summaries for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-streamlined-techniques-to-capture-webinars-efficiently-windows-mac-for-2024/"><u>[New] Streamlined Techniques to Capture Webinars Efficiently (Windows, Mac) for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-decoding-the-payment-structure-on-youtube/"><u>[Updated] Decoding the Payment Structure on YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-x-marked-moments-in-the-22-snowboard-games/"><u>[Updated] In 2024, X-Marked Moments in the '22 Snowboard Games</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/easy-to-download-epson-wf-2630-printer-driver-for-microsoft-windows-update-now/"><u>Easy to Download Epson WF-2630 Printer Driver for Microsoft Windows - Update Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-frame-drops-and-visual-hitches-in-warzone/"><u>How to Eliminate Frame Drops and Visual Hitches in Warzone</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-fix-disabled-lock-screen-pause-timer/"><u>How to Fix Disabled Lock Screen Pause Timer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-edge-stability-issues-in-windows-10/"><u>How to Fix Microsoft Edge Stability Issues in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-stutter-and-freezes-in-no-rest-for-the-wicked-a-step-by-step-approach/"><u>How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-meizu-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Meizu Phone that is Locked?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-patch-ensuring-seamless-wow-playtime-on-pcs/"><u>Mastering the Patch: Ensuring Seamless WoW Playtime on PCs</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-feature-alert-apples-pay-later-option-arrives-consider-alternatives-carefully/"><u>New Feature Alert: Apple's 'Pay Later' Option Arrives – Consider Alternatives Carefully</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-games-effective-ways-to-address-and-prevent-frames-per-second-dips-on-pc/"><u>Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-update-your-minecraft-graphics-driver-to-resolve-outdated-notifications/"><u>Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-addressing-and-repairing-acrocefexe-error-messages/"><u>The Ultimate Guide: Addressing and Repairing acroCEF.exe Error Messages</u></a></li>
 </ul></div>
 

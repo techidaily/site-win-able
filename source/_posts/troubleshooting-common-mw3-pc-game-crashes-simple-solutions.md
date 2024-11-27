@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common MW3 PC Game Crashes: Simple Solutions"
-date: 2024-11-12T18:33:43.492Z
-updated: 2024-11-17T05:18:40.187Z
+date: 2024-11-25T16:09:20.248Z
+updated: 2024-11-27T00:28:52.768Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,21 +58,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
@@ -82,41 +81,16 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -133,13 +107,6 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
@@ -188,22 +155,24 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-hot.techidaily.com/1728491830877-usb/"><u>修好后，此电脑上无法使用的USB设备现在可连接</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-guide-restoring-spatial-sound-features-on-pc-win-10-and-11-edition/"><u>A Guide: Restoring Spatial Sound Features on PC - Win 10 and 11 Edition</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/boost-printing-speed-instantly/"><u>Boost Printing Speed Instantly</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/digiarty-software-official-winx-dvd-support-site/"><u>Digiarty Software Official WinX DVD Support Site</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/effortless-offline-watching-how-to-convert-and-download-vgtv-videos-in-mp4-format-for-windows-and-macos-users/"><u>Effortless Offline Watching: How to Convert & Download VGTV Videos in MP4 Format for Windows and macOS Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-dying-light-2-gaming-resolve-frame-rate-drops-stop-the-stutters/"><u>Enhance Your Dying Light 2 Gaming: Resolve Frame Rate Drops, Stop the Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-slow-loading-on-steam-for-smoother-gaming-experience/"><u>Fixing Slow Loading on Steam for Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2020-stability-fix-overcoming-the-infamous-game-crashes/"><u>Football Manager 2020 Stability Fix: Overcoming the Infamous Game Crashes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/gmail-sync-errors-demystified-a-comprehensive-troubleshooting-guide/"><u>Gmail Sync Errors Demystified: A Comprehensive Troubleshooting Guide</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-cast-nokia-c110-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Nokia C110 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-photo-editing-advanced-3d-lut-techniques-in-ps-for-2024/"><u>Mastering Photo Editing Advanced 3D LUT Techniques in PS for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-not-loading-problems-in-the-elder-scrolls-online-adventure/"><u>Overcoming 'Not Loading' Problems in The Elder Scrolls Online Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-dead-by-daylight-disruptions-a-guide-to-seamless-gaming-performance/"><u>Say Goodbye to 'Dead by Daylight' Disruptions : A Guide to Seamless Gaming Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013052553-troubleshoot-the-notorious-mw-series-bug-6068-for-gaming-victory-pro-tips-revealed/"><u>Troubleshoot the Notorious MW Series Bug 6068 for Gaming Victory - Pro Tips Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-persistent-crashes-of-sovled-warno-game-on-your-computer/"><u>Ultimate Solution: Resolving Persistent Crashes of [SOVLED] Warno Game on Your Computer</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/understanding-vmm-a-guide-on-what-it-is-and-instructions-for-installing-its-control-panel/"><u>Understanding VMM: A Guide on What It Is and Instructions for Installing Its Control Panel</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unpacking-the-battle-of-wits-10-crucial-distinctions-between-bing-and-chatgpts-ai-powers/"><u>Unpacking the Battle of Wits - 10 Crucial Distinctions Between Bing and ChatGPT’s AI Powers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-from-daydream-to-reality-a-short-vr-history/"><u>[Updated] 2024 Approved From Daydream to Reality A Short VR History</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-achieve-clean-canvases-the-picart-backdrop-removal-art/"><u>[Updated] Achieve Clean Canvases The PicArt Backdrop Removal Art</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-sociostreamer-convert-to-webmmp4/"><u>[Updated] SocioStreamer Convert to WebM/MP4</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-boost-your-fb-campaigns-the-critical-3-part-writing-strategy/"><u>2024 Approved Boost Your FB Campaigns The Critical 3-Part Writing Strategy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-gaming-streams-best-recording-programs/"><u>2024 Approved Gaming Streams Best Recording Programs</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-mastering-the-art-of-discerning-true-from-false-insta-pals/"><u>2024 Approved Mastering the Art of Discerning True From False Insta Pals</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-premiere-pro-stabilization-techniques-for-windows-10-and-11-users-facing-crashes/"><u>Adobe Premiere Pro Stabilization Techniques for Windows 10 & 11 Users Facing Crashes</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/celebrating-achievements-our-support-centers-245-success/"><u>Celebrating Achievements - Our Support Center's 245% Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-ii-game-crash-issue-resolved-enhancing-your-gaming-experience/"><u>Chivalry II Game-Crash Issue Resolved: Enhancing Your Gaming Experience</u></a></li>
+<li><a href="https://driver-download.techidaily.com/compatible-driver-pack-for-enhanced-graphics-performance-msi-b350s-tomahawk-edition-with-support-on-win11-and-win7/"><u>Compatible Driver Pack for Enhanced Graphics Performance: MSI B350's Tomahawk Edition with Support on Win11 & Win7</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-to-open-nvidia-control-panel-without-errors/"><u>Comprehensive Troubleshooting Tips to Open NVIDIA Control Panel Without Errors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-stellar-youtube-thumbnails-with-these-8-software-alternatives/"><u>Craft Stellar YouTube Thumbnails with These 8 Software Alternatives</u></a></li>
+<li><a href="https://win-able.techidaily.com/doom-eternal-gameplay-disruptions-how-to-make-them-history/"><u>DOOM Eternal Gameplay Disruptions: How To Make Them History</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015712460-fast-solutions-revive-your-oculus-rift-s-headsets-microphone-in-minutes/"><u>Fast Solutions: Revive Your Oculus Rift S Headset's Microphone in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-and-windows-11-compatibility-solving-the-crash-problem/"><u>MapleStory and Windows 11 Compatibility: Solving the Crash Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fix-guide-resolving-error-0xc19001e1-in-windows-10-easily/"><u>Quick Fix Guide: Resolving Error 0xC19001E1 in Windows 10 Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-fix-how-i-solved-game-freezing-problems/"><u>Rocket League Fix - How I Solved Game Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-hello-to-smooth-gaming-in-world-of-warcraft-fixing-the-flicker-issue/"><u>Say Hello to Smooth Gaming in World of Warcraft - Fixing the Flicker Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-frame-rate-problems-in-resident-evil-village-on-your-computer/"><u>Troubleshooting & Solving Frame Rate Problems in Resident Evil Village on Your Computer</u></a></li>
 </ul></div>
 

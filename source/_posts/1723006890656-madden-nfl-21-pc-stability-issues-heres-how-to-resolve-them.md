@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-11-10T06:01:13.561Z
-updated: 2024-11-17T04:16:16.256Z
+date: 2024-11-21T19:30:12.298Z
+updated: 2024-11-26T17:40:32.975Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that scores.
@@ -44,13 +48,6 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-1.jpg)
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
 Once done, launch Madden 21 and check if it crashes again.
@@ -58,16 +55,7 @@ Once done, launch Madden 21 and check if it crashes again.
 If the fix doesn’t stop the crash, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -91,10 +79,7 @@ If the fix doesn’t stop the crash, you can try the next one below.
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -106,10 +91,7 @@ To minimize conflicts, you also need to install all the system patches:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -126,6 +108,10 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 
@@ -133,10 +119,7 @@ To minimize conflicts, you also need to install all the system patches:
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
@@ -177,22 +160,17 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-10-indispensable-fcp-enhancing-plugins-for-2024/"><u>[New] 10 Indispensable FCP-Enhancing Plugins for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fortnite-login-failed-quickly-and-easily/"><u>[SOLVED] | Fortnite Login Failed | Quickly & Easily!</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-a-comprehensive-look-at-yis-4k-action-capabilities/"><u>[Updated] 2024 Approved A Comprehensive Look at Yi's 4K Action Capabilities</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-insider-tips-the-best-5-cameras-for-extended-zoom/"><u>[Updated] Insider Tips The Best 5 Cameras for Extended Zoom</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-tailoring-your-linkedin-url/"><u>2024 Approved Tailoring Your LinkedIn URL</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/clarity-crusade-enhancing-video-in-zoom-meetings/"><u>Clarity Crusade Enhancing Video in Zoom Meetings</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-monster-mishaps-solutions-for-the-resident-evil-village-black-screen-problem-on-computers/"><u>Clearing Up Monster Mishaps: Solutions for the Resident Evil Village Black Screen Problem on Computers</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehending-quadcopters-how-they-soar-and-operate/"><u>Comprehending Quadcopters How They Soar and Operate</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-driver-update-mastering-the-portable-app-for-windows-and-macos/"><u>Effortless Driver Update: Mastering the Portable App for Windows and MacOS</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-of-troubles-how-to-stop-diablo-3-from-crashing-completely/"><u>End of Troubles? How to Stop Diablo 3 From Crashing Completely</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-to-stop-starcraft-2-from-hanging-or-crashing-on-your-computer/"><u>Expert Advice to Stop Starcraft 2 From Hanging or Crashing on Your Computer</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/exploring-the-value-of-cytrons-uno-rp2040-board-for-cost-conscious-makers/"><u>Exploring the Value of Cytron's Uno RP2040 Board for Cost-Conscious Makers</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fixing-continuous-crashes-of-total-war-warhammer-iii-on-desktop-computers/"><u>Guide to Fixing Continuous Crashes of Total War: Warhammer III on Desktop Computers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-14-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 14 Pro Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/optimal-video-player-best-availability-on-multiple-systems-for-2024/"><u>Optimal Video Player Best Availability on Multiple Systems for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-visibility-glitches-in-rust-programming-for-smooth-performance/"><u>Solving Visibility Glitches in Rust Programming for Smooth Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998314450-troubleshooting-tips-eliminate-the-black-screen-error-on-your-epic-games-launcher-today/"><u>Troubleshooting Tips: Eliminate the Black Screen Error on Your Epic Games Launcher Today!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-bounty-understanding-screen-clarity-in-digital-media/"><u>[Updated] Beginner's Bounty Understanding Screen Clarity in Digital Media</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>[Updated] In 2024, The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>2024 Approved Procedure for Removing Stashed Videos From Watch Later</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-fix-why-isnt-shadowplay-recording-in-windows-and-how-to-make-it-work/"><u>Complete Fix: Why Isn't Shadowplay Recording in Windows and How to Make It Work?</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/essential-video-grabbers-for-windows-10-users/"><u>Essential Video Grabbers for Windows 10 Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-itel-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Itel Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-mastering-the-mix-of-sound-and-slides-in-powerpoint-presentations/"><u>In 2024, Mastering the Mix of Sound and Slides in PowerPoint Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-modern-warfare-the-new-era-of-first-person-shooting-in-counter-strike-global-offensive/"><u>Mastering Modern Warfare: The New Era of First-Person Shooting in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-recording-macs-roblox-sessions/"><u>Mastering the Art of Recording Mac's Roblox Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-gameplay-fluidity-2024-expert-fixes-for-frequent-fps-drops-in-valorant/"><u>Maximize Gameplay Fluidity: 2024 Expert Fixes for Frequent FPS Drops in Valorant</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-getting-gta-v-to-open-correctly/"><u>Overcoming the Challenge: Getting GTA V to Open Correctly</u></a></li>
 </ul></div>
 

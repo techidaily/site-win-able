@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Restoring MSI Mystic Light Capabilities in Windows Environment"
-date: 2024-10-22T10:19:16.352Z
-updated: 2024-10-26T14:41:07.561Z
+date: 2024-11-21T18:26:37.364Z
+updated: 2024-11-26T16:13:55.252Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Delete the cache files of Origin**
 
  This issue may be caused by the cache files of Origin. Try deleting the cache files to see if you can fix this issue. Here’s how to do it:
@@ -49,13 +53,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -69,13 +66,6 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
@@ -88,23 +78,9 @@ thumbnail: https://thmb.techidaily.com/ee5c0d7e477d155cf7c4d7a41bb4baf523bd4dd37
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
@@ -148,14 +124,15 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
@@ -165,13 +142,6 @@ Or
  1) Right-click the shortcut to Origin on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
@@ -197,13 +167,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -215,6 +178,10 @@ Or
  If this fix still doesn’t work for you, try the next fix below to perform a clean boot.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Perform a clean boot**
 
@@ -232,30 +199,39 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -268,6 +244,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your PC when the Windows update process completed.
 
@@ -295,6 +275,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iv. Restart your Windows system when it is completed.
 
  2) **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.
@@ -321,21 +305,20 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-game-capture-without-xboxs-intrusive-game-bar/"><u>[New] In 2024, Game Capture without Xbox’s Intrusive Game Bar</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-ultimate-camera-review-can-gopros-hero-beat-sonys-dslr-action-for-2024/"><u>[New] Ultimate Camera Review Can GoPro's Hero Beat Sony's DSLR Action for 2024</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-max-randomly-asking-for-apple-id-password-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Max Randomly Asking for Apple ID Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-tricks-overcoming-doom-eternal-initial-launch-issues/"><u>DIY Tricks: Overcoming DOOM Eternal Initial Launch Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-recurring-crashes-of-ghostwire-tokyo-in-windows-gaming/"><u>Effective Solutions for Recurring Crashes of Ghostwire: Tokyo in Windows Gaming</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/facing-difficulties-in-turning-books-into-ebooks-discover-how-to-overcome-common-ebook-conversion-challenges/"><u>Facing Difficulties in Turning Books Into eBooks? Discover How to Overcome Common EBook Conversion Challenges!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/google-nest-audio-and-nest-mini-showdown-features-compared/"><u>Google Nest Audio and Nest Mini Showdown: Features Compared</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-freezing-issues-in-thunder-tier-one-pc-version/"><u>How to Fix Persistent Freezing Issues in Thunder Tier One PC Version</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-audiovisual-rhythm-optimal-dj-content-for-gatherings/"><u>In 2024, Audiovisual Rhythm Optimal DJ Content for Gatherings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-persistent-genshin-impact-crashes-for-a-seamless-pc-gaming-experience/"><u>Resolve Persistent Genshin Impact Crashes for a Seamless PC Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guidelines-for-webpage-not-displayed-in-ie-browser/"><u>Solution Guidelines for 'Webpage Not Displayed' In IE Browser</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-problem-with-armored-core-vi-fires-of-rubicon-non-responsive-game-issue-fixes/"><u>Solving the Problem with Armored Core VI: Fires of Rubicon - Non-Responsive Game Issue Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/streamlining-your-workflow-automate-design-and-writing-with-canva-and-chatgpt/"><u>Streamlining Your Workflow: Automate Design & Writing with Canva & ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/tribes-of-midgard-crash-fix-a-comprehensive-guide-to-smooth-gaming/"><u>Tribes of Midgard Crash Fix - A Comprehensive Guide to Smooth Gaming</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/understanding-file-management-and-organization-techniques/"><u>Understanding File Management & Organization Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-capturing-instantly-with-iphone-timelapse-techniques/"><u>[New] Capturing Instantly with iPhone Timelapse Techniques</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-time-warp-with-snapchat-reversing-videos-simplified/"><u>[Updated] Time Warp with Snapchat Reversing Videos Simplified</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1726030244750-3/"><u>「人気の3つのビデオ編集ソフトウェア！日本語で簡単にビデオコラージュ作成」</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-enhance-your-videography-youtube-studio-edition-techniques/"><u>2024 Approved Enhance Your Videography YouTube Studio Edition Techniques</u></a></li>
+<li><a href="https://android-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-g22-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia G22</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-wwii-troubleshooting-for-persistent-black-screen-issues-in-windows-environments/"><u>COD: WWII Troubleshooting for Persistent Black Screen Issues in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-and-unexpected-quits-during-your-serious-sam-grope-on-pc-a-comprehensive-fix-guide/"><u>Eliminating Stuttering & Unexpected Quits During Your Serious Sam Grope on PC – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exclusive-info-alert-discover-psvr2-release-timeline-pricing-structure-and-advanced-hardware-details/"><u>Exclusive Info Alert: Discover PSVR2 Release Timeline, Pricing Structure and Advanced Hardware Details</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-black-display-glitches-in-far-cry-6/"><u>Expert Guide: Overcoming Black Display Glitches in Far Cry 6</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-cod-black-ops-cold-war-now-functional-on-windows/"><u>Fixes Implemented: Cod: Black Ops Cold War Now Functional on Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Zero 5G 2023 Turbo? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/make-waves-in-youtube-essential-mobile-based-production-tips-for-2024/"><u>Make Waves in YouTube Essential Mobile-Based Production Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-stop-the-division-2-from-crashing-effectively/"><u>Quick Solutions to Stop The Division 2 From Crashing Effectively</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/step-up-your-content-game-top-30-video-plans-for-2024/"><u>Step Up Your Content Game Top 30 Video Plans for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-utorrents-downloading-efficiency/"><u>Troubleshooting and Enhancing uTorrent's Downloading Efficiency</u></a></li>
 </ul></div>
 

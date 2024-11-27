@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Obstacles in Tarkov: Mastering the Fix for Error 103 Grok003"
-date: 2024-11-03T19:40:47.344Z
-updated: 2024-11-06T18:52:54.241Z
+date: 2024-11-20T20:13:39.547Z
+updated: 2024-11-26T23:21:26.243Z
 tags:
   - win11
   - win10
@@ -78,13 +78,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -113,13 +106,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-375.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Wait for Steam to fix any damaged or missing files automatically.
 
  Relaunch your game after the scans. If you still get the error code, don’t fret. There are still 3 more fixes to try.
@@ -140,16 +126,13 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select **Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click **OK** .
 
@@ -158,6 +141,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 **6)** Click **DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click **OK.**
 
@@ -197,16 +184,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -219,6 +203,10 @@ OR
 **1)** Right-click your Steam icon and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
@@ -240,15 +228,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall your Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -299,16 +288,13 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **System** .
 
@@ -340,16 +326,13 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Select**Reset and keep my games & apps** .
 
@@ -365,9 +348,17 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Select**My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Press the**A button** on your controller.
 
@@ -454,19 +445,6 @@ Hope one of the fixes above worked for you.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -503,20 +481,18 @@ Hope one of the fixes above worked for you.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-converting-your-clips-upload-to-youtube-via-premiere-for-2024/"><u>[New] Converting Your Clips Upload to YouTube Via Premiere for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-jokesinframe-instant-memes-and-more/"><u>[Updated] JokesInFrame Instant Memes & More</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-inspiration-unleashed-list-of-10-motivating-flicks/"><u>2024 Approved Inspiration Unleashed List of 10 Motivating Flicks</u></a></li>
-<li><a href="https://win-able.techidaily.com/bioshock-2-ultimate-hd-revisit-updated-fixes-and-enhancements/"><u>BioShock 2: Ultimate HD Revisit - Updated Fixes and Enhancements</u></a></li>
-<li><a href="https://media-tips.techidaily.com/fixing-media-player-classic-issues-on-windows-11-dvds-mkv-files-troubleshooting/"><u>Fixing Media Player Classic Issues on Windows 11 - DVDs, MKV Files Troubleshooting</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-the-best-performance-out-of-your-intel-hardware-driver-update-guide/"><u>Getting the Best Performance Out of Your Intel Hardware - Driver Update Guide</u></a></li>
-<li><a href="https://win-hot.techidaily.com/hddssd-clonezilla/"><u>HDDからSSDへのデータ移行: Clonezillaでの効率的なクローニング手順</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995895588-how-to-get-around-football-manager-2022-launch-hurdles-expert-advice-inside/"><u>How To Get Around Football Manager 2022 Launch Hurdles - Expert Advice Inside</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-gt-neo-5-se-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme GT Neo 5 SE to iPad | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-lead-the-likes-the-best-social-app-list-on-androidiphone/"><u>In 2024, Lead the Likes The Best Social App List on Android/iPhone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-review-of-the-rotibox-bluetooth-hat-ultimate-comfort-meets-high-quality-audio-performance/"><u>In-Depth Review of the Rotibox Bluetooth Hat: Ultimate Comfort Meets High-Quality Audio Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-freezing-problems-in-minecraft-on-desktop-updated-solutions/"><u>Overcome Freezing Problems in Minecraft on Desktop: Updated Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/practice-good-hygiene-urinate-frequently-especially-after-sexual-activity-to-help-flush-out-bacteria-from-your-urinary-tract-wipe-from-front-to-back-when-us551/"><u>Practice Good Hygiene: Urinate Frequently, Especially After Sexual Activity, to Help Flush Out Bacteria From Your Urinary Tract. Wipe From Front to Back when Using the Restroom, Which Can Help Prevent Bacteria From Spreading From the Anus to the Urethra.</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fixing-pc-issues-preventing-fallout-4-from-crashing/"><u>Solved: Fixing PC Issues - Preventing Fallout 4 From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-v-rising-from-frequent-pc-shutdowns/"><u>Troubleshooting Steps to Stop V-Rising From Frequent PC Shutdowns</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-cinema-grade-color-grading-via-look-up-table-utilization/"><u>[New] 2024 Approved Cinema-Grade Color Grading via Look-Up Table Utilization</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-selecting-optimal-frame-rate-30fps-vs-60fps-for-quality-recording/"><u>[New] Selecting Optimal Frame Rate 30Fps Vs. 60Fps for Quality Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-best-ringtones-roundup-essential-sites/"><u>[Updated] 2024 Approved Best Ringtones Roundup Essential Sites</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-setting-up-your-vlog-fb-preferred-dimensions/"><u>[Updated] Setting Up Your Vlog FB Preferred Dimensions</u></a></li>
+<li><a href="https://extra-information.techidaily.com/edits-inspired-by-iconic-cinematic-pieces/"><u>Edits Inspired by Iconic Cinematic Pieces</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-game-bugs-how-to-stop-diablo-4-from-halting-on-playstation-and-windows-systems/"><u>Eliminate Game Bugs: How to Stop Diablo 4 From Halting on PlayStation and Windows Systems</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/how-to-get-and-add-animated-emojis-on-discord-for-2024/"><u>How to Get and Add Animated Emojis on Discord for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-mend-nvidias-geforce-experience-errors-in-windows/"><u>How to Mend Nvidia's GeForce Experience Errors in Windows</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oneplus-12r-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on OnePlus 12R? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-troubleshooting-farming-simulator-22-startup-issues/"><u>Solutions for Troubleshooting Farming Simulator 22 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-common-problems-fixing-netflix-streaming-on-xbox-one-devices/"><u>Solved: Common Problems Fixing Netflix Streaming on Xbox One Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-what-to-do-if-discord-refuses-to-open/"><u>Troubleshooting Guide: What To Do If Discord Refuses To Open</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-persistent-windows-update-error-0x8024401c-on-your-windows-11-machine/"><u>Troubleshooting the Persistent Windows Update Error 0X802^4401c on Your Windows 11 Machine</u></a></li>
 </ul></div>
 

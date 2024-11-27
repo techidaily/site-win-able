@@ -1,7 +1,7 @@
 ---
 title: "Armored Core 6 on PC: Diagnosing and Fixing Runtime Errors to Secure Your Fight in the Fires of Rubicon"
-date: 2024-11-02T02:39:56.834Z
-updated: 2024-11-06T22:13:09.365Z
+date: 2024-11-25T20:14:08.923Z
+updated: 2024-11-26T23:17:38.061Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -48,10 +52,7 @@ thumbnail: https://thmb.techidaily.com/b8fca16a34b5411c86475482e61fa021f5aeb0294
 If you didn’t find any hardware issues, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Make sure no other devices are interfering
@@ -64,19 +65,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -85,15 +73,12 @@ If you didn’t find any hardware issues, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
@@ -116,16 +101,17 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -152,16 +138,21 @@ If you didn’t find any hardware issues, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-8-affordable-industry-standard-open-videoconference-platforms/"><u>[New] 2024 Approved Top 8 Affordable, Industry-Standard Open Videoconference Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-blackout-effective-solutions-for-starting-helldivers-2-without-issues/"><u>Bypassing the Blackout: Effective Solutions for Starting Helldivers 2 Without Issues</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/content-mastery-reimagined-with-artificial-intelligence/"><u>Content Mastery Reimagined with Artificial Intelligence</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/motion-vs-youtube-who-earns-more-from-video-content-in-2024/"><u>Dailymotion vs YouTube Who Earns More From Video Content, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-issues-in-your-clownfish-speech-changer/"><u>Diagnosing and Repairing Issues in Your Clownfish Speech Changer</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-npc-engine-optimization-how-i-overcame-the-frame-rate-drop-issue/"><u>Forza Horizon nPC Engine Optimization: How I Overcame the Frame Rate Drop Issue!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-crafting-a-winning-edge-mastering-keywords-in-digital-marketing/"><u>In 2024, Crafting a Winning Edge Mastering Keywords in Digital Marketing</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-magic-behind-machine-learning-insights-unraveling-openais-shap-e-tool/"><u>The Magic Behind Machine Learning Insights: Unraveling OpenAI's Shap-E Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zooms-failed-video-launch/"><u>Top 5 Solutions for Resolving Zoom's Failed Video Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-memory-issue-in-call-of-duty-warzone-error-0-1766/"><u>Troubleshooting Memory Issue in Call of Duty: Warzone (Error 0-1766)</u></a></li>
-<li><a href="https://discover-great.techidaily.com/windows-server-2008-r2/"><u>Windows Server 2008 R2へのインプレース更新手順詳細ガイド</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011416759-discord-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Discord Overlay Not Responding? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-the-infamous-phoenix-point-freezing-issue/"><u>Expert Tips on Fixing the Infamous Phoenix Point Freezing Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-effective-ways-to-overcome-no-user-logged-in-error-in-counter-strike-global-offensive/"><u>Five Effective Ways to Overcome 'No User Logged In' Error in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-asus-rog-phone-7-ultimate-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Asus ROG Phone 7 Ultimate without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-cheap-sky-expeditions-under-500-drone-highlights/"><u>In 2024, Cheap Sky Expeditions Under $500 Drone Highlights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/masterful-use-of-ai-in-organizing-household-life/"><u>Masterful Use of AI in Organizing Household Life</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-the-fix-resolving-lenovo-mouse-pad-problems-across-multiple-windows-environments-xpvista/"><u>Mastering the Fix: Resolving Lenovo Mouse Pad Problems Across Multiple Windows Environments (XP/Vista)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/revive-your-chromecasts-audio-functionality-with-these-easy-fixes/"><u>Revive Your Chromecast's Audio Functionality with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlining-device-management-tips-for-using-the-miniature-driver-easy-app/"><u>Streamlining Device Management: Tips for Using the Miniature Driver Easy App</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-vivo-s17-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Vivo S17</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-tracks-and-rhythms-to-rev-up-your-routine/"><u>Top Tracks & Rhythms to Rev Up Your Routine</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-installation-of-tiny-tinas-wonderland-on-pc-fixed-issues-covered/"><u>Trouble-Free Installation of Tiny Tina’s Wonderland on PC: Fixed Issues Covered</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009331984-troubleshooting-fortnite-sign-in-problems-swift-solutions-inside/"><u>Troubleshooting Fortnite Sign-In Problems: Swift Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-crashes-in-ni-no-musume-2-full-version/"><u>Troubleshooting Steps for Fixing Crashes in Ni No Musume 2 Full Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-non-responsive-corsair-icue-software-on-windows-11-pcs/"><u>Troubleshooting Steps for Non-Responsive Corsair iCUE Software on Windows 11 PCs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/waymo-pioneers-how-autonomous-cars-are-predicting-weather-patterns/"><u>Waymo Pioneers: How Autonomous Cars Are Predicting Weather Patterns</u></a></li>
 </ul></div>
 

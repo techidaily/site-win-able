@@ -1,7 +1,7 @@
 ---
 title: "Decode the Culprit: Expert Tips on Fixing Persistent Phoenix Point Game Crash Issues"
-date: 2024-10-31T01:46:44.431Z
-updated: 2024-11-07T00:08:52.701Z
+date: 2024-11-23T23:01:36.102Z
+updated: 2024-11-26T22:36:20.389Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Does your FIFA 20 crash on PC so often that it is all but unplayable? If the ans
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Check your PC specs first
 
  First of all, check your PC specs to verify if they meet the system requirements for FIFA 20\. This is always the prerequisite act before you download and install a new game. Suppose you forget to take this step and go directly for the game, then oops – you aren’t even able to launch it! What a desperate moment. Trust me, I’ve been through this before and asked myself tons of times whether I should simply give up the game or kick that old machine to the curb and then buy a new one. Whichever way I chose, I would surely lose something important: pleasure for the former, and money for the latter.
@@ -41,6 +45,10 @@ In case you don’t know how, here’s the guidance:
  3) Go to the **Display** tab so you can view the information about your **graphics card** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-437.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If you also want to know the screen resolution of your monitor, right-click a blank area of your desktop to open the context menu. Then click **Display settings** .
 
@@ -84,6 +92,10 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8 fixes for FIFA 20 crashing
 
  Here are 8 fixes that have proved helpful to solve the FIFA 20 crashing issues. You may not need to try them all; just work your way down the list until you find the one that does the trick.
@@ -105,13 +117,6 @@ In case you don’t know how, here’s the guidance:
 **[Fix 8: Wait for more game updates](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1:**Update your device drivers**
 
@@ -138,10 +143,7 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -151,10 +153,7 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
@@ -168,6 +167,10 @@ In case you don’t know how, here’s the guidance:
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Roll Back Driver** .
 
@@ -193,6 +196,10 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
@@ -202,19 +209,6 @@ In case you don’t know how, here’s the guidance:
  Now launch FIFA 20 again and see whether it keeps crashing. If it does, then move on to the Fix 4 below.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1542129">
-					<video width="864" height="1152" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Change DirectX settings
 
@@ -256,18 +250,15 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
 
 If you continue to face the crashing problem, please move on to Fix 6.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair corrupted system files
 
@@ -297,10 +288,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884017/19272" target="_top" id="1884017">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884017" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884017/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
@@ -325,16 +313,13 @@ dism.exe /online /cleanup-image /restorehealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-165.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -345,13 +330,6 @@ dism.exe /online /cleanup-image /restorehealth
  If, after restoring the game files mistakenly deleted by your antivirus the game is still crashing, you should try to download and install it once again. However, make sure you turn off the antivirus temporarily during the reinstall process of FIFA 20.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Wait for more game updates
 
@@ -379,18 +357,19 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-failed-to-create-opengl-context-for-format-qsurfaceformat/"><u>[FIXED] Failed to Create OpenGL Context for Format QSurFaceFormat</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-digital-vhs-image-modification-techniques/"><u>[Updated] Mastering Digital VHS Image Modification Techniques</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-access-your-fb-links-easily-download-8-best-online-utilities/"><u>2024 Approved Access Your FB Links Easily Download 8 Best Online Utilities</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-aturbidity/"><u>Battlefield Aturbidity</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-apowersoft-screen-recorder-2023-review-for-high-performance-pcs/"><u>In 2024, Apowersoft Screen Recorder 2023 Review for High-Performance PCs</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-8-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 8 Plus Lock Screen</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-apple-iphone-xs-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On Apple iPhone XS? Heres the Best Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-infinix-note-30-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Infinix Note 30 Pro?</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-sound-settings-resolving-zero-acoustics-in-your-twitch-livestream-setup/"><u>Mastering Sound Settings: Resolving Zero Acoustics in Your Twitch Livestream Setup</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-2024-approved-beat-blend-benders-a-curated-list-of-highest-rated-audio-synchronization-editors-2023/"><u>New 2024 Approved Beat Blend Benders A Curated List of Highest-Rated Audio-Synchronization Editors, 2023</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-creative-potential-harness-the-art-of-storytelling-using-chatgpt-tools/"><u>Unlocking Creative Potential: Harness the Art of Storytelling Using ChatGPT Tools</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-agricultural-epics-top-10-rurality-in-games/"><u>[New] In 2024, Agricultural Epics Top 10 Rurality in Games</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-engaging-stories-expanding-audiences-top-three-methods/"><u>[New] In 2024, Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/add-a-professional-touch-free-video-watermark-software-for-2024/"><u>Add a Professional Touch Free Video Watermark Software for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/easy-tutorial-for-activating-icloud-from-iphone-6-safe-and-legal-by-drfone-ios/"><u>Easy Tutorial for Activating iCloud from iPhone 6 Safe and Legal</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fix-for-the-division-2-performance-hiccups-expert-tips-inside/"><u>Effortless Fix for The Division 2 Performance Hiccups – Expert Tips Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-elden-ring-lag-6-rapid-fixes-for-fps-drops-and-stutters/"><u>Fix Your 'Elden Ring' Lag: 6 Rapid Fixes for FPS Drops & Stutters</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/formulating-flashy-podcast-announcements-for-2024/"><u>Formulating Flashy Podcast Announcements for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-key-ingredients-for-a-profitable-social-media-career-tiktok-edition/"><u>In 2024, The Key Ingredients for a Profitable Social Media Career - TikTok Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-extended-launch-delays-in-fallout-4-with-these-easy-solutions/"><u>Overcome Extended Launch Delays in Fallout 4 with These Easy Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lost-ark-launch-problems-effective-solutions-updated-for-2025-mastering-the-fixes-for-when-lost-ark-wont-open-tips-and-tricks/"><u>Overcoming 'Lost Ark' Launch Problems: Effective Solutions Updated for 202#5 Mastering the Fixes for When Lost Ark Won't Open - Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-glitches-a-guide-to-repairing-your-clownfish-audio-alteration-gadget/"><u>Overcoming Glitches: A Guide to Repairing Your Clownfish Audio Alteration Gadget</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-game-crashing-in-life-is-strange-true-colors-a-proven-fix-that-works/"><u>Stop Game Crashing in Life Is Strange: True Colors - A Proven Fix That Works</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-lowdown-on-lg-channels-crucial-points-everyone-should-know/"><u>The Lowdown on LG Channels: Crucial Points Everyone Should Know</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-merge-videos-without-a-trace-7-best-options/"><u>Updated In 2024, Merge Videos Without a Trace 7 Best Options</u></a></li>
 </ul></div>
 

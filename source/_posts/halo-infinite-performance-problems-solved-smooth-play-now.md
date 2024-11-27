@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Performance Problems Solved - Smooth Play Now
-date: 2024-10-20T20:59:21.225Z
-updated: 2024-10-26T15:55:10.691Z
+date: 2024-11-21T19:06:19.333Z
+updated: 2024-11-26T18:56:04.529Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the minimum system requirement](https://tools.techidaily.com/drivereasy/download/)
@@ -31,10 +35,7 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check the minimum system requirement
@@ -73,16 +74,17 @@ There are mainly two ways you can update the graphics driver:
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -94,25 +96,11 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
@@ -121,6 +109,10 @@ There are mainly two ways you can update the graphics driver:
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7) Run the game to check.
 
@@ -163,18 +155,20 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-chart-your-course-to-youtube-success-with-these-techniques/"><u>[New] 2024 Approved Chart Your Course to YouTube Success with These Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-professional-approaches-to-preserving-ps3-games-on-screen/"><u>[Updated] In 2024, Professional Approaches to Preserving PS3 Games On Screen</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-room-and-pc-readiness-for-immersive-vr-with-oculus-for-2024/"><u>[Updated] Room & PC Readiness for Immersive VR with Oculus for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/counteracting-chatgpts-memory-retention-for-private-talks/"><u>Counteracting ChatGPT’s Memory Retention for Private Talks</u></a></li>
-<li><a href="https://win-able.techidaily.com/echoes-lost-voices-found-correcting-fallout-amoanqf4-no-output-problems-on-desktop/"><u>Echoes Lost, Voices Found: Correcting Fallout Amoanqf4 No Output Problems on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-for-seamless-play-r-type-final-2-now-stable-on-windows-machines/"><u>Fixes Implemented for Seamless Play - R-Type Final 2 Now Stable on Windows Machines</u></a></li>
-<li><a href="https://fox-that.techidaily.com/getting-your-iphones-lte-back-on-track-try-these-10-fixes-first/"><u>Getting Your iPhone's LTE Back on Track? Try These 10 Fixes First</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-samsung-galaxy-a24-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Samsung Galaxy A24 To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/mastering-voice-effects-explore-free-flexible-audio-transformations/"><u>Mastering Voice Effects Explore Free, Flexible Audio Transformations</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-2024s-common-fortnite-game-crashes-on-your-pc-with-these-expert-tips/"><u>Overcome 2024'S Common Fortnite Game Crashes on Your PC with These Expert Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-comprehensive-strategy-crafting-targeted-filters-in-gmail-for-perfect-organization/"><u>The Comprehensive Strategy: Crafting Targeted Filters in Gmail for Perfect Organization</u></a></li>
-<li><a href="https://win-able.techidaily.com/vanguard-initialization-errors-addressed-a-step-by-step-resolution-for-valorant-players/"><u>Vanguard Initialization Errors Addressed: A Step-by-Step Resolution for Valorant Players</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-flair-free-download-templates/"><u>[Updated] In 2024, Channel Flair Free Download Templates</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/erate-how-to-swiftly-broadcast-playlists-for-2024/"><u>Accelerate How To Swiftly Broadcast Playlists for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/boosting-device-efficiency-disabling-run-time-android-application-activities/"><u>Boosting Device Efficiency: Disabling Run-Time Android Application Activities</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/convert-videos-on-your-mac-with-ease-using-the-movavi-free-video-converter-software/"><u>Convert Videos on Your Mac with Ease Using The Movavi Free Video Converter Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-riot-games-secrets-the-inside-scoop-on-league-of-legends-quick-item-drop-rates/"><u>Decoding Riot Games' Secrets: The Inside Scoop on League of Legends Quick Item Drop Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-glitch-ultimate-guide-to-stop-diablo-iii-from-crashing/"><u>Defeat the Glitch: Ultimate Guide to Stop Diablo III From Crashing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-vivo-y28-5g-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Vivo Y28 5G Phone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/innovate-wellness-experiences-top-7-smart-plugins/"><u>Innovate Wellness Experiences: Top 7 Smart Plugins</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-experience-addressing-splitgate-stutter-and-boosting-frames-per-second-fps/"><u>Master Your Gaming Experience: Addressing Splitgate Stutter & Boosting Frames per Second (FPS)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976154047-new-release-magicard-rio-pro-driver-available-downloads-for-win-81-7-and-10/"><u>New Release: Magicard Rio Pro Driver Available Downloads for Win 8.1, 7 & 10!</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revisiting-tech-history-thorough-evaluation-of-the-vintage-netgear-c3000-dual-functional-device-for-internet-connectivity/"><u>Revisiting Tech History: Thorough Evaluation of the Vintage Netgear C3000 Dual-Functional Device for Internet Connectivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-overcome-common-issues-with-biomutant-gameplay-on-pc/"><u>Tips & Tricks: Overcome Common Issues with Biomutant Gameplay on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-resolving-issues-with-intel-graphics-drivers/"><u>Troubleshooting Fixes: Resolving Issues with Intel Graphics Drivers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/ultimate-guide-to-iphone-7-screen-recording/"><u>Ultimate Guide to iPhone 7 Screen Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-assassins-creed-valhallas-unexpected-launch-schedule-shift/"><u>Unraveling the Mystery Behind Assassin's Creed Valhalla’s Unexpected Launch Schedule Shift</u></a></li>
 </ul></div>
 

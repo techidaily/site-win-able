@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare Stability Improvements - No More Game Crashes"
-date: 2024-11-02T19:12:21.953Z
-updated: 2024-11-06T19:10:26.691Z
+date: 2024-11-19T18:19:06.428Z
+updated: 2024-11-26T16:22:55.809Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ There is nothing more frustrating than buying a video game and not being able to
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **How to fix** _Total War_ **crash?**
 
@@ -52,6 +56,10 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -64,6 +72,10 @@ Here is how to view your computer specifications:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your computer meets the requirements, then move to the next fix.
 
 ### Fix 2: Disable your antivirus temporarily
@@ -75,13 +87,6 @@ Here is how to view your computer specifications:
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If your game still crashes, move on and try the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -102,6 +107,10 @@ If your game still crashes, move on and try the fix below.
 **4)**  Restart_Total War_ from Steam.
 
  Now, check if this fixed the crashing issue. If your problem still exists, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -135,13 +144,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -154,6 +156,10 @@ There are two ways you can get the right driver for your graphics card:
  The developers of_Total War_ release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required to fix it.
 
  To check if there is any update, go to the **[Total War: Three Kingdoms website](https://www.totalwar.com/blog/)**  and search for the latest patch. If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 6, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change the power option
 
@@ -168,13 +174,6 @@ There are two ways you can get the right driver for your graphics card:
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -192,19 +191,6 @@ There are two ways you can get the right driver for your graphics card:
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Verify the integrity of your game files
 
  Another possible cause of the_Total War_ crashing issue is a damaged or missing game file. In this case, verifying the integrity of your game files can help fix your issue. Follow the instructions below:
@@ -220,10 +206,7 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -233,6 +216,10 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -256,13 +243,6 @@ If your issue persists, go ahead with the next fix, below.
 
 If your game crashes again, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Reinstall Steam
 
  Corrupt or missing Steam files can also cause_Total War_ to crash. If none of the fixes above worked, reinstalling Steam is very likely the solution to your problem. Here is how to do it:
@@ -274,6 +254,10 @@ If your game crashes again, try the fix below.
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -287,19 +271,6 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
@@ -308,22 +279,23 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You should be able to run_Total War_ without crashing now. Enjoy your game! If you have any questions or suggestions, feel free to leave a comment below.
 
@@ -348,24 +320,21 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-editors-picks-top-budget-friendly-online-tools/"><u>[New] 2024 Approved Editor's Picks Top Budget-Friendly Online Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-peak-players-choice-selecting-the-top-7-fps/"><u>[Updated] 2024 Approved Peak Players' Choice Selecting the Top 7 FPS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-innovative-approaches-for-enhancing-audience-interaction-through-fb-lives-multi-view-features/"><u>[Updated] In 2024, Innovative Approaches for Enhancing Audience Interaction Through FB Live's Multi-View Features</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-prime-selection-of-premium-4k-blu-ray-systems/"><u>[Updated] Prime Selection of Premium 4K Blu-Ray Systems</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>2024 Approved The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
-<li><a href="https://blog-min.techidaily.com/agilize-your-shopping-compra-imediata-e-conveniente/"><u>Agilize Your Shopping: Compra Imediata E Conveniente!</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-a-malfunctioning-msi-dragon-centre/"><u>Easy Fixes for a Malfunctioning MSI Dragon Centre</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-prevent-and-repair-pc-crashes-while-playing-minecraft-dungeons/"><u>Easy Steps to Prevent and Repair PC Crashes While Playing Minecraft Dungeons</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-seamless-viewing-7-crucial-tweaks-for-a-flawless-twitch-experience/"><u>Ensure Seamless Viewing: 7 Crucial Tweaks for a Flawless Twitch Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008734801-netflix-access-restored-for-xbox-one-users-bid-goodbye-to-buffering-and-start-watching/"><u>Netflix Access Restored for Xbox One Users – Bid Goodbye to Buffering and Start Watching!</u></a></li>
-<li><a href="https://review-topics.techidaily.com/oppo-bypass-tools-to-bypass-lock-screen-oppo-a38-by-drfone-android-unlock-android-unlock/"><u>Oppo Bypass Tools to Bypass Lock Screen(Oppo A38)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-black-ops-cold-war-error-0xc00e-effective-strategies-unveiled/"><u>Overcoming the Black Ops Cold War Error 0xC00e – Effective Strategies Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011121972-quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily!</u></a></li>
-<li><a href="https://games-able.techidaily.com/remedy-steams-reacquire-unverified-files/"><u>Remedy: Steam's Reacquire Unverified Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-stuttering-in-mass-effect-legendary-edition/"><u>Resolved: Troubleshooting Stuttering in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-global-exploration-by-channel-for-2024/"><u>The Ultimate Guide to Global Exploration, By Channel for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-lost-arks-frame-rate-issues-a-comprehensive-guide/"><u>Troubleshooting Lost Ark's Frame Rate Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-masters-of-digital-avengers-realms/"><u>[New] 2024 Approved Masters of Digital Avengers Realms</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-premier-4k-laptop-choices-for-gamers/"><u>[Updated] Premier 4K Laptop Choices for Gamers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-stunning-evaluation-and-different-paths/"><u>2024 Approved Stunning Evaluation & Different Paths</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-high-cpu-usage-problem-addressed-optimal-fixes-and-solutions/"><u>Chrome High CPU Usage Problem Addressed – Optimal Fixes and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-to-successfully-run-resident-evil-5-on-your-personal-computer-no-more-launch-failures/"><u>Crack the Code to Successfully Run Resident Evil 5 on Your Personal Computer, No More Launch Failures!</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-halo-infinites-audio-malfunctions/"><u>Essential Tips for Resolving Halo Infinite's Audio Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-find-and-install-logitech-g403-mouse-software-on-your-pc/"><u>How to Find and Install Logitech G403 Mouse Software on Your PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/how-to-maximize-your-photos-with-samsungs-image-enhancers-for-2024/"><u>How to Maximize Your Photos with Samsung's Image Enhancers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-geforce-experience-hiccups-effective-solutions-for-error-free-gaming-enhancements/"><u>Navigating Through GeForce Experience Hiccups: Effective Solutions for Error-Free Gaming Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-gaming-fix-eliminating-the-ue4-madness-unreal-process-crash-glitch/"><u>Outriders Gaming Fix - Eliminating the 'UE4 Madness' Unreal Process Crash Glitch</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-y28-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo Y28 5G</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/screen-scanning-mastery-using-fraps-tools/"><u>Screen Scanning Mastery Using Fraps Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-prevent-valheim-from-collapsing-your-gameplay-experience/"><u>Step-by-Step Solutions to Prevent Valheim From Collapsing Your Gameplay Experience</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unlocking-verse-potential-with-intelligent-ai-assistance/"><u>Unlocking Verse Potential with Intelligent AI Assistance</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210289015-9789768307101-vision-aligning-with-gods-purpose-for-your-life/"><u>VISION: Aligning With God's Purpose For Your Life | Free Book</u></a></li>
 </ul></div>
 

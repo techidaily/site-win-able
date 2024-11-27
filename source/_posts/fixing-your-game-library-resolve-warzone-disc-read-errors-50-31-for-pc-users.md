@@ -1,7 +1,7 @@
 ---
 title: "Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users"
-date: 2024-10-31T01:29:46.698Z
-updated: 2024-11-06T19:40:32.818Z
+date: 2024-11-21T01:00:35.125Z
+updated: 2024-11-26T19:16:16.797Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Star Wars Squadrons crashing
 
  You don’t need to try them all; simply work your way down the list until you find the one that solves your problem.
@@ -34,6 +38,10 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
  Please first check out **[Star Wars Squadrons minimum requirements](https://www.ea.com/games/starwars/squadrons/overview/pc-system-requirements)**  to ensure your rig is able to handle the game. Otherwise, you need to upgrade the PC for enjoyable gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Run Star Wars Squadrons as an administrator
 
@@ -63,6 +71,10 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
@@ -75,23 +87,9 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
 
@@ -117,17 +115,14 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If all the device drivers are up-to-date but the crashes don’t stop, there are more methods to try below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Turn off overlays
 
@@ -139,23 +134,9 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
@@ -169,6 +150,10 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-1200x625.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**settings icon** and click**Game Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-3.jpg)
@@ -178,10 +163,7 @@ There are mainly two ways you can do the driver update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On GeForce Experience
@@ -192,18 +174,15 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Toggle off**In-Game Overlay** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the graphics settings
 
@@ -219,20 +198,21 @@ There are mainly two ways you can do the driver update:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Scroll down to Volumetric Quality, and set it to**Medium** or**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  According to your needs, you can also set other options under Advanced Settings to**Low** or**Medium** . After the changes are applied, run the game to check if crashes go away. If not, take a look at the last fix.
 
@@ -261,18 +241,17 @@ There are mainly two ways you can do the driver update:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-elevating-your-nba-experience-with-advanced-streaming/"><u>[New] In 2024, Elevating Your NBA Experience with Advanced Streaming</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-comparing-dailymovements-and-youtubes-income-models-for-2024/"><u>[Updated] Comparing DailyMovement's and Youtube's Income Models for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-brand-synergy-in-the-age-of-digital-partnerships/"><u>[Updated] In 2024, Brand Synergy in the Age of Digital Partnerships</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-total-control-over-youtube-playback-silence-previews/"><u>[Updated] Total Control Over YouTube Playback Silence Previews</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-your-csgo-login-woes-5-effective-remedies-for-no-user-logon-error/"><u>Cure Your CSGO Login Woes: 5 Effective Remedies for ‘No User Logon’ Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-rocket-league-game-running-smoothly-again/"><u>Fixing the Issue: How to Get Your Rocket League Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-update-analysis-the-effect-of-framerate-adjustments-in-s8/"><u>Fortnite Update Analysis: The Effect of Framerate Adjustments in S8</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Motorola G54 5G?</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-increasing-roi-mastering-the-art-of-fb-animation-ads/"><u>In 2024, Increasing ROI Mastering the Art of FB Animation Ads</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/mastered-overcoming-nvidia-setup-hurdle/"><u>Mastered: Overcoming NVIDIA Setup Hurdle</u></a></li>
-<li><a href="https://win-able.techidaily.com/monster-hunter-stories-2-wings-of-ruin-not-launching-steps-to-successful-boot-up/"><u>Monster Hunter Stories 2: Wings of Ruin Not Launching - Steps to Successful Boot-Up</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/premier-pastimes-away-from-sports-stadiums-ranked-for-2024/"><u>Premier Pastimes Away From Sports Stadiums, Ranked for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/quick-troubleshooting-reactivate-predictive-emojis-on-apples-mobile-platform/"><u>Quick Troubleshooting: Reactivate Predictive Emojis on Apple's Mobile Platform</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-pocket-sized-pop-understanding-the-dynamics-of-short-form-tunes/"><u>[New] In 2024, Pocket-Sized Pop Understanding the Dynamics of Short Form Tunes</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-real-time-trends-hourly-top-10-youtube-pickers/"><u>[New] In 2024, Real-Time Trends Hourly Top 10 YouTube Pickers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/utorial-turning-your-google-meet-into-a-youtube-showcase/"><u>[New] Tutorial Turning Your Google Meet Into a YouTube Showcase</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-the-essential-guide-for-avi-to-gif-editing-a-quick-filmora-workflow-on-windows-and-macos/"><u>[Updated] 2024 Approved The Essential Guide for AVI-to-GIF Editing A Quick Filmora Workflow on Windows & macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-game-disruptions-resolving-grand-theft-auto-5-gta-v-crash-issues/"><u>Avoid Game Disruptions: Resolving Grand Theft Auto 5 (GTA V) Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-terrarias-frequent-crashes-with-these-expert-tips-for-gamers/"><u>Fix Terraria's Frequent Crashes with These Expert Tips for Gamers</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-flicks-compilation-of-chuckle-inducing-short-youtube-videos-for-2024/"><u>Funny Flicks Compilation of Chuckle-Inducing Short YouTube Videos for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-moto-g24-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Moto G24 to Another | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/netgear-a6100-fresh-drivers-and-updates-for-windows-operating-system/"><u>Netgear A6100 - Fresh Drivers and Updates for Windows Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connection-problems-in-elden-rings-multiplayer-mode-a-guide/"><u>Overcoming Connection Problems in Elden Ring's Multiplayer Mode: A Guide</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/troubleshooting-inkjet-print-latency/"><u>Troubleshooting Inkjet Print Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-content-warning-in-voice-chat/"><u>Troubleshooting Steps: Resolving 'Content Warning' In Voice Chat</u></a></li>
 </ul></div>
 

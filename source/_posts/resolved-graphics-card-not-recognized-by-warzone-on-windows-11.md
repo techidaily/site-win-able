@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Graphics Card Not Recognized by Warzone on Windows 11"
-date: 2024-09-01T07:59:17.784Z
-updated: 2024-09-02T07:59:17.784Z
+date: 2024-11-24T22:11:52.318Z
+updated: 2024-11-26T18:56:45.484Z
 tags:
   - win11
   - win10
@@ -35,8 +35,9 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -68,6 +69,10 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -75,8 +80,9 @@ To do so, first visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -88,25 +94,22 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
-4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
-5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
+4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
+5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
+
  If this trick doesn’t solve your problem, you can continue to the next one.
 
 ### Fix 4: Install all Windows updates
@@ -134,8 +137,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +144,22 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-unlocking-the-power-of-facebook-slideshows-in-digital-marketing/"><u>[New] 2024 Approved Unlocking the Power of Facebook Slideshows in Digital Marketing</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-use-youtube-enhancements/"><u>[Updated] How to Use YouTube Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-secure-and-fast-xhamster-video-downloads-top-reliable-sites-revealed/"><u>1. Secure & Fast Xhamster Video Downloads: Top Reliable Sites Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027961053-windows/"><u>高解像度動画改良: Windowsプラットフォームにおける専門的な編集方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028706281-youtube/"><u>日本語YouTube動画音声とカメラロールのビデオを目覚まし時計にする手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026863167-2024/"><u>最新音楽ダウンロード手順集:パソコン向け無料版 2024年新入門</u></a></li>
+<li><a href="https://common-error.techidaily.com/easy-solutions-resolving-your-netflix-audio-problems-in-a-jiffy/"><u>Easy Solutions: Resolving Your Netflix Audio Problems in a Jiffy</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-we-overcame-the-windows-updates-issues-solutions-applied/"><u>How We Overcame the Windows Updates Issues – Solutions Applied</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-art-of-selfie-stick-selection-with-these-6-essential-techniques/"><u>Master the Art of Selfie Stick Selection with These 6 Essential Techniques</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/step-by-step-guide-importing-audio-for-inshot-edits/"><u>Step-by-Step Guide Importing Audio for InShot Edits</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/strategies-for-securing-dialogues-against-gpt-retention/"><u>Strategies for Securing Dialogues Against GPT' Retention</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-power-of-webm-files-step-by-step-instructions-for-vlc-media-player-usage/"><u>Unlock the Power of WebM Files: Step-by-Step Instructions for VLC Media Player Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/wav5mov/"><u>WAV形式への自動変換!ベストな無料ツール5つでMOVファイル効果的に使い分け</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028568195-windowsopusmp3/"><u>Windows上でOPUSファイルを効率よくMP3に自由に変換するテクニック</u></a></li>
+</ul></div>
 

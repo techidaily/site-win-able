@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Minecraft Performance Issues on Your PC"
-date: 2024-11-11T10:37:53.248Z
-updated: 2024-11-17T11:25:34.638Z
+date: 2024-11-25T20:44:39.768Z
+updated: 2024-11-26T20:33:42.751Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -65,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
@@ -80,6 +88,10 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -100,27 +112,11 @@ If this doesn’t solve your problem, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -141,36 +137,9 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
 
@@ -199,6 +168,10 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
@@ -220,16 +193,17 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
@@ -249,19 +223,16 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -271,9 +242,17 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -287,13 +266,6 @@ If this doesn’t solve your problem, try the last fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -326,20 +298,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-fetching-mp3-from-facebook-groups/"><u>[New] Fetching MP3 From Facebook Groups</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-elite-collection-top-10-sites-for-professional-icons/"><u>[New] The Elite Collection Top 10 Sites for Professional Icons</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-linguistic-linkers-the-premier-list-for-offline-recognition-devices/"><u>[Updated] Linguistic Linkers The Premier List for Offline Recognition Devices</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-plot-twists-for-success-top-3-channel-building-tactics-for-2024/"><u>[Updated] Plot Twists for Success Top 3 Channel-Building Tactics for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-the-blues-with-these-techniques-solving-fatal-errors-of-ghostrunner-on-windows-11/"><u>Banish the Blues with These Techniques: Solving Fatal Errors of Ghostrunner on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-bugs-and-glitches-masterful-solutions-for-resident-evil-villages-mouse-control-issues/"><u>Beat Bugs and Glitches: Masterful Solutions for Resident Evil Village's Mouse Control Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/dragon-age-origins-troubleshooting-solving-the-crash-problems-for-windows-10-users/"><u>Dragon Age: Origins Troubleshooting - Solving the Crash Problems for Windows 10 Users</u></a></li>
-<li><a href="https://techtrends.techidaily.com/easy-fixes-to-get-your-ipad-reconnected-to-wi-fi-quickly-and-safely/"><u>Easy Fixes to Get Your iPad Reconnected to Wi-Fi Quickly and Safely</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-continuous-loading-issue-a-step-by-step-guide/"><u>How to Resolve Sea of Thieves Continuous Loading Issue - A Step-by-Step Guide</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/identifying-power-users-in-niche-specific-instagram-for-2024/"><u>Identifying Power Users in Niche-Specific Instagram for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>In 2024, Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-e13-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto E13 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-strategies-for-smoother-gaming-experience-on-watch-dogs-legion/"><u>Step-by-Step Strategies for Smoother Gaming Experience on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-launch-issues-in-armored-core-vi-solving-fires-of-rubicon-startup-problems/"><u>Troubleshooting Launch Issues in Armored Core VI: Solving 'Fires of Rubicon' Startup Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-tips-for-a-smooth-rocket-league-experience-in-2-groovy-2024/"><u>Winning Tips for a Smooth Rocket League Experience in 2 Groovy 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-superior-workplace-data-cloud-hubs/"><u>[Updated] 2024 Approved Superior Workplace Data Cloud Hubs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-tomtom-actioncams-latest-features-for-2024/"><u>[Updated] TomTom ActionCam's Latest Features for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-beginners-blueprint-to-blend-brighten-and-balance/"><u>2024 Approved Beginner's Blueprint to Blend, Brighten & Balance</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-2022-resolving-the-leaf-error-code-issue/"><u>Apex Legends 2022: Resolving the 'Leaf' Error Code Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-overcoming-minecraft-not-opening-hurdles/"><u>Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/dead-by-daylight-fixed-how-to-overcome-error-code-8014-on-your-game/"><u>Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-release-delayed-no-pc-version-yet/"><u>Diablo Immortal Release Delayed: No PC Version Yet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1726029923616-dvdusb/"><u>DVD映写機におけるUSBメモリ動画の障害解消テクニック</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-oculus-link-back-on-track-a-six-step-guide-to-fixing-screen-issues-quickly/"><u>Getting Oculus Link Back on Track: A Six-Step Guide to Fixing Screen Issues Quickly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-online-stock-market-channels-reviewed/"><u>In 2024, Best Online Stock Market Channels Reviewed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-perfecting-the-science-of-instagram-highlight-recovery/"><u>In 2024, Perfecting the Science of Instagram Highlight Recovery</u></a></li>
+<li><a href="https://techtrends.techidaily.com/is-it-possible-to-use-airpods-on-the-nintendo-switch-console/"><u>Is It Possible To Use AirPods On The Nintendo Switch Console?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2213946-9780008138011-libra-2016-your-personal-horoscope/"><u>Libra 2016: Your Personal Horoscope | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-low-ping-and-smooth-play-a-step-by-step-cs2-fix/"><u>Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-overcoming-gameplay-hiccups-in-assassins-creed-valhalla-for-desktop-systems/"><u>Optimizing Performance: Overcoming Gameplay Hiccups in Assassin's Creed Valhalla for Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-glitches-tips-for-a-smoother-gameplay-in-genshin-impact/"><u>Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-splitgate-performance-issues-increase-your-fps-and-eliminate-stutter/"><u>Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter</u></a></li>
+<li><a href="https://common-error.techidaily.com/steps-to-correctly-address-steam-gaming-software-update-mishaps/"><u>Steps to Correctly Address Steam Gaming Software Update Mishaps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/transform-text-to-trendy-memes-kapwings-magic-tool-for-2024/"><u>Transform Text to Trendy Memes - Kapwing’s Magic Tool for 2024</u></a></li>
 </ul></div>
 

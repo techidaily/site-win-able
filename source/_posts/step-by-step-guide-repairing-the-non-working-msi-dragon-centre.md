@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-11-15T02:22:07.381Z
-updated: 2024-11-16T18:51:37.938Z
+date: 2024-11-24T18:45:22.805Z
+updated: 2024-11-26T18:33:10.430Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,10 +35,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -42,6 +43,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -56,21 +61,11 @@ Hope it works for you, if not, try updating your audio driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -83,15 +78,12 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -114,17 +106,19 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-ice-capped-inspiration-chinas-sports-spectacle/"><u>[New] Ice-Capped Inspiration China's Sports Spectacle</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-transform-your-images-basic-tips-with-lunapic/"><u>[New] In 2024, Transform Your Images Basic Tips with LunaPic</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-vimeo-insight-where-streaming-meets-originality/"><u>[New] In 2024, Vimeo Insight Where Streaming Meets Originality</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>[Updated] In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
-<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy M14 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-visual-glitches-a-comprehensive-guide-to-fixing-directdraw-failures/"><u>Clearing Up Visual Glitches: A Comprehensive Guide to Fixing DirectDraw Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-the-shadows-defeating-black-screen-troubles-in-magic-the-gathering-online-platform/"><u>Conquering the Shadows: Defeating Black Screen Troubles in Magic: The Gathering Online Platform</u></a></li>
-<li><a href="https://video-capture.techidaily.com/essential-8-free-tools-enhancing-business-video-conferencing-efficiency/"><u>Essential 8 Free Tools Enhancing Business Video Conferencing Efficiency</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-tips-for-restoring-lost-connection-between-your-pc-and-lost-ark-servers/"><u>Essential Tips for Restoring Lost Connection Between Your PC and Lost Ark Servers</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-the-ultimate-guide-to-memorable-anime-opens/"><u>In 2024, The Ultimate Guide to Memorable Anime Opens</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-and-your-pc-avoiding-launch-pitfalls-with-these-tips/"><u>Modern Warfare & Your PC : Avoiding Launch Pitfalls with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-league-of-legends-online-communication-glitches-successfully/"><u>Tackling League of Legends' Online Communication Glitches Successfully</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-in-extracting-youtube-media/"><u>[New] In 2024, Best Practices in Extracting YouTube Media</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video-for-2024/"><u>[Updated] How to Easily Add Subtitles and Closed Captions to YouTube Video for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-professional-tips-ensuring-correct-date-on-pictures/"><u>[Updated] Professional Tips Ensuring Correct Date on Pictures</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-race-day-visuals-update-graphics-driver-for-fix-forza-horizon/"><u>Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-freezing-and-crashes-in-snowrunner-on-your-windows-laptop/"><u>Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-oculus-link-blackout-6-speedy-solutions/"><u>Fixing the Oculus Link Blackout: 6 Speedy Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-watch-dogs-legion-from-endlessly-crashing-on-personal-computers/"><u>How to Stop Watch Dogs Legion From Endlessly Crashing on Personal Computers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-15-best-ways-to-watch-nba-live-stream/"><u>In 2024, 15 Best Ways To Watch NBA Live Stream</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-your-sierra-cloud-storage-effortlessly/"><u>In 2024, Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/silent-surfing-achieving-invisible-browser-sessions-on-leading-platforms/"><u>Silent Surfing: Achieving Invisible Browser Sessions on Leading Platforms</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-logitech-g430-restore-your-sound-now/"><u>Step-by-Step Fixes for a Malfunctioning Logitech G430 - Restore Your Sound Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-high-disk-and-cpu-load-in-wsappx-a-step-by-step-guide-to-optimization/"><u>Troubleshooting High Disk and CPU Load in WSAPPX: A Step-by-Step Guide to Optimization</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-mastering-the-art-of-directx-error-correction-in-fifa-19/"><u>Troubleshooting Tips: Mastering the Art of DirectX Error Correction in FIFA 19</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/windows-10-audio-woes-heres-how-to-fix-your-conexant-smartaudio-hd-sound-problems/"><u>Windows 10 Audio Woes? Here's How to Fix Your Conexant SmartAudio HD Sound Problems</u></a></li>
 </ul></div>
 

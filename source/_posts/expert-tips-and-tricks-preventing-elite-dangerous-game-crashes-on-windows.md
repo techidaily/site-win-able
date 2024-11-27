@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips & Tricks: Preventing Elite Dangerous Game Crashes on Windows"
-date: 2024-10-19T16:41:43.605Z
-updated: 2024-10-26T12:37:35.957Z
+date: 2024-11-19T23:18:31.875Z
+updated: 2024-11-26T23:13:49.795Z
 tags:
   - win11
   - win10
@@ -75,6 +75,10 @@ If Dota 2 still crashes randomly, try the fix below.
 
  If the_Dota 2_ crashing issue persists, then move on and try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your antivirus temporarily
 
  The_Dota 2_ crashing issue is sometimes triggered by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -103,6 +107,10 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
  You can hopefully play_Dota 2_ without crashing now. If your issue still exists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Verify the integrity of game files
 
 _Dota 2_ is likely to crash when one or more game files are damaged. So you should verify the game files to make sure any corrupt files fixed and missing files installed. Follow the instructions below:
@@ -112,6 +120,10 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 **2)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Dota 2**  and select **Properties.**
 
@@ -125,13 +137,6 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 
  If_Dota 2_ crashing issues happen again, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151856/7443" target="_top" id="2151856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Adjust virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -142,16 +147,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Settings** .
 
@@ -169,6 +171,10 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4096M is enough.
@@ -179,16 +185,13 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-877.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **9)** Restart your computer and your game.
 
  If you still run into the_Dota 2_ crashing issue, don’t fret. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Set game launch options
 
@@ -206,13 +209,6 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-320.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-310.png)
@@ -225,16 +221,13 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-315.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Type**\-safe** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-316.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **7)** Relaunch the game.
 
@@ -250,16 +243,13 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click**SET LAUNCH OPTIONS.**
 
@@ -269,25 +259,15 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type**\-autoconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Run Dota 2 in compatibility mode
 
@@ -298,6 +278,10 @@ If Dota 2 still crashes, check the fix below.
 **1)** Right-click the **Steam icon** , then select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-612.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -365,14 +349,24 @@ If Dota 2 still crashes, check the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-the-power-of-perception-iconic-podcast-design-tips/"><u>[Updated] 2024 Approved The Power of Perception Iconic Podcast Design Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-puzzle-fixing-the-persistent-black-screen-error-in-persona-5-strikers-gameplay/"><u>Beating the Puzzle: Fixing the Persistent Black Screen Error in Persona 5 Strikers Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993678617-halo-infinite-pc-freeze-dilemma-fix-it-in-just-7-easy-ways/"><u>Halo Infinite PC Freeze Dilemma? Fix It in Just 7 Easy Ways</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/idle-geniuses-top-12-pc-classics-for-2024/"><u>Idle Geniuses Top 12 PC Classics for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-total-zen-closing-virtual-horizons/"><u>In 2024, Total Zen Closing Virtual Horizons</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/sea-tech-external-usb-blu-ray-writer-review-spotty-performance/"><u>Sea Tech External USB Blu-Ray Writer Review: Spotty Performance</u></a></li>
-<li><a href="https://techtrends.techidaily.com/solving-the-d3dx930dll-file-not-found-problem-step-by-step-guide/"><u>Solving the d3dx9_30.dll File Not Found Problem: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-fortnite-error-84-unable-to-connect-with-friends/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Fortnite Error 84 - Unable to Connect with Friends</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-download-problems-with-cyberpunk-2077-on-steam-platform/"><u>Troubleshooting Guide: Resolving Download Problems with Cyberpunk 2077 on Steam Platform</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-customize-your-screenscape-google-meets-dynamic-background-switch/"><u>[New] 2024 Approved Customize Your Screenscape Google Meet's Dynamic Background Switch</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expedite-vimeo-video-playback/"><u>[Updated] In 2024, Expedite Vimeo Video Playback</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-simplified-file-conversion-for-audio-enthusiasts/"><u>[Updated] Simplified File Conversion for Audio Enthusiasts</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-supercharge-videos-download-premium-effs/"><u>2024 Approved Supercharge Videos - Download Premium Effs!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/a-comprehensive-walkthrough-for-checking-your-windows-10s-powershell-version-using-commands/"><u>A Comprehensive Walkthrough for Checking Your Windows 10'S PowerShell Version Using Commands</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-gameplay-fluidity-solutions-to-dying-light-2s-frame-rate-problems-on-pc/"><u>Enhancing Gameplay Fluidity: Solutions to Dying Light 2'S Frame Rate Problems on PC</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gamers-guide-top-handheld-console-sweepstakes-under-100-awaits-you/"><u>Gamer's Guide: Top Handheld Console Sweepstakes Under $100 Awaits You!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-resolve-armored-core-vi-startup-failures/"><u>How to Address and Resolve Armored Core VI Startup Failures</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-stop-continuous-crashes-in-pc-playthrough-of-heroes-of-might-and-magic-vii/"><u>How to Stop Continuous Crashes in PC Playthrough of Heroes of Might & Magic VII</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-honor-play-40c-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Honor Play 40C FRP?</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone XR</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-solution-stop-your-app-from-breaking-down-with-this-detailed-crash-fix-guide/"><u>Master the Solution: Stop Your App From Breaking Down with This Detailed Crash Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-debugging-effortless-ways-to-overcome-javascript-glitches-on-discord/"><u>Mastering Debugging: Effortless Ways to Overcome JavaScript Glitches on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k24-error-resolved-tackle-the-727e66ac-problem-with-our-essential-2024-guide/"><u>NBA 2K24 Error Resolved? Tackle the 727E66AC Problem with Our Essential 2024 Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-loop-glitch-resolved-for-riot-games-lol-in-recent-fix/"><u>Reconnect Loop Glitch Resolved for Riot Games' LoL in Recent Fix</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/steam-marketplace-surge-sees-premium-prices-for-virtual-banana-items/"><u>Steam Marketplace Surge Sees Premium Prices for Virtual Banana Items</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-problem-solved-how-to-reconnect-with-the-local-client/"><u>Steam Problem Solved: How To Reconnect with The Local Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-playing-modern-warfare-on-a-pc-as-of-2024/"><u>Troubleshooting Guide for Playing Modern Warfare on a PC as of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-display-distortions-solved-say-goodbye-to-flickering-scenes/"><u>Warzone Display Distortions Solved - Say Goodbye to Flickering Scenes</u></a></li>
 </ul></div>
 

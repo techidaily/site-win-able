@@ -1,7 +1,7 @@
 ---
 title: Trouble with GTA 5? Here Are Fixes to Get It Up and Running!
-date: 2024-09-01T07:58:52.390Z
-updated: 2024-09-02T07:58:52.390Z
+date: 2024-11-22T22:24:06.005Z
+updated: 2024-11-26T23:26:11.146Z
 tags:
   - win11
   - win10
@@ -65,33 +65,30 @@ The executable for the game is located in:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Remove Mods
 
  If you have added any mods to Witcher 3, you can uninstall them to see if it works. Witcher 3 may have been worked fine with the mods before, but mods can be unpredictable at times.
 
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update device drivers
 
  Witcher 3 not launching is probably caused by driver issues. If your device drivers (especially your graphics driver) are outdated or corrupt, you may bump into Witcher 3 not launching or crashing issues. To improve your gaming experience and fix bugs, you should always have the latest graphics driver installed.
@@ -113,9 +110,6 @@ There are two ways for you to update your drivers:
 * For AMD: Go to **[AMD Drivers & Support](https://www.amd.com/en/support)**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Once you’ve downloaded the correct drivers for your system, double click the downloaded file and follow the on-screen instructions to install the driver. After that, restart your computer for the changes to take effect.
 
 #### Option 2: Update your graphics driver automatically (Recommended)
@@ -134,18 +128,23 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Note:** You can do it for free if you like, but it’s partly manual.
 
 4) Restart your PC and launch Witcher 3 again to test the issue.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of game files
 
@@ -169,9 +168,6 @@ There are two ways for you to update your drivers:
 
  If Witcher 3 still won’t launch, there might be something wrong with your system files. Try the next fix below to check for system file corruption using the System file checker.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Run system file checker
 
  System File Checker is an in-build tool for scanning corrupt system files, and it will repair any detected missing or corrupt files.
@@ -181,8 +177,9 @@ There are two ways for you to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Type the command:**sfc /scannow** in the window and hit**Enter** .
 
 sfc /scannow
@@ -232,8 +229,9 @@ Follow the links below to learn how to do it:
 Try launching your game again to see if Witcher 3 works normally again.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Perform a clean boot
 
  Your Witcher 3 not launching can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -242,9 +240,6 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/system-configuration.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Click**OK** to apply the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/disable-all-services-1.png)
@@ -265,6 +260,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Delete the GoG.dll
 
  If you ever transferred your Witcher 3 from GOG to Steam, there might be two .dll files in your**Steam > steamapps > common > The Witcher 3 > bin** folder. One of them is Steam.dll and the other is GoG.dll. You may delete the**GoG.dl** l file and try running Witcher 3 again to test your issue.
@@ -279,9 +278,6 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Right-click Witcher 3 and select**Uninstall** .
 
  4) Download the game again to see if it launches normally this time.
@@ -324,8 +320,6 @@ RECOMMENDED REQUIREMENTS:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -333,4 +327,22 @@ RECOMMENDED REQUIREMENTS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-rendering-reawakening-amds-radeon/"><u>[New] In 2024, Rendering Reawakening AMD's Radeon</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-transform-your-mac-interface-with-speech-recognition-software-review/"><u>[New] Transform Your Mac Interface with Speech Recognition Software Review</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-does-m1-make-a-difference-for-film-and-media-editors/"><u>[Updated] In 2024, Does M1 Make a Difference for Film and Media Editors?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-picture-perfect-how-to-accurately-date-your-photos/"><u>2024 Approved Picture Perfect How to Accurately Date Your Photos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-sound-reconstruction-with-ffmpeg-preserving-format-integrity/"><u>2024 Approved Sound Reconstruction with FFmpeg Preserving Format Integrity</u></a></li>
+<li><a href="https://solve-marvelous.techidaily.com/boosting-web-performance-through-cookiebots-advanced-automation-solutions/"><u>Boosting Web Performance Through Cookiebot's Advanced Automation Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-personal-cd-replication-for-secure-music-preservation/"><u>Step-by-Step Guide to Personal CD Replication for Secure Music Preservation</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-your-dvd-content-to-youtube/"><u>Step-by-Step Guide: Adding Your DVD Content to YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-capturing-gameplay-footage-of-genshin-impact-across-desktops-and-smartphones/"><u>Step-by-Step Guide: Capturing Gameplay Footage of Genshin Impact Across Desktops and Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/stream-unlimited-films-with-these-6-free-android-movie-watching-apps/"><u>Stream Unlimited Films with These 6 Free Android Movie-Watching Apps!</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/the-next-era-in-banking-predictions-for-the-rise-of-smart-banks-powered-by-digital-intelligence-perspectives-by-abbyy-experts/"><u>The Next Era in Banking: Predictions for the Rise of Smart Banks Powered by Digital Intelligence - Perspectives by ABBYY Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-10-christian-melodies-download-and-personalize-guide-for-2024/"><u>Top 10 Christian Melodies Download & Personalize Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-13-essential-kid-friendly-extensions-for-kodi-stream-family-entertainment/"><u>Top 13 Essential Kid-Friendly Extensions for Kodi - Stream Family Entertainment</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-methods-to-capture-and-save-flash-media-from-various-gadgets-updated-guide/"><u>Top 5 Methods to Capture and Save Flash Media From Various Gadgets - Updated Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-premium-free-music-applications-available-on-android/"><u>Top 5 Premium-Free Music Applications Available on Android</u></a></li>
+</ul></div>
 

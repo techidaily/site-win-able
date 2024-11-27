@@ -1,7 +1,7 @@
 ---
 title: Experience the Wonders of Pandora – Newly Optimized Avatar Version for PC Launches Today!
-date: 2024-10-21T14:47:06.721Z
-updated: 2024-10-25T20:23:40.262Z
+date: 2024-11-22T00:59:19.027Z
+updated: 2024-11-26T21:35:56.684Z
 tags:
   - win11
   - win10
@@ -85,22 +85,23 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Change the power option
 
@@ -110,50 +111,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
-
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148640/16836" target="_top" id="2148640">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148640" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148640/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your computer, and then relaunch your game to see if this worked for you.
@@ -171,27 +142,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
@@ -201,26 +166,31 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -251,19 +221,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-winning-at-tiktok-actions-for-more-views-and-favorites/"><u>[New] 2024 Approved Winning at TikTok Actions for More Views & Favorites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-mastering-instagrams-untapped-potential/"><u>[Updated] 2024 Approved Mastering Instagram's Untapped Potential</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/effective-methods-to-rectify-d3dx927dll-not-found-problem/"><u>Effective Methods to Rectify 'd3dx9_27.dll Not Found' Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-dota-2-vac-ban-glitch-a-comprehensive-guide/"><u>Fixing the DotA 2 VAC Ban Glitch : A Comprehensive Guide</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Realme 11X 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/improve-gaming-and-graphics-with-the-newest-amd-driver-update-for-windows-oses/"><u>Improve Gaming and Graphics with the Newest AMD Driver Update for Windows OSes</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-honor-x50-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo V30 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-witcher-3-on-pc-fixing-and-avoiding-frustrating-game-crashes/"><u>Mastering The Witcher 3 on PC: Fixing and Avoiding Frustrating Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-rocket-league-freezing-issues-fixes-and-tips-for-optimal-gameplay/"><u>Say Goodbye to Rocket League Freezing Issues: Fixes and Tips for Optimal Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/soil-testing-identifies-specific-soil-needs-allowing-for-targeted-amendments-which-improves-crop-yields-reduces-waste-and-minimizes-environmental-harm-from-613/"><u>Soil Testing Identifies Specific Soil Needs, Allowing for Targeted Amendments, Which Improves Crop Yields, Reduces Waste, and Minimizes Environmental Harm From Over-Fertilization.</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/top-5-software-applications-for-effectively-rescuing-erased-iphone-note-content/"><u>Top 5 Software Applications for Effectively Rescuing Erased iPhone Note Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://article-files.techidaily.com/ultimate-vr-clarity-achieved-for-2024/"><u>Ultimate VR Clarity Achieved for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-essential-playlists-for-engaging-unboxing-videos/"><u>[New] Essential Playlists for Engaging Unboxing Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-explore-asmrs-impact-on-stress-reduction/"><u>[New] Explore ASMR’s Impact on Stress Reduction</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-experiencing-dji-inspire-2-in-full-scale-for-2024/"><u>[Updated] Experiencing DJI Inspire 2 in Full Scale for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unleash-your-brands-potential-with-expert-naming-guide/"><u>[Updated] Unleash Your Brand's Potential with Expert Naming Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-fast-solutions-stop-roblox-from-freezing-on-your-computer/"><u>6 Fast Solutions: Stop Roblox From Freezing on Your Computer</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/easy-tutorial-on-downloading-and-converting-youtube-content-for-ios-devices/"><u>Easy Tutorial on Downloading & Converting YouTube Content for iOS Devices</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-latest-in-tech-a-guide-by-toms-hardware-experts/"><u>Exploring the Latest in Tech: A Guide by Tom's Hardware Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-now-effective-solutions-for-risk-of-rain-ebx-not-crashing-issues/"><u>Fix It Now: Effective Solutions for Risk of Rain Ebx Not Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003581920-fix-your-hearthstone-crashes-and-glitches-on-windows-solutions-inside/"><u>Fix Your Hearthstone Crashes and Glitches on Windows - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/frosted-forever-confronting-persistent-ice-in-a-transformed-terra/"><u>Frosted Forever: Confronting Persistent Ice in a Transformed Terra</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-when-call-of-duty-black-ops-4-wont-load-solutions-uncovered/"><u>How to Troubleshoot When Call of Duty: Black Ops 4 Won't Load - Solutions Uncovered!</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-honor-x9a-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Honor X9a Location Settings | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-enhancing-webcam-gaming-experience-and-quality/"><u>In 2024, Enhancing WebCam Gaming Experience & Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-persistent-freezing-and-crashing-in-ghostwire-tokyo-on-pc/"><u>Resolved: Fixes for Persistent Freezing and Crashing in Ghostwire: Tokyo on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-get-your-witcher-3-game-running-smoothly-again/"><u>Step-By-Step Solutions To Get Your Witcher 3 Game Running Smoothly Again</u></a></li>
 </ul></div>
 

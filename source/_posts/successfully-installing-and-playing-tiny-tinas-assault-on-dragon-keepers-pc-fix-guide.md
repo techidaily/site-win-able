@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-11-10T11:33:42.765Z
-updated: 2024-11-17T01:53:16.129Z
+date: 2024-11-20T20:43:29.036Z
+updated: 2024-11-26T17:51:05.349Z
 tags:
   - win11
   - win10
@@ -33,19 +33,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -72,6 +59,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -83,11 +74,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -113,13 +112,6 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -130,10 +122,7 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -147,10 +136,7 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -178,21 +164,16 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-ace-trackers-our-top-five-games-for-2024/"><u>[Updated] Ace Trackers Our Top Five Games for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-vivo-v27-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Vivo V27 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-ascending-audio-the-ultimate-budget-friendly-asmr-kit-selection/"><u>2024 Approved Ascending Audio - The Ultimate Budget-Friendly ASMR Kit Selection</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-direct-confrontation-assessing-obs-versus-twitch-hubs/"><u>2024 Approved Direct Confrontation Assessing OBS versus Twitch Hubs</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726029582753-mp3/"><u>無料MP3編集ツール：効率的に曲を切り貼り・ボリューム調整する方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726030292130-wavmp3/"><u>無料で音質保持したWAVからMP3への最適な変換手順</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-adding-the-latest-distrotv-extension-for-live-streaming-and-on-demand-content-in-kodi/"><u>Easy Steps: Adding the Latest DistroTV Extension for Live Streaming and On-Demand Content in Kodi</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/gratis-m4v-en-wav-vervanger-online-expertise-van-movavi/"><u>Gratis M4V en WAV Vervanger Online - Expertise Van Movavi</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-comparing-hero4-and-hero5-capabilities/"><u>In 2024, Comparing Hero4 and Hero5 Capabilities</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unraveling-the-warped-world-of-gopro-fisheye-effects/"><u>In 2024, Unraveling The Warped World of GoPro Fisheye Effects</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/post-update-printer-problem-resolved-and-happy-again/"><u>Post-Update Printer Problem: Resolved and Happy Again!</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-transformation-guide-mastering-video-sizes-using-the-ultimate-aspect-ratio-converter-tool/"><u>Seamless Transformation Guide: Mastering Video Sizes Using the Ultimate Aspect Ratio Converter Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-modifying-h265-hevc-videos-on-windows-windows-10-and-11/"><u>Step-by-Step Guide to Modifying H.265 HEVC Videos on Windows (Windows 10 & 11)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-definitive-guide-to-ankers-super-bright-rugged-flashlight-for-adventurers/"><u>The Definitive Guide to Anker's Super Bright, Rugged Flashlight for Adventurers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1726028012753-windows-movie-maker/"><u>Windows Movie Makerの手軽なセットアップ:最新バージョンをダウンロードするチュートリアル</u></a></li>
-<li><a href="https://win-able.techidaily.com/gifjpgjpeg/"><u>ベストのGIFからJPG/JPEG変換ソフトウェアリスト</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/dynabookpc/"><u>「初期設定ガイド：東芝Dynabookで正しいPCリセット手順を見つけた！」</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boosting-your-pcs-performance-solving-speed-issues-in-windows-11/"><u>Boosting Your PC's Performance: Solving Speed Issues in Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-is-now-available-on-android/"><u>ChatGPT Is Now Available on Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-rectify-failed-downloadspeer-connections-on-utorrent/"><u>Effective Ways to Rectify Failed Downloads/Peer Connections on uTorrent</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-security-connection-issues-a-guide-for-firefox-users/"><u>Fixing Security Connection Issues: A Guide for Firefox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolving-black-screen-problems-in-epic-games-launcher/"><u>Fixing the Issue: Resolving Black Screen Problems in Epic Games Launcher</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-revenir-en-arriere-et-recuperer-des-fichiers-elimines-sous-windows-11/"><u>Guide Facile Pour Revenir en Arrière Et Récupérer Des Fichiers Éliminés Sous Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-only-520-enjoy-a-sweeping-40-discount-on-the-latest-gaming-rig-zdnet/"><u>HP Victus 15L Laptop Now Only $520: Enjoy a Sweeping 40% Discount on the Latest Gaming Rig! - ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-tribes-landscape-solutions-to-cataclysm-game-crashes/"><u>Mastering the Tribe's Landscape: Solutions to Cataclysm Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-fifa-20-game-crashing-due-to-a-directx-issue/"><u>Resolved: How to Fix the FIFA 20 Game Crashing Due to a DirectX Issue</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-watermarking-made-easy-top-5-programs/"><u>Updated Free Video Watermarking Made Easy Top 5 Programs</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving Persistent Halo Infinite PC Game Freezes – Expert Advice
-date: 2024-08-28T05:30:43.221Z
-updated: 2024-08-29T05:30:43.221Z
+date: 2024-11-21T18:58:29.585Z
+updated: 2024-11-26T21:07:37.662Z
 tags:
   - win11
   - win10
@@ -47,9 +47,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  Before we dive into anything advanced, make sure you restart your computer. A simple restart will reset your software and desktop environment and can often fix software glitches like this. So give it a shot!
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2\. Check Your Internet Connection
 
  The Discord streams not loading issue could simply be a connection problem. If you haven’t checked out your network status to see if there’s anything that went wrong, you can do this by opening another application that requires Internet access to function.
@@ -57,17 +54,9 @@ If this is happening to you, don’t panic. Try the fixes below.
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -77,19 +66,25 @@ If you’re not sure how to do it, follow the instructions below:
 1. Right-click your taskbar and select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
 If your stream still gets stuck on loading, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Fix 4\. Turn off Hardware Acceleration
 
  Streaming is a heavy task and uses a lot of CPU. Discord Hardware acceleration setting allows the app to use other hardware components on your PC to let the app works more efficiently. But, if your hardware is weak, this feature may cause problems for you.
@@ -99,25 +94,22 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 1. Run Discord, then click the **Settings icon** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-settings.png)
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If Discord still won’t load streams correctly, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5\. Update Your Graphics Driver
 
  Streaming issues are likely to occur when you’re using the faulty graphics driver. It’s essential that you have the latest correct driver for your GPU.
@@ -142,9 +134,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 
  Restart Discord to see if it runs properly now. If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Fix 6: Clear Discord Cache
 
  Discord cache files and cookies accumulated on your PC can cause issues. To see if that’s the core issue for you, try clearing Discord cache files:
@@ -154,17 +143,15 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 3. Type **%APPDATA%/Discord/Cache** and press **Enter**  on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-00-39.jpg)
 4. On your keyboard, press the **Ctrl key** and **A**  to highlight all the files.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-07.jpg)
 5. Press the **Del key** on your keyboard to delete all selected files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 6. Relaunch Discord to check if this helped.
 
 If your issue still exists, move on to the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7\. Switch to Windowed Mode
 
@@ -175,6 +162,10 @@ If your issue still exists, move on to the fix, below.
  If Discord runs without problems, then congratulation! If Discord still gets stuck when loading, try the fix below.
 
  You can easily go back to fullscreen mode in Discord by using the same keyboard shortcut, **Ctrl + Shift + F** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8\. Use a VPN
 
@@ -191,8 +182,9 @@ If your issue still exists, move on to the fix, below.
 4. Open Discord to see if the issue still exists.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 9\. Try Desktop App/Another Browser
 
  Discord is compatible with all leading browsers such as Chrome, Firefox, Opera, and more. To make sure Discord works well on your device, make sure you’re using the latest version of the browser.
@@ -213,6 +205,10 @@ If your issue still exists, move on to the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, this post helped. Did we miss a troubleshooting step that helped you or might help someone else fix the Discord Streams Stuck on Loading issue? Let us know in the comments if you have any thoughts!
 
 * [discord](https://tools.techidaily.com/drivereasy/download/)
@@ -225,8 +221,6 @@ If your issue still exists, move on to the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +228,23 @@ If your issue still exists, move on to the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-how-to-curate-christian-chimes-for-devotion/"><u>[New] How to Curate Christian Chimes for Devotion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-top-10-capture-cards-for-youtube-you-should-know/"><u>[New] In 2024, The Top 10 Capture Cards for YouTube You Should Know</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-full-fledged-vsco-editing-encyclopedia/"><u>2024 Approved Full Fledged VSCO Editing Encyclopedia</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-time-saving-techniques-from-complicated-srt-to-simplified-txt/"><u>2024 Approved Time-Saving Techniques From Complicated SRT to Simplified TXT</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-sounds-into-powerpoint-narratives/"><u>Combine Sounds Into PowerPoint Narratives</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-drops-lag-and-stuttering-for-a-smoother-half-life-alyx-experience-on-your-computer/"><u>Fixing Frame Drops, Lag, and Stuttering for a Smoother Half-Life: Alyx Experience on Your Computer</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-first-steps-in-using-zooms-group-rooms/"><u>In 2024, First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-battles-overcoming-frame-rate-drops-and-eliminating-gameplay-stutters-in-battlefield-2042-for-pc-gamers/"><u>Maximize Your Battles: Overcoming Frame Rate Drops and Eliminating Gameplay Stutters in Battlefield 2042 for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fps-using-your-graphics-card-with-cyberpunk-2077-on-windows-10-pcs/"><u>Maximizing FPS: Using Your Graphics Card with Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigating-the-european-unions-legal-framework-for-artificial-intelligence-effects-on-ai-platforms-like-chatgpt/"><u>Navigating the European Union's Legal Framework for Artificial Intelligence: Effects on AI Platforms Like ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-eliminate-lag-for-smoother-gaming-experience/"><u>Rainbow Six Siege Troubleshooting: Eliminate Lag for Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-minecrafts-constant-crashes-with-these-six-quick-solutions/"><u>Resolve Minecraft's Constant Crashes with These Six Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-mastery-eliminate-steam-error-code-130-with-ease/"><u>Troubleshooting Mastery: Eliminate Steam Error Code 130 with Ease</u></a></li>
+<li><a href="https://fox-http.techidaily.com/unlock-the-secrets-maximizing-your-video-content-on-zoom-and-youtube-live-for-2024/"><u>Unlock the Secrets Maximizing Your Video Content on Zoom & YouTube Live for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-the-guilty-gear-strive-launch-postponement-explained/"><u>Update on the Guilty Gear Strive Launch Postponement Explained</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/wd-ultrastar-transporter-high-capacity-briefcase-with-368tb-nvme-ssds-and-advanced-tech-128gb-ram-1kw-psu-and-intels-ice-lake-xeon/"><u>WD Ultrastar Transporter: High-Capacity Briefcase with 368TB NVMe SSDs & Advanced Tech - 128GB RAM, 1kW PSU & Intel's Ice Lake Xeon</u></a></li>
+</ul></div>
 

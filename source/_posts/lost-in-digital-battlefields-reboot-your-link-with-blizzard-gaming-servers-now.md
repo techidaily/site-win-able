@@ -1,7 +1,7 @@
 ---
 title: Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now
-date: 2024-11-04T16:55:03.138Z
-updated: 2024-11-06T18:43:50.890Z
+date: 2024-11-25T22:43:32.961Z
+updated: 2024-11-26T21:56:51.040Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
 
  The most possible causes of ‘ **_Connection to the Battle.net game server has been lost_**  ‘ are as follows:
@@ -37,13 +41,6 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 * Outdated device drivers
 * Software confliction
 * etc.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
 
@@ -75,6 +72,10 @@ Constantly getting this error message **‘ _Connection to the Battle.net game s
 ![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
 4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
 
 If your game isn’t on the list, follow these steps:
@@ -82,15 +83,13 @@ If your game isn’t on the list, follow these steps:
 1. Click on **Change settings > Allow another app…**  
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
 2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
-3. Once added, tick both the**Private** and**Public** boxes for the application.
-4. Restart your Battle.net and play the game again the test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. Once added, tick both the**Private** and**Public** boxes for the application.
+4. Restart your Battle.net and play the game again the test the issue.
 
 ### Fix 2\. Perform a network reset
 
@@ -99,13 +98,6 @@ If your game isn’t on the list, follow these steps:
 1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
 _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
 2. Click **OK** to confirm your action.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
 
@@ -125,24 +117,18 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 3. Right-click your current network connection, and select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
 4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
 5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Preferred DNS server: 8.8.8.8**  
@@ -168,16 +154,17 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
 4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5\. Use a VPN
 
@@ -217,22 +204,19 @@ _![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.j
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-simple-screen-recorder-for-windows-10-download/"><u>[New] In 2024, Simple Screen Recorder for Windows 10 Download</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-navigating-the-world-of-video-editing-for-youtube-creators/"><u>[Updated] Navigating the World of Video Editing for YouTube Creators</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-in-call-of-duty-mobile-winning-techniques-for-gamers/"><u>Beat Dev Error 6068 in Call of Duty Mobile - Winning Techniques for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-the-mass-effect-legendary-edition-not-starting-dilemma/"><u>Expert Tips on Resolving the 'Mass Effect Legendary Edition Not Starting' Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/facing-launch-errors-in-lol-discover-the-best-fixes-and-tips-for-a-smooth-game/"><u>Facing Launch Errors in LoL? Discover the Best Fixes and Tips for a Smooth Game</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-from-apple-iphone-15-pro-max-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code From Apple iPhone 15 Pro Max in the Best Ways</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-a-locked-xiaomi-redmi-note-12-4g-phone-by-drfone-android/"><u>How to Reset a Locked Xiaomi Redmi Note 12 4G Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-reset-your-honor-x8b-lock-screen-password-by-drfone-android/"><u>How to Reset your Honor X8b Lock Screen Password</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-cutting-edge-video-playback-on-windows-mobile/"><u>In 2024, Cutting-Edge Video Playback on Windows Mobile</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-honor-play-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Honor Play 8T | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-skyrocket-your-view-count-youtube-success-via-sony-vegas-editing/"><u>In 2024, Skyrocket Your View Count YouTube Success via Sony Vegas Editing</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/in-depth-techniques-for-correcting-msvcr110dll-deficiency-on-windows-systems/"><u>In-Depth Techniques for Correcting MSVCR110.dll Deficiency on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-error-recovery-solutions-for-the-infamous-gtfo-bug/"><u>Mastering Error Recovery: Solutions for the Infamous GTFO Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-nvidias-0x0003-error-on-your-geforce-experience-software/"><u>Resolving Nvidia's 0X0003 Error on Your GeForce Experience Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-assassins-creed-odyssey-how-to-stop-your-game-from-freezing/"><u>Troubleshooting Assassin's Creed Odyssey: How to Stop Your Game From Freezing</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-pc-players-eliminating-game-crashes-in-the-sims-3-effortlessly/"><u>Ultimate Fixes for PC Players: Eliminating Game Crashes in The Sims 3 Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[New] 2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-play-your-old-games-anywhere-anytime-choosing-the-best-gba-emulators-for-windows-pcs-for-2024/"><u>[New] Play Your Old Games Anywhere, Anytime Choosing the Best GBA Emulators for Windows PCs for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-stuck-a-step-by-nstep-solution-for-opening-problems/"><u>Discord Stuck? A Step-by-nStep Solution for Opening Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/examining-updates-the-2023-samsung-bd-j5900/"><u>Examining Updates The 2023 Samsung BD-J5900</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-crashes-comprehensive-guide-to-resolving-game-engine-issues/"><u>Fixing Apex Legends Crashes: Comprehensive Guide to Resolving Game Engine Issues</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/from-instant-sharing-to-long-term-storage-snapshots-journey/"><u>From Instant Sharing to Long-Term Storage Snapshots' Journey</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-comprehensive-evaluation-the-leading-gopro-cases-1-10/"><u>In 2024, Comprehensive Evaluation The Leading GoPro Cases #1-10</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-your-iphones-photographic-skills-in-ios-11-for-2024/"><u>Maximizing Your iPhone's Photographic Skills in iOS 11 for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ary-returns-for-one-million-youtube-watchers-for-2024/"><u>Monetary Returns for One Million YouTube Watchers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-fallout-3-launch-issues-expert-advice-gamers/"><u>Overcome Fallout 3 Launch Issues - Expert Advice Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-how-to-address-persistent-crashes-while-playing-manor-lords/"><u>PC Gaming Tips: How to Address Persistent Crashes While Playing Manor Lords</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-dungeon-issues-expert-tips-to-prevent-pc-crashes/"><u>Stop Minecraft Dungeon Issues: Expert Tips to Prevent PC Crashes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-poco-c65-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Poco C65 Device</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-key-to-understanding-your-last-windows-use/"><u>The Key to Understanding Your Last Windows Use</u></a></li>
 </ul></div>
 

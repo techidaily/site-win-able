@@ -1,7 +1,7 @@
 ---
 title: Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action
-date: 2024-11-03T04:14:47.062Z
-updated: 2024-11-07T01:10:30.864Z
+date: 2024-11-23T00:45:40.222Z
+updated: 2024-11-26T20:04:56.961Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CIV 6 crashing
 
@@ -51,16 +55,7 @@ If**Civilization 6 keeps crashing** on your PC, don’t worry. There are solutio
 ---
 
 <!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Update your graphics card driver
@@ -118,10 +113,7 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Disable DLC for CIV 6
@@ -133,13 +125,6 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
  If CIV 6 works properly after turning off DLC, then you should stop using DLC when playing your game, or report your issue to the game support.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Turn off antivirus program for your game
 
@@ -154,6 +139,10 @@ Now launch CIV 6 and see if the crashing issue has been resolved.
 Still no luck? Okay, there is one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 7: Reinstall CIV 6
 
@@ -172,10 +161,7 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-240.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click the**Local Files** tab, then click**Browser Local Files** to open the file location in**File Explorer** .
@@ -185,13 +171,6 @@ Here’s what you need to do:
  5) Click**Uninstall Game** , then follow the on-screen instructions to uninstall CIV 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-243.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Open**File Explorer** that you just open via Steam, and ensure to delete all the files in that game folder.
 
@@ -222,15 +201,20 @@ Here’s what you need to do:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-enriching-youtube-videos-with-harmonics-for-2024/"><u>[New] The Ultimate Guide to Enriching YouTube Videos with Harmonics for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-precision-recording-of-console-games-on-your-pc/"><u>[Updated] In 2024, Precision Recording of Console Games on Your PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-unlocking-potential-secrets-to-successful-fb-video-ads/"><u>[Updated] Unlocking Potential Secrets to Successful FB Video Ads</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-the-art-of-capturing-attention-top-6-videos-to-watch/"><u>2024 Approved The Art of Capturing Attention Top 6 Videos to Watch</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-hurdles-during-takeoff-for-virtual-city-architect-pro-skylines-2/"><u>Fixing Hurdles During Takeoff for Virtual City Architect Pro - Skylines 2</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/stay-on-top-of-your-game-ultimate-tips-to-resolve-war-thunders-persistent-crashing-issues-for-202er/"><u>Stay on Top of Your Game: Ultimate Tips to Resolve War Thunder's Persistent Crashing Issues for 202Er</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-launching-hogwarts-legacy-successfully-korean/"><u>Step-by-Step Solution: Launching Hogwarts Legacy Successfully (Korean)</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2581666-9780008205515-the-pig-in-2017-your-chinese-horoscope/"><u>The Pig in 2017: Your Chinese Horoscope | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-strategies-for-uninterrupted-gaming-battle-royale-fixes-on-desktops-tech-insights-2024/"><u>Winning Strategies for Uninterrupted Gaming: Battle Royale Fixes on Desktops (Tech Insights - 2024)</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unravel-the-best-ps2-emulation-on-ios-devices/"><u>[New] 2024 Approved Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-aim-higher-boosting-views-and-reach-on-youtube/"><u>[Updated] 2024 Approved Aim Higher Boosting Views and Reach on YouTube</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-bright-ideas-effective-lighting-in-vlogging/"><u>[Updated] Bright Ideas Effective Lighting in Vlogging</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-privacy-concerns-master-the-art-of-safely-disengaging-now/"><u>ChatGPT and Privacy Concerns? Master the Art of Safely Disengaging Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-crashes-for-good-master-these-easy-fixes-for-a-seamless-call-of-duty-mw3-experience/"><u>Fix Crashes for Good - Master These Easy Fixes for a Seamless Call of Duty MW3 Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Fixes for Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-sdr-vs-hdr-choosing-the-best-for-professional-outputs/"><u>In 2024, SDR vs HDR Choosing the Best for Professional Outputs</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-for-windows-nx-users-troubleshooting-tips-to-prevent-game-crashes-latest-fixes/"><u>MapleStory for Windows nX Users: Troubleshooting Tips to Prevent Game Crashes (Latest Fixes)</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/navigate-excel-complexity-using-3-strategic-chatgpt-techniques/"><u>Navigate Excel Complexity Using 3 Strategic ChatGPT Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-fixes-for-red-dead-redemption-2-freezing-up-on-your-computer/"><u>Resolving the Issue: Fixes for 'Red Dead Redemption 2' Freezing Up on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-overcome-rainbow-six-sieges-server-connection-problems/"><u>Step-by-Step Solutions to Overcome Rainbow Six Siege's Server Connection Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-y78-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo Y78 5G Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-elevated-processor-load-after-software-update/"><u>Troubleshooting Elevated Processor Load After Software Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-resolve-zoom-video-not-working-error/"><u>Ultimate Guide: How To Resolve Zoom Video Not Working Error</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-meta-quest-3-ai-feature-outpacing-apples-vision-pro-with-tips-for-activation-tech-insights/"><u>Unveiling the Meta Quest 3 AI Feature: Outpacing Apple's Vision Pro with Tips for Activation | Tech Insights</u></a></li>
 </ul></div>
 

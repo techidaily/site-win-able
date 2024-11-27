@@ -1,7 +1,7 @@
 ---
 title: "The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4"
-date: 2024-11-11T23:47:08.218Z
-updated: 2024-11-17T10:56:50.193Z
+date: 2024-11-22T19:24:27.962Z
+updated: 2024-11-26T18:18:01.415Z
 tags:
   - win11
   - win10
@@ -34,19 +34,6 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 1: Install the latest game patch
 
  The developers of It Takes Two release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -76,14 +63,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -99,6 +87,10 @@ There are mainly two methods for you to update the graphics driver:
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay It Takes Two](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
 ## Fix 4: Optimize the graphics settings
@@ -106,6 +98,10 @@ There are mainly two methods for you to update the graphics driver:
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -120,18 +116,15 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -149,15 +142,12 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -166,13 +156,6 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -185,10 +168,7 @@ To optimize the graphics settings, follow the steps below:
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -196,14 +176,11 @@ To optimize the graphics settings, follow the steps below:
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151888/7443" target="_top" id="2151888">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151888" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151888/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -225,14 +202,11 @@ To optimize the graphics settings, follow the steps below:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -258,24 +232,16 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-god-of-war-not-enough-available-memory-issue/"><u>[SOLVED] God of War “Not Enough Available Memory” Issue</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-seamless-3d-cinema-at-home-best-3d-blu-ray-systems/"><u>[Updated] 2024 Approved Seamless 3D Cinema at Home Best 3D Blu-Ray Systems</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-bluetooth-gaming-headsets-of-202carefully-crafted-to-offer-the-ultimate-wireless-experience-our-selection-includes-budget-and-premium-choices-alike-for4/"><u>Best Bluetooth Gaming Headsets of 202Carefully Crafted to Offer the Ultimate Wireless Experience, Our Selection Includes Budget and Premium Choices Alike for Gamers Seeking High-Quality Sound without Wires</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-addressing-wolcen-pc-stability-problems-successfully/"><u>Expert Guide to Addressing Wolcen PC Stability Problems Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-oculus-links-blackout-top-6-rapid-solutions/"><u>Fixing Oculus Link's Blackout: Top 6 Rapid Solutions</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/honor-bypass-tools-to-bypass-lock-screen-honor-by-drfone-android-unlock-android-unlock/"><u>Honor Bypass Tools to Bypass Lock Screen(Honor)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-smooth-out-lag-issues-for-a-seamless-experience-in-forza-horizon-5/"><u>How to Smooth Out Lag Issues for a Seamless Experience in Forza Horizon 5</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-crafting-a-submission-that-works-on-apples-platform/"><u>In 2024, Crafting a Submission that Works on Apple's Platform</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-oneplus-11-5g-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your OnePlus 11 5G Is Unlocked</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-ios-screen-capture-a-comparative-analysis/"><u>In 2024, IOS Screen Capture A Comparative Analysis</u></a></li>
-<li><a href="https://discover-help.techidaily.com/las-mejores-aplicaciones-gratuitas-para-convertir-videos-ade-4k-descubrira-los-12-mas-efectivos-para-su-computadora/"><u>Las Mejores Aplicaciones Gratuitas Para Convertir Videos A/De 4K, Descubrirá Los 12 Más Efectivos Para Su Computadora</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/mac-outlook-bento/"><u>Mac Outlook 連絡先のデフォルトに変更して、バッファローとBentoでどうやったらエクスポートできますか？</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-crashing-issues-in-metro-exodus-enhanced-edition-on-pc-how-to-fix-them/"><u>Persistent Crashing Issues in Metro Exodus Enhanced Edition on PC: How to Fix Them</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/er-edit-suites-linux-compatible-tools-for-2024/"><u>Premier Edit Suites Linux-Compatible Tools for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-nvidia-geforce-overlay-problems-for-seamless-gaming-experience/"><u>Resolving Nvidia GeForce Overlay Problems for Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-address-msi-afterburners-inability-to-identify-gpu-under-windows-11-environment/"><u>Solutions to Address MSI Afterburner's Inability to Identify GPU Under Windows 11 Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-lost-ark-server-disconnect-error-effective-solutions-revealed/"><u>Solving Lost Ark Server Disconnect Error - Effective Solutions Revealed</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/top-10-ai-powered-pdf-tools-for-streamlining-your-workflow-with-chatgpt/"><u>Top 10 AI-Powered PDF Tools for Streamlining Your Workflow with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-gears-of-war-5-stuttering/"><u>Troubleshooting Tips: Resolving Issues with Gears of War 5 Stuttering</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-in-depth-review-xiaomi-mi-drone-4k-capabilities/"><u>[New] In 2024, In-Depth Review Xiaomi MI Drone 4K Capabilities</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/nleash-creativity-in-youtube-short-video-production-for-2024/"><u>[New] Unleash Creativity in YouTube Short Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-virtual-upgrade-social-story-snipper/"><u>[Updated] 2024 Approved Virtual Upgrade Social Story Snipper</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-your-ultimate-guide-to-polarr-image-editing-software/"><u>[Updated] 2024 Approved Your Ultimate Guide to Polarr Image Editing Software</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-smartphone-accessories-for-making-videos/"><u>[Updated] In 2024, Smartphone Accessories for Making Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-top-4-proven-tactics-for-exceptional-loop-videos-on-ig/"><u>2024 Approved Top 4 Proven Tactics for Exceptional Loop Videos on IG</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-garrys-mod-from-crashing-gamers-guide/"><u>Effective Solutions to Stop Garry's Mod From Crashing: Gamer's Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-70-lite-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 70 Lite 5G to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007329785-optimized-cyberpunk-2077-gameplay-bid-farewell-to-lag-and-glitches-today/"><u>Optimized Cyberpunk 2077 Gameplay - Bid Farewell to Lag & Glitches Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-mw3-stability-issues-quick-fixes-to-prevent-game-crashes-on-windows-computers/"><u>Troubleshooting Common MW3 Stability Issues – Quick Fixes to Prevent Game Crashes on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-stability-enhancements-for-windows-11-and-10-users/"><u>Zoom Stability Enhancements for Windows 11 & 10 Users</u></a></li>
 </ul></div>
 

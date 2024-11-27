@@ -1,7 +1,7 @@
 ---
 title: "Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes"
-date: 2024-11-15T10:47:45.077Z
-updated: 2024-11-17T06:46:28.743Z
+date: 2024-11-20T20:32:12.822Z
+updated: 2024-11-26T18:33:20.824Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix_Diablo 3_ crashing issues?
 
 1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
@@ -37,6 +41,10 @@ _Diablo 3_ constantly crashes on your computer? You’re not alone! Many players
 7. [**Delete the game cache files**](https://tools.techidaily.com/drivereasy/download/)
 8. **[Run your game in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game and/or the Blizzard Battle.net app](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: **Update your graphics driver**
 
@@ -65,10 +73,7 @@ There are two ways you can get the latest correct graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -82,6 +87,10 @@ There are two ways you can get the latest correct graphics driver:
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your computer
 
@@ -101,13 +110,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
@@ -119,10 +121,7 @@ If your game crashes again, go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Repair your game files
@@ -135,16 +134,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-502.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Wait for the scans to be complete, then relaunch _Diablo 3_ to test your issue. If your game crashes again, read on and try the fix below.
 
@@ -165,10 +161,7 @@ If your game crashes again, go ahead with the fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Reset your in-game settings
@@ -180,6 +173,10 @@ If your game crashes again, go ahead with the fix below.
 **2)** Click **BLIZZARD** , then **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
 
@@ -215,16 +212,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
@@ -245,13 +239,6 @@ If your game crashes again, go ahead with the fix below.
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -294,22 +281,13 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Right-click the**Battle.net app** , then click **Uninstall/Change** .
 
@@ -343,19 +321,19 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-obs-mic-not-working-6-best-solutions-2024/"><u>[FIXED] OBS Mic Not Working | 6 Best Solutions 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-download-youtube-icons-quickly-web-os-specific-options-explained-for-2024/"><u>[New] Download YouTube Icons Quickly Web, OS-Specific Options Explained for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-investigating-the-underreported-drawbacks-of-vr/"><u>[Updated] Investigating the Underreported Drawbacks of VR</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-2-launch-problems-heres-how-to-resolve-them/"><u>Alan Wake 2 Launch Problems? Here's How to Resolve Them!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999278352-battlefront-ii-not-starting-solve-the-crash-issues-on-your-pc/"><u>Battlefront II Not Starting? Solve the Crash Issues on Your PC</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/create-bootable-windows-pe-media-cd-dvd-usb-using-aomei-partition-assistant/"><u>Create Bootable Windows PE Media (CD, DVD, USB) Using AOMEI Partition Assistant</u></a></li>
-<li><a href="https://games-able.techidaily.com/establishing-a-team-in-xboxs-next-gen-console/"><u>Establishing a Team in Xbox's Next-Gen Console</u></a></li>
-<li><a href="https://techidaily.com/how-to-factory-reset-realme-narzo-n55-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme Narzo N55 in 5 Easy Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-x50iplus-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor X50i+ Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-battlefield-2042-from-crashing-on-your-computer-a-guide/"><u>How to Stop Battlefield 2042 From Crashing on Your Computer: A Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-huawei-nova-y91-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Huawei Nova Y91 to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/netgear-nighthawk-x10-ad7200-in-depth-review-for-unmatched-internet-speed-and-connectivity/"><u>Netgear Nighthawk X10 AD7200: In-Depth Review for Unmatched Internet Speed and Connectivity</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-left-4-dead-2-sudden-game-crashes/"><u>Resolved: Fixing Left 4 Dead 2 Sudden Game Crashes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-tutorial-using-imessages-with-an-android-phone/"><u>Step-by-Step Tutorial: Using iMessages with an Android Phone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-5-tools-for-enhancing-web-videos/"><u>[New] Top 5 Tools for Enhancing Web Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-top-strategies-for-changing-song-pace-on-spotify-app/"><u>[New] Top Strategies for Changing Song Pace on Spotify App</u></a></li>
+<li><a href="https://extra-information.techidaily.com/8-best-photo-grid-online-makers-to-polish-your-pictures-for-2024/"><u>8 Best Photo Grid Online Makers to Polish Your Pictures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-performance-fast-a-guide-to-effortless-shader-customization-in-swbfii/"><u>Boost Performance Fast! A Guide to Effortless Shader Customization in SWBFII</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/creating-an-effective-programmers-showcase-a-step-by-step-guide/"><u>Creating an Effective Programmer's Showcase: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-get-resident-evil-5-running-smoothly-on-your-pc/"><u>Fix Guide: How to Get Resident Evil 5 Running Smoothly on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-cod-modern-warfare-2-gameplay-with-these-directx-error-solutions/"><u>Fix Your COD Modern Warfare 2 Gameplay with These DirectX Error Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/hassle-free-ways-to-prevent-chrome-sluggishness-and-freezing-on-pcs-with-windows-10/"><u>Hassle-Free Ways to Prevent Chrome Sluggishness and Freezing on PCs with Windows 10</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/healthful-cuisine-unlocked-through-tech-assistance/"><u>Healthful Cuisine Unlocked Through Tech Assistance</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-of-cold-war-across-platforms/"><u>How to Overcome the Endless Loading Screen of Cold War Across Platforms</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/imaginedge-coder-for-2024/"><u>ImaginEdge Coder for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-tips-to-stop-stuttering-and-increase-fps-in-valorant/"><u>Improving Performance: Tips to Stop Stuttering & Increase FPS in VALORANT</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/lg-smart-cam-2023-in-depth-analysis-and-updates-for-2024/"><u>LG Smart Cam 2023 In-Depth Analysis & Updates for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-your-infinix-note-30-vip-racing-editions-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Infinix Note 30 VIP Racing Editions Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 </ul></div>
 

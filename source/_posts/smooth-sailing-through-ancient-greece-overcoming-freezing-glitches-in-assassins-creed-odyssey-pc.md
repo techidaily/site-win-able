@@ -1,7 +1,7 @@
 ---
 title: Smooth Sailing Through Ancient Greece - Overcoming Freezing Glitches in Assassin's Creed Odyssey (PC)
-date: 2024-08-28T05:31:10.533Z
-updated: 2024-08-29T05:31:10.533Z
+date: 2024-11-22T22:14:36.691Z
+updated: 2024-11-26T18:46:10.485Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/8c939daafbcd042f39c237e82182653fc156f3f06
 ## Smooth Sailing Through the Ocean Eleven Sea - NieR: World's Crash Fixes Revealed
 
 NieR Replicant ver.1.22474487139… is finally online! But did you manage to play it? It could be annoying to have the game crash on startup. Don’t worry, this post could help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check your specs
 
@@ -38,9 +42,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -49,10 +50,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 
 If this fix doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run as administrator
 
  Lack of administrative rights can also be the reason for Nier Replicant crashing issue.
@@ -60,8 +57,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Right-click on Nier Replicant’s exe and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
@@ -73,20 +79,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your drivers
 
  One of the most common causes of games crashing is you’re using outdated or corrupted drivers. You need to make sure your drivers are fully up-to-date so that you’re able to enjoy one of the best AAA titles in 2021.
@@ -102,12 +104,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -126,11 +129,13 @@ Here’s how to disable Windows Security temporarily.
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -147,8 +152,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +159,24 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-optimal-viewport-adjustment-iphones-zooming-guide/"><u>[New] Optimal Viewport Adjustment IPhone's Zooming Guide</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tint-tuning-toolkit/"><u>[New] Tint Tuning Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-f1-2020-keeps-crashing-on-pc/"><u>[SOLVED] F1 2020 Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-boxing-vs-streaming-ultimate-showdown-for-2024/"><u>[Updated] Boxing vs Streaming Ultimate Showdown for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-excellent-camcorders-with-facing-panel-for-2024/"><u>[Updated] Excellent Camcorders with Facing Panel for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-definitive-guide-to-solving-biomutants-pc-stability-and-eliminating-crashes-for-gamers/"><u>2024'S Definitive Guide to Solving Biomutant's PC Stability and Eliminating Crashes for Gamers.</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-installing-hyper-v-features-on-windows-10-computers/"><u>Comprehensive Tutorial: Installing Hyper-V Features on Windows 10 Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-pc-launch-uncertain-stay-updated-on-the-future-of-mobile-exclusive-release/"><u>Diablo Immortal PC Launch Uncertain - Stay Updated on the Future of Mobile-Exclusive Release</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-features-and-functionality-in-apple-books-a-readers-perspective/"><u>Exploring Features and Functionality in Apple Books - A Reader's Perspective</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/fine-tune-video-aspect-ratios-for-instagram-bliss/"><u>Fine-Tune Video Aspect Ratios for Instagram Bliss</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-stuck-loading-screen-in-league-of-legends/"><u>Fixing Stuck Loading Screen in League of Legends</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-tecno-camon-30-pro-5g-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Tecno Camon 30 Pro 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-implemented-for-fifa-21-initial-launch-issues/"><u>Resolved: Fixes Implemented For FIFA 21 Initial Launch Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-when-team-fortress-2-refuses-to-open/"><u>Resolving the Issue When 'Team Fortress 2 Refuses to Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-stop-frame-rate-dips-in-resident-evil-village-pc/"><u>Troubleshooting Steps: How to Stop Frame Rate Dips in Resident Evil Village [PC]</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-mac-subtitle-editing-made-easy-top-subtitle-edit-alternatives-for-2024/"><u>Updated Mac Subtitle Editing Made Easy Top Subtitle Edit Alternatives for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-cod-modern-warfare-amoor-game-crash-detailed-guide-to-resolve-the-unexpected-stop-issue/"><u>Why Does My COD Modern Warfare Amoor Game Crash? Detailed Guide to Resolve the Unexpected Stop Issue</u></a></li>
+</ul></div>
 

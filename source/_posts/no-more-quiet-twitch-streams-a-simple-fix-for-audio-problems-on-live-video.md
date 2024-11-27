@@ -1,7 +1,7 @@
 ---
 title: "No More Quiet Twitch Streams: A Simple Fix for Audio Problems on Live Video"
-date: 2024-09-01T07:57:47.185Z
-updated: 2024-09-02T07:57:47.185Z
+date: 2024-11-19T21:34:07.173Z
+updated: 2024-11-26T19:12:12.547Z
 tags:
   - win11
   - win10
@@ -57,25 +57,10 @@ Here’s how to restart it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ## Fix 3 Change your DNS settings
@@ -88,23 +73,35 @@ To fix this, you can try using Google Public DNS. Here’s how:
 2. Type “ncpa.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-386.png)
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4 Clear cache and cookies
 
  Web browsers store cache and cookies to help sites load faster, but sometimes this data gets corrupted or outdated. Clearing the cache and cookies gives your browser a fresh start, deleting any problematic cached/cookie data that may be preventing a page from loading properly.
@@ -119,9 +116,6 @@ Clear cache and cookies in Google Chrome:
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5 Disable browser extensions
 
  Ad blockers and other browser extensions can interfere with Twitch’s functionality and cause streams not to load. Disabling them temporarily can help resolve the issue. Follow the steps below to disable ad blockers and extensions in Google Chrome:
@@ -130,9 +124,11 @@ Clear cache and cookies in Google Chrome:
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
 ## Fix 6 Use VPN to change your IP address
@@ -150,27 +146,30 @@ Here’s how to use it:
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
 
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hopefully you can fix Twitch streams not loading with the methods above. If you have any questions, ideas or suggestions, feel free to leave your comments below.
 
 <ins class="adsbygoogle"
@@ -179,8 +178,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +185,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-leveraging-visuals-snap-camera-for-team-discussions/"><u>2024 Approved Leveraging Visuals Snap Camera for Team Discussions</u></a></li>
+<li><a href="https://common-error.techidaily.com/diagnosing-and-fixing-a-malfunctioning-lenovo-keyboard-expert-tips-and-tricks/"><u>Diagnosing and Fixing a Malfunctioning Lenovo Keyboard: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/free-download-steelseries-keyboard-drivers-and-firmware/"><u>Free Download: SteelSeries Keyboard Drivers & Firmware</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-dvd-ripping-tool-with-zero-watermarks-how-to-transform-your-dvds-perfectly/"><u>Free DVD Ripping Tool with Zero Watermarks - How to Transform Your DVDs Perfectly</u></a></li>
+<li><a href="https://program-issues.techidaily.com/frostpunk-stability-improvements-no-more-unwanted-crashes/"><u>Frostpunk Stability Improvements - No More Unwanted Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/gi-joe-retaliation-dvd-unlocks-secure-your-copy-today/"><u>G.I. Joe: Retaliation DVD Unlocks - Secure Your Copy Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-transforming-your-rzmmj-files-from-youtube-video-editor-into-high-quality-mp4/"><u>Guide: Transforming Your RZMMJ Files From YouTube Video Editor Into High-Quality MP4</u></a></li>
+<li><a href="https://win-able.techidaily.com/innovative-youtube-uploaders-unconventional-methods-to-overcome-video-upload-challenges/"><u>Innovative YouTube Uploaders: Unconventional Methods to Overcome Video Upload Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/is-it-legal-to-duplicate-dvd-content-your-full-legal-analysis-explained/"><u>Is It Legal to Duplicate DVD Content? Your Full Legal Analysis Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-4k-video-uploads-a-comprehensive-tutorial-for-instagram-users/"><u>Mastering 4K Video Uploads: A Comprehensive Tutorial for Instagram Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/merging-video-clips-seamlessly-on-windows-10-a-step-by-step-guide/"><u>Merging Video Clips Seamlessly on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/put-and-play-mkv-movies-on-14-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Put and play MKV movies on 14 Pro</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/re-activating-system-sound-on-unresponsive-devices/"><u>Re-Activating System Sound on Unresponsive Devices</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/revolutionary-audio-adjustment-software-best-of-the-free-kind-for-valorant-for-2024/"><u>Revolutionary Audio Adjustment Software – Best of the Free Kind for Valorant for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solving-the-laptops-persistent-blackwhite-screen-problem/"><u>Solving the Laptop's Persistent Black/White Screen Problem</u></a></li>
+</ul></div>
 

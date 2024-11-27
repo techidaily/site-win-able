@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-11-03T20:28:07.172Z
-updated: 2024-11-07T01:33:19.089Z
+date: 2024-11-25T01:05:44.304Z
+updated: 2024-11-26T17:46:30.551Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -61,13 +54,6 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 If this method doesn’t help, check out your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -82,10 +68,7 @@ If this method doesn’t help, check out your graphics driver.
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
@@ -96,13 +79,6 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
@@ -112,19 +88,20 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
- Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -135,9 +112,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -149,14 +134,11 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **On GeForce Experience**
 
@@ -190,16 +172,14 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-intense-immersion-with-closest-viewing-techniques-in-roblox/"><u>[New] Intense Immersion with Closest Viewing Techniques in Roblox</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-efficiently-extracting-twitters-visual-jokes-gifs/"><u>2024 Approved Efficiently Extracting Twitter's Visual Jokes (GIFs)</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-preventing-frequent-disruptions-while-playing-battlefield-v-on-pc/"><u>Expert Tips: Preventing Frequent Disruptions While Playing Battlefield V on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-ps4-freezing-step-by-step/"><u>How to FIX PS4 Freezing | Step by Step</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-error-code-80070057-in-call-of-duty-black-ops-cold-war/"><u>How to Resolve the 'Error Code 80070057' In Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-11-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 11?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Sony Xperia 5 V | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-dolby-atmos-functionality-on-your-windows-computer/"><u>Step-by-Step Tutorial: Restoring Dolby Atmos Functionality on Your Windows Computer</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/top-6-instagram-money-calculator-safe-and-effective-for-2024/"><u>Top 6 Instagram Money Calculator - Safe & Effective for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-models-comprehensive-reviews-by-tech-gurus/"><u>Top-Rated iPad Models : Comprehensive Reviews by Tech Gurus</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-2k22-pc-version-why-does-it-keep-crashing-solutions-inside/"><u>WWE 2K22 PC Version: Why Does It Keep Crashing? - Solutions Inside</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>[New] Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[Updated] 2024 Approved Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-terrariums-topography-selecting-prime-maps/"><u>2024 Approved Terrarium's Topography Selecting Prime Maps</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-complications-heres-what-you-need-to-know-about-correcting-them-for-fifa-nineteen-twenty/"><u>DirectX Complications? Here’s What You Need to Know About Correcting Them for FIFA Nineteen Twenty</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/effortless-disconnection-how-to-detach-a-microsoft-account-from-windows-10-in-minutes/"><u>Effortless Disconnection: How To Detach a Microsoft Account From Windows 10 in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-constant-crashes-of-the-ascent-game-on-windowsmacos-systems/"><u>How To Fix The Constant Crashes Of The Ascent Game On Windows/MacOS Systems?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-stalling-issues-in-age-of-wonders-planetfall-for-windows-users/"><u>Solving Persistent Stalling Issues in 'Age of Wonders: Planetfall' For Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-lost-ark-startup-failures/"><u>Troubleshooting Guide: Resolving Lost Ark Startup Failures</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrade-windows-system-craft-a-distributed-transcoding-powerhouse-with-tdarr/"><u>Upgrade Windows System: Craft a Distributed Transcoding Powerhouse with Tdarr</u></a></li>
 </ul></div>
 

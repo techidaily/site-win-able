@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players"
-date: 2024-11-11T17:01:24.209Z
-updated: 2024-11-16T21:09:01.578Z
+date: 2024-11-20T23:58:40.158Z
+updated: 2024-11-26T20:54:18.775Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -33,13 +37,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 * [Fix 7: Stop overlocking your GPU/CPU](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 8: Disable fullscreen optimizations](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 9: Try Phasmophobia beta version](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your computer
 
@@ -66,10 +63,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 If Phasmophobia still crashes, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
@@ -89,10 +83,7 @@ Game crashing issues might happen when your game files are corrupted.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
@@ -122,6 +113,10 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -130,6 +125,10 @@ If the game still crashes, try the next fix below.
 4) Relaunch the game to test your issue.
 
 If the crash still occurs, go ahead with the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -155,27 +154,17 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Disable fullscreen optimizations
 
@@ -186,13 +175,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
  2) Under the Compatibility tab, check the box next to**Disable fullscreen optimizations** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click**Apply > OK** .
 
@@ -211,6 +193,10 @@ If the problem still exists, try the next fix below.
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
@@ -231,15 +217,22 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-the-ultimate-guide-to-polaroid-camplus-for-action-enthusiasts/"><u>[New] 2024 Approved The Ultimate Guide to Polaroid Cam+ for Action Enthusiasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-virtual-reality-use-in-healthcare/"><u>[New] 2024 Approved Virtual Reality Use in Healthcare</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-transform-your-images-erase-backdrops-with-canva-skills/"><u>[Updated] 2024 Approved Transform Your Images Erase Backdrops with Canva Skills</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-instructions-windows-movie-maker-version-6-installation/"><u>[Updated] Instructions Windows Movie Maker Version 6 Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001929080-assassins-creed-valhalla-pc-performance-optimized-no-more-stutters/"><u>Assassin's Creed Valhalla - PC Performance Optimized: No More Stutters</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-warzone-20-update-eliminates-previous-pc-stability-problems/"><u>Call of Duty: Warzone 2.0 Update Eliminates Previous PC Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-the-notorious-error-4201-on-genshin-impact-detailed-fixes/"><u>How To Address the Notorious Error 4201 on Genshin Impact – Detailed Fixes!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-rectify-the-invisible-wi-fi-network-dilemma/"><u>How to Rectify the Invisible Wi-Fi Network Dilemma?</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-gameplay-reducing-ping-time-in-valheim-on-a-windows-system/"><u>Optimize Gameplay: Reducing Ping Time in Valheim on a Windows System</u></a></li>
-<li><a href="https://fox-http.techidaily.com/picsart-shield-invisible-smile-vanished-gaze/"><u>Picsart Shield Invisible Smile, Vanished Gaze</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-how-to-use-zoom-video-filters-to-make-a-high-quality-video-call/"><u>[New] In 2024, How to Use Zoom Video Filters to Make a High-Quality Video Call</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-securing-your-games-in-motion-top-5-for-windows-10/"><u>[New] In 2024, Securing Your Games in Motion Top 5 for Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-essential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators-for-2024/"><u>[Updated] Essential Guide The Top 10 Inexpensive YouTube Channels for Visual Creators for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/are-your-iphone-memories-stuck-even-after-clearing-photo-gallery-here-are-8-fixes/"><u>Are Your iPhone Memories Stuck Even After Clearing Photo Gallery? Here Are 8 Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-on-your-assassins-creed-valhalla-adventure-top-fixes-players/"><u>Avoiding Crashes on Your Assassin's Creed Valhalla Adventure: Top Fixes Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-with-these-pro-tips-and-keep-your-battlefield-experience-uninterrupted/"><u>Beat Dev Error 6068 with These Pro Tips and Keep Your Battlefield Experience Uninterrupted</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/elevate-your-watching-pleasure-the-essential-list-of-15-films-enhanced-by-dolby-atmos-sound/"><u>Elevate Your Watching Pleasure: The Essential List of 15 Films Enhanced by Dolby Atmos Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-solve-elex-ii-stability-problems-on-desktop-systems/"><u>How to Prevent and Solve Elex II Stability Problems on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-warframe-from-continuously-stalling/"><u>How to Stop Warframe From Continuously Stalling</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-play-7t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor Play 7T to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-pinnacle-cloud-solutions-highest-rated-reviewed/"><u>In 2024, Pinnacle Cloud Solutions Highest-Rated Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-assassins-creed-valhalla-start-up-issues/"><u>Quick Fixes: Resolving 'Assassin's Creed Valhalla' Start-Up Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-far-cry-6-failing-to-start-on-windows/"><u>Resolved: Overcoming the Issue of Far Cry 6 Failing to Start on Windows</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-money-making-on-youtube-shorts/"><u>Smart Money-Making on Youtube Shorts</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-heres-how-you-can-prevent-and-solve-them/"><u>Starfield PC Stability Issues? Here's How You Can Prevent and Solve Them!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-3d-rendering-errors-fixing-d3derrnotavailable-issues/"><u>Troubleshooting 3D Rendering Errors: Fixing D3DERR_NOTAVAILABLE Issues</u></a></li>
 </ul></div>
 

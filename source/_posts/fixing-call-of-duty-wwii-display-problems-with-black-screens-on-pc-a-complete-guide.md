@@ -1,7 +1,7 @@
 ---
 title: "Fixing Call of Duty: WWII Display Problems with Black Screens on PC - A Complete Guide"
-date: 2024-10-23T07:30:53.854Z
-updated: 2024-10-25T17:08:50.368Z
+date: 2024-11-20T16:36:27.526Z
+updated: 2024-11-26T21:36:06.936Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all, just work your way down the list until you find the one that works for you.
@@ -34,6 +38,10 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -54,6 +62,10 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -69,26 +81,16 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Verify the integrity of game files
 
@@ -101,25 +103,11 @@ Marvel’s Guardians of the Galaxy system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -138,25 +126,16 @@ If this issue persists, try the next fix, below.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Marvel’s Guardians of the Galaxy_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Temporarily disable anti-virus software
 
@@ -167,13 +146,6 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -199,6 +171,10 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Perform a clean boot
 
  If there’s a certain app conflicting with Marvel’s Guardians of the Galaxy, the game will crash. Not sure which app is conflicting with the game? Don’t worry. Just follow the steps below to perform a clean boot, and you’ll find it out. Here’s how to do it:
@@ -210,15 +186,12 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
@@ -226,6 +199,10 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -260,22 +237,19 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-honor-x7b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/affordable-power-station-testing-a-game-changer-for-budget-road-trips-insights-from-zdnet/"><u>Affordable Power Station Testing: A Game Changer for Budget Road Trips - Insights From ZDNet</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ling-leading-short-form-video-editors-iosandroid-edition/"><u>Compiling Leading Short-Form Video Editors IOS/Android Edition</u></a></li>
-<li><a href="https://win-answers.techidaily.com/essential-guide-overcoming-high-ping-issues-in-call-of-duty-warzone/"><u>Essential Guide: Overcoming High Ping Issues in Call of Duty Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-and-prevent-hell-let-loose-game-from-crashing-on-windows-pc/"><u>Fix & Prevent Hell Let Loose Game From Crashing on Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop Valheim From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-elder-scrolls-online-when-it-wont-load-a-comprehensive-guide/"><u>How to Fix 'The Elder Scrolls Online' When It Won’t Load: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-error-code-0xc19001e1-in-windows-11-detailed-solutions-and-tips/"><u>How to Fix Error Code 0XC19001E1 in Windows 11 - Detailed Solutions and Tips</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-3-smart-and-simple-ways-to-change-home-address-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Smart and Simple Ways to Change Home Address on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fluid-gaming-tips-and-tricks-for-fixing-stutter-lags-and-drops-in-fps/"><u>Mastering Fluid Gaming: Tips and Tricks for Fixing Stutter, Lags, & Drops in FPS</u></a></li>
-<li><a href="https://fox-access.techidaily.com/prime-radio-playscript-artistry-for-2024/"><u>Prime Radio Playscript Artistry for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/reclaiming-your-online-identity-on-facebook-unpredictably/"><u>Reclaiming Your Online Identity on Facebook Unpredictably</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-2024-playbook-for-overcoming-rust-program-freeze-scenarios-expert-tips-and-tricks/"><u>The 2024 Playbook for Overcoming Rust Program Freeze Scenarios - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-starfield-games-excessive-cpu-drain-problem/"><u>Ultimate Guide: Resolving the Starfield Game's Excessive CPU Drain Problem</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-solution-resolve-windows-chrome-screen-trembling-a-complete-walkthrough/"><u>Ultimate Solution: Resolve Window's Chrome Screen Trembling - A Complete Walkthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/what-you-want-to-know-about-two-factor-authentication-for-icloud-from-your-apple-iphone-8-by-drfone-ios/"><u>What You Want To Know About Two-Factor Authentication for iCloud From your Apple iPhone 8</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-revealed-the-best-videos-from-facebooks-pages-for-2024/"><u>[New] Revealed The Best Videos From Facebook’s Pages for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-beam-your-content-upward-perfecting-youtube-seo-techniques/"><u>[Updated] 2024 Approved Beam Your Content Upward Perfecting YouTube SEO Techniques</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-elevate-creations-get-free-high-quality-templates-today/"><u>[Updated] In 2024, Elevate Creations - Get FREE High-Quality Templates Today</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-sonic-shakers-the-ultimate-audio-rippers-list-for-2024/"><u>[Updated] Sonic Shakers The Ultimate Audio Rippers List for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-adding-captions-to-videos-using-microsoft-photos-windows-11/"><u>2024 Approved Adding Captions to Videos Using Microsoft Photos (Windows 11)</u></a></li>
+<li><a href="https://win-able.techidaily.com/direct-x-troubles-heres-how-you-can-smoothly-solve-fifa-19-glitches/"><u>DIRECT X Troubles? Here's How You Can Smoothly Solve FIFA 19 Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/dont-miss-out-snag-the-deal-on-apples-m2-macbook-air-for-just-749-this-october-with-amazon-prime-day-highlights-insights/"><u>Don’t Miss Out: Snag the Deal on Apple's M2 MacBook Air for Just $749 This October with Amazon Prime Day Highlights | Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-discover-seamless-gaming-with-disco-elysium-for-windows/"><u>Fixed! Discover Seamless Gaming with Disco Elysium for Windows</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-black-ops-cold-war-effective-fixes-for-episode-8-8-7-a00-groovy-code/"><u>Mastering Black Ops Cold War: Effective Fixes for Episode 8-8-7 A00 Groovy Code</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-initial-load-failures-in-urban-planning-masterpiece-skyline-2-edition/"><u>Overcoming Initial Load Failures in Urban Planning Masterpiece Skyline 2 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-battlefield-5-wont-load-dilemma-with-our-expert-tips/"><u>Resolve Your Battlefield 5 Won't Load Dilemma with Our Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-get-out-of-a-jam-with-persistent-loading-screens-in-minecraft/"><u>Solution Found: Get Out of a Jam with Persistent Loading Screens in Minecraft</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-6-innovative-uses-for-microsofts-bing-chat-ai-unleashing-the-power-of-conversational-tech/"><u>Top 6 Innovative Uses for Microsoft's Bing Chat AI: Unleashing the Power of Conversational Tech</u></a></li>
 </ul></div>
 

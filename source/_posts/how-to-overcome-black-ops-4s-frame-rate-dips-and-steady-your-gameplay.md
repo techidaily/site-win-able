@@ -1,7 +1,7 @@
 ---
 title: How To Overcome Black Ops 4'S Frame Rate Dips & Steady Your Gameplay
-date: 2024-10-23T07:34:22.894Z
-updated: 2024-10-26T01:49:54.111Z
+date: 2024-11-24T22:09:52.359Z
+updated: 2024-11-26T17:24:54.067Z
 tags:
   - win11
   - win10
@@ -63,27 +63,17 @@ There are mainly two methods for you to update the graphics driver:
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3: Turn off Steam Overlay
 
@@ -95,6 +85,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
@@ -102,10 +96,7 @@ There are mainly two methods for you to update the graphics driver:
 To optimize the graphics settings, follow the steps below:
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
@@ -140,30 +131,21 @@ To optimize the graphics settings, follow the steps below:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
@@ -187,16 +169,13 @@ To optimize the graphics settings, follow the steps below:
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -206,7 +185,15 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
@@ -217,13 +204,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
@@ -251,14 +231,22 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-crafting-the-futures-past-digital-conversion-for-timeless-images/"><u>[New] Crafting the Future's Past Digital Conversion for Timeless Images</u></a></li>
-<li><a href="https://extra-information.techidaily.com/comprehensive-manual-on-morphvox-sound-alteration/"><u>Comprehensive Manual on MorphVOX Sound Alteration</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-annoying-pixel-shaking-solutions-to-stabilize-your-screen/"><u>Conquer the Annoying Pixel Shaking - Solutions to Stabilize Your Screen</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-motorola-razr-40-ultra-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Motorola Razr 40 Ultra</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/interactive-revolution-siri-powered-chatgpt-experience-iphones/"><u>Interactive Revolution: Siri-Powered ChatGPT Experience iPhones</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/multiple-camera-solutions-expert-reviews-of-virtual-webcams-and-live-broadcast-software/"><u>Multiple Camera Solutions: Expert Reviews of Virtual Webcams and Live Broadcast Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-logitech-g-hub-malfunctions-a-comprehensive-fix-guide-for-windows-users/"><u>Overcoming Logitech G Hub Malfunctions - A Comprehensive Fix Guide for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-world-of-tanks-blitz-app-crashes-a-comprehensive-fix-guide/"><u>Resolving the 'World of Tanks Blitz' App Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-fixing-valorant-startup-troubles-on-your-pc-insider-tips-for-2e24/"><u>The Ultimate Guide to Fixing Valorant Startup Troubles on Your PC - Insider Tips for 2E24</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-crafting-viral-covers-for-your-facebook-profile/"><u>[Updated] Crafting Viral Covers for Your Facebook Profile</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/1716806221212-updated-how-to-record-good-audio-without-a-microphone/"><u>[Updated] How to Record Good Audio Without a Microphone?</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-risk-free-youtube-video-mp4-downloading/"><u>2024 Approved Tips for Risk-Free YouTube Video MP4 Downloading</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/aprenda-a-encolher-arquivos-massivos-3-estrategias-de-compressao-simples-e-eficientes/"><u>Aprenda a Encolher Arquivos MASSIVOS: 3 Estratégias De Compressão Simples E Eficientes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-evaluation-of-the-dell-inspiron-n3671-a-review-for-budget-friendly-performance/"><u>Comprehensive Evaluation of the Dell Inspiron N3671: A Review for Budget-Friendly Performance</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cyber-threat-alert-the-risky-side-of-google-bard-download/"><u>Cyber Threat Alert: The Risky Side of Google Bard Download</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-solving-grounded-pc-malfunctions-a-2024-update/"><u>Essential Tips for Solving Grounded PC Malfunctions - A 2024 Update</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixes-for-disk-management-encountering-virtual-errors/"><u>Fixes for Disk Management Encountering Virtual Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-vrchat-connectivity-issues-why-it-wont-load/"><u>Fixing VRChat Connectivity Issues: Why It Won't Load</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-7-plus-to-other-iphone-15-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 7 Plus to other iPhone 15 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-problems-in-grand-theft-auto-online/"><u>Resolving Connection Problems in Grand Theft Auto Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-frame-rate-drop-problem-in-dying-light-an-fps-guide/"><u>Resolving the Frame Rate Drop Problem in Dying Light: An FPS Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamped-bioshock-2-experience-the-ultimate-remix-of-classic-with-improved-stability/"><u>Revamped BioShock 2 - Experience the Ultimate Remix of Classic with Improved Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-huoxijie-vii-sword-and-fairy-n7-stability-problems-for-smooth-gaming-experience/"><u>Solve Huòxījié VII (Sword and Fairy N7) Stability Problems for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-msi-afterburner-and-non-detecting-gpu-issues-on-windows-1110/"><u>Troubleshooting Guide: MSI Afterburner and Non-Detecting GPU Issues on Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-in-tainted-grail-conquest/"><u>Ultimate Guide to Enhancing Frame Rates in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/what-to-expect-from-teslas-futuristic-bot-rumored-features-cost-estimates-and-anticipated-release-date-analyzed/"><u>What to Expect From Tesla's Futuristic Bot: Rumored Features, Cost Estimates & Anticipated Release Date Analyzed</u></a></li>
 </ul></div>
 

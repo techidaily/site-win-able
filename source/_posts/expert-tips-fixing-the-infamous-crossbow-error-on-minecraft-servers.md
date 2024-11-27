@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers"
-date: 2024-10-31T01:36:50.690Z
-updated: 2024-11-06T16:37:57.520Z
+date: 2024-11-21T00:53:19.581Z
+updated: 2024-11-27T01:01:55.545Z
 tags:
   - win11
   - win10
@@ -41,34 +41,22 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
 
@@ -91,22 +79,8 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -128,11 +102,19 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -149,10 +131,7 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -167,16 +146,7 @@ If not, try the next fix.
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
@@ -185,6 +155,10 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -210,14 +184,16 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-top-15-free-audio-resources-for-youtube-clips-makers/"><u>[New] 2024 Approved Top 15 FREE Audio Resources for YouTube Clips Makers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/assessment-of-various-camera-types-for-videos-for-2024/"><u>Assessment of Various Camera Types for Videos for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-application-crashes/"><u>Complete Step-by-Step Tutorial: Resolving Teardown Application Crashes</u></a></li>
-<li><a href="https://windows11.techidaily.com/how-to-correctly-evaluate-processor-load-using-task-manager/"><u>How to Correctly Evaluate Processor Load Using Task Manager</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-fix-unresponsive-screen-when-using-a-stylus-or-finger/"><u>How to Fix Unresponsive Screen When Using a Stylus or Finger</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-stop-starfield-from-stuttering-and-cutting-out/"><u>Solved! How to Stop Starfield From Stuttering and Cutting Out</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-yakuza-6-the-game-crashing-problems-on-windowsmac/"><u>Step-by-Step Solution for Yakuza 6: The Game Crashing Problems on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994186467-troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed</u></a></li>
-<li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-10-and-7-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 10 & 7</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-transform-your-podcasts-identity-with-ai-name-makers/"><u>[Updated] 2024 Approved Transform Your Podcast's Identity with AI Name Makers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-top-25-mentors-in-modern-social-media-mastery-on-instagram/"><u>[Updated] Top 25 Mentors in Modern Social Media Mastery on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-continuous-freezing-issues-in-lost-ark-pc-version/"><u>Resolved: Fixes for Continuous Freezing Issues in Lost Ark PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-persistent-screen-flicker-problem/"><u>Resolved: Fixing the Persistent Screen Flicker Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-overcoming-launch-issues-in-tiny-tinas-burnt-sienna/"><u>Seamless Gaming: Overcoming Launch Issues in Tiny Tina's Burnt Sienna</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sneak-peek-at-the-new-samsung-galaxy-s25-anticipated-release-timeline-cost-estimates-and-technical-specifications/"><u>Sneak Peek at the New Samsung Galaxy S25 – Anticipated Release Timeline, Cost Estimates, and Technical Specifications</u></a></li>
+<li><a href="https://common-error.techidaily.com/solve-the-dilemma-of-xbox-one-controller-pc-use/"><u>Solve the Dilemma of Xbox One Controller PC Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-error-code-0xc19001e1-on-windows-11-a-comprehensive-guide/"><u>Solving the 'Error Code 0xC19001E1' On Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-prevent-and-fix-pc-issues-with-cult-of-the-lamb/"><u>Step-by-Step Guide: Prevent and Fix PC Issues with Cult of the Lamb</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-outdated-driver-message-in-minecraft-step-by-step/"><u>The Ultimate Fix for 'Outdated Driver Message' In Minecraft - Step by Step</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713964504024-updated-making-creative-and-engaging-youtube-videos-is-now-easy-with-several-tools-now-youtube-also-offers-you-its-own-built-in-video-editor-through-which-y/"><u>Updated Making Creative and Engaging Youtube Videos Is Now Easy with Several Tools. Now, YouTube Also Offers You Its Own Built-In Video Editor Through Which You Can Edit and Enhance the Video Quality for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside
-date: 2024-11-05T18:12:12.482Z
-updated: 2024-11-06T21:02:51.777Z
+date: 2024-11-25T19:37:34.466Z
+updated: 2024-11-27T00:29:29.373Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
@@ -71,10 +75,7 @@ Here’s how you can check the file integrity on Steam:
  If the latest video driver doesn’t help you, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -92,10 +93,7 @@ Here’s how you can check the file integrity on Steam:
  If this method doesn’t work for you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
@@ -107,10 +105,7 @@ Here’s how you can check the file integrity on Steam:
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Replace game files with a fan-made patch
@@ -123,20 +118,14 @@ Here’s how you can check the file integrity on Steam:
 3. Open the Resident Evil 5 folder and paste the patch files.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
@@ -149,19 +138,6 @@ Here’s how you can check the file integrity on Steam:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -186,14 +162,17 @@ Here’s how you can check the file integrity on Steam:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-mastering-the-art-of-instantaneous-deletion-of-youtube-discussions/"><u>[New] 2024 Approved Mastering the Art of Instantaneous Deletion of YouTube Discussions</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-stuck-heres-how-to-get-it-running-smoothly-again/"><u>Call of Duty: Vanguard Stuck? Here's How to Get It Running Smoothly Again</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-magic-6-pro-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Magic 6 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-discord-screen-share-fixing-no-audio-output-problem/"><u>Effective Solutions for Discord Screen Share - Fixing No Audio Output Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-gameplay-with-these-tips-to-resolve-low-fps-in-splitgate/"><u>Enhance Your Gameplay with These Tips to Resolve Low FPS in Splitgate</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-15-pro-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 15 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-non-functioning-discord-overlays-step-by-step-guide/"><u>Troubleshooting Non-Functioning Discord Overlays: Step by Step Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/understanding-youtube-community-interaction/"><u>Understanding YouTube Community Interaction</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-oneplus-nord-3-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My OnePlus Nord 3 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-pro-video-performance-the-best-3-smartphones-ranked/"><u>[New] 2024 Approved Pro Video Performance The Best 3 Smartphones Ranked</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>[New] Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-must-visit-websites-for-text-design-elements-download/"><u>[Updated] Must-Visit Websites for Text Design Elements Download</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-bypass-activation-lock-on-apple-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Bypass Activation Lock on Apple iPhone 12 mini</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-solutions-to-combat-lag-issues-for-a-smooth-ride-in-forza-horizon-5/"><u>Best Solutions to Combat Lag Issues for a Smooth Ride in Forza Horizon 5</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/enhancing-your-eq-a-guide-to-improving-emotional-intelligence-with-chatgpt/"><u>Enhancing Your EQ: A Guide to Improving Emotional Intelligence with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-correcting-the-roblox-error-277-on-windows/"><u>Expert Advice: Correcting the Roblox Error 277 on Windows</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-unrivaled-tale-composers-hub/"><u>In 2024, Unrivaled Tale Composers Hub</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007993669-putting-myths-to-rest-official-release-timeline-for-assassins-creed-valhalla-revealed/"><u>Putting Myths to Rest: Official Release Timeline for Assassin's Creed Valhalla Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-for-pc-troubleshooting-persistent-crash-problems/"><u>Red Dead Online for PC - Troubleshooting Persistent Crash Problems</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-talkers-treasure-trove-elite-episodes-on-gpodcasts/"><u>Top Talkers' Treasure Trove Elite Episodes on GPodCasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-stutter-and-crashes-in-samurai-warriors-5-gameplay-pc/"><u>Understanding and Resolving Stutter & Crashes in Samurai Warriors 5 Gameplay (PC)</u></a></li>
 </ul></div>
 

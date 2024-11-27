@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077'S Fix for Notorious Input Lag Problem
-date: 2024-11-03T19:21:57.842Z
-updated: 2024-11-06T23:49:58.474Z
+date: 2024-11-20T21:04:02.457Z
+updated: 2024-11-26T22:20:22.921Z
 tags:
   - win11
   - win10
@@ -39,44 +39,25 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the screen, select **Allow an app through Windows Defender Firewall** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Change settings > Allow another app…** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-allow-another-app.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Click**Browse** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
@@ -86,27 +67,17 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -115,13 +86,6 @@ These days, players have reported the issue of black screen when loading a save 
  Both [NVIDIA](https://www.nvidia.com/en-us/geforce/news/cyberpunk-2077-game-ready-driver/) and [AMD](https://www.amd.com/en/support/kb/release-notes/rn-rad-win-20-12-1) had just released new drivers for Cyberpunk 2077 to make sure gamers get the definitive experience. To get them, please read on.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -171,6 +135,10 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
 
 ![download Windows updates assistant to update windows](https://images.drivereasy.com/wp-content/uploads/2020/12/forcily-update-windows-10-to-version-20H2.jpg)
@@ -179,16 +147,13 @@ Here’s how it works:
   
 ![use windows 10 updates assistant to update to version 20H2](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-update-assistant-update-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  After you’ve updated your Windows to version 20H2, your issue should be resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
 
@@ -204,16 +169,13 @@ Here’s how it works:
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-Properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, select the tab**LOCAL FILES** . Then click**VERIFY INTEGRITY OF GAME FILES…** . This may take some minutes. Just wait for the process to complete.  
   
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
 
@@ -222,6 +184,14 @@ Here’s how it works:
  2) Click on the settings icon next to the Play button. Then from the menu, select**Manage installation > Verify / Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Epic Games Launcher
 
@@ -232,6 +202,10 @@ Here’s how it works:
  2) Navigate to your game Cyberpunk 2077\. Then click on the icon with three dots. Then select**Verify** .
 
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-Epic-Games-Launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take several minutes to finish the process. Simply wait for it. Once done, try to load your game to check if it does the trick.
 
@@ -256,18 +230,24 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-entrepreneurs-guide-to-snapchat-advertising-for-2024/"><u>[New] The Entrepreneur's Guide to Snapchat Advertising for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-gameplay-reel-how-to-reviewed/"><u>[Updated] 2024 Approved Gameplay Reel How-To Reviewed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-elevate-youtube-rankings-with-optimized-metadata/"><u>[Updated] In 2024, How to Elevate YouTube Rankings with Optimized Metadata</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-smart-mp4-transformer-for-immediate-fb-embedding/"><u>[Updated] Smart MP4 Transformer for Immediate FB Embedding</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/1719578514739-boost-your-urdu-skills-in-a-flash/"><u>Boost Your Urdu Skills in a Flash!</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-down-on-in-game-security-flaws-solutions-for-safer-play/"><u>Cracking Down on In-Game Security Flaws: Solutions for Safer Play</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhancing-role-play-with-chatgpt-tips-for-dungeons-and-dragons-enthusiasts/"><u>Enhancing Role-Play with ChatGPT: Tips for Dungeons & Dragons Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-obs-streamrecord-lag-problems-a-comprehensive-guide/"><u>Fixing OBS Stream/Record Lag Problems: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-endless-load-resolve-anthems-perpetual-launch-screen-issue/"><u>Fixing the Endless Load: Resolve Anthem's Perpetual Launch Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-race-started-overcoming-forza-horizon-nh-endless-launch-screen-issues/"><u>Get Your Race Started: Overcoming Forza Horizon Nh Endless Launch Screen Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-lava-blaze-2-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Lava Blaze 2 FRP Without Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/poptoons-pro-analysis-and-guide-2s24-for-2024/"><u>PopToons Pro Analysis and Guide 2S24 for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-expert-guide-top-6-solutions-to-boost-your-fps-in-escape-from-tarkov/"><u>Ultimate Expert Guide: Top 6 Solutions to Boost Your FPS in Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-dota-2-crashes/"><u>[Solved] How to Fix Dota 2 Crashes?</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-reviewing-sj7s-4k-action-cam-capturing-life-to-perfection/"><u>[Updated] Reviewing SJ7’s 4K Action Cam - Capturing Life to Perfection</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-steps-to-avoid-automatic-podcast-suggestions-on-spotify/"><u>[Updated] Steps to Avoid Automatic Podcast Suggestions on Spotify</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-best-screenshots-tools-series/"><u>2024 Approved Best Screenshots Tools Series</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-cross-platform-movie-recording-pc-mac-and-mobile/"><u>2024 Approved Cross-Platform Movie Recording PC, Mac & Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieving-smooth-gameplay-fixing-frame-rate-drops-in-avatar-frontiers-of-pandora/"><u>Achieving Smooth Gameplay - Fixing Frame Rate Drops in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-utorrent-download-speed-ultimate-guide-to-resolving-lag-issues/"><u>Boost Your uTorrent Download Speed: Ultimate Guide to Resolving Lag Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-on-resolving-granblue-fantasy-relink-issue-during-game-startup/"><u>Comprehensive Guide on Resolving Granblue Fantasy ReLink Issue During Game Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-unable-to-find-a-camera-source-on-snap/"><u>Fixing the Issue: Unable to Find a Camera Source on Snap</u></a></li>
+<li><a href="https://fox-http.techidaily.com/free-text-techniques-for-more-dynamic-video-experiences/"><u>FREE Text Techniques for More Dynamic Video Experiences</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-microsofts-new-ai-strategy-may-challenge-the-future-of-mobile-gaming-computers/"><u>How Microsoft's New AI Strategy May Challenge the Future of Mobile Gaming Computers</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-oppo-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Oppo Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-techniques-eradicating-apex-legends-engine-mishaps-with-our-step-by-step-guide/"><u>Master the Techniques: Eradicating Apex Legends Engine Mishaps with Our Step-by-Step Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/overcoming-the-usb-linking-hurdle-on-samsung-galaxy-tab-s6-lite-260ci-wia/"><u>Overcoming the USB Linking Hurdle on Samsung Galaxy Tab S6 Lite (260Ci WIa)</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-infinix-smart-8-hd-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Infinix Smart 8 HD Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-problems-fixes-for-when-discord-app-wont-launch/"><u>Solve Your Problems: Fixes for When Discord App Wont Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-restoring-functionality-to-your-logitech-g-hub-while-using-windows/"><u>Step-by-Step: Restoring Functionality to Your Logitech G Hub While Using Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-maximum-frame-rates-resolving-gpu-non-usage-in-warzone-under-windows-11/"><u>Unlocking Maximum Frame Rates: Resolving GPU Non-Usage in Warzone Under Windows 11</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-in-2024-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>Updated In 2024, How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
 </ul></div>
 

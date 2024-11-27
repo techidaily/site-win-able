@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Roblox PC Error Code 277: Essential Fixes and Advice"
-date: 2024-11-05T03:13:50.948Z
-updated: 2024-11-07T02:00:59.654Z
+date: 2024-11-26T00:09:57.277Z
+updated: 2024-11-26T18:53:54.757Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
@@ -52,13 +60,6 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -67,15 +68,16 @@ thumbnail: https://thmb.techidaily.com/2df9b8f3d2024c9ae71f35777ff3859d473b31e67
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
@@ -91,10 +93,7 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
@@ -102,13 +101,6 @@ See if this issue reappears. If not, you have fixed this issue.
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
 
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
 
@@ -126,13 +118,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -143,6 +128,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
@@ -150,13 +139,6 @@ See if this issue reappears. If not, you have fixed this issue.
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -167,6 +149,10 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -212,24 +198,16 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-best-practices-in-upgrading-to-a-high-end-4k-camera-lens-for-2024/"><u>[New] Best Practices in Upgrading to a High-End 4K Camera Lens for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-secure-your-gaming-memories-5-essential-vr-recording-methods-for-2024/"><u>[Updated] Secure Your Gaming Memories 5 Essential VR Recording Methods for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-creating-dynamic-content-with-youtube-playlist-embedding/"><u>2024 Approved Creating Dynamic Content with YouTube Playlist Embedding</u></a></li>
-<li><a href="https://win-updates.techidaily.com/7-with-pxe/"><u>7 with PXE</u></a></li>
-<li><a href="https://facebook.techidaily.com/beyond-hype-towards-clarity-new-perspective-on-the-social-media-scandal/"><u>Beyond Hype, Towards Clarity: New Perspective on The Social Media Scandal</u></a></li>
-<li><a href="https://win-able.techidaily.com/clarifying-the-image-solutions-for-crystal-clear-outriders-graphics/"><u>Clarifying the Image: Solutions for Crystal-Clear Outriders Graphics</u></a></li>
-<li><a href="https://fox-http.techidaily.com/complete-unpacking-of-ricohs-theta-vr-solution/"><u>Complete Unpacking of Ricoh's Theta VR Solution</u></a></li>
-<li><a href="https://games-able.techidaily.com/convenient-xbox-broadcasts-for-every-discord-member/"><u>Convenient Xbox Broadcasts for Every Discord Member</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/1723175667822-enhance-noise-free-performance-with-adaptable-pc-enclosures-and-shining-ventilation-fans-from-be-quiet/"><u>Enhance Noise-Free Performance with Adaptable PC Enclosures & Shining Ventilation Fans From Be Quiet</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-fixing-launch-errors-for-the-thaumaturge-program-on-pc-systems/"><u>Expert Guide: Fixing Launch Errors for the Thaumaturge Program on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-restart-your-msi-mystic-light-connectivity-with-windows-systems/"><u>Expert Tips to Restart Your MSI Mystic Light Connectivity with Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-persistent-issues-how-to-prevent-nier-automata-from-crashing/"><u>Fixes for Persistent Issues - How to Prevent NieR: Automata From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-2024-stutter-and-lag-in-assassins-creed-odyssey-on-windows-pc-step-by-step-tips/"><u>Fixing 2024 Stutter and Lag in Assassin's Creed Odyssey on Windows PC - Step-by-Step Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-optimize-your-pc-for-smooth-frame-rates-while-playing-f1-2021-racing-simulator/"><u>How to Optimize Your PC for Smooth Frame Rates While Playing F1 2021 Racing Simulator</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-k11-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo K11 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/learn-mouse-gesture-tricks-in-microsofts-modern-edge-browser/"><u>Learn Mouse Gesture Tricks in Microsoft's Modern Edge Browser</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-2-wont-start-here-are-solutions-to-get-you-game-on/"><u>Team Fortress 2 Won't Start? Here Are Solutions to Get You Game On!</u></a></li>
-<li><a href="https://win-able.techidaily.com/war-thunder-performance-optimization-ultimate-guide-to-fixing-low-fps-issues-with-latest-tips/"><u>War Thunder Performance Optimization: Ultimate Guide to Fixing Low FPS Issues with Latest Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-is-call-of-duty-warzone-still-crashing-on-my-pc-here-are-the-fixes/"><u>Why Is 'Call of Duty: Warzone' Still Crashing on My PC ? Here Are the Fixes!</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-essential-10-hd-android-video-player-apps-list-for-2024/"><u>[New] Essential 10 HD Android Video Player Apps List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/10-free-and-paid-luts-for-canon-camera/"><u>10 Free & Paid LUTs for Canon Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-overcoming-the-challenge-of-elevated-cpu-demands/"><u>Cyberpunk 2077 Update: Overcoming the Challenge of Elevated CPU Demands</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-access-your-apple-iphone-12-mini-when-you-forget-the-passcode-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 mini When You Forget the Passcode?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-communication-correcting-packet-loss-in-discord-services/"><u>How To Ensure Smooth Communication: Correcting Packet Loss in Discord Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-playability-of-watch-dogs-legion-strategies-to-optimize-frame-rate-and-minimize-delays/"><u>Improve Playability of Watch Dogs: Legion - Strategies to Optimize Frame Rate & Minimize Delays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-asus-rog-phone-8-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Asus ROG Phone 8 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-whos-gaining-thunder-in-the-video-cosmos/"><u>In 2024, Who's Gaining Thunder in the Video Cosmos?</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-mystic-archer-stability-fix-eliminate-pc-game-crashes-for-sword-and-fairy-vii/"><u>The Mystic Archer Stability Fix: Eliminate PC Game Crashes for Sword and Fairy VII</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-days-gone-game-crashes/"><u>Ultimate Troubleshooting Guide: Solving 'Days Gone' Game Crashes</u></a></li>
+<li><a href="https://apple-account.techidaily.com/unlock-apple-id-without-phone-number-from-iphone-11-by-drfone-ios/"><u>Unlock Apple ID without Phone Number From iPhone 11</u></a></li>
 </ul></div>
 

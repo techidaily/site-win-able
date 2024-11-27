@@ -1,7 +1,7 @@
 ---
 title: "Eliminate PC Issues: Fixes for Elite Dangerous Game Crashes"
-date: 2024-08-28T05:29:50.990Z
-updated: 2024-08-29T05:29:50.990Z
+date: 2024-11-23T20:39:44.427Z
+updated: 2024-11-26T20:49:54.200Z
 tags:
   - win11
   - win10
@@ -32,11 +32,19 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should manually check for updates of your game. Then install the latest patch to keep it up to date. This can fix some issues like WOW crashing.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics card driver
 
@@ -56,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/c3feb7e5b167df5f057578cdbf724989b5f251480
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
@@ -77,13 +82,15 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -95,20 +102,14 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
@@ -121,22 +122,9 @@ The ultimate burning program for all your needs!</a>
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
@@ -152,8 +140,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +147,26 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-best-5-second-lapses-recorder-top-pick-for-2024/"><u>[New] Best 5-Second Lapses Recorder - Top Pick for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-building-brand-loyalty-crafting-striking-fb-videos/"><u>[New] Building Brand Loyalty Crafting Striking FB Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-the-power-of-virality-enhancing-brand-presence-on-tiktok-for-2024/"><u>[New] The Power of Virality Enhancing Brand Presence on TikTok for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essential-iphone-techniques-for-video-downsizing/"><u>[Updated] Essential iPhone Techniques for Video Downsizing</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/adventure-videography-supplies-for-travelers-for-2024/"><u>Adventure Videography Supplies for Travelers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/aspire-to-the-best-4k-monitors-ranking-top-ten-for-2024/"><u>Aspire to the Best 4K Monitors Ranking Top-Ten for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-yakuza-like-a-dragon-with-these-essential-tips-and-strategies-for-playstation-4-and-pc/"><u>Conquer Yakuza: Like a Dragon with These Essential Tips and Strategies for PlayStation 4 & PC</u></a></li>
+<li><a href="https://discover-data.techidaily.com/esegui-facilmente-il-ripristino-della-tua-partizione-efi-su-windows-11-con-questi-due-suggerimenti-efficaci/"><u>Esegui Facilmente Il Ripristino Della Tua Partizione EFI Su Windows 11 Con Questi Due Suggerimenti Efficaci!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-eliminating-your-nvidia-geforce-error-code-0x0003-woes-once-and-for-all/"><u>Expert Tips for Eliminating Your Nvidia Geforce Error Code 0X0003 Woes Once and For All</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/getting-started-with-your-new-steelseries-mouse-download-necessary-drivers-here/"><u>Getting Started with Your New SteelSeries Mouse: Download Necessary Drivers Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterful-fixes-for-avatar-gameplay-overcoming-lag-challenges-in-the-world-of-pandora/"><u>Masterful Fixes for Avatar Gameplay – Overcoming Lag Challenges in the World of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011775252-obs-wasnt-capturing-learn-how-we-solved-the-screen-recording-glitches/"><u>OBS Wasn't Capturing? Learn How We Solved the Screen Recording Glitches!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003669713-resolve-microsoft-edge-stability-issues-in-windows-11-with-these-tips/"><u>Resolve Microsoft Edge Stability Issues in Windows 11 with These Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-boost-utorrent-performance-for-faster-file-transfers/"><u>Resolved! Boost uTorrent Performance for Faster File Transfers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-voice-chat-malfunction-on-content-warnings/"><u>Solving the Problem: Voice Chat Malfunction on Content Warnings</u></a></li>
+<li><a href="https://win-able.techidaily.com/surviving-against-all-odds-understanding-resilience-in-african-american-history/"><u>Surviving Against All Odds: Understanding Resilience in African-American History</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/top-5-best-free-divx-video-cutters/"><u>Top 5 Best Free Divx Video Cutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-expert-advice/"><u>Troubleshooting Common Sound Issues in Halo Infinite: Expert Advice</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-troubleshooting-techniques-for-overcoming-the-absence-of-coredll-in-your-system/"><u>Ultimate Troubleshooting Techniques for Overcoming the Absence of Core.DLL in Your System</u></a></li>
+</ul></div>
 

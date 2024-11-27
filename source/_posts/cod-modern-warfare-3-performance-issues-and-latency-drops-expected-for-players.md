@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-11-12T07:12:40.652Z
-updated: 2024-11-16T23:34:50.780Z
+date: 2024-11-20T17:41:24.277Z
+updated: 2024-11-26T19:11:10.091Z
 tags:
   - win11
   - win10
@@ -57,13 +57,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -74,6 +67,10 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
@@ -98,10 +95,7 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082539/7443" target="_top" id="2082539">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082539" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082539/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
@@ -124,10 +118,7 @@ And it’s quite easy to update too:
  If this method doesn’t help your case, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
@@ -135,6 +126,10 @@ And it’s quite easy to update too:
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -147,21 +142,11 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
@@ -169,6 +154,10 @@ Here’s how to enable this power plan:
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -191,16 +180,17 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-entering-the-fullscreen-realm-choosing-a-cms/"><u>[Updated] 2024 Approved Entering the Fullscreen Realm Choosing a CMS</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-8-linux-tools-for-seamless-editing/"><u>[Updated] Leading 8 Linux Tools for Seamless Editing</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/1724766862942-apk/"><u>APKダウナローダーの正しい利用法：解決・ダウンロード失敗・ウイルス防止ガイド</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ing-the-crowd-stand-out-with-unique-youtube-persona-for-2024/"><u>Avoiding the Crowd Stand Out with Unique YouTube Persona for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-12-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 12 Pro Max</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-poco-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Poco</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-vivo-v30-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Vivo V30 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-implementing-the-updated-arctic-zephyr-theme-in-kodi-version-19/"><u>Step-by-Step Guide to Implementing the Updated Arctic Zephyr Theme in Kodi Version 19</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-combine-mp4-footage-effortlessly-with-windows-11-tools/"><u>Step-by-Step Tutorial: Combine MP4 Footage Effortlessly with Windows 11 Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-3-methods-for-taking-screenshots-and-recording-your-chromebooks-screen/"><u>Top 3 Methods for Taking Screenshots and Recording Your Chromebook's Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/transform-your-animations-effortless-gif-to-video-conversion-tutorial/"><u>Transform Your Animations: Effortless GIF-to-Video Conversion Tutorial</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-bridge-to-tiktok-lives-secrets-of-successful-entry/"><u>[New] Bridge to TikTok Lives Secrets of Successful Entry</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-tips-for-mac-users-audacitys-audio-recording-features/"><u>[Updated] Expert Tips for Mac Users Audacity's Audio Recording Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-from-editing-desk-to-youtube-post-production-processes/"><u>2024 Approved From Editing Desk to YouTube Post-Production Processes</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-tagging-magic-elevating-game-based-youtubes/"><u>2024 Approved Tagging Magic Elevating Game-Based YouTubes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-oppo-a58-4g-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Oppo A58 4G to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-the-kof-xv-crash-glitch-when-playing-on-a-desktop-computer/"><u>Expert Tips to Overcome the KOF XV Crash Glitch When Playing on a Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-eac-error-message-steps-to-install-easy-anti-cheat/"><u>Fixing the EAC Error Message: Steps to Install Easy Anti-Cheat</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-pro-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock HTC U23 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-prodigious-picture-editing-speedy-steps-for-windows-photo-app-users/"><u>In 2024, Prodigious Picture Editing Speedy Steps for Windows Photo App Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/is-doom-eternal-still-on-hold-unlock-the-trick-to-start-playing-today/"><u>Is DOOM Eternal Still on Hold? Unlock the Trick to Start Playing Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-call-of-duty-world-war-ii-error-code-4128/"><u>Troubleshooting Tips for Overcoming Call of Duty World War II Error Code 4128</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-performance-boosting-tips-how-to-optimize-connection-speed-and-lower-ping/"><u>Warzone 2.0 Performance Boosting Tips: How to Optimize Connection Speed and Lower Ping</u></a></li>
 </ul></div>
 

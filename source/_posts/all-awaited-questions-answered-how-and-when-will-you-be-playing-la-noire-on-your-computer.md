@@ -1,7 +1,7 @@
 ---
 title: "All Awaited Questions Answered: How and When Will You Be Playing L.A. Noire on Your Computer?"
-date: 2024-10-30T20:30:32.895Z
-updated: 2024-11-06T19:31:06.958Z
+date: 2024-11-24T21:29:35.331Z
+updated: 2024-11-26T20:47:24.853Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -62,16 +66,13 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
  After the update, reopen Outlook to see if it can work correctly. If not, read on and check the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Repair your Outlook account
 
@@ -83,10 +84,7 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
@@ -96,19 +94,20 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001446/11832" target="_top" id="1001446">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001446" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001446/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove unnecessary Outlook add-ins
 
@@ -120,22 +119,12 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click **Add-ins.**
@@ -155,10 +144,7 @@ If your problem persists, try the next fix.
  Reopen Outlook to see if this worked for you. If your problem still exists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Rebuild the Outlook data file
@@ -170,13 +156,6 @@ If your problem persists, try the next fix.
 **2)**  Click the **File**  tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.
 
@@ -191,6 +170,10 @@ If your problem persists, try the next fix.
  If you see a **.pst file** instead, skip this fix and check **[fix 6](https://tools.techidaily.com/drivereasy/download/)**  below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)**  Change the file name extension to **.old** .
 
@@ -210,6 +193,10 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-25.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , click **Category.**  Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
@@ -218,6 +205,10 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
@@ -225,19 +216,6 @@ If your problem persists, try the next fix.
 **5)**  Click **Install Office** , and then click **Office 365 apps** to download Office 365.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-21.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Open the **downloaded file** and follow the on-screen instructions to install Office 365 again.
 
@@ -266,20 +244,19 @@ If your problem persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-past-perspectives-unencumbered-visual-splendors/"><u>[New] Past Perspectives Unencumbered Visual Splendors</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-transforming-your-zip-archive-into-an-srt-subtitle-file/"><u>[Updated] 2024 Approved Transforming Your Zip Archive Into an Srt Subtitle File</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/conquering-pokemon-unite-essential-tips-for-new-players/"><u>Conquering Pokémon Unite: Essential Tips for New Players</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-advice-on-addressing-and-rectifying-a-500-error-problem/"><u>Expert Advice on Addressing and Rectifying a 500-Error Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-server-linkage-and-stability-in-escape-from-tarkov/"><u>Expert Advice on Restoring Server Linkage and Stability in Escape From Tarkov</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-nokia-c12-pro-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Nokia C12 Pro Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro Max</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-screen-mirroring-apple-iphone-14-plus-to-tv-or-pc-drfone-by-drfone-ios/"><u>In 2024, How Screen Mirroring Apple iPhone 14 Plus to TV or PC? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/post-curing-is-essential-for-concrete-to-reach-its-full-strength-potential-over-time/"><u>Post-Curing Is Essential for Concrete to Reach Its Full Strength Potential over Time.</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-loading-issues-in-among-us/"><u>Resolved: How to Fix Persistent Loading Issues in Among Us</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-to-the-puzzling-dark-screens-in-re8-on-your-desktop-gaming-rig/"><u>Solutions to the Puzzling Dark Screens in RE8 on Your Desktop Gaming Rig</u></a></li>
-<li><a href="https://win-data.techidaily.com/start-your-personalized-button-collection-with-flipbuilder-design-and-print-easily-online/"><u>Start Your Personalized Button Collection with FlipBuilder - Design and Print Easily Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-alienware-aurora-r7-insight-intense-power-meets-hefty-price-tag/"><u>The Alienware Aurora R7 Insight: Intense Power Meets Hefty Price Tag</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-strategies-to-overcome-the-notorious-minecraft-black-screen-error/"><u>Top Strategies to Overcome the Notorious Minecraft Black Screen Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-over-witcher-woes-strategies-to-stop-the-witcher-3-from-crashing-on-your-pc/"><u>Winning Over Witcher Woes: Strategies to Stop The Witcher 3 From Crashing on Your PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-crafting-memorable-titles-a-comprehensible-ae-approach-for-2024/"><u>[New] Crafting Memorable Titles A Comprehensible AE Approach for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-a-step-by-step-framework-for-transcribing-whatsapp-calls/"><u>[Updated] 2024 Approved A Step-by-Step Framework for Transcribing WhatsApp Calls</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-unlocking-data-in-twitter-archives/"><u>[Updated] In 2024, Unlocking Data in Twitter Archives</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-poco-m6-pro-4g-device-sim-by-drfone-android/"><u>Easily Unlock Your Poco M6 Pro 4G Device SIM</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-do-oppo-reno-8t-screen-sharing-drfone-by-drfone-android/"><u>How To Do Oppo Reno 8T Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-streaming-problems-with-firefox-a-step-by-step-guide/"><u>How to Resolve Streaming Problems with Firefox: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-x-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone X to Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996299548-solve-your-sea-of-thieves-stuck-on-launch-dilemma-today/"><u>Solve Your Sea of Thieves Stuck on Launch Dilemma Today!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/sound-strategy-unveiled-defeating-the-psr-challenge-in-call-of-duty-warzone-for-a-victorious-year-2024/"><u>Sound Strategy Unveiled: Defeating the PSR Challenge in Call of Duty: Warzone for a Victorious Year 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-football-manager-2019-from-crashing-with-these-effective-troubleshooting-tips/"><u>Stop Football Manager 2019 From Crashing with These Effective Troubleshooting Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-fixing-the-graphic-driver-bug-that-was-bringing-down-overwatch/"><u>Success Story: Fixing the Graphic Driver Bug That Was Bringing Down Overwatch</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96321063-9781401933876-there-are-no-goodbyes/"><u>There Are No Goodbyes | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-and-resolving-packet-loss-challenges-on-discord/"><u>Troubleshooting Guide: Addressing & Resolving Packet Loss Challenges on Discord</u></a></li>
 </ul></div>
 

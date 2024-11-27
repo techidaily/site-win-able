@@ -1,7 +1,7 @@
 ---
 title: Fixes for Starcraft II Game Freezing Issues on Windows
-date: 2024-09-01T07:58:44.665Z
-updated: 2024-09-02T07:58:44.665Z
+date: 2024-11-24T23:30:38.607Z
+updated: 2024-11-26T21:01:01.430Z
 tags:
   - win11
   - win10
@@ -39,8 +39,9 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
  Game developers always keep releasing patches to improve their games and fix any issues, so you should manually check for updates of your game. Then install the latest patch to keep it up to date. This can fix some issues like WOW crashing.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  A graphics card driver corruption in your computer can also cause your game crashing. So you should update the graphics card driver to the latest version to fix the issue,
@@ -59,6 +60,11 @@ thumbnail: https://thmb.techidaily.com/79eddd40f424b4fc16c511b2897ed594a065fb5be
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
@@ -67,9 +73,6 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -80,28 +83,19 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 3. Click the**Options** button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -116,6 +110,11 @@ Here’s what you can do:
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -127,9 +126,6 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
@@ -146,8 +142,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +149,26 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-curbing-common-mishaps-youtube-short-edition-for-2024/"><u>[New] Curbing Common Mishaps YouTube Short Edition for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-digital-elites-8-the-speedy-video-channels/"><u>[Updated] 2024 Approved Digital Elites 8 The Speedy Video Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-captivation-chronicles-top-storytellers-on-youtube-for-23/"><u>[Updated] Captivation Chronicles Top Storytellers on YouTube for '23</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-easy-to-follow-guide-recording-non-root-android-sounds/"><u>[Updated] In 2024, Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-master-guide-to-online-video-calls-free-edition-best-for-2024/"><u>[Updated] Master Guide to Online Video Calls Free Edition Best for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-newest-driver-upgrades-for-your-hp-printer-on-windows-10-or-11/"><u>Get the Newest Driver Upgrades for Your HP Printer on Windows 10 or 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-advanced-tips-excelling-at-slide-show-recordings/"><u>In 2024, Advanced Tips Excelling at Slide Show Recordings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-all-about-metaverse-marketing-example-strategies-and-more/"><u>In 2024, All About Metaverse Marketing Example, Strategies, and More</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chronology-of-success-best-release-schedule/"><u>In 2024, Chronology of Success Best Release Schedule</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-v30-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo V30? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-mkv-videos-into-mov-format-across-windows-macos-and-web-services/"><u>Step-by-Step Guide: Converting MKV Videos Into MOV Format Across Windows, macOS & Web Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-videos-for-playback-on-iphone-ipad-and-ipod-devices/"><u>Step-by-Step Guide: Converting Videos for Playback on iPhone, iPad & iPod Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-your-mpeg4-videos-into-advanced-h2n64-compression-standard-quickly-and-effectively/"><u>Step-by-Step Guide: Converting Your MPEG4 Videos Into Advanced H2n64 Compression Standard Quickly and Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-converting-your-vcds-into-high-quality-mp3-files/"><u>Step-by-Step Guide: Converting Your VCDs Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-on-eliminating-cover-images-in-mp3-tracks/"><u>Step-by-Step Instructions on Eliminating Cover Images in MP3 Tracks</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-mastery-how-to-extract-cherished-melodies-and-scenes-from-blizzard-game-mpq-files/"><u>Step-by-Step Mastery: How To Extract Cherished Melodies and Scenes From Blizzard Game MPQ Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-streaming-webm-videos-on-your-android-device-a-step-by-step-guide/"><u>Successfully Streaming WebM Videos on Your Android Device: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-top-11-free-web-based-tools-for-converting-avi-files-into-mp4-format/"><u>The Ultimate Guide: Top 11 Free, Web-Based Tools for Converting AVI Files Into MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-4-free-avi-to-mp4-conversion-tools-for-windows-mac-and-online-platforms/"><u>Top 4 FREE AVI to MP4 Conversion Tools for Windows, Mac & Online Platforms</u></a></li>
+</ul></div>
 

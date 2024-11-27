@@ -1,7 +1,7 @@
 ---
 title: How to Overcome PC Crashing Problems in MIR4 and Play Uninterrupted
-date: 2024-09-01T07:57:32.012Z
-updated: 2024-09-02T07:57:32.012Z
+date: 2024-11-20T20:06:15.843Z
+updated: 2024-11-26T21:40:58.027Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Nothing is more frustrating than having RoboCop: Rogue City crash on your comput
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Make sure that your computer meets the system requirements
 
  If your RoboCop: Rogue City crashes easily, you should make sure that your computer is above the minimum system requirements for the game. This is especially true for your graphics card: if your graphics card is rather old, there are bigger chances that RoboCop: Rogue City crashes on you, since older display cards usually have more trouble rendering game graphics.
@@ -51,6 +55,10 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update Windows
 
  If your system isn’t updated regularly, there could be compatibility issues that can cause RoboCop: Rogue City to crash. This is because RoboCop: Rogue City requires Shader Model 6.6 atomics and DirectX 12 for certain Windows operating systems. To make sure that you have the latest available updates installed:
@@ -59,27 +67,26 @@ And here are the requirements for RoboCop: Rogue City for your reference:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then try your RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Try to install RoboCop: Rogue City on your SSD
 
  Some gamers mentioned that installing RoboCop: Rogue City on their SSD instead of HDD managed to fix the game crashing problem for them. This is probably because SSD is more powerful and a lot faster when processing game files. So if your RoboCop: Rogue City freezes or crashes easily, please make sure that it’s installed on an SSD instead of an HDD.
@@ -89,9 +96,6 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with RoboCop: Rogue City and are free from the pain of constant freezes and crashes, it’s highly recommended that you install the game on your SSD.
 
@@ -100,13 +104,18 @@ To tell whether you have an SSD or an HDD, please view the Task Manager:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to your RoboCop: Rogue City’s crashing problem, so if the above methods don’t help to fix the crashing issue with RoboCop: Rogue City, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -139,9 +148,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Verify game files
 
  Corrupt or damaged game files could also be the culprit to the RoboCop: Rogue City crashing problem. To make sure that your game files are intact and correct, you can verify them in this way:
@@ -151,19 +157,17 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Then launch RoboCop: Rogue City again to see if it still crashes. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make sure your computer is not overheating
 
@@ -185,9 +189,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -208,8 +209,6 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +216,26 @@ To do so, first visit the website of your GPU manufacturer:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-expert-group-chat-options-for-virtual-gatherings/"><u>[New] Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-key-methods-for-silent-screen-imaging-for-2024/"><u>[New] Key Methods for Silent Screen Imaging for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-hitman-3-black-screen-on-pc/"><u>[SOLVED] Hitman 3 Black Screen on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-slime-rancher-2-crashing-on-pc/"><u>[Solved] How to Fix Slime Rancher 2 Crashing on PC</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-dual-display-delight-mastery-of-floating-window-on-netflix-for-2024/"><u>[Updated] Dual Display Delight Mastery of Floating Window on Netflix for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-free-templates-for-sustainable-storytelling-for-2024/"><u>[Updated] Free Templates for Sustainable Storytelling for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-digital-dividend-understanding-the-calculus-of-converting-viewership-into-revenue-for-2024/"><u>[Updated] The Digital Dividend Understanding the Calculus of Converting Viewership Into Revenue for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/an-experts-guide-to-accumulating-mass-tiktok-videos-effortlessly/"><u>An Expert's Guide to Accumulating Mass TikTok Videos Effortlessly</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/download-inshop-pro-the-ultimate-free-image-editing-tool-for-pcs-windowsmaclinux/"><u>Download InShop Pro: The Ultimate Free Image Editing Tool for PCs [Windows/Mac/Linux]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-battlefield-v-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop Battlefield V From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-lag-fixes-ensuring-peak-gaming-experience-without-delays/"><u>Forza Horizon 5 Lag Fixes: Ensuring Peak Gaming Experience Without Delays</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-xiaomi-13t-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Xiaomi 13T Pro to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-ultimate-guide-to-repair-outlook-connection-issues/"><u>Resolved: Ultimate Guide to Repair Outlook Connection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-gaming-problems-with-error-code-6-on-the-latest-call-of-duty-franchise/"><u>Resolving PC Gaming Problems with Error Code 6 on the Latest Call of Duty Franchise</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-issues-for-r-type-final-2-no-more-pc-crashes/"><u>Resolving Stability Issues for R-Type Final 2 - No More PC Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-how-to-start-stray-solved/"><u>Resolving the Issue: How to Start Stray (Solved!)</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-google-pixel-8-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Google Pixel 8 Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-with-armored-core-6-the-complete-guide-to-overcoming-the-fires-of-rubicon-crashes/"><u>Solving PC Issues with Armored Core 6: The Complete Guide to Overcoming the 'Fires of Rubicon' Crashes</u></a></li>
+</ul></div>
 

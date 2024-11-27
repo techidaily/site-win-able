@@ -1,7 +1,7 @@
 ---
 title: Full Launch of God of War Action Shooter Game on PC Platforms - Breaking Down the Features
-date: 2024-10-20T09:28:03.330Z
-updated: 2024-10-25T17:45:35.280Z
+date: 2024-11-19T19:14:35.938Z
+updated: 2024-11-27T00:30:15.152Z
 tags:
   - win11
   - win10
@@ -41,10 +41,7 @@ God of War
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -54,13 +51,6 @@ God of War
  If a patch is available, it will be detected by Steam or the Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -80,14 +70,15 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -106,19 +97,6 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -130,13 +108,6 @@ There are mainly two methods for you to update the graphics driver:
 **`powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61`**
 3. If you see a prompt similar to this, go back to the Power Options window in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
@@ -159,6 +130,10 @@ There are mainly two methods for you to update the graphics driver:
  You also set to quality preset to Original or Low to gain more performance.
 
  Re-launch God of War after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -201,6 +176,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -212,16 +191,17 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch God of War to see if you can play it smoothly.
 
@@ -247,18 +227,17 @@ Launch God of War to see if you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-realme-c33-2023-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Realme C33 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-call-of-duty-blz-cold-war-performance-issues/"><u>Effective Solutions for Call of Duty BLZ Cold War Performance Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-resolving-modern-warfare-ebx-crash-issues-on-windows-pcs/"><u>Effective Ways: Resolving Modern Warfare Ebx-Crash Issues on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-compatibility-problems-between-corsair-icue-and-windows-nx-update/"><u>Fixing Compatibility Problems Between Corsair iCUE and Windows nX Update</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-life360-from-tracking-you-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Life360 from Tracking You On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-freezes-and-crashes-in-elex-ii-on-pcs/"><u>Mastering Stability: Overcoming Frequent Freezes and Crashes in Elex II on PCs</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ize-your-viewing-experience-on-youtube-with-speed-settings-for-2024/"><u>Optimize Your Viewing Experience on YouTube with Speed Settings for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/shader-troubles-speed-through-your-star-wars-bfii-optimization-issues/"><u>Shader Troubles? Speed Through Your Star Wars BFII Optimization Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/speed-up-your-gameplay-overcoming-delays-in-loading-fallout-4-levels/"><u>Speed Up Your Gameplay – Overcoming Delays in Loading Fallout 4 Levels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/step-by-step-instructions-on-how-to-refresh-audio-technicas-software/"><u>Step-by-Step Instructions on How to Refresh Audio Technica's Software</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-future-of-personalized-medicine-tailoring-endocannabinoid-treatments/"><u>The Future of Personalized Medicine: Tailoring Endocannabinoid Treatments</u></a></li>
-<li><a href="https://win-web3.techidaily.com/1728484051749-usb2/"><u>USBから失われたデータ復旧のプロセス：2つのエキスパートソフトウェアの使用例</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725287919890-windows-11/"><u>Windows 11 対応 ビデオ エンコード:無料で変換可能なベストソフトウェアと使い方ガイド</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decode-instagram-visibility-whos-glancing-at-yours-in-2024/"><u>[New] Decode Instagram Visibility Who's Glancing at Yours, In 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-barriers-swapping-old-to-new-window-drivers/"><u>Breaking Barriers: Swapping Old to New Window Drivers</u></a></li>
+<li><a href="https://games-able.techidaily.com/cross-operating-system-gaming-on-linux/"><u>Cross-Operating System Gaming on Linux</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-your-webex-mic-issues/"><u>Effective Solutions for Troubleshooting Your Webex Mic Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-with-the-alienware-command-center-solutions-at-hand/"><u>Fixing Issues with the Alienware Command Center - Solutions at Hand</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-realme-v30t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-craft-professional-edits-with-story-remix-in-windows-photos-app/"><u>In 2024, Craft Professional Edits with Story Remix in Windows Photos App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/inside-the-world-of-technology-a-journey-with-toms-hardware/"><u>Inside the World of Technology - A Journey with Tom's Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-tips-and-techniques-to-prevent-paladins-from-crashing/"><u>Master the Tips and Techniques to Prevent Paladins From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashes-mastering-stability-for-dragon-age-origins-on-windows-11/"><u>No More Crashes! Mastering Stability for Dragon Age: Origins on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-roblox-crashing-problems-on-pc-quickly-6-proven-strategies/"><u>Troubleshoot Roblox Crashing Problems on PC Quickly: 6 Proven Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smoother-minecraft-gameplay-on-windowsmac/"><u>Troubleshooting Techniques for Smoother Minecraft Gameplay on Windows/Mac</u></a></li>
 </ul></div>
 

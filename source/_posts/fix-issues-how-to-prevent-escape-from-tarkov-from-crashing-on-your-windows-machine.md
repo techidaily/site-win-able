@@ -1,7 +1,7 @@
 ---
 title: "Fix Issues: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Machine"
-date: 2024-11-13T23:05:45.676Z
-updated: 2024-11-16T18:29:54.727Z
+date: 2024-11-24T19:00:43.739Z
+updated: 2024-11-26T16:59:10.305Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,13 +47,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Edit username
 
  It may sound ridiculous, but some players have reported that their usernames are solely composed of characters in your platform’s text language can fix the NieR Replicant crash at startup.
@@ -57,6 +54,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
  That means, if your platform language is English, you can’t use not-standard-English characters in your username. After removing these marks or characters, the problem is solved.
 
 If this fix doesn’t work, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
 
@@ -66,30 +67,13 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -106,13 +90,6 @@ If this fix doesn’t work, move to the next fix.
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your drivers
 
  One of the most common causes of games crashing is you’re using outdated or corrupted drivers. You need to make sure your drivers are fully up-to-date so that you’re able to enjoy one of the best AAA titles in 2021.
@@ -128,6 +105,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -137,13 +118,6 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -155,11 +129,19 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
@@ -186,18 +168,21 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/1715859712834-new-best-free-android-capture-app-zero-ads/"><u>[New] Best Free Android Capture App, Zero Ads!</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-high-fidelity-mac-gif-capturer/"><u>[Updated] 2024 Approved High-Fidelity Mac Gif Capturer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-the-dynamics-of-canon-timelapse-imagery/"><u>2024 Approved Exploring the Dynamics of Canon Timelapse Imagery</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722978926094-asus-vg248qe-driver-update-and-download-made-easy-for-windows-users/"><u>Asus VG248QE Driver Update & Download Made Easy for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-remedies-to-overcome-helldivers-2-stubborn-bluescreen-errors/"><u>Effective Remedies to Overcome 'HellDivers 2' Stubborn Bluescreen Errors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/essential-app-picks-best-10-editors-to-transform-reels-for-2024/"><u>Essential App Picks Best 10 Editors to Transform Reels for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/maximizing-zoom-meeting-insight-through-grid-view-settings/"><u>Maximizing Zoom Meeting Insight Through Grid View Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-missing-or-failed-bios-signature-error-0xc19001e1-in-windows-10-systems/"><u>Overcoming the 'Missing or Failed BIOS Signature' Error (0xC19001E1) in Windows 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-persistent-crash-issue-in-dirt-5-for-personal-computers/"><u>Solving the Persistent Crash Issue in Dirt 5 for Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-nba-2k21-pc-performance-hitches/"><u>Troubleshooting Guide: Resolving NBA 2K21 PC Performance Hitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-a-crash-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Steps for Fixing a Crash in 'A Total War Saga: Troy' On Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-diablo-ii-resurrected-wont-start-up/"><u>Troubleshooting Tips: Why Diablo II: Resurrected Won't Start Up</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-mastering-color-grading-in-final-cut-pro-2023/"><u>Updated Mastering Color Grading in Final Cut Pro 2023</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-audio-precision-with-mac-assistance-for-2024/"><u>[New] Audio Precision with Mac Assistance for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-navigating-the-art-of-3d-text-rendering-in-ps/"><u>[New] In 2024, Navigating the Art of 3D Text Rendering in PS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-unlocking-digital-expression-the-joy-of-creating-metaverse-memes/"><u>[New] In 2024, Unlocking Digital Expression The Joy of Creating Metaverse Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-prime-mkv-viewer-windows-android-apps-for-2024/"><u>[New] Prime MKV Viewer Windows, Android Apps for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-top-10-high-quality-blu-ray-software-variants-pcmac/"><u>[New] Top 10 High-Quality Blu-Ray Software Variants (PC/Mac)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-achieve-professional-aesthetics-embedding-watermarks-and-branding-in-videos/"><u>[Updated] Achieve Professional Aesthetics Embedding Watermarks & Branding in Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/asus-rog-phone-7-ultimate-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 7 Ultimate Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-troubleshooting-guide-for-fixing-slow-performance-in-recent-games/"><u>DIY Troubleshooting Guide for Fixing Slow Performance in Recent Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-crashes-enjoy-every-moment-expert-advice-to-optimize-your-mass-effect-trilogy-gameplay-on-pc-and-xbox/"><u>Eliminate Crashes, Enjoy Every Moment: Expert Advice to Optimize Your Mass Effect Trilogy Gameplay on PC & Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-frame-rate-issues-in-dying-light-2-how-to-improve-pc-gaming-performance/"><u>Fixing Frame Rate Issues in Dying Light 2: How to Improve PC Gaming Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-crashes-due-to-insufficient-video-memory-heres-how-to-fix-it/"><u>Fortnite Crashes Due to Insufficient Video Memory? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-notorious-broccoli-bug-in-destiny-2-fix-available/"><u>How to Overcome the Notorious 'Broccoli Bug' In Destiny 2 (Fix Available)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock HTC Phone with Broken Screen</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/solucion-paso-a-paso-para-la-instalacion-de-update-22h2-en-windows-11/"><u>Solución Paso a Paso Para La Instalación De Update 22H2 en Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eliminating-overwatchs-initial-full-blackscreen-problem/"><u>Troubleshooting Guide: Eliminating Overwatch's Initial Full Blackscreen Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-the-overwatch-game-crash-with-black-screen/"><u>Troubleshooting Guide: Fixing the Overwatch Game Crash with Black Screen</u></a></li>
 </ul></div>
 

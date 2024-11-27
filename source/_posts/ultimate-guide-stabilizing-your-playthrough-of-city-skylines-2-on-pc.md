@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2024-11-15T00:02:21.142Z
-updated: 2024-11-17T04:58:16.573Z
+date: 2024-11-19T22:01:20.175Z
+updated: 2024-11-27T00:09:55.312Z
 tags:
   - win11
   - win10
@@ -34,10 +34,7 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
@@ -64,22 +61,23 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
@@ -96,10 +94,7 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  If this fix doesn’t help you, simply move on to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -122,13 +117,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If the latest driver doesn’t do the trick, you can continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Microsoft releases system updates on a regular basis, providing bug patches and performance boost. You can manually check for system updates as it could help with the compatibility improvement.
@@ -142,17 +130,14 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -172,14 +157,15 @@ To do so, follow these steps:
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -200,20 +186,18 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/2023-tips-how-to-fix-maplestory-crashing-on-windows-11/"><u>[2023 Tips] How to Fix MapleStory Crashing on Windows 11</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-optimizing-engagement-using-cards-and-annotations/"><u>[New] 2024 Approved Optimizing Engagement Using Cards and Annotations</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-meme-creation-at-its-peak-10-templates-unveiled/"><u>[New] In 2024, Meme Creation at Its Peak #10 Templates Unveiled</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/2024-approved-best-emoji-removers-to-remove-emojis-from-pictures-onlinepcmobile/"><u>2024 Approved Best Emoji Removers to Remove Emojis From Pictures Online/PC/Mobile</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-flipping-srt-to-sub-easy-conversion-techniques/"><u>2024 Approved Flipping SRT to SUB Easy Conversion Techniques</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-initiating-engagement-start-your-live-on-instagram/"><u>2024 Approved Initiating Engagement Start Your Live on Instagram</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-fix-guide-clearing-up-your-fifa-19-game-with-a-simple-directx-solution/"><u>DIY Fix Guide: Clearing Up Your FIFA 19 Game with a Simple DirectX Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-solving-the-zoom-black-screen-glitch-on-windows/"><u>Expert Tips and Tricks for Solving the Zoom Black Screen Glitch on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-failed-to-load-steamuidll-and-restarting-your-steam-client-successfully/"><u>Expert Tips for Repairing 'Failed to Load steamui.dll' And Restarting Your Steam Client Successfully</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-oppo-a78-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Oppo A78 Phones? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-core-tenets-of-narrative-construction/"><u>In 2024, Core Tenets of Narrative Construction</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-controller-connectivity-a-comprehensive-guide-to-repairing-ds4-windows-errors/"><u>Mastering Controller Connectivity: A Comprehensive Guide to Repairing DS4 Windows Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-dying-light-latency-effective-fixes-to-restore-optimal-gameplay/"><u>Overcome Dying Light Latency: Effective Fixes to Restore Optimal Gameplay</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s23plus-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S23+ Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-common-sound-issues-in-halo-infinite-a-step-by-step-guide/"><u>Resolving Common Sound Issues in Halo Infinite: A Step-by-Step Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-filming-friends-directly-share-videos-on-twitter/"><u>[New] In 2024, Filming Friends Directly Share Videos on Twitter</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-full-picture-a-comprehensive-review-of-android-lightroom-for-2024/"><u>[New] The Full Picture A Comprehensive Review of Android Lightroom for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-explore-androids-best-moba-experiences-in-10/"><u>[Updated] In 2024, Explore Android's Best MOBA Experiences in #10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-prolific-photography-and-video-app-selection-iphone-vs-android/"><u>[Updated] Prolific Photography & Video App Selection IPhone vs Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-warzone-and-windows-11-how-to-ensure-your-gpu-is-fully-utilized/"><u>Call of Duty: Warzone and Windows 11 – How to Ensure Your GPU Is Fully Utilized</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-get-counter-strike-go-running-smoothly-again/"><u>Expert Tips to Get Counter-Strike Go Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-regain-lost-connectivity-to-blizzard-entertainment-network/"><u>Fix Guide: How to Regain Lost Connectivity to Blizzard Entertainment Network</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-realme-note-50-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Realme Note 50 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-spin-original-web-jokes-for-sharing/"><u>In 2024, Spin Original Web Jokes for Sharing</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-best-video-translator-app-for-pc-cannot-miss/"><u>New In 2024, Best Video Translator App for PC Cannot Miss</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/revolutionizing-movie-magic-with-the-4k-31mu97-b-from-lg-for-2024/"><u>Revolutionizing Movie Magic with the 4K 31MU97-B From LG for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-stable-wwe-2k22-experience-on-windows-platforms/"><u>Troubleshooting Tips for a Stable WWE 2K22 Experience on Windows Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-isnt-alan-wake-2-out-yet-unveiling-troubleshooting-steps/"><u>Why Isn't Alan Wake 2 Out Yet? Unveiling Troubleshooting Steps</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for a Broken Windows Spotlight on Windows 11 PCs
-date: 2024-10-24T14:39:25.527Z
-updated: 2024-10-26T14:43:58.682Z
+date: 2024-11-21T19:24:05.106Z
+updated: 2024-11-26T21:38:28.774Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 1: Relog into your account
 
  Re-logging to your desktop is one of the easiest workarounds for you to try. If your Start menu was only gone occasionally, you should go with this option. Here is how you relog into your account:
@@ -64,17 +57,29 @@ thumbnail: https://thmb.techidaily.com/3f596754b304b70bbb49c94051d7f942eb048636f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Check if your Start menu works all right now.
 
  If the same problem keeps reoccurring, you may need to try other methods below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
@@ -92,18 +97,15 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Restart your computer and log into the new user account.
 
 6) Your**Start** menu should work now.You can change the new local account to a Microsoft account and transfer your files and settings.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135413/19272" target="_top" id="2135413">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135413" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135413/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3: Reinstall video card and sound card drivers
 
@@ -115,9 +117,17 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
 
@@ -154,13 +164,6 @@ net user newusername newpassword /add
  Note that Microsoft has its own default anti-malware, **Windows Defender** . It’s automatically enabled even if you also have other antivirus applications installed. Even if you disable your other antivirus programs, Windows Defender is always there for you during that certain time range. So, no need to worry too much about temporarily turning antivirus off.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5: Uninstall Dropbox
 
@@ -202,37 +205,35 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result you see is the same with the screen shot above, your system files are all right, and you should move on and run another test. 5) Copy and paste the following command in, and press the Enter key on your keyboard. Still, it could take a while, wait with patience.
 
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) When these two tests finishes, check if your Start menu is back.
 
@@ -246,34 +247,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Copy and paste the following command in and press the **Enter** key on your keyboard.
 
@@ -287,6 +267,10 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Last but not least: refresh your PC
 
@@ -311,16 +295,22 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-expert-tips-for-streamlining-youtube-audio-into-imovie/"><u>[New] 2024 Approved Expert Tips for Streamlining YouTube Audio Into iMovie</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-clock-companion-for-wedding-planners-and-couples/"><u>[Updated] The Ultimate Clock Companion for Wedding Planners & Couples</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-carving-out-the-ultimate-tiktok-final-act/"><u>2024 Approved Carving Out the Ultimate TikTok Final Act</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-the-user-logon-failure-glitch-in-cs-go-with-these-proven-strategies/"><u>Bypassing the 'User Logon Failure' Glitch in CS: GO with These Proven Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-overcome-freezing-issue-optimization-success/"><u>Cyberpunk 2077 Overcome Freezing Issue - Optimization Success!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-instructions-for-enabling-hyper-v-on-your-windows-11-pc/"><u>Expert Instructions for Enabling Hyper-V on Your Windows 11 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-cod-vanguard-pc-problems-solutions-for-the-2n-d4-release/"><u>Fix Your CoD Vanguard PC Problems – Solutions for the 2N-D4 Release!</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-quick-subscribe-does-it-really-amplify-watch-time/"><u>In 2024, Quick-Subscribe Does It Really Amplify Watch Time?</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/next-generation-flight-simulation-an-in-depth-look-at-x-plane-11s-immersive-visual-experience/"><u>Next-Generation Flight Simulation: An In-Depth Look at X-Plane 11'S Immersive Visual Experience</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ranking-the-ultimate-computer-brand-choices-for-2eplust4y/"><u>Ranking the Ultimate Computer Brand Choices for 2E+t4y</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-critical-steam-ui-dll-loading-issue-fix-and-prevention-tips/"><u>Resolved: Critical Steam UI DLL Loading Issue - Fix and Prevention Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-picperfect-upgrade-mobile-photography-no-money-down/"><u>[Updated] 2024 Approved PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-guidelines-to-affirm-your-youtube-status-for-2024/"><u>[Updated] Guidelines to Affirm Your YouTube Status for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-essential-guide-to-signing-up-for-twitter/"><u>2024 Approved The Essential Guide to Signing Up for Twitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-heres-how-to-fix-it-on-your-windows-10-pc/"><u>Civilization 6 Wont Start? Here's How to Fix It on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosis-and-fixes-to-curb-gas-station-simulator-regular-system-interruptions-on-desktops/"><u>Diagnosis & Fixes to Curb Gas Station Simulator Regular System Interruptions on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-steps-to-rectify-severe-startup-malfunctions-in-the-new-year-tips/"><u>Essential Steps to Rectify Severe Startup Malfunctions in the New Year (Tips)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-how-to-fix-continuous-crashes-in-assassins-creed-odyssey-when-playing-on-a-computer/"><u>Expert Advice: How to Fix Continuous Crashes in Assassin's Creed Odyssey When Playing on a Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-released-stabilized-total-war-warhammer-iii-say-goodbye-to-pc-freezes/"><u>Final Fixes Released: [STABILIZED] Total War: Warhammer III - Say Goodbye to PC Freezes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-about-nokia-c300-frp-bypass-by-drfone-android/"><u>In 2024, About Nokia C300 FRP Bypass</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/mp4mp3bin/"><u>MP4やMP3への変換方法：BINファイルから始めましょう！</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-how-to-add-motion-blur-in-davinci-resolve-in-2024/"><u>New How To Add Motion Blur In Davinci Resolve, In 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-mobile-intelligence-with-ios-navigate-through-these-6-advanced-ai-features-on-iphones-plus-a-glimpse-into-whats-next-expert-analysis-by-zdne168/"><u>Revolutionizing Mobile Intelligence with iOS Navigate Through These 6 Advanced AI Features on iPhones, Plus a Glimpse Into What's Next – Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/starcraft-2-pc-troubleshooting-how-to-address-unexpected-game-closures/"><u>StarCraft 2 PC Troubleshooting - How to Address Unexpected Game Closures</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-tackle-crashing-problems-in-diablo-iv-for-a-smooth-gaming-experience/"><u>Top Strategies to Tackle Crashing Problems in Diablo IV for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-call-of-dutys-black-ops-cold-war-understanding-error-887a0005/"><u>Troubleshooting Call of Duty's Black Ops Cold War - Understanding Error 887A0005</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unraveling-old-low-saxon-roots/"><u>Unraveling Old Low Saxon Roots</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/upload-and-share-videos-on-twitter-made-easy-for-2024/"><u>Upload & Share Videos on Twitter Made Easy for 2024</u></a></li>
 </ul></div>
 

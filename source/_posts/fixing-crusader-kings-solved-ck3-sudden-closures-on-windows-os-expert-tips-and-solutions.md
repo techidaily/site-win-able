@@ -1,7 +1,7 @@
 ---
 title: Fixing Crusader Kings ([SOLVED] CK3) Sudden Closures on Windows OS - Expert Tips and Solutions
-date: 2024-11-02T16:36:23.457Z
-updated: 2024-11-07T04:25:19.134Z
+date: 2024-11-25T17:42:18.464Z
+updated: 2024-11-26T23:57:15.881Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ _Halo 3 Minimum System Requirements_
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
  2) Click**Privacy** .  
@@ -63,28 +67,18 @@ _Halo 3 Minimum System Requirements_
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You can stop all the apps from running in the background with just one click by switching**Let apps run in the background** to**Off** . But before you do this, make sure you’ve saved the files you’re currently editing.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  OR  
   
@@ -111,13 +105,6 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -134,6 +121,10 @@ Here’s how to update your drivers with Driver Easy:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -147,10 +138,7 @@ Here’s how to update your drivers with Driver Easy:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
@@ -164,6 +152,10 @@ To do so:
  2) Type**msconfig** and click**OK** .
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
@@ -179,24 +171,18 @@ To do so:
 ![perform a clean boot; disable certain item](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Under the**Startup** tab of System Configuration, click**OK** .  
   
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7) Restart your computer and it’ll be in a clean boot environment.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Run Halo 3 as an administrator
 
@@ -212,6 +198,10 @@ To do so:
 ![run as administrator; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/run-as-administrator-compatability.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the directory where you installed Halo 3, and run the**.exe** file as administrator as well.  
   
  4) Relaunch Halo 3.  
@@ -219,13 +209,6 @@ To do so:
  If the problem still persists, then try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Install the latest game patch
 
@@ -246,23 +229,14 @@ To do so:
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
   
-
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Under the**LOCAL FILES** tab, click**VERIFY INTEGRITY OF GAME CACHE…** .  
   
@@ -295,22 +269,22 @@ To do so:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-innovative-video-marketing-youtube-trailers-with-filmora/"><u>[Updated] 2024 Approved Innovative Video Marketing YouTube Trailers with Filmora</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-realme-gt-5-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Realme GT 5 to iPhone 14 and 15 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-oppo-a59-5g-frp-bypass-by-drfone-android/"><u>About Oppo A59 5G FRP Bypass</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/building-fantasy-landscapes-with-chatgpt-techniques-and-tips/"><u>Building Fantasy Landscapes with ChatGPT: Techniques and Tips</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/discount-hunting-for-chinese-made-vr-devices-for-2024/"><u>Discount Hunting for Chinese-Made VR Devices for 2024</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722965957836-easy-ways-to-keep-your-amd-radeon-rx-480-drivers-current-for-optimal-performance/"><u>Easy Ways to Keep Your AMD Radeon RX 480 Drivers Current for Optimal Performance!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722986405609-fixing-a-sluggish-chrome-browser-fast-solutions/"><u>Fixing a Sluggish Chrome Browser: Fast Solutions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-htc-u23-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can HTC U23 ProMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-rockstar-games-launcher-problems-with-these-expert-tips-for-2n4/"><u>Overcome Rockstar Games Launcher Problems with These Expert Tips for 2N4</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-siege-how-to-fix-error-3-0x0001000b/"><u>Rainbow Six Siege: How to Fix Error 3-0X0001000B</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-issues-expert-guide-to-prevent-your-guilty-gear-strive-from-crashing/"><u>Solving PC Issues: Expert Guide to Prevent Your Guilty Gear Strive From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-quick-and-smooth-playthrough-of-outriders-without-any-delays-or-lag-issues/"><u>Step-by-Step Solution for Quick and Smooth Playthrough of Outriders Without Any Delays or Lag Issues</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-consoles-face-off-ps5-vs-xbox-sx/"><u>The Ultimate Consoles Face-Off: PS5 V/S Xbox SX</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-itel-a60-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Itel A60 for Streaming | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-launching-outriders-on-pc/"><u>Troubleshooting Tips for Launching Outriders on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-adventure-troubleshooting-persistent-loading-screens-in-far-cry-5/"><u>Unstick Your Adventure: Troubleshooting Persistent Loading Screens in Far Cry 5</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996685266-valorant-gameplay-disrupted-fix-graphic-driver-errors-instantly/"><u>Valorant Gameplay Disrupted? Fix Graphic Driver Errors Instantly</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-best-3ip-top-audio-capture-apps/"><u>[New] Best 3iP Top Audio Capture Apps</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-macaw-mambo-march/"><u>[New] Macaw Mambo March</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-the-ultimate-list-of-engaging-moba-titles-on-android/"><u>[Updated] In 2024, The Ultimate List of Engaging MOBA Titles on Android</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Motorola G54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/2023s-best-fixes-for-smoother-gameplay-overcoming-minecraft-stuttering/"><u>2023'S Best Fixes for Smoother Gameplay: Overcoming Minecraft Stuttering</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1725286734621-dvd/"><u>DVDストレッチに対応してください:安全なダウンロード手順を学ぶ</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-stop-madden-21-from-collapsing-on-your-desktop/"><u>Effective Fixes to Stop Madden '21 From Collapsing on Your Desktop</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-youtube-video-freezes-audio-continueschrome-and-firefox/"><u>How to Fix Youtube Video Freezes Audio Continues|Chrome & Firefox</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-call-of-duty-world-war-ii-error-4128-in-no-time/"><u>How to Overcome Call of Duty: World War II Error 4128 in No Time</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-get-creative-with-free-sound-effects-a-final-cut-pro-users-guide-to-enhancing-audio/"><u>New In 2024, Get Creative with Free Sound Effects A Final Cut Pro Users Guide to Enhancing Audio</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/optimizing-visuals-editing-videos-with-storyremix-and-windows-11-photos/"><u>Optimizing Visuals Editing Videos with StoryRemix and Windows 11 Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-frequent-minecraft-crashes-with-these-six-effective-fixes/"><u>Overcome Frequent Minecraft Crashes with These Six Effective Fixes.</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pcs-premier-ps3-clones-2023-edition-for-2024/"><u>PC's Premier PS3 Clones - 2023 Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-windows-compatibility-issues-for-football-manager-2022-gameplay/"><u>Resolving Windows Compatibility Issues for Football Manager 2022 Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-smooth-gaming-resolving-football-manager-2021-pc-stability-concerns-today/"><u>Unlock Smooth Gaming: Resolving Football Manager 2021 PC Stability Concerns Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-launch-issues-heres-how-you-can-resolve-them-easily/"><u>Warzone Launch Issues? Here's How You Can Resolve Them Easily!</u></a></li>
 </ul></div>
 

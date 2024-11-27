@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance"
-date: 2024-11-06T01:14:26.737Z
-updated: 2024-11-07T01:43:45.032Z
+date: 2024-11-24T00:21:41.997Z
+updated: 2024-11-26T19:36:43.797Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -68,15 +72,16 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-verify-game-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, launch Horizon Zero Dawn and check if it crashes again.
 
  If verifying game files doesn’t help your case, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -127,13 +132,6 @@ Now you can start Horizon Zero Dawn and see if it crashes again.
 
  If this method doesn’t give you luck, simply check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Install all Windows updates
 
  Windows 10 includes two types of updates, one tackles security issues and another offers a periodical performance boost. Keeping your system up-to-date can save you a lot of troubles.
@@ -144,25 +142,15 @@ So here’s how to check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install available updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  If this trick doesn’t work for you, simply move on to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change in-game display mode
 
@@ -178,10 +166,7 @@ Here’s how:
 3. Restart your game and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this solution doesn’t help, you can continue to the next one below.
@@ -196,40 +181,27 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** . Then select **Customize size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
 
 If the crash reoccurs, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -249,8 +221,16 @@ And here’s how to enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC and launch**Horizon Zero Dawn** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -271,24 +251,21 @@ And here’s how to enable HAGS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/eciphering-the-divergent-aspects-of-youtubes-and-dailymentions-for-2024/"><u>[New] Deciphering the Divergent Aspects of YouTubes & DailyMentions for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-achieving-maximum-compactness-with-mac-recordings-on-snapchat-for-2024/"><u>[Updated] Achieving Maximum Compactness with Mac Recordings on Snapchat for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/6-effective-methods-to-resolve-terraria-disconnection-issues/"><u>6 Effective Methods to Resolve Terraria Disconnection Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/common-issues-and-fixes-for-apple-watch-touch-screen-malfunctions/"><u>Common Issues and Fixes for Apple Watch Touch Screen Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-strategies-to-prevent-and-fix-crashes-in-nioh-2-the-ultimate-edition/"><u>Comprehensive Strategies to Prevent and Fix Crashes in Nioh 2 - The Ultimate Edition</u></a></li>
-<li><a href="https://techtrends.techidaily.com/delving-into-the-core-contrasts-of-apples-mac-and-microsofts-pc-find-out-how-they-differ/"><u>Delving Into the Core Contrasts of Apple's Mac and Microsoft's PC – Find Out How They Differ!</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-instructions-for-turning-on-hyper-v-virtualization-in-windows-10/"><u>Easy Instructions for Turning On Hyper-V Virtualization in Windows 10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/experience-premium-quality-with-the-samsung-galaxy-tab-s7-an-ideal-match-for-devoted-android-users/"><u>Experience Premium Quality with the Samsung Galaxy Tab S7 - An Ideal Match for Devoted Android Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-huawei-nova-y91-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Huawei Nova Y91 | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/marker-assisted-selection-can-expedite-the-identification-of-desirable-traits-within-a-genetically-diverse-population/"><u>Marker-Assisted Selection Can Expedite the Identification of Desirable Traits Within a Genetically Diverse Population</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/navigating-the-windows-iscsi-initiator-a-beginners-guide/"><u>Navigating the Windows iSCSI Initiator: A Beginner's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-glitches-7-simple-tricks-for-a-smoother-halo-infinite-experience-on-your-desktop/"><u>No More Glitches: 7 Simple Tricks for a Smoother Halo Infinite Experience on Your Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010838266-rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-overcoming-mute-issues-while-producing-twitch-content/"><u>Solved! Overcoming Mute Issues While Producing Twitch Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-truth-behind-elden-rings-delayed-launch/"><u>The Truth Behind Elden Ring's Delayed Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
-<li><a href="https://facebook.techidaily.com/whatsapps-rescheduled-introduction-of-user-agreement-changes/"><u>WhatsApp's Rescheduled Introduction of User Agreement Changes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725287927207-windows-11/"><u>ビデオが動かないWindows 11のトラブルシューティング:解説と修正方法</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-entry-level-landing-low-cost-profitable-youtube-platforms/"><u>[New] Entry Level Landing Low-Cost, Profitable YouTube Platforms</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pitch-modulation-techniques-in-free-fire/"><u>[New] Pitch Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-secret-to-stylish-borders-in-instagram-visuals/"><u>[Updated] 2024 Approved The Secret to Stylish Borders in Instagram Visuals</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-optimizing-vlc-for-mac-performance/"><u>2024 Approved How-To Optimizing VLC for Mac Performance</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/9-command-center-of-live-gaming-streams-for-2024/"><u>9 Command Center of Live Gaming Streams for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-fix-the-continuous-pc-freeze-issue-update-2024/"><u>Call of Duty: Black Ops Cold War - Fix the Continuous PC Freeze Issue (Update 2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-stable-gameplay-stop-starfield-pc-crashes-now/"><u>Expert Tips and Fixes for Stable Gameplay: Stop Starfield PC Crashes Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-honor-v-purse-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Honor V Purse Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-excellent-global-music-livestreams/"><u>In 2024, Excellent Global Music Livestreams</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210476837-9781789044461-practically-pagan-an-alternative-guide-to-planet-friendly-living/"><u>Practically Pagan - An Alternative Guide to Planet Friendly Living | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-video-card-compatibility-problem-in-the-sims-4-tips-and-solutions/"><u>Resolving 'Video Card Compatibility Problem in The Sims 4': Tips & Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/seamless-conversion-transforming-your-avchd-video-to-prores-format/"><u>Seamless Conversion: Transforming Your AVCHD Video to ProRes Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-to-glitch-free-playthrough-of-assassins-creed-valhalla-on-your-pc/"><u>Solution to Glitch-Free Playthrough of Assassin’s Creed Valhalla on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-when-starting-farmland-tycoon-22/"><u>Troubleshooting Tips: Resolving Issues When Starting Farmland Tycoon 22</u></a></li>
 </ul></div>
 

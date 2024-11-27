@@ -1,7 +1,7 @@
 ---
 title: How to Fix Glitches and Crashing in Guilty Gear Strive on Your Computer
-date: 2024-09-01T07:58:58.299Z
-updated: 2024-09-02T07:58:58.299Z
+date: 2024-11-19T17:05:54.696Z
+updated: 2024-11-27T00:04:40.744Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/a0af520127c446b45e79a1a60bb9e112f600a9371
 ## Fix Your Hearthstone Crashes and Glitches on Windows - Solutions Inside
 
 Hearthstone keeps crashing on startup or during a match? Making like a thousand attempts to relaunch it but it ends up not responding or shutting down? If you’re in the same situation, don’t panic. This post is going to help you with the irritating Hearthstone crashing on PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -44,9 +48,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Run Hearthstone as administrator
 
  Windows runs Hearthstone in user mode by default, but that might keep it from accessing certain files and cause the crashes. To see if that’s the case, you could run Hearthstone as administrator and relaunch the game.
@@ -55,16 +56,21 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select the**Compatibility** tab, check**Run this program as an administrator** , and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Hearthstone to see if the problem reappears. If yes, continue to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -83,8 +89,9 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -100,6 +107,10 @@ There are two ways you can update the graphics driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Scan and repair game files
 
  Corrupted or damaged game files can also be the culprits of gaming problems and errors. Fortunately, Blizzard offers a built-in tool to repair them easily.
@@ -111,8 +122,9 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-1-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-3.jpg)
@@ -133,9 +145,6 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Delete the Hearthstone folder
 
  Many users managed to start Hearthstone normally by deleting the Hearthstone folder. Here’s how:
@@ -144,16 +153,10 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right click the Hearthstone folder and click**Delete** , or just move it to another location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Relaunch Hearthstone to see if you get rid of the crashing issue. If not, keep reading the next fix.
 
 ---
@@ -170,27 +173,12 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Select the**Startup** tab, and click**Open Task Manager** .
 
  If you’re on Windows 7, you can select each startup item, and directly click Disable all.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select the**Startup** tab. Then, right click each enabled startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
@@ -200,11 +188,16 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After your computer restarts, launch Hearthstone to test if the issue has been solved.
 
@@ -216,9 +209,6 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Normal startup** button, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-2-1.jpg)
@@ -244,8 +234,9 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Download the latest version of Hearthstone and double click the downloaded file to install it.
 
 ---
@@ -262,8 +253,6 @@ There are two ways you can update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +260,23 @@ There are two ways you can update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-quick-steps-to-document-your-youtube-creations/"><u>[Updated] Quick Steps to Document Your YouTube Creations</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-voiceover-on-tiktok-enhancing-your-presence/"><u>2024 Approved Voiceover on TikTok Enhancing Your Presence</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024windows-1011dvd/"><u>2024年対応の安心セキュリティ付きWindows 10/11用フリーDVDプレイヤー推薦</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024mpeg/"><u>2024年の優れた無料MPEG変換ツールと、その使い方：ビデオ編集者に最適</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028707226-youtube/"><u>効果的な手順でYouTubeアーカイブの編集: ステップバイステップ</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029273433-wavmp3/"><u>音声データ圧縮に最適: WAV、MP3形式向けオンラインツールのご紹介</u></a></li>
+<li><a href="https://fox-http.techidaily.com/adobes-shake-mitigation-in-photoshop-worth-it/"><u>Adobe's Shake Mitigation in Photoshop, Worth It?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/asias-top-3-lingual-heavyweights-filter-and-save/"><u>Asia's Top 3 Lingual Heavyweights: Filter & Save</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/earning-strategies-with-youtubes-adsense-payout-per-k-viewers/"><u>Earning Strategies with Youtube's AdSense Payout per K Viewers</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/erfahre-effiziente-methoden-fur-den-datentransfer-und-das-klonen-von-mehrfachpartitien-auf-deinem-samsung-telefon/"><u>Erfahre Effiziente Methoden Für Den Datentransfer Und Das Klonen Von Mehrfachpartitien Auf Deinem Samsung Telefon</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nubia-z50-ultra-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nubia Z50 Ultra Unlock Without Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726030158133-itunes/"><u>ITunesで動画ファイルの統合手順</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-tecno-spark-20-proplus-by-fonelab-android-recover-data/"><u>Recover lost data from Tecno Spark 20 Pro+</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/secure-practices-ensuring-safety-while-acquiring-new-applications-online/"><u>Secure Practices: Ensuring Safety While Acquiring New Applications Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028478148-windows-10/"><u>Windows 10とビデオ修復: 適切なカットと分割テクニック</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026711382-youtube/"><u>YouTube再生と録画の基本手順:テレビから始める初心者向けガイド</u></a></li>
+</ul></div>
 

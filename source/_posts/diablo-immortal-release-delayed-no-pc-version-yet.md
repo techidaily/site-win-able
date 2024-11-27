@@ -1,7 +1,7 @@
 ---
 title: "Diablo Immortal Release Delayed: No PC Version Yet"
-date: 2024-11-15T08:44:01.334Z
-updated: 2024-11-17T04:25:35.615Z
+date: 2024-11-22T20:02:19.818Z
+updated: 2024-11-26T22:59:05.931Z
 tags:
   - win11
   - win10
@@ -65,23 +65,9 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-1-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Check the info about your**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Click the**Display** tab and view your graphics’ info.
 
@@ -90,6 +76,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -117,24 +107,15 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-1-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -163,27 +144,17 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)** Click**Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Turn on**Disable Launcher** .
 
@@ -193,13 +164,6 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
  Some games require additional access to Windows files before they can launch and operate properly. To allow the necessary permissions for Mafia Definitive Edition, you’re suggested to run the game and game launcher as an administrator.
@@ -208,19 +172,35 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click the**Compatibility** tab, and then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You also need to grant the game launcher administrator rights as follows:
 
 **4)** Right-click your game launcher (Steam or Epic Games Launcher) and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select the**Compatability** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
@@ -244,13 +224,6 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Right-click**Mafia Definitive Edition** from the game list, and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
@@ -269,6 +242,10 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
@@ -278,21 +255,16 @@ You also need to grant the game launcher administrator rights as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-5-2.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Temporarily disable your antivirus
 
@@ -325,19 +297,18 @@ You also need to grant the game launcher administrator rights as follows:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-the-art-of-publicizing-vimeo-videos/"><u>[New] 2024 Approved The Art of Publicizing Vimeo Videos</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-top-5-ios-friendly-apps-unlocking-facebooks-richest-media-library/"><u>[New] Top 5 iOS-Friendly Apps Unlocking Facebook's Richest Media Library</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/solved-fallout-4-crashing-on-pc-easily/"><u>[Solved] Fallout 4 Crashing on PC [Easily]</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-lag-and-stutters-a-users-guide-to-optimizing-borderlands/"><u>Fixing Persistent Lag and Stutters: A User's Guide to Optimizing Borderlands</u></a></li>
-<li><a href="https://facebook.techidaily.com/global-gatherings-on-social-media-pros-and-cons-for-expat-networking/"><u>Global Gatherings on Social Media: Pros & Cons for Expat Networking</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-ace-the-art-of-altering-and-amplifying-vhs-photos-on-computers/"><u>In 2024, Ace the Art of Altering and Amplifying VHS Photos on Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-fixing-recurring-crashes-while-playing-stardew-valley-on-your-computer/"><u>Mastering Stability: Fixing Recurring Crashes While Playing Stardew Valley on Your Computer</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/movavi-volgrondig-vrije-konverter-van-orf-naar-jpeg-voor-online-gebruikers-gratuit/"><u>Movavi: Volgrondig, Vrije Konverter Van ORF Naar JPEG Voor Online Gebruikers Gratuit</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-stuttering-and-delays-in-dying-light-solutions-for-smooth-play/"><u>Overcoming Stuttering and Delays in Dying Light - Solutions for Smooth Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-errors-solved-eliminate-final-fantasy-xv-crashes-with-these-expert-tips/"><u>PC Gaming Errors Solved: Eliminate Final Fantasy XV Crashes with These Expert Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-essential-technique-for-enabling-ps5-password-lock/"><u>The Essential Technique for Enabling PS5 Password Lock</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-guide-to-winning-more-followers-on-twitter-effective-strategies-inside/"><u>The Ultimate Guide to Winning More Followers on Twitter – Effective Strategies Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-fallout-3-crashes-on-windows-10/"><u>Troubleshooting Tips: Fixing Fallout 3 Crashes on Windows 10</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-top-7-online-auto-subtitle-translators-for-content-creators-for-2024/"><u>Updated Top 7 Online Auto Subtitle Translators for Content Creators for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-examining-copyright-implications-of-media-sharing-via-social-networks/"><u>[New] 2024 Approved Examining Copyright Implications of Media Sharing via Social Networks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-transform-ppt-deck-into-video-stream/"><u>[New] 2024 Approved Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-obs-studio-vs-bandicam-which-is-better/"><u>[New] In 2024, OBS Studio vs Bandicam Which Is Better</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-dynamic-movement-synopsis-overview/"><u>[Updated] 2024 Approved Dynamic Movement Synopsis Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-the-challenge-of-error-code-2024-solutions-inside/"><u>Cyberpunk 2077 and the Challenge of Error Code 2024 - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-error-code-84-in-fortnite-a-comprehensive-solution-for-smooth-multiplayer-gaming/"><u>Eliminate Error Code 84 in Fortnite: A Comprehensive Solution for Smooth Multiplayer Gaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/fcpx-essentials-how-to-add-a-countdown-timer-in-3-easy-steps-for-2024/"><u>FCPX Essentials How to Add a Countdown Timer in 3 Easy Steps for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>In 2024, Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-and-xbox-gamers-rejoice-fixing-the-crash-issues-in-mass-effect-legendary-edition/"><u>PC and Xbox Gamers Rejoice: Fixing the Crash Issues in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/quick-paced-fortnite-visual-artistry-for-2024/"><u>Quick-Paced Fortnite Visual Artistry for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-chatbot-revolution-creating-from-create-a-gpt-foundations/"><u>The ChatBot Revolution: Creating From Create a GPT Foundations</u></a></li>
+<li><a href="https://driver-install.techidaily.com/the-genesis-of-machine-minds-tracing-the-historic-advent-of-ai/"><u>The Genesis of Machine Minds: Tracing the Historic Advent of AI</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-fight-against-nioh-2-complete-edition-crashes-no-more/"><u>Winning the Fight Against Nioh 2 Complete Edition: Crashes No More</u></a></li>
 </ul></div>
 

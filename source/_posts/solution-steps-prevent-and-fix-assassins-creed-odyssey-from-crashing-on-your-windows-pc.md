@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Prevent and Fix 'Assassin's Creed Odyssey' From Crashing on Your Windows PC"
-date: 2024-10-22T19:12:34.951Z
-updated: 2024-10-26T13:27:15.742Z
+date: 2024-11-23T18:18:42.522Z
+updated: 2024-11-27T01:08:15.637Z
 tags:
   - win11
   - win10
@@ -37,10 +37,7 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
@@ -49,18 +46,15 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
 
  If this doesn’t work for you, don’t worry. There are other solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -86,13 +80,6 @@ thumbnail: https://thmb.techidaily.com/6283ff7f0ec530727c4f03db2aa9125ca35be5851
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
 
@@ -120,10 +107,7 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Turn off**VSync** .
@@ -141,20 +125,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -170,6 +144,10 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
@@ -181,6 +159,10 @@ Open Assassin’s Creed Odyssey and see if it works.
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
 
@@ -209,21 +191,14 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-save-on-soccer-spectacles-live-tape-trim-for-free/"><u>[Updated] In 2024, Save on Soccer Spectacles - Live, Tape, Trim for Free</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-perfecting-video-quality-on-zoom-through-filters-use/"><u>[Updated] Perfecting Video Quality on Zoom Through Filters Use</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-unleashing-screen-content-with-zdsofts-magic/"><u>2024 Approved Unleashing Screen Content with ZDSoft's Magic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/alternative-game-capture-software-no-more-fbx-dependence-for-2024/"><u>Alternative Game Capture Software No More FBX Dependence for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-gaming-bugs-8-crucial-fixes-for-stable-play-in-marvels-guardians-of-the-galaxy-on-pc/"><u>Beat Gaming Bugs: 8 Crucial Fixes for Stable Play in 'Marvel's Guardians of the Galaxy' On PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-pages-wont-display-correctly-in-chrome/"><u>Effective Solutions for When Pages Won't Display Correctly in Chrome</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-frame-rates-now-6-effective-techniques-to-solve-elden-rings-fps-challenges/"><u>Enhance Frame Rates Now! 6 Effective Techniques to Solve Elden Ring's FPS Challenges</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-galaxy-s23-fe-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Galaxy S23 FE Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Samsung Galaxy S24+ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Properly | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-on-apple-iphone-13-pro-max-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication On Apple iPhone 13 Pro Max? 5 Tips You Must Know</u></a></li>
-<li><a href="https://win-able.techidaily.com/insufficient-cpu-warning-boost-your-processor-power-for-seamless-vanguard-use/"><u>Insufficient CPU Warning: Boost Your Processor Power for Seamless Vanguard Use</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-honor-90-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Honor 90 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-your-gameplay-overcoming-latency-challenges-in-cod-black-ops-4/"><u>Optimizing Your Gameplay: Overcoming Latency Challenges in Cod: Black Ops 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-common-causes-and-fixes-for-fatal-error-in-arise-tales-ue4-edition/"><u>Resolved: Common Causes and Fixes for 'Fatal Error' In Arise Tales - UE4 Edition</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-innovative-digital-editing-software-without-cost/"><u>2024 Approved Innovative Digital Editing Software Without Cost</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/comment-accelerer-votre-ordinateur-avec-windows-11-guerisons-efficaces-pour-une-experience-plus-fluide-en-7-etapes/"><u>Comment Accélérer Votre Ordinateur Avec Windows 11 ? - Guérisons Efficaces Pour Une Expérience Plus Fluide en 7 Étapes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/death-stranding-on-pc-crash-no-longer-an-issue-update-breakdown/"><u>Death Stranding on PC Crash No Longer an Issue - Update Breakdown</u></a></li>
+<li><a href="https://common-error.techidaily.com/error-8007000e-on-windows-updates-ace-the-solution-in-no-time-with-this-guide/"><u>Error 8007000E on Windows Updates? Ace The Solution in No Time With This Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-movie-release-update/"><u>Insights Unveiled: 'It Takes Two' Movie Release Update</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-dix-plus-performants-ameliorateurs-de-videos-bases-sur-lia-version-libre-pour-windowsmac-via-internet/"><u>Les Dix Plus Performants Améliorateurs De Vidéos Basés Sur L'IA - Version Libre Pour Windows/Mac via Internet</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-ark-survival-ascended-pc-game-crash-issues-using-9-effective-fixes/"><u>Solve Your ARK: Survival Ascended PC Game Crash Issues Using 9 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-squadrons-solving-the-games-infamous-crash-glitch/"><u>Star Wars: Squadrons - Solving the Game's Infamous Crash Glitch</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/transforma-tus-archivos-mov-al-formato-3g2-gratis-en-linea-usando-el-servicio-movavi/"><u>Transforma Tus Archivos MOV Al Formato 3G2 Gratis en Línea Usando El Servicio MOVAVI</u></a></li>
 </ul></div>
 

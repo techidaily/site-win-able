@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2024-11-11T03:59:41.683Z
-updated: 2024-11-17T03:43:07.635Z
+date: 2024-11-25T21:45:34.152Z
+updated: 2024-11-26T18:23:29.788Z
 tags:
   - win11
   - win10
@@ -35,13 +35,6 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -55,18 +48,15 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
-  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -84,10 +74,18 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -102,10 +100,7 @@ If this method doesn’t help, check out your graphics driver.
 4. Click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
@@ -124,16 +119,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
@@ -150,13 +136,6 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
@@ -166,10 +145,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -196,18 +172,19 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-from-gym-goer-to-broadcayer-set-up-a-sports-vlog-on-macos-for-2024/"><u>[Updated] From Gym Goer to Broadcayer Set Up a Sports Vlog on macOS for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-picks-for-the-ultimate-offline-game-experience-on-android/"><u>[Updated] In 2024, Top Picks for the Ultimate Offline Game Experience on Android</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-tangoing-turquoise-toucan/"><u>2024 Approved Tangoing Turquoise Toucan</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-11-pro-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 11 Pro for Free</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/5-solutions-for-lava-unlock-without-password-by-drfone-android/"><u>5 Solutions For Lava Unlock Without Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-fixes-rapid-solutions-for-division-2-game-crashes/"><u>Efficient Fixes: Rapid Solutions for Division 2 Game Crashes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/keyword-placement/"><u>Keyword Placement</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-graphics-troubleshooting-for-fifa-20-eradicating-directx-problems/"><u>Mastering Graphics Troubleshooting for FIFA 20: Eradicating DirectX Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gaming-made-simple-resolve-disco-elysium-game-crash-issues-today/"><u>PC Gaming Made Simple: Resolve 'Disco Elysium' Game Crash Issues Today</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-guide-eliminating-the-xbox-one-connection-issue/"><u>Step-by-Step Guide: Eliminating the Xbox One Connection Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722990304791-stop-blaming-luck-proven-strategies-to-keep-among-us-running-smoothly/"><u>Stop Blaming Luck: Proven Strategies to Keep 'Among Us' Running Smoothly !</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-cures-for-glitchy-playthrough-of-mass-effect-legacy-edition/"><u>Troubleshooting Cures for Glitchy Playthrough of Mass Effect Legacy Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-eliminate-sims-4-sluggishness-and-enhance-gameplay-pc-expert-strategies/"><u>Ultimate Guide: Eliminate Sims 4 Sluggishness & Enhance Gameplay (PC) – Expert Strategies</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-revolutionizing-work-with-windows-10-innovations/"><u>[Updated] In 2024, Revolutionizing Work with Windows 10 Innovations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovation-at-speed-how-to-make-stunning-slow-motion-content-with-an-android/"><u>2024 Approved Innovation at Speed How to Make Stunning Slow-Motion Content with an Android</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/guide-detaille-pour-lautomatisation-des-taches-windows-easyscheduler-planning-with-synctoy/"><u>Guide Détaillé Pour L'Automatisation Des Tâches Windows easyScheduler Planning with Synctoy</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-nonfunctional-clownfish-voice-changer-quick-tips-and-tricks/"><u>How to Fix a Nonfunctional Clownfish Voice Changer – Quick Tips & Tricks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-strategies-for-online-video-photo-effects-implementation/"><u>Ideal Strategies for Online Video Photo Effects Implementation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-building-confidence-against-youtube-critiques/"><u>In 2024, Building Confidence Against YouTube Critiques</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/logiciels-de-conversion-video-et-dvd-par-digiarty-solutions-specialisees-pour-la-numerisation/"><u>Logiciels De Conversion Vidéo Et Dvd Par Digiarty : Solutions Spécialisées Pour La Numérisation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-rockstar-games-launcher-repair-ultimate-guide-with-2024-techniques/"><u>Mastering Rockstar Games Launcher Repair - Ultimate Guide with 2024 Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/monitor-your-diet-certain-foods-and-beverages-may-irritate-your-bladder-and-contribute-to-uti-symptoms-limit-intake-of-caffeine-alcohol-spicy-foods-and-arti592/"><u>Monitor Your Diet: Certain Foods and Beverages May Irritate Your Bladder and Contribute to UTI Symptoms. Limit Intake of Caffeine, Alcohol, Spicy Foods, and Artificial Sweeteners, Which Can Potentially Worsen the Condition</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-audio-hurdles-fixing-pc-voice-chats-in-among-us-gameplay/"><u>Overcoming Audio Hurdles: Fixing PC Voice Chats in 'Among Us' Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-call-of-duty-warzones-gpu-hurdle-on-windows-11-platforms/"><u>Resolved: Overcoming Call of Duty Warzone’s GPU Hurdle on Windows 11 Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-thaumaturge-from-crashing-on-windowsmac/"><u>Troubleshooting Steps to Prevent Thaumaturge From Crashing on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-football-manager-2e21-stability-problems-for-pc-users/"><u>Ultimate Troubleshooting Guide: Resolving Football Manager 2E21 Stability Problems for PC Users</u></a></li>
 </ul></div>
 

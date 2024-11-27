@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Troubleshooting Guide: Stop SF6 From Crashing Your PC (Updated)"
-date: 2024-11-16T10:24:04.863Z
-updated: 2024-11-16T19:05:13.239Z
+date: 2024-11-22T16:34:07.394Z
+updated: 2024-11-26T22:28:45.700Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -47,10 +51,7 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 8. **[Do a clean install](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the game as administrator
@@ -61,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/8607afd112c21db80344a74ef1409282fa825e22b
 2. In the search box on the taskbar, type**Microsoft Flight Simulator** .
 3. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check if you can get past the checking for updates screen.
 
@@ -90,10 +95,7 @@ If the issue remains, try the next fix.
 4. Windows will begin to scan and repair your game files.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. After the process is completed, relaunch the game and test if you can get past the checking for updates screen.
@@ -129,16 +131,13 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
  If updating your network driver doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Move the community folder
 
@@ -162,6 +161,10 @@ If this method doesn’t work for you, go ahead with the next fix.
 
 If the problem persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Check your security software
 
  The antivirus and malware checkers can close down or block the normal operation of certain applications, even if they are legitimate and safe. To ensure the Microsoft Flight Simulator works properly, you can add the game to the exclusions list. Here’s how:
@@ -178,40 +181,13 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 on Windows 11:
 
@@ -220,28 +196,27 @@ on Windows 11:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Windows-Security.jpg)
 3. Click**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
-![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
-6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
+6. Click**Add an exclusion** , and then select your game’s installation folder to exclude your game from Microsoft Defender Antivirus scans.  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Add-an-exclusion.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Other antivirus programs
@@ -301,6 +276,10 @@ If this method doesn’t solve your problem, check out the last fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
 
@@ -331,19 +310,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-exclusive-review-top-6-screen-recorders-for-mac-for-2024/"><u>[New] Exclusive Review Top 6 Screen Recorders for Mac for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-bridging-audio-gaps-the-complete-guide-to-smooth-blending-in-audacity/"><u>[Updated] 2024 Approved Bridging Audio Gaps The Complete Guide to Smooth Blending in Audacity</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-2023s-budget-friendly-method-for-converting-fb-videos-to-mp4/"><u>[Updated] In 2024, 2023'S Budget-Friendly Method for Converting FB Videos to MP4</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-streamline-conferencing-top-tactics-using-zoom-coder/"><u>[Updated] Streamline Conferencing Top Tactics Using Zoom Coder</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/2024s-ultimate-guide-to-streaming-mic-selection-by-experts/"><u>2024'S Ultimate Guide to Streaming Mic Selection by Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-blackout-troubleshooting-freezing-in-call-of-duty-bocwf/"><u>Busting the Blackout: Troubleshooting Freezing in Call of Duty BOCWF</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-steps-to-resolve-the-continuous-crash-of-content-warning-on-pcs/"><u>Essential Steps To Resolve The Continuous Crash of 'Content Warning' On PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-how-to-overcome-new-world-connection-error/"><u>Expert Advice: How to Overcome 'New World Connection Error'</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-honor-90-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Honor 90 and Browser | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-incompatible-device-drivers-on-windows-operating-systems/"><u>Resolved: Incompatible Device Drivers on Windows Operating Systems</u></a></li>
-<li><a href="https://extra-support.techidaily.com/revolutionizing-color-with-the-precision-of-4k-blade-cameras-for-2024/"><u>Revolutionizing Color with the Precision of 4K Blade Cameras for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-manual-for-lost-ark-unable-to-boot-issues/"><u>Solution Manual for 'Lost Ark' Unable to Boot Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013312389-troubleshoot-fortnite-sign-in-problems-fast-fixes-to-get-you-playing/"><u>Troubleshoot Fortnite Sign-In Problems - Fast Fixes to Get You Playing!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ound-surprises-10-androidios-audio-twisters-for-2024/"><u>[New] Sound Surprises 10 Android/iOS Audio Twisters for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-reveal-the-true-colors-top-10-apps-that-cleanse-blurry-shots/"><u>[Updated] Reveal the True Colors Top 10 Apps that Cleanse Blurry Shots</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-the-ultimate-comparison-best-tablets-that-outshine-filmoras-capabilities/"><u>[Updated] The Ultimate Comparison Best Tablets That Outshine Filmora's Capabilities</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/windows-qnap-nas/"><u>二則解決 Windows 伺服器快速複製至 QNAP NAS:最新指南</u></a></li>
+<li><a href="https://win-able.techidaily.com/breeze-through-common-obstacles-in-discord-software-installation/"><u>Breeze Through Common Obstacles in Discord Software Installation</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-for-metro-exodus-crashes-on-personal-computers-a-step-by-step-guide/"><u>Mastering Fixes for Metro Exodus Crashes on Personal Computers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/professionelle-nvme-kopie-mit-dem-superiorsten-tool-fur-windows-erkunde-die-moglichkeiten-von-nvme-klonen/"><u>Professionelle NVMe-Kopie Mit Dem Superiorsten Tool Für Windows - Erkunde Die Möglichkeiten Von NVMe Klonen</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-dolby-atmos-sound-failure-on-windows-1110-expert-tips-and-fixes/"><u>Solve Dolby Atmos Sound Failure on Windows 11/10 – Expert Tips & Fixes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-qanda-list-to-attract-podcast-audience/"><u>Streamlined Q&A List to Attract Podcast Audience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solutions-for-preventing-terraria-crashes/"><u>Ultimate Solutions for Preventing Terraria Crashes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/ultimate-win10-screen-and-video-recording-tool-for-2024/"><u>Ultimate Win10 Screen & Video Recording Tool for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/updating-device-drivers-on-windows-11-a-step-by-step-guide/"><u>Updating Device Drivers on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-guides.techidaily.com/vergeten-niet-ongedaneem-7-geheugenvervuilde-strategieen-om-bestanden-te-herstellen-in-windows-11/"><u>Vergeten Niet Ongedaneem! 7 Geheugenvervuilde Strategieën Om Bestanden Te Herstellen in Windows 11</u></a></li>
 </ul></div>
 

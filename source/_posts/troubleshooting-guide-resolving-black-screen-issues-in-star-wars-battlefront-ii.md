@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Black Screen Issues in Star Wars Battlefront II"
-date: 2024-11-14T02:57:36.340Z
-updated: 2024-11-17T04:10:53.403Z
+date: 2024-11-23T19:31:21.566Z
+updated: 2024-11-27T00:02:13.895Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Necromunda: Hired Gun
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of Necromunda: Hired Gun
 
  Before trying the fixes in this article, you need to check if your PC meets the minimum system requirements of Necromunda: Hired Gun.
@@ -44,13 +48,6 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -64,6 +61,10 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -75,6 +76,10 @@ Necromunda: Hired Gun
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It may take some time to complete the verifying process.
 
@@ -103,21 +108,12 @@ It may take some time to complete the verifying process.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -137,10 +133,7 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
@@ -159,13 +152,6 @@ It may take some time to complete the verifying process.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
  Some third-party antivirus software hooks very deep into your system, and it may interfere with the game. If some important game files are blocked by the third-party antivirus software, the game will crash.
@@ -173,13 +159,6 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -209,16 +188,17 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-mental-agility-triumphs-in-premier-escape-venues/"><u>[New] Mental Agility Triumphs in Premier Escape Venues</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-skill-enhancement-on-screen-top-10-android-drawing-app-list/"><u>2024 Approved Skill Enhancement on Screen Top 10 Android Drawing App List</u></a></li>
-<li><a href="https://facebook.techidaily.com/a-pause-point-social-media-deletion-too-fast/"><u>A Pause Point: Social Media Deletion - Too Fast?</u></a></li>
-<li><a href="https://win-able.techidaily.com/arise-epic-unraveled-mastering-ue4-and-eliminating-deadly-glitches/"><u>Arise Epic Unraveled: Mastering UE4 and Eliminating Deadly Glitches</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/codegpt-setup-tutorial-for-vs-code-users/"><u>CodeGPT Setup Tutorial for VS Code Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lag-best-fixes-for-smooth-gameplay-in-hogwarts-legacy-2024-edition/"><u>Eliminate Lag: Best Fixes for Smooth Gameplay in Hogwarts Legacy - 2024 Edition</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-vivo-y78plus-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Vivo Y78+</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s, Apples New iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-virtualization-enabling-hyper-v-functionality-on-windows-10-devices/"><u>Mastering Virtualization: Enabling Hyper-V Functionality on Windows 10 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/origin-account-login-error-corrected-secure-access-to-your-profile-restored/"><u>Origin Account Login Error Corrected – Secure Access to Your Profile Restored</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-game-interruptions-a-guide-to-fixing-the-crashes-in-psychonauts-2-for-pc-gamers/"><u>Resolving Game Interruptions: A Guide to Fixing the Crashes in 'Psychonauts 2' For PC Gamers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-alter-twitter-video-glimpse-artwork/"><u>[New] In 2024, Alter Twitter Video Glimpse Artwork</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-budget-friendly-webinar-strategies-for-youtube/"><u>[New] In 2024, Budget-Friendly Webinar Strategies for YouTube</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-depth-shots-the-art-of-closing-in-on-movies-for-2024/"><u>[New] In-Depth Shots The Art of Closing in on Movies for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-frustration-solve-persistent-garrys-mod-crashing/"><u>Avoid Frustration - Solve Persistent Garry's Mod Crashing !</u></a></li>
+<li><a href="https://win-docs.techidaily.com/convert-your-videos-to-mp4-for-free-top-mpg-video-transformation-tools/"><u>Convert Your Videos to MP4 for Free: Top MPG Video Transformation Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-noteworthy-14-innovative-text-movements/"><u>In 2024, Noteworthy 14 Innovative Text Movements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/m1-vs-m3-a-comprehensive-review-of-apples-latest-laptop-generation-for-tech-enthusiasts/"><u>M1 vs M3: A Comprehensive Review of Apple's Latest Laptop Generation for Tech Enthusiasts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-and-simple-guide-converting-mkv-files-into-m2ts-format/"><u>Quick and Simple Guide: Converting MKV Files Into M2TS Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-oxygen-a-real-time-space-colony-simulator-stability-problems/"><u>Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-making-steam-acknowledge-your-controller-on-a-pc/"><u>Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC</u></a></li>
 </ul></div>
 

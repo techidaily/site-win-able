@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Civ 6 Not Launching on Windows 11"
-date: 2024-10-31T02:59:08.380Z
-updated: 2024-11-07T00:58:15.689Z
+date: 2024-11-22T19:41:23.989Z
+updated: 2024-11-26T21:02:08.499Z
 tags:
   - win11
   - win10
@@ -36,19 +36,16 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 
  Before diving into any advanced tweaks, ensure you **restart both the Synapse software and the THX Spatial Audio app.** Then you would need to install the latest Windows updates. They usually come with bug fixes, and bring new features.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### On Windows 10
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
@@ -59,14 +56,19 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
@@ -88,15 +90,16 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/audio-run-the-troubleshooter.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there are no troubleshooters showing up here, click**Additional troubleshooters** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/troubleshoot-additional-troubleshooters.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Windows 11
 
@@ -104,27 +107,17 @@ thumbnail: https://thmb.techidaily.com/d00f8f89497ceffd0abb3141cb4e3658817be8d65
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/control.jpg)
 2. On the top right corner, click View by **Large icons** . Scroll down and select **Troubleshooting** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/troubleshooting.jpg)
 3. Click **Run** for **Audio**  troubleshooter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/03/sound-troubleshooter.png)
 4. Follow the on-screen instructions to run the troubleshooter and apply any fix if you see it.
 
 If Windows fails to troubleshoot your issues, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Make sure you set THX Spatial Audio as your device
 
@@ -142,10 +135,7 @@ If Windows fails to troubleshoot your issues, try the next fix below.
  After you’ve done these, you should be able to enjoy the THX Spatial feature on your audio device.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Update your audio drivers
@@ -166,13 +156,6 @@ If Windows fails to troubleshoot your issues, try the next fix below.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/05/Realtek-High-Definition-Audio.jpg)
 4. After updating, restart your computer to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -198,17 +181,18 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/create-a-system-point-now.png)
 5. Type a description for your restore point that you can recognize. Then click**Create** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/type-a-descriptin.png)
 6. When it successfully created the restore point, click**Close** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/close-the-window.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  However, if none of the solutions listed above gives you any luck, you may need to check if there are any missing or corrupted system files. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but most of the time it only scans major files and may miss minor issues.
 
@@ -241,22 +225,24 @@ If Windows fails to troubleshoot your issues, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-beginners-guide-to-iphone-video-capture/"><u>[New] Beginner's Guide to Iphone Video Capture</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-redirecting-noise-free-tweets-back-to-audio-for-2024/"><u>[New] Redirecting Noise-Free Tweets Back to Audio for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/abbyy-launches-innovative-solutions-for-future-ready-intelligent-enterprise-apps/"><u>ABBYY Launches Innovative Solutions for Future-Ready Intelligent Enterprise Apps</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000184498-addressing-game-server-disconnection-problems-in-popular-titles-from-blizzard-inc/"><u>Addressing Game Server Disconnection Problems in Popular Titles From Blizzard Inc.</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722991004872-battlefront-ii-stability-solutions-no-more-pc-disruptions/"><u>Battlefront II Stability Solutions - No More PC Disruptions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-dealing-with-no-startup-location-on-fortnite-get-back-into-battle-asap/"><u>Expert Solutions for Dealing with No Startup Location on Fortnite - Get Back Into Battle ASAP!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012108904-expert-tips-for-a-smooth-experience-with-hearts-of-iron-4-eliminate-bugs/"><u>Expert Tips for a Smooth Experience with Hearts of Iron 4 - Eliminate Bugs</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/fixing-missing-physxloaderdll-file-a-step-by-step-solution/"><u>Fixing Missing PhysXLoader.Dll File – A Step-by-Step Solution</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/free-methods-to-restore-lost-insv-images-from-your-insta360-camera/"><u>Free Methods to Restore Lost INSV Images From Your Insta360 Camera</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-se-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone SE After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-meta-quest-3-is-leading-with-advanced-ai-before-vision-pro-setup-guide-and-more-expert-reviews-at-zdnet/"><u>How Meta Quest 3 Is Leading with Advanced AI Before Vision Pro - Setup Guide and More | Expert Reviews at ZDNET</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-full-guide-to-bypass-tecno-pova-6-pro-5g-frp-by-drfone-android/"><u>In 2024, Full Guide to Bypass Tecno Pova 6 Pro 5G FRP</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-lost-connection-to-server-hurdle-in-escape-from-tarkov/"><u>Overcoming the Lost Connection to Server Hurdle in Escape From Tarkov</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009164544-quick-fixes-for-league-of-legends-software-issues-resolved/"><u>Quick Fixes for League of Legends Software Issues - Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-game-security-breach-alert/"><u>Resolved: Fixing the 'Game Security Breach' Alert</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/step-by-step-wirecast-livestream-on-youtube-for-2024/"><u>Step-by-Step WireCast Livestream on YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-tips-to-overcome-overwatchs-unwanted-complete-blackness-upon-opening/"><u>Ultimate Tips to Overcome Overwatch's Unwanted Complete Blackness Upon Opening</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-uncomplicated-walkthrough-of-easy-iphone-screen-capture/"><u>[New] In 2024, Uncomplicated Walkthrough of Easy iPhone Screen Capture</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-experts-top-10-fcp-plugin-selection-for-2024/"><u>[Updated] Expert's Top 10 FCP Plugin Selection for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-perfectly-organizing-weekly-google-meeting-times-for-2024/"><u>[Updated] Perfectly Organizing Weekly Google Meeting Times for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-freeze-solutions-to-overcome-the-loading-screen-problem-in-football-manager-2021/"><u>Beat The Freeze: Solutions to Overcome the Loading Screen Problem in Football Manager 2021</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/become-an-interview-pro-leveraging-chatgpt-expertise/"><u>Become an Interview Pro: Leveraging ChatGPT Expertise</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comparing-apples-latest-giants-iphone-15-plus-vs-pro-max-which-is-better/"><u>Comparing Apple's Latest Giants: IPhone 15 Plus Vs. Pro Max – Which Is Better?</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-8014-in-dead-by-daylight-fixed-tips-and-solutions/"><u>Error Code 8014 in Dead By Daylight Fixed – Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-insights-handling-and-preventing-tear-down-application-from-crashing/"><u>Expert Insights: Handling and Preventing Tear Down Application From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-performance-optimization-overcoming-lag-and-delays/"><u>Guilty Gear Strive Performance Optimization: Overcoming Lag and Delays</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-address-and-fix-imessage-login-failures-on-your-ios-device/"><u>How to Address and Fix iMessage Login Failures on Your iOS Device</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x100-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X100 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/lenovos-updated-thunderbolt-3-hub-drivers-enhance-compatibility-and-performance/"><u>Lenovo's Updated Thunderbolt 3 Hub Drivers: Enhance Compatibility and Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-cs2-pc-malfunctions-top-troubleshooting-tips-for-stable-gameplay/"><u>Overcome CS2 PC Malfunctions: Top Troubleshooting Tips for Stable Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/snapchat-reactivation-strategies-regain-control-over-your-digital-friendships-today/"><u>Snapchat Reactivation Strategies: Regain Control Over Your Digital Friendships Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-football-manager-2021-freezing-issues-on-windows-fixes-and-tips/"><u>Solving Football Manager 2021 Freezing Issues on Windows - Fixes & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-when-amd-radeon-drivers-wont-launch/"><u>Solving the Issue: When AMD Radeon Drivers Won't Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tips-for-enhancing-performance-and-increasing-fps-on-watch-dogs-legion/"><u>Step-by-Step Tips for Enhancing Performance & Increasing FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-cant-i-start-rocket-league/"><u>Troubleshooting Steps: Why Can't I Start Rocket League?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-whos-engaging-with-your-videos-tips-for-youtubers/"><u>Understanding Who's Engaging with Your Videos: Tips for YouTubers</u></a></li>
 </ul></div>
 

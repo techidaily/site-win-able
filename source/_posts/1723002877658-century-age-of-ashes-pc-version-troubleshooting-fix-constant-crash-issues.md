@@ -1,7 +1,7 @@
 ---
 title: "Century: Age of Ashes PC Version Troubleshooting – Fix Constant Crash Issues!"
-date: 2024-08-28T05:29:58.882Z
-updated: 2024-08-29T05:29:58.882Z
+date: 2024-11-22T18:59:51.539Z
+updated: 2024-11-26T23:11:52.580Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 8. **[Turn VSync off](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Riot Vanguard](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
  You will get this error message**Graphics driver crashed** if the driver is outdated, corrupted, or incompatible, so you should try updating the graphics driver, especially when you haven’t done so for a while.
@@ -38,8 +42,9 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  There are two ways you can get the right drivers for your sound card:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Manually
 
  Since Windows Update and Device Manager won’t always deliver the latest graphics driver ([learn why?](https://tools.techidaily.com/drivereasy/download/) ), you can download the latest**game ready driver** from the manufacturer’s website (be sure to choose only drivers that are compatible with your variant of Windows 10), and update the driver manually.
@@ -49,6 +54,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2 – Automatically
 
@@ -64,9 +73,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  If updating to the latest driver didn’t do the trick, you can also perform a Windows Update since the latest graphics driver is designed for the latest Windows version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Fix 2: Roll back the graphics driver
 
  If the error**Graphics driver crashed** happens and your Volorant keeps crashing after a graphics driver update, you should roll back to its previous version.
@@ -79,6 +85,10 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
   * Change the numbers at the end of the link to correlate to the downloads you want to download.
 * **[Intel](https://downloadcenter.intel.com/product/80939/Graphics)**  
   * Select the product model and the operating system. Then scroll down the list and download an older driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update DirectX
 
@@ -95,32 +105,30 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
  To upgrade your DirectX version, you’ll need to upgrade to the highest level of Windows version. So make sure you’ve performed a full Windows Update.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Reset your graphics card software
 
  NVIDIA comes with the NVIDIA Control Panel and AMD comes with the Catalyst Control Center. Both of these programs allow users to set up graphics profiles that can override application settings and sometimes interfere with VALORANT as a result.
 
 To fix this, you can try resetting the software to default:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
 * Select **Preferences** .
 * Click on **Restore Factory Defaults** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Play Valorant in windowed mode
 
@@ -134,9 +142,6 @@ To fix this, you can try resetting the software to default:
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 7: Close all background apps
 
  Another possible cause of the error is application interference. You can press**Ctrl** +**Shift** +**Esc** to open Task Manager and close all unnecessary applications.
@@ -165,9 +170,6 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -196,8 +198,6 @@ To fix this, you can try resetting the software to default:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +205,26 @@ To fix this, you can try resetting the software to default:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-instagrams-algorithm-unlocked-optimizing-your-reels/"><u>[New] In 2024, Instagram’s Algorithm Unlocked Optimizing Your Reels</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-sharpen-your-photos-pro-tips-for-lunapic-users/"><u>[New] Sharpen Your Photos Pro Tips for LunaPic Users</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-flash-facts-how-videos-captivate-twitters-audience/"><u>[Updated] 2024 Approved Flash Facts How Videos Captivate Twitter's Audience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-silent-steppes-righteous-quests-games-like-the-samurai-odyssey/"><u>[Updated] In 2024, Silent Steppes, Righteous Quests Games Like the Samurai Odyssey</u></a></li>
+<li><a href="https://win-premium.techidaily.com/decouvrez-comment-recuperer-vos-courriels-perdus-sur-yahoo-guide-complet/"><u>Découvrez Comment Récupérer Vos Courriels Perdus Sur Yahoo - Guide Complet</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-solutions-for-resolving-minecrafts-world-connection-failure/"><u>Expert Tips and Solutions for Resolving Minecraft's 'World Connection Failure'</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-for-google-chrome-eating-up-too-much-processor-power/"><u>Final Fixes for Google Chrome Eating Up Too Much Processor Power</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/first-frame-wins-fundamental-cinematography-for-newcomers/"><u>First Frame Wins Fundamental Cinematography for Newcomers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-audio-problems-restoring-voice-chat-functionality-in-among-us-pc-version/"><u>Fixing Audio Problems: Restoring Voice Chat Functionality in Among Us (PC Version)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-connection-issues-solutions-for-unable-to-connect-in-minecraft/"><u>Fixing Connection Issues: Solutions for 'Unable to Connect' In Minecraft</u></a></li>
+<li><a href="https://solve-news.techidaily.com/how-to-create-a-dvd-from-an-iso-file-using-windows-1087-step-by-step-tutorial-for-easy-mastering/"><u>How to Create a DVD From an ISO File Using Windows 10/8/7: Step-by-Step Tutorial for Easy Mastering</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fps-dropslow-fps-in-valorant-2024-tips/"><u>How to Fix FPS Drops/Low FPS in Valorant - 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-mobile-warzone-20-for-pc-players/"><u>How to Fix Persistent Crashes in Call of Duty Mobile Warzone 2.0 for PC Players</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-restore-cast-functionality-on-your-windows-11-pc-solution/"><u>How to Restore Cast Functionality on Your Windows 11 PC [Solution]</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/no-displayed-video-fixing-camera-issue-with-sony-a6400-for-2024/"><u>No Displayed Video Fixing Camera Issue with Sony A6400 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998093100-overwatch-wont-launch-fixed/"><u>Overwatch Won’t Launch [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-collision-solved-resolving-dual-accident-issues/"><u>PC Collision Solved: Resolving Dual Accident Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/tactical-insights-for-cod-warzone-players-in-the-new-pacific-map/"><u>Tactical Insights for COD: Warzone Players in the New Pacific Map</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-bgm-music-streaming-sites-updated/"><u>Updated 2024 Approved The Ultimate List of Free BGM Music Streaming Sites, Updated</u></a></li>
+</ul></div>
 

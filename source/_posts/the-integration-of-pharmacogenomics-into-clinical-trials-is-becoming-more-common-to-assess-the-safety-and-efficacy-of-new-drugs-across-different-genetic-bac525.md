@@ -1,7 +1,7 @@
 ---
 title: The Integration of Pharmacogenomics Into Clinical Trials Is Becoming More Common to Assess the Safety and Efficacy of New Drugs Across Different Genetic Backgrounds
-date: 2024-11-14T05:29:10.370Z
-updated: 2024-11-16T16:52:50.615Z
+date: 2024-11-24T22:11:35.793Z
+updated: 2024-11-26T22:08:10.594Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -97,31 +90,15 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -145,20 +122,21 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
- If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -169,14 +147,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
-4. Launch Vanguard again and check to see if the crashing issue still occurs.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 ### Fix 5: Disable overlays
 
@@ -185,6 +160,10 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -199,6 +178,10 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -210,21 +193,11 @@ Here are the steps:
 2. Click **Check for updates** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -249,22 +222,18 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweak-quick-twitter-video-preview/"><u>[New] 2024 Approved Tweak Quick Twitter Video Preview</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-quick-tips-effective-inshot-for-pclaptop-videos/"><u>[New] Quick Tips Effective Inshot for PC/Laptop Videos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-enrich-your-knowledge-student-approved-history-youtubes-to-watch/"><u>[Updated] In 2024, Enrich Your Knowledge Student-Approved History YouTubes To Watch</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-ultimate-playwriting-workshop/"><u>[Updated] Ultimate Playwriting Workshop</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-proper-techniques-for-exporting-photos-from-phone-to-snapchat/"><u>2024 Approved Proper Techniques for Exporting Photos From Phone to Snapchat</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/critical-factors-to-evaluate-when-acquiring-refurbished-ipads/"><u>Critical Factors to Evaluate When Acquiring Refurbished iPads</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-persistent-deathloop-not-opening-error-message/"><u>Effective Fixes for the Persistent 'Deathloop Not Opening' Error Message</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-edge-40-neo-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Edge 40 Neo?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-arma-n-war-from-stuttering-advanced-user-guidelines/"><u>How to Prevent Arma N' War From Stuttering : Advanced User Guidelines</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-performance-lags-in-forza-horizon-5/"><u>How To Resolve Performance Lags In Forza Horizon 5?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-of-the-garmin-forerunner-45-why-this-gps-watch-is-a-must-have-for-runners/"><u>In-Depth Analysis of the Garmin Forerunner 45: Why This GPS Watch Is a Must-Have for Runners</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/next-gen-search-microsoft-upgrades-bing-with-ai-technology/"><u>Next-Gen Search: Microsoft Upgrades Bing with AI Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-you-dont-have-authorization-to-play-in-fortnite-troubleshooting-guide/"><u>Resolving 'You Don't Have Authorization to Play' In Fortnite - Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-how-to-overcome-the-cannot-reach-live-config-servers-issue/"><u>Solution Steps: How to Overcome the 'Cannot Reach Live Config Servers' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-overcoming-common-errors-with-the-apex-legends-engine/"><u>Ultimate Fix Guide: Overcoming Common Errors with the Apex Legends Engine</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-on-guilty-gear-strive-release-addressing-fan-concerns-and-expectations/"><u>Update on Guilty Gear Strive Release - Addressing Fan Concerns & Expectations</u></a></li>
-<li><a href="https://win-able.techidaily.com/zombie-army-4-on-pc-now-stable-after-fixing-the-infamous-game-crash/"><u>Zombie Army 4 on PC Now Stable After Fixing the Infamous Game Crash</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-a-close-look-at-t-series-revenue-from-online-channels/"><u>[New] 2024 Approved A Close Look at T-Series Revenue From Online Channels</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-eclipsing-fears-in-your-first-10-videos/"><u>[New] 2024 Approved Eclipsing Fears in Your First 10 Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-the-complete-gopro-comparison-guide/"><u>2024 Approved The Complete Gopro Comparison Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/chasing-deals-on-vr-gear-in-china-for-2024/"><u>Chasing Deals on VR Gear in China for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-troubleshooting-steps-for-overcoming-critical-ark-system-failures/"><u>Expert Guide: Troubleshooting Steps for Overcoming Critical ARK System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/firefox-freeze-fixes-ultimate-troubleshooting-guide/"><u>Firefox Freeze Fixes: Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722983010599-no-more-screen-shimmers-your-definitive-guide-to-banishing-the-blink/"><u>No More Screen Shimmers – Your Definitive Guide to Banishing the Blink</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-crashes-with-black-screen-here-are-proven-solutions/"><u>Overwatch Crashes with Black Screen? Here Are Proven Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-netflix-error-nw-1-19/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Netflix Error NW-1-19</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-the-application-has-unexpectedly-stopped-on-cod-mw3-mobile-game/"><u>Troubleshooting Tactics for 'The Application Has Unexpectedly Stopped' On COD MW3 Mobile Game</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unstuck-the-qr-code-scanning-on-your-iphone-try-these-10-fixes/"><u>Unstuck the QR Code Scanning on Your iPhone? Try These 10 Fixes!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unveiling-the-capabilities-of-dts-virtual-x-for-gamers/"><u>Unveiling the Capabilities of DTS Virtual: X for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-game-crash-with-error-0-1766-on-xboxpc-heres-the-fix/"><u>Warzone Game Crash with Error 0-1766 on Xbox/PC? Here's the Fix!</u></a></li>
 </ul></div>
 

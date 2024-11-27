@@ -1,7 +1,7 @@
 ---
 title: FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing
-date: 2024-10-30T19:46:39.097Z
-updated: 2024-11-07T05:00:31.830Z
+date: 2024-11-22T23:09:26.844Z
+updated: 2024-11-26T21:07:16.772Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -44,10 +48,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run as administrator
@@ -61,6 +62,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -72,6 +77,10 @@ If it’s not working, move to next fix.
 3. Restart the game and check.
 
 No luck with this one? Move to the next.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -106,21 +115,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -132,13 +131,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -166,21 +158,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-digital-renaissance-spotlight-on-six-trailblazers-of-nfts/"><u>[New] In 2024, Digital Renaissance Spotlight on Six Trailblazers of NFTs</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-techniques-to-perfectly-transcribe-ppts-for-2024/"><u>[New] Techniques to Perfectly Transcribe PPTs for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-ultimate-guide-to-likes-strategies-for-captivating-tiktok-unboxers/"><u>[Updated] 2024 Approved The Ultimate Guide to Likes Strategies for Captivating TikTok Unboxers</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-joyjingles-where-to-find-hilarious-ringtone-links/"><u>2024 Approved JoyJingles Where to Find Hilarious Ringtone Links</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhancing-creativity-with-filmoras-best-tools/"><u>Enhancing Creativity with Filmora's Best Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-oculus-rift-a-step-by-step-approach-to-reestablish-runtime-connection/"><u>Fixing Oculus Rift: A Step-by-Step Approach to Reestablish Runtime Connection</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/future-of-fb-ads-predictions-for-2024/"><u>Future of FB Ads Predictions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-players-rejoice-crusader-kings-iii-crash-problems-resolved/"><u>PC Players Rejoice: Crusader Kings III Crash Problems Resolved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-witcher-3-on-pc-when-it-keeps-crashing/"><u>Resolved: How to Fix The Witcher 3 on PC When It Keeps Crashing</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/release-channeling-playlist-hits-online/"><u>Rush Release Channeling Playlist Hits Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-long-awaited-premiere-it-takes-two-now-on-screen/"><u>The Long-Awaited Premiere: 'It Takes Two' Now On Screen</u></a></li>
-<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-12-pro-5g-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme 12 Pro 5G FRP</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-rated-ultralight-laptop-perfect-for-telecommuters-a-detailed-review-by-zdnet/"><u>Top-Rated Ultralight Laptop Perfect for Telecommuters: A Detailed Review by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-freezing-issues-in-minecraft-tips-for-uninterrupted-play-on-your-desktop/"><u>Troubleshooting Freezing Issues in Minecraft: Tips for Uninterrupted Play on Your Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-star-wars-jedi-fallen-order-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Star Wars Jedi: Fallen Order' PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-dealing-with-persistent-black-screens-on-mtga-platform/"><u>Ultimate Solution: Dealing with Persistent Black Screens on MTGA Platform</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-securing-sharp-visibility-a-guide-to-efficient-zooming-in-google-meets/"><u>[New] Securing Sharp Visibility A Guide to Efficient Zooming in Google Meets</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-superior-lineup-elite-webcam-mounts/"><u>[New] Superior Lineup Elite Webcam Mounts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-vivo-t2-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Vivo T2 5G via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/continuous-monitoring-for-arrhythmias-respiratory-failure-and-organ-dysfunction-is-essential-during-treatment/"><u>Continuous Monitoring for Arrhythmias, Respiratory Failure, and Organ Dysfunction Is Essential During Treatment</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-wait-solutions-to-sea-of-thieves-persistent-start-menu-problems/"><u>Fixing the Endless Wait: Solutions to Sea of Thieves' Persistent Start Menu Problems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-nokia-g310-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Nokia G310 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010472598-oculus-link-not-working-here-are-six-swift-solutions-to-revitalize-your-virtual-reality-experience/"><u>Oculus Link Not Working? Here Are Six Swift Solutions to Revitalize Your Virtual Reality Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-failures-solving-battlefield-4s-launch-issues-on-windows-machines/"><u>Overcoming Startup Failures: Solving Battlefield 4'S Launch Issues on Windows Machines</u></a></li>
+<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/solucion-al-problema-de-transferencia-de-fotos-desde-el-iphone-a-la-pc/"><u>Solución Al Problema De Transferencia De Fotos Desde El iPhone a La PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001912885-star-citizen-update-brings-an-end-to-windows-users-crash-woes-what-you-need-to-know/"><u>Star Citizen Update Brings an End to Windows Users' Crash Woes - What You Need To Know</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/switching-file-extensions-for-your-mac-snapshots-for-2024/"><u>Switching File Extensions for Your Mac Snapshots for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-grand-unveiling-of-it-takes-two-a-landmark-achievement-in-collaboration/"><u>The Grand Unveiling of 'It Takes Two': A Landmark Achievement in Collaboration</u></a></li>
 </ul></div>
 

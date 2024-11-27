@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Delays During OBS Streaming & Video Capture
-date: 2024-10-19T16:47:09.534Z
-updated: 2024-10-26T03:34:48.489Z
+date: 2024-11-20T21:58:10.858Z
+updated: 2024-11-26T18:48:18.485Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -37,19 +41,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
@@ -66,10 +57,7 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
@@ -80,16 +68,13 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -103,6 +88,10 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
@@ -110,10 +99,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -125,6 +111,10 @@ See if this issue reappears. If not, you have fixed this issue.
  1) Open your**Discord** , Click **the gear button** to open **User Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
@@ -142,29 +132,9 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
 
@@ -179,6 +149,10 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -224,24 +198,20 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/updated-the-unseen-windows-11-techniques/"><u>[Updated] The Unseen Windows 11 Techniques</u></a></li>
-<li><a href="https://win-info.techidaily.com/1-seamless-photo-transfer-from-iphone-to-pc-or-mac-top-6-no-cost-methods/"><u>1. Seamless Photo Transfer From iPhone to PC or Mac: Top 6 No-Cost Methods</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/jessica-aomei/"><u>詳細了解 Jessica 作家摘要 - 完美的 AOMEI 儲存庫管理</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-performance-boost-a-10-step-guide-to-reducing-latency/"><u>Battlefield 5 Performance Boost: A 10-Step Guide to Reducing Latency</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/creating-customized-secure-fitness-plans-with-chatgpt/"><u>Creating Customized, Secure Fitness Plans with ChatGPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-overwatch-2-running-smoothly-a-guide-to-7-crucial-fixes/"><u>How to Get Overwatch 2 Running Smoothly : A Guide to 7 Crucial Fixes</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/24-supercharge-your-media-download-sounds-for-editing/"><u>In 2024, Supercharge Your Media Download Sounds for Editing</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/laughter-unlimited-meme-magic-app-for-2024/"><u>Laughter Unlimited Meme Magic App for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-play-experience-tips-for-faster-fps-on-watch-dogs-legion/"><u>Mastering Smooth Play Experience: Tips for Faster FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-gamers-resolving-multiversus-launch-failures-on-windows-machines/"><u>Quick Fixes For Gamers: Resolving MultiVersus Launch Failures on Windows Machines</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/score-big-with-limited-time-deals-on-premium-samsung-tech-gadgets/"><u>Score Big with Limited-Time Deals on Premium Samsung Tech Gadgets</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009546290-stardew-valley-wont-load-here-are-the-proven-remedies/"><u>Stardew Valley Won't Load? Here Are the Proven Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-not-working-heres-how-to-stabilize-your-game-launcher-swiftly/"><u>Steam Not Working? Here's How to Stabilize Your Game Launcher Swiftly</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/step-by-step-audio-recording-made-simple-with-iphone/"><u>Step-By-Step Audio Recording Made Simple with iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/structuring-stories-that-resonate-in-docu-cinema/"><u>Structuring Stories That Resonate in Docu-Cinema</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-risk-of-rain-2-game-crashes-effective-strategies-inside/"><u>Troubleshoot and Repair Risk of Rain 2 Game Crashes – Effective Strategies Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-to-the-ue4-madness-repair-steps-for-the-unreal-engine-4-crash-error-in-outriders-gameplay/"><u>Ultimate Solution to the 'UE4-Madness': Repair Steps for the Unreal Engine 4 Crash Error in Outriders Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005627200-unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-top-10-vlogging-apps-for-editing-on-the-go/"><u>Updated In 2024, Top 10 Vlogging Apps for Editing on the Go</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-tier-tools-transforming-remote-discussions-for-2024/"><u>[New] Top-Tier Tools Transforming Remote Discussions for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] In 2024, Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/best-timecode-conversion-tools-for-filmmaker/"><u>Best Timecode Conversion Tools for Filmmaker</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-multiple-caped-crusaders-collide-during-pc-play/"><u>Effective Solutions for When Multiple Caped Crusaders Collide During PC Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-issue-playing-robocop-rogue-city-failed-on-windows-solutions-inside/"><u>Fix the Issue! Playing RoboCop: Rogue City Failed on Windows - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-consecutive-software-hiccups-on-your-personal-computer/"><u>How to Fix Consecutive Software Hiccups on Your Personal Computer</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hp-universal-docking-station-drivers-free-download-for-models-with-120w-and-230w-charging-options/"><u>HP Universal Docking Station Drivers: Free Download for Models with 120W and 230W Charging Options</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-free-final-cut-pro-mastery-secrets-revealed/"><u>In 2024, Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-razr-40-ultra-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Razr 40 Ultra Phones</u></a></li>
+<li><a href="https://solve-latest.techidaily.com/macx-dvd-ripper-pro-mac-dvd/"><u>MacX DVD Ripper Pro: 最新 Mac 専用 DVD コピーツールを無料ダウンロード - 開発中</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-fixing-your-ps4s-unresponsive-moments/"><u>Step-by-Step Solutions: Fixing Your PS4's Unresponsive Moments</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Ultra Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-block-ensuring-seamless-minecraft-setup-on-your-windows-11-machine/"><u>Troubleshooting the Block: Ensuring Seamless Minecraft Setup on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-crashing-woes-a-comprehensive-guide-to-solving-pc-stability-issues/"><u>Warzone 2.0 Crashing Woes? A Comprehensive Guide to Solving PC Stability Issues</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-update-error-80244019-solved/"><u>Windows Update Error 80244019 [Solved]</u></a></li>
 </ul></div>
 

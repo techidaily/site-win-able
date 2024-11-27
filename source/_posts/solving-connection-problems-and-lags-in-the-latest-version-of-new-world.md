@@ -1,7 +1,7 @@
 ---
 title: Solving Connection Problems & Lags in the Latest Version of 'New World'
-date: 2024-11-10T02:12:43.918Z
-updated: 2024-11-17T07:43:01.749Z
+date: 2024-11-20T17:53:58.972Z
+updated: 2024-11-26T19:51:28.791Z
 tags:
   - win11
   - win10
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-options.jpg)
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 Check if you still have the freezing issue in Deathloop.
@@ -74,6 +78,10 @@ If this does not resolve the problem, proceed to Fix 3\.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -83,10 +91,7 @@ If this does not resolve the problem, proceed to Fix 3\.
 If the game still keeps freezing, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Close background programs
@@ -97,23 +102,13 @@ If the game still keeps freezing, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager.jpg)
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
 3. Relaunch Deathloop and test the gameplay.
 
  If the freezing issue still occurs after closing all the background programs, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Switch to Performance Mode on PS5
@@ -125,25 +120,15 @@ If the game still keeps freezing, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
 
 If this method doesn’t do the trick, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Power cycle your PS5
 
@@ -152,6 +137,10 @@ If this method doesn’t do the trick, check out the last fix.
 1. Press and hold the**power button** on your controller.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
 4. Plug the power cable back in and turn the console back on by pressing the**power button** on your controller.
@@ -181,16 +170,21 @@ Check if the game freezes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-chart-topping-content-youtubes-top-5/"><u>[New] 2024 Approved Chart-Topping Content YouTube's Top 5</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unveiling-the-secrets-to-captioning-stories-and-reels/"><u>[New] 2024 Approved Unveiling the Secrets to Captioning Stories and Reels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-the-moment-methods-for-online-audio-recording/"><u>[Updated] Capturing the Moment Methods for Online Audio Recording</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/correcting-the-dvd-title-mistake-in-handbrake-conversions-a-comprehensive-guide-to-setting-up-right-names-correctly/"><u>Correcting the DVD Title Mistake in Handbrake Conversions: A Comprehensive Guide to Setting Up Right Names Correctly</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004803159-elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma</u></a></li>
-<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-ace-2-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Ace 2 phone? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-game-performance-addressing-high-cpu-usage-in-new-worlds-latest-patch/"><u>Optimizing Game Performance: Addressing High CPU Usage in New World's Latest Patch</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998711786-quick-solutions-resolving-winwordexe-program-crashes-in-no-time/"><u>Quick Solutions: Resolving WINWORD.EXE Program Crashes in No Time</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-black-ops-cold-war-issue-how-to-overcome-the-critical-error-code-c0000005/"><u>Resolving Black Ops Cold War Issue: How to Overcome the Critical Error Code C0000005</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-in-maplestory-world-overcome-launch-glitches-easily/"><u>Smooth Sailing in Maplestory World – Overcome Launch Glitches Easily</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/the-prime-collection-of-pc-screen-capture-tools-win11-for-2024/"><u>The Prime Collection of PC Screen Capture Tools (Win11) for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-full-screen-fixes-for-online-streams/"><u>[New] Full-Screen Fixes for Online Streams</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-delving-into-youtubes-complex-calculation-of-viewer-stats/"><u>[New] In 2024, Delving Into YouTube's Complex Calculation of Viewer Stats</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-cod-vanguard-crashing-on-pc-2024/"><u>[SOLVED] CoD Vanguard Crashing on PC - 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/comment-graver-un-disque-dvd-sur-pc-ou-mac-a-laide-de-winxdvd-sans-frais/"><u>Comment Graver Un Disque DVD Sur PC Ou Mac À L'aide De WinXDVD Sans Frais</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-alert-difficulty-installing-the-remake-of-diablo-ii/"><u>Error Alert: Difficulty Installing the Remake of Diablo II</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-cold-wars-stubborn-startup-lag-on-all-devices-a-step-by-step-guide-for-gamers/"><u>Fixing Cold War’s Stubborn Startup Lag on All Devices - A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-oppo-reno-11-pro-5g-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Oppo Reno 11 Pro 5G Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-solve-launching-errors-for-call-of-duty-modern-warfare-3-mw3/"><u>How to Solve Launching Errors for Call of Duty Modern Warfare 3 (MW3)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/launching-videos-efficiently-with-free-intros-for-2024/"><u>Launching Videos Efficiently with FREE Intros for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-how-to-add-bitmoji-to-keyboard-complete-guide/"><u>New How to Add Bitmoji to Keyboard? Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-launch-error-of-nier-automata-remastered-tips-and-solutions/"><u>Overcome the Launch Error of NieR Automata Remastered – Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-compatibility-fixes-getting-helldivers-2-to-start-successfully/"><u>Steam Compatibility Fixes: Getting Helldivers 2 to Start Successfully</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722976550466-step-by-step-fixes-for-your-graphic-card-drivers-warning/"><u>Step-by-Step Fixes for Your Graphic Card Drivers Warning</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-linksys-ea9500-advanced-features-for-seamless-connectivity/"><u>The Ultimate Guide to the Linksys EA9500 – Advanced Features for Seamless Connectivity</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-correcting-battlefield-2042s-directx-error-messages/"><u>Troubleshooting and Correcting Battlefield 2042'S DirectX Error Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-keep-your-pc-running-smoothly-while-playing-fallout-3-on-windows-10/"><u>Ultimate Fixes to Keep Your PC Running Smoothly While Playing Fallout 3 On Windows 10</u></a></li>
 </ul></div>
 

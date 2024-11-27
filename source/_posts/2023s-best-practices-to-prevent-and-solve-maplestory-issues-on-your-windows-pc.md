@@ -1,7 +1,7 @@
 ---
 title: 2023'S Best Practices to Prevent and Solve MapleStory Issues on Your Windows PC
-date: 2024-10-25T11:38:12.332Z
-updated: 2024-10-25T16:30:58.420Z
+date: 2024-11-21T17:40:52.904Z
+updated: 2024-11-26T18:48:06.160Z
 tags:
   - win11
   - win10
@@ -32,14 +32,11 @@ thumbnail: https://thmb.techidaily.com/a9744aafdac80a7e4f169749236f6a9a3444533f4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
 
-If that doesn’t work for you, try the fixes below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If that doesn’t work for you, try the fixes below.
 
 ## Try these fixes…
 
@@ -50,6 +47,10 @@ If that doesn’t work for you, try the fixes below.
 3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Run Windows Store troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run a full scan of your PC](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Allow Minecraft installer through firewall
 
@@ -64,30 +65,10 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
 
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
 
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Download & install all Windows updates
 
@@ -104,6 +85,10 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
 ## 3\. Update your device drivers
@@ -119,21 +104,16 @@ If that doesn’t work for you, try the fixes below.
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -153,19 +133,13 @@ If that doesn’t work for you, try the fixes below.
 4. Click on the**Run** button next to**Windows Store Apps** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
@@ -205,22 +179,14 @@ If that doesn’t work for you, try the fixes below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-elevate-your-profile-with-vimeo-on-instagram/"><u>[New] 2024 Approved Elevate Your Profile with Vimeo on Instagram</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-becoming-a-voice-alteration-virtuoso-with-morphvox/"><u>2024 Approved Becoming a Voice Alteration Virtuoso with MorphVOX</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-live-gaming-hubs-the-9-you-cant-miss/"><u>2024 Approved Live Gaming Hubs The 9 You Can't Miss</u></a></li>
-<li><a href="https://win-able.techidaily.com/anno-1800-gaming-woes-overcoming-persistent-directx-problems/"><u>Anno 1800 Gaming Woes: Overcoming Persistent DirectX Problems</u></a></li>
-<li><a href="https://driver-error.techidaily.com/bluetooth-connectivity-fix-how-to-repair-qualcomm-atheros-driver-issues-in-windows-11/"><u>Bluetooth Connectivity Fix: How to Repair Qualcomm Atheros Driver Issues in Windows 11</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/combining-creative-powers-how-to-leverage-dall-e-for-image-generation-in-chatgpt-4-conversations/"><u>Combining Creative Powers: How to Leverage DALL-E for Image Generation in ChatGPT-4 Conversations</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-for-when-discord-wont-install-resolve-it-quickly/"><u>Effortless Solutions for When Discord Won't Install – Resolve It Quickly!</u></a></li>
-<li><a href="https://games-able.techidaily.com/elevate-mobile-gaming-advanced-buttons-and-controllers/"><u>Elevate Mobile Gaming: Advanced Buttons and Controllers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-prevent-battlefield-2042-from-crashing-on-your-pc/"><u>Fixing the Issue: How to Prevent Battlefield 2042 From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-issue-of-the-elder-scrolls-online-failing-to-launch-expert-advice/"><u>How to Fix the Issue of The Elder Scrolls Online Failing to Launch – Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-utorrent-not-downloadingconnecting-to-peers/"><u>How to Fix uTorrent Not Downloading/Connecting to Peers</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-narratives-distributed-among-8-movie-segments/"><u>In 2024, Ideal Narratives Distributed Among 8 Movie Segments</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-media-mobility-in-apples-ecosystem/"><u>In 2024, Mastering Media Mobility in Apple's Ecosystem</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/streamline-your-shooting-canons-time-lapse-techniques/"><u>Streamline Your Shooting Canon's Time-Lapse Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-fix-resolving-the-launch-failed-message-in-multiversus-for-windows-users/"><u>The Ultimate Fix: Resolving the 'Launch Failed' Message in MultiVersus for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-troubleshooting-guide-eliminating-pc-instability-issues/"><u>Valheim Troubleshooting Guide: Eliminating PC Instability Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/waste-disposal/"><u>Waste Disposal</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-evolution-of-action-cameras-from-gopro-hero4-to-hero5/"><u>[New] 2024 Approved Evolution of Action Cameras From GoPro (Hero4 to Hero5)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-m34-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy M34.</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-f1-2020s-pc-crashes-tips-and-solutions-to-keep-your-race-running-uninterrupted/"><u>Conquering F1 2020'S PC Crashes: Tips and Solutions to Keep Your Race Running Uninterrupted</u></a></li>
+<li><a href="https://win-able.techidaily.com/functionalization-possibilities-for-nanofibers-including-electrostatic-charging-hydrophilic-treatments-or-catalytic-coatings-for-enhanced-pollutant-removal.490/"><u>Functionalization Possibilities for Nanofibers, Including Electrostatic Charging, Hydrophilic Treatments, or Catalytic Coatings for Enhanced Pollutant Removal</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone SE without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-issues-how-to-stop-code-veal-stuttering/"><u>Overcoming Technical Issues: How to Stop Code Veal Stuttering</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-your-amazon-prime-showmovie-subtitle-issues-with-these-easy-steps/"><u>Resolve Your Amazon Prime Show/Movie Subtitle Issues with These Easy Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-counter-strike-2-from-freezing-and-crashing-in-202/"><u>Troubleshooting Steps to Stop Counter-Strike 2 From Freezing and Crashing in 202</u></a></li>
 </ul></div>
 

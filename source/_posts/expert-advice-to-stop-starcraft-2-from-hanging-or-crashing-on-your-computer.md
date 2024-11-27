@@ -1,7 +1,7 @@
 ---
 title: Expert Advice to Stop Starcraft 2 From Hanging or Crashing on Your Computer
-date: 2024-08-28T05:31:24.955Z
-updated: 2024-08-29T05:31:24.955Z
+date: 2024-11-24T18:50:41.545Z
+updated: 2024-11-26T18:06:32.447Z
 tags:
   - win11
   - win10
@@ -88,9 +88,6 @@ Here are the minimum and recommended system requirements for the game:
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  Updating drivers manually can be time-consuming and if you’re not familiar with computer hardware, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically detects, downloads, and installs the correct or missing drivers for your system.
@@ -104,8 +101,9 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -131,16 +129,25 @@ Here’s how to update drivers with Driver Easy:
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and find the**Steam application** . (It should be highlighted.) Right-click on it and select**Properties** .
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Select the tab**Compatibility** and check the box next to**Run this program as an administrator** . Then click**Apply > OK** .
 
 ![run Steam as an administrator to fix Serious Sam 4 crashing and suttering issue](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
 
@@ -156,9 +163,6 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Select**Virus & threat protection** from the left pane. Scroll down and under the**Ransomware protection** section, click**Manage ransomware protection** .
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
@@ -168,20 +172,22 @@ To do so, you can:
 
 ![allow  an app through controlled folder access Serious Sam 4 ](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-1200x684.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Add an allowed app** **\> Browse all apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Then navigate to the game’s installation folder and select**Sam4.exe** .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like your game crashing and stuttering on PC. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -193,8 +199,9 @@ To do so, you can:
 ![This image has an empty alt attribute; its file name is steam-select-propertite.jpg](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click on the **LOCAL FILES**  tab and click **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![verify game files serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-1.png)
@@ -203,9 +210,6 @@ To do so, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Disable Steam overlay
 
  If you have Steam overlay enabled, it may cause instabilities. So to fix it, you should disable it. You can follow the instructions below:
@@ -216,12 +220,13 @@ To do so, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  3) Select the**GENERAL** tab and uncheck the box next to**Enable the Steam Overlay while in-game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-Steam-overlay-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, exit Steam and run your game to see if this fixed the issues.
 
@@ -237,16 +242,10 @@ To do so, you can:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/steam-select-propertite.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select the**GENERAL** tab and click**SET LAUNCH OPTIONS…** .
 
 ![set launch options to fix Serious Sam 4 crashing and stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/Steam-set-launch-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  4) In the text box, type**+gfx\_strAPI Vulkan** and click**OK** .
 
 ![set launch options serious sam 4 crash or shutter](https://images.drivereasy.com/wp-content/uploads/2020/09/select-options-2-1.png)
@@ -257,9 +256,6 @@ After you’ve done these, relaunch your game.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 9: Adjust graphics options
 
  When crashing or stuttering happens, you can adjust graphics options to fix it. Here are the steps for you to take:
@@ -272,18 +268,12 @@ After you’ve done these, relaunch your game.
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-2-1200x540.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) In the**GRAPHICS API:** section, choose**VULKAN** or**DIRECT3D 12** .  
  In the**FIELD OF VIEW:** section, set it to**Maximum** which is**120.00** .  
  After this, click**APPLY** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Click**YES** when you’re asked**DO YOU WANT TO KEEP THESE SETTINGS?** .
 
 ![adjust graphics options serious sam 4 crash stutter](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-graphics-options-4-1.png)
@@ -293,8 +283,9 @@ After you’ve done these, relaunch your game.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 10: Set priority to realtime
 
 **Realtime priority** means that any input the process sends will be processed in **real time** as far as possible. Setting priority to Realtime for Serious Sam 4 would make your game run as soon as possible, which might also fix the crashing issue. To do this, follow the instructions below:
@@ -309,9 +300,6 @@ After you’ve done these, relaunch your game.
 
 ![set priority as realtime Serious Sam 4 crash and sutter](https://images.drivereasy.com/wp-content/uploads/2020/09/set-priority-as-real-time-2-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  If setting priority to realtime didn’t work for you, don’t worry. You got a few other fixes.
 
 ---
@@ -326,9 +314,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click on the**Services** tab. Check the box**Hide all Microsoft services** and click**Disable all > Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.png)
@@ -338,9 +323,9 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-3-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After restarting your computer, launch your game to see if it fixes the issue. If not, move on to the next method.
 
 ---
@@ -363,8 +348,6 @@ Here’s how you can do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -372,4 +355,22 @@ Here’s how you can do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-revolutionary-wearable-camera-tech-for-2024/"><u>[New] Revolutionary Wearable Camera Tech for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-secret-strategies-streamlining-your-stylizing-skills/"><u>[New] Secret Strategies Streamlining Your Stylizing Skills</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-smart-scale-for-visual-content/"><u>2024 Approved Smart Scale for Visual Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-and-pc-compatibility-woes-heres-how-you-can-keep-your-game-running-smoothly/"><u>Crusader Kings III & PC Compatibility Woes? Here's How You Can Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/doom-eternal-delayed-again-unveil-the-solution-for-an-immediate-start/"><u>DOOM Eternal Delayed Again? Unveil The Solution For An Immediate Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-access-gpeditmsc-on-your-windows-home-pc/"><u>Fix Guide: How to Access gpedit.msc on Your Windows Home PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/handbrake-tutorial-fur-das-konvertieren-und-rappen-sie-dvds-in-ein-bequemes-format/"><u>HandBrake Tutorial Für Das Konvertieren Und Rappen Sie DVDs in Ein Bequemes Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-last-epoch-game-running-again-fixes-for-pc-players/"><u>How to Get Your Last Epoch Game Running Again - Fixes for PC Players!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010972963-no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-overwatch-driver-glitches-a-step-by-step-fixing-process/"><u>Resolving Overwatch Driver Glitches: A Step-by-Step Fixing Process</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/secrets-of-recording-video-without-distracting-noise/"><u>Secrets of Recording Video without Distracting Noise</u></a></li>
+<li><a href="https://win-unique.techidaily.com/step-by-step-tutorial-on-converting-powerpoint-links-for-use-in-flipbook-documentation-flipbuilder-experts/"><u>Step-by-Step Tutorial on Converting PowerPoint Links for Use in FlipBook Documentation [FlipBuilder Experts]</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-samsung-galaxy-f15-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Samsung Galaxy F15 5G</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unboxing-the-moto-g-power-superior-durability-meets-remarkable-battery-capacity/"><u>Unboxing the Moto G Power: Superior Durability Meets Remarkable Battery Capacity</u></a></li>
+<li><a href="https://win-great.techidaily.com/wiederherstellung-verlorener-oder-geloschter-daten-von-samsungs-portablen-ssd-modellen-t3-t5-x5-und-t7/"><u>Wiederherstellung Verlorener Oder Gelöschter Daten Von Samsung's Portablen SSD-Modellen: T3, T5, X5 Und T7</u></a></li>
+</ul></div>
 

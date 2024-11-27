@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-11-15T04:26:14.826Z
-updated: 2024-11-17T10:49:46.312Z
+date: 2024-11-24T18:59:09.169Z
+updated: 2024-11-26T16:11:54.528Z
 tags:
   - win11
   - win10
@@ -35,10 +35,7 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
@@ -67,6 +64,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -84,6 +85,10 @@ OR
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -109,6 +114,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like the screen stuck at loading. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -121,22 +130,12 @@ OR
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-1200x610.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Delete the game’s save file
@@ -150,10 +149,7 @@ OR
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
@@ -164,13 +160,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 5: Run Steam as an administrator
 
  Granting Steam administrative rights would probably let you play your game smoothly. So here, you can run Steam in Administrator mode.
@@ -179,38 +168,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -221,6 +193,10 @@ Here’s how you can do this:
  1) In the Search bar, type **network reset** and click **Network reset**  from the results.  
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click **Reset now** .  
   
@@ -276,17 +252,22 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-essential-cost-free-remote-desktop-sharing-software/"><u>[New] In 2024, Essential, Cost-Free Remote Desktop Sharing Software</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-content-delivery-comparison-vimeo-vs-youtube-vs-dailymotion/"><u>[Updated] 2024 Approved Content Delivery Comparison Vimeo vs YouTube vs Dailymotion</u></a></li>
-<li><a href="https://win-unique.techidaily.com/1-awesome-beginners-starter-pack-with-free-tailwind-css-nextjs-and-ui-kits-from-notion-by-creative-tim/"><u>1. Awesome Beginner's Starter Pack with Free Tailwind CSS, NextJS & UI Kits From Notion by Creative Tim</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-best-8-stream-modifiers-for-flawless-webcam-videos/"><u>2024 Approved Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/5-ways-change-your-home-address-in-googleapple-map-on-apple-iphone-14-proipad-drfone-by-drfone-virtual-ios/"><u>5 Ways Change Your Home Address in Google/Apple Map on Apple iPhone 14 Pro/iPad | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/elevating-interactive-communications-mastering-custom-gpt-3-directives-with-finesse/"><u>Elevating Interactive Communications: Mastering Custom GPT-3 Directives with Finesse</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/momentary-motion-picture-manuscript/"><u>Momentary Motion Picture Manuscript</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/newest-july-2024-patches-and-enhancements-for-your-windows-system/"><u>Newest July 2024 Patches & Enhancements for Your Windows System</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-amplifying-your-videos-using-pc-software/"><u>Step-by-Step Guide to Amplifying Your Videos Using PC Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-youtube-videos-conversion-with-factorypro/"><u>Step-by-Step Guide: Mastering YouTube Videos Conversion with FactoryPro</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-transforming-mp4-audio-files-into-mp3-format-with-windows-media-player/"><u>Step-by-Step Guide: Transforming MP4 Audio Files Into MP3 Format with Windows Media Player</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-how-to-turn-your-dvd-media-into-mp4-format-without-cost-on-windows-11/"><u>Step-by-Step Tutorial: How to Turn Your DVD Media Into MP4 Format Without Cost on Windows 11</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ransforming-viewers-into-income-how-many-votes-yield-earnings-for-2024/"><u>[New] Transforming Viewers Into Income How Many Votes Yield Earnings for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-stepping-up-your-gaming-stream-with-steam-capture/"><u>[Updated] 2024 Approved Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>2024 Approved Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-wont-start-navigate-to-victory-with-these-simple-repair-steps-players/"><u>Battlefield 5 Won't Start? Navigate to Victory with These Simple Repair Steps Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-fix-the-audio-issues-in-dying-light-with-proven-techniques/"><u>Decode and Fix the Audio Issues in 'Dying Light' With Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-gaming-how-to-stop-your-slime-rancher-2-experience-from-ending-in-a-crash-on-windows-systems/"><u>Effortless Gaming: How to Stop Your Slime Rancher 2 Experience From Ending in a Crash on Windows Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-network-card-drivers-compatible-with-windows-10-8-and-7/"><u>Latest TP-Link WiFi Network Card Drivers | Compatible with Windows 10, 8 & 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-issues-with-opening-discord-a-step-by-step-guide/"><u>Overcoming Issues with Opening Discord: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028126-9781620558010-psychedelic-mystery-traditions/"><u>Psychedelic Mystery Traditions | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-street-fighter-6s-pc-stability-issues-with-these-effective-fixes/"><u>Resolve Street Fighter 6'S PC Stability Issues with These Effective Fixes</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/rise-in-search-results-mastering-podcast-seo/"><u>Rise in Search Results Mastering Podcast SEO</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-t2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo T2 5G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007686819-steam-vr-not-showing-up-try-these-6-quick-fixes/"><u>Steam VR Not Showing Up? Try These 6 Quick Fixes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-chatgpt-text-limit-understanding-and-overcoming-restrictions/"><u>Unveiling the ChatGPT Text Limit: Understanding and Overcoming Restrictions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007206674-warcraft-3-reforged-and-pc-performance-issues-master-these-fixes/"><u>Warcraft 3 Reforged and PC Performance Issues? Master These Fixes</u></a></li>
+<li><a href="https://win-data.techidaily.com/1728471318779-windows-11/"><u>Windows 11更新阻塞解決方案 - 五招指南</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixes for Persona 5 Strikers Not Launching Properly on Windows
-date: 2024-09-01T07:58:03.759Z
-updated: 2024-09-02T07:58:03.759Z
+date: 2024-11-22T23:04:05.169Z
+updated: 2024-11-26T16:01:39.455Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 [6: Reinstall Outriders](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Before we dive into anything advanced…
 
  Make sure you’ve tried to **restart your PC and your game launcher (Epic Games Launcher & Steam)** .
@@ -52,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
  You can also check out the[recommended specifications](https://tools.techidaily.com/drivereasy/download/) if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  Sometimes your system doesn’t give your game enough permissions for it to launch. So you may want to grant the game administrative rights for it to function properly. To run as administrator:
@@ -68,9 +69,11 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 1. In your library, right-click**Outriders** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-46-04.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-51-05.jpg)
 3. Once you locate your game files, right-click**OUTRIDERS-Win64-Shipping.exe** , then select**Run as administrator** . If prompted for permission, click Yes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-52-07.jpg)
@@ -98,8 +101,9 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
  Once complete, launch the game to see if the problem persists. If this doesn’t give you luck, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  An outdated or faulty graphics driver is a common reason of game launching failure. You may want to update your graphics card driver, to make sure it’s functioning properly.
@@ -122,14 +126,15 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Launch Outriders to see if it opens. If the problem returns, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Allow the game through firewall
 
  Sometimes Windows Defender will block your game if it assumes the game is a virus. Similarly, a third-party antivirus software could also conflict with your game. To stop your game from being blocked, there are two options:
@@ -143,19 +148,10 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 1. In the search bar next to the Start button, type**firewall** then click**Allow an app through Windows Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-35-56.jpg)
 2. Click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-38-43.jpg)
 3. Click**Allow another app** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-39-57.jpg)
 4. Click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-07-37.jpg)
 5. Navigate to the folder containing your game files.  
 
@@ -168,12 +164,17 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 6. Click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-49-01.jpg)
 7. Check the box of the network type you would allow Outriders to access. If you play at home or at friend’s, check**Private** . Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you play on a domain network or public network, you can check the boxes of these two options as well. Note that there could be connectivity issues and security concerns.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-17-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You’ll also need to check if your game launcher is allowed through the firewall. If it’s allowed already,[skip to the next solution](https://tools.techidaily.com/drivereasy/download/) . If not, repeat the above steps to make sure your firewall no longer blocks your game launcher.
 
@@ -195,9 +196,6 @@ thumbnail: https://thmb.techidaily.com/9c54005e696cd2ed7b70760eb63ef402583a5567a
 
 If this fix doesn’t help, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check your Razer software
 
  This solution is for those using Razer software. If you don’t have any installed on your PC,[skip to the last solution](https://tools.techidaily.com/drivereasy/download/) .
@@ -218,14 +216,11 @@ If this fix doesn’t help, try the next solution.
 1. Find Outriders in your library. Right-click the game, select**Manage** then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_17-19-29.jpg)
 2. Once Outrider’s removed from your computer, you’ll see the option to install the game on the Outrider’s page from your library.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Reinstall the game.
 
 **On Epic Games Launcher:**
@@ -233,6 +228,10 @@ If this fix doesn’t help, try the next solution.
 1. Go to your library, click on the**three-dot icon** next to Outriders.
 2. Click**Uninstall** .
 3. Once the game is uninstalled, restart your Epic Games Launcher and reinstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Additional Notes
 
@@ -264,8 +263,6 @@ If this fix doesn’t help, try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +270,26 @@ If this fix doesn’t help, try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-captivating-images-mastering-the-art-of-motion-blur-in-ps/"><u>[New] Captivating Images Mastering the Art of Motion Blur in PS</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-combining-forces-sharing-tweets-on-facebook-networks/"><u>[New] In 2024, Combining Forces Sharing Tweets on Facebook Networks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[New] Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-hashtag-hits-videoviral-trends-on-twitter/"><u>[Updated] 2024 Approved Hashtag Hits #VideoViral Trends on Twitter</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-a-seamless-transition-from-aspect-ratio-to-square-on-instagram-with-imovie-for-2024/"><u>[Updated] A Seamless Transition From Aspect Ratio to Square on Instagram with iMovie for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-advanced-virtual-meeting-spaces-beyond-discord/"><u>[Updated] Advanced Virtual Meeting Spaces Beyond Discord</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-streamlining-your-verification-process-on-yt-for-2024/"><u>[Updated] Streamlining Your Verification Process on YT for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mts-to-mp4-20248/"><u>「MTS to MP4自由変換ソフトウェア: 2024の最高選考8つを紹介する」</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/a-guide-to-pinpointing-posted-videos-in-fb-groups/"><u>A Guide to Pinpointing Posted Videos in FB Groups</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-vivo-y27-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Vivo Y27 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-tecno-spark-20-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Tecno Spark 20 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp43mp4/"><u>MP4ファイルに圧縮しながらスクリーンを記録する究極のガイド：上位3つのMP4レコーダー</u></a></li>
+<li><a href="https://win-able.techidaily.com/preserving-clarity-in-video-edit-a-step-by-step-guide-on-converting-avchd-to-mp4-without-losing-quality/"><u>Preserving Clarity in Video Edit: A Step-by-Step Guide on Converting AVCHD to MP4 Without Losing Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-free-techniques-to-trim-videos-on-your-windows-11-pc/"><u>Quick & Free Techniques to Trim Videos on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-crafting-your-own-karaoke-hits-and-videos-free/"><u>Quick Guide: Crafting Your Own Karaoke Hits & Videos - Free!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-mystery-of-blurred-images-on-your-4k-television-step-by-step-guide/"><u>Resolving the Mystery of Blurred Images on Your 4K Television: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-and-effective-methods-to-transform-sdf-file-formats-with-ease/"><u>Simple & Effective Methods to Transform SDF File Formats with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-apng-files-into-easy-to-use-gifs/"><u>Simple Steps: Converting APNG Files Into Easy-to-Use GIFs</u></a></li>
+<li><a href="https://win-able.techidaily.com/ocam/"><u>ユーザーが知りたくなる「OCamスクリーンレコーダー」使用法の究極ガイド</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2024-11-13T19:48:11.445Z
-updated: 2024-11-17T00:32:12.340Z
+date: 2024-11-25T00:04:24.425Z
+updated: 2024-11-26T18:56:49.234Z
 tags:
   - win11
   - win10
@@ -33,18 +33,15 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -55,17 +52,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
 
@@ -76,7 +70,15 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
@@ -95,19 +97,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
 
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -117,27 +116,21 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
 3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
- Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -151,6 +144,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
@@ -162,21 +159,7 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975841/19272" target="_top" id="1975841">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975841" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975841/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -203,22 +186,17 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-hone-your-skills-how-to-seamlessly-post-videos-to-instagram-via-desktop-for-2024/"><u>[New] Hone Your Skills How to Seamlessly Post Videos to Instagram via Desktop for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-screen-recording-simplified-unlocking-five-key-techniques-for-minecraft-on-a-mac-for-2024/"><u>[Updated] Screen Recording Simplified Unlocking Five Key Techniques for Minecraft on a Mac for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/bridging-gap-acquired-msvcr71dll/"><u>Bridging Gap: Acquired MSVCR71.dll</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-common-freezing-problem-in-overwatch-games/"><u>Effective Solutions for the Common Freezing Problem in Overwatch Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-elden-rings-multiplayer-feature-up-and-running-again/"><u>Getting Elden Ring's Multiplayer Feature Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/house-flipper-2-pc-troubleshooting-fixing-frequent-crashes-quickly/"><u>House Flipper 2 PC Troubleshooting: Fixing Frequent Crashes Quickly</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-digital-portraits-proven-the-science-of-social-snap-validation/"><u>In 2024, Digital Portraits Proven The Science of Social Snap Validation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-honor-x7b-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Honor X7b to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/naraka-downfall-disruptions-decoded-tips-for-resolving-game-stopping-errors/"><u>Naraka Downfall Disruptions Decoded: Tips for Resolving Game-Stopping Errors</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-free-video-dubbing-software-for-pc-top-picks/"><u>New Free Video Dubbing Software for PC Top Picks</u></a></li>
-<li><a href="https://win-superb.techidaily.com/regreso-al-estado-de-nacimiento-en-windows-10-guia-completa-sobre-reinstalacion-profunda-sin-perdida-de-datos-3-formas-utiles/"><u>Regreso Al Estado De Nacimiento en Windows 10: Guía Completa Sobre Reinstalación Profunda Sin Pérdida De Datos [3 Formas Útiles]</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-anticheat-server-not-responding-in-escape-from-tarkov/"><u>Resolving 'Anticheat Server Not Responding' In Escape From Tarkov</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/revolutionizing-diy-with-gpt-4-the-next-generation-of-artificer-intelligence/"><u>Revolutionizing DIY with GPT-4: The Next Generation of Artificer Intelligence</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-for-when-logitech-g-hub-stops-responding-in-windows-environment/"><u>Solution Guide for When Logitech G Hub Stops Responding in Windows Environment</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-tablet-charging-problems-what-if-the-device-says-fully-charged-but-wont-turn-on/"><u>Solving Tablet Charging Problems: What If the Device Says Fully Charged But Won't Turn On?</u></a></li>
-<li><a href="https://win-able.techidaily.com/steps-for-using-drivereasys-mobile-app-a-comprehensive-guide/"><u>Steps for Using DriverEasy's Mobile App: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/unraveling-far-cry-5-loading-screen-glitches-strategies-for-a-smooth-start/"><u>Unraveling Far Cry 5 Loading Screen Glitches: Strategies for a Smooth Start</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-invisible-footage-methods-to-obfuscate-private-elements/"><u>[New] In 2024, Invisible Footage Methods to Obfuscate Private Elements</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[Updated] In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-the-comprerancial-insight-into-instagram-a-step-by-step-data-interpretation-toolkit/"><u>In 2024, The Comprerancial Insight Into Instagram A Step-by-Step Data Interpretation Toolkit</u></a></li>
+<li><a href="https://win-online.techidaily.com/mastering-the-art-of-upsells-and-complementary-products-drive-your-business-forward-with-effective-tactics-from-massmail-software-solutions/"><u>Mastering the Art of Upsells and Complementary Products: Drive Your Business Forward with Effective Tactics From MassMail Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-in-dragons-dogma-2-strategies-for-boosting-frames-per-second-fps/"><u>Overcoming Stuttering in Dragon's Dogma 2: Strategies for Boosting Frames per Second (FPS)</u></a></li>
+<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-a-step-by-step-fix-for-the-2024-edition-your-ultimate-resource/"><u>Path of Exile Connection Woes? A Step-by-Step Fix for the 2024 Edition - Your Ultimate Resource</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-relinking-issue-in-granblue-fantasy-a-comprehensive-guide/"><u>Solving the 'Relinking Issue' In Granblue Fantasy – A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy S24+? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-boost-your-splitgate-gameplay-with-higher-fps/"><u>Troubleshooting Tips: Boost Your Splitgate Gameplay with Higher FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-fixing-the-blank-display-when-starting-overwatch/"><u>Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/whynosubscriptions-eager-for-gpt-resumption/"><u>WhyNoSubscriptions: Eager for GPT Resumption</u></a></li>
 </ul></div>
 

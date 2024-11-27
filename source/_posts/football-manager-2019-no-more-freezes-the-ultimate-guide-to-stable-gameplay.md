@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-11-14T22:58:49.951Z
-updated: 2024-11-16T18:39:01.065Z
+date: 2024-11-23T20:17:06.027Z
+updated: 2024-11-26T17:34:10.198Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -52,13 +56,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 * **[McAfee](https://service.mcafee.com/?page=shell&shell=article-view&articleId=TS102056)**
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3\. Update your graphics driver
 
@@ -73,12 +70,20 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Verify the integrity of game files
 
@@ -93,10 +98,7 @@ After updating your drivers, restart your PC and test the gameplay.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
@@ -112,10 +114,7 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
@@ -129,10 +128,7 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select **Local Files** and then**Browse local files** .
@@ -149,10 +145,7 @@ Once complete, launch the game to check if your game is working again.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
@@ -190,13 +183,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -220,10 +206,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
@@ -283,22 +266,19 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-10-best-web-based-tools-for-clearing-up-fuzzy-images/"><u>[Updated] 10 Best Web-Based Tools for Clearing Up Fuzzy Images</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-vimeos-global-distribution-guide/"><u>[Updated] 2024 Approved Vimeo's Global Distribution Guide</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-does-quick-subscribe-strategy-boost-audience-growth/"><u>[Updated] In 2024, Does Quick-Subscribe Strategy Boost Audience Growth?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-mastering-the-art-of-editing-in-garageband/"><u>[Updated] Mastering the Art of Editing in GarageBand</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-2042-performance-fixes-resolving-frame-rate-dips-and-smoothing-gameplay-on-pc/"><u>Battlefield 2042 Performance Fixes: Resolving Frame Rate Dips & Smoothing Gameplay on PC</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/cutting-edge-technology-unpacked-a-detailed-review-of-the-impressive-samsung-qn55q6f-in-4k-uhd-and-hdr/"><u>Cutting Edge Technology Unpacked: A Detailed Review of the Impressive Samsung QN55Q6F in 4K UHD and HDR</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-the-highlighted-online-discourse/"><u>Finding the Highlighted Online Discourse</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-cod-black-ops-cold-war-error-80070057-complete-troubleshooting-guide/"><u>Fixing Cod: Black Ops Cold War Error 80070057 – Complete Troubleshooting Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-frequent-steam-applications-from-crashing-simple-fixes/"><u>How to Stop Frequent Steam Applications From Crashing - Simple Fixes!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y56-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y56 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-audio-in-your-fallout-adventure-steps-to-restore-sounds-in-pc-version/"><u>Reviving Audio in Your Fallout Adventure: Steps to Restore Sounds in PC Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/revolutionary-solutions-stop-paladins-from-crashing-top-strategies/"><u>Revolutionary Solutions: Stop Paladins From Crashing - Top Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-overcome-dota-2-endless-load-screen-problems/"><u>Solution: Overcome Dota 2 Endless Load Screen Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-cs2-frame-rate-issues-tips-and-tricks-for-a-smooth-gaming-experience/"><u>Solving CS2 Frame Rate Issues: Tips & Tricks for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-against-errors-effective-solutions-to-fix-ds4-connection-failures-on-a-pc-with-windows-os/"><u>Winning Against Errors: Effective Solutions to Fix DS4 Connection Failures on a PC with Windows OS</u></a></li>
-<li><a href="https://howto.techidaily.com/zte-nubia-z60-ultra-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>ZTE Nubia Z60 Ultra Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-best-of-the-chill-easy-phone-game-compilation/"><u>[New] 2024 Approved Best of the Chill Easy Phone Game Compilation</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-blades-visual-journey-from-standard-to-stunning-4k/"><u>[New] 2024 Approved Blade's Visual Journey From Standard to Stunning 4K</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>2024 Approved Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-restoring-functionality-to-logitech-configurations-on-windows/"><u>Comprehensive Guide: Restoring Functionality to Logitech Configurations on Windows</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/create-engaging-page-turning-ebooks-from-multiple-powerpoints-using-flipbuilder-tips-and-techniques/"><u>Create Engaging Page-Turning eBooks From Multiple PowerPoints Using FlipBuilder - Tips & Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-msi-backlight-not-functioning-correctly-in-windows-solutions-and-tips/"><u>Fixing MSI Backlight Not Functioning Correctly in Windows - Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-rectify-outlook-not-connected-problems/"><u>How to Successfully Rectify 'Outlook Not Connected' Problems</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-honor-play-8t-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Honor Play 8T</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-navigating-bandicam-a-must-read-guide/"><u>In 2024, Navigating Bandicam - A Must-Read Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-6s-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone 6s Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solutions-for-seamless-start-up-of-the-elder-scrolls-online/"><u>Mastering the Solutions for Seamless Start-Up of The Elder Scrolls Online</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/technical-snafu-printer-configuration-gone-awry/"><u>Technical Snafu: Printer Configuration Gone Awry</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/top-10-music-discoveries-on-spotify/"><u>Top 10 Music Discoveries on Spotify</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-helldivers-2-bsod-issue-a-comprehensive-guide/"><u>Troubleshooting the HellDivers 2 BSOD Issue: A Comprehensive Guide</u></a></li>
 </ul></div>
 

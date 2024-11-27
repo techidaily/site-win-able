@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It"
-date: 2024-11-12T10:29:52.393Z
-updated: 2024-11-17T04:35:22.701Z
+date: 2024-11-23T19:57:07.907Z
+updated: 2024-11-26T22:13:10.981Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
@@ -68,10 +72,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
@@ -81,29 +82,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -115,10 +96,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Click**Clear history** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
@@ -127,7 +105,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -157,23 +143,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -186,16 +162,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -221,22 +194,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-essential-techniques-for-integrating-b-roll-sequences-for-2024/"><u>[New] Essential Techniques for Integrating B-Roll Sequences for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-elevating-your-fb-video-content-game/"><u>[Updated] The Ultimate Guide Elevating Your FB Video Content Game</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-6-must-have-apps-to-elevate-your-instagram-video-content/"><u>[Updated] Top 6 Must-Have Apps to Elevate Your Instagram Video Content</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/2024-approved-years-must-see-makeup-vloggers-on-the-web/"><u>2024 Approved Year's Must-See Makeup Vloggers on the Web</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722988064535-beat-chivalry-crashing-fix-your-game-experience-with-our-expert-guidance-no-more-frustrations/"><u>Beat Chivalry ˈCrashing': Fix Your Game Experience with Our Expert Guidance - No More Frustrations!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-for-stabilizing-your-gameplay-in-titanfall-2/"><u>Effortless Solutions for Stabilizing Your Gameplay in Titanfall 2</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/guide-exporting-your-data-visualization-from-microsoft-excel-into-images/"><u>Guide: Exporting Your Data Visualization From Microsoft Excel Into Images</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-changefake-your-tecno-phantom-v-fold-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Tecno Phantom V Fold Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>In 2024, Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-shine-strategy-top-tools-to-brighten-streams/"><u>In 2024, Shine Strategy Top Tools to Brighten Streams</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-how-to-enable-the-text-to-speech-function-on-iphone/"><u>New 2024 Approved How to Enable the Text to Speech Function on iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-optimization-tips-ensuring-smooth-gameplay-in-cult-of-the-shepherdess/"><u>PC Optimization Tips: Ensuring Smooth Gameplay in Cult of the Shepherdess</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-ultimate-guide-to-repairing-and-stabilizing-ring-of-elysium/"><u>Resolved: Ultimate Guide to Repairing and Stabilizing Ring of Elysium</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-strategy-resolving-gtfo-application-failures/"><u>Step-by-Step Strategy: Resolving GTFO Application Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-pc-game-crashes-with-these-expert-strategies-for-202-cuits/"><u>Troubleshoot PC Game Crashes with These Expert Strategies for 202 Cuits</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-frame-rates-and-reducing-lag-in-watch-dogs-legion/"><u>Ultimate Guide to Enhancing Frame Rates & Reducing Lag in Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-repairing-crashes-in-forza-horizon-5-on-windows/"><u>Ultimate Guide: Preventing and Repairing Crashes in Forza Horizon 5 on Windows</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-easy-technique-storing-tweet-videos-and-images-on-cellphone/"><u>[New] Easy Technique Storing Tweet Videos and Images on Cellphone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/amp-up-visibility-strategies-for-engaging-shorts-on-youtub-for-2024/"><u>[New] Ramp Up Visibility Strategies for Engaging Shorts on YouTub for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-team-ups-finding-perfect-co-stars-for-2024/"><u>[Updated] Mastering YouTube Team-Ups Finding Perfect Co-Stars for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-cultivating-commitment-gentle-subscription-strategies/"><u>2024 Approved Cultivating Commitment Gentle Subscription Strategies</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-perfecting-your-storytelling-chapter-division-in-youtube-videos/"><u>2024 Approved Perfecting Your Storytelling Chapter Division in YouTube Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/efficient-name-alteration-for-meet-sessions-laptopmobile-for-2024/"><u>Efficient Name Alteration for Meet Sessions (Laptop/Mobile) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-silent-lost-ark-dilemma-get-your-sounds-back/"><u>Expert Solutions to Silent Lost Ark Dilemma – Get Your Sounds Back</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005051997-final-fix-for-out-of-date-minecraft-drivers-update-guide-included/"><u>Final Fix for Out-of-Date Minecraft Drivers - Update Guide Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-discord-overlay-issues-fast-simple-solutions/"><u>Fix Discord Overlay Issues Fast: Simple Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-steam-games-failing-to-start-on-windows-11/"><u>Fixing the Issue of Steam Games Failing to Start on Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Honor Magic 5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-edge-continuous-crash-solutions-for-windows-10-users/"><u>Microsoft Edge Continuous Crash Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-error-5573-glitch-in-call-of-duty-vanguard-for-better-performance/"><u>Overcoming the Error 5573 Glitch in Call of Duty: Vanguard for Better Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-resolving-error-code-3-0x0001000b/"><u>Troubleshooting Rainbow Six Siege: Resolving Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-streaming-supremacy-tivo-and-comcasts-dvr-battle-royale/"><u>Updated In 2024, Streaming Supremacy TiVo and Comcasts DVR Battle Royale</u></a></li>
 </ul></div>
 

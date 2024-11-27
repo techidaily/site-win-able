@@ -1,7 +1,7 @@
 ---
 title: Top Strategies for Troubleshooting Assassin's Creed Unity Game Crashes
-date: 2024-10-23T23:44:49.092Z
-updated: 2024-10-26T13:20:13.370Z
+date: 2024-11-24T18:45:14.078Z
+updated: 2024-11-26T19:45:55.217Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Assassin’s Creed Odyssey crashing
 
  Here are the solutions to fix Assassin’s Creed Odyssey crashing issue. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 5. **[Verify Integrity of Game Files](https://tools.techidaily.com/drivereasy/download/)**
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Install the latest patch
 
@@ -67,6 +75,10 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -74,16 +86,7 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart your computer to take effect.
@@ -116,10 +119,7 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
@@ -132,38 +132,11 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
-
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Verify Integrity of Game Files
 
@@ -175,16 +148,13 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -221,24 +191,20 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-elevating-your-podcast-remote-recording-done-right-for-2024/"><u>[Updated] Elevating Your Podcast Remote Recording Done Right for 2024</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-beyond-playfulness-a-closer-look-at-snapchats-emojis/"><u>2024 Approved Beyond Playfulness A Closer Look at Snapchat's Emojis</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-sticker-free-showcase-crafting-cleansed-tiktok-videos/"><u>2024 Approved Sticker-Free Showcase Crafting Cleansed TikTok Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-honor-x50-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Honor X50.</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-fixing-crashes-and-hitches-in-your-gta-5-gameplay-experience/"><u>Expert Advice: Fixing Crashes and Hitches in Your GTA 5 Gameplay Experience</u></a></li>
-<li><a href="https://facebook.techidaily.com/greatest-age-appropriate-network-websites/"><u>Greatest Age-Appropriate Network Websites</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/must-haves-best-android-picture-adjusters/"><u>Must-Haves Best Android Picture Adjusters</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-no-ping-detected-issue-in-halo-infinity-a-step-by-step-guide/"><u>Solving the 'No Ping Detected' Issue in Halo Infinity: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-pc-performance-understanding-a-twin-decline-in-frames-per-second-fps/"><u>Solving the Puzzle of PC Performance: Understanding a Twin Decline in Frames Per Second (FPS)</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-filmmakers-guide-to-using-standardized-color-luts-for-2024/"><u>The Filmmaker's Guide to Using Standardized Color Luts for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/transformation-facile-de-videos-mkv-vers-mp4-preservation-exacte-de-la-qualite-et-vitesse-acceleree/"><u>Transformation Facile De Vidéos MKV Vers MP4: Préservation Exacte De La Qualité Et Vitesse Accélérée</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixes-for-common-crashes-in-chivalry-ii/"><u>Troubleshooting and Fixes for Common Crashes in Chivalry II</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-corrupted-disks-on-steam-platform-with-ease/"><u>Troubleshooting and Repairing Corrupted Disks on Steam Platform with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-helldivers-ii-wont-start-on-steam-and-solutions/"><u>Troubleshooting Guide: Why Helldivers II Won't Start on Steam & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-boost-fps-and-overcome-lag-in-resident-evil-village-pc-version/"><u>Ultimate Guide: How to Boost FPS and Overcome Lag in Resident Evil Village (PC Version)</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-alan-wake-2-game-crashes/"><u>Ultimate Troubleshooting Guide to Fixing Alan Wake 2 Game Crashes</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/unveiling-the-secrets-to-proficiently-operating-orca-slicer-tools/"><u>Unveiling the Secrets to Proficiently Operating Orca Slicer Tools</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-fast-lane-to-sharing-playlists-online/"><u>[New] The Fast Lane to Sharing Playlists Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-smart-guide-for-spawning-share-worthy-memes-in-9gag/"><u>[Updated] The Smart Guide for Spawning Share-Worthy Memes in 9GAG</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-instagram-sounds-ownership-policy/"><u>2024 Approved Instagram Sounds Ownership Policy</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341704660-expert-analysis-of-id-cooling-fx360-pro-cpu-cooler-great-performance-at-only-60/"><u>Expert Analysis of ID-Cooling FX360 Pro Cpu Cooler - Great Performance at Only $60</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-madden-nfl-20-pc-game-crashes-a-comprehensive-guide/"><u>Fixing Madden NFL 20 PC Game Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007338922-fixing-pc-issues-stop-red-dead-online-from-crashing/"><u>Fixing PC Issues: Stop Red Dead Online From Crashing!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo X90S? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-realme-narzo-60-pro-5g-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Realme Narzo 60 Pro 5G to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Infinix Hot 30i | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-the-art-top-5-fluid-gaming-journeys-for-2024/"><u>Mastering the Art Top 5 Fluid Gaming Journeys for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-through-cyberspace-to-treasure-island-a-players-guide-to-accumulating-boundless-fortune-in-dragon-realms-on-pc/"><u>Navigate Through Cyberspace to Treasure Island: A Player's Guide to Accumulating Boundless Fortune in Dragon Realms on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-half-life-alyx-performance-no-more-lags-or-stutters-on-your-computer/"><u>Optimizing 'Half-Life: Alyx' Performance: No More Lags or Stutters on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-techniques-for-solving-borderlands-3-initialization-problems-the-ultimate-fixes-list/"><u>Proven Techniques for Solving Borderlands 3 Initialization Problems: The Ultimate Fixes List</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-launch-issues-in-dead-space-remake/"><u>The Ultimate Guide to Resolving Launch Issues in Dead Space Remake</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286955400-dvd/"><u>コピーガードキラーが可能かどうか、詳しく解明！DVDについて学ぶ</u></a></li>
 </ul></div>
 

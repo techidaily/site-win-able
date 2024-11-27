@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Phasmophobia VR Malfunctions
-date: 2024-10-18T20:55:12.240Z
-updated: 2024-10-25T20:39:21.098Z
+date: 2024-11-21T20:38:41.621Z
+updated: 2024-11-26T23:44:17.365Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -41,10 +45,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
@@ -60,13 +61,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Restart the game after the process is complete.
 
@@ -84,26 +78,20 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-19-47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Delete everything except these:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -123,13 +111,6 @@ If the game still crashes, try the next fix below.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -157,6 +138,10 @@ If the crash still occurs, go ahead with the next fix.
 
  If you still experience crashing issues, then the issue is not with your game settings. You can change the settings back and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Launch the game with DirectX 10
 
  Another workaround for some players is manually switching the game to DirectX 10\. Here’s how to do it:
@@ -169,16 +154,13 @@ If the crash still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-22_16-23-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Launch the game to see if your problem has been resolved.
 
 If Phasmophobia crashing issues persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Stop overlocking your GPU/CPU
 
@@ -212,6 +194,10 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
 
 * [game crash](https://tools.techidaily.com/drivereasy/download/)
@@ -231,24 +217,18 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-best-tiktok-video-editing-tips-for-2024/"><u>[New] Best Tiktok Video Editing Tips for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-top-video-watch-counts-youtubes-historical-list/"><u>[New] In 2024, Top Video Watch Counts YouTube's Historical List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos/"><u>[Updated] 2024 Approved Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-non-responsive-hp-displays-successfully/"><u>Expert Tips for Fixing Non-Responsive HP Displays Successfully</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-world-of-smart-televisions-a-comprehensive-guide/"><u>Exploring the World of Smart Televisions: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-mir4-crashes-frequently-issue-on-your-computer/"><u>Fixing the 'MIR4 Crashes Frequently' Issue on Your Computer</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-samsung-galaxy-s23-ultra-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Samsung Galaxy S23 Ultra Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-restore-a-bricked-honor-magic-6-lite-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Honor Magic 6 Lite Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-gameplay-experience-eliminating-lag-and-stutters-in-assassins-creed-valhalla-pc-edition/"><u>Improving Gameplay Experience: Eliminating Lag and Stutters in Assassin’s Creed Valhalla (PC Edition)</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-boost-your-podcast-visibility-with-seo-tactics/"><u>In 2024, Boost Your Podcast Visibility with SEO Tactics</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-tier-80s-visual-tricks-for-elevated-editing/"><u>In 2024, Top-Tier 80S Visual Tricks for Elevated Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/online-gratuite-wav-naar-flac-verconverting-professioneel-en-gemakkelijk-movavi-tool/"><u>Online Gratuite WAV Naar FLAC Verconverting - Professioneel en Gemakkelijk Movavi Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-problems-with-nvidias-geforce-experience-fixed/"><u>Overcoming Common Problems with NVIDIA's GeForce Experience - Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-nba-2k21s-persistent-black-screen-issue/"><u>Resolve NBA 2K21's Persistent Black Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-address-the-graphics-driver-crashed-hurdle-in-valorant-gaming/"><u>Step-by-Step Guide to Address the 'Graphics Driver Crashed' Hurdle in Valorant Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-manor-lords-game-freezes-on-your-computer/"><u>Troubleshooting Tips: Resolving Manor Lords Game Freezes on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-relink-ability-expert-fixes-for-granblue-fantasy-launch-issues/"><u>Unlocking the 'Relink' Ability: Expert Fixes for Granblue Fantasy Launch Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-graphics-bug-solutions-and-tips-for-stop-the-screen-glitch/"><u>Warzone Graphics Bug: Solutions & Tips for Stop the Screen Glitch</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-seamless-hd-viewing-top-10-android-video-apps/"><u>[New] In 2024, Seamless HD Viewing Top 10 Android Video Apps</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/acclaimed-melody-hub-for-android-devices-for-2024/"><u>Acclaimed Melody Hub for Android Devices for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-asus-rog-phone-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Asus ROG Phone 7? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitches-the-ultimate-fix-guide-for-preventing-vrchat-crashes-on-pc/"><u>Beat the Glitches: The Ultimate Fix Guide for Preventing VRChat Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-resolve-the-never-ending-crash-loop/"><u>Call of Duty: Modern Warfare - Resolve the Never-Ending Crash Loop</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-and-fps-in-tainted-grail-conquest-gameplay-guide/"><u>Enhancing Performance & FPS in Tainted Grail: Conquest Gameplay Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-loop-solve-your-anthem-games-unending-load-screens/"><u>Fixing the Endless Loop: Solve Your Anthem Game's Unending Load Screens</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>How to Bypass FRP from Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-se-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone SE? How to Fix it?</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-disconnect-eliminating-diablo-iiis-frequent-freezes-and-closes/"><u>No More Disconnect: Eliminating Diablo III's Frequent Freezes & Closes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-gaming-woes-solving-the-issue-of-battlefront-ii-game-crashes/"><u>PC Gaming Woes: Solving the Issue of Battlefront II Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-succeeded-users-can-now-download-and-enjoy-the-ascent-app/"><u>Troubleshooting Succeeded: Users Can Now Download & Enjoy The Ascent App</u></a></li>
+<li><a href="https://app-tips.techidaily.com/unlocking-the-potential-of-artificial-intelligence-strategies-for-new-entrants-in-todays-markets-zdnet-analysis/"><u>Unlocking the Potential of Artificial Intelligence: Strategies for New Entrants in Today's Markets | ZDNet Analysis</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] | Fortnite Login Failed | Quickly & Easily!"
-date: 2024-08-28T05:31:23.737Z
-updated: 2024-08-29T05:31:23.737Z
+date: 2024-11-21T16:23:30.056Z
+updated: 2024-11-27T00:50:25.904Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 ## [SOLVED] Origin Won't Load | Quickly & Easily
 
 **Origin won’t load?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,29 +43,46 @@ thumbnail: https://thmb.techidaily.com/501cfbb0674181793ce2cd8353fd1c77b58868d2c
 2. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .  
 ![run-dialog %ProgramData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-ProgramData.png)
 3. In the pop-up window, double-click the **Origin**  folder to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ProgramData Origin folder](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder.png)
 4. Delete all the files and folders in this folder **except for the LocalContent folder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
 ![run dialog: %AppData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-AppData.png)
 6. In the pop-up window, delete the **Origin**  folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Roaming-Origin-folder.png)
 7. Click **AppData** in the address bar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Address-Bar.png)
 8. Double-click the **Local**  folder to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-folder.png)
 9. Delete the **Origin**  folder in the **Local** folder.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Double-click the shortcut of Origin on your desktop.
 
 See if Origin will load or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Troubleshoot compatibility
 
  You may run into this issue if Origin is not compatible for your current Windows operating system. If you’re net sure, run **Program Compatibility Troubleshooter** .
@@ -71,18 +92,12 @@ See if Origin will load or not. If not, try the next fix, below.
 1. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 2. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshoot.png)
 3. Select**Try recommended settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter.png)
 4. Click**Test the program…** to see if the new settings fix the problem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 5. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-3.png)
 6. If not, select**No, try again using different settings** . Then follow the on-screen instructions to run Program Compatibility Troubleshooter.
 7. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
@@ -95,19 +110,29 @@ See if Origin will load or not. If not, try the next fix, below.
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshooter-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using 4K monitor, you can try the**Change high DPI settings** option:
 
 1. Click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties.png)
 2. **Check the box** next to**Override high DPI scaling behavior** , and set**Scaling performed by:** **System** . Click**OK** to close the Origin Properties window and save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Origin-Properties-2.png)
+
  If Origin still crashes after you tried this fix, try the next one, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
 
@@ -119,14 +144,8 @@ See if Origin will load or not. If not, try the next fix, below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-1.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-Update-all-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -136,8 +155,9 @@ See if Origin will load or not. If not, try the next fix, below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Try another network / reboot your network
 
  The Origin won’t load issue can also be a network issue. Try another network or reboot your network to see if Origin will load. By rebooting your network, your Internet connection may be back to normal.
@@ -165,9 +185,6 @@ See if Origin will load or not. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Check if this is a server issue
 
  If this is a server issue, there is little we can do to fix this issue. You can go to its official forum or Reddit, or Twitter to check if the Origin server is down.
@@ -185,8 +202,6 @@ See if Origin will load or not. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +209,26 @@ See if Origin will load or not. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-going-from-frame-to-note-on-instagrams-mp3-route/"><u>[New] 2024 Approved Going From Frame-to-Note on Instagram's Mp3 Route</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mixed-reality-blending-physical-and-virtual-worlds-for-2024/"><u>[New] Mixed Reality Blending Physical and Virtual Worlds for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-achieving-harmony-selecting-ideal-aspect-ratios/"><u>2024 Approved Achieving Harmony Selecting Ideal Aspect Ratios</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-game-crash-issues-in-football-manager-2020-expert-tips-and-tricks/"><u>A Comprehensive Guide to Fixing Game Crash Issues in Football Manager 2020: Expert Tips & Tricks</u></a></li>
+<li><a href="https://network-issues.techidaily.com/1719974735927-accelerate-gaming-with-an-updated-intel-graphics-3000-driver-on-w10-platform/"><u>Accelerate Gaming with an Updated Intel Graphics 3000 Driver on W10 Platform.</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-infinix-note-30-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-troubleshooting-guide-eliminating-game-crashes-and-ensuring-smooth-running/"><u>ARMA 3 Troubleshooting Guide: Eliminating Game Crashes and Ensuring Smooth Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-undead-and-technical-difficulties-in-zombie-army-4-dead-war/"><u>Beat the Undead & Technical Difficulties in Zombie Army 4: Dead War</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elevating-your-audio-craftsminas-with-magix-kompakt-vst/"><u>Elevating Your Audio Craftsminas with Magix Kompakt VST</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fix-and-master-avatar-frontiers-of-pandora-pc-gaming-stability-issues/"><u>Guide to Fix and Master 'Avatar: Frontiers of Pandora' PC Gaming Stability Issues</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-itel-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Itel Face Lock?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-the-shift-turning-srt-into-subc/"><u>In 2024, Navigating the Shift Turning SRT Into SUBC</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-battlefield-ebootstraps-launch-issue-guide/"><u>Mastering the Fix: Battlefield Ebootstraps Launch Issue Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-glitches-optimizing-your-persona-4-golden-experience/"><u>Resolving Frequent Glitches: Optimizing Your Persona 4 Golden Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-grounded-game-crashes-effective-tips-and-tricks/"><u>Solve the 'Grounded' Game Crashes : Effective Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-browser-troubles-how-to-unfreeze-chrome-in-windows-10-instantly/"><u>Stop Browser Troubles: How to Unfreeze Chrome in Windows 10 Instantly</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nokia-g310-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nokia G310.</u></a></li>
+<li><a href="https://win-able.techidaily.com/vrchat-problems-solutions-for-when-loading-fails-completely/"><u>VRChat Problems: Solutions for When Loading Fails Completely</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/winx-dvd-ripper-mac-edition-effizientes-dvd-konvertieren-fur-apple-gerate/"><u>WinX DVD Ripper Mac Edition - Effizientes DVD-Konvertieren Für Apple Geräte</u></a></li>
+</ul></div>
 

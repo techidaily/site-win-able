@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for Persistent Gameplay Interruptions on the PC Metro Exodus Ultimate DX12 Edition
-date: 2024-10-19T10:59:38.906Z
-updated: 2024-10-26T14:32:45.259Z
+date: 2024-11-20T22:36:24.104Z
+updated: 2024-11-27T01:04:59.029Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -62,21 +66,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Reboot your computer can check whether the crash will appear or not.
 
@@ -92,24 +97,18 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Reboot your computer and check the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -138,13 +137,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -166,16 +158,14 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://printer-issues.techidaily.com/network-guide-reconnect-missing-print-devices-windows-xp-7-10/"><u>[Network Guide] Reconnect Missing Print Devices Windows-XP-7-10</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-discreetly-watch-instas-hidden-gems-here/"><u>[New] 2024 Approved Discreetly Watch Insta's Hidden Gems, Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-unending-initialization-error-on-anthem-interface/"><u>Addressing Unending Initialization Error on Anthem Interface</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-smooth-minecraft-gaming-on-your-computer/"><u>Comprehensive Fixes for Smooth Minecraft Gaming on Your Computer</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/connecting-multiple-screens-a-step-by-step-tutorial-on-setting-up-3-monitors/"><u>Connecting Multiple Screens: A Step-by-Step Tutorial on Setting Up 3 Monitors</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-adobe-failed-to-launch-properly-error-code-0xc0000022/"><u>Fixing the 'Adobe Failed to Launch Properly' Error Code 0xC0000022</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-hunger-malfunctions-and-improve-performance-in-dread-game-for-windows-users/"><u>How to Resolve Hunger Malfunctions and Improve Performance in Dread Game for Windows Users</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-obs-configurations-on-frugal-devices/"><u>In 2024, Top OBS Configurations on Frugal Devices</u></a></li>
-<li><a href="https://os-tips.techidaily.com/step-by-step-guide-syncing-and-editing-iphone-contacts-via-windows-pc-using-dearmob/"><u>Step-by-Step Guide: Syncing and Editing iPhone Contacts via Windows PC Using DearMob</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-hasnt-elden-ring-hit-the-market-exploring-the-reasons-behind-its-hold-up/"><u>Why Hasn't Elden Ring Hit the Market? Exploring the Reasons Behind Its Hold-Up</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-apex-of-hd-technology-leading-recorder-brands-decoded/"><u>[Updated] In 2024, Apex of HD Technology Leading Recorder Brands Decoded</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-gaming-interruptions-easily-resolve-steam-disk-errors/"><u>Avoid Gaming Interruptions: Easily Resolve Steam Disk Errors</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/come-eseguire-il-backup-dei-tuoi-file-con-wbadmin-nel-prompt-dei-comandi-di-windows/"><u>Come Eseguire Il Backup Dei Tuoi File Con Wbadmin Nel Prompt Dei Comandi Di Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-fix-no-more-vehicle-collisions/"><u>Forza Horizon 4 PC Fix - No More Vehicle Collisions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/genshin-impact-pc-version-troubleshooting-and-fixing-crashes-successfully/"><u>Genshin Impact PC Version: Troubleshooting & Fixing Crashes Successfully!</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-apple-iphone-13-pro-max-by-name-drfone-by-drfone-virtual-ios/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Apple iPhone 13 Pro Max by Name | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-twitch-stream-buffering-seven-tactics-for-a-smooth-viewing-experience/"><u>Overcome Twitch Stream Buffering: Seven Tactics for a Smooth Viewing Experience</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/tackle-and-triumph-over-the-samsung-blu-ray-player-not-working-dilemma-with-these-tips/"><u>Tackle and Triumph Over the 'Samsung Blu Ray Player Not Working' Dilemma with These Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/virtual-venue-verdict-navigating-between-obs-and-twitch-streaming/"><u>Virtual Venue Verdict Navigating Between OBS & Twitch Streaming</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile"
-date: 2024-11-01T01:07:04.208Z
-updated: 2024-11-07T04:03:21.647Z
+date: 2024-11-25T23:20:59.789Z
+updated: 2024-11-26T20:48:47.916Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,6 +50,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
 If you still have the issue, you can try the next fix.
@@ -66,22 +74,12 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
@@ -122,6 +120,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -137,6 +139,10 @@ OR
  Your FIFA 19 should be working properly again now. If not, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 Force Vertical Sync and Triple Buffering on
 
@@ -158,13 +164,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -174,13 +173,6 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -192,21 +184,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
@@ -264,6 +251,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
@@ -276,27 +267,17 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
@@ -321,13 +302,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  2) Select**Windows Powershell(Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
@@ -366,22 +340,22 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-channel-identity-reimagined-best-name-generators-listed/"><u>[New] 2024 Approved Channel Identity Reimagined Best Name Generators Listed</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-legally-convert-youtube-videos-to-mp4-format/"><u>[New] 2024 Approved How to Legally Convert YouTube Videos to MP4 Format</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-dive-into-aurora-hdr-a-new-era-for-viewers-for-2024/"><u>[Updated] Dive Into Aurora HDR A New Era for Viewers for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-redefine-video-downloading-pick-from-these-top-ranked-free-and-on-demand-apps-for-youtube-shorts/"><u>2024 Approved Redefine Video Downloading Pick From These Top-Ranked, Free & On-Demand Apps for YouTube Shorts</u></a></li>
-<li><a href="https://win-able.techidaily.com/city-building-simulator-troubleshooting-stop-your-game-from-crashing-now/"><u>City Building Simulator Troubleshooting: Stop Your Game From Crashing Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-games-launcher-trouble-heres-your-solution-for-the-persistent-black-screen-error/"><u>Epic Games Launcher Trouble? Here's Your Solution for the Persistent Black Screen Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-your-call-of-duty-warzone-black-screen-problem-with-these-latest-tips/"><u>Fixing Your Call of Duty: Warzone Black Screen Problem with These Latest Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Xiaomi Redmi 13C 5G? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-vivo-y55s-5g-2023-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Vivo Y55s 5G (2023) to Gmail | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/madden-21-update-eliminates-common-pc-gaming-stops-and-drops/"><u>Madden 21 Update Eliminates Common PC Gaming Stops and Drops</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubleshooting-fixing-the-tower-of-fantasy-game-crashes/"><u>PC Troubleshooting: Fixing the 'Tower of Fantasy' Game Crashes</u></a></li>
-<li><a href="https://some-skills.techidaily.com/perfect-your-podcast-sound-editing-techniques-in-garageband-for-2024/"><u>Perfect Your Podcast Sound Editing Techniques in GarageBand for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-battlefield-2042s-frame-rate-problems-and-stuttering-for-pc-users/"><u>Resolved: How to Fix Battlefield 2042'S Frame Rate Problems & Stuttering for PC Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-your-gaming-experience-solutions-for-rockstar-games-launcher-malfunction-2024-edition/"><u>Reviving Your Gaming Experience: Solutions for Rockstar Games Launcher Malfunction - 2024 Edition</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-non-functional-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Functional Windows 11 Taskbar Problems</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1723808266868-vmware-enhanced-keyboard-driver-what-is-it-and-how-to-install-it/"><u>VMware Enhanced Keyboard Driver – What Is It and How to Install It</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-the-soundtrack-strategy-addmpy-in-videos-on-fb/"><u>[New] 2024 Approved The Soundtrack Strategy Addmpy in Videos on FB</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ssential-insights-for-integrating-hashtags-into-game-focused-yt-content/"><u>[New] Essential Insights for Integrating Hashtags Into Game-Focused YT Content</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-windows-10s-premier-choice-of-video-grabber-software/"><u>[New] In 2024, Windows 10'S Premier Choice of Video Grabber Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-adobe-the-application-was-unable-to-start-correctly-0xc0000022/"><u>[Solved] Adobe: The Application Was Unable to Start Correctly (0Xc0000022)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-blur-it-out-free-iphones-tips-for-crisp-image-edits/"><u>[Updated] Blur It Out Free iPhones Tips for Crisp Image Edits</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-how-to-access-hidden-social-media-recommendations/"><u>[Updated] How to Access Hidden Social Media Recommendations</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-lightrooms-top-grading-tools-a-curated-list-of-best-rated-luts/"><u>[Updated] Lightroom's Top Grading Tools – A Curated List of Best-Rated LUTs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-art-of-selecting-the-ideal-livestream-service-for-2024/"><u>[Updated] The Art of Selecting the Ideal Livestream Service for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/display-setup-not-appearing-in-windows-11/"><u>Display Setup Not Appearing in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-borderlands-amoknot-loading-top-strategies-inside/"><u>Fix Your Borderlands amoKnot Loading: Top Strategies Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-counter-strike-2-crashing-issues-on-pc-in-2nd-four/"><u>Fixes and Solutions for Counter-Strike 2 Crashing Issues on PC in 2nD Four</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-achieve-smooth-gaming-in-battlefield-v-a-guide-to-resolving-lag-problems/"><u>How to Achieve Smooth Gaming in Battlefield V: A Guide to Resolving Lag Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-not-responding-in-rust-code-expert-tips/"><u>Overcome 'Not Responding' In Rust Code – Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/reborn-globe-still-stops-short-no-more-freezing-issues/"><u>Reborn Globe Still Stops Short, No More Freezing Issues!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-unavailable-gpeditmsc-on-windows-home-systems/"><u>Resolved: Unavailable gpedit.msc on Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-updates-get-the-2024-version-of-rainbow-six-siege-free-edition/"><u>Unveiling Updates: Get the 2024 Version of Rainbow Six Siege Free Edition</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-rcs-technology-and-how-will-it-transform-your-texting-experience/"><u>What Is RCS Technology and How Will It Transform Your Texting Experience?</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fixes for Metro Exodus Crashes on Personal Computers: A Step-by-Step Guide"
-date: 2024-11-12T04:54:20.196Z
-updated: 2024-11-17T03:35:18.763Z
+date: 2024-11-20T20:56:47.771Z
+updated: 2024-11-26T19:19:07.604Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  A successful overclock is expected to bring better gaming performance, but when it’s unstable, the programs on your computer may be freezing and crashing. So if you keep running into Everspace 2 crashing, you should just**turn off overclocking utilities like MSI Afterburner** and**set the clock speed back to the default** . If this trick doesn’t help, move on to more fixes below.
@@ -46,16 +50,17 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Right-click Everspace 2 from the game list and click**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
@@ -65,27 +70,7 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -113,28 +98,8 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -151,10 +116,18 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -180,18 +153,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/updated-the-ultimate-exploration-of-discord-stickers/"><u>[Updated] The Ultimate Exploration of Discord Stickers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-ios-leading-psp-emulators-five-star-selections/"><u>2024 Approved IOS Leading PSP Emulators Five Star Selections</u></a></li>
-<li><a href="https://article-tips.techidaily.com/elite-lineup-of-vr-bicycle-experiences-for-2024/"><u>Elite Lineup of VR Bicycle Experiences for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/here-are-10-best-webm-to-mp4-converters-on-the-market-that-you-can-use-to-convert-video-from-webm-to-mp4-format/"><u>Here Are 10 Best WebM to MP4 Converters on the Market that You Can Use to Convert Video From WebM to MP4 Format</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus 11R | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-honor-100-pro-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Honor 100 Pro Phone FRP Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005128410-is-the-long-awaited-pc-version-of-la-noire-finally-out-find-out-here/"><u>Is the Long-Awaited PC Version of L.A. Noire Finally Out? Find Out Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/kill-the-glitches-expert-advice-for-a-steady-run-of-halo-infinite-on-windows-machines/"><u>Kill the Glitches: Expert Advice for a Steady Run of Halo Infinite on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-hurdles-getting-counter-strike-global-offensive-up-and-running/"><u>Overcoming Common Hurdles: Getting Counter Strike Global Offensive Up and Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-unstable-performance-fixing-the-persistent-problem-of-pacific-drive-failures/"><u>Solutions for Unstable Performance: Fixing the Persistent Problem of Pacific Drive Failures</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Honor Magic 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frostpunk-crashes-proven-methods-and-tips-for-stability/"><u>Troubleshooting Frostpunk Crashes: Proven Methods and Tips for Stability</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-gaming-glitches-stop-crashes-now/"><u>Troubleshooting PC Gaming Glitches - Stop Crashes Now!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-guffaw-gazette-twitters-funniest-threads/"><u>[Updated] In 2024, Guffaw Gazette Twitter's Funniest Threads</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-effective-ways-to-resolve-state-of-decay-cuartos-stability-issues/"><u>Beat the Glitch: Effective Ways to Resolve State of Decay Cuarto's Stability Issues</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-motorola-edge-40-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Motorola Edge 40 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-oppo-reno-10-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Oppo Reno 10 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/optimizing-your-android-experience-with-effective-recordings/"><u>Optimizing Your Android Experience with Effective Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-pathfinder-wrath-of-the-righteous-continuously-fails-on-launch/"><u>Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch</u></a></li>
+<li><a href="https://techtrends.techidaily.com/secure-your-apple-watch-series-10-today-from-just-99-by-preordering-on-bestbuy-exclusive-guide-zdnet/"><u>Secure Your Apple Watch Series 10 Today From Just $99 by Preordering on BestBuy - Exclusive Guide | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connection-problems-and-lags-in-the-latest-version-of-new-world/"><u>Solving Connection Problems & Lags in the Latest Version of 'New World'</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-get-your-broken-paradox-launcher-back-in-action/"><u>Step-by-Step Guide to Get Your Broken Paradox Launcher Back in Action</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/the-digital-craftsmanship-diary-by-toms-tech-workshop/"><u>The Digital Craftsmanship Diary by Tom's Tech Workshop</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlock-the-best-12-spots-for-streaming-films-without-payment-or-plugins/"><u>Unlock the Best 12 Spots for Streaming Films Without Payment or Plugins</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-tutorial-removing-a-pin-from-windows-10-login-screen/"><u>Unlocking Tutorial: Removing a PIN From Windows 10 Login Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/valorant-pc-performance-issue-fixing-the-games-input-lag/"><u>Valorant PC Performance Issue: Fixing the Game's Input Lag</u></a></li>
 </ul></div>
 

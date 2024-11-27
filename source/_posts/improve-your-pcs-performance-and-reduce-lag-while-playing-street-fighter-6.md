@@ -1,7 +1,7 @@
 ---
 title: Improve Your PC's Performance and Reduce Lag While Playing Street Fighter 6
-date: 2024-11-15T04:48:35.800Z
-updated: 2024-11-16T20:27:45.224Z
+date: 2024-11-22T19:57:50.057Z
+updated: 2024-11-26T18:19:35.732Z
 tags:
   - win11
   - win10
@@ -68,16 +68,7 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
@@ -91,18 +82,19 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
@@ -120,13 +112,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
@@ -134,10 +119,7 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 If it’s still not working, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -148,15 +130,13 @@ If it’s still not working, try the next fix.
 1. Open New World. On the top right corner, click the **gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
- In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
+ In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 
 3. Play New World to check.
 
@@ -176,10 +156,7 @@ If it’s still not working, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -190,10 +167,7 @@ If it’s still not working, try the next fix.
  Once you’ve finished the process, restart your PC and check if New World freezing again.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
@@ -221,14 +195,24 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-low-cost-hardware-obs-optimization-tips/"><u>[Updated] 2024 Approved Low-Cost Hardware OBS Optimization Tips</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-expert-techniques-for-saving-vimeo-videos-as-high-quality-mp4s/"><u>[Updated] In 2024, Expert Techniques for Saving Vimeo Videos as High-Quality MP4s</u></a></li>
-<li><a href="https://some-tips.techidaily.com/2024-approved-unlock-the-secrets-to-creating-instagram-hits-with-engaging-unboxing-videos/"><u>2024 Approved Unlock the Secrets to Creating Instagram Hits with Engaging Unboxing Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-stutter-ultimate-tips-for-smooth-gameplay-in-call-of-duty-vanguard-without-costs/"><u>Fixing Stutter: Ultimate Tips for Smooth Gameplay in Call of Duty: Vanguard Without Costs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/hands-on-with-the-new-klipsch-flexus-200-soundbar/"><u>Hands On With the New Klipsch Flexus 200 Soundbar</u></a></li>
-<li><a href="https://win-able.techidaily.com/login-limbo-no-more-the-unavailable-online-login-glitch-corrected/"><u>Login Limbo No More: The 'Unavailable Online Login' Glitch Corrected</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/social-media-synergy-merging-instagram-and-facebook-feeds/"><u>Social Media Synergy Merging Instagram & Facebook Feeds</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013523793-step-by-step-stabilize-your-dota-2-gaming-experience-by-stopping-crashes/"><u>Step-by-Step: Stabilize Your Dota 2 Gaming Experience by Stopping Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-technical-problems-encountered-by-users-during-software-installation-processes-updates-or-feature-usage-using-your-expertise-in-navigating-thro621/"><u>Troubleshoot Technical Problems Encountered by Users During Software Installation Processes, Updates, or Feature Usage, Using Your Expertise in Navigating Through Complex Systems with Ease.</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flip-the-script-unique-approaches-to-retracing-yt-content/"><u>[New] 2024 Approved Flip the Script Unique Approaches to Retracing YT Content</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-accessing-global-events-facebook-live-on-roku-devices/"><u>[New] Accessing Global Events Facebook Live on Roku Devices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/avigating-copyright-concerns-in-screencasting-youtube-videos-for-2024/"><u>[New] Navigating Copyright Concerns in Screencasting YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/erfect-your-asmr-recordings-with-these-mic-choices-for-2024/"><u>[New] Perfect Your ASMR Recordings with These Mic Choices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-achieving-convenient-multi-screen-browsing-with-chrome-pip/"><u>[Updated] Achieving Convenient Multi-Screen Browsing With Chrome PIP</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-the-filmmakers-handbook-for-professional-gopro-videographers/"><u>[Updated] The Filmmaker's Handbook for Professional Gopro Videographers</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-phantom-pitches-is-this-magical-talker-an-illusion-or-reality-explore-more-options/"><u>2024 Approved Phantom Pitches Is This Magical Talker an Illusion or Reality? Explore More Options</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-efficiency-in-excel-tasks-by-applying-stylish-templates/"><u>Boost Efficiency in Excel Tasks by Applying Stylish Templates</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-utorrent-speed-proven-tips-for-faster-downloads/"><u>Boosting uTorrent Speed: Proven Tips for Faster Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tips-to-overcome-the-persona-eblack-screen-hurdle/"><u>Comprehensive Tips to Overcome the Persona Eblack Screen Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/detailed-instructions-to-correct-the-tfl-a02-end-of-year-failure/"><u>Detailed Instructions to Correct the TFL A02 End-of-Year Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-opening-issues-with-your-nvidia-display-tool/"><u>Expert Tips to Fix Opening Issues with Your NVIDIA Display Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-pc-lag-problems-in-resident-evil-village-step-by-step-solutions/"><u>Fixing PC Lag Problems in Resident Evil Village: Step-by-Step Solutions</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/how-to-add-emojis-to-discord-on-desktop-computer-and-mobile/"><u>How to Add Emojis To Discord on Desktop Computer and Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-assassins-creed-mirage-crashing-2024-tips/"><u>How to Fix Assassin’s Creed Mirage Crashing – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-obstacles-in-gtfo-solutions-to-dropouts-and-glitches/"><u>Overcoming Performance Obstacles in GTFO – Solutions to Dropouts and Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/start-with-light-colors-and-gradually-build-up-to-darker-shades-as-needed/"><u>Start with Light Colors and Gradually Build up to Darker Shades as Needed</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-ultimate-guide-to-unlocking-apple-watch-or-iphone-11-pro-from-icloud-by-drfone-ios/"><u>The Ultimate Guide to Unlocking Apple Watch Or iPhone 11 Pro from iCloud</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tier-combat-gear-unveiled-in-call-of-duty-modern-warfare-update/"><u>Top Tier Combat Gear Unveiled in Call of Duty: Modern Warfare Update</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2024-11-14T00:54:33.318Z
-updated: 2024-11-17T05:23:47.503Z
+date: 2024-11-24T00:08:35.656Z
+updated: 2024-11-26T17:57:26.242Z
 tags:
   - win11
   - win10
@@ -36,13 +36,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 
  After confirming your PC is good enough for Minecraft, then go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -73,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 5. In the pop-up window, select**High performance** and click**Save** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
@@ -88,6 +78,10 @@ If this solution doesn’t help, continue with the next fix below.
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -114,6 +108,10 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -123,24 +121,14 @@ If the stuttering issue persists, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/options.jpg)
 3. Click**Video Settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
 This should give you a better game experience.
 
@@ -156,13 +144,14 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, select**Manage 3D Settings** , then click the dropdown menu next to**Vertical sync** and select**On** . Click**Apply** to save changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Via AMD Radeon Settings
@@ -176,7 +165,16 @@ But if it doesn’t, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
@@ -189,13 +187,6 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
@@ -215,10 +206,7 @@ If the stuttering issue remains, try the next fix.
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
@@ -233,18 +221,15 @@ Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Uninstall OptiFine
 
  OptiFine is a Minecraft optimization mod, which allows the game to run faster and look better. However, it consumes some resources and may cause the stuttering issue. To see if that’s the case for you, you can try uninstalling OptiFine.
 
  If the stuttering issue remains after uninstalling OptiFine, check out the last fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Minecraft
 
@@ -271,18 +256,16 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-can-i-stream-in-hd-1080p-on-facebook-for-2024/"><u>[New] How Can I Stream in HD 1080P on Facebook for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-discovering-the-best-soil-sprouts-of-valheim/"><u>[Updated] Discovering the Best Soil Sprouts of Valheim</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>[Updated] Latest Overhaul Sony's S6500 HD & BD Player Review</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-picsweets-where-free-tiktok-bgs-and-beauty-meet/"><u>[Updated] PicSweets Where Free TikTok BGs and Beauty Meet</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/amazon-fire-tv-cube-analysis-unveiling-the-ultimate-speedy-media-streamer/"><u>Amazon Fire TV Cube Analysis: Unveiling the Ultimate Speedy Media Streamer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/fixing-the-critical-error-message-when-logging-into-windows-user-profile-service/"><u>Fixing the Critical Error Message When Logging Into Windows User Profile Service</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-century-age-of-ashes-from-continuously-crashing-on-your-pc-solutions-and-fixes/"><u>How to Stop 'Century: Age of Ashes' From Continuously Crashing on Your PC - Solutions and Fixes</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-infinix-gt-10-pro-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Infinix GT 10 Pro Like A Pro 5 Easy Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-fortnite-lag-and-glitches-on-your-computer-latest-fixes-of-202email-protected/"><u>Overcoming Fortnite Lag and Glitches on Your Computer - Latest Fixes of 202([Email Protected])</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722999499354-quick-fixes-for-apex-legends-launch-problems-troubleshoot-now/"><u>Quick Fixes for Apex Legends Launch Problems - Troubleshoot Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008401007-quick-fixes-for-when-qbittorrent-isnt-working-get-back-on-track-now/"><u>Quick Fixes for When qBittorrent Isn't Working – Get Back on Track Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-to-eliminate-stuttering-glitches-in-ac-valhalla-on-personal-computers/"><u>Troubleshooting Techniques to Eliminate Stuttering Glitches in AC Valhalla on Personal Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/what-makes-gpt-enterprises-stand-out/"><u>What Makes GPT Enterprises Stand Out?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chortle-chamber-ideas-for-7-amusing-online-sessions/"><u>[New] 2024 Approved Chortle Chamber Ideas for 7 Amusing Online Sessions</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-emancipate-your-engagement-facebook-restored/"><u>[New] 2024 Approved Emancipate Your Engagement Facebook Restored</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-essential-8-mirrorless-cams-for-professional-videographers/"><u>[Updated] Essential 8 Mirrorless Cams for Professional Videographers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-leverage-loops-for-stirring-instagram-engagement-and-likes/"><u>[Updated] Leverage Loops for Stirring Instagram Engagement & Likes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-days-gone-freezing-problems-in-your-2024-gameplay/"><u>Expert Tips to Overcome 'Days Gone' Freezing Problems in Your 2024 Gameplay</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/metodos-seguros-para-recuperar-el-funcionamiento-de-tu-iphone-y-conservar-tus-datos-importantes/"><u>Métodos Seguros Para Recuperar El Funcionamiento De Tu iPhone Y Conservar Tus Datos Importantes</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-the-frequent-freezes-of-call-of-duty-modern-warfare-3/"><u>No More Frustration: Fixing the Frequent Freezes of Call of Duty Modern Warfare 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-keeping-pc-fall-guys-running-smoothly/"><u>Resolving Performance Hiccups: Keeping [PC] Fall Guys Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-solutions-how-to-fix-forza-horizon-4-not-starting/"><u>Top Solutions: How To Fix Forza Horizon 4 Not Starting</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-preventing-ready-or-not-from-crashing-windows/"><u>Troubleshooting Tips for Preventing 'Ready or Not' From Crashing Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/uncover-and-resolve-hidden-5ghz-network-on-windows-11-here/"><u>Uncover and Resolve Hidden 5GHz Network on Windows 11 Here</u></a></li>
 </ul></div>
 

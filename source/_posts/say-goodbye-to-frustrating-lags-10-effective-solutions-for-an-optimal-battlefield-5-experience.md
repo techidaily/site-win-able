@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2024-11-14T20:18:51.014Z
-updated: 2024-11-17T09:44:02.465Z
+date: 2024-11-19T22:07:17.286Z
+updated: 2024-11-26T19:13:20.529Z
 tags:
   - win11
   - win10
@@ -30,18 +30,15 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -58,13 +55,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -86,6 +76,10 @@ Restart your computer for the changes to take effect.
 
 7. Check the issue is persist or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -97,34 +91,25 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Restart your computer and check to see if the problem resolves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -156,24 +141,16 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-calculating-expenses-in-your-yt-marketing-strategy/"><u>[Updated] 2024 Approved Calculating Expenses in Your YT Marketing Strategy</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-avoid-stress-with-these-easy-to-follow-ipad-screen-saving-methods/"><u>[Updated] Avoid Stress with These Easy-to-Follow iPad Screen Saving Methods</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a1x-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A1x 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-freezing-problems-discover-5-key-solutions-to-keep-your-game-running-smoothly/"><u>Arma 3 Freezing Problems? Discover 5 Key Solutions to Keep Your Game Running Smoothly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722891979851-best-free-internet-faxing-applications-find-the-top-picks/"><u>Best Free Internet Faxing Applications - Find the Top Picks!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-rectifying-helldiver-iis-boot-sequence-and-eliminating-black-screens/"><u>Effective Techniques for Rectifying Helldiver II's Boot Sequence and Eliminating Black Screens</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-starcraft-ii-game-freezing-issues-on-windows/"><u>Fixes for Starcraft II Game Freezing Issues on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-gpu-non-engagement-problems-with-call-of-duty-warzone-on-new-windows-11-devices/"><u>Fixing GPU Non-Engagement Problems with Call of Duty: Warzone on New Windows 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-repair-a-malfunctioning-content-warning-feature-in-your-voice-chat/"><u>How to Repair a Malfunctioning Content Warning Feature in Your Voice Chat</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Nokia C12 Plus? | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/in-2024-image-jokes-how-to-create-memetic-gold/"><u>In 2024, Image Jokes How to Create Memetic Gold</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/leading-edge-network-raise-and-cabinets-a-buyers-handbook/"><u>Leading Edge Network Raise & Cabinets : A Buyer's Handbook</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-proven-techniques-to-eliminate-stuttering-in-minecraft-on-pc/"><u>Mastering Smooth Gameplay: Proven Techniques to Eliminate Stuttering in Minecraft on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-solution-to-directgraphics-mishaps-in-windows-systems/"><u>Mastering the Solution to DirectGraphics Mishaps in Windows Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-the-ultimate-free-dailymotion-converter-tool/"><u>New In 2024, The Ultimate Free Dailymotion Converter Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-for-dev-error-code-6164-disrupting-your-shooter-gameplay-experience/"><u>Ultimate Fix Guide for Dev Error Code 6164 Disrupting Your Shooter Gameplay Experience</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-tecno-pova-6-pro-5g-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Tecno Pova 6 Pro 5G FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/watch-dogs-legion-pc-issues-resolved-say-goodbye-to-frustrating-game-crashes/"><u>Watch Dogs Legion PC Issues Resolved? Say Goodbye to Frustrating Game Crashes!</u></a></li>
-<li><a href="https://games-able.techidaily.com/winning-strategies-for-pokemon-games-on-iphoneipad-gaming/"><u>Winning Strategies for Pokémon Games on iPhone/iPad Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-premier-tools-to-record-your-pc-screenshots/"><u>[New] Premier Tools to Record Your PC Screenshots</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-mastery-of-photo-date-annotation-methods/"><u>[Updated] In 2024, Mastery of Photo Date Annotation Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-real-time-capture-from-obs-to-instagram/"><u>[Updated] In 2024, Real-Time Capture From OBS to Instagram</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-standout-moments-of-snowspeedcross-22-for-2024/"><u>[Updated] Standout Moments of Snowspeedcross '22 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715759909544-2024-approved-how-to-record-audio-with-audacity-on-mac/"><u>2024 Approved How to Record Audio with Audacity on Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-controller-connection-problems-in-steam-on-windows-pcs/"><u>Expert Tips to Resolve Controller Connection Problems in Steam on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/farming-simulator-22-now-running-smoothly-on-pc-fps-drops-solved/"><u>Farming Simulator 22 Now Running Smoothly on PC - FPS Drops Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-memory-glitch-in-call-of-duty-modern-warfare-3-error-12707-explained/"><u>How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-video-conversion-in-vlc-from-mp4-onward/"><u>Navigating Video Conversion in VLC From MP4 Onward</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210210661-9781722526078-romancing-the-soul/"><u>Romancing the Soul | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-troubleshooting-assassins-creed-unity-game-crashes/"><u>Top Strategies for Troubleshooting Assassin's Creed Unity Game Crashes</u></a></li>
 </ul></div>
 

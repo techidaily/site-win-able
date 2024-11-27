@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide: Eradicating the Opaque Black Surface Glitch During Fortnite Gameplay on Windows"
-date: 2024-10-19T07:01:18.218Z
-updated: 2024-10-26T13:59:20.838Z
+date: 2024-11-19T17:50:28.488Z
+updated: 2024-11-26T16:07:20.919Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not try them all. Just work your way down the list until you find the one that solves your problem.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 4. [**Temporarily disable third-party software**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlay](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Run Deathloop as an administrator
 
@@ -49,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 
  Restart the game to test. If the crashes reoccur, continue to the second fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Use the dedicated GPU
 
  An integrated GPU may find it hard to support graphics-intensive games. If Deathloop crashes with an_Intel GPU not supported error_ , it means you need to use a stronger GPU. If you have two GPU installed on the computer, follow the steps to choose the dedicated GPU to run the game.
@@ -60,17 +72,14 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-2.jpg)
 3. Navigate to the game’s installation folder and add the Deathloop.exe file.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card.jpg)
 4. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-3.jpg)
 5. Select**High performance** and click**Save** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/use-dedicated-card-4.jpg)
 
@@ -87,24 +96,10 @@ thumbnail: https://thmb.techidaily.com/8c5008233da724661a30d3225b0be351e1d277e0e
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
  Reboot your computer after the driver update completes, and check if Deathloop still crashes. If so, try the next solution.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4 – Temporarily disable third-party software
 
@@ -116,25 +111,19 @@ You can also close all unnecessary apps in the background. Here is how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/right-click-task-bar-task-manager.jpg)
 2. Under the Process tab, right-click a program you’d like to close and click **End task** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-unnecessary-programs-running-in-the-background.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Now that you should only leave Deathloop and your game launcher running. Test if you’re able to play the game as expected. If not, check out two more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -143,31 +132,24 @@ You can also close all unnecessary apps in the background. Here is how:
 1. Launch Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Deathloop and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-3.jpg)
 3. Click**Local Files** on the left and click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It will take several minutes for the detecting and repairing to complete. Once done, relaunch Deathloop to check whether the issue gets fixed. If not, move on to the last solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Turn off overlay
@@ -189,13 +171,6 @@ You can also close all unnecessary apps in the background. Here is how:
 2. Click the **cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
@@ -220,17 +195,24 @@ You can also close all unnecessary apps in the background. Here is how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-achieve-peak-performance-with-these-8-scheduler-apps/"><u>[Updated] 2024 Approved Achieve Peak Performance with These 8 Scheduler Apps</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-ppro-full-screen-showcase-made-simple/"><u>[Updated] In 2024, PPro Full-Screen Showcase Made Simple</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-samsung-galaxy-a23-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Samsung Galaxy A23 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-guide-to-installing-newest-logitech-g403-mouse-drivers-on-pc/"><u>Easy Guide to Installing Newest Logitech G403 Mouse Drivers on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-6-troubleshooting-fixes-for-pc-game-crashes/"><u>Far Cry 6 Troubleshooting: Fixes for PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010093108-kodi-not-connected-solve-the-problem-of-missing-directory-information-now/"><u>Kodi Not Connected? Solve the Problem of Missing Directory Information Now</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-vivo-v30-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Vivo V30 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://win-webmaster.techidaily.com/online-gratuite-wmv-afbeelding-omzetten-naar-ogg-met-movavi-geavanceerd-codec-converter/"><u>Online Gratuite WMV-Afbeelding Omzetten Naar Ogg Met Movavi - Geavanceerd Codec-Converter</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-out-of-video-memory-error-in-fortnite-tips-and-solutions/"><u>Overcoming the Out-of-Video-Memory Error in Fortnite: Tips & Solutions</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tired-of-waiting-for-late-texts-on-ios-devices-heres-how-to-fix-it/"><u>Tired of Waiting for Late Texts on iOS Devices? Here's How to Fix It</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-library-in-kodi-fixes-for-directory-information-recovery-issues/"><u>Unlocking the Library in Kodi: Fixes for Directory Information Recovery Issues</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-discover-the-easiest-ways-to-remove-tiktok-watermarks-online-for-2024/"><u>Updated Discover the Easiest Ways to Remove TikTok Watermarks Online for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-gopro-hero5-black-vs-yi-4k-action-camera-which-is-better-in-2024/"><u>[New] GoPro Hero5 Black Vs. Yi 4K Action Camera Which Is Better, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-world-of-warcraft-wont-launch-on-pc/"><u>[SOLVED] World of Warcraft Won't Launch on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-from-novice-to-pro-creating-snapchat-boomers/"><u>[Updated] 2024 Approved From Novice to Pro Creating Snapchat Boomers</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/add-more-space-to-your-xbox-one-game-library-using-external-hdds/"><u>Add More Space to Your Xbox One Game Library Using External HDDs</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-steam-glitches-how-to-stabilize-the-total-collapse-of-horizon-forbidden-west-on-your-pc/"><u>Beat Steam Glitches: How to Stabilize the Total Collapse of Horizon Forbidden West on Your PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/capture-and-captivate-creating-incredible-slow-motion-video-masterpieces-on-instagram/"><u>Capture and Captivate Creating Incredible Slow-Motion Video Masterpieces on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-pc-wasteland-ultimate-guide-to-solving-scavengers-game/"><u>Conquer the PC Wasteland: Ultimate Guide to Solving Scavengers Game</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-6-plus-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 6 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-steam-friends-network-is-down-error-step-by-step-solutions/"><u>Fixing the 'Steam Friends Network Is Down' Error: Step-by-Step Solutions</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-xiaomi-redmi-13c-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12-pro-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12 Pro 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-rainbow-six-mobile-strategies-to-address-and-fix-fps-drops/"><u>Mastering Rainbow Six Mobile: Strategies to Address and Fix FPS Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/patched-and-enhanced-overwatch-performance-with-new-graphics-driver-fixes/"><u>Patched and Enhanced Overwatch Performance with New Graphics Driver Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-crashes-in-call-of-duty-modern-warfare-how-to-fix/"><u>Persistent Crashes in Call of Duty: Modern Warfare – How to Fix?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unresponsive-behavior-in-rust-programs-a-comprehensive-2n4-fix-it-manual/"><u>Resolving Unresponsive Behavior in Rust Programs - A Comprehensive 2N4 Fix-It Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-how-to-resolve-ps4-system-freezes-effectively/"><u>Step-by-Step Troubleshooting: How To Resolve PS4 System Freezes Effectively</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-selecting-the-ultimate-facebook-pic/"><u>The Art of Selecting the Ultimate Facebook Pic</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/unlocking-the-potential-of-onestream-live-streaming/"><u>Unlocking the Potential of OneStream Live Streaming</u></a></li>
 </ul></div>
 

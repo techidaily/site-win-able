@@ -1,7 +1,7 @@
 ---
 title: Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!
-date: 2024-11-14T02:32:00.343Z
-updated: 2024-11-17T04:58:23.357Z
+date: 2024-11-22T19:03:27.814Z
+updated: 2024-11-26T18:43:45.076Z
 tags:
   - win11
   - win10
@@ -31,10 +31,7 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 5. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Check your device
@@ -45,35 +42,18 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/settings.jpg)
 2. Confirm the volume sliders are not set to 0, then you can set it to your personal preference.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update Windows Media Feature pack
 
@@ -94,10 +74,18 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 
 4. Relaunch the game and check the audio.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your audio driver
 
@@ -119,6 +107,10 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 
 Then, reboot your PC and relaunch the game to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -130,10 +122,7 @@ Then, reboot your PC and relaunch the game to check.
 4. Click the**Apply** \>**OK** button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Relaunch the game and check you have sound or not.
@@ -148,19 +137,6 @@ Then, reboot your PC and relaunch the game to check.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
-
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hope this post would help. Since gamers have various PC specs and environments, we can’t expect these fixes would work for everyone. If no fixes help, try the troubleshooting over at [Microsoft Support](https://www.amazongames.com/en-us/forward-link?id=windows-10-sound-problems) .
 
@@ -179,24 +155,24 @@ Then, reboot your PC and relaunch the game to check.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/1723008217090-days-gone-the-ultimate-survival-horror-game-drops-today-get-ready-to-ride-on-your-pc/"><u>'Days Gone': The Ultimate Survival Horror Game Drops Today – Get Ready to Ride on Your PC!</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-rise-from-oblivion-mastery-of-tiktok-shadowban-evasion/"><u>[New] 2024 Approved Rise From Oblivion Mastery of TikTok Shadowban Evasion</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-melodicmeasurement-reaction-to-tunes-for-2024/"><u>[New] MelodicMeasurement Reaction to Tunes for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-celestial-composition-the-art-of-nighttime-photography-mastery/"><u>[Updated] 2024 Approved Celestial Composition The Art of Nighttime Photography Mastery</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-stay-ahead-of-the-curve-top-task-filled-ideas-for-maximizing-your-podcast-experience/"><u>[Updated] Stay Ahead of the Curve Top Task-Filled Ideas for Maximizing Your Podcast Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-loading-errors-with-in-game-visual-elements-on-call-of-dutys-warzone/"><u>Effective Solutions for Loading Errors with In-Game Visual Elements on Call of Duty's Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-getting-the-thaumaturge-program-running-smoothly-on-pcs-again/"><u>Expert Tips for Getting the Thaumaturge Program Running Smoothly on PCs Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-and-optimize-preventing-star-citizen-from-crashing-in-windows-environments/"><u>Fix and Optimize: Preventing Star Citizen From Crashing in Windows Environments</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Pause Life360 Location Sharing For Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/in-2024-soundtrack-sanctuary-the-finest-websites-offering-free-audio-selections-for-filmmakers/"><u>In 2024, Soundtrack Sanctuary The Finest Websites Offering Free Audio Selections for Filmmakers</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-civi-3frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Civi 3FRP Lock</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterful-tweaks-to-elevate-your-pcs-graphics-fixing-game-performance-lags-and-fps-issues/"><u>Masterful Tweaks to Elevate Your PC's Graphics: Fixing Game Performance Lags & FPS Issues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/mastering-twitter-promotions-essential-tips/"><u>Mastering Twitter Promotions Essential Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frame-rate-fluctuations-for-a-smoother-warzone-experience/"><u>Resolving Frame Rate Fluctuations for a Smoother Warzone Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-frame-drops-and-speech-hiccups-in-naraka-bladepoint-a-step-by-step-guide/"><u>Solving Frame Drops & Speech Hiccups in Naraka: Bladepoint - A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-lenovo-thinkphone-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Lenovo ThinkPhone FRP</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005773108-the-ultimate-guide-to-faster-leveling-up-efficient-fps-dropping-techniques-for-me-legendary-ed/"><u>The Ultimate Guide to Faster Leveling Up: Efficient FPS Dropping Techniques for ME Legendary Ed</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/wwe-cufflink-fix-ultimate-guide-to-solving-pc-game-crashes-in-2k22/"><u>WWE Cufflink Fix: Ultimate Guide to Solving PC Game Crashes in 2K22</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-fps-conundrum-deciding-between-standard-and-higher-video-speeds/"><u>[New] 2024 Approved The FPS Conundrum Deciding Between Standard & Higher Video Speeds</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-perfecting-npc-details-with-zoom-in-on-roblox-for-2024/"><u>[New] Perfecting NPC Details with Zoom In on Roblox for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-battlefield-2042-crashing-on-pc/"><u>[SOLVED] Battlefield 2042 Crashing on PC</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-elevate-your-instagram-imagery-with-striking-borders/"><u>[Updated] 2024 Approved Elevate Your Instagram Imagery with Striking Borders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-cut-out-facebook-stories-step-by-step-for-pc-and-phones/"><u>[Updated] In 2024, Cut Out Facebook Stories Step-By-Step for PC & Phones</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-snipers-manual-to-capturing-live-online-music/"><u>2024 Approved The Sniper’s Manual to Capturing Live Online Music</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-tecno-spark-go-2023-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Tecno Spark Go (2023)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-stutter-and-freezing-solutions-to-overcome-forza-horizon-5-performance-lags/"><u>Fixing Stutter and Freezing: Solutions to Overcome Forza Horizon 5 Performance Lags</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/habilitaciondesactivacion-de-carpetas-recientes-en-windows-11-metodos-y-consejos/"><u>Habilitación/Desactivación De Carpetas Recientes en Windows 11 - Métodos Y Consejos</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-keep-your-mission-intact-eliminate-pc-game-breaks-for-hitman-3-this-year/"><u>How to Keep Your Mission Intact: Eliminate PC Game Breaks for Hitman 3 This Year</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/mastering-machine-learning-dialogues-with-mac-and-gpt/"><u>Mastering Machine Learning Dialogues with Mac & GPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezing-solving-praey-for-the-gods-pc-game-crash-problems/"><u>No More Freezing! Solving Praey for the Gods PC Game Crash Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premium-free-ticking-counters-for-2024/"><u>Premium Free Ticking Counters for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fix-for-the-sea-of-thieves-game-crash-problem/"><u>Resolved: Fix for the Sea of Thieves Game-Crash Problem</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210821954-9798987771112-the-ruby-heart-of-the-dragon/"><u>The Ruby Heart of the Dragon | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-dreamlight-valley-pc-issues-with-these-6-effective-fixes/"><u>Troubleshoot Dreamlight Valley PC Issues with These 6 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-stardew-valley-resolving-pc-game-crashes/"><u>Troubleshooting Stardew Valley: Resolving PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-drivers/"><u>Update Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-initialization-issues-troubleshooting-guide-for-failed-launch-in-202n/"><u>Valheim Initialization Issues: Troubleshooting Guide for Failed Launch in 202N</u></a></li>
 </ul></div>
 

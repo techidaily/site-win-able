@@ -1,7 +1,7 @@
 ---
 title: Tackling Game Stutter for Fluid Playbacks - Achieve Higher FPS and Enhanced Gaming
-date: 2024-11-14T11:24:56.141Z
-updated: 2024-11-17T07:55:34.901Z
+date: 2024-11-20T16:34:49.156Z
+updated: 2024-11-27T00:59:32.132Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Battlefield 2042 is one of the most awaited games. Now players can dive into the
 
 ![how to fix Battlefield 2042 stuttering and FPS drops](https://images.drivereasy.com/wp-content/uploads/2021/10/2042-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Enable game mode
 
  If you have the latest Windows version, you should enable the Game Mode. Windows game mode is a feature that is designed to optimize Windows 10 for gaming. It can deactivate background activities to help you boost in-game FPS. To enable this feature, follow the instructions below.
@@ -46,6 +50,10 @@ Battlefield 2042 is one of the most awaited games. Now players can dive into the
 3. Select **Game Mode**  from the left panel. Then toggle **On**  Game Mode.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now launch Battlefield 2042\. If your game still stutters a lot or it’s showing pretty low FPS, try the next fix below.
 
@@ -63,21 +71,7 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** on the navigation bar and switch **Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Twitch
 
@@ -86,16 +80,13 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Twitch-settings.png)
 2. Click on**In-Game Overlay** on the left hand side of the screen. Then click the toggle**off** the In-Game Overlay.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Twitch-in-game-overlay.png)
 
  After disabling overlays, launch Battlefield 2042 and it should run smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
 
@@ -104,19 +95,6 @@ Below are a few common overlays and how to disable them.
  Another reason you should check for driver updates is that famous graphics card manufacturers usually release game ready drivers to offer players a smooth gameplay. So this is probably the best shot you have got without doing a lot of troubleshooting.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics driver
 
@@ -142,9 +120,17 @@ Below are a few common overlays and how to disable them.
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC for the changes to take full effect. If you still have FPS drops and stuttering issues, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Enable hardware-accelerated GPU scheduling
 
@@ -155,28 +141,18 @@ Below are a few common overlays and how to disable them.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Toggle**On** Hardware-accelerated GPU scheduling.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 4. Also make sure you’ve selected**Desktop app** . Then click on the**Browse** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/graphics-settings.png)
 5. Then navigate to your game’s installation directory. Click**BF2042.exe** and click**Add** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-BF2042.png)
 6. Your game should appear on the list. Click on the**Options** button.  
@@ -185,29 +161,21 @@ Below are a few common overlays and how to disable them.
 7. Select**High Performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/high-performance.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Tips: If you’re not sure how to locate your game’s installation folder, head to Steam. Under LIBRARY, right-click your game title and select**Manage > Browse local files** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/browse-local-file.png)
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After this, restart your computer to make sure it’s applied. Then test your gameplay. If disabling hardware-accelerated GPU scheduling doesn’t make any difference, proceed to the next fix.
@@ -253,21 +221,16 @@ If this doesn’t do the trick, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-how-to-activate-and-customize-zooms-virtual-screen-mode-for-2024/"><u>[New] How to Activate and Customize Zoom's Virtual Screen Mode for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-leading-free-video-conferencing-services-top-screen-sharing-list/"><u>[New] Leading Free Video Conferencing Services Top Screen Sharing List</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-audfreetechunveiled-detailed-look-at-the-new-audio-tool/"><u>[Updated] AudFreeTechUnveiled Detailed Look at the New Audio Tool</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-advice-to-fix-league-of-legends-screen-problems/"><u>Beat the Blackout: Expert Advice to Fix League of Legends Screen Problems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-x-flip-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from X Flip</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-11-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 11 Lock Screen</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/key-attributes-of-elite-gaming-computers/"><u>Key Attributes of Elite Gaming Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-performance-six-key-tweaks-to-address-cpu-spikes-in-baldurs-gate-3-update/"><u>Optimizing Performance: Six Key Tweaks to Address CPU Spikes in Baldur's Gate 3 Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012578810-resolving-pc-issues-stop-minecraft-dungeon-from-crashing-now/"><u>Resolving PC Issues: Stop Minecraft Dungeon From Crashing Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-at-hand-resolving-discords-dark-screen-problem-when-sharing-your-display/"><u>Solution at Hand: Resolving Discord's Dark Screen Problem When Sharing Your Display</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-players-manual-to-dominating-roller-champions-online-play-pc-focus-year-2024/"><u>The Complete Player's Manual to Dominating Roller Champions Online Play - PC Focus (Year 2024)</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/topo-das-melhores-cinefilos-online-gratis-substitutas-para-o-windows/"><u>Topo Das Melhores Cinéfilos Online Grátis - Substitutas Para O Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996361045-troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010099366-warzone-dev-error-5573-woes-heres-how-to-tackle-it-on-your-gaming-rig-or-console/"><u>Warzone Dev Error #5573 Woes? Here's How to Tackle It on Your Gaming Rig or Console</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-making-waves-in-the-gaming-community-on-youtube/"><u>2024 Approved Making Waves in the Gaming Community on YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-optimization-strategies-to-overcome-sudden-declines-in-frames-per-second-fps/"><u>Cyberpunk 2077 Optimization: Strategies to Overcome Sudden Declines in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-using-a-bluetooth-device-to-fix-obd-ii-errors-featured-by-zdnet/"><u>Expert Analysis on Using a Bluetooth Device to Fix OBD-II Errors, Featured by ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved!</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ideal-mac-sniping-software-here-are-5-picks/"><u>In 2024, The Ideal Mac Sniping Software - Here Are 5 Picks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/m3-vs-m1-macbook-pro-is-it-time-to-switch-to-apples-newest-innovation-a-comprehebate-for-tech-enthusiasts/"><u>M3 vs M1 MacBook Pro: Is It Time to Switch to Apple's Newest Innovation? A Comprehebate for Tech Enthusiasts</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/pathway-to-enlisting-world-class-cinematographers/"><u>Pathway to Enlisting World-Class Cinematographers</u></a></li>
+<li><a href="https://win-able.techidaily.com/reviving-a-broken-logitech-c920-a-guide-for-resolving-webcam-issues/"><u>Reviving a Broken Logitech C920: A Guide for Resolving Webcam Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-eradicating-the-dota-2-account-bans-of-2022/"><u>The Ultimate Guide: Eradicating the Dota 2 Account Bans of 2022</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed</u></a></li>
 </ul></div>
 

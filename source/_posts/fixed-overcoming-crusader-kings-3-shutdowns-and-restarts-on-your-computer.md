@@ -1,7 +1,7 @@
 ---
 title: "[FIXED] Overcoming Crusader Kings 3 Shutdowns and Restarts on Your Computer"
-date: 2024-11-12T16:03:55.089Z
-updated: 2024-11-17T05:12:28.092Z
+date: 2024-11-20T20:23:04.834Z
+updated: 2024-11-26T17:45:20.381Z
 tags:
   - win11
   - win10
@@ -39,10 +39,7 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Restart your computer
@@ -56,13 +53,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -95,6 +85,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 If Disco Elysium still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Disable extraneous software
 
  Game performance issues will happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -107,6 +101,10 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -114,6 +112,10 @@ If Disco Elysium still crashes, try the next fix below.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5 – Verify integrity of game files
 
@@ -127,13 +129,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
@@ -145,10 +140,7 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Relaunch Disco Elysium.
@@ -173,6 +165,10 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
@@ -180,16 +176,7 @@ If your game still crashes after this, try the fix below.
 If the crashing issue still exists, there’s still 1 fix to try.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 8: Check for Windows updates
@@ -203,6 +190,10 @@ If the crashing issue still exists, there’s still 1 fix to try.
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -218,23 +209,9 @@ To run your game as administrator, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -261,21 +238,18 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-craft-compelling-video-content-using-windows-photos-and-story-remix-for-2024/"><u>[New] Craft Compelling Video Content Using Windows Photos & Story Remix for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-when-order-falls-premium-lineup-of-best-zombie-games-for-2024/"><u>[New] When Order Falls Premium Lineup of Best Zombie Games for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-for-downloading-content-from-tiktok-a-comprehensive-guide/"><u>Effective Strategies for Downloading Content From TikTok: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-methods-mastering-the-art-of-converting-51-surround-sound-to-stereo-in-three-straightforward-strategies/"><u>Efficient Methods: Mastering the Art of Converting 5.1 Surround Sound to Stereo in Three Straightforward Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-audio-removal-for-windows-11-users-a-comprehensive-guide-with-bulk-file-support/"><u>Effortless Audio Removal for Windows 11 Users: A Comprehensive Guide with Bulk File Support</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-conversion-guide-transforming-mpg-to-mov-files-across-pc-mac-and-web-platforms/"><u>Effortless Conversion Guide: Transforming MPG to MOV Files Across PC, Mac & Web Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-transformation-converting-iso-videos-into-avi-format/"><u>Effortless Transformation: Converting ISO Videos Into AVI Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-viewing-experience-top-5-tweaks-for-better-x-video-playback/"><u>Enhance Your Viewing Experience: Top 5 Tweaks for Better X Video Playback</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-not-working-errors-with-dvd-shrink-software-on-your-windows-11-pc/"><u>Fixing 'Not Working' Errors with DVD Shrink Software on Your Windows 11 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-herramientas-en-linea-para-eliminar-fondos-de-imagenes/"><u>Gratis Herramientas en Línea Para Eliminar Fondos De Imágenes</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-realme-gt-5-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-se-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-path-to-prodigious-smm-results-delivered-in-10-steps/"><u>In 2024, The Essential Path to Prodigious SMM Results, Delivered in 10 Steps</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-nvidia-graphics-driver-update-for-windows-11-and-10-gamers-download-here/"><u>Latest Nvidia Graphics Driver Update for Windows 11 and 10 Gamers – Download Here</u></a></li>
-<li><a href="https://games-able.techidaily.com/making-every-move-count-avoiding-signal-loss-in-pokemon-go/"><u>Making Every Move Count: Avoiding Signal Loss in Pokémon GO</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/zoom-room-basics-for-newbies/"><u>Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-content-creation-battleground-choosing-between-vimeo-youtube-dailymotion/"><u>[Updated] In 2024, Content Creation Battleground Choosing Between Vimeo, YouTube, DailyMotion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-unboxing-mastery-the-soundtrack-selection-guidebook/"><u>[Updated] In 2024, Unboxing Mastery The Soundtrack Selection Guidebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-tips-for-safaris-picture-and-window-sharing-feature/"><u>2024 Approved Expert Tips for Safari's Picture and Window Sharing Feature</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/expert-tips-for-capturing-sims-sessions-for-2024/"><u>Expert Tips for Capturing Sims Sessions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-death-stranding-pc-crash-issue-a-step-by-step-solution/"><u>Fixing the Death Stranding PC Crash Issue - A Step-by-Step Solution</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-the-latest-windows-compatible-drivers-for-your-amd-radeon-hd-ebx-6350/"><u>Get the Latest Windows-Compatible Drivers for Your AMD Radeon HD Ebx 6350</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Best Spy Watches For your Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-resolving-the-crash-issue-once-and-for-all/"><u>Jurassic World Evolution: Resolving the Crash Issue Once and For All</u></a></li>
+<li><a href="https://fake-location.techidaily.com/looking-for-a-location-changer-on-vivo-t2x-5g-look-no-further-drfone-by-drfone-virtual-android/"><u>Looking For A Location Changer On Vivo T2x 5G? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-minecraft-console-correcting-error-code-crossbow-issues/"><u>Mastering the Minecraft Console: Correcting Error Code: Crossbow Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013493862-overcoming-star-wars-squadrons-freezing-problems-solutions-inside/"><u>Overcoming STAR WARS Squadrons Freezing Problems: Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-directx-issues-in-anno-1800/"><u>Troubleshooting Guide: Fixing DirectX Issues in Anno 1800</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/upgrading-made-easy-checking-if-your-system-supports-the-latest-gpu-upgrade/"><u>Upgrading Made Easy: Checking if Your System Supports the Latest GPU Upgrade</u></a></li>
 </ul></div>
 

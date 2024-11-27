@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-11-14T17:05:54.456Z
-updated: 2024-11-17T07:28:02.874Z
+date: 2024-11-20T18:47:38.732Z
+updated: 2024-11-26T21:09:42.407Z
 tags:
   - win11
   - win10
@@ -65,13 +65,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,13 +87,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -120,35 +106,18 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -164,11 +133,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -182,9 +159,17 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -208,18 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-discover-the-ultimate-free-subtitles-convertors/"><u>[New] In 2024, Discover the Ultimate Free Subtitles Convertors</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-can-you-broadcast-videos-without-infringing-laws-specifically-fb/"><u>[Updated] In 2024, Can You Broadcast Videos Without Infringing Laws, Specifically FB?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-lava-yuva-2-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Lava Yuva 2 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-4-not-initializing-step-by-step-pc-optimization-techniques/"><u>Battlefield 4 Not Initializing: Step-by-Step PC Optimization Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009775164-destiny-2-pc-version-fixed-errors-and-now-running-smoothly/"><u>Destiny 2 PC Version: Fixed Errors & Now Running Smoothly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/developers-speak-out-how-they-addressed-the-pacific-crash-in-cod-warzone/"><u>Developers Speak Out: How They Addressed the Pacific Crash in COD: Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-lost-ark-cannot-connect-to-the-server-tips-and-tricks/"><u>Fixing Lost Ark Cannot Connect to the Server – Tips & Tricks</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-nextgen-youtuber-tools-studio-vs-beta-version/"><u>In 2024, NextGen YouTuber Tools Studio Vs. Beta Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/ipad-pro-vs-surface-pro-showdown-analyzing-the-unique-advantages/"><u>IPad Pro Vs. Surface Pro Showdown: Analyzing the Unique Advantages</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-stuck-screens-in-among-us-effective-solutions-and-tips/"><u>Overcome Stuck Screens in Among Us: Effective Solutions & Tips</u></a></li>
-<li><a href="https://discover-able.techidaily.com/recuperacion-de-archivos-eliminados-como-restaurar-documentos-perdidos-desde-la-papelera-de-reciclaje-en-windows-111087/"><u>Recuperación De Archivos Eliminados: Cómo Restaurar Documentos Perdidos Desde La Papelera De Reciclaje en Windows 11/10/8/7</u></a></li>
-<li><a href="https://discover-data.techidaily.com/schnell-und-sicher-erstellung-von-windows-10-image-festplatten/"><u>Schnell Und Sicher: Erstellung Von Windows 10 Image-Festplatten</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/stay-ahead-in-hardware-trends-wisdom-from-toms-electronic-journal/"><u>Stay Ahead in Hardware Trends - Wisdom From Tom's Electronic Journal</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-the-finest-chromebook-pencil-stores-you-need-to-know-about-for-2024/"><u>[New] The Finest Chromebook Pencil Stores You Need to Know About for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>[New] Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-x-professional-audio-toolkit-personal-computing-for-2024/"><u>[Updated] X-Professional Audio Toolkit, Personal Computing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-computer-lags-advanced-solutions-for-enhancing-your-sims-4-gameplay-pro-advice-2024/"><u>Conquering Computer Lags: Advanced Solutions for Enhancing Your Sims 4 Gameplay (Pro Advice, 2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/evil-genius-2-troubleshooting-how-to-successfully-start-the-game/"><u>Evil Genius 2 Troubleshooting: How to Successfully Start the Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-pc-version-fixes-and-solutions-for-persistent-crashing-issues/"><u>God of War PC Version: Fixes & Solutions for Persistent Crashing Issues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/how-to-seamlessly-convert-and-download-pinterest-videos-as-mp3/"><u>How to Seamlessly Convert and Download Pinterest Videos as MP3</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 14 Plus and iPad?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-gag-gallery/"><u>In 2024, Ghostly Gag Gallery</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/pushing-the-boundaries-of-screen-recording-with-recmeister-for-2024/"><u>Pushing the Boundaries of Screen Recording with Recmeister for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-unpredictable-pc-malfunctions-when-running-gas-station-simulator-on-windows-1011/"><u>Resolving Unpredictable PC Malfunctions When Running Gas Station Simulator on Windows 10/11</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-f04-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/success-story-how-we-overcame-the-game-security-infringement-noticed-issue/"><u>Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
 </ul></div>
 

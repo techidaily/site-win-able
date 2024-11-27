@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Origin Issues Now Fixed - Regain Access"
-date: 2024-11-13T03:00:13.460Z
-updated: 2024-11-17T07:06:58.436Z
+date: 2024-11-24T20:09:36.975Z
+updated: 2024-11-26T20:36:34.633Z
 tags:
   - win11
   - win10
@@ -51,12 +51,20 @@ By checking your system specs, just follow the instructions below:
 
 ![bring up DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/09/dxdiag.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Now you can check your system specs.
 
 ![check system specs
 ](https://images.drivereasy.com/wp-content/uploads/2020/09/system-requiemnts-1.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Stop overclocking your GPU
 
@@ -79,10 +87,7 @@ By checking your system specs, just follow the instructions below:
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics drivers (recommended)
@@ -105,10 +110,7 @@ OR
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -125,16 +127,13 @@ OR
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -147,10 +146,11 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify the integrity of game files
@@ -162,10 +162,7 @@ OR
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .
@@ -184,13 +181,6 @@ OR
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
@@ -198,13 +188,6 @@ OR
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
@@ -238,14 +221,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-essential-tips-for-crafting-youtube-image-marketing/"><u>[New] In 2024, Essential Tips for Crafting YouTube Image Marketing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-precision-perfection-techniques-for-using-the-eraser-in-psx/"><u>[Updated] Precision Perfection Techniques for Using the Eraser in PSX</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-youtube-earnings-per-watch-average-income-breakdown-for-2024/"><u>[Updated] YouTube Earnings per Watch Average Income Breakdown for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lenovo ThinkPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-valorant-initialization-failures/"><u>Diagnosing and Repairing Valorant Initialization Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-boot-up-blues-heres-the-solution-for-a-seamless-start/"><u>Elden Ring Boot-Up Blues? Here's the Solution for a Seamless Start</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-profits-on-youtube-the-latest-policy/"><u>In 2024, Maximizing Profits on YouTube The Latest Policy</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-low-download-rates-on-utorrent-with-these-tips/"><u>Resolve Low Download Rates on uTorrent with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998514311-troubleshooting-tips-stop-left-amo-2-from-frequent-crashes-and-enjoy-uninterrupted-gaming/"><u>Troubleshooting Tips: Stop Left Amo 2 From Frequent Crashes & Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-journey-beyond-top-10-global-explorer-channels/"><u>[New] 2024 Approved A Journey Beyond Top 10 Global Explorer Channels</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snippetsnapper-a-close-look-at-micro-recorders-for-2024/"><u>[Updated] SnippetSnapper A Close Look at Micro-Recorders for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Itel P55+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-latency-and-drops-during-high-stakes-gaming-tips-for-call-of-duty-modern-warfare-3s-fps-woes/"><u>Dealing with Latency and Drops During High-Stakes Gaming - Tips for Call of Duty: Modern Warfare 3'S FPS Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-8014-in-dead-by-daylight-quick-fixes-and-solutions/"><u>Error Code 8014 in Dead by Daylight - Quick Fixes and Solutions</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-strategies-to-maintain-administrator-mode-for-your-applications-on-windows-11/"><u>Expert Strategies to Maintain Administrator Mode for Your Applications on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-solve-state-of-decay-2-crashing-problems/"><u>How To Stabilize Your Gameplay: Solve State of Decay 2 Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-pc-fall-guys-from-crashing-during-gameplay/"><u>How to Stop [PC] Fall Guys From Crashing During Gameplay</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oppo-reno-8t-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Oppo Reno 8T to New Android? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-fixes-for-constant-ms-teams-sign-in-pages/"><u>Mastering Fixes for Constant MS Teams Sign-In Pages</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-relief-starfields-upgraded-version-eliminates-crashing-glitches/"><u>PC Gaming Relief: Starfield's Upgraded Version Eliminates Crashing Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-stuttering-issues-in-fallout-76/"><u>Resolved: Overcoming Stuttering Issues in Fallout 76</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolving-division-2-not-launching-expert-tips-and-tricks-for-players/"><u>Resolving 'Division 2 Not Launching' - Expert Tips and Tricks for Players</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-essential-youtube-beauty-guides-you-cant-miss-for-2024/"><u>The Essential YouTube Beauty Guides You Can't Miss for 2024</u></a></li>
 </ul></div>
 

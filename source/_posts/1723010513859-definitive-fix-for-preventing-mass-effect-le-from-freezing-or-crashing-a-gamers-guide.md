@@ -1,7 +1,7 @@
 ---
 title: "Definitive Fix for Preventing Mass Effect LE From Freezing or Crashing: A Gamer's Guide."
-date: 2024-10-23T00:52:45.271Z
-updated: 2024-10-26T00:51:45.497Z
+date: 2024-11-26T00:49:53.842Z
+updated: 2024-11-26T22:53:31.281Z
 tags:
   - win11
   - win10
@@ -110,13 +110,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify your game files
 
  The game crash issue can also be triggered by the faulty game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -127,16 +120,13 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Steam
 
@@ -144,22 +134,12 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Epic Game Launcher
@@ -171,10 +151,7 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Verify** to start verifying the game files.  
@@ -182,6 +159,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
 
@@ -201,13 +182,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
@@ -220,6 +194,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Modify the paging file size
 
  If the game crash issues were caused by the insufficient RAM, you can apply this fix to see if it works. Before modifying the paging file, you need to check if The Division 2 crash issue was triggered by the insufficient RAM.
@@ -231,6 +209,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog, then type**control** and press**Enter** to open Control Panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-146.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the search box, type**advanced** and then click**View advanced system settings** in the list of search results.
 
@@ -264,13 +246,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3)**Turn off Contact Shadows** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
@@ -279,9 +254,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
 
@@ -292,10 +275,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  8) Set**Ambient Occlusion** to**Medium** .
@@ -305,6 +285,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
@@ -333,24 +317,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/0-best-youtube-video-to-mp3-converter-for-2024/"><u>[New] 10 Best YouTube Video to Mp3 Converter for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-speed-up-filmmaking-skills-at-home-with-top-5-hacks/"><u>[New] Speed Up Filmmaking Skills at Home with Top 5 Hacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/sovled-back-4-blood-ue4-gobi-fatal-error/"><u>[SOVLED] Back 4 Blood UE4-Gobi Fatal Error</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-newly-eligible-users-see-revenue-uplift/"><u>[Updated] 2024 Approved Newly Eligible Users See Revenue Uplift</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-beginners-blueprint-for-online-content-simple-straightforward-video-projects/"><u>[Updated] Beginner's Blueprint for Online Content Simple, Straightforward Video Projects</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-compre-habits-of-top-reddit-posters-explained/"><u>[Updated] The Compre Habits of Top Reddit Posters Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-stability-in-a-total-war-saga-troy-fixed-bugs-for-an-uninterrupted-adventure-on-pc/"><u>Achieving Stability in A Total War Saga: Troy - Fixed Bugs For an Uninterrupted Adventure on PC!</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-rust-programming-challenges-fixing-non-responsive-code-with-proven-methods/"><u>Addressing Rust Programming Challenges: Fixing Non-Responsive Code with Proven Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000647867-dealing-with-desperate-pc-crashes-in-necromunda-hired-gun-gameplay-fix-them-now/"><u>Dealing with Desperate PC Crashes in Necromunda: Hired Gun Gameplay – Fix Them Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-ways-to-resolve-battlefield-1-game-crashes/"><u>Effortless Ways to Resolve Battlefield 1 Game Crashes</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/expert-tips-for-changing-the-battery-in-your-ipad-easily/"><u>Expert Tips for Changing the Battery in Your iPad Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-graphics-driver-glitch-on-oculus-devices/"><u>Fixing the Graphics Driver Glitch on Oculus Devices</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-realme-c67-4g-easily-by-drfone-android/"><u>How To Unlock a Realme C67 4G Easily?</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-evaluation-of-samsungs-un65ru8000fxza-combining-aesthetics-and-intelligence/"><u>In-Depth Evaluation of Samsung's UN65RU8000FXZA - Combining Aesthetics and Intelligence</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-download-speeds-on-origin-proven-tips-and-tricks-for-gamers-in-202n4/"><u>Speeding Up Download Speeds on Origin - Proven Tips and Tricks for Gamers in 202N4</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/step-by-step-instructions-for-transforming-dvd-media-into-network-accessible-formats-using-synology-or-qnap-solutions/"><u>Step-by-Step Instructions for Transforming DVD Media Into Network Accessible Formats Using Synology or QNAP Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-preventing-and-fixing-last-epoch-errors-on-your-pc-top-tips-and-tricks-updated/"><u>The Definitive Guide to Preventing and Fixing Last Epoch Errors on Your PC: Top Tips & Tricks (Updated )</u></a></li>
-<li><a href="https://win-top.techidaily.com/three-simple-methods-seamlessly-connecting-your-d-drive-with-microsofts-onedrive/"><u>Three Simple Methods: Seamlessly Connecting Your D Drive with Microsoft's OneDrive</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-freezing-chrome-browsers-easily-on-your-windows-10-pc/"><u>Troubleshoot Freezing Chrome Browsers Easily on Your Windows 10 PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-affinity-photo-demystified/"><u>[New] Affinity Photo Demystified</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-in-2024-transforming-ordinary-to-extraordinary-edit-tiktok-vids-on-mac/"><u>[Updated] In 2024, Transforming Ordinary to Extraordinary Edit TikTok Vids on Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-infinix-smart-8-pro-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Infinix Smart 8 Pro to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/crystalclear-conversion-high-res-format-for-2024/"><u>CrystalClear Conversion - High Res Format for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-get-your-counter-strike-2-up-and-running-again/"><u>Expert Tips to Get Your Counter-Strike 2 Up and Running Again</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-nvidia-driver-software-update-for-rtx-3080-ti-on-windows-11-10-and-7-free-download/"><u>Latest NVIDIA Driver Software Update for RTX 3080 Ti on Windows 11, 10 and 7 – Free Download</u></a></li>
+<li><a href="https://fox-that.techidaily.com/mastering-the-iphones-photo-library-top-8-solutions-to-fix-usual-camera-roll-problems/"><u>Mastering the iPhone's Photo Library: Top 8 Solutions to Fix Usual Camera Roll Problems</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-view-counts-by-upholding-youtubes-cc-license-for-2024/"><u>Mastering View Counts by Upholding YouTube's CC License for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashing-enjoy-a-bug-free-experience-in-remnant-from-the-ashes/"><u>No More Crashing: Enjoy a Bug-Free Experience in Remnant: From the Ashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-boot-errors-for-a-perfect-persona-3-reload-gaming-experience/"><u>Overcoming Boot Errors for a Perfect Persona 3 Reload Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-game-crash-issues-in-fm2019-with-these-simple-fixes/"><u>Resolve Your Game Crash Issues in FM2019 with These Simple Fixes!</u></a></li>
 </ul></div>
 

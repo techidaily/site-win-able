@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-11-14T20:09:53.851Z
-updated: 2024-11-17T03:57:33.490Z
+date: 2024-11-25T16:49:19.511Z
+updated: 2024-11-26T17:18:38.876Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -37,10 +41,7 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 [3: Configure Windows sound settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Set Dynamic Range to Compressed mode
@@ -70,13 +71,6 @@ If this fix doesn’t solve your problem, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-19-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the **Update**  button next to the flagged drivers to automatically download their correct version, then you can manually install them (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_15-18-16.jpg)
 
@@ -91,6 +85,10 @@ If this fix doesn’t solve your problem, try the next fix.
 
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Configure the output device settings
 
  If you’re using a wireless headset, you’ll need to make sure the audio is set to Stereo, and disconnect other audio output devices (if you have any.)
@@ -102,17 +100,7 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Turn on loudness equalization
@@ -126,15 +114,20 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Turn on spatial sound
@@ -143,13 +136,6 @@ If this fix doesn’t solve your problem, try the next fix.
 
 1. Right-click the**speaker icon** on your taskbar, move your cursor to**Spatial sound** , and click**Windows Sonic for Headphones** . You may see different options here based on your output device.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-28.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Disable the communication option
 
@@ -160,13 +146,6 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -189,18 +168,24 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-perfecti-the-ultimate-guide-to-iphone-slideshows-xr-i/"><u>[New] Perfecti The Ultimate Guide to iPhone Slideshows (XR-I)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/nlock-6-free-youtube-endings-for-pros/"><u>[New] Unlock 6 Free YouTube Endings for Pros!</u></a></li>
-<li><a href="https://win-able.techidaily.com/videosiso-windows/"><u>「VIDEO_S」をISOファイルにしよう! - 使いやすいWindowsマニュアル</u></a></li>
-<li><a href="https://program-issues.techidaily.com/how-to-fix-granblue-fantasy-relink-crashing-on-pc/"><u>How to Fix Granblue Fantasy: Relink Crashing on PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 12 Pro Max Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-quick-and-easy-iphone-collage-methods-that-work-wonders/"><u>In 2024, Quick and Easy iPhone Collage Methods That Work Wonders</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-health-and-activity-monitors-of-2024-our-comprehensive-selection/"><u>Leading Health & Activity Monitors of 2024: Our Comprehensive Selection</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-transforming-dvd-content-into-mkvmp4avi-format-and-adding-personalized-subtitles/"><u>Step-by-Step Tutorial on Transforming DVD Content Into MKV/MP4/AVI Format and Adding Personalized Subtitles</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-recording-tips-for-audio-content-on-a-windows-10-pc/"><u>Stream Recording Tips for Audio Content on a Windows 10 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-the-top-8-ac3-player-options-windows-mac-android-and-ios-friendly-solutions/"><u>The Ultimate Guide to the Top 8 AC3 Player Options: Windows, Mac, Android and iOS-Friendly Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-6-websites-for-streaming-free-tunes-without-the-hurdle-of-download/"><u>Top 6 Websites for Streaming Free Tunes Without the Hurdle of Download</u></a></li>
-<li><a href="https://win-able.techidaily.com/version-11-of-wonderfox-the-new-release-transforming-videos-into-gifs/"><u>Version 1.1 of WonderFox: The New Release Transforming Videos Into GIFs</u></a></li>
-<li><a href="https://discover-excellent.techidaily.com/wiederherstellung-verlorener-bilder-auf-digitalkameras-von-fujifilm-effektive-methoden-und-tipps/"><u>Wiederherstellung Verlorener Bilder Auf Digitalkameras Von Fujifilm – Effektive Methoden Und Tipps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>[New] 2024 Approved Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-ultimate-strategy-for-boosted-instagram-video-traffic/"><u>[New] 2024 Approved The Ultimate Strategy for Boosted Instagram Video Traffic</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-shorts-revenue-sharing-how-much-do-creators-get-paid-in-2024/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-snowrunner-keeps-crashing-on-pc/"><u>[SOLVED] SnowRunner Keeps Crashing on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-setting-the-scene-ideal-video-aspect-ratios-and-widths-for-youtube/"><u>[Updated] Setting the Scene Ideal Video Aspect Ratios & Widths for YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomutant-for-pc-crash-dilemma-discover-the-ultimate-fixes-and-hacks-updated-for-2anno/"><u>Biomutant for PC Crash Dilemma? Discover the Ultimate Fixes and Hacks (Updated for 2Anno)</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997174357-dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War.</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722978232951-download-official-nvidia-geforce-rtx-3070-ti-drivers-compatible-with-windows-1187/"><u>Download Official NVIDIA GeForce RTX 3070 Ti Drivers Compatible with Windows 11/8/7</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-pauses-and-hitches-tips-for-a-seamless-overwatch-gaming-experience/"><u>Eliminating Pauses and Hitches: Tips for a Seamless Overwatch Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>How Can I Use a Fake GPS Without Mock Location On Itel P40+? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-gameplay-a-guide-to-enhancing-frame-rate-and-resolving-stutters-in-the-ascent/"><u>Improving Gameplay: A Guide to Enhancing Frame Rate & Resolving Stutters in The Ascent</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-navigating-kinemaster-wisely-skills-and-top-ranked-digital-counterparts/"><u>In 2024, Navigating KineMaster Wisely Skills and Top-Ranked Digital Counterparts</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-10-apps-to-boost-audio-velocity/"><u>In 2024, Ultimate 10 Apps to Boost Audio Velocity</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-patched-reconnect-loop-gameplay-improvement-for-2er-year/"><u>League of Legends Patched 'Reconnect Loop' - Gameplay Improvement for 2Er Year</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-gamers-rejoice-rainbow-six-extraction-stops-crashing-heres-why/"><u>PC Gamers Rejoice! Rainbow Six Extraction Stops Crashing – Here’s Why</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996530460-quick-solutions-to-overcome-fortnite-login-troubles-effortlessly/"><u>Quick Solutions to Overcome Fortnite Login Troubles Effortlessly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-dipping-fps-in-forza-horizon-5-on-pc-a-complete-guide/"><u>Resolved: Dipping FPS in Forza Horizon 5 on PC - A Complete Guide</u></a></li>
 </ul></div>
 

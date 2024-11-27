@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-11-11T11:00:49.483Z
-updated: 2024-11-17T09:35:56.510Z
+date: 2024-11-23T20:00:39.823Z
+updated: 2024-11-26T18:06:07.461Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -31,13 +35,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -45,13 +42,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -83,20 +73,14 @@ To do so, first visit the website of your graphics card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144284/7443" target="_top" id="2144284">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144284" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144284/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
-  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -104,6 +88,10 @@ To do so, first visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -118,18 +106,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
@@ -170,16 +155,16 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-periscope-unveiled-free-access-benefits-and-signing-up-guide-for-2024/"><u>[Updated] Periscope Unveiled Free Access, Benefits & Signing Up Guide for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-revolutionize-online-speech-discover-the-best-chrome-extensions-for-change/"><u>2024 Approved Revolutionize Online Speech Discover the Best Chrome Extensions for Change</u></a></li>
-<li><a href="https://howto.techidaily.com/best-methods-for-xiaomi-redmi-note-12-pro-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Best Methods for Xiaomi Redmi Note 12 Pro 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/1723207391527-fix-your-microsoft-surface-pro-4-touchscreen-issues-with-these-simple-steps/"><u>Fix Your Microsoft Surface Pro #4 Touchscreen Issues with These Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022-pc-freezing-issues-comprehensive-solutions/"><u>Football Manager 2022 PC Freezing Issues - Comprehensive Solutions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-vivo-v29-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Vivo V29 Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/madden-nfl-21-solving-stability-problems-and-preventing-pc-game-crashes/"><u>Madden NFL 21: Solving Stability Problems and Preventing PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-hurdles-how-to-access-football-manager-2022-now-that-its-out/"><u>Overcoming the Hurdles: How To Access Football Manager 2022 Now That It's Out</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-6-eco-friendly-tech-practices-to-slash-energy-bills-and-go-green-insights-from-zdnet/"><u>Top 6 Eco-Friendly Tech Practices to Slash Energy Bills and Go Green: Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-overcome-the-gobi-bug-in-back-t-end-blood-for-unreal-engine-4-players/"><u>Troubleshoot and Overcome the 'Gobi' Bug in Back T End Blood for Unreal Engine 4 Players</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-your-discussions-sharing-methods-for-ai-conversations/"><u>Unlocking Your Discussions: Sharing Methods for AI Conversations</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-convert-and-share-with-ease-selecting-the-top-flv-to-youtube-applications/"><u>[Updated] In 2024, Convert & Share with Ease Selecting the Top FLV-to-YouTube Applications</u></a></li>
+<li><a href="https://fox-http.techidaily.com/from-monochrome-to-vibrancy-top-11-video-coloring-strategies/"><u>From Monochrome to Vibrancy Top 11 Video Coloring Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-eliminating-frame-rate-drop-in-outriders/"><u>Mastering Smooth Playthroughs: Eliminating Frame Rate Drop in Outriders</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-woes-correcting-gray-zone-warfare-application-failures/"><u>PC Gaming Woes: Correcting Gray Zone Warfare Application Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013142969-resolved-modern-warfare-3-fixes-memory-issue-code-12707/"><u>Resolved: Modern Warfare 3 Fixes Memory Issue Code 12707</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-smart-choice-why-skipping-the-iphone-16-is-worth-it-for-savvy-apple-fans-insights/"><u>The Smart Choice: Why Skipping the iPhone 16 Is Worth It for Savvy Apple Fans - Insights</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transform-your-messaging-setting-up-microsoft-bing-chatbot-on-android-devices/"><u>Transform Your Messaging: Setting Up Microsoft Bing Chatbot on Android Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/transforming-tasks-with-chatgpt-for-professional-success/"><u>Transforming Tasks with ChatGPT for Professional Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-poe-crashes-ultimate-guide-to-unfreeze-path-of-exile/"><u>Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-resolving-issues-with-non-functional-amazon-prime-video-captions/"><u>Troubleshooting Tips: Resolving Issues with Non-Functional Amazon Prime Video Captions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-flip-and-rotate-iphone-videos-with-ease-top-free-apps/"><u>Updated In 2024, Flip and Rotate iPhone Videos with Ease Top Free Apps</u></a></li>
 </ul></div>
 

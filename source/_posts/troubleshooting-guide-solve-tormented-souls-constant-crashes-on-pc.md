@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Solve Tormented Souls' Constant Crashes on PC"
-date: 2024-11-16T04:40:18.611Z
-updated: 2024-11-17T01:14:15.654Z
+date: 2024-11-19T20:49:52.232Z
+updated: 2024-11-26T18:58:00.566Z
 tags:
   - win11
   - win10
@@ -28,13 +28,6 @@ Are your getting the ‘**HP My Display has stopped working**‘ error on your W
 
 Step 1: **[Uninstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)** Step 2: **[Update your graphics card driver and HP monitor driver](https://tools.techidaily.com/drivereasy/download/)** Step 3: **[Reinstall HP My Display on your computer](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Firstly, uninstall HP My Display on your computer
 
 To do so:
@@ -43,27 +36,15 @@ To do so:
 2. Type**control** and press**Enter** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b89010276b4b.png)
 3. Select**Programs and Features** when selected to**View by Large icons** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890184befeb.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**HP My Display** to select**Uninstall** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b8901cc8a421.jpg)
 5. Click **Yes**  when prompted by User Account Control.
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Then, update your graphics card driver and HP monitor driver
@@ -75,10 +56,11 @@ You can choose to update your device drivers through**Device Manager**to let Win
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the**Pro version** which comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)**Note:** You can also do it for free if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890b1f40fe3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Last, download the latest version of HP My Display to install it on your computer
@@ -86,6 +68,10 @@ You can choose to update your device drivers through**Device Manager**to let Win
 1. Go to the[official HP website](https://support.hp.com/us-en/drivers/selfservice/swdetails/hp-value-24-inch-displays/7274745/model/10402860/swItemId/vc-161857-1) .
 2. Click**Download Now** .![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b890786273c9.jpg)
 3. **Double-click** the downloaded file and follow the on-screen instructions to install HP My Display on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 HP My Display should then be running without problem after the installation. Do you fix the HP My Display has stopped working error? Feel free to comment below with your own experiences.
 
@@ -107,22 +93,22 @@ HP My Display should then be running without problem after the installation. Do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-is-it-legal-to-screen-record-youtube-videos/"><u>[New] In 2024, Is It Legal to Screen Record YouTube Videos</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-top-ten-screencasting-apps-for-modern-teachers/"><u>[New] Top Ten Screencasting Apps for Modern Teachers</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-tweet-audio-conversion-free-video-downloads/"><u>2024 Approved Tweet Audio Conversion Free Video Downloads</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unleashing-potential-career-exploration-in-design/"><u>2024 Approved Unleashing Potential Career Exploration in Design</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-realme-gt-3-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme GT 3 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/elite-setup-gear-for-peak-streaming-performance/"><u>Elite Setup Gear for Peak Streaming Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-keep-manor-lords-running-without-interruption-on-windows-machines/"><u>Expert Tips to Keep Manor Lords Running Without Interruption on Windows Machines</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/google-tv-and-chromecast-combined-is-it-time-to-upgrade-from-firetv/"><u>Google TV and Chromecast Combined: Is It Time to Upgrade From FireTV?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-smooth-gameplay-resolving-dragons-dogma-2-pc-malfunctions/"><u>How to Ensure Smooth Gameplay: Resolving Dragon's Dogma 2 PC Malfunctions</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-honor-magic-6-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Honor Magic 6 Phone that is Locked?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-stuttering-issues-in-sifu-on-pc-effective-solutions-inside/"><u>Overcome Stuttering Issues in Sifu on PC - Effective Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-in-counter-strike-2-tips-for-a-smoother-play/"><u>Overcoming Lag in Counter-Strike 2: Tips for a Smoother Play</u></a></li>
-<li><a href="https://network-issues.techidaily.com/quick-fix-for-flickering-win11-monitor/"><u>Quick Fix for Flickering Win11 Monitor</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-to-address-long-waiting-periods-launching-the-force-unleashed-battlefront-ii-on-pc/"><u>Quick Fixes to Address Long Waiting Periods Launching The Force Unleashed: Battlefront II on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-problem-of-non-detectable-gpu-with-msi-afterburner-in-windows-1110/"><u>Resolving the Problem of Non-Detectable GPU with MSI Afterburner in Windows 11/10</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-destiny-2-issues-a-guide-to-overcoming-the-centipede-glitch/"><u>Solve Your Destiny 2 Issues: A Guide to Overcoming the Centipede Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-overcoming-startup-glitches-in-far-cry-6-gameplay-on-windows-platform/"><u>Successfully Overcoming Startup Glitches in Far Cry 6 Gameplay on Windows Platform</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-enhance-your-listeners-experience-with-great-summaries/"><u>[New] 2024 Approved Enhance Your Listeners' Experience with Great Summaries</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-10-ultimate-editing-strategies-for-viral-tiktoks/"><u>[Updated] 2024 Approved 10 Ultimate Editing Strategies for Viral TikToks</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-invest-in-insta-success-the-top-earners-playbook/"><u>[Updated] 2024 Approved Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-key-strategies-utilizing-hashtags-in-youtube-gaming-content/"><u>[Updated] Key Strategies Utilizing Hashtags in YouTube Gaming Content</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-focused-frame-capture-leading-cams-for-slow-movement-recording/"><u>2024 Approved Focused Frame Capture Leading Cams for Slow Movement Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-freezes-forever-learn-how-pathfinder-for-pc-has-been-optimized-and-enhanced/"><u>Banish Freezes Forever! Learn How Pathfinder for PC Has Been Optimized and Enhanced</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-lost-arks-playability-overcoming-fps-fluctuations-and-latency-problems/"><u>Enhancing Lost Ark's Playability: Overcoming FPS Fluctuations & Latency Problems</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722967737808-ensure-optimal-performance-with-the-latest-canon-pixma-ts3322-drivers-download-now/"><u>Ensure Optimal Performance with the Latest Canon PIXMA TS3322 Drivers – Download Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-last-epoch-not-launching-on-pc-expert-tips-and-fixes-for-gamers/"><u>Getting Past 'Last Epoch Not Launching on PC' - Expert Tips and Fixes for Gamers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/getting-your-windows-10-devices-paired-with-bluetooth-problem-free-strategies-uncovered/"><u>Getting Your Windows 10 Devices Paired with Bluetooth: Problem-Free Strategies Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/itunes-audio-problem-solved-configuration-troubleshooting-tips/"><u>ITunes Audio Problem Solved - Configuration Troubleshooting Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-constant-steam-app-crashes-swift-strategies-to-stabilize-your-gaming-experience/"><u>Overcome Constant Steam App Crashes: Swift Strategies to Stabilize Your Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-interruptions-successful-fixes-to-stop-valheim-from-closing-on-pc/"><u>Overcoming Game Interruptions: Successful Fixes to Stop Valheim From Closing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-issues-with-final-fantasy-xivs-latest-version-syncing/"><u>Resolve Issues with Final Fantasy XIV's Latest Version Syncing</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/secure-your-canon-mg280-driver-downloads-compatible-with-windows-7-8-and-10-systems/"><u>Secure Your Canon MG280 Driver Downloads: Compatible with Windows 7, 8 & 10 Systems!</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782735-9781594778780-tendon-nei-kung/"><u>Tendon Nei Kung | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-common-culprits-behind-insurgency-sandstorm-game-crashes-elucidated-and-solved/"><u>The Common Culprits Behind Insurgency: Sandstorm Game Crashes Elucidated and Solved</u></a></li>
 </ul></div>
 

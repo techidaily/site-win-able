@@ -1,7 +1,7 @@
 ---
 title: Enable and Master Hyper-V on Windows 11 – An In-Depth Guide
-date: 2024-11-11T01:14:34.470Z
-updated: 2024-11-16T19:07:38.239Z
+date: 2024-11-26T00:06:13.018Z
+updated: 2024-11-26T18:44:52.344Z
 tags:
   - win11
   - win10
@@ -57,10 +57,7 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Check Roblox settings
@@ -84,24 +81,18 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-settings.png)
 2. Under**Output** , make sure you choose your speaker or the device you wish to use. You can double-check by clicking**App volume and device preferences** and setting the output device and volume for Roblox.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your audio driver
@@ -118,19 +109,24 @@ If the problem persists, move on to the next solution.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-24-02.jpg)
 3. Click the **Update**  button next to the flagged audio driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_12-23-23.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Run Roblox to see if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Configure the audio channel of your speaker
 
@@ -144,24 +140,14 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If configuring the audio channel on your PC doesn’t bring the sound back in Roblox, try the next fix.
 
@@ -174,28 +160,18 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
@@ -209,9 +185,17 @@ If the problem persists, move on to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
 If the problem persists, try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Reinstall Roblox
 
@@ -257,24 +241,24 @@ If the problem persists, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-top-5-ps1-games-emulators-resurrecting-console-legends-on-pc/"><u>[New] In 2024, Top 5 PS1 Games Emulators - Resurrecting Console Legends on PC</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/op-10-guides-for-crafting-stellar-music-reactions-on-youtube/"><u>[New] Top 10 Guides for Crafting Stellar Music Reactions on YouTube</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-unlocking-the-power-of-voice-transcription-in-whatsapp-recording/"><u>[New] Unlocking the Power of Voice Transcription in WhatsApp Recording</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-from-good-to-great-videos-the-20-essential-shortcuts-for-success/"><u>[Updated] From Good to Great Videos The 20 Essential Shortcuts for Success</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-youtubes-finest-ranked-by-skyrocketing-subscriber-numbers/"><u>[Updated] In 2024, YouTube's Finest Ranked by Skyrocketing Subscriber Numbers</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-stuck-on-compilers-challenge-mastering-shader-troubleshooting-for-bocw-gameplay/"><u>Beat 'Stuck on Compilers' Challenge - Mastering Shader Troubleshooting for BOCW Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-the-delay-insights-into-wolcen-lords-of-mayhem-release-setback/"><u>Decoding the Delay - Insights Into Wolcen: Lords of Mayhem Release Setback</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/essential-guide-top-4-methods-of-governing-artificial-intelligence/"><u>Essential Guide: Top 4 Methods of Governing Artificial Intelligence</u></a></li>
-<li><a href="https://win-best.techidaily.com/guide-setting-up-an-application-password-to-get-email-notifications-from-aomei-backupper/"><u>Guide: Setting Up an Application Password to Get Email Notifications From AOMEI Backupper</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/maximizing-multi-display-with-ms-edges-pip-for-2024/"><u>Maximizing Multi-Display with MS Edge's PIP for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-warframes-persistent-freezing-a-comprehensive-guide/"><u>Overcoming Warframe's Persistent Freezing: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/d-screen-and-upload-to-youtube-pc-mac-online-for-2024/"><u>Record Screen and Upload to YouTube [PC, Mac, Online] for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/risk-of-rain-crash-dilemma-heres-how-you-can-repair-it/"><u>Risk of Rain ² Crash Dilemma? Here's How You Can Repair It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-game-crashes-solving-final-fantasy-xvs-pc-instability-woes/"><u>Say Goodbye to Game Crashes: Solving Final Fantasy XV's PC Instability Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-fixing-error-code-0x803f8001-on-minecraft-launcher-for-windows-11-and-10/"><u>Solving the Mystery: Fixing Error Code 0X803F8001 on Minecraft Launcher for Windows 11 & 10</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/survive-the-horde-in-depth-review-of-zombie-haven-7-days-to-die/"><u>Survive The Horde: In-Depth Review of Zombie Haven - 7 Days to Die</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-freezing-in-sony-vegas-pro-solutions-inside/"><u>Troubleshooting Continuous Freezing in Sony Vegas Pro - Solutions Inside!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-team-fortress-2-game-crashes/"><u>Troubleshooting Steps for Persistent Team Fortress 2 Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-activating-and-setting-up-hyper-v-virtualization-in-windows-10/"><u>Ultimate Guide: Activating & Setting Up Hyper-V Virtualization in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-how-to-reconnect-to-destiny-2-server-issues/"><u>[FIXED] How to Reconnect to Destiny 2 Server Issues</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-cutting-down-video-lengths-the-ultimate-mac-guide-for-insta-for-2024/"><u>[New] Cutting Down Video Lengths The Ultimate Mac Guide for Insta for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-gadget-games-galore-quickest-quality-flash-titles/"><u>[New] In 2024, Gadget Games Galore Quickest Quality Flash Titles</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-harnessing-the-power-of-yis-4k-video-and-motion-controls/"><u>[Updated] In 2024, Harnessing the Power of Yi's 4K Video and Motion Controls</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-bio-linking-on-tiktok/"><u>2024 Approved Advanced Techniques for Bio Linking on TikTok</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-common-youtube-short-obstacles/"><u>Combat Common YouTube Short Obstacles</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-civilization-6-game-crashes-on-windows-10-devices/"><u>How to Fix Civilization 6 Game Crashes on Windows 10 Devices?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-install-minecraft-on-your-pc-running-windows-ninja-tech-supportwindows-11/"><u>How to Successfully Install Minecraft on Your PC Running Windows Ninja-Tech-Support/Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Nokia C12? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-locked-honor-magic-vs-2-phone-by-drfone-android/"><u>In 2024, How to Reset a Locked Honor Magic Vs 2 Phone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/light-up-dark-screens-on-lenovo-notebooks/"><u>Light Up Dark Screens on Lenovo Notebooks</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-fixes-and-solutions-for-the-continuously-crashing-new-world-game/"><u>PC Users: Fixes & Solutions for the Continuously Crashing 'New World' Game</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-motorola-moto-g73-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Motorola Moto G73 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steam-ui-dll-missing-fixes-for-failed-to-load-steamuidll-critical-steam-error/"><u>Resolved: Steam UI DLL Missing - Fixes for 'Failed to Load steamui.dll' Critical Steam Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-when-your-thaumaturge-app-doesnt-start-on-windows/"><u>Resolving Issues When Your Thaumaturge App Doesn't Start on Windows</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionary-ai-tools-transforming-online-information-hunts/"><u>Revolutionary AI Tools Transforming Online Information Hunts</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-solutions-to-overcome-excessive-cpu-use-in-baldurs-gate-3/"><u>Top 6 Solutions to Overcome Excessive CPU Use in Baldur's Gate 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-iphone-recognition-problems-with-windows-10-and-itunes/"><u>Troubleshooting Guide: Solving iPhone Recognition Problems with Windows 10 and iTunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-continuous-nox-player-freezes-and-closures/"><u>Troubleshooting Steps for Continuous Nox Player Freezes and Closures</u></a></li>
 </ul></div>
 

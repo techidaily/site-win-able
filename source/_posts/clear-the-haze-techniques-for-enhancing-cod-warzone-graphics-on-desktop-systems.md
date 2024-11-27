@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-11-12T11:02:02.320Z
-updated: 2024-11-16T16:23:03.243Z
+date: 2024-11-19T16:22:55.232Z
+updated: 2024-11-26T20:05:36.748Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 6. **[Check for Windows update](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Meet the minimum system requirements
 
  The minimum system specifications to play_DOOM_ need to be met to run the game. Here are the system requirements to play_DOOM_ :
@@ -53,6 +57,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
  If your computer didn’t meet the**MINIMUM** requirements, the only solution would be an upgrade to your computer’s hardware.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -80,6 +88,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -110,6 +122,10 @@ If your problem persists, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_14-42-46-1.jpg)
@@ -117,13 +133,6 @@ If your problem persists, then go ahead with the next fix below.
 **5)** Wait for this process to be complete, and then relaunch DOOM.
 
 If this didn’t work, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
 
@@ -137,16 +146,13 @@ If this didn’t work, try the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Relaunch the game to see if this worked.
 
 If not, move on and try the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Increase virtual memory
 
@@ -159,10 +165,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
@@ -174,10 +177,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Advanced**  tab, and then click **Change** .
@@ -192,6 +192,10 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
@@ -199,18 +203,15 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 **9)**  Restart your computer and your game.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -224,13 +225,6 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
@@ -243,23 +237,9 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
@@ -294,19 +274,19 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-help.techidaily.com/new-natural-vs-artificial-balancing-your-sets-illumination/"><u>[New] Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-line-up-top-5-slow-motion-models/"><u>[Updated] Premium Line-Up Top 5 Slow Motion Models</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/achieving-flawless-hues-in-gopro-videos/"><u>Achieving Flawless Hues in GoPro Videos</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/complete-overview-the-ultimate-video-editors-review-for-vivocut/"><u>Complete Overview The Ultimate Video Editor's Review for VivoCut</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/creating-your-own-tailored-gpt-3-powered-chatbot-on-windows-a-comprehensive-guide/"><u>Creating Your Own Tailored GPT-3 Powered Chatbot on Windows - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensure-uninterrupted-adventures-your-guide-to-solving-path-of-exile-connection-errors/"><u>Ensure Uninterrupted Adventures : Your Guide to Solving Path of Exile Connection Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-resolving-manor-lords-pc-instability-and-ensuring-smooth-sailing-in-the-game/"><u>Expert Advice: Resolving 'Manor Lords' PC Instability and Ensuring Smooth Sailing in the Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-fallout-eblack-screen-dilemma-troubleshooting-steps-and-tips/"><u>Fixing Fallout Eblack Screen Dilemma - Troubleshooting Steps & Tips!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-your-alienware-command-center-up-and-running-again/"><u>How to Get Your Alienware Command Center Up and Running Again?</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-navigating-online-content-the-merits-of-youtubes-ad-free-alternative/"><u>In 2024, Navigating Online Content The Merits of YouTube's Ad-Free Alternative</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-fixes-for-when-fortnite-wont-load-easy-strategies-inside/"><u>Instant Fixes for When Fortnite Won’t Load - Easy Strategies Inside!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-overcome-delayed-key-responses-in-windows-11-systems/"><u>Resolved: How to Overcome Delayed Key Responses in Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/this-title-promises-immediate-assistance-top-fixes-and-suggests-current-solutions-relevant-to-the-year-202ebxg-addressing-a-common-issue-players-may-face/"><u>This Title Promises Immediate Assistance (Top Fixes) and Suggests Current Solutions Relevant to the Year 202Ebxg, Addressing a Common Issue Players May Face.</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726224285298-swf-mp3-movavi/"><u>무료 SWF 변환 서비스를 사용한 MP3 추가: Movavi의 도움</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-past-facebook-feed-exploration-for-laptops-and-phones-for-2024/"><u>[New] Mastering Past Facebook Feed Exploration for Laptops and Phones for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-solutions-to-decipher-muted-facebook-videos-for-2024/"><u>[Updated] Solutions to Decipher Muted Facebook Videos for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-visual-techniques-for-impressive-after-effects-titles/"><u>Advanced Visual Techniques for Impressive After Effects Titles</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-software-to-fix-and-repair-corrupt-mp4movavi-video-files-of-smart-8-by-stellar-video-repair-mobile-video-repair/"><u>Best software to Fix and Repair Corrupt MP4,MOV,AVI video files of Smart 8</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-selection-of-oled-laptops-expertly-tested-and-reviewed-insights-zdnet/"><u>Elite Selection of OLED Laptops : Expertly Tested and Reviewed Insights | ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-origin-running-again-on-your-windows-nk-problem-solved/"><u>How to Get Origin Running Again on Your Windows Nk: Problem Solved!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-creative-entrepreneurs-handbook-in-design/"><u>In 2024, The Creative Entrepreneur's Handbook in Design</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007586333-league-of-legends-stable-connection-guide-a-comprehensive-fix/"><u>League of Legends Stable Connection Guide – A Comprehensive FIX</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987938488-mastering-optimal-performance-in-csgo-end-the-battle-with-frame-rate-hiccups-today/"><u>Mastering Optimal Performance in CS:GO - End the Battle with Frame Rate Hiccups Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-cod-vanguard-error-0x00001338-on-pc-step-by-step-guide/"><u>Resolved: How to Fix CoD Vanguard Error 0X00001338 on PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionary-5-ai-apps-transforming-emotional-care/"><u>Revolutionary 5 AI Apps Transforming Emotional Care</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-apple-iphone-14-pro-and-android-phones-by-drfone-ios/"><u>Top IMEI Unlokers for Apple iPhone 14 Pro and Android Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-the-msi-afterburner-overlay/"><u>Troubleshooting Tips: Resolving Issues with the MSI Afterburner Overlay</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unmasking-impostor-gpts-with-strategic-acknowledgments/"><u>Unmasking Impostor GPTs with Strategic Acknowledgments</u></a></li>
 </ul></div>
 

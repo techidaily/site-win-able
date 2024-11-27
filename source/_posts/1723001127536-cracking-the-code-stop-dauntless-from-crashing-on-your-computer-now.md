@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2024-11-04T18:22:29.393Z
-updated: 2024-11-06T22:51:25.832Z
+date: 2024-11-20T19:47:16.536Z
+updated: 2024-11-26T22:54:24.945Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -53,10 +57,7 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
@@ -68,6 +69,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch your game to test the issue.
 
@@ -89,17 +94,14 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -109,13 +111,6 @@ This could take several minutes. Wait for the process to be complete.
 ## Fix 4 – Stop overclocking
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
 
@@ -134,10 +129,7 @@ This could take several minutes. Wait for the process to be complete.
 Your game still won’t work correctly? Read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6 – Lower your graphics settings
@@ -153,10 +145,7 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -198,17 +187,22 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-entertainment-with-wins11-apps-and-games/"><u>[Updated] 2024 Approved Cutting-Edge Entertainment with Wins11 Apps & Games</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-tide-gear-surfing-camera-innovations-of-2023/"><u>[Updated] High Tide Gear Surfing Camera Innovations of 2023</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-navigating-the-download-of-fb-storied-videos/"><u>[Updated] Navigating the Download of FB Storied Videos</u></a></li>
-<li><a href="https://win-online.techidaily.com/como-convertir-archivos-nsv-a-graficos-en-la-web-de-manera-gratuita-usando-movavis-herramienta-simple-y-eficaz/"><u>Cómo Convertir Archivos NSV a Gráficos en La Web De Manera Gratuita Usando Movavi's Herramienta Simple Y Eficaz</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-x100-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo X100 Location Settings | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-6-fix-how-to-resolve-black-screen-errors/"><u>Far Cry 6 Fix: How To Resolve Black Screen Errors</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-catch-the-regional-pokemon-without-traveling-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>How Can I Catch the Regional Pokémon without Traveling On Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Nokia 105 Classic | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-when-minecraft-wont-start-up-correctly/"><u>Quick Solutions: When Minecraft Won't Start Up Correctly</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-your-clownfish-voice-modulator-troubleshooting-guide/"><u>Resolving Issues with Your Clownfish Voice Modulator: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-load-errors-in-red-dead-redemption-2-gaming-experience/"><u>Troubleshooting Steps for Resolving Load Errors in Red Dead Redemption 2 Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-witcher-3-gameplay-interruptions-on-windows-a-comprehensive-guide/"><u>Troubleshooting The Witcher 3 Gameplay Interruptions on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-choosing-a-font-for-impactful-youtube-credits/"><u>[New] In 2024, Choosing a Font for Impactful YouTube Credits</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-nurturing-discussions-strategies-to-connect-with-followers/"><u>[New] Nurturing Discussions Strategies to Connect With Followers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-ringtones-leading-download-pages/"><u>[New] Perfect Ringtones Leading Download Pages</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-how-to-create-a-sports-youtube-channel-on-mac-for-2024/"><u>[Updated] How to Create a Sports YouTube Channel on Mac for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-podcast-spotlight-listen-and-like-instantly/"><u>[Updated] Podcast Spotlight Listen and Like Instantly</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-preventing-shake-in-cellphone-recorded-movies/"><u>[Updated] Preventing Shake in Cellphone-Recorded Movies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-reveling-in-creativity-the-best-of-filmoras-edits/"><u>2024 Approved Reveling in Creativity The Best of Filmora's Edits</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-essential-troubleshooting-tips-to-resolve-dreamlight-valley-crashes-on-windows/"><u>6 Essential Troubleshooting Tips to Resolve Dreamlight Valley Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/debugging-woes-heres-how-to-keep-halo-infinite-running-without-interruptions-on-pc/"><u>Debugging Woes? Here's How to Keep Halo Infinite Running Without Interruptions on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994188556-expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved!</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-s18-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-play-experience-with-immortals-fenyx-rising-crash-fixes/"><u>How To Stabilize Your Play Experience with Immortals: Fenyx Rising Crash Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-unexpectedly-crashing-on-windows-10/"><u>How to Stop Microsoft Edge From Unexpectedly Crashing on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-how-to-address-significant-dips-in-frames-per-second-fps/"><u>Improving Performance: How to Address Significant Dips in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-medias-role-in-expressing-discontent/"><u>Social Media's Role in Expressing Discontent</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-expert-advice-on-improving-download-velocity-this-year/"><u>Speeding Up Origin: Expert Advice on Improving Download Velocity This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-witcher-3-on-pc-how-to-fix-and-prevent-game-crashes/"><u>The Witcher 3 on PC: How to Fix and Prevent Game Crashes</u></a></li>
 </ul></div>
 

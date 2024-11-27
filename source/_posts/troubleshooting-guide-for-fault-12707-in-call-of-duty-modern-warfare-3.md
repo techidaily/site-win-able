@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Fault #12707 in Call of Duty Modern Warfare 3
-date: 2024-10-24T07:02:53.507Z
-updated: 2024-10-26T07:13:00.503Z
+date: 2024-11-24T17:55:18.028Z
+updated: 2024-11-26T16:34:59.330Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Hell Let Loose
 
  If you have a powerful PC but still run into the HLL crashing issues, read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -63,30 +67,13 @@ Hell Let Loose
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server. It may take some time to complete the verifying process.  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch the game after the verifying process completed and see if HLL crashes again. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -112,10 +99,7 @@ Hell Let Loose
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -131,6 +115,10 @@ Hell Let Loose
 
  Run Hell Let Loose again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  Although Overlays are handy, sometimes they may interfere with the game. According to some PC players, it seems that the Steam Overlay doesn’t pair well with HLL. Try disabling Steam Overlay for HLL and see if the game crashes again. Here is how to do it:
@@ -142,16 +130,7 @@ Hell Let Loose
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983446">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -183,23 +162,17 @@ Hell Let Loose
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
-  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
  Restart Windows OS and launch tha game to check if HLL crashes again. If HLL doesn't crash, you need to open the**System Configuration** window again to enable services and applications **one by one** until you find the problematic software that crashes HLL.
 
@@ -235,18 +208,24 @@ Hell Let Loose
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xpert-advice-to-recover-missing-thumbnails-from-videos/"><u>[New] Expert Advice to Recover Missing Thumbnails From Videos</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-the-art-of-audio-in-a-virtual-world-your-ultimate-zoom-recording-tutorial/"><u>[New] The Art of Audio in a Virtual World Your Ultimate Zoom Recording Tutorial</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-the-comprehensive-approach-to-linking-your-tiktok-profile/"><u>[Updated] 2024 Approved The Comprehensive Approach to Linking Your TikTok Profile</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-alternative-recreation-in-the-firstrow-rankings/"><u>[Updated] Alternative Recreation in the Firstrow Rankings</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-issues-with-fall-guys-not-starting-properly-crashing-instantly/"><u>Diagnosing & Repairing Issues With Fall Guys Not Starting Properly / Crashing Instantly</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-gaming-fallout-counterparts-await/"><u>Dive Into Gaming: Fallout Counterparts Await!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-a-stable-minecraft-experience-avoid-crashes-with-simple-solutions/"><u>Expert Tips for a Stable Minecraft Experience: Avoid Crashes with Simple Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-rainbow-six-extraction-unwanted-restarts-and-crashes-on-windows/"><u>Fixes for Rainbow Six Extraction Unwanted Restarts and Crashes on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-hogwarts-legacys-initial-crash-issues-with-these-8-fixes/"><u>Resolve Hogwarts Legacy's Initial Crash Issues with These 8 Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-to-stop-valheim-from-frequent-crashes-on-your-computer/"><u>Troubleshooting Guide to Stop Valheim From Frequent Crashes on Your Computer</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-troubleshooting-guide-overcoming-the-ntdlldll-blue-screen-of-death-in-windows-1110/"><u>Ultimate Troubleshooting Guide: Overcoming the ntdll.dll Blue Screen of Death in Windows 11/10</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlocking-performance-secrets-a-deep-dive-by-toms-hardware-team/"><u>Unlocking Performance Secrets - A Deep Dive by Tom's Hardware Team</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004566932-why-is-assassins-creed-valhalla-still-unavailable-comprehensive-fixes-inside/"><u>Why Is Assassin's Creed Valhalla Still Unavailable? Comprehensive Fixes Inside!</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-film-substitutes-to-stream-top-7-picks/"><u>[New] Film Substitutes to Stream - Top 7 Picks</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-break-free-from-periscope-unique-mobile-video-apps-for-smartphones/"><u>[New] In 2024, Break Free From Periscope Unique Mobile Video Apps for Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ghostrunner-fatal-error-on-windows-10/"><u>[Solved] Ghostrunner Fatal Error on Windows 10</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-m1-max-clips/"><u>[Updated] 2024 Approved Unveiling the Secrets of M1 Max Clips</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-pro-tips-for-effortless-youtube-content-export-through-gmail-id/"><u>2024 Approved Pro-Tips for Effortless YouTube Content Export Through Gmail ID</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-league-of-legends-connectivity-glitch-patched-understanding-the-resolution/"><u>2024 League of Legends Connectivity Glitch Patched: Understanding the Resolution</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-artist-copyright-issues-and-responsibilities/"><u>AI Artist: Copyright Issues & Responsibilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010534074-how-i-fixed-the-issue-of-chromes-high-cpu-usage-for-good/"><u>How I Fixed the Issue of Chrome's High CPU Usage for Good</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-vivo-y100-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Vivo Y100 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-motorola-moto-e13-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Motorola Moto E13</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-infinix-smart-7-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Infinix Smart 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-hiccups-origin-user-account-access-is-live-and-working/"><u>No More Hiccups: Origin User Account Access Is Live and Working!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-launching-difficulties-mastering-multiversus-startup-for-pc-users/"><u>Overcome Launching Difficulties: Mastering MultiVersus Startup for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-frequent-pc-shutdowns-while-playing-overwatch-2/"><u>Overcoming Frequent PC Shutdowns While Playing Overwatch 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-load-screen-errors-in-among-us-for-uninterrupted-fun/"><u>Resolving Persistent Load Screen Errors in Among Us for Uninterrupted Fun</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-update-fixes-previous-freezing-and-crash-problems-for-pc-gamers/"><u>Starfield Update Fixes Previous Freezing & Crash Problems for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-arma-3-disruptions-comprehensive-troubleshooting-tips-for-the-latest-updates/"><u>Stop Arma 3 Disruptions: Comprehensive Troubleshooting Tips for the Latest Updates</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-cat-s42-phone-reviewed-sturdy-armor-yet-lagging-speed-dynamics/"><u>The Cat S4^2 Phone Reviewed: Sturdy Armor, Yet Lagging Speed Dynamics</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/trailblazers-8-youtubes-leading-growth-champions/"><u>Trailblazers 8 YouTube's Leading Growth Champions</u></a></li>
 </ul></div>
 

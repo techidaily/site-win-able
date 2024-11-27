@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-11-11T21:51:29.476Z
-updated: 2024-11-17T01:51:09.636Z
+date: 2024-11-23T21:24:40.410Z
+updated: 2024-11-26T23:52:52.960Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 3. [**Scan and repair Windows**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure you’re using the latest drivers
 
  The message is self-explanatory: **you need to check if you’re using the latest graphics driver** . The latest video driver gives your GPU a performance boost. But unlike system updates, most of the time you need to take care of driver updates yourself.
@@ -46,21 +50,22 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and check if Minecraft is running fine.
 
 If the update message pops up again, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
 
@@ -77,10 +82,7 @@ You can use the following steps to check for Minecraft updates.
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
@@ -90,13 +92,6 @@ You can use the following steps to check for Minecraft updates.
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959764/19272" target="_top" id="1959764">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959764" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959764/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
 
@@ -123,6 +118,10 @@ If you’re still seeing the message, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -141,43 +140,18 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
 <!-- affiliate ads begin -->
-<span id="2127886">
-					<video width="576" height="1024" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
@@ -208,20 +182,20 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-dynamic-distortion-for-images-and-videos/"><u>[New] Dynamic Distortion for Images & Videos</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unlocking-vimeo-content-step-by-step-free-and-licensed-tools-guide/"><u>[New] In 2024, Unlocking Vimeo Content Step-by-Step Free & Licensed Tools Guide</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-innovative-ai-pixel-perfect-editor/"><u>[Updated] Innovative AI Pixel Perfect Editor</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-photo-viewer-revival-techniques-for-enhanced-windows-11-experience/"><u>[Updated] Photo Viewer Revival Techniques for Enhanced Windows 11 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-playtime-resolve-puzzling-stuttering-moments-steady-frame-drops-and-unpredictable-lags-in-gaming/"><u>Boost Your Playtime: Resolve Puzzling Stuttering Moments, Steady Frame Drops & Unpredictable Lags in Gaming</u></a></li>
-<li><a href="https://facebook.techidaily.com/complete-blockade-of-all-fb-push-notifications/"><u>Complete Blockade of All Fb Push Notifications</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquered-the-challenge-fixing-and-moving-past-your-computer-cannot-connect-to-local-steam-client/"><u>Conquered the Challenge: Fixing and Moving Past 'Your Computer Cannot Connect to Local Steam Client'</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/enabling-mobile-internet-sharing-on-your-iphone-for-wireless-connectivity/"><u>Enabling Mobile Internet Sharing on Your iPhone for Wireless Connectivity</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-woes-heres-how-you-can-fix-it-and-join-calls-seamlessly/"><u>Google Meet Camera Woes? Here's How You Can Fix It and Join Calls Seamlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/pacific-islanders-flying-problem-in-call-of-duty-warzone-now-fixed/"><u>Pacific Islanders' Flying Problem in Call of Duty: Warzone Now Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/setting-the-record-straight-diablo-immortal-will-be-released-on-windows-and-mac-os-systems/"><u>Setting the Record Straight: Diablo Immortal Will Be Released on Windows & Mac OS Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-app-crash-fixing-steamuidll-not-found-critical-failure/"><u>Steam App Crash: Fixing 'steamui.dll Not Found' Critical Failure</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-the-0x800705b4-failure-during-windows-11-updates/"><u>Troubleshooting and Resolving the 0X800705B4 Failure During Windows 11 Updates</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-pc-issues-with-rainbow-six-extraction/"><u>Troubleshooting Guide: Resolving PC Issues with Rainbow Six Extraction</u></a></li>
-<li><a href="https://facebook.techidaily.com/what-is-mastodon-really/"><u>What Is Mastodon Really?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-prioritize-savings-with-the-best-6-affordable-camera-brands/"><u>[Updated] In 2024, Prioritize Savings with the Best 6 Affordable Camera Brands</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-the-pros-approach-to-documenting-overwatch-battles/"><u>[Updated] The Pro's Approach to Documenting Overwatch Battles</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-insightful-comparisons-top-android-applications-for-youtube-download/"><u>2024 Approved Insightful Comparisons Top Android Applications for YouTube Download</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-streamline-watching-facebook-videos-on-your-apple-tv-device/"><u>2024 Approved Streamline Watching Facebook Videos on Your Apple TV Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-latency-effective-fixes-for-a-smoother-dota-2-experience/"><u>Beat the Latency: Effective Fixes for a Smoother Dota 2 Experience</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/discover-the-power-of-vue-argon-a-comprehensive-zero-cost-ui-framework-merging-vuejs-with-bootstrap/"><u>Discover the Power of Vue Argon: A Comprehensive, Zero-Cost UI Framework Merging Vue.js with Bootstrap</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dissecting-ai-insights-into-advantages-threats/"><u>Dissecting AI: Insights Into Advantages, Threats</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-s23-fe-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy S23 FE Device SIM</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-players-experiencing-entry-point-not-found-glitch-on-fortnite/"><u>Easy Solutions for Players Experiencing 'Entry Point Not Found' Glitch on Fortnite</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-the-recurring-crashes-of-ascent-in-pc-version-solved/"><u>Guide to Fixing the Recurring Crashes of Ascent in PC Version - Solved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-mastering-film-making-top-video-cameras/"><u>In 2024, Mastering Film Making Top Video Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987560496-r-type-final-2-pc-version-stability-issues-resolved-no-more-sudden-game-crashes/"><u>R-Type Final 2 PC Version Stability Issues Resolved: No More Sudden Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-restoring-stability-in-tribes-of-midgard-after-a-sudden-breakdown/"><u>Step-by-Step Solution: Restoring Stability in 'Tribes of Midgard' After a Sudden Breakdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-the-blue-screen-of-death-in-helldivers-2/"><u>Troubleshooting Tips for Fixing The Blue Screen of Death in Helldivers 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-cycle-of-existence-the-black-continuums-resilience/"><u>Unraveling the Cycle of Existence: The Black Continuum's Resilience</u></a></li>
 </ul></div>
 

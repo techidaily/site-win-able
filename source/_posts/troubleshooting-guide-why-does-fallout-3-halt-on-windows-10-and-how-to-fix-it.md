@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Does Fallout 3 Halt on Windows 10 and How to Fix It?"
-date: 2024-10-19T16:29:29.933Z
-updated: 2024-10-26T09:36:00.700Z
+date: 2024-11-20T23:05:19.135Z
+updated: 2024-11-26T20:44:57.858Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -42,27 +46,21 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -74,27 +72,25 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -110,13 +106,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
@@ -124,13 +113,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Update your graphics card drivers
 
@@ -195,16 +177,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-the-verified-journey-on-social-media-accelerate-followers-with-these-six-tips-for-2024/"><u>[New] The Verified Journey on Social Media Accelerate Followers with These Six Tips for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-closer-conversations-mastering-in-camera-precision-for-2024/"><u>[Updated] Closer Conversations Mastering In-Camera Precision for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-pro-digital-cameras-for-smooth-twitch-broadcasts-for-2024/"><u>[Updated] Top 5 Pro Digital Cameras for Smooth Twitch Broadcasts for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722982461729-back-4-blood-performance-boosted-say-no-more-pc-freezes-and-errors/"><u>Back 4 Blood Performance Boosted - Say No More PC Freezes and Errors!</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypass-the-breakdown-expert-tips-for-running-slime-rancher-2-smoothly-on-desktop/"><u>Bypass the Breakdown: Expert Tips for Running Slime Rancher 2 Smoothly on Desktop</u></a></li>
-<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-12-pro-max-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 12 Pro Max without the Previous Owner?</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-for-continuous-steam-app-malfunctions/"><u>Easy Solutions for Continuous Steam App Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-steps-for-correcting-the-player-login-glitch-in-csgo-gameplay/"><u>Essential Steps for Correcting the Player Login Glitch in CSGO Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-crashes-in-your-nvidia-control-panel-for-smooth-graphics-performance/"><u>Fixing Crashes in Your NVIDIA Control Panel for Smooth Graphics Performance</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-masterpiece-dialogues-across-8-film-genres/"><u>In 2024, Masterpiece Dialogues Across 8 Film Genres</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-g54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola G54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-of-the-titans-fixing-character-overlaps-in-popular-comic-book-games-on-pc/"><u>Battle of the Titans: Fixing Character Overlaps in Popular Comic Book Games on PC</u></a></li>
+<li><a href="https://win-special.techidaily.com/crear-varias-copias-de-seguridad-en-windows-10-un-guia-paso-a-paso/"><u>Crear Varias Copias De Seguridad en Windows 10: Un Guía Paso a Paso</u></a></li>
+<li><a href="https://techidaily.com/how-to-exit-dfu-mode-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit DFU Mode on Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-honor-x9b-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Honor X9b | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-poco-x5-pro-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Poco X5 Pro Phone FRP Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-hogwarts-legacy-playtime-hiccups-with-these-6-fixes/"><u>Overcome Hogwarts Legacy Playtime Hiccups with These 6 Fixes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-easy-lexmark-printer-software-update/"><u>Quick and Easy Lexmark Printer Software Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-stop-fallout-3-game-crashes-on-windows-11-computers/"><u>Solutions to Stop Fallout 3 Game Crashes on Windows 11 Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-acrocefexe-programming-faults-and-issues/"><u>Solving the acrocef.exe Programming Faults and Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/by-step-to-youtube-fame-excellence-in-music-video-reactions-for-2024/"><u>Step-by-Step to YouTube Fame Excellence in Music Video Reactions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome Madden 22'S Perpetual Startup Issue with These Simple Steps
-date: 2024-11-12T20:08:16.032Z
-updated: 2024-11-17T07:15:00.271Z
+date: 2024-11-25T18:03:19.804Z
+updated: 2024-11-26T18:58:43.642Z
 tags:
   - win11
   - win10
@@ -80,6 +80,10 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
@@ -89,6 +93,10 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, relaunch_FM19_ to see if it works correctly. If your problem persists, move on to Fix 3, below.
 
@@ -120,13 +128,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 If your game still crashes, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Verify the integrity of your game files
 
  The_FM19_ may fail when a certain game file is damaged or missing. Try verifying the integrity of your game files to see if that’s the core issue. Here is how to do it:
@@ -148,6 +149,10 @@ If your game still crashes, then go ahead with the next fix below.
 **5)** Relaunch your game after the process is finished.
 
  You should now be able to launch your game and actually play! If not, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Delete the Preferences and Caches Folder**
 
@@ -184,6 +189,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-26.jpg)
@@ -195,6 +204,10 @@ If your game still crashes, then go ahead with the next fix below.
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
@@ -212,13 +225,6 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
@@ -231,29 +237,9 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
 
@@ -265,9 +251,17 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Type**control** , then press the**Enter** key on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
@@ -280,6 +274,10 @@ If you still have the problem, try running your game in Windowed mode.
 **5)** Restart your computer and your game.
 
 If your game is still unplayable, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall_FM19_ and Steam
 
@@ -296,23 +294,9 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Football Manager 2019** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-54-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Relaunch Steam, then download and install_Football Manager 2019_ .
 
@@ -328,6 +312,10 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
@@ -336,29 +324,19 @@ If the game still crashes, try reinstalling the game launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -389,20 +367,17 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-mir4-crashing-on-pc/"><u>[SOLVED] MIR4 Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024-legal-update-understanding-the-intricacies-of-civ-6-exception-access-errors/"><u>2024 Legal Update: Understanding the Intricacies of 'CIV-6 Exception Access' Errors</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-3-software-to-transfer-files-tofrom-your-motorola-moto-g14-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Best 3 Software to Transfer Files to/from Your Motorola Moto G14 via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/direct3d-problem-solved-now-gpus-work-at-maximum-speed/"><u>Direct3D Problem Solved: Now GPUs Work at Maximum Speed</u></a></li>
-<li><a href="https://win-able.techidaily.com/dota-2-troubleshooting-ultimate-guide-to-stop-game-crashes/"><u>Dota 2 Troubleshooting: Ultimate Guide to Stop Game Crashes</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/explore-oceans-anew-top-camcorders-for-divers-and-snorkelers-for-2024/"><u>Explore Oceans Anew - Top Camcorders for Divers & Snorkelers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-high-quality-gaming-experience-addressing-frame-rate-lag-in-the-division-2/"><u>Fix High-Quality Gaming Experience - Addressing Frame Rate Lag in The Division 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-fix-persistent-game-crashes-and-bugs-for-ghost-runner-on-windows-11-pcs/"><u>Guide to Fix Persistent Game Crashes and Bugs for Ghost Runner on Windows 11 PCs</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-asus-rog-phone-8-pro-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Asus ROG Phone 8 Pro? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-premier-mac-gif-capturer-pro/"><u>In 2024, Premier Mac GIF Capturer Pro</u></a></li>
-<li><a href="https://win-forum.techidaily.com/navigating-through-windows-11s-surprises-how-to-correct-unforeseen-outcomes/"><u>Navigating Through Windows 11'S Surprises: How to Correct Unforeseen Outcomes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/premiere-e-lecture-label-lever/"><u>Premiere E-Lecture Label Lever</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-crashing-optimizing-red-dead-redemption-2-for-seamless-pc-gaming/"><u>Say Goodbye to Crashing: Optimizing Red Dead Redemption 2 for Seamless PC Gaming</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/selecting-sacred-sounds-a-step-by-step-guide-for-2024/"><u>Selecting Sacred Sounds A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/wrc-10-fixes-play-the-fia-world-rally-championship-without-issues-on-your-computer/"><u>WRC 10 Fixes: Play the FIA World Rally Championship Without Issues on Your Computer</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/-essential-tools-for-your-youtube-to-avi-needs/"><u>[New] 8 Essential Tools for Your YouTube-to-AVI Needs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fostering-fun-with-metaverse-satirical-artifacts/"><u>[Updated] Fostering Fun with Metaverse Satirical Artifacts</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-tools-and-gear-for-crafting-vlogs-for-2024/"><u>[Updated] Tools & Gear for Crafting Vlogs for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-to-stop-fifa-21-game-crashes-on-pc-comprehensive-instructions-inside/"><u>Easy Fixes to Stop FIFA 21 Game Crashes on PC - Comprehensive Instructions Inside</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trim-videos-with-flair-in-windows-11-photo-apps/"><u>In 2024, Trim Videos with Flair in Windows 11 Photo Apps</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/most-listened-to-hits-on-spotify-for-2024/"><u>Most Listened to Hits on Spotify for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-resolving-city-skylines-2-crashes/"><u>PC Troubleshooting Tips: Resolving City Skylines 2 Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/spotlight-on-differences-how-snapchats-ai-stacks-up-against-bing-in-a-faceoff-on-skype-exploring-key-variances-1-8/"><u>Spotlight on Differences: How Snapchat's AI Stacks Up Against Bing in a Faceoff on Skype - Exploring Key Variances #1-#8</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-eliminate-pc-gaming-lags/"><u>Top Strategies to Eliminate PC Gaming Lags</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-free-gaming-resolving-continuous-crashes-in-darkest-dungeon-2-for-pc-players/"><u>Trouble-Free Gaming: Resolving Continuous Crashes in Darkest Dungeon 2 for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-persistent-minecraft-dungeon-crashes-on-pcs/"><u>Troubleshooting Tips for Fixing Persistent Minecraft Dungeon Crashes on PCs</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-deal-alert-snag-a-macbook-air-with-m1-chip-at-record-breaking-649-prices-find-out-how/"><u>Ultimate Deal Alert: Snag a MacBook Air with M1 Chip at Record-Breaking $649 Prices – Find Out How !</u></a></li>
 </ul></div>
 

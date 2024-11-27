@@ -1,7 +1,7 @@
 ---
 title: Dota 2 Continuous Crashes? Learn How to Fix Them Here!
-date: 2024-09-01T07:58:48.474Z
-updated: 2024-09-02T07:58:48.474Z
+date: 2024-11-23T21:15:41.322Z
+updated: 2024-11-26T19:03:07.620Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your device drivers
 
  This problem may occur if you are using the wrong or outdated device drivers. So you should update your drivers to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,6 +50,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -84,16 +92,17 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -106,9 +115,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -135,9 +141,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -149,15 +152,13 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -180,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +188,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-the-ultimate-picks-for-car-compatible-dvd-systems/"><u>[New] In 2024, The Ultimate Picks for Car-Compatible DVD Systems</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-route-to-record-your-favorite-streaming-content-hulu/"><u>[Updated] 2024 Approved The Ultimate Route to Record Your Favorite Streaming Content (Hulu)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-embrace-the-future-of-tv-engage-with-fb-live-via-roku/"><u>[Updated] Embrace the Future of TV Engage with FB Live via Roku</u></a></li>
+<li><a href="https://win-able.techidaily.com/did-you-brave-the-new-age-by-purchasing-samsungs-initially-unveiled-smartphone/"><u>Did You Brave the New Age by Purchasing Samsung's Initially Unveiled Smartphone?</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-ultimate-list-of-free-instagram-video-editors-across-pc-web-and-smartphone-platforms-ranked/"><u>Discover the Ultimate List of Free Instagram Video Editors Across PC, Web, and Smartphone Platforms - Ranked!</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-ultimate-showbox-replacements-expert-picks-on-top-notch-apps-to-watch-free/"><u>Discover the Ultimate ShowBox Replacements: Expert Picks on Top-Notch Apps to Watch FREE!</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvd-compatibility-with-ps4-easy-method-enables-universal-playback/"><u>DVD Compatibility with PS4: Easy Method Enables Universal Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvd-iso/"><u>DVD パッケージ用に ISO ファイルを最適化する方法：初心者向けガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-advice-on-fixing-a-504-error-from-the-server-side/"><u>Expert Advice on Fixing a 504 Error From the Server Side</u></a></li>
+<li><a href="https://techtrends.techidaily.com/free-online-avi-to-mp4-conversion-easy-steps-with-movavi/"><u>Free Online AVI to MP4 Conversion - Easy Steps with Movavi</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782657-9781620554531-secret-societies/"><u>Secret Societies | Free Book</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-zte-nubia-z60-ultra-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in ZTE Nubia Z60 Ultra for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-competitive-guide-to-use-slow-motion-in-after-effects/"><u>Updated 2024 Approved Competitive Guide To Use Slow Motion in After Effects</u></a></li>
+</ul></div>
 

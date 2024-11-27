@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fix for Persistent Dirt 5 PC Crashes - A Step-by-Step Solution
-date: 2024-09-01T07:57:54.775Z
-updated: 2024-09-02T07:57:54.775Z
+date: 2024-11-22T22:28:44.721Z
+updated: 2024-11-26T23:27:52.590Z
 tags:
   - win11
   - win10
@@ -45,13 +45,15 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 3. Go to[the latest supported Visual C++ downloads page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) to download the latest Visual C++ files.  
 ![download the latest Visual C++ files](https://images.drivereasy.com/wp-content/uploads/2021/09/download-the-latest-Visual-C-files.jpg)  
  _Note: Select “x64” if you’re running on a 64-bit Windows OS._
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Once downloaded, double-click the .exe file to install the latest version of Visual C++ files.
 
  See if Aliens: Fireteam Elite crashes after you install the latest DirectX files and Visual C++ files. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Aliens: Fireteam Elite keeps crashing on your PC, it indicates that you’re using a corrupted or outdated graphics driver. So you should update your drivers to see if it fixes the game crashing issues.
@@ -68,16 +70,17 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## 3\. Verify and repair the game files
 
  Corrupted game files would lead to game crashing issues. If it’s the case, follow the steps below to verify the game files in Steam:
@@ -86,14 +89,17 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 2. **Right-click** on **Aliens: Fireteam Elite** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process is completed, launch Aliens: Fireteam Elite and check if this fix works. If the game still crashes, try the next fix, below.
@@ -106,6 +112,10 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 
  Launch Aliens: Fireteam Elite again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable steam overlay
 
  Overlays are handy, but sometimes they may interfere with the game. Some PC gamers report that it seems that the Steam Overlay doesn’t pair well with the game.
@@ -115,9 +125,6 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Aliens: Fireteam Elite_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Nvidia GeForce Experience, Discord, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -135,8 +142,9 @@ _A screenshot of Aliens: Fireteam Elite from Steam_
 If this fix didn’t work, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Run the System File Checker
 
  You also need to check the system file if the game still crashes, because the corrupted system files would also crash the game.
@@ -149,12 +157,12 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![run system file checker](https://images.drivereasy.com/wp-content/uploads/2021/04/run-system-file-checker.jpg)
 3. Close the Command Prompt window after the process is complete.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the game and see if it crashes. If this fix doesn’t work, try the next one, below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## 8\. Stop overclocking
 
  Some players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -168,25 +176,26 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 **Restart** your PC and launch Aliens: Fireteam Elite to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each service, you need to restart your PC to apply the changes.
@@ -212,8 +221,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +228,22 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-do-you-transform-into-a-digital-entertainer-vtuber-in-2024/"><u>[New] How Do You Transform Into a Digital Entertainer (Vtuber), In 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-from-twitter-video-snippets-to-lively-animated-gifs/"><u>[Updated] 2024 Approved From Twitter Video Snippets to Lively Animated GIFs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-followers-to-fame-on-instagram-expert-advice-and-real-outcomes-for-2024/"><u>[Updated] From Followers to Fame on Instagram Expert Advice and Real Outcomes for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-retrace-mechanic-setup/"><u>2024 Approved Retrace Mechanic Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xr-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone XR when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-motorola-moto-g73-5g-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Motorola Moto G73 5G Through Google Earth?</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-optimizing-your-content-performance-premier-video-rank-tools/"><u>In 2024, Optimizing Your Content' Performance Premier Video Rank Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/lossless-dvd-copying-guide-how-to-duplicate-your-movies-in-windows-10/"><u>Lossless DVD Copying Guide: How to Duplicate Your Movies in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-accessing-exclusive-movies-discover-how-our-japanese-film-downloader-enhances-viewing-pleasure/"><u>Master the Art of Accessing Exclusive Movies: Discover How Our Japanese Film Downloader Enhances Viewing Pleasure</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-video-compression-the-ultimate-guide-to-slashing-file-sizes-with-vlc-tools/"><u>Mastering Video Compression: The Ultimate Guide to Slashing File Sizes with VLC Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-windows-11/"><u>MP4ビデオの切断方法 - Windows 11用ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4m2ts/"><u>MP4ファイルからM2TSへの変換手順を詳しく解説</u></a></li>
+<li><a href="https://win-answers.techidaily.com/stop-fortnite-from-stalling-your-gameplay-expert-tips-to-keep-it-running-smoothly/"><u>Stop Fortnite From Stalling Your Gameplay: Expert Tips to Keep It Running Smoothly</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/the-basics-of-canon-mov-video-format-a-guide-to-easy-file-handling-with-canon-cameras/"><u>The Basics of Canon MOV Video Format: A Guide to Easy File Handling with Canon Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/movwindowsmac/"><u>ビデオファイル(MOV形式)から静止画像を取り出せるプロの手法（Windows/Mac）</u></a></li>
+</ul></div>
 

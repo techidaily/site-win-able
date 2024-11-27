@@ -1,7 +1,7 @@
 ---
 title: Effective Techniques to Solve Rainbow Six Siege Disconnected From Server Issue
-date: 2024-09-01T07:58:27.317Z
-updated: 2024-09-02T07:58:27.317Z
+date: 2024-11-23T16:42:20.496Z
+updated: 2024-11-26T16:56:51.852Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ Nothing is worse than having a game that crashes every time you launch it. Recen
 
  If_CSGO_ is still not launching after the reboot, try Fix 2, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reset CSGO Config to default settings
 
  Incorrect in-game settings can also prevent the game from launching smoothly on your device. In some cases, you may run into game performance issues after altered in-game settings. If you’ve changed the setting, or you’re not sure if you’ve changed it by mistake, follow the instructions below to reset your game settings:
@@ -53,9 +50,6 @@ Nothing is worse than having a game that crashes every time you launch it. Recen
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/csgo-not-launching-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 **3)** Delete the**autoexec.cfg file** in the current directory.
 
  CSGO uses an autoexec.cfg file to ensure some commands or settings are always set. The file is automatically executed on startup.
@@ -95,11 +89,19 @@ If the problem still exists, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1009.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1023.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -110,15 +112,16 @@ If the problem still exists, try the next fix below.
 
  If you’re still experiencing the launching issue after confirming you have the latest driver, try the next solution below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Stop overclocking your CPU
 
  An unstable overclock will crash your game and the whole system. If you overclocked your GPU, that may be the core issue. Set your CPU clock speed rate back to the default to see if it fixes the issue.
 
 If the launching problem continues to occur, go to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of CSGO files
 
  If_CSGO_ still won’t launch, you may have one or more corrupted or outdated game files that are conflicting with the game. In this case, try verifying the integrity of your game files on Steam. Here is how to do it:
@@ -133,15 +136,16 @@ If the launching problem continues to occur, go to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-133.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete. Steam will fix corrupted files if it detects any.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-134.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Relaunch your game to test your issue.
 
 If the game still won’t launch, try the next fix below.
@@ -156,28 +160,14 @@ _CSGO_ may fail to access certain game files and folders if you’re running it 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-352-4.png)
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-353-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Launch _CSGO_ from Steam.
 
 If this didn’t work, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Windows updates
 
  If a game won’t run at all, it’s unlikely that the out-of-date Windows version is the core problem, but you should still rule out the possibility. Follow the instructions below:
@@ -186,12 +176,13 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer after the update is complete, then try running _CSGO_ again. If the issue persists, try the fix, below.
 
@@ -205,21 +196,22 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-355-604x79-1-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Counter-Strike: Global Offensive**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-136.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 **5)** Exit Steam.
 
 **6)** On your keyboard, press the **Windows logo**  key and **E**  at the same time to open File Explorer.
@@ -228,15 +220,20 @@ If this didn’t work, then go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/csgo-not-launching-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)**  Highlight the **Counter-Strike Global Offensive folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/csgo-not-launching-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Relaunch Steam to download and reinstall_CSGO_ .
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Conclusion
 
  The CSGO not launching problem may occur for various reasons, most of which are hard to detect because of the number of unique hardware and software settings players have.
@@ -257,8 +254,6 @@ If this didn’t work, then go ahead with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +261,17 @@ If this didn’t work, then go ahead with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-live-content-keepers-facebook-update/"><u>[Updated] Live Content Keepers - Facebook Update</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-essential-guide-integrating-virtual-backgrounds-for-webcasters/"><u>2024 Approved Essential Guide Integrating Virtual Backgrounds for Webcasters</u></a></li>
+<li><a href="https://win-able.techidaily.com/iuacgoawsoocroocpooditog44ov44kn44kk44k544ow44od44kv5pig5yop44gu5lplusd5a2y44go44oa44km44oz44ot44o844oj5oml6acg44ks5a2m44g2ig/"><u>最新ガイド: フェイスブック映像の保存とダウンロード手順を学ぶ</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-legally-download-horror-classics-a-comprehensive-guide/"><u>How to Legally Download Horror Classics: A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Samsung Galaxy A25 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-frame-rate-conversion-turning-120fps-videos-into-60fps-seamlessly-explained/"><u>Mastering Frame Rate Conversion: Turning 120FPS Videos Into 60FPS Seamlessly Explained!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/maximizing-meeting-visibility-in-microsoft-teams/"><u>Maximizing Meeting Visibility in Microsoft Teams</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-address-unwarranted-websites-displayed-by-iphone-screen-time/"><u>Step-by-Step Guide to Address Unwarranted Websites Displayed by iPhone Screen Time</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-samsung-galaxy-watch-active-the-perfect-blend-of-style-technology-and-wellness-tracking/"><u>Unveiling the Samsung Galaxy Watch Active: The Perfect Blend of Style, Technology & Wellness Tracking</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp3-mp3/"><u>フリーMP3エディタ - MP3のカット、マージ、レベル設定編集手順ガイド</u></a></li>
+</ul></div>
 

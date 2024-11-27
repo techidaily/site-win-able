@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Overcoming Error Code 6164 on Popular COD Titles - Modern Warfare & Battle Royale Warzone"
-date: 2024-09-01T07:59:09.661Z
-updated: 2024-09-02T07:59:09.661Z
+date: 2024-11-21T22:09:41.200Z
+updated: 2024-11-26T19:17:08.309Z
 tags:
   - win11
   - win10
@@ -68,15 +68,13 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the**Check for updates** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If**Updates are available** , click**Install now** and wait for the updates to be installed on your system. Once complete, restart your computer and relaunch your game. If it doesn’t have a huge impact, try the next fix below.
 
 ## 2\. Update your graphics driver
@@ -85,9 +83,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
  There are mainly two ways to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  First, you’ll need to know your graphics card’s name and its manufacturer.
@@ -118,17 +113,22 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and check whether this has a blast on your performance. If that’s not your case, no worries! Below are some other methods you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Disable non-essential applications
 
  As you know, games are CPU intensive and graphically demanding. If you have too many applications running in the background while playing Modern Warfare 2, you definitely cannot get the optimum performance. To prevent them from eating up your system memory, you can temporarily disable them. Below are the steps you can take.
@@ -141,9 +141,6 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once you’re done, dive into a new gameplay. If your problem persists, proceed to the next fix.
 
 ## 4\. Reset priority and affinity
@@ -156,37 +153,29 @@ With its new engine and gameplay mechanics adding more realism, Call of Duty®: 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/change-priority-to-low.jpg)
 4. Click**Change priority** to confirm the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/confirm-to-change-priority.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For users who have a 6-12 core CPU, use the Task Manager and set affinity to CPU 0,1,2,3\. All you have to do is right-click your game and your game launcher, then select**Set affinity** . When the window opens, make sure**only the boxes next to CPU 0, CPU 1, CPU 2, CPU 3 are checked** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/task-manager-set-affinity.jpg)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/set-affinity-to-CPU-0-1-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t know how many cores your CPU has? Simply go to the**Performance** tab on the Task Manager. Then you’ll see the number of cores in your processor.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/how-to-check-how-many-cores-your-CPU-has.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve applied all the changes, launch your game and see how things go. If no improvements have been seen, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## 5\. Enable hardware acceleration
 
  The next method you should try is to enable the hardware-accelerated GPU scheduling, a feature that is designed to boost in-game FPS. If you have the latest Windows version, a Geforce 10 series or later/ Radeon 5600 or 5700 series graphics card with the latest driver, you can enable this feature and see if you can notice a performance improvement. Below are the steps you can take to enable it.
@@ -198,14 +187,14 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/Dyling-Light-2-enable-accelerated-high-gpu-scheduling.png)
 3. Then go to your game’s installation folder and add the exe file to the list.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 4. Now click on the**Options** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2.jpg)
 5. Tick**High performance** . Then click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/enable-hardware-acceleration-modern-warfare-2-high-performance.jpg)
 
@@ -218,9 +207,6 @@ No advertising on the website.
 * [Steam](https://tools.techidaily.com/drivereasy/download/)
 * [Battle.net](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Open your Steam client. Under **LIBRARY** , right-click the game title and select **Properties** .  
@@ -230,9 +216,17 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Steam is now verifying the integrity of your game files. This process could take several minutes depending on the file size.
 
  Once the repair is finished, close the window and play your game to check if it works. If this doesn’t do the trick, proceed to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On Battle.net
 
@@ -243,10 +237,6 @@ No advertising on the website.
 
 If that doesn’t make any difference, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Tweak in-game settings
 
  Sometimes, the settings by default may not be tailored to your rigs. You can adjust them and check if that can give you a performance boost. Simply open your game settings and make the following adjustments.
@@ -256,15 +246,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/tweak-in-game-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * Under the QUALITY section
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/modern-warfare-2-quality-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8\. Run a full scan of your PC
 
  If none of the methods listed above work, it’s time to check if you have corrupt system files, which are notorious for making your PC error-prone. In addition, your PC performance is negatively affected. To prevent this from happening, you should run a scan of your system files. If necessary, you’ll need to repair those corrupted files. For that work, the System File Checker tool may help. You can run the sfc /scannow command hopefully to help identify the problems and repair missing or corrupted system files. However, failures could happen.
@@ -277,9 +269,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  After the repair, restart your computer and you should be able to play your game without many interruptions.
 
 ---
@@ -292,8 +281,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -301,4 +288,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-convenient-hp-recording-strategies-for-seamless-productivity/"><u>[New] 2024 Approved Convenient HP Recording Strategies for Seamless Productivity</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-enhancing-creativity-with-filmoras-best-tools/"><u>2024 Approved Enhancing Creativity with Filmora's Best Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-free-cam-screen-recorder-review-and-best-alternative/"><u>2024 Approved Free Cam Screen Recorder Review and Best Alternative</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/achieving-ultra-smooth-gameplay-mastering-120fps-gaming-on-ps5/"><u>Achieving Ultra-Smooth Gameplay: Mastering 120Fps Gaming on PS5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/essential-crypto-dialogues-with-ai-gpt/"><u>Essential Crypto Dialogues with AI GPT</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6s-plus-after-forgetting-the-passcode-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6s Plus After Forgetting the Passcode?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-nokia-xr21-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Nokia XR21</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-tutorial-on-converting-webm-videos-to-mp4-at-4k-resolution-for-enhanced-playback/"><u>The Complete Tutorial on Converting WebM Videos to MP4 at 4K Resolution for Enhanced Playback</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/the-path-to-making-popular-twitch-channels/"><u>The Path to Making Popular Twitch Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-acapella-downloads-ideal-choices-for-enhancing-your-dj-mixes/"><u>Top 5 Acapella Downloads: Ideal Choices for Enhancing Your DJ Mixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-bin-file-transformer-seamless-conversion-from-bin-to-mp4-and-avi-for-universal-compatibility/"><u>Top Bin File Transformer: Seamless Conversion From BIN to MP4 & AVI for Universal Compatibility</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/top-performant-screencasting-tools-pour-les-systemes-dexploitation-windows-11-8-et-7-guide-complet-pour-enregistrer-lensemble-ou-une-partie-de-votre-ecran.m81/"><u>Top Performant Screencasting Tools Pour Les Systèmes D'exploitation Windows 11, 8 Et 7 : Guide Complet Pour Enregistrer L’ensemble Ou Une Partie De Votre Écran</u></a></li>
+<li><a href="https://win-able.techidaily.com/tweet-upload-failure-effective-solutions/"><u>Tweet Upload Failure - Effective Solutions</u></a></li>
+</ul></div>
 

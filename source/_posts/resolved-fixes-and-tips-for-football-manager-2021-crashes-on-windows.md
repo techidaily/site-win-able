@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Tips for Football Manager 2021 Crashes on Windows"
-date: 2024-09-01T07:59:04.299Z
-updated: 2024-09-02T07:59:04.299Z
+date: 2024-11-20T19:57:08.676Z
+updated: 2024-11-27T00:38:47.772Z
 tags:
   - win11
   - win10
@@ -45,18 +45,19 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -64,19 +65,10 @@ No advertising on the website.
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -93,8 +85,9 @@ No advertising on the website.
 If this method doesn’t help, go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -108,6 +101,10 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -115,15 +112,22 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -142,8 +146,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +153,21 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-revamping-imagery-leading-insta-edits-explored/"><u>[New] 2024 Approved Revamping Imagery Leading Insta Edits Explored</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guide-to-10-top-ranked-entrepreneurial-youtube-platforms/"><u>[New] In 2024, Guide to 10 Top-Ranked Entrepreneurial YouTube Platforms</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-twisting-the-tale-a-comprehensively-dual-angled-approach-for-insta-posts/"><u>[Updated] 2024 Approved Twisting the Tale A Comprehensively Dual-Angled Approach for Insta Posts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-streamlined-steps-to-watching-vr-on-your-ios-device/"><u>2024 Approved Streamlined Steps to Watching VR on Your IOS Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-upkeep-package-for-enhancing-your-kodi-indigo-xmb-channel-experience/"><u>Comprehensive Upkeep Package for Enhancing Your Kodi Indigo XMB Channel Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/cost-free-guide-mastering-simple-techniques-in-editing-your-screenshots/"><u>Cost-Free Guide: Mastering Simple Techniques in Editing Your Screenshots</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-conversion-techniques-from-avi-to-ogg-for-high-quality-videos-and-sounds/"><u>Easy Conversion Techniques From AVI to OGG for High-Quality Videos and Sounds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/easy-methods-for-saving-your-favorite-dvd-movies-directly-onto-your-computers-storage-windowsmac/"><u>Easy Methods for Saving Your Favorite DVD Movies Directly Onto Your Computer's Storage (Windows/Mac)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/easy-steps-convert-and-enjoy-wmv-files-on-your-iphone/"><u>Easy Steps: Convert and Enjoy WMV Files on Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-guide-how-to-enjoy-uninterrupted-viewing-by-eliminating-youtube-commercials/"><u>Effortless Guide: How to Enjoy Uninterrupted Viewing by Eliminating YouTube Commercials</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-methods-for-converting-dvd-content-to-avi-format-online/"><u>Effortless Methods for Converting DVD Content to AVI Format Online</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reinstate-your-airdrop-linkages-simple-fixes-for-iosmacos-issues/"><u>Reinstate Your AirDrop Linkages Simple Fixes for iOS/macOS Issues</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/rotibox-wireless-beanie-hat-evaluation-exceptional-comfort-meets-quality-sound-for-an-unbeatable-pair/"><u>Rotibox Wireless Beanie Hat Evaluation: Exceptional Comfort Meets Quality Sound for an Unbeatable Pair</u></a></li>
+<li><a href="https://extra-information.techidaily.com/whimsical-wordsmith-hub/"><u>Whimsical Wordsmith Hub</u></a></li>
+</ul></div>
 

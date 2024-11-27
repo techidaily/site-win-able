@@ -1,7 +1,7 @@
 ---
 title: How to Stop Modern Warfare 3 From Keeping on Crashing Your PC Game
-date: 2024-09-01T07:59:20.314Z
-updated: 2024-09-02T07:59:20.314Z
+date: 2024-11-22T19:26:44.178Z
+updated: 2024-11-26T20:15:47.457Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ A screenshot of WWE 2K22 from Steam
 6. **[Disable Steam Overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Fix 7: Disable third-party antivirus software**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  Corrupted game files often lead to gam crashing issues. If you’re not sure if any game files are missing or corrupted on your PC, try verifying the game files.
@@ -43,11 +47,20 @@ Just follow the steps below to verify integrity of game files:
 2. **Right-click** on **WWE 2K22** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  After the the verifying process is complete, launch WWE 2K22 to see if it crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -75,9 +88,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -94,14 +104,8 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -120,8 +124,9 @@ Or
  Launch WWE 2K22 and see if the game crashing issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 12 to run properly, and WWE 2K22 is no exception. WWE 2K22 would crash on startup if there’s a problem with DirectX on your PC.
@@ -132,9 +137,11 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if WWE 2K22 crashes again after you installed the latest DirectX file. If this fix didn’t work for you, try the next fix, below.
@@ -156,11 +163,13 @@ Or
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _WWE 2K22_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
  If you’re using other apps with overlay features (e.g. Discord, Nvidia GeForce Experience, Twitch, etc.), ensure you’ve disabled the in-game overlay in those apps feature.
 
  Launch WWE 2K22 and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -187,8 +196,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +203,24 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ctivating-or-deactivating-user-feedback-on-videos-for-2024/"><u>[New] Activating or Deactivating User Feedback on Videos for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aking-a-channels-story-visible-in-snippets/"><u>[New] Making a Channel's Story Visible in Snippets</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-fidelity-on-the-big-screen-the-4k-monitor-tale-of-lgs-31mu97-b/"><u>[Updated] High Fidelity on the Big Screen The 4K Monitor Tale of LG's 31MU97-B</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-signal-id-video-overview-width-x-height-encoding-minutes/"><u>[Updated] In 2024, Signal ID Video Overview Width X Height, Encoding, Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mkv-to-mp4-4/"><u>無料変換技術🔄 MKV to MP4: 4つの最適手法を紹介する</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4-11-windowsmac/"><u>最新 MP4 ビデオから高品質の音声を自由に取り出せる無料アプリベスト11 - WindowsとMac両方使用可能</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/grizzly-introduces-revolutionary-phase-shifting-heat-pad-transforms-from-solid-to-liquid-at-45c/"><u>Grizzly Introduces Revolutionary Phase-Shifting Heat Pad: Transforms From Solid to Liquid at 45°C</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-realme-c67-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Realme C67 5G FRP?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>In 2024, The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-visuals-and-minimize-space-transform-dvd-to-h265-for-stellar-quality-and-smaller-files/"><u>Maximize Visuals & Minimize Space - Transform DVD to H.265 For Stellar Quality and Smaller Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp4quicktimeqt/"><u>MP4形式へのQuickTime動画とQT動画の効率的な変換方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-simple-guide-adding-captions-to-videos-fast/"><u>Quick & Simple Guide: Adding Captions To Videos Fast</u></a></li>
+<li><a href="https://win-blog.techidaily.com/scambio-agevole-e-veloce-da-png-a-jpg-tutorial-passo-passo-con-movavi/"><u>Scambio Agevole E Veloce Da PNG a JPG - Tutorial Passo-Passo Con Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-mxf-files-into-avi-format-made-effortless/"><u>Simple Steps: Converting MXF Files Into AVI Format Made Effortless</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-mastering-the-art-of-screen-recording-on-alienware/"><u>Simple Steps: Mastering the Art of Screen Recording on Alienware</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-virtualdub-review-and-best-alternatives-for-2024/"><u>Updated Virtualdub Review and Best Alternatives for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mkvdvd2024/"><u>おススメ！高画質・高音質MKVフォーマットに最適な無料DVDコンバータソフトの2024年リクエスト</u></a></li>
+</ul></div>
 

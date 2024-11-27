@@ -1,7 +1,7 @@
 ---
 title: "Mastering Network Stability: Resolving Your 'New World Connections Issues'"
-date: 2024-11-03T21:51:04.551Z
-updated: 2024-11-07T02:56:15.642Z
+date: 2024-11-25T21:07:34.314Z
+updated: 2024-11-26T19:45:46.788Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Official Fix](https://tools.techidaily.com/drivereasy/download/)  
@@ -31,23 +35,9 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -82,6 +72,10 @@ Follow the steps below to fix the crashing issue.
 
 Restart your computer for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 3: Install beta patch
 
  The SEGA Team released a new patch to fix the crashes. Follow the steps below to solve the issues with the latest patch.
@@ -91,16 +85,7 @@ Restart your computer for the changes to take effect.
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
 <!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
@@ -119,20 +104,25 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
 
@@ -142,15 +132,12 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
@@ -163,24 +150,10 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -201,20 +174,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-navigating-content-savings-top-5-techniques-to-download-igtv-videos/"><u>[New] 2024 Approved Navigating Content Savings Top 5 Techniques to Download IGTV Videos</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-build-your-own-google-cardboard-vr-setup/"><u>[New] Step-by-Step Build Your Own Google Cardboard VR Setup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-a-swift-journey-to-using-ez-grabber-like-a-pro-for-2024/"><u>[Updated] A Swift Journey to Using EZ Grabber Like a Pro for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-the-encyclopedia-of-motion-sensing-types-and-applications/"><u>[Updated] In 2024, The Encyclopedia of Motion Sensing Types & Applications</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-avoid-feed-overload-how-to-stop-followers/"><u>2024 Approved Avoid Feed Overload How to Stop Followers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/efficient-techniques-to-release-held-up-window-update-on-obsolete-os-like-win7-a-complete-solution-walkthrough-troubleshooting-guide-solutions-and-step-by-s57/"><u>Efficient Techniques to Release Held-Up Window Update on Obsolete OS Like Win7 – A Complete Solution Walkthrough (Troubleshooting Guide, Solutions and Step by Step Guide)</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-minecraft-game-freezing-discover-6-quick-solutions-to-stabilize-your-playtime/"><u>End Minecraft Game Freezing - Discover 6 Quick Solutions to Stabilize Your Playtime</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-pc-troubleshooting-steps-when-fuser-continuously-crashes/"><u>Fix Your PC: Troubleshooting Steps When Fuser Continuously Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-splitgate-graphics-settings-fixes-for-increasing-speed-and-reducing-stutter/"><u>Mastering Splitgate Graphics Settings: Fixes for Increasing Speed & Reducing Stutter</u></a></li>
-<li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Vivo X100? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-endless-loading-on-anthem-a-comprehensive-fix-guide/"><u>Solve Endless Loading on Anthem: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/stop-automatic-song-replay-in-apple-music-with-these-easy-steps/"><u>Stop Automatic Song Replay in Apple Music with These Easy Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-increasing-your-ark-sanctuarys-performance-tips-for-pc-players/"><u>Ultimate Guide to Increasing Your ARK: Sanctuary's Performance - Tips for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-fixing-the-persistent-ntdlldll-system-crashes-in-modern-operating-systems/"><u>Understanding and Fixing the Persistent ntdll.dll System Crashes in Modern Operating Systems</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-make-it-a-valentines-day-to-remember-diy-video-ideas-for-your-loved-one/"><u>Updated Make It a Valentines Day to Remember DIY Video Ideas for Your Loved One</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-efficient-transfer-techniques-for-iphone-images-on-snapchat/"><u>[New] Efficient Transfer Techniques for iPhone Images on Snapchat</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-ultimate-checklist-for-mastering-bandicam-in-the-new-year/"><u>[New] In 2024, The Ultimate Checklist for Mastering Bandicam in the New Year</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-pro-stream-wars-choosing-between-vmix-and-wirecast/"><u>[New] Pro-Stream Wars Choosing Between VMix and Wirecast</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-creating-cost-effective-youtube-closure-elements/"><u>[Updated] Creating Cost-Effective YouTube Closure Elements</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-capture-and-share-your-games-like-a-pro-with-these-windows-11-tactics/"><u>[Updated] In 2024, Capture and Share Your Games Like a Pro with These Windows 11 Tactics</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-zoom-issues-on-windows-1110-expert-tips/"><u>How to Fix Persistent Zoom Issues on Windows 11/10 - Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-your-windows-11-spotlight-photos-when-they-stop-displaying-correctly/"><u>How to Restore Your Windows 11 Spotlight Photos When They Stop Displaying Correctly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/intermittent-key-response/"><u>Intermittent Key Response</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-patchwork-ultimate-solutions-to-start-fallout-n-3-on-your-pc/"><u>Master the Patchwork: Ultimate Solutions to Start Fallout N 3 on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-eliminate-those-frustrating-pc-crashes-once-and-for-all/"><u>Microsoft Flight Simulator 2020: Eliminate Those Frustrating PC Crashes Once and for All</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-10-essential-tools-for-creating-stunning-slow-motion-videos/"><u>New 2024 Approved 10 Essential Tools for Creating Stunning Slow Motion Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-fortnite-when-it-gets-jammed-at-the-loading-phase/"><u>Resolved: Fixing Fortnite When It Gets Jammed at the Loading Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines!</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-cut-down-long-waits-during-launch-of-star-wars-battlefront-ii-pc/"><u>Tips & Tricks to Cut Down Long Waits During Launch of Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1726223236127-movavi/"><u>우리 페이스에서 액션 장난기를 위한 분위기를 만드는 단계별 워터마크 만들기 방법 | Movavi</u></a></li>
 </ul></div>
 

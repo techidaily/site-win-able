@@ -1,7 +1,7 @@
 ---
 title: "Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'"
-date: 2024-11-02T05:26:45.903Z
-updated: 2024-11-06T22:53:27.671Z
+date: 2024-11-24T20:56:10.828Z
+updated: 2024-11-26T19:16:45.993Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -69,26 +73,16 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. Verify the integrity of game files
 
@@ -128,16 +122,7 @@ If this issue persists, try the next fix, below.
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
@@ -172,20 +157,14 @@ If this fix didn’t work, try the next fix, below.
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
@@ -193,16 +172,11 @@ If this fix didn’t work, try the next fix, below.
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
 
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
@@ -216,30 +190,20 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -274,19 +238,19 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-elevate-your-online-meeting-with-customized-google-meet/"><u>[New] 2024 Approved Elevate Your Online Meeting with Customized Google Meet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-implementing-real-time-transcriptions-in-reels-and-stories-for-2024/"><u>[Updated] Implementing Real-Time Transcriptions in Reels and Stories for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-tiny-tale-telling-framework/"><u>[Updated] In 2024, Tiny Tale Telling Framework</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-time-lapse-tips-for-iphoneipad-users-for-2024/"><u>[Updated] Time-Lapse Tips for iPhone/iPad Users for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/diagnosing-and-repairing-battery-failure-on-ps4-controllers/"><u>Diagnosing and Repairing Battery Failure on PS4 Controllers</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/enhancing-digital-safety-for-children-with-easy-guide-on-blocking-youtube-from-ipad/"><u>Enhancing Digital Safety for Children with Easy Guide on Blocking YouTube From iPad</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-mortal-kombat-11-crashes-fast-and-simple-solutions/"><u>Fixing Mortal Kombat 11 Crashes: Fast and Simple Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/masterful-video-chats-best-webcams-for-zoom-6-for-2024/"><u>Masterful Video Chats Best Webcams for Zoom #6 for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resolving-complete-lack-of-sound-in-roblox-for-windows-users/"><u>Solved: Resolving Complete Lack of Sound in Roblox for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/star-wars-battlefront-ii-conquering-the-darkness-of-a-persistent-black-screen-issue/"><u>Star Wars Battlefront II - Conquering the Darkness of a Persistent Black Screen Issue</u></a></li>
-<li><a href="https://driver-download.techidaily.com/step-by-step-guide-finding-the-correct-epson-xp-245-software-for-windows-7810/"><u>Step-by-Step Guide: Finding the Correct Epson XP 245 Software for Windows 7/8/10</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-to-address-performance-hiccups-in-forza-horizon-5/"><u>Troubleshooting Guide to Address Performance Hiccups in Forza Horizon 5</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-svchostexes-elevated-cpu-use-effective-strategies-for-windows-10-users/"><u>Troubleshooting svchost.exe's Elevated CPU Use – Effective Strategies for Windows 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-resolved-issue-why-elden-ring-is-now-available/"><u>Update: Resolved Issue - Why Elden Ring Is Now Available</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-cross-promotional-efforts-brands-on-youtubes-stage/"><u>[New] In 2024, Cross-Promotional Efforts Brands on YouTube's Stage</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/r-beasts-financial-reach/"><u>[New] Mr. Beast's Financial Reach</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-flickerframe-repository-review-for-2024/"><u>[Updated] FlickerFrame Repository Review for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-how-to-blur-background-in-zoom-with-ease-an-ultimate-guide/"><u>[Updated] In 2024, How to Blur Background in Zoom with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-detailed-review-top-10-screen-recorders-for-mac/"><u>2024 Approved A Detailed Review Top 10 Screen Recorders for Mac</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/comprehensive-tips-to-improve-your-lagging-online-connection/"><u>Comprehensive Tips to Improve Your Lagging Online Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-2-troubleshooting-fixes-for-game-not-starting-and-endless-load-screens/"><u>Dota 2 Troubleshooting: Fixes for Game Not Starting & Endless Load Screens</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-6-plus-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 6 Plus without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-oneplus-nord-ce-3-5g-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On OnePlus Nord CE 3 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-performance-troubleshooting-for-windows-10-users/"><u>MapleStory Performance Troubleshooting for Windows 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-effortlessly-resolving-directx-issues-in-fifa-19/"><u>Quick Solutions: Effortlessly Resolving DirectX Issues in FIFA 19</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-elevate-frame-rates-in-the-ultra-competitive-world-of-tainted-grail-conquest/"><u>Tips & Tricks to Elevate Frame Rates in the Ultra Competitive World of Tainted Grail: Conquest</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-mute-problems-in-evil-genius-2-game/"><u>Troubleshooting Steps for Mute Problems in Evil Genius 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-latency-expert-fixes-for-valheims-network-delays-pc/"><u>Winning the Battle Against Latency: Expert Fixes for Valheim's Network Delays (PC)</u></a></li>
 </ul></div>
 

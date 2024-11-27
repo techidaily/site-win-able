@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711"
-date: 2024-11-10T09:28:00.998Z
-updated: 2024-11-17T10:11:55.886Z
+date: 2024-11-24T16:23:21.537Z
+updated: 2024-11-26T16:06:53.699Z
 tags:
   - win11
   - win10
@@ -31,13 +31,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
@@ -53,24 +46,18 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -103,11 +90,19 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -122,17 +117,14 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -157,22 +149,22 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-flash-fiction-directorial-map-for-2024/"><u>[New] Flash Fiction Directorial Map for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-quick-guide-capturing-your-ppt-slide-show/"><u>[Updated] 2024 Approved Quick Guide Capturing Your PPT Slide Show</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamlining-the-process-of-finding-your-own-musical-compilation-on-youtube/"><u>[Updated] In 2024, Streamlining the Process of Finding Your Own Musical Compilation on Youtube</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-drivers-for-gigabyte-gc-wb867d-i-step-by-step-guide/"><u>Download Drivers for Gigabyte GC-WB867D-I: Step by Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-resolving-discord-app-failures/"><u>Effective Solutions: Resolving Discord App Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-why-isnt-my-call-of-duty-black-ops-4-starting-find-out-here/"><u>Expert Advice: Why Isn't My Call of Duty Black Ops 4 Starting? Find Out Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixed-troubleshooting-recurring-crashes-in-beat-saber-game/"><u>Fixed: Troubleshooting Recurring Crashes in Beat Saber Game</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/gratuitamente-converti-dts-online-con-movavi-guida-istantanea/"><u>Gratuitamente Converti DTS Online Con Movavi - Guida Istantanea</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/guide-to-updating-your-intel-uhd-graphics-driver-on-windows-pcs-windows-10-and-11/"><u>Guide to Updating Your Intel UHD Graphics Driver on Windows PCs (Windows 10 & 11)</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-realme-c51-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Realme C51</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-unlock-quick-filming-techniques-your-5-best-home-hacks-list/"><u>In 2024, Unlock Quick Filming Techniques – Your 5 Best Home Hacks List</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-gameplay-tackling-fallout-4s-sluggish-load-times/"><u>Optimizing Gameplay: Tackling Fallout 4’S Sluggish Load Times</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997949128-revamped-bioshock-2-a-high-definition-visual-upgrade/"><u>Revamped BioShock 2: A High-Definition Visual Upgrade</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-solutions-to-resolve-directx-problems-in-fifa-19/"><u>Simple Solutions to Resolve DirectX Problems in FIFA 19</u></a></li>
-<li><a href="https://win-able.techidaily.com/simple-steps-to-resolve-stuttering-problems-in-counter-strike-global-offensive/"><u>Simple Steps to Resolve Stuttering Problems in Counter-Strike: Global Offensive</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-list-of-best-gratis-sports-video-on-demand-sites/"><u>The Ultimate List of Best Gratis Sports Video on Demand Sites</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-lost-ark-pc-crashes-a-comprehensive-guide-to-a-smooth-gaming-experience/"><u>Troubleshooting Lost Ark PC Crashes: A Comprehensive Guide to a Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-20-anime-songs-to-start-with/"><u>[Updated] Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-troubleshooting-how-to-fix-frame-skipping-in-videos-when-playing-with-vlc-media-player/"><u>1. Troubleshooting: How to Fix Frame Skipping in Videos when Playing with VLC Media Player</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-miniature-music-menus-actors-in-audio-world/"><u>2024 Approved Miniature Music Menus Actors in Audio World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-originality-in-virtual-meme-worlds/"><u>2024 Approved Unleashing Originality in Virtual Meme Worlds</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/5p6b5l2z55qe5yid5ael5yyw5ywj55uy5ymv5pys6l2v5lu26ycj6ag54ocu4ocu566a5y2v6auy5pwi5asn5yi25li756gs55uy5pa55rov/"><u>极佳的初始化光盘副本软件选项——简单高效复制主硬盘方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/dual-collision-dilemma-deciphering-it-takes-two-hits-for-pc-issues/"><u>Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-smooth-play-in-far-cry-6-comprehensive-guide-to-avoid-pc-crashes/"><u>Ensuring Smooth Play in Far Cry 6: Comprehensive Guide to Avoid PC Crashes</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-with-solutions-for-high-framerate-gameplay-in-the-division-2-revamped-2024/"><u>Maximize Your Gaming Experience with Solutions for High-Framerate Gameplay in The Division 2 (Revamped 2024)</u></a></li>
+<li><a href="https://facebook.techidaily.com/pre-deletion-checklist-what-to-weigh-in-on-social-media-departure/"><u>Pre-Deletion Checklist: What to Weigh in on Social Media Departure</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-gobi-fatal-error-in-ubisofts-back-cu-blood-a-guide-for-unreal-engine-4-players/"><u>Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-fall-guys-starter-problems-a-comprehensive-troubleshooting-tutorial/"><u>Solving Fall Guys Starter Problems – A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-wow-crashes-with-these-simple-troubleshooting-steps-play-smoothly-again/"><u>Stop WoW Crashes with These Simple Troubleshooting Steps - Play Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-fixers-manual-resolving-freezes-on-your-playstation-4/"><u>The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-microsoft-edge-keeps-crashing-on-windows-11-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It</u></a></li>
 </ul></div>
 

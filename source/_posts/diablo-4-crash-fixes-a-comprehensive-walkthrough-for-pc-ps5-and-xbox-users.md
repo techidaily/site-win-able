@@ -1,7 +1,7 @@
 ---
 title: "Diablo 4 Crash Fixes: A Comprehensive Walkthrough for PC, PS5 & Xbox Users"
-date: 2024-11-15T02:10:46.121Z
-updated: 2024-11-17T05:10:37.619Z
+date: 2024-11-20T18:31:46.112Z
+updated: 2024-11-26T21:57:56.904Z
 tags:
   - win11
   - win10
@@ -65,10 +65,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update controller
@@ -82,10 +79,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/ms-accessories.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Run the app, it automatically detected the Microsoft controller which was connected to your PC.
@@ -112,6 +106,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Move to the**Social** tab. Simply uncheck**Cross-Network Play** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/crossplay.jpg)
@@ -119,10 +117,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  5) Save the changes and back to the game, check if the game will crash again.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Remove overclocking
@@ -136,13 +131,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 3. Select BIOS Setup to access the BIOS.
 4. Find the reverting to default option in BIOS settings, select it, save changes, and exit.  
  If you can’t find the option, find the Advanced tab, go to Performance and look for CPU overclocking. Then disable it and save changes.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Close or uninstall conflicts apps
 
@@ -161,10 +149,11 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Update operating system
@@ -176,15 +165,12 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/update-security.jpg)
 3. In the right panel, click Check for update. Your PC will check for updates immediately.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/check-for-updates.jpg)
 4. Windows will download and install the new updates automatically. When the process is finished, reboot your PC and relaunch the game to check if the problem has been solved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7 – Repair system files
 
@@ -195,35 +181,29 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 5. Restart your PC and check whether the Diablo 4 crashing is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Diablo 4 crashing fixes for PS5/Xbox
 
  Many PS5 and Xbox gamers say they’ve encountered constant crashes. They have to start restarting the game after each dungeon which is annoying. Restarting works for PS5, but that’s not a permanent fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1 – Free up storage
 
  If your storage is nearly full, you can clear up some space and see if it helps. The full storage might be a cause of the game crashing.
 
  You can delete or remove data to other storage spaces, but it’s better to leave more than half storage in the[extended storage drive](https://www.playstation.com/en-us/support/hardware/ps5-manage-storage-space/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Disable crossplay
 
@@ -254,20 +234,21 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-artisans-handbook-perfecting-your-windows-pc-in-live-tv-recording/"><u>[New] 2024 Approved The Artisan's Handbook Perfecting Your Windows PC in Live TV Recording</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-bring-your-vision-online-mobilizing-content-creation-with-ease-and-simplicity/"><u>[Updated] In 2024, Bring Your Vision Online Mobilizing Content Creation with Ease and Simplicity</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-game-capture-software-analysis-obs-vs-shadowplay/"><u>[Updated] In 2024, Game Capture Software Analysis OBS vs ShadowPlay</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/beyond-aesthetics-how-this-modest-looking-asus-laptop-surprises-with-exceptional-creator-features-insights-from-zdnet/"><u>Beyond Aesthetics: How This Modest-Looking Asus Laptop Surprises with Exceptional Creator Features | Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/clearing-up-your-game-space-a-fix-for-when-fortnite-runs-out-of-video-memory/"><u>Clearing Up Your Game Space – A Fix for When Fortnite Runs Out of Video Memory</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-valheim-stutter-and-freezing-problems-on-a-computer-effective-strategies-for-gamers/"><u>Defeating Valheim Stutter and Freezing Problems on a Computer: Effective Strategies for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-moonlight-software-crashes-on-your-computer-system/"><u>Effective Solutions to Prevent Moonlight Software Crashes on Your Computer System</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-your-play-optimizing-outriders-for-a-smooth-lag-free-experience-on-personal-computers/"><u>Enhance Your Play: Optimizing Outriders for a Smooth, Lag-Free Experience on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-roblox-overcome-the-endless-loading-loop/"><u>Fixing Roblox: Overcome the Endless Loading Loop</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2022s-launch-issues-a-comprehensive-fix-guide/"><u>Football Manager 2022'S Launch Issues: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-dash.techidaily.com/latest-version-of-geforce-rtx-nvidia-3060-ti-drivers-compatible-with-windows-10-and-11-secure-your-download/"><u>Latest Version of GeForce RTX Nvidia 3060 Ti Drivers: Compatible with Windows 10 & 11 - Secure Your Download!</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/nebula-accounting-data-salvation/"><u>Nebula Accounting Data Salvation</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/picshot-transforming-photographs-into-artistic-tapestries-for-2024/"><u>Picshot Transforming Photographs Into Artistic Tapestries for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001006389-resolving-stability-problems-in-metro-exodus-on-pc-end-of-constant-crashing/"><u>Resolving Stability Problems in Metro Exodus on PC – End of Constant Crashing!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solving-lenovos-mouse-pad-problems-on-windows-a-step-by-step-fix-for-11-8-and-7/"><u>Solving Lenovo's Mouse Pad Problems on Windows: A Step-by-Step Fix for 11, 8 & 7</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-hdr-tutorial-for-exceptional-portraits/"><u>[New] The Ultimate HDR Tutorial for Exceptional Portraits</u></a></li>
+<li><a href="https://win-able.techidaily.com/better-gaming-performance-overcoming-high-ping-in-blossoms-pc-version/"><u>Better Gaming Performance: Overcoming High Ping in Blossom's PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-no-more-patching-up-destiny-2s-beyond-light-expansion-for-a-smooth-experience-on-pc/"><u>Crash No More: Patching Up Destiny 2’S Beyond Light Expansion for a Smooth Experience on PC</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/cutting-edge-screenrecord-a-compreraniary-examination-for-2024/"><u>Cutting-Edge ScreenRecord A Compreraniary Examination for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-latency-problems-in-league-of-legends-a-comprehensive-guide/"><u>Fixing Latency Problems in League of Legends: A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/for-laminar-flow-in-pipes-the-pressure-drop-can-be-calculated-using-the-hagen-poiseuille-equation-dpl-32mvrd2/"><u>For Laminar Flow in Pipes, the Pressure Drop Can Be Calculated Using the Hagen-Poiseuille Equation: ΔP/L = 32μV/(ρD^2)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/gigglegridiron-craft-memes-from-anywhere-anytime/"><u>GiggleGridiron Craft Memes From Anywhere, Anytime</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-stardew-valley-keeps-crashing-on-pc/"><u>How to Fix Stardew Valley Keeps Crashing on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a14-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A14 5G to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/masterful-mp4-transformation-tools-facebook-edition/"><u>Masterful MP4 Transformation Tools (Facebook Edition)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-code-breakers-a-step-by-step-guide-to-fixing-dev-error-5573-on-ps4-and-xbox/"><u>Resolving Code Breakers: A Step-by-Step Guide to Fixing Dev Error 5573 on PS4 and Xbox</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-metaverse-and-multiplemetaverse-explained-key-contrasts-highlighted-for-2024/"><u>The Metaverse & MultipleMetaverse Explained Key Contrasts Highlighted for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-7-essential-notetaking-apps-perfect-for-ipad-and-ipad-pro-users/"><u>Top 7 Essential Notetaking Apps Perfect for iPad & iPad Pro Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pacific-drive-failure-step-by-step-solutions/"><u>Troubleshooting Pacific Drive Failure: Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-successful-overwatch-launches/"><u>Troubleshooting Steps for Successful Overwatch Launches</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-professional-grade-glitch-video-editors-paid-and-free-solutions-compared/"><u>Updated Professional-Grade Glitch Video Editors Paid and Free Solutions Compared</u></a></li>
 </ul></div>
 

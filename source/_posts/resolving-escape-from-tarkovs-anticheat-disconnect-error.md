@@ -1,7 +1,7 @@
 ---
 title: Resolving Escape From Tarkov's 'Anticheat Disconnect Error'
-date: 2024-11-03T16:32:19.788Z
-updated: 2024-11-07T03:22:53.509Z
+date: 2024-11-24T22:58:52.698Z
+updated: 2024-11-26T16:39:16.462Z
 tags:
   - win11
   - win10
@@ -46,22 +46,12 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -80,10 +70,7 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Switch DirectX versions
@@ -102,15 +89,16 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
@@ -135,7 +123,15 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2) Open the engine.ini file.
 
@@ -173,13 +169,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -210,21 +199,24 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-enjoy-infinite-fun-top-10-offline-ios-games-unplugged-for-2024/"><u>[New] Enjoy Infinite Fun - Top 10 Offline iOS Games Unplugged for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-art-of-producing-high-impact-slack-channels/"><u>[New] The Art of Producing High-Impact Slack Channels</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-connect-your-tiktok-creativity-to-twitter-for-2024/"><u>[Updated] Connect Your TikTok Creativity to Twitter for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/adobes-art-of-amusement-and-jest/"><u>Adobe's Art of Amusement and Jest</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashes-while-playing-hyper-scape-on-pc/"><u>How to Fix Continuous Crashes While Playing Hyper Scape on PC</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-becoming-a-social-media-storyteller-on-facebook/"><u>In 2024, Becoming a Social Media Storyteller on Facebook</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-top-15-uncomplicated-vlog-ideas-to-ignite-creativity/"><u>In 2024, Top 15 Uncomplicated Vlog Ideas to Ignite Creativity</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/iphone-solutions-for-reverse-playback-for-2024/"><u>IPhone Solutions for Reverse Playback for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-hogwarts-legacy-startup-failures-eight-key-strategies/"><u>Mastering the Fix for Hogwarts Legacy Startup Failures: Eight Key Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-troubleshooting-the-five-best-fixes-for-when-your-zoom-video-wont-play/"><u>Mastering Troubleshooting: The Five Best Fixes for When Your Zoom Video Won't Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-common-issues-with-a-nonworking-paradox-gaming-application-launcher/"><u>Solving Common Issues with a Nonworking Paradox Gaming Application Launcher</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007587769-the-mystery-behind-football-manager-2022s-postponed-launch-and-how-to-beat-it/"><u>The Mystery Behind Football Manager 2022'S Postponed Launch – And How to Beat It!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-discord-client-from-suddenly-shutting-down/"><u>Troubleshoot and Prevent Your Discord Client From Suddenly Shutting Down</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-stable-play-experience-no-more-crashes-in-genshin-impact/"><u>Troubleshooting Steps for a Stable Play Experience - No More Crashes in Genshin Impact</u></a></li>
-<li><a href="https://win-comparisons.techidaily.com/1728493559266-windows-7usb/"><u>Windows 7システムの完全なバックアップと起動用USBメモリ生成ガイド</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10-for-2024/"><u>[New] Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10 for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-conquer-the-metaverse-top-7-devices-that-matter/"><u>[New] In 2024, Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982180885-solved-marvels-avengers-crashing-on-pc/"><u>[SOLVED] Marvel’s Avengers Crashing on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/avoid-unexpected-shutdowns-in-windows-11-pro/"><u>Avoid Unexpected Shutdowns in Windows 11 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-interrupted-steam-installation-processes/"><u>Expert Tips on Fixing Interrupted Steam Installation Processes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-gaming-experiences-on-psvr2-all-announced-titles-and-details/"><u>Future Gaming Experiences on PSVR2: All Announced Titles and Details</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-initial-darkness-solving-elden-rings-boot-up-blackout/"><u>How to Overcome the Initial Darkness - Solving Elden Ring's Boot-Up Blackout</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>In 2024, Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/iphone-2023-reveal-anticipated-features-pricing-launch-timeline-and-latest-buzz/"><u>IPhone 2023 Reveal: Anticipated Features, Pricing, Launch Timeline & Latest Buzz</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ring-the-art-of-incorporating-youtube-in-slate-presentations/"><u>Mastering the Art of Incorporating YouTube in Slate Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-game-performance-fixing-cpu-overload-issues-in-phasmophobia/"><u>Optimizing Game Performance: Fixing Cpu Overload Issues in Phasmophobia</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pro-tips-to-create-impactful-and-stunning-gopro-time-lapses-for-2024/"><u>Pro Tips to Create Impactful and Stunning GoPro Time-Lapses for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-ending-maplestorys-freezes-and-crashes-on-windows-10/"><u>Seamless Gaming: Ending MapleStory's Freezes and Crashes on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-hold-up-with-wolcens-release-unveiling-factors-behind-lords-of-mayhems-delayed-drop/"><u>The Hold-Up with Wolcen’s Release: Unveiling Factors Behind Lords of Mayhem’s Delayed Drop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-age-of-empires-4s-gaming-hiccups-for-a-smoother-playthrough/"><u>Troubleshooting Age of Empires 4'S Gaming Hiccups for a Smoother Playthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-in-valorant-v-essential-tips-and-solutions/"><u>Troubleshooting PC Crashes in 'Valorant V': Essential Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steam-errors-installed-easy-anti-cheat-now-game-launches-successfully/"><u>Troubleshooting Steam Errors: Installed Easy Anti-Cheat, Now Game Launches Successfully</u></a></li>
 </ul></div>
 

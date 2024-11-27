@@ -1,7 +1,7 @@
 ---
 title: Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users
-date: 2024-11-12T18:06:00.509Z
-updated: 2024-11-16T20:18:53.858Z
+date: 2024-11-21T16:14:34.376Z
+updated: 2024-11-26T16:57:06.201Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -73,6 +77,10 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your computer meets the requirements, then read on and try the fix, below.
 
 ### Fix 2: Restart your computer
@@ -80,6 +88,10 @@ Follow the instructions below to view your computer hardware information:
  If you’re running multiple programs at the same time, hogging your system’s resources, that could cause your game to crash. In this case, try restarting your computer to end unwanted programs completely, then relaunch your game.
 
 If your problem still exists after the reboot, check Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -115,16 +127,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -136,23 +145,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-05-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -172,31 +167,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Garry’s Mod**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
@@ -220,6 +209,10 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
 ### Fix 7: Reinstall Steam
@@ -231,22 +224,12 @@ Follow the instructions below to stop the automatic downloads:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-46.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -268,6 +251,10 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
@@ -275,10 +262,7 @@ Follow the instructions below to stop the automatic downloads:
 **10)**  Relaunch Steam and your game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8:**Reseat PC components**
@@ -348,17 +332,20 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-diy-movie-making-youtubes-boutique-method/"><u>[New] In 2024, DIY Movie Making YouTube's Boutique Method</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-youtube-playlist-rearrangement-made-simple/"><u>[New] In 2024, YouTube Playlist Rearrangement Made Simple</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-next-step-after-vlc-top-media-players-reviewed/"><u>[Updated] In 2024, The Next Step After VLC - Top Media Players Reviewed</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-15-best-funny-youtube-channels-to-watch-when-youre-bored/"><u>2024 Approved 15 Best Funny YouTube Channels to Watch When You're Bored</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg/"><u>2024 Approved Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG)</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-pc-stability-issues-solved-release/"><u>Call of Duty: Black Ops Cold War PC Stability Issues Solved Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-farming-simulator-22s-decreased-frames-per-second-fps-on-your-computer-system/"><u>Fixing Farming Simulator 22'S Decreased Frames Per Second (FPS) on Your Computer System</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>In 2024, Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
-<li><a href="https://win-able.techidaily.com/la-noire-now-available-for-pc-release-issue-resolved/"><u>L.A. Noire Now Available for PC - Release Issue Resolved!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/storage-sizing-film-duration-in-gb-for-2024/"><u>Storage Sizing Film Duration in GB for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-warframe-boot-up-expert-tips-to-launch-your-adventure/"><u>Trouble with Warframe Boot-Up? Expert Tips to Launch Your Adventure</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-is-my-minecraft-in-the-library-mode-solving-noise-problems-for-gamers/"><u>Why Is My Minecraft in the Library Mode? Solving Noise Problems for Gamers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-beam-into-collaborative-spaces-within-tiktok/"><u>[New] 2024 Approved Beam Into Collaborative Spaces Within TikTok</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-prodigious-story-making-worlds-top-8-institutions-for-2024/"><u>[New] Prodigious Story Making World's Top 8 Institutions for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-spectral-perfection-program/"><u>[New] Spectral Perfection Program</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-lullaby-movies-assessment-and-overview/"><u>2024 Approved Lullaby Movies Assessment & Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/5-quick-fixes-to-prevent-gameplay-interruptions-in-deathloop-for-pc-players/"><u>5 Quick Fixes to Prevent Gameplay Interruptions in Deathloop for PC Players</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/adapt-and-ascend-how-to-outsmart-and-overcome-the-challenges-of-artificial-intelligence-at-work/"><u>Adapt & Ascend: How to Outsmart and Overcome the Challenges of Artificial Intelligence at Work</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-an-iphones-charge-alert-when-on-call-discover-8-key-strategies/"><u>Fix an iPhone's Charge Alert When On Call: Discover 8 Key Strategies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002500878-fix-your-controller-issues-instantly-a-simple-solution/"><u>Fix Your Controller Issues Instantly: A Simple Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-playback-errors-with-dolby-atmos-on-pc-windows-1110-edition/"><u>How to Resolve Playback Errors with Dolby Atmos on PC: Windows 11/10 Edition</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-hidefake-snapchat-location-on-your-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Hide/Fake Snapchat Location on Your Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-leading-tools-for-extracting-fb-videos-top-5/"><u>In 2024, Leading Tools for Extracting FB Videos - TOP 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-performance-boosted-eliminating-the-pc-versions-unwanted-freezing-glitches/"><u>Modern Warfare Performance Boosted: Eliminating the PC Version's Unwanted Freezing Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-guide-ending-persistent-collapses-of-the-gas-station-simulator-software/"><u>PC Players' Guide: Ending Persistent Collapses of the Gas Station Simulator Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-intel-dsa-heres-how-you-can-get-it-running-again/"><u>Trouble with Intel DSA? Here’s How You Can Get It Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-ghost-runner-overcoming-critical-failures-in-windows-11/"><u>Troubleshooting the Ghost Runner: Overcoming Critical Failures in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained"
-date: 2024-10-19T02:31:00.941Z
-updated: 2024-10-26T15:48:20.243Z
+date: 2024-11-23T19:47:09.613Z
+updated: 2024-11-26T18:00:35.369Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -30,13 +34,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. **[Scan and repair your game](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -54,16 +51,13 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -94,20 +88,21 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1884021/19272" target="_top" id="1884021">
-  <img src="//a.impactradius-go.com/display-ad/19272-1884021" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884021/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -125,14 +120,11 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -157,16 +149,18 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-recommendation-best-websites-to-download-alarm-ringtone/"><u>[Updated] In 2024, Recommendation Best Websites To Download Alarm Ringtone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-insta-gone-locating-the-disappeared-fans/"><u>[Updated] Insta Gone? Locating the Disappeared Fans</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-picturing-perfect-profile-visions/"><u>2024 Approved Picturing Perfect Profile Visions</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-mystery-of-modern-warfare-mw3-dev-error-6034-solutions-for-gamers-on-pc-and-xbox/"><u>Decode the Mystery of Modern Warfare MW3 Dev Error #6034: Solutions for Gamers on PC & Xbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-recurring-microsoft-edge-failures-and-restarts-in-windows-11-systems/"><u>Effective Fixes for the Recurring Microsoft Edge Failures and Restarts in Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won’t Open – 2024 Tips</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-samsung-galaxy-a34-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Samsung Galaxy A34 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/illustrators-secret-creating-seamless-image-movement/"><u>Illustrator's Secret Creating Seamless Image Movement</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-the-art-of-amusement-master-memes-with-kapwing/"><u>In 2024, The Art of Amusement – Master Memes with Kapwing</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011403459-quick-fixes-for-speedy-chrome-no-more-lag/"><u>Quick Fixes for Speedy Chrome – No More Lag</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-steam-connection-issues-overcoming-failed-to-connect-messages/"><u>Resolved: Troubleshooting Guide for Steam Connection Issues - Overcoming 'Failed to Connect' Messages</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>[Updated] In 2024, Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-guide-to-choosing-between-m1-macbooks-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Between M1 MacBooks for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagrams-most-appreciated-ae-layouts/"><u>2024 Approved Mastering Instagram's Most Appreciated AE Layouts</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-to-address-and-solve-the-tfla0002-error-in-microsoft-suite/"><u>Effective Techniques to Address and Solve the TFLA0002 Error in Microsoft Suite</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/fossil-fuels-in-the-crosshairs-are-they-solely-to-blame/"><u>Fossil Fuels in the Crosshairs: Are They Solely to Blame?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-cyberpunk-2077-game-from-freezing-a-comprehensive-guide/"><u>How to Prevent Your Cyberpunk 2077 Game From Freezing - A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-lava-blaze-2-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Lava Blaze 2 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-sluggish-downloads-in-utorrent-get-back-to-torrenting-fast/"><u>Quick Fixes for Sluggish Downloads in uTorrent – Get Back to Torrenting Fast!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-stop-kernelbasedll-from-crashing-effective-methods-unveiled/"><u>Quick Fixes to Stop KernelBase.dll From Crashing - Effective Methods Unveiled!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-city-skylines-crashing-problems-with-expert-2024-troubleshooting-guide/"><u>Resolve 'City Skylines' Crashing Problems with Expert 2024 Troubleshooting Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/skype-recording-procedures-streamlined-techniques-for-windows-and-os-x-for-2024/"><u>Skype Recording Procedures - Streamlined Techniques for Windows & OS X for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-unable-to-connect-on-kodi-platform-for-seamless-streaming/"><u>Troubleshooting Unable to Connect on Kodi Platform for Seamless Streaming</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-7-reliable-video-merging-tools-with-no-watermark-output/"><u>Updated 7 Reliable Video Merging Tools with No Watermark Output</u></a></li>
 </ul></div>
 

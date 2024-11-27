@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2024-11-10T03:54:03.890Z
-updated: 2024-11-17T04:13:33.550Z
+date: 2024-11-25T22:10:45.297Z
+updated: 2024-11-26T20:13:27.176Z
 tags:
   - win11
   - win10
@@ -35,16 +35,7 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Reset Winsock**
@@ -57,31 +48,21 @@ Here is how to reset Winsock data:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer.
 
 5) Launch Fallout 76 to see if it can be connected to the game server. If yes, then great! If the issue remains, please try**Fix 2** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2:**Close bandwidth hogging applications**
 
@@ -96,10 +77,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
@@ -107,6 +85,10 @@ Here is how to do it:
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -125,13 +107,6 @@ Here is how to do it:
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -187,6 +162,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) Type**the following command line** and press **Enter**  on your keyboard.
@@ -201,6 +180,10 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
@@ -208,10 +191,7 @@ _wireless router_
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
@@ -224,6 +204,10 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
@@ -231,6 +215,10 @@ Here is how to switch the DNS server to Google Public DNS:
  3) In the pop-up window, click **Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Right-click on**your current network** and click**Properties** .
 
@@ -240,23 +228,9 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -293,19 +267,22 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-endless-creativity-free-youtube-art-resources/"><u>[New] 2024 Approved Endless Creativity FREE YouTube Art Resources</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/iral-audio-waves-top-10-bgm-for-youtube-short-videos/"><u>[New] Viral Audio Waves Top 10 BGM for YouTube Short Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-unleashing-power-plays-exclusive-insights-into-best-7-total-war-battles/"><u>[Updated] 2024 Approved Unleashing Power Plays Exclusive Insights Into Best 7 Total War Battles</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-blitz-photo-screening-for-windows-users-for-2024/"><u>[Updated] Blitz Photo Screening for Windows Users for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-hitbox-vs-twitch-which-is-better/"><u>[Updated] Hitbox Vs Twitch Which Is Better?</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-stop-dirt-5-from-crashing-on-your-computer/"><u>Fixing Issues: How to Stop Dirt 5 From Crashing on Your Computer</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-f5-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from F5 5G?</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-unlock-the-power-of-personal-narratives-master-facebook-bios-for-maximum-impact/"><u>In 2024, Unlock the Power of Personal Narratives Master Facebook Bios for Maximum Impact</u></a></li>
-<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-hardware-and-drivers-compatibility-issue-heres-how-to-resolve-it/"><u>Rainbow Six Extraction Hardware & Drivers Compatibility Issue? Here's How to Resolve It</u></a></li>
-<li><a href="https://win-able.techidaily.com/silent-strategist-resolving-sound-problems-with-evil-genius-2/"><u>Silent Strategist: Resolving Sound Problems with Evil Genius 2</u></a></li>
-<li><a href="https://techidaily.com/some-mp4-won-t-play-on-my-sony-xperia-5-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Some MP4 won't play on my Sony Xperia 5 V</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-successful-fixing-the-audio-setup-issue-on-itunes/"><u>Troubleshooting Successful: Fixing the Audio Setup Issue on iTunes</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/twilight-crusaders-the-darkened-knight-vs-the-shining-one-for-2024/"><u>Twilight Crusaders The Darkened Knight vs the Shining One for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-mafia-definitive-edition-isnt-launching-yet-insights-revealed/"><u>Why Mafia: Definitive Edition Isn't Launching Yet – Insights Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-15-best-cine-luts-for-gopro-action-cam/"><u>[New] In 2024, 15 Best Cine LUTs for Gopro Action Cam</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-discovering-old-content-on-facebook-via-your-smartphonecomputer/"><u>[New] In 2024, Discovering Old Content on Facebook via Your Smartphone/Computer</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-and-channelizing-imovie-productions-on-youtube-for-2024/"><u>[Updated] Crafting and Channelizing iMovie Productions on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-tutorial-posting-restricted-youtube-to-gmail-accounts/"><u>[Updated] In 2024, Tutorial Posting Restricted YouTube to Gmail Accounts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-understanding-your-srt-equipment-like-a-pro-for-2024/"><u>[Updated] Understanding Your SRT Equipment Like a Pro for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-vivo-v29-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Vivo V29 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-video-memory-problem-heres-how-to-resolve-it-once-and-for-all/"><u>Fortnite Video Memory Problem? Here’s How to Resolve It Once and For All!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-xiaomi-13-ultra-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Xiaomi 13 Ultra.</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-dying-light-2s-stuttering-and-low-fps-problems-on-pc-step-by-step-guide/"><u>How To Solve Dying Light 2'S Stuttering and Low FPS Problems on PC - Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-the-infamous-roblox-error-277-for-pc-users/"><u>How to Solve the Infamous Roblox Error 277 for PC Users</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-timelapse-with-iphone-a-step-by-step-guide/"><u>In 2024, Timelapse with iPhone A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-unlock-full-screen-potential-on-youtube-videos/"><u>In 2024, Unlock Full Screen Potential on YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-visual-stability-in-racing-games-fixes-for-forza-horizon-5s-latest-driver-update-challenges/"><u>Mastering Visual Stability in Racing Games: Fixes for Forza Horizon 5'S Latest Driver Update Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-assassins-creed-valhallas-recurring-pc-system-errors-and-freezes/"><u>Resolving Assassin's Creed Valhalla's Recurring PC System Errors and Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steam-errors-getting-helldivers-2-up-and-running-again/"><u>Resolving Steam Errors: Getting Helldivers 2 Up and Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-preventing-crashes-of-wallpaper-engine-in-modern-windows-os/"><u>Solution Steps: Preventing Crashes of Wallpaper Engine in Modern Windows OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tricks-to-eliminate-high-ping-while-playing-valheim-on-pc/"><u>Top Tricks to Eliminate High Ping While Playing Valheim on PC</u></a></li>
 </ul></div>
 

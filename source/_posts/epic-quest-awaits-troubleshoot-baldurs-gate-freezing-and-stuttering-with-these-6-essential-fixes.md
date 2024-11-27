@@ -1,7 +1,7 @@
 ---
 title: "Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!"
-date: 2024-11-04T18:03:38.250Z
-updated: 2024-11-06T21:17:27.535Z
+date: 2024-11-24T16:12:20.834Z
+updated: 2024-11-27T00:49:44.803Z
 tags:
   - win11
   - win10
@@ -50,15 +50,12 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-3.jpg)
 4. Scroll down to locate Lost Ark. Then**check the boxes under the Domain, Private and Public tabs** , and click**OK** to save the settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/windows-denfender-firewall-lost-ark.jpg)
 5. If you can’t find the game on the list, click**Allow another app** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/windows-defender-firewall-4.jpg)
 6. Click**Browse** , navigate to the Lost Ark installation folder and choose the**LostArk.exe file** . Then click**Add** .
@@ -66,6 +63,10 @@ thumbnail: https://thmb.techidaily.com/04c62b2f290b2c5f1899e5598ab465be77832cb08
 7. Make sure the game is allowed for Domain, Private and Public access, and click**OK** to confirm the changes.
 
 Now see if you could start the game. If not, try the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify integrity of game files
 
@@ -75,26 +76,16 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Lost Ark** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Click the**Local Files** tab, and click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/verify-game-files.jpeg)
 
  It may take a couple of minutes for the process to complete. Once done, restart the game to test the issue. If the problem persists, move on to more fixes below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -112,17 +103,14 @@ Now see if you could start the game. If not, try the next method.
  You can also get the drivers you need for free, but you’ll need to download them one at a time and manually install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  A driver update should greatly improve your game experience. But if this doesn’t resolve the problem, check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run Lost Ark as an administrator
 
@@ -136,6 +124,10 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click**OK** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Try launching the game to see how things go. Still no luck? Take a look at the next method.
 
 ### Fix 5 – Turn off unnecessary programs
@@ -146,22 +138,13 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-1.jpg)
 2. Select the program and click**End task** until you close all the unneeded applications.  
 
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/taks-manager-2.jpg)
 
  Restart and check the game. If it still can’t get past the loading screen, continue to Fix 6.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Switch to DX9
 
@@ -171,23 +154,17 @@ Now see if you could start the game. If not, try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Lost Ark** from the game list and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under Launch Options, type**\-force-d3d9** and close the window.  
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/swtich-to-dx9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now relaunch Steam and Lost Ark. Is it able to work correctly in the DX9 version? If not, try the next fix below.
@@ -204,16 +181,7 @@ Now see if you could start the game. If not, try the next method.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<span id="1982485">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982485.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982485">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982485.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982485%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982485/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -245,20 +213,24 @@ Restart your game and check if Lost Ark goes back to the normal state.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-playlist-extraction-step-by-step-from-youtubes-archive/"><u>[New] 2024 Approved Playlist Extraction - Step by Step From YouTube's Archive</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-jest-in-imagery-create-with-kapwing-for-2024/"><u>[New] Jest in Imagery Create with Kapwing for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-direct-conversion-convert-and-upload-mp3-songs-on-youtube/"><u>[Updated] 2024 Approved Direct Conversion Convert & Upload MP3 Songs on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-nox-player-malfunctions-expert-solutions-to-prevent-pc-disruptions/"><u>Dealing with Nox Player Malfunctions: Expert Solutions to Prevent PC Disruptions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diy-fixing-guide-restoring-your-ds4-controllers-functionality-on-windows-when-facing-driver-installation-issues/"><u>DIY Fixing Guide: Restoring Your DS4 Controller's Functionality on Windows When Facing Driver Installation Issues</u></a></li>
-<li><a href="https://some-skills.techidaily.com/essential-12-apple-macintosh-utility-programs-the-must-have-tools-for-solo-users/"><u>Essential 12 Apple Macintosh Utility Programs: The Must-Have Tools for Solo Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-play-lego-star-wars-the-skywalker-saga-on-pc-after-the-2ebycrash-of-2024/"><u>How to Successfully Play Lego Star Wars: The Skywalker Saga on PC After the 2Ebycrash of 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/insightful-reviews-from-vllo-users-for-2024/"><u>Insightful Reviews From VLLO Users for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-splitgate-performance-fixing-frame-rates-and-stutter-effectively/"><u>Optimize Splitgate Performance: Fixing Frame Rates & Stutter Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-tactics-for-preventing-fps-drops-on-pcs/"><u>Optimizing Gameplay: Effective Tactics for Preventing FPS Drops on PCs</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/print-device-disappearing-act-in-windows-910/"><u>Print Device Disappearing Act in WIndows 9/10</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-correctly-repair-outlook-connection-issues/"><u>Resolved: Steps to Correctly Repair Outlook Connection Issues</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/spectral-footage-innovation-in-cams-for-2024/"><u>Spectral Footage Innovation in Cams for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-youtube-calendar-events-beyond-vidcon-for-2024/"><u>The Ultimate Youtube Calendar Events Beyond VidCon for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-your-battlefield-v-a-comprehensive-guide-for-launch-failures/"><u>Troubleshoot Your Battlefield V: A Comprehensive Guide for Launch Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-19-crashing-on-pc/"><u>[SOLVED] FIFA 19 Crashing on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-entry-into-the-world-of-google-meet-webinars/"><u>2024 Approved Entry Into the World of Google Meet Webinars</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/1725284591445-ai/"><u>動画品質向上のエキスパートサイト：AI技術が生んだ最新ソリューション</u></a></li>
+<li><a href="https://some-skills.techidaily.com/can-i-safely-mount-my-own-tesla-ev-charger-in-the-yard/"><u>Can I Safely Mount My Own Tesla EV Charger in the Yard?</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722968336439-download-and-update-amd-smbus-drivers-fast-and-simple-steps/"><u>Download & Update AMD SMBus Drivers: Fast & Simple Steps</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/enjoy-uninterrupted-entertainment-with-improved-netflix-performance-on-your-computer/"><u>Enjoy Uninterrupted Entertainment with Improved Netflix Performance on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-problems-with-content-warnings-in-voice-chatting-platforms/"><u>How To Overcome Problems with Content Warnings in Voice Chatting Platforms</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-xiaomi-13-ultra-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Xiaomi 13 Ultra Device</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-tecno-camon-20-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Tecno Camon 20 and Browser | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1715859819491-in-2024-virtual-playstation-revival-on-android-try-the-5-best-emulators-here/"><u>In 2024, Virtual PlayStation Revival on Android? Try the 5 Best Emulators Here!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/incorporating-ai-discussions-for-improved-task-flow/"><u>Incorporating AI Discussions for Improved Task Flow</u></a></li>
+<li><a href="https://win-able.techidaily.com/life-is-strange-true-colors-crash-fixed-comprehensive-guide/"><u>Life Is Strange: True Colors - Crash Fixed Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-2-wont-start-troubleshooting-steps-and-solutions/"><u>Modern Warfare 2 Won't Start: Troubleshooting Steps & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-simultaneous-collision-errors-on-personal-computers-a-comprehamatic-guide/"><u>Resolving Simultaneous Collision Errors on Personal Computers - A Comprehamatic Guide</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-comprehensible-guide-to-skypes-mp3-recorder/"><u>The Comprehensible Guide to Skype's MP3 Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-audio-issues-in-fallout-4-a-step-by-step-tutorial/"><u>Troubleshooting PC Audio Issues in Fallout 4 - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-in-how-to-build-a-better-city-latest-fixes/"><u>Troubleshooting Skyfall in How to Build a Better City: Latest Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-back-4-blood-on-unreal-engine-4-overcoming-the-gobi-glitch/"><u>Troubleshooting Tips for 'Back 4 Blood on Unreal Engine 4: Overcoming the Gobi Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-minecraft-stuttering-proven-techniques/"><u>Ultimate Guide: Stop Minecraft Stuttering - Proven Techniques</u></a></li>
 </ul></div>
 

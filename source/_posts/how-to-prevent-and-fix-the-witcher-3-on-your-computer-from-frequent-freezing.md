@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Fix 'The Witcher 3' On Your Computer From Frequent Freezing
-date: 2024-11-05T16:04:35.553Z
-updated: 2024-11-06T21:34:05.042Z
+date: 2024-11-22T21:15:39.084Z
+updated: 2024-11-26T19:15:35.698Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -56,6 +60,10 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -64,14 +72,15 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-3.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
@@ -85,35 +94,18 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
@@ -128,18 +120,15 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
 6. Save the profile and relaunch New World to check.
 
 If it’s still not working, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
 
@@ -167,29 +156,19 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -216,20 +195,18 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-comprehensive-tutorial-easy-ios-device-screen-capture/"><u>[Updated] 2024 Approved Comprehensive Tutorial Easy iOS Device Screen Capture</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-cost-analysis-strategy-for-music-video-creation/"><u>[Updated] 2024 Approved Cost Analysis Strategy for Music Video Creation</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/achieve-job-targets-6-creative-chatgpt-applications/"><u>Achieve Job Targets: 6 Creative ChatGPT Applications</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-discord-connection-issues-a-guide-to-overcoming-packet-loss/"><u>Fixing Discord Connection Issues: A Guide to Overcoming Packet Loss</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-centipede-bug-a-comprehensive-guide-for-destiny-2/"><u>Fixing the Centipede Bug: A Comprehensive Guide for Destiny 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-correcting-mouse-malfunctions-in-resident-evil-the-enemy-within/"><u>Guide: Correcting Mouse Malfunctions in Resident Evil - The Enemy Within</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-common-issues-resolving-dirt-5-crashes-on-pc/"><u>How to Fix Common Issues: Resolving Dirt 5 Crashes on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-gameplay-fixing-bugs-in-mass-effect-trilogy-definitive-edition-on-pc-and-xbox/"><u>How to Stabilize Your Gameplay - Fixing Bugs in Mass Effect Trilogy Definitive Edition on PC and Xbox</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-prime-tools-for-gopro-action-footage/"><u>In 2024, Prime Tools for GoPro Action Footage</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-in-2024-10-free-video-orientation-changers-to-fix-your-footage/"><u>New In 2024, 10 Free Video Orientation Changers to Fix Your Footage</u></a></li>
-<li><a href="https://media-tips.techidaily.com/nintendo-switch-a-comprehensive-guide-to-available-streaming-options/"><u>Nintendo Switch: A Comprehensive Guide to Available Streaming Options</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/optimizing-with-cookiebot-boosting-your-websites-potential/"><u>Optimizing with Cookiebot: Boosting Your Website's Potential</u></a></li>
-<li><a href="https://win-able.techidaily.com/spellbreak-pc-woes-heres-your-ultimate-guide-to-uninterrupted-gaming/"><u>Spellbreak PC Woes? Here's Your Ultimate Guide to Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-diablo-crashes-solutions-and-advice/"><u>Troubleshooting Your Diablo Ⅲ Crashes: Solutions and Advice</u></a></li>
-<li><a href="https://techidaily.com/unlock-iphone-15-plus-screen-lock-without-losing-data-by-drfone-ios-unlock-ios-unlock/"><u>Unlock iPhone 15 Plus screen lock without losing data</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-how-to-create-impressive-slow-motion-content-a-step-by-step-instagram-reel-masterclass/"><u>[New] 2024 Approved How to Create Impressive Slow Motion Content A Step by Step Instagram Reel Masterclass</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-update-resolving-civic-duty-error-civ-6-overcoming-access-denial-issues/"><u>2024 Update: Resolving Civic Duty Error (CIV 6) – Overcoming Access Denial Issues</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/boost-iphone-cinematic-experience-essential-film-gear-for-2024/"><u>Boost iPhone Cinematic Experience Essential Film Gear for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-resolve-madden-nfl-22-problems-fast/"><u>Easy Steps to Resolve Madden NFL 22 Problems Fast</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/epson-paper-jam-resolved-quickly/"><u>Epson Paper Jam, Resolved Quickly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/exploring-the-water-resistance-rating-of-the-newly-launched-iphone-15/"><u>Exploring the Water-Resistance Rating of the Newly Launched iPhone 15</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-keep-playing-without-crashes-fixing-maplestory-on-windows-11-latest-tips-and-techniques/"><u>How to Keep Playing Without Crashes: Fixing MapleStory on Windows 11 - Latest Tips & Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-bring-back-contrast-iphone-hdr-video-tips-for-premiere-pro-users/"><u>In 2024, Bring Back Contrast IPhone HDR Video Tips for Premiere Pro Users</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-integrating-sound-a-comprehensive-approach-to-narration/"><u>In 2024, Integrating Sound A Comprehensive Approach to Narration</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-across-facebook-twitter-instagram-and-youtube-channels/"><u>Mastering Social Media Engagement Across Facebook, Twitter, Instagram & YouTube Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-iv-game-crashes-explained/"><u>Resolved: Common Heart of Iron IV Game Crashes Explained</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-ultimate-guide-to-blending-multiple-exposures-into-a-single-hdr-in-lightroom-for-2024/"><u>The Ultimate Guide to Blending Multiple Exposures Into a Single HDR in Lightroom for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-persistent-palworld-pc-app-issues/"><u>Troubleshooting Steps for Fixing Persistent Palworld PC App Issues</u></a></li>
 </ul></div>
 

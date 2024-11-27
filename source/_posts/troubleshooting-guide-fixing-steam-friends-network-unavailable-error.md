@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Steam Friends Network Unavailable' Error"
-date: 2024-08-28T05:31:14.079Z
-updated: 2024-08-29T05:31:14.079Z
+date: 2024-11-23T19:31:46.584Z
+updated: 2024-11-26T16:25:22.539Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-372.png)
 
  Keep getting the**Error Code: -130 Failed to load web page (unknown error)** while running Steam? You’re not alone! Many Steam users are reporting it. But the good news is that you can fix it. Here are 3 solutions to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 simple fixes to try
 
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-360.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** If any items on this window are checked, uncheck them. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-363.png)
@@ -52,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/50f9fb85f30d6bdf30041380f63b78a3de31a8743
  If none of the boxes is checked, or if you still get the error code 130, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your network adapter driver
 
  This problem might occur when you’re using the wrong or outdated network adapter driver. It’s essential that you have the latest network adapter driver at all times.
@@ -90,9 +99,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-364.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -105,24 +111,34 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -131,9 +147,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
@@ -150,9 +163,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 **12)**  Relaunch your Steam to test your issue.
 
  Hopefully, this article helped in resolving your problem. If you have any questions or suggestions, please feel free to leave a comment below.
@@ -170,8 +180,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +187,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/he-essential-guide-to-youtube-trailer-editing-with-filmora/"><u>[New] The Essential Guide to YouTube Trailer Editing with Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-delving-into-the-world-of-audio-dissolves-crossfade/"><u>[Updated] 2024 Approved Delving Into the World of Audio Dissolves (Crossfade)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-stay-true-to-your-story-dont-drown-in-false-like-floods/"><u>[Updated] In 2024, Stay True to Your Story, Don't Drown in False Like Floods</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-optimizing-your-whiteboard-use-on-desktopiosandroid-devices-in-a-zoom-environment-for-2024/"><u>[Updated] Optimizing Your Whiteboard Use on Desktop/iOS/Android Devices in a Zoom Environment for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/expert-advice-resolving-common-problems-with-non-working-hp-displays/"><u>Expert Advice: Resolving Common Problems with Non-Working HP Displays</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-black-screen-problems-now-solved/"><u>Expert Tips on Overcoming Black Screen Problems, Now Solved!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-approved-tempo-transformation-software-index-for-2024/"><u>Expert-Approved Tempo Transformation Software Index for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-an-mp4-on-xiaomi-redmi-12-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play an MP4 on Xiaomi Redmi 12?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-roblox-error-277-on-windows-expert-tips-for-2n24/"><u>Overcome the Roblox Error 277 on Windows - Expert Tips for 2N24</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-confirm-your-game-data-for-smooth-playback/"><u>Overcoming Launch Problems: Confirm Your Game Data for Smooth Playback</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stalls-in-qbittorent-a-step-by-step-guide/"><u>Resolving Stalls in qBittorent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-fifa-21-doesnt-launch-issue/"><u>Solved: How to Fix 'FIFA 21 Doesn't Launch' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-fortnites-incessant-loading-screen-error-a-comprehensive-guide/"><u>Solving Fortnite's Incessant 'Loading Screen Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-rise-and-fall-of-vegas-pro-a-critical-look-for-2024/"><u>The Rise and Fall of Vegas Pro A Critical Look for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-playing-rainbow-six-siege-gratis-edition-2024/"><u>Top Tips for Playing Rainbow Six Siege Gratis Edition - 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eradicate-sims-4-performance-issues-on-your-pc/"><u>Ultimate Guide: Eradicate Sims 4 Performance Issues on Your PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-of-the-best-top-10-free-webm-video-editors-this-year/"><u>Updated 2024 Approved Best of the Best Top 10 Free WebM Video Editors This Year</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/voice-activated-mastery-top-5-techniques-to-command-chatgpt/"><u>Voice-Activated Mastery: Top 5 Techniques to Command ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-woes-decode-and-repair-dev-error-5573-on-your-gaming-devices/"><u>Warzone Woes? Decode and Repair Dev Error 5573 on Your Gaming Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-11-12T18:20:20.509Z
-updated: 2024-11-16T17:56:17.121Z
+date: 2024-11-25T00:40:14.008Z
+updated: 2024-11-26T17:44:17.262Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -65,13 +69,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -94,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -103,13 +104,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -129,13 +123,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -147,10 +134,7 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -158,15 +142,16 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -208,22 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-facebook-slides-a-beginners-handbook-for-visual-storytelling/"><u>[New] 2024 Approved Leveraging Facebook Slides A Beginner's Handbook for Visual Storytelling</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-making-every-game-a-masterpiece-proven-methods-to-record-and-relish-your-sims-experiences/"><u>[New] 2024 Approved Making Every Game a Masterpiece Proven Methods to Record and Relish Your Sims’ Experiences</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-master-the-making-of-spectacular-slideshows-for-your-social-circle-for-2024/"><u>[Updated] Master the Making of Spectacular Slideshows for Your Social Circle for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-swiftly-piece-together-a-stunning-google-photo-collage-for-2024/"><u>[Updated] Swiftly Piece Together a Stunning Google Photo Collage for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-unlock-new-dimensions-exploring-xbox-ones-zooming-feature/"><u>[Updated] Unlock New Dimensions Exploring Xbox One's Zooming Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/deciphering-nier-abelian-storm-stutters-effective-solutions-unveiled/"><u>Deciphering NieR: Abelian Storm Stutters: Effective Solutions Unveiled</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-pc-issues-fixes-for-elite-dangerous-game-crashes/"><u>Eliminate PC Issues: Fixes for Elite Dangerous Game Crashes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/enjoy-24-discount-on-airpods-pro-2-the-new-earbuds-that-double-as-hearing-devices-today-only-exclusive-offer/"><u>Enjoy 24% Discount on AirPods Pro 2 - The New Earbuds that Double as Hearing Devices, Today Only! Exclusive Offer</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-video-memory-problems-for-a-smooth-fortnite-experience/"><u>How to Fix Video Memory Problems for a Smooth Fortnite Experience</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-seamlessly-transform-mod-audiovideo-into-mp4-format-preserving-full-quality-discover-our-top-7-methods/"><u>How to Seamlessly Transform MOD Audio/Video Into MP4 Format Preserving Full Quality - Discover Our Top 7 Methods</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-realme-11-pro-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Realme 11 Pro?</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-troubleshooting-pc-failures-2024s-definitive-guide/"><u>Master the Art of Troubleshooting PC Failures: 2024'S Definitive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/prevent-dreamlight-valley-crashes-on-pc-with-these-6-easy-solutions/"><u>Prevent Dreamlight Valley Crashes on PC with These 6 Easy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-new-world-server-lags-a-comprehensive-guide/"><u>Resolving 'New World' Server Lags: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-getting-your-origin-game-back-online/"><u>Solution Steps for Getting Your Origin Game Back Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-dilemma-of-nonfunctioning-davinci-resolve-software-in-windows-pcs/"><u>Solving the Dilemma of Nonfunctioning DaVinci Resolve Software in Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-spellbreak-pc-performance-issues/"><u>Troubleshooting Guide: Solving 'Spellbreak' PC Performance Issues</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-next-gen-virtual-adventures-upcoming-top-5-psvr-games-to-love-for-2024/"><u>[New] Next-Gen Virtual Adventures Upcoming Top 5 PSVR Games to Love for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-precision-in-practice-detailed-manual-on-windows-pc-live-tv-capture/"><u>[New] Precision in Practice Detailed Manual on Windows PC Live TV Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-scaling-your-channel-a-guide-to-increased-viewership-and-followers/"><u>[Updated] Scaling Your Channel A Guide to Increased Viewership and Followers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-mastering-after-effects-with-top-rated-text-tools/"><u>2024 Approved Mastering After Effects with Top-Rated Text Tools</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719382132283-boost-your-windows-screenshot-game-4-key-solutions/"><u>Boost Your Windows Screenshot Game: 4 Key Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-endless-load-on-minecraft-solutions-and-guide/"><u>Bypassing the Endless Load on Minecraft: Solutions and Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/flawless-dialogues-6-things-not-to-miss-in-gpt-conversations/"><u>Flawless Dialogues: 6 Things Not To Miss in GPT Conversations</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-stuttering-and-hanging-problems-while-playing-cod-black-ops-cold-war-for-a-smoother-game/"><u>How To Resolve the Stuttering & Hanging Problems While Playing COD: Black Ops Cold War for a Smoother Game</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-terraria-connectivity-six-essential-fixes-for-lost-connections/"><u>Master Terraria Connectivity: Six Essential Fixes for Lost Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/phasmophobias-excessive-cpu-utilization-quick-troubleshooting-steps/"><u>Phasmophobia's Excessive CPU Utilization: Quick Troubleshooting Steps</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/recuperation-rapide-dun-fichier-excel-supprime-sous-windows-11/"><u>Récupération Rapide D'un Fichier Excel Supprimé Sous Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playtime-awaits-in-total-war-saga-troy-following-recent-pc-bug-resolution/"><u>Seamless Playtime Awaits in Total War Saga: Troy Following Recent PC Bug Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999055775-troubleshoot-non-responsive-discord-popups-with-ease/"><u>Troubleshoot Non-Responsive Discord Popups with Ease!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-final-cut-pro-on-the-house-enjoy-a-90-day-free-trial-today/"><u>Updated Final Cut Pro on the House Enjoy a 90-Day Free Trial Today</u></a></li>
 </ul></div>
 

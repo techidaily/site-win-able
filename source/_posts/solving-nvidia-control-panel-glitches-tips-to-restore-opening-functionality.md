@@ -1,7 +1,7 @@
 ---
 title: "Solving NVIDIA Control Panel Glitches: Tips to Restore Opening Functionality"
-date: 2024-09-01T07:58:01.158Z
-updated: 2024-09-02T07:58:01.158Z
+date: 2024-11-23T22:26:40.530Z
+updated: 2024-11-26T22:17:19.280Z
 tags:
   - win11
   - win10
@@ -33,21 +33,28 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 1. **Right-click** the**Start** button and select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9621d745191.jpg)
 2. Navigate to and select Skype, then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96227db84d5.jpg)
 3. Under Reset, click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622ba52457.jpg)
 4. Click**Reset** as confirmation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b9622fcda08a.jpg)
 5. When the reset is finished, you’ll see a tick next to the Reset button. Then you can close the Settings window.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96237bdfba8.jpg)
 6. Log into Skype and test by sending a message to a contact.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b96253de6794.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 2 – Update your Skype to the latest version
 
  If you’re using an older version of Skype on Windows 10, you can check for updates in the **[Microsoft Store](https://www.microsoft.com/en-us/p/skype/9wzdncrfj364?rtc=1&activetab=pivot%3aoverviewtab)**  to try fixing the**Skype messages not sending** problem.
@@ -58,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 3 – **Get the classic version of Skype**
 
  If the above steps produce no results in your Microsoft Skype, then you may try installing the classic version of Skype for your Windows PC. Click this **[link](http://download.skype.com/msi/SkypeSetup%5F7.41.0.101.msi)**  to download the**classic Skype 7.41.0.101** for Windows.
@@ -76,27 +80,37 @@ thumbnail: https://thmb.techidaily.com/5e8073ee6fa80b00481e787b8ffd70b1f1a083692
 1. Type**skype** in the Windows search box,**right-click** on Skype and select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f2f2dddb.jpg)
 2. On your keyboard, press the **Windows![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png)**  
- key and **R**  at the same time to open the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ key and **R**  at the same time to open the Run box.
 3. Type**%appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964f4e00b2c.png)
 4. Select the**Skype** folder and**delete** it to completely remove Skype from your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964c3405240.jpg)
 5. Click **[this link](https://www.skype.com/en/get-skype/)**  to download Skype.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b964d3604b91.jpg)
 6. When the download is completed, open the downloaded file and follow the onscreen instructions to reinstall Skype on your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
 Hopefully this fixes your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip
 
@@ -111,8 +125,9 @@ Hopefully this fixes your problem.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bee6ff414d3a.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at**<support@drivereasy.com>.**
 
 * [Skype](https://tools.techidaily.com/drivereasy/download/)
@@ -123,8 +138,6 @@ Hopefully this fixes your problem.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +145,24 @@ Hopefully this fixes your problem.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-mastering-instagrams-live-feature-without-your-identity/"><u>[New] 2024 Approved Mastering Instagram's Live Feature Without Your Identity</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-navigating-the-backup-of-phones-camera-roll-for-snapchat-users-for-2024/"><u>[Updated] Navigating the Backup of Phone's Camera Roll for Snapchat Users for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/twitter/"><u>今年もTwitter動画楽しむ！２０２四にぴってるおすすめのビデオ保存サイトベスト９選！</u></a></li>
+<li><a href="https://win-able.techidaily.com/wav-mp45/"><u>無料WAV MP4コンバーター:ベスト5ソフト選び方とレビュー集紹介</u></a></li>
+<li><a href="https://win-able.techidaily.com/windowsandroidiphonegif3/"><u>最適な動画変換ツール：Windows、Android、iPhone対応で一番おすすめのGIF作成アプリトップ3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/assistenza-on-line-esperta-techno-center-per-utilizzare-winx-dvd-ripper-e-winxvideoai/"><u>Assistenza On-Line Esperta Techno Center per Utilizzare WinX DVD Ripper E Winxvideo.AI</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/curated-insta-photos-in-slideshow-for-2024/"><u>Curated Insta Photos in Slideshow for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-most-enjoyable-family-movies-streaming-now-on-amazon-prime-in-july-2024/"><u>Discover the Most Enjoyable Family Movies Streaming Now on Amazon Prime in July 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/format-showdown-evaluating-value-in-dvds-blu-rays-and-digital-downloads/"><u>Format Showdown: Evaluating Value in DVDs, Blu-Rays and Digital Downloads</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-itel-a60-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Itel A60 to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-12-prominent-realme-v30-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Realme V30 Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-wav-to-mp3-conversion-tools-compare-windows-mac-and-online-options/"><u>Top 8 WAV to MP3 Conversion Tools: Compare Windows, Mac & Online Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-picks-for-imovie-compatible-video-converters-effortless-transformations/"><u>Top Picks for iMovie Compatible Video Converters - Effortless Transformations</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-audio-files-from-wav-to-ogg-format-with-easy-steps-both-offline-and-online-solutions/"><u>Transforming Audio Files From WAV to Ogg Format with Easy Steps - Both Offline & Online Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-refining-your-aerial-shots-using-top-tier-drone-editing-programs/"><u>Ultimate Guide: Refining Your Aerial Shots Using Top-Tier Drone Editing Programs</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10mp4dvd/"><u>Windows 10用のMP4ファイルをDVDへ記録するための手引き</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wmavobmovavi-web/"><u>WMA・VOBファイルを無料で簡単変換:Movavi Webサービス</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Armored Core 6 on Windows: Diagnosing and Repairing Sudden Game Crashes in the Fires of Rubicon"
-date: 2024-10-20T10:55:00.326Z
-updated: 2024-10-26T07:38:56.262Z
+date: 2024-11-20T20:10:18.055Z
+updated: 2024-11-26T19:22:45.417Z
 tags:
   - win11
   - win10
@@ -42,10 +42,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
@@ -64,6 +61,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -79,10 +80,7 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,6 +90,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ## 3\. Verify integrity of game files
 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Verify on Steam
 
@@ -103,10 +105,11 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
-  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Verify on GOG Galaxy
@@ -116,24 +119,18 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 3. Click on the**Customize button** ![](https://images.drivereasy.com/wp-content/uploads/2021/09/customization-button-GOG-Galaxy.png) (on the right side of the Play button), select**Manage installation > Verify / Repair** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to verify integrity of game files on GOG Galaxy](https://images.drivereasy.com/wp-content/uploads/2020/12/GOG-GALAXY.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  GOG Galaxy will now verify all of your game files, and compare them with files hosted on the game servers. If there are any discrepancies GOG Galaxy will redownload, and repair corrupted files.
 
  When it’s all done, relaunch your game. If the freezing issue persists, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Disable overlays
 
@@ -149,25 +146,11 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -212,18 +195,22 @@ Once done, restart your game and test the gameplay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://driver-error.techidaily.com/fixed-ax201-intel-wi-fi-6-initializing-fails/"><u>[FIXED] AX201: Intel Wi-Fi 6 Initializing Fails</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-prodigy-skyrocketing-with-content-innovation/"><u>2024 Approved Channel Prodigy Skyrocketing with Content Innovation</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-msi-mystic-light-working-again-a-guide-for-windows-users-with-troubled-lights/"><u>Get Your MSI Mystic Light Working Again: A Guide for Windows Users with Troubled Lights</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-find-and-install-toshiba-laptop-drivers-on-windows-devices/"><u>How to Find and Install Toshiba Laptop Drivers on Windows Devices</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-vivo-g2-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Vivo G2 to Protect Your Individual Information</u></a></li>
-<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-tecno-pop-7-pro-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Tecno Pop 7 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-code-vein-from-freezing-or-crashing/"><u>How to Stop Your Code Vein From Freezing or Crashing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/huge-apple-vision-pro-deal-get-a-200-discount-now-on-amazon-before-its-gone-insights/"><u>Huge Apple Vision Pro Deal: Get a $200 Discount Now on Amazon Before It's Gone | Insights</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-t2x-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo T2x 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-and-refine-graphics-quality-in-call-of-duty-warzone-pc-guide/"><u>Optimize and Refine Graphics Quality in Call of Duty: Warzone - PC Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-black-screen-woes-in-fallout-4-a-step-by-step-guide/"><u>Solving Black Screen Woes in Fallout 4 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win11.techidaily.com/streamlining-windows-photoshop-performance-issues/"><u>Streamlining Windows Photoshop Performance Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/youtube-playback-hiccups-how-to-make-sure-your-videos-keep-up-with-their-soundtracks-in-chrome-and-ff/"><u>Youtube Playback Hiccups: How to Make Sure Your Videos Keep Up With Their Soundtracks in Chrome and FF</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-archive-adventure-revisiting-classic-facebook/"><u>[Updated] Archive Adventure Revisiting Classic Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-tips-overcome-crashes-using-latest-techniques/"><u>Alan Wake 2 Stability Tips: Overcome Crashes Using Latest Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-nokia-105-classic-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Nokia 105 Classic</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-finally-takes-off-overcoming-initial-hurdles/"><u>Cyberpunk 2077 Finally Takes Off - Overcoming Initial Hurdles</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effiziente-bildubertragung-von-iphone-auf-mac-professionelle-losungen-erklart/"><u>Effiziente Bildübertragung Von iPhone Auf Mac - Professionelle Lösungen Erklärt</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-error-methods-to-reconnect-with-outlook-seamlessly/"><u>Fixing the Error: Methods to Reconnect with Outlook Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-thx-immersive-sound-experience-back-troubleshooting-steps-for-windows-1110-users/"><u>Getting Thx Immersive Sound Experience Back: Troubleshooting Steps for Windows 11/10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998784405-how-i-overcame-recurring-crashes-in-beat-saber-tips-inside/"><u>How I Overcame Recurring Crashes in Beat Saber – Tips Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-max-to-the-previous-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro Max to the Previous iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-fallout-nt-launch-expert-advice-and-solutions/"><u>How To Successfully Overcome Fallout N't Launch - Expert Advice and Solutions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-google-pixelbook-go-premium-features-meet-steep-pricing/"><u>In-Depth Analysis of the Google Pixelbook Go: Premium Features Meet Steep Pricing</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-ensuring-consistent-acoustic-output-how-to-calibrate-volumes-in-vlc-media-center-for-2024/"><u>New Ensuring Consistent Acoustic Output How to Calibrate Volumes in VLC Media Center for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-ghost-touch-glitches-a-list-of-10-reliable-fixes-you-must-try/"><u>Overcome iPhone Ghost Touch Glitches: A List of 10 Reliable Fixes You Must Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006358908-resolve-your-dead-by-daylight-crash-issues-with-these-simple-fixes-for-2n4/"><u>Resolve Your Dead By Daylight Crash Issues with These Simple Fixes for 2N4!</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-jedi-fallen-order-overcoming-initialization-hurdles-and-getting-play-time/"><u>Star Wars Jedi: Fallen Order - Overcoming Initialization Hurdles and Getting Play Time</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-oppo-a2-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Oppo A2 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/what-sets-apples-ipad-apart-from-the-rest-of-the-tablet-market/"><u>What Sets Apple's iPad Apart From the Rest of the Tablet Market?</u></a></li>
 </ul></div>
 

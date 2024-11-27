@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Success: Starting Far Cry 6 Without a Hitch on Your Computer"
-date: 2024-08-28T05:31:02.054Z
-updated: 2024-08-29T05:31:02.054Z
+date: 2024-11-21T00:39:15.444Z
+updated: 2024-11-26T16:54:34.794Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 2. [**Remove broken game files (PC)**](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix2)
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver (PC)
 
@@ -52,6 +56,11 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -60,9 +69,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If the latest drivers didn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Remove broken game files (PC)
 
  There’s information saying that the 6034 error is related to game files, which means you might fix it by a**scan and repair** . But before that, you need to delete some game files manually to ensure Blizzard downloads the latest version:
@@ -77,15 +83,13 @@ To do so, first visit the website of your GPU manufacturer:
 3. In the left pane, select **Call of Duty: MW** . Then click **Options**  and select **Scan and Repair** from the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 4. Wait for the process to complete. Then launch Warzone and check if it’s working now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -93,18 +97,18 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this trick doesn’t help you, simply check out the next one.
@@ -125,8 +129,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +136,26 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-lightning-share-youtube-playlist-hacks/"><u>[New] 2024 Approved Lightning Share YouTube Playlist Hacks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-choice-15-superior-action-recorders-for-2024/"><u>[New] Ultimate Choice 15 Superior Action Recorders for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-crafting-effective-youtube-thumbnails-and-banners-for-2024/"><u>[Updated] Crafting Effective YouTube Thumbnails & Banners for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-professional-gamers-toolkit-advanced-recording-tactics/"><u>[Updated] In 2024, Professional Gamers' Toolkit Advanced Recording Tactics</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-xiaomi-redmi-note-13-pro-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Xiaomi Redmi Note 13 Pro 5G Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999057156-busting-the-double-frame-rate-drop-mystery-on-pc-expert-solutions-revealed/"><u>Busting The Double Frame Rate Drop Mystery on PC – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/eversapce-2-troubleshooting-guide-resolving-pc-crash-issues-permanently/"><u>Eversapce 2 Troubleshooting Guide: Resolving PC Crash Issues Permanently</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-issues-in-windows-11-and-10/"><u>Fixes & Solutions: Resolving Wallpaper Engine Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-12-pro-max-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 12 Pro Max</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-recommendations-10-high-end-podcast-mics/"><u>In 2024, Expert Recommendations 10 High-End Podcast Mics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-professional-techniques-for-aps-hdr-creation/"><u>In 2024, Unveiling Professional Techniques for APS HDR Creation</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-to-your-subscription-statistics/"><u>Navigating to Your Subscription Statistics</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011783033-overcome-game-freeze-glitches-in-code-vein-expert-guidance-for-smooth-play/"><u>Overcome Game Freeze Glitches in Code Vein: Expert Guidance for Smooth Play!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-nagging-not-launching-troubleshoot-and-fix-the-issue-today/"><u>Resident Evil Nagging Not Launching? Troubleshoot and Fix the Issue Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-getting-intel-driver-assistant-back-on-track-on-pc/"><u>Step-by-Step Guide: Getting Intel Driver Assistant Back on Track on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-players-handbook-to-smooth-sailing-overcoming-ping-issues-in-chivalry-ii/"><u>The Player’s Handbook to Smooth Sailing: Overcoming Ping Issues in Chivalry II</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-pcs-vr-challenges-with-these-8-proven-techniques-to-prevent-vrchat-crashes/"><u>Troubleshoot Your PC's VR Challenges with These 8 Proven Techniques to Prevent VRChat Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-issues-in-ituness-audio-setup/"><u>Troubleshooting: Resolving Issues in iTunes's Audio Setup</u></a></li>
+</ul></div>
 

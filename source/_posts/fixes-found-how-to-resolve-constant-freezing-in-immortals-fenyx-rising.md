@@ -1,7 +1,7 @@
 ---
 title: "Fixes Found: How to Resolve Constant Freezing in Immortals Fenyx Rising"
-date: 2024-10-24T14:53:31.462Z
-updated: 2024-10-25T22:16:38.901Z
+date: 2024-11-19T17:54:43.629Z
+updated: 2024-11-26T17:02:50.901Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -59,6 +63,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -70,31 +78,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
-
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -129,10 +121,7 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975802/19272" target="_top" id="1975802">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975802" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975802/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -145,14 +134,11 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -177,16 +163,22 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-rhythmic-instagrams-a-step-by-step-music-guide/"><u>[New] 2024 Approved Rhythmic Instagrams A Step-by-Step Music Guide</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-overcome-obstacles-with-these-top-10-motivation-flicks/"><u>[New] Overcome Obstacles with These Top 10 Motivation Flicks</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-auditcast-inspection/"><u>2024 Approved AuditCast Inspection</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/driven-with-advanced-cookie-tracking-discover-the-power-of-cookiebot/"><u>Driven with Advanced Cookie Tracking: Discover the Power of Cookiebot</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/e-and-captivate-viewers-ultimate-tips-for-cutting-edge-youtube-edits/"><u>Engage and Captivate Viewers Ultimate Tips for Cutting-Edge Youtube Edits</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-continuous-crashes-in-elex-ii-on-your-computer/"><u>How to Resolve Continuous Crashes in Elex II on Your Computer</u></a></li>
-<li><a href="https://driver-error.techidaily.com/installing-missing-device-drivers-on-your-pc-running-windows-version-1187-a-step-by-step-guide/"><u>Installing Missing Device Drivers on Your PC Running Windows (Version 11/8/7) – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-assassins-creed-odyssey-stability-expert-troubleshooting-tips/"><u>Master Assassin's Creed Odyssey Stability : Expert Troubleshooting Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013063903-minecraft-network-troubles-heres-how-to-re-establish-connection/"><u>Minecraft Network Troubles? Here’s How to Re-Establish Connection</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-common-fixes-for-when-fifa-21-doesnt-open-on-your-pcconsole/"><u>Resolved: Common Fixes for When FIFA 21 Doesn't Open on Your PC/Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secrets-of-detroit-the-game-where-consciousness-awakens-smoothly-on-your-computer/"><u>Unlock the Secrets of Detroit: The Game Where Consciousness Awakens Smoothly on Your Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicated-approaches-to-saving-gameplay/"><u>[New] In 2024, Uncomplicated Approaches to Saving Gameplay</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>[New] The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-nightscape-techniques-unlocked/"><u>[Updated] IPhone Nightscape Techniques Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/connecting-successfully-in-rainbow-six-siege-overcoming-server-issues/"><u>Connecting Successfully in Rainbow Six Siege: Overcoming Server Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-critical-pc-stability-errors-for-lego-star-wars-2024-release-fixes/"><u>Expert Advice: Addressing and Correcting Critical PC Stability Errors for Lego Star Wars - 2024 Release Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/freshly-released-geforce-rtx-2nvidas-rtx-2070-driver-upgrade-for-windows-users-versions-10-8-and-7/"><u>Freshly Released: GeForce RTX 2Nvida's RTX 2070 Driver Upgrade for Windows Users (Versions 10, 8 & 7)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-update-your-windows-graphic-cards-with-sapphire-drivers/"><u>How to Update Your Windows Graphic Cards with SAPPHIRE Drivers</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-top-tier-tactics-for-crafting-fbs-most-watched-videos/"><u>In 2024, Top-Tier Tactics for Crafting #FB's Most Watched Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-to-fix-the-infamous-leaf-error-on-apex-legends-guide-for-gaming-enthusiasts/"><u>Top Tips to Fix the Infamous 'Leaf' Error on Apex Legends – Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-issues-game-wont-start/"><u>Troubleshooting City Skylines 2 Issues: Game Won't Start?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-problems-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Guide: Fixing Launch Problems in A Total War: Saga - Troy on Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-stream-games-from-ps5-with-friends/"><u>Ultimate Tutorial: How to Stream Games From PS5 with Friends</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-to-smooth-imports-in-windows-10-os-for-2024/"><u>Unlocking the Secrets to Smooth Imports in Windows 10 OS for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/victory-over-fortnites-unable-to-join-a-party-effective-strategies-to-tackle-error-code-84/"><u>Victory Over Fortnite's 'Unable to Join a Party': Effective Strategies To Tackle Error Code 84</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-chatgpt-for-2024/"><u>What Is ChatGPT for 2024</u></a></li>
 </ul></div>
 

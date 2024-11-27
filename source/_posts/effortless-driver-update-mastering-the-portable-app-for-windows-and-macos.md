@@ -1,7 +1,7 @@
 ---
 title: "Effortless Driver Update: Mastering the Portable App for Windows and MacOS"
-date: 2024-08-28T05:31:26.183Z
-updated: 2024-08-29T05:31:26.183Z
+date: 2024-11-20T23:19:19.847Z
+updated: 2024-11-26T22:27:46.949Z
 tags:
   - win11
   - win10
@@ -41,14 +41,11 @@ thumbnail: https://thmb.techidaily.com/acc4624304fa10f6661dcbd0f5aeeaf72266dc481
 1. On your Steam client, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f73008c0a.jpg)
 2. Click**In-Game** , and make sure to check the box next to**Enable the Steam Overlay while in-game** , then click**OK** to save your changes.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7865d266.jpg)
  If you’ve enabled overlay before, try to disable it and then re-enable it.  Restart CS:GO again and see if it works better.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update graphics card driver
@@ -61,14 +58,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click the**Update** button next to the flagged graphics card to automatically download the correct version of their driver (you can do this with the**FREE** version), then install it in your computer. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click _**Update All**_ ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f7e683d70.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
- This should help reduce the stuttering or lag issues in your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ This should help reduce the stuttering or lag issues in your computer.
+
 ### Fix 4: Adjust game settings
 
  Sometimes the improper settings in your CS:GO can make your game stutters, so you can check these following settings:
@@ -81,8 +77,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Right click on your**CS:GO executable file .exe** , and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9219dc8e.jpg)
 3. Click the**Compatibility** tab, and check the box next to**Disable fullscreen optimizations** . Then click**Apply** and**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9819c11e.jpg)
 4. Click the .exe file to launch CS:GO in your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Set the graphics settings in your game to Low
 
@@ -93,9 +98,6 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 3. In the advanced video options section, set these settings to**Low** :**Global Shadow Quality** ,**Model / Texture Detail** ,**Effect Detail** ,**Shader Detail** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9a6977cf.jpg)
 4. Save the changes and restart CS:GO to see if it works better.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Fix 5: Adjust settings in your computer
 
@@ -107,29 +109,31 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 2. Click**Power** **options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73f9c9449a7.jpg)
 3. In**Preferred** **plans** , select**High performance.**  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b73fa58e44c7.jpg)
 4. Restart your computer and open CS:GO.
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This can help improve your system performance when playing games.
 
 #### 2\. Adjust settings in System Properties
 
 1. Type**This PC** in the Search box at the**Start** button, right click on**This PC** , and select**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe2c8e7fc9.jpg)
 2. Click**Advanced** **system** **settings** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe330dfe6e.png)
-3. In the**Advanced** tab, click**Settings…** in the**Performance** section.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3880f602.png)
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+3. In the**Advanced** tab, click**Settings…** in the**Performance** section.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3880f602.png)
 4. Click the**Advanced** tab, make sure to select**Adjust for best performance of Programs** , and click**Apply** .![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe3f36fc31.png)
 5. Click the**Data Execution Prevention** tab, make sure to select **Turn on DEP for essential Windows programs and services only** . Then click**Apply** and**OK** to save.![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5afbe47c154fc.png)
  After configuring the settings, restart your computer and try your CS:GO (or other programs) to see if it works better now.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 3\. Disable CPU Core 0 for CS:GO
@@ -144,8 +148,9 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
 5. Restart CS:GO again.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Restrict background applications and downloads
 
  If you’re running some other applications or programs that consume your system resources, that will lead to the CS:GO stuttering issues. So you should check and make sure to limit the applications and downloads when playing your game.
@@ -163,8 +168,6 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +175,24 @@ You can lower the video settings in your CS:GO to reduce the lags and stuttering
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-cutting-edge-free-and-easy-top-11-youtube-title-inventors/"><u>[New] 2024 Approved Cutting-Edge, Free, and Easy Top 11 YouTube Title Inventors</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-youtube-tv-demystified-your-complete-reference/"><u>[New] 2024 Approved YouTube TV Demystified Your Complete Reference</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-10-insights-for-creating-hits-with-music-reaction-videos/"><u>[New] Top 10 Insights for Creating Hits with Music Reaction Videos</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-ultimate-innovation-in-desktop-computers-for-2024/"><u>[New] Ultimate Innovation in Desktop Computers for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-mastering-pip-macos-sierras-guide-to-multimedia-magic-for-2024/"><u>[Updated] Mastering PIP MacOS Sierra's Guide to Multimedia Magic for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-typographic-tactics-for-advanced-ae-users/"><u>2024 Approved Typographic Tactics for Advanced AE Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000378468-fix-chrome-lag-issues-fast-simple-solutions/"><u>Fix Chrome Lag Issues Fast: Simple Solutions!</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/halting-real-time-recordings-on-qt-player/"><u>Halting Real-Time Recordings on QT Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-cyberpunk-2077-playability-fixing-the-infamous-frame-rate-drop/"><u>Improving Cyberpunk 2077 Playability: Fixing the Infamous Frame-Rate Drop</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/introductory-guide-to-the-amazfit-bip-a-top-pick-for-budget-friendly-smartwatches/"><u>Introductory Guide to the Amazfit Bip: A Top Pick for Budget-Friendly Smartwatches</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-issues-astro-a50-and-command-unit-sync-problems/"><u>Resolving Connection Issues: Astro A50 and Command Unit Sync Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-with-gas-station-simulator-on-pc-crash-free-strategies/"><u>Smooth Sailing with Gas Station Simulator on PC - Crash-Free Strategies!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-for-instant-repair-of-valorant-graphics-driver-error/"><u>Solution for Instant Repair of 'Valorant Graphics Driver Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issues-with-maplestory-not-starting-up/"><u>Solved! Issues with MapleStory Not Starting Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-ue4s-deadly-bug-enhancing-your-gameplay-experience/"><u>Step-by-Step Solution for UE4's Deadly Bug - Enhancing Your Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-mw3-from-crashing-on-your-pc-with-these-quick-fixes/"><u>Stop MW3 From Crashing on Your PC with These Quick Fixes!</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-metallic-seekers-industry-experts-choice-zdnet/"><u>Top-Rated Metallic Seekers : Industry Experts' Choice - ZDNet</u></a></li>
+</ul></div>
 
