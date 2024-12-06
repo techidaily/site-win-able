@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Black Screen Issues in Star Wars Battlefront II"
-date: 2024-11-23T19:31:21.566Z
-updated: 2024-11-27T00:02:13.895Z
+date: 2024-11-30T16:00:32.531Z
+updated: 2024-12-06T16:34:41.983Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Necromunda: Hired Gun
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The system requirements of Necromunda: Hired Gun
 
@@ -61,10 +57,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -77,10 +69,6 @@ Necromunda: Hired Gun
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It may take some time to complete the verifying process.
 
 **For Epic Games Launcher users:**
@@ -89,9 +77,17 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -108,12 +104,12 @@ It may take some time to complete the verifying process.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -132,10 +128,6 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -146,7 +138,15 @@ It may take some time to complete the verifying process.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -188,17 +188,18 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-alter-twitter-video-glimpse-artwork/"><u>[New] In 2024, Alter Twitter Video Glimpse Artwork</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-budget-friendly-webinar-strategies-for-youtube/"><u>[New] In 2024, Budget-Friendly Webinar Strategies for YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-depth-shots-the-art-of-closing-in-on-movies-for-2024/"><u>[New] In-Depth Shots The Art of Closing in on Movies for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-frustration-solve-persistent-garrys-mod-crashing/"><u>Avoid Frustration - Solve Persistent Garry's Mod Crashing !</u></a></li>
-<li><a href="https://win-docs.techidaily.com/convert-your-videos-to-mp4-for-free-top-mpg-video-transformation-tools/"><u>Convert Your Videos to MP4 for Free: Top MPG Video Transformation Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Motorola Moto G24 | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-noteworthy-14-innovative-text-movements/"><u>In 2024, Noteworthy 14 Innovative Text Movements</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/m1-vs-m3-a-comprehensive-review-of-apples-latest-laptop-generation-for-tech-enthusiasts/"><u>M1 vs M3: A Comprehensive Review of Apple's Latest Laptop Generation for Tech Enthusiasts</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/quick-and-simple-guide-converting-mkv-files-into-m2ts-format/"><u>Quick and Simple Guide: Converting MKV Files Into M2TS Format</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-oxygen-a-real-time-space-colony-simulator-stability-problems/"><u>Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-making-steam-acknowledge-your-controller-on-a-pc/"><u>Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-uncover-the-best-online-church-streaming-options/"><u>[New] In 2024, Uncover The Best Online Church Streaming Options</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-diy-cinematic-techniques-every-hobbyist-should-know/"><u>[New] Quick DIY Cinematic Techniques Every Hobbyist Should Know</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-last-to-first-deconstructing-your-video-watch-list/"><u>[Updated] 2024 Approved From Last to First Deconstructing Your Video Watch List</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-a-guide-to-retrieving-historic-facebook-stories/"><u>[Updated] In 2024, A Guide to Retrieving Historic Facebook Stories</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-select-high-quality-drones-for-sale/"><u>[Updated] Select High-Quality Drones For Sale</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/-pitfalls-maintaining-youtube-thumbnail-quality-for-2024/"><u>Avoid Pitfalls Maintaining YouTube Thumbnail Quality for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-eliminate-the-dark-mode-dilemma-in-rainbow-six-siege-for-pc-gamers/"><u>Expert Advice to Eliminate the Dark Mode Dilemma in Rainbow Six Siege for PC Gamers</u></a></li>
+<li><a href="https://discover-great.techidaily.com/fast-fixes-for-when-your-external-hdd-isnt-detected-in-windows-11/"><u>Fast Fixes for When Your External HDD Isn't Detected in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-vanguard-overcoming-error-code-0x00001338-n-on-windows-complete-guide/"><u>Fixing Call of Duty Vanguard: Overcoming Error Code 0X00001338 (N) on Windows - Complete Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-my-signature-to-rtf-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add my signature to .rtf file</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013898465-how-to-repair-your-windows-11-start-menu-problem-solved/"><u>How to Repair Your Windows 11 Start Menu – Problem Solved!</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/optimizing-video-speed-on-tiktok-platform-for-2024/"><u>Optimizing Video Speed on TikTok Platform for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-halo-infinite-from-crashing-on-your-gaming-pc/"><u>Troubleshooting Guide: Stop Halo Infinite From Crashing on Your Gaming PC</u></a></li>
 </ul></div>
 

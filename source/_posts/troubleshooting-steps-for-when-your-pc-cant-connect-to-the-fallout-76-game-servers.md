@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for When Your PC Can't Connect to the Fallout 지정기 76 Game Servers
-date: 2024-11-19T23:30:04.822Z
-updated: 2024-11-26T21:30:42.513Z
+date: 2024-12-02T17:13:13.979Z
+updated: 2024-12-06T16:00:47.837Z
 tags:
   - win11
   - win10
@@ -38,10 +38,6 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 4. [**Run Fortnite as administrator**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check for account issues**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: If you use a Nvidia graphics card, close all Nvidia programs in Task Manager
 
  If you use a Nvidia graphics card and Fortnite gets stuck on the loading screen, some Nvidia programs running in the background may be causing the problem. A quick fix for it is to open up your Task Manger and close all Nvidia-related programs.
@@ -51,7 +47,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 2. Scroll through and end each**NVIDIA** task.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: 1-3 may relaunch themselves, which is perfectly normal and fine. You’re basically restarting those programs.  
@@ -61,7 +57,7 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: If you use Geforce Experience, turn off the share in-game overlay
@@ -72,14 +68,18 @@ thumbnail: https://thmb.techidaily.com/b2e6162c64c71916b12953aa4e598d6dbab13589e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6be4696a8.png)
 2. From the**GENERAL** panel,**toggle off** the**SHARE** feature.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea6c4a17b8a.jpg)
 3. Run Fortnite and test if it loads properly. If not, try Fix 3, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -103,11 +103,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bea4d0c0cbac.jpg)
 4. Restart your computer and check if Fortnite now runs properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 4, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -155,18 +155,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-capturing-perfect-sounds-our-top-6-recommendations-for-livestreamers/"><u>[New] In 2024, Capturing Perfect Sounds Our Top 6 Recommendations for Livestreamers</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-elite-top-10-4k-monitors-list/"><u>[Updated] Elite Top 10 4K Monitors List</u></a></li>
-<li><a href="https://win-able.techidaily.com/2024s-best-fixes-for-call-of-duty-warzone-lag-and-freezes-on-personal-computers/"><u>2024'S Best Fixes for Call of Duty Warzone Lag and Freezes on Personal Computers</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi 14 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-techniques-and-secrets-for-success-in-roller-champions-pc-multiplayer-edition-guide-updated-for-216/"><u>Essential Techniques & Secrets for Success in Roller Champions PC Multiplayer Edition (Guide Updated for 2^16)</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gratis-omzettingen-van-caf-bestandjes-online-professioneel-met-movavi/"><u>Gratis Omzettingen Van CAF-Bestandjes Online - Professioneel Met Movavi</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-oppo-f25-pro-5g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Oppo F25 Pro 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-super-glitch-a-guide-to-handling-super-people-in-your-game/"><u>Solving the 'Super Glitch' - A Guide to Handling Super People in Your Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-getting-rid-of-minecraft-launchers-error-0x80f8001-on-pc/"><u>Step-by-Step Troubleshooting: Getting Rid of Minecraft Launcher's Error 0X80^F8001 on PC</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/top-rated-tablet-enhancements-for-the-latest-ipads-featured/"><u>Top Rated Tablet Enhancements for the Latest iPads - Featured</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frequent-shutdowns-in-sony-vegas-pro-for-smooth-editing/"><u>Troubleshooting Frequent Shutdowns in Sony Vegas Pro for Smooth Editing</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-dev-error-6634/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Dev Error 6634</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-comprehensive-capture-solutions-azs-reviews-and-backups/"><u>[New] In 2024, Comprehensive Capture Solutions - AZ's Reviews & Backups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-techniques-for-writing-eye-catching-podcast-summaries/"><u>2024 Approved Techniques for Writing Eye-Catching Podcast Summaries</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-the-comprehensive-guide-to-high-def-game-broadcasting/"><u>2024 Approved The Comprehensive Guide to High-Def Game Broadcasting</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/best-4k-ultra-hd-screens-ranked-1-10-for-2024/"><u>Best 4K Ultra HD Screens Ranked #1-10 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-pc-malfunctions-during-no-rest-for-the-wicked-playbacks/"><u>Expert Tips on Fixing PC Malfunctions During 'No Rest for the Wicked' Playbacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gamers-hack-preventing-and-repairing-gears-of-war-4-pc-freezes/"><u>Gamers' Hack: Preventing and Repairing Gears of War 4 PC Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-continuous-crashes-in-madden-nfl-21-on-your-windows-computer/"><u>How to Fix Continuous Crashes in Madden NFL 21 on Your Windows Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-sharefake-location-on-whatsapp-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-writer-cookbook-tips-for-authentic-screenplay-writing/"><u>In 2024, The Writer’ Cookbook Tips for Authentic Screenplay Writing</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-errors-in-ios-image-transfer-to-windows-1011/"><u>Overcoming Errors in iOS Image Transfer to Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-prevent-fifa-21-from-exiting-unexpectedly-on-pc/"><u>Step-by-Step Strategies to Prevent FIFA 21 From Exiting Unexpectedly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-keep-diablo-iv-running-smoothly-on-pc-ps5-and-xbox-devices/"><u>Top Strategies to Keep Diablo IV Running Smoothly on PC, PS5, and Xbox Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-cod-vanguard-error-code-0x00001338-on-windows-detailed-instructions/"><u>Ultimate Fix for CoD Vanguard Error Code 0X00001338 on Windows - Detailed Instructions</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-make-animated-magic-happen-top-5-online-stop-motion-makers/"><u>Updated 2024 Approved Make Animated Magic Happen Top 5 Online Stop Motion Makers</u></a></li>
 </ul></div>
 

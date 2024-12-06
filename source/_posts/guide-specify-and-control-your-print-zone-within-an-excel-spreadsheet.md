@@ -1,7 +1,7 @@
 ---
 title: "Guide: Specify and Control Your Print Zone Within an Excel Spreadsheet"
-date: 2024-08-28T05:23:33.356Z
-updated: 2024-08-29T05:23:33.356Z
+date: 2024-12-04T16:43:22.368Z
+updated: 2024-12-06T16:48:23.191Z
 tags:
   - excel
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
  After you set a print area in your Excel sheet, it will save automatically when you save your workbook. This allows you to quickly print that same spot without resetting the print area.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to View a Print Area
 
  Once you set up your print area, you may want to confirm you've selected the right cells. Open the View tab and select "Page Break Preview." You'll then see each print area you've set for that sheet.
@@ -51,9 +55,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 ![Add Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddNonAdjacentCells-ExcelPrintArea.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  When you do this, those additional cells are considered their own print area because they are not adjacent to another print area in the sheet. So, that group of cells will print on their own page as you can see below in the Page Break Preview.
 
 ![Preview Nonadjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewNonAdjacentCells-ExcelPrintArea.png) 
@@ -63,53 +64,43 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 ![Add Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/AddAdjacentCells-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then if you use the Page Break Preview, you can see that the print area has been increased and stays on the same page.
 
 ![Preview Adjacent Cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageBreakPreviewAdjacentCells-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to View a Print Preview
 
  If you want to see a quick preview of how the page will look when you print it, return to the Page Layout tab. Click the arrow on the bottom right corner of the Page Setup section of the ribbon.
 
 ![Click the arrow for Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageSetup-ExcelPrintArea.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "Print Preview."
 
 ![Click Print Preview](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageSetupPrintPreview-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see exactly what the sheet will look like when you print. Hit the arrow on the top left to return to your sheet.
 
 ![Print preview in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PrintPreview-ExcelPrintArea.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Alternatively, you can select File > Print or [use a keyboard shortcut](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/), Ctrl+F2, to see your print preview.
 
 ##  How to Clear a Print Area
@@ -120,9 +111,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
 
 ![Click Print Layout, Clear Print Area](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/PageLayoutClear-ExcelPrintArea.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
  If you have more than one print area set up, simply do this for each one on your sheet.
 
  For additional help printing in Microsoft Excel, learn how to [print the gridlines with row and column headers](https://unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-zte-blade-a73-5g-phone-now-with-these-tips-by-drfone-android/) or how to [print an Excel sheet that has a background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/).
@@ -133,8 +121,6 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +128,20 @@ thumbnail: https://thmb.techidaily.com/41e7c10c6afe154b3744b08a21830239b330cdc09
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-best-of-the-best-top-12-tycoon-games-for-epic-victories/"><u>[New] Best of the Best Top 12 Tycoon Games for Epic Victories</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-expert-tips-for-selecting-the-right-editor-filmora-and-democracy-creator-guide/"><u>[New] Expert Tips for Selecting the Right Editor Filmora and Democracy Creator Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-redesign-instant-twitter-video-view/"><u>[Updated] 2024 Approved Redesign Instant Twitter Video View</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-2-stability-solutions-top-2024-tricks-and-guides/"><u>Alan Wake 2 Stability Solutions: Top 2024 Tricks & Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/concurrent-catastrophes-in-computing-navigating-through-multiple-pc-malfunctions-at-once/"><u>Concurrent Catastrophes in Computing: Navigating Through Multiple PC Malfunctions at Once</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-ways-to-repair-a-corrupted-steam-game-disk-without-hurdles/"><u>Effortless Ways to Repair a Corrupted Steam Game Disk Without Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-and-tricks-for-a-stable-warcraft-3-reforged-on-your-pc/"><u>Essential Tips and Tricks for a Stable Warcraft 3 Reforged on Your PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-evaluation-gopro-slr4-silver-hero4-model-for-2024/"><u>In-Depth Evaluation GoPro SLR4 Silver HERO4 Model for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/increase-wow-performance-top-techniques-for-optimizing-low-fps-issues/"><u>Increase WoW Performance : Top Techniques for Optimizing Low FPS Issues</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pioneering-photography-with-quantum-hdr-tech/"><u>Pioneering Photography with Quantum HDR Tech</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/win7810-networking-guide-for-inkjet-hp-issues/"><u>Win7/8/10 Networking Guide for Inkjet HP Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998346721-xbox-live-down-or-slow-heres-how-to-verify-its-current-server-status/"><u>Xbox Live Down or Slow? Here’s How To Verify Its Current Server Status</u></a></li>
+</ul></div>
 

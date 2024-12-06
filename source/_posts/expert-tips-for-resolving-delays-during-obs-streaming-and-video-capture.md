@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Delays During OBS Streaming & Video Capture
-date: 2024-11-20T21:58:10.858Z
-updated: 2024-11-26T18:48:18.485Z
+date: 2024-11-29T16:53:39.122Z
+updated: 2024-12-06T16:29:11.621Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -41,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
@@ -56,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Run Discord as administrator
 
  If you didn’t run**Discord** as administrator, you may encounter the**Discord overlay** not working issue. Try running your**Discord** as**administrator** to see if this problem persists. Here is how to do it:
@@ -73,7 +69,7 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
@@ -88,10 +84,6 @@ See if this issue reappears. If not, you have fixed this issue.
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Check for software interruption
 
  Maybe the**Discord overlay** not working issue is also triggered by the interruption from other applications running on your PC. Try**temporarily disabling them** to see if your**Discord overlay** works or not. If you’re running**the programs that have the overlay features** , or you’re running**the programs that can access your microphone** , they may interfere with your**Discord overlay** .
@@ -99,7 +91,7 @@ See if this issue reappears. If not, you have fixed this issue.
 **Programs like screen recorders**  are most likely to interfere with your **Discord overlay** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable hardware acceleration in Discord
@@ -111,10 +103,6 @@ See if this issue reappears. If not, you have fixed this issue.
  1) Open your**Discord** , Click **the gear button** to open **User Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
@@ -132,13 +120,25 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 iv. Restart your PC.
 
@@ -149,10 +149,6 @@ iv. Restart your PC.
  4)**Enable the in-game overlay feature** for your game. If you don’t know how to do it, refer to[](https://tools.techidaily.com/drivereasy/download/) **[Fix 1](https://tools.techidaily.com/drivereasy/download/)**  .
 
 See if this issue reappears. If not, you have fixed this issue!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus tip: How to fix Discord connection errors?
 
@@ -171,6 +167,10 @@ See if this issue reappears. If not, you have fixed this issue!
  3) Launch NordVPN. Enter your NordVPN account and password, then click**Sign In** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
@@ -198,20 +198,22 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-top-tier-tools-transforming-remote-discussions-for-2024/"><u>[New] Top-Tier Tools Transforming Remote Discussions for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-top-5-display-choices-to-enhance-ps5xbox-playtime/"><u>[Updated] In 2024, Top 5 Display Choices to Enhance PS5/Xbox Playtime</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/best-timecode-conversion-tools-for-filmmaker/"><u>Best Timecode Conversion Tools for Filmmaker</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-multiple-caped-crusaders-collide-during-pc-play/"><u>Effective Solutions for When Multiple Caped Crusaders Collide During PC Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-the-issue-playing-robocop-rogue-city-failed-on-windows-solutions-inside/"><u>Fix the Issue! Playing RoboCop: Rogue City Failed on Windows - Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-consecutive-software-hiccups-on-your-personal-computer/"><u>How to Fix Consecutive Software Hiccups on Your Personal Computer</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-universal-docking-station-drivers-free-download-for-models-with-120w-and-230w-charging-options/"><u>HP Universal Docking Station Drivers: Free Download for Models with 120W and 230W Charging Options</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-free-final-cut-pro-mastery-secrets-revealed/"><u>In 2024, Free Final Cut Pro Mastery Secrets Revealed</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-motorola-razr-40-ultra-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Motorola Razr 40 Ultra Phones</u></a></li>
-<li><a href="https://solve-latest.techidaily.com/macx-dvd-ripper-pro-mac-dvd/"><u>MacX DVD Ripper Pro: 最新 Mac 専用 DVD コピーツールを無料ダウンロード - 開発中</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-fixing-your-ps4s-unresponsive-moments/"><u>Step-by-Step Solutions: Fixing Your PS4's Unresponsive Moments</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-xiaomi-14-ultra-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Xiaomi 14 Ultra Phone Hassle-Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-block-ensuring-seamless-minecraft-setup-on-your-windows-11-machine/"><u>Troubleshooting the Block: Ensuring Seamless Minecraft Setup on Your Windows 11 Machine</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-20-crashing-woes-a-comprehensive-guide-to-solving-pc-stability-issues/"><u>Warzone 2.0 Crashing Woes? A Comprehensive Guide to Solving PC Stability Issues</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-update-error-80244019-solved/"><u>Windows Update Error 80244019 [Solved]</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-addressing-freeze-during-facebook-live-events-for-2024/"><u>[New] Addressing Freeze During Facebook Live Events for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-explore-extravagance-best-terrafirma-mapping/"><u>[New] Explore Extravagance Best Terrafirma Mapping</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-fb-video-downloader-pro-mp4-archive-now-available/"><u>[Updated] FB Video Downloader Pro MP4 Archive Now Available</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-economics-of-evaluating-everything-on-electronic-streams/"><u>[Updated] In 2024, The Economics of Evaluating Everything on Electronic Streams</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210296451-9781644586709-battle-cry/"><u>Battle Cry | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/demystifying-excel-the-key-differences-between-functions-and-formulas/"><u>Demystifying Excel: The Key Differences Between Functions and Formulas</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-determine-means-in-data-sets-using-microsoft-excel-tutorials/"><u>Easy Steps to Determine Means in Data Sets Using Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-techniques-to-customize-your-excel-tab-hues-and-shades/"><u>Easy Techniques to Customize Your Excel Tab Hues and Shades</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-integrating-data-tables-into-microsoft-excel-charts/"><u>Effective Techniques for Integrating Data Tables Into Microsoft Excel Charts</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-for-tallying-text-containing-cells-in-excel/"><u>Efficient Techniques for Tallying Text-Containing Cells in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-spreadsheets-with-top-5-unknown-excel-shortcuts-and-tricks/"><u>Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/excel-basics-unveiled-easy-techniques-for-incorporating-percentage-formulas-into-your-spreadsheets/"><u>Excel Basics Unveiled: Easy Techniques for Incorporating Percentage Formulas Into Your Spreadsheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/excels-powerful-lookup-function-mastering-vlookup-without-an-external-table/"><u>Excel's Powerful Lookup Function: Mastering VLOOKUP Without an External Table</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-master-your-edits-with-top-15-affordable-web-based-editors-2023/"><u>In 2024, Master Your Edits with Top 15 Affordable Web-Based Editors, 2023</u></a></li>
+<li><a href="https://win-info.techidaily.com/troubleshooting-persistent-overheating-issues-on-your-pc-expert-advice-from-yl-computing/"><u>Troubleshooting Persistent Overheating Issues on Your PC: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/untangling-alien-fireteam-elites-pc-hitches-for-an-uninterrupted-gaming-experience/"><u>Untangling Alien: Fireteam Elite's PC Hitches for an Uninterrupted Gaming Experience</u></a></li>
 </ul></div>
 

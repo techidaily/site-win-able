@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Geographic Analysis with Excel: How to Leverage Built-In Tools for Spatial Data Management"
-date: 2024-08-28T05:23:13.999Z
-updated: 2024-08-29T05:23:13.999Z
+date: 2024-11-29T16:50:38.840Z
+updated: 2024-12-06T16:59:53.609Z
 tags:
   - excel
 categories:
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![Geography Data Selector in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/GeographyDataSelector-Excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you select a location in the Data Selector, you’ll see a map icon next to the location name and the sidebar will disappear. Now, it’s time to pull in the data you need.
 
 ![Location with Geography map icon in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/GeographyMapIcon-Excel.png) 
@@ -58,26 +62,22 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 
 ![Select Show Data Type Card](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/ShowDataTypeCard-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  You’ll then see an easy-to-read card containing all the details. You can drag the bottom-right corner to enlarge it.
 
 ![Data Type Card for Canada](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/DataTypeCard-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To add a piece of data from the Data Type Card to your spreadsheet, hover your cursor over it, and then click the Extract to Grid icon that appears.
 
 ![Click Extract to Grid](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/DataTypeCardAddToGrid-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Refresh the Geography Data
 
  Since the Geography data comes from an online source, it's updated regularly. This means you’ll want to update your spreadsheet so it contains the most current data.
@@ -87,11 +87,13 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
 ![Refresh the Data for Geography](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/RefreshDataType-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Don’t See the Geography Feature?
 
  If you don’t see the Geography Data Type in Microsoft Excel, please make sure your device meets the following requirements:
@@ -110,8 +112,6 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,16 @@ thumbnail: https://thmb.techidaily.com/e788f79a8684ff135a50b06576e0943a8c2779cab
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-10-sizzling-tiktok-cooking-secrets/"><u>[Updated] 10 Sizzling TikTok Cooking Secrets</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-demystifying-the-viva-video-interface-for-2024/"><u>[Updated] Demystifying the Viva Video Interface for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-application-wont-boot-resolve-error-code-0xc0000022-and-start-successfully/"><u>Adobe Application Won't Boot? Resolve Error Code 0xC0000022 and Start Successfully.</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/1716168996805-how-to-edit-vertical-videos-for-instagram-in-final-cut-pro-x-in-2024/"><u>How to Edit Vertical Videos for Instagram in Final Cut Pro X , In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/immersive-windows-display-snapshots-for-2024/"><u>Immersive Windows Display Snapshots for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-now-available/"><u>Insights Unveiled: 'It Takes Two' Now Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-common-causes-of-a-purely-black-display/"><u>Resolved: Troubleshooting Common Causes of a Purely Black Display</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smartphone-face-off-deciding-between-googles-pixel-6-pro-and-apples-iphone-13-pro-for-your-next-professional-device/"><u>Smartphone Face-Off: Deciding Between Google's Pixel 6 Pro and Apple's iPhone 13 Pro for Your Next Professional Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-no-more-crusader-kings-iii-computer-freezes/"><u>Solution Guide: No More Crusader Kings III Computer Freezes</u></a></li>
+</ul></div>
 

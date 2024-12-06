@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Stop Scavengers From Crashing on Your Computer (Windows)
-date: 2024-08-28T05:28:21.557Z
-updated: 2024-08-29T05:28:21.557Z
+date: 2024-12-05T16:51:42.379Z
+updated: 2024-12-06T16:55:52.726Z
 tags:
   - win11
   - win10
@@ -82,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -92,8 +89,9 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -106,9 +104,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -119,9 +114,6 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -140,12 +132,16 @@ thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -159,11 +155,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -178,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/new-medical-and-health-facebook-ads-campaign-tips/"><u>[New] Medical And Health Facebook Ads Campaign Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-ultimate-vision-ai-photography-workshop/"><u>[New] Ultimate Vision AI Photography Workshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-runescape-keeps-crashing/"><u>[SOLVED] RuneScape Keeps Crashing</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-top-choice-gpus-ultra-hd-gameplay-delight/"><u>[Updated] 2024 Approved Top Choice GPUs Ultra HD Gameplay Delight</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-visual-dominance-best-ps5-compatible-high-res-hdmi-21-screens/"><u>2024 Approved Visual Dominance Best PS5 Compatible High-Res (HDMI 2.1) Screens</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/above-and-beyond-the-best-non-twitter-networks/"><u>Above and Beyond The Best Non-Twitter Networks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-rotational-scope-vr-device-insight-for-2024/"><u>Full Rotational Scope VR Device Insight for 2024</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sparks-last-stand-dji-mavic-air-emerges-as-gamers-choice/"><u>In 2024, Spark’s Last Stand? DJI Mavic Air Emerges as Gamer's Choice</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-challenges-restoring-functionality-to-your-clownfish-sound-adapter/"><u>Overcoming Challenges: Restoring Functionality to Your Clownfish Sound Adapter</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolve-minecrafts-persistent-screen-load-problem/"><u>Step-by-Step Guide to Resolve Minecraft's Persistent Screen Load Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-broken-game-file-integrity-on-windows-systems/"><u>Step-by-Step Tutorial: Restoring Broken Game File Integrity on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-operate-drivereasys-mobile-app/"><u>Steps to Successfully Operate DriverEasy's Mobile App</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-eradicating-black-screen-troubles-when-using-zoom-on-desktop-computers/"><u>The Definitive Guide: Eradicating Black Screen Troubles When Using Zoom on Desktop Computers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-to-kickstart-your-game-call-of-duty-division-2-launch-tips-updated/"><u>The Ultimate Fixes to Kickstart Your Game - Call of Duty Division 2 Launch Tips (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hearthstone-pc-crashes-solutions-and-tips/"><u>Troubleshooting Hearthstone PC Crashes - Solutions and Tips</u></a></li>
+</ul></div>
 

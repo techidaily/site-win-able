@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel's TEXTAFTER Function: A Comprehensive Guide to Efficient Data Retrieval"
-date: 2024-08-28T05:23:39.221Z
-updated: 2024-08-29T05:23:39.221Z
+date: 2024-12-02T16:53:08.822Z
+updated: 2024-12-06T16:20:02.622Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
  Excel's TAKE function only works in Microsoft 365 or Excel for the web.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Prepare Your Table in Excel
 
  Before you can use TAKE and CHOOSE, you will need to [format and name your table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/). We will use this table of data as our example:
@@ -38,11 +42,12 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![Excel sheet highlighting where the table name can be amended.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/table-name.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You're now ready to extract data.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  How to Use TAKE to Extract the First and/or Last Rows and/or Columns in Excel
 
  Excel's TAKE function is mostly used to extract the first or last few rows or columns from your table. The formula you'll need to use is:
@@ -59,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/c522feb97d3790da90f4e047ee57c321868c402d1
 
 ![Excel sheet with a table of data and a place for our first formula to be inserted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/top-5-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Second, start to type the formula as follows:
 
 =TAKE(
@@ -71,9 +72,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Excel sheet with the first part of the TAKE formula typed into a cell and the table name appearing as an option to include within the formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/take-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 =TAKE(Employees,
 
  You now need to tell Excel how many of the first or last rows you want to include in your extracted data. In our case, we want the top five employees. Therefore, we type "5" and add a comma. If we wanted the last five rows, we'd type "-5". To extract all rows, simply don't include the number, and add the comma.
@@ -87,6 +85,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  You will now see the desired outcome. Now, if you change or reorder the data in your table, the TAKE formula you have just added will automatically adjust to extract the updated information. For example, we want to reorder the column containing profit per month:
 
 ![Excel sheet showing the result of using the TAKE formula in conjunction with an ordered column of data in the table.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/top-5-2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you were to add more data to your table, the TAKE formula would account for this. For example, if we added another employee's data to the bottom of the table in an additional row (by dragging the corner handle of the table downwards one row and completing their figures), the TAKE formula would include this when looking for the criteria you set.
 
@@ -103,11 +105,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Excel sheet showing the length of the longest five payrolls using TAKE and a named column within the formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/longest-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  How to Use TAKE with AVERAGE in Excel
 
  If you want to use TAKE with [Excel's AVERAGE function](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/), follow the steps above but **nest the TAKE formula within your AVERAGE formula**.
@@ -121,8 +121,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Excel sheet with the top five average calculated through the AVERAGE and TAKE functions being used together.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/top-5-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  You now have a fundamental understanding of how the TAKE formula works in Excel. You can now go one step further—extract columns or rows from multiple ranges by [using Excel's VSTACK and HSTACK functions](https://digital-screen-recording.techidaily.com/new-in-2024-the-evolutionary-path-from-novice-to-expert-in-audio-recording-for-film/), or combine TAKE with Excel's SORTBY function to see it work without you sorting your table's columns. Finally, you can use Excel's DROP function, which excludes certain cells and rows from your extracted data and works with exactly the same syntax as the TAKE function.
@@ -133,8 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +141,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-mastering-multi-platform-skype-group-formation/"><u>[New] 2024 Approved Mastering Multi-Platform Skype Group Formation</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-minisnapper-screen-recorder-feedback/"><u>[New] In 2024, MiniSnapper Screen Recorder Feedback</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blend-mp3s-with-presentation-content-in-ppt/"><u>[Updated] Blend MP3s with Presentation Content in PPT</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-art-of-analytic-assessment-in-the-youtube-sphere/"><u>[Updated] The Art of Analytic Assessment in the YouTube Sphere</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-step-by-step-guide-to-youtube-gamers-broadcasting/"><u>[Updated] The Step-by-Step Guide to YouTube Gamers' Broadcasting</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-premium-online-platforms-for-video-intro-creation/"><u>2024 Approved Premium Online Platforms for Video Intro Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-cannot-connect-to-world-error-in-minecraft-for-ultimate-gameplay/"><u>Banishing 'Cannot Connect to World' Error in Minecraft for Ultimate Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009266270-end-game-lag-and-crashes-in-mordhau-ultimate-fix-guide-revealed/"><u>End Game Lag & Crashes in Mordhau – Ultimate Fix Guide Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-accelerate-your-sims-4-experience-and-say-goodbye-to-lag-on-pc/"><u>Expert Advice: Accelerate Your Sims 4 Experience and Say Goodbye to Lag on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-madden-nfl-22-problems-fast-and-simple-top-tips-included/"><u>Fix Your Madden NFL 22 Problems Fast and Simple - Top Tips Included</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/identifying-crucial-factors-in-laptops-for-play/"><u>Identifying Crucial Factors in Laptops for Play</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-photo-mosaics-unveiled-a-journey-to-brighter-spaces/"><u>In 2024, Photo Mosaics Unveiled A Journey to Brighter Spaces</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-stability-overcoming-crashing-in-spellbreak-on-windows-computers/"><u>Optimizing Stability: Overcoming Crashing in Spellbreak on Windows Computers</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unlocking-college-savings-a-guide-to-securing-a-tidal-education-discount/"><u>Unlocking College Savings: A Guide to Securing a Tidal Education Discount</u></a></li>
+<li><a href="https://win-able.techidaily.com/yakuza-3-remastered-not-starting-up-troubleshooting-steps-for-pc/"><u>Yakuza 3 Remastered Not Starting Up: Troubleshooting Steps for PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Mastering the Art of Summing Up Entire Columns in MS Excel"
-date: 2024-08-28T05:23:07.330Z
-updated: 2024-08-29T05:23:07.330Z
+date: 2024-11-29T16:23:49.158Z
+updated: 2024-12-06T16:14:03.730Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/9b9110ec4a61375e331a8801ee2c3323c1b29e5d6
 
 Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-instagrams-policies-a-musicians-legal-primer/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ways to Sum a Column's Values in Excel
 
  One way to sum a column is to [use Excel's status bar](https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/). If you only want to see the sum and you don't want to display it anywhere in your spreadsheet, use this method.
@@ -29,6 +33,10 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
  The second method is to use AutoSum, an Excel feature that automatically adds the `SUM` function with its required arguments to your selected cell.
 
  Lastly, you can use the popular `SUM` function to sum an entire column or specific rows or ranges in it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  View Your Column's Sum in Excel's Status Bar
 
@@ -38,38 +46,18 @@ Related: [How to Add Numbers in Microsoft Excel](https://instagram-clips.techida
 
 ![Select specific cells or the entire column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/1-select-column-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Excel's bottom bar, next to "Sum," you'll see the calculated sum of your selected cells.
 
 ![The sum of column values in Excel's status bar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/2-view-sum-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  Additionally, the status bar displays the count as well as the [average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/) of your chosen cells.
 
 Related: [How to Copy Values From the Status Bar in Microsoft Excel](https://extra-guidance.techidaily.com/speedy-sonic-tuning-devices-index-pc-tablet-for-2024/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sum Your Column's Values Using Excel's AutoSum Feature
 
  To get the sum of the contiguous cells of your column, utilize Excel's built-in AutoSum feature. With this method, you select the cell at the bottom of your column values and access the feature, and then it fills in the `SUM` function with the necessary arguments for you.
@@ -79,8 +67,9 @@ Key features:
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/3-choose-cell-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  While your cell is selected, in Excel's "Home" tab at the top, select the "AutoSum" option
 
 ![Click "AutoSum" at the top.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/4-excel-autosum.png) 
@@ -93,9 +82,6 @@ Key features:
 
 ![The result of AutoSum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/6-excel-autosum-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And you're all set.
 
 ##  Sum a Column's Values With Excel's SUM Function
@@ -106,9 +92,6 @@ Key features:
 
 ![Select a cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/3-choose-cell-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In your selected cell, type the following function and press Enter. In this function, replace
 
         `C2:C22`
@@ -127,14 +110,15 @@ Key features:
 
 ![Use the SUM function with a data range.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/7-excel-sum-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To count values from specific column cells, add your cells in the `SUM` function separated by a comma as follows:
 
 =SUM(C2,C5,C8)
 
 ![Use the SUM function for specific rows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/8-excel-sum-specific-rows.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To add a range and specific cells, use the `SUM` function as follows:
 
@@ -152,6 +136,10 @@ Key features:
 
 ![The sum of the entire column.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/11-excel-sum-entire-column-result.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  As you can see, adding up numbers from your columns in Microsoft Excel is as easy as [using a built-in feature](https://screen-video-capture.techidaily.com/new-innovative-mac-screen-capture-methods-and-software-for-2024/) or manually entering the `SUM` function. We hope our guide helps you out.
 
 ---
@@ -166,8 +154,6 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +161,18 @@ Related: [How to Calculate the Sum of Squares in Excel](https://visual-screen-re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-advanced-methods-for-desktopmobile-screen-casting/"><u>[Updated] 2024 Approved Advanced Methods for Desktop/Mobile Screen Casting</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-secrets-top-strategies-for-advanced-srt-tweaks-on-apple/"><u>[Updated] In 2024, Unveiling Secrets Top Strategies for Advanced SRT Tweaks on Apple</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimal-screen-capture-techniques-tunefab-style/"><u>2024 Approved Optimal Screen Capture Techniques - Tunefab Style</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/change-gif-speed-with-ease-best-online-and-mobile-tools-for-2024/"><u>Change GIF Speed with Ease Best Online and Mobile Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/effortless-gaming-fix-and-optimize-fall-guys-to-stop-initial-failures/"><u>Effortless Gaming: Fix and Optimize Fall Guys to Stop Initial Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-image-scanning-discrepancies/"><u>Expert Tips on Overcoming Image Scanning Discrepancies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>In 2024, Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-address-the-audio-glitches-in-dying-light/"><u>Solved: How to Address the Audio Glitches in Dying Light</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
+</ul></div>
 

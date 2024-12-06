@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel"
-date: 2024-08-28T05:23:10.431Z
-updated: 2024-08-29T05:23:10.431Z
+date: 2024-12-04T16:46:36.574Z
+updated: 2024-12-06T16:23:39.249Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 ---
 
 ## The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 
 ![A sample spreadsheet to find age in years in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/1-age-years-spreadsheet.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  First, we'll click the C2 cell where we want to display the age in years.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2-c2-cell-spreadsheet.png) 
@@ -40,6 +48,10 @@ thumbnail: https://thmb.techidaily.com/5ac1fdb72ff5f486734588f1cc91475aa04db1c84
 =DATEDIF(B2,TODAY(),"Y")
 
 ![Type =DATEDIF(B2,TODAY(),"Y") in the C2 cell and press Enter in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/3-enter-year-formula.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  And immediately, you'll see the completed age in the C2 cell.
 
@@ -59,9 +71,6 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![A sample spreadsheet to find age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/5-age-months-spreadsheet.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  In this spreadsheet, we'll click the C2 cell where we want to display the age in months.
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/6-c2-cell.png) 
@@ -72,17 +81,18 @@ Related: [How to Get Microsoft Excel to Calculate Uncertainty](https://extra-res
 
 ![Enter =DATEDIF(B2,TODAY(),"M") in the C2 cell and press Enter in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-enter-month-formula.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Press Enter and you'll see the age in months in the C2 cell.
 
 ![Age in months in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-age-months-answer.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
+
 ##  How to Calculate Age in Days
 
  Excel's `DATEDIF` function is so powerful that you can use it to find someone's age in days as well.
@@ -95,6 +105,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Click the C2 cell in the spreadsheet in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/10-c2-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the C2 cell, we'll type the following function. In this function, the "D" argument tells the function to display the age in days.
 
 =DATEDIF(B2,TODAY(),"D")
@@ -102,25 +116,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Type =DATEDIF(B2,TODAY(),"D") in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/11-enter-day-formula.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press Enter and you'll see the age in days in the C2 cell.
 
 ![Age in days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-age-days-answer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  You can use Excel to [add and subtract dates](https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17-pro-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/), too.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ##  How to Calculate Age in Years, Months, and Days at the Same Time
 
  To display someone's age in years, months, and days at the same time, use the `DATEDIF` function with all the arguments combined. You can also [combine text from multiple cells into one cell](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) in Excel.
@@ -130,20 +134,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![A sample spreadsheet to find age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/13-age-combination-spreadsheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In this spreadsheet, we'll click the C2 cell, type the following function, and press Enter:
 
 =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days"
 
 ![Enter =DATEDIF(B2,TODAY(),"Y") & " Years " & DATEDIF(B2,TODAY(),"YM") & " Months " & DATEDIF(B2,TODAY(),"MD") & " Days" in the C2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/14-enter-age-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the C2 cell, you'll see the age in years, months, and days.
 
 ![Age in years, months, and days in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-age-combination-answer.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Calculate Age on a Specific Date
 
@@ -163,9 +169,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Enter =DATEDIF(B2,C2,"Y") in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/18-enter-specific-formula.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Press Enter and you'll see the age in years in the D2 cell.
 
 ![Age on a specific date in the D2 cell in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/19-specific-formula-answer.png) 
@@ -188,8 +191,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +198,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-sid-meiers-civilization-vi-crashing-issue/"><u>[Solved] Sid Meier’s Civilization VI Crashing Issue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtube-triumphs-how-to-turn-your-cell-phone-into-an-editing-machine/"><u>[Updated] In 2024, YouTube Triumphs How to Turn Your Cell Phone Into an Editing Machine</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-life-in-high-definition-the-nikon-1j5-review/"><u>2024 Approved Capturing Life in High Definition The Nikon 1J5 Review</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-gionee-f3-pro-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Gionee F3 Pro by Name | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-resolving-frequent-crashes-in-the-pc-version-of-metro-exodus-edt/"><u>Diagnosing and Resolving Frequent Crashes in the PC Version of Metro Exodus EDT</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-gameplay-clarity-by-addressing-blurry-visuals-in-outriders/"><u>Enhance Gameplay Clarity by Addressing Blurry Visuals in Outriders</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhancing-instagram-video-visibility-for-2024/"><u>Enhancing Instagram Video Visibility for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/ephemeral-echoes-of-facebook/"><u>Ephemeral Echoes of Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-apex-legends-game-engine-troubles-solutions-included/"><u>Fixing Apex Legends Game Engine Troubles - Solutions Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-pc-issues-why-sword-and-fairy-7-continuously-crashes/"><u>Fixing PC Issues: Why 'Sword & Fairy 7' Continuously Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-get-the-meltan-box-pokemon-go-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate guide to get the meltan box pokemon go For Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-startup-proven-fixes-to-kickstart-your-overwatch-2-gaming-experience-in-2ey5/"><u>Master the Startup: Proven Fixes to Kickstart Your Overwatch 2 Gaming Experience in 2eY5</u></a></li>
+<li><a href="https://fox-place.techidaily.com/nvme-ssd-cloning-techniques-on-windows-learn-two-easy-ways/"><u>NVMe-SSD Cloning Techniques on Windows - Learn Two Easy Ways!</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-windows-10-browser-how-to-fix-freezing-problems-with-google-chrome/"><u>Optimizing Your Windows 10 Browser: How to Fix Freezing Problems with Google Chrome</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-detected-errors-for-our-data-centers-in-halo-infinite-gameplay/"><u>Overcoming Detected Errors for Our Data Centers in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-7-strategies-suggested-by-apple-for-optimizing-user-interface-on-visionos-explored-by-zdnet/"><u>Top 7 Strategies Suggested by Apple for Optimizing User Interface on VisionOS - Explored by ZDNet</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-snippet-income-breakdown-whats-your-profit-share-for-2024/"><u>YouTube Snippet Income Breakdown What's Your Profit Share for 2024</u></a></li>
+</ul></div>
 

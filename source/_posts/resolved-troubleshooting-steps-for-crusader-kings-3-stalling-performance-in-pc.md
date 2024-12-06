@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-11-19T18:20:52.137Z
-updated: 2024-11-27T00:58:22.998Z
+date: 2024-12-03T16:24:38.282Z
+updated: 2024-12-06T16:00:12.049Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ Necromunda: Hired Gun
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## The system requirements of Necromunda: Hired Gun
 
@@ -61,6 +57,10 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -73,10 +73,6 @@ Necromunda: Hired Gun
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 It may take some time to complete the verifying process.
 
 **For Epic Games Launcher users:**
@@ -86,7 +82,7 @@ It may take some time to complete the verifying process.
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -108,8 +104,16 @@ It may take some time to complete the verifying process.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -129,7 +133,7 @@ It may take some time to complete the verifying process.
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable overlays
@@ -143,10 +147,6 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -188,22 +188,17 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-qualitysnap-video-reporter-checkup/"><u>[New] In 2024, QualitySnap Video Reporter Checkup</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-top-10-gif-recorder-mac/"><u>[New] In 2024, Top 10 Gif Recorder Mac</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-merge-music-and-graphics-in-ppt/"><u>2024 Approved Merge Music and Graphics in PPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/all-set-for-action-the-official-launch-of-it-takes-two/"><u>All Set for Action! The Official Launch of 'It Takes Two'</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-pc-boot-glitches-effective-strategies-for-fixing-saints-row-start-up-failures/"><u>Beat PC Boot Glitches: Effective Strategies for Fixing Saints Row Start-Up Failures</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/cutting-edge-fixes-for-improving-your-minecraft-experience-on-desktops-tips-and-tricks-2023-update/"><u>Cutting Edge Fixes for Improving Your Minecraft Experience on Desktops (Tips & Tricks) - 2023 Update</u></a></li>
-<li><a href="https://techtrends.techidaily.com/discover-the-most-enjoyable-free-movies-streaming-on-youtube-this-july-2nd4/"><u>Discover the Most Enjoyable Free Movies Streaming on YouTube This July 2nD4</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/enhance-your-reading-list-with-smart-choices-from-our-top-picks-of-ai-book-recommender-tools/"><u>Enhance Your Reading List with Smart Choices From Our Top Picks of AI Book Recommender Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-guides-resolving-arma-3-software-errors-2024-edition/"><u>Fixes and Guides: Resolving Arma 3 Software Errors, 2024 Edition</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-restore-brightness-control-on-your-windows-11-system/"><u>How To Restore Brightness Control on Your Windows 11 System</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-max-could-not-be-activatedreached-issue-by-drfone-ios/"><u>In 2024, How To Fix iPhone 13 Pro Max Could Not Be Activated/Reached Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterclass-diagnosing-and-fixing-stability-problems-with-mount-and-blade-2-bannerlord/"><u>Masterclass: Diagnosing and Fixing Stability Problems with Mount & Blade 2 - Bannerlord</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/mastering-dvd-rip-configuration-top-notch-handbrake-settings-update/"><u>Mastering DVD Rip Configuration: Top-Notch HandBrake Settings Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launching-problems-in-rainbow-six-siege-fixed/"><u>Overcoming Launching Problems in Rainbow Six Siege – Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mystery-top-6-troubleshooting-tips-when-your-steam-vr-isnt-showing-up/"><u>Solving the Mystery: Top 6 Troubleshooting Tips When Your Steam VR Isn't Showing Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-mystery-understanding-beyond-the-wire-and-its-aftermath/"><u>Unlock the Mystery: Understanding 'Beyond The Wire' And Its Aftermath</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-7-best-monitors-for-photo-editing-worth-trying-top-picks-2024/"><u>[Updated] 7 Best Monitors for Photo Editing Worth Trying [Top Picks 2024]</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boost-your-content-visibility-facebook-video-tips-and-tricks/"><u>Boost Your Content Visibility Facebook Video Tips and Tricks</u></a></li>
+<li><a href="https://fox-where.techidaily.com/easy-steps-to-customizing-your-androids-display-settings/"><u>Easy Steps to Customizing Your Android's Display Settings</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-gmail-password-on-poco-f5-pro-5g-devices-by-drfone-android/"><u>How to Reset Gmail Password on Poco F5 Pro 5G Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/mass-effect-legendary-collection-addressing-game-performance-hiccups/"><u>Mass Effect Legendary Collection: Addressing Game Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-ubisoft-connect-tips-and-tricks-to-overcome-setbacks/"><u>Mastering Ubisoft Connect: Tips and Tricks to Overcome Setbacks !</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-graphics-hurdle-a-users-guide-for-correcting-errors-in-the-sims-4/"><u>Overcoming the Graphics Hurdle: A User's Guide for Correcting Errors in The Sims 4</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pedagogical-approaches-to-video-enhanced-education-for-2024/"><u>Pedagogical Approaches to Video-Enhanced Education for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-runtime-errors-in-stardew-valley-on-personal-computers-tips-and-tricks/"><u>Resolving Runtime Errors in Stardew Valley on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/step-by-step-guide-to-bsod-resolution-in-win-1011/"><u>Step-by-Step Guide to BSOD Resolution in Win 10/11</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-features-and-performance-of-the-asus-ax6000-rt-ax88u-the-ultimate-wi-fi-6-router-guide/"><u>Unveiling Features and Performance of the Asus AX6000 RT-AX88U - The Ultimate Wi-Fi 6 Router Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/upgrade-video-quality-seamlessly-convert-mp4-files-to-mkv-with-integrated-subtitle-support-try-it-for-free/"><u>Upgrade Video Quality Seamlessly: Convert MP4 Files to MKV With Integrated Subtitle Support - Try It for Free!</u></a></li>
 </ul></div>
 

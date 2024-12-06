@@ -1,7 +1,7 @@
 ---
 title: Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks
-date: 2024-08-28T05:22:49.335Z
-updated: 2024-08-29T05:22:49.335Z
+date: 2024-11-29T16:00:18.020Z
+updated: 2024-12-06T17:02:02.526Z
 tags:
   - excel
 categories:
@@ -47,14 +47,15 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel's Filter Button in a table and shown in the Table Design tab on the ribbon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/filter-button-in-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  However, an easier way to create filters for your table is by adding [Slicers](https://article-tips.techidaily.com/2024-approved-duration-formula-20mb-video-in-secs/), especially if a particular column is more likely to be filtered than the rest.
 
  In our example, we anticipate often filtering the _Shop_ and _Total_ columns, as these are prominent columns in our table, so let's add a Slicer for each.
 
 ![An Excel table showing profit and loss totals. The Shop and Total columns are highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-shop-totals-table.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  With any cell in the table selected, click "Insert Slicer" in the Table Design tab on the ribbon.
 
@@ -69,16 +70,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ![Excel's Slicers with the Slicer tab in the ribbon selected, and the Slicer Settings also highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/format-slicers.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Because the Slicers automatically present their data in order (as opposed to the order as it is presented in your original data set), you can analyze the data in an instant.
 
  Hold Ctrl when selecting elements in your Slicer to display them all at the same time, or press Alt+C to clear all selections in the Slicer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Create Sparklines to Visualize Trends
 
@@ -88,29 +89,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![An Excel table with an empty column on the right titled Trend.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/empty-trend-column.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  First, select the cells in column J where you want the trend visualization to appear.
 
 ![An Excel table with the empty Trend column selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/trend-column-selected.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, in the Insert tab on the ribbon, go to the Sparklines group, and click "Line."
 
 ![An Excel sheet with the Line option of the Sparklines group selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/line-sparkline.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Place your cursor in the "Data Range" field, use your mouse to select the data from the table, and then click "OK."
 
 ![An Excel spreadsheet with the Create Sparkline dialog box showing the data selected for the sparklines.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/select-sparkline-data-range-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  You will then instantly see your numbers presented in the form of a trend line.
 
 ![An Excel table showing a trend column containing Sparklines.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/sparklines-in-table-1.png) 
@@ -126,19 +124,25 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Column sparklines in Microsoft Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/column-sparkline.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And Profit/Loss Sparklines emphasize positive and negative values:
 
 ![Profit Loss Sparklines in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/pl-sparklines-1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have chosen and created your Sparklines, select any of the affected cells, and use the Sparkline tab on the ribbon to make any formatting or detailing changes you require. Since they were added together, they will all be formatted in the same way at the same time. If, however, you wish for them to be formatted separately, click "Ungroup" in the Sparklines tab. In the example below, we ungrouped every other Sparkline to format them alternately.
 
 ![The Group and Ungroup Sparklines options in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/group-ungroup-sparklines.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Make the Most of Preset Conditional Formatting
 
  Another way to instantly visualize and analyze data is to use Excel's preset Conditional Formatting tool. Setting up [Conditional Formatting](https://ai-live-streaming.techidaily.com/simple-tricks-avoiding-hassle-while-uninstalling-nvidia-geforce-experience/) rules can take time and cause issues if they overlap or contradict one another, but using the default formats is much easier.
@@ -147,18 +151,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![An Excel spreadsheet with data selected, the Conditional Format drop-down opened, and the three automatic options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In our example, we've chosen an orange Data Bar, as this helps us to compare the totals at a glance. Handily, since there is a negative number in our data, Excel has automatically formatted the Data Bar to emphasize the number differences.
 
 ![Excel's Data Bar Conditional Formatting tool in action.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/conditional-formatting-data-bar.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To clear Conditional Formatting, select the cells in question, click "Conditional Formatting" in the Home tab, and click "Clear Rules From Selected Cells."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Screenshot Data for Dynamic Use
 
  This is a great way to capture cells on one sheet and duplicate them in another location, such as on a dashboard. Then, any changes made to the original data will also be reflected in the duplicated data.
@@ -168,22 +170,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![The Show Ribbon options in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-show-ribbon-options.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, click the QAT down arrow and click "More Commands."
 
 ![The Customize Quick Access Toolbar drop-down in Excel, with More Commands selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/excel-qat-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Now, select "All Commands" in the Choose Command From menu, and then scroll to and select Camera, before clicking "Add" to add it to your QAT. Then, click "OK."
 
 ![A screenshot of Excel Options, with the route needed to add Camera to the QAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/add-camera-to-excel-qat.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  You will now see the Camera icon in your QAT.
 
 ![The Camera icon in Excel's QAT](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/camera-in-qat-excel.png) 
@@ -214,8 +211,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +218,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-elite-screen-recording-apps-of-2023-expert-picks-for-2024/"><u>[New] Elite Screen Recording Apps of 2023 - Expert Picks for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-hands-on-guide-to-optimize-your-youtube-channels-with-adsense/"><u>[Updated] Hands-On Guide to Optimize Your YouTube Channels with AdSense</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-mastering-gifs-snapchats-step-by-step-guide-for-effortless-sharing/"><u>[Updated] In 2024, Mastering Gifs Snapchat's Step-By-Step Guide for Effortless Sharing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-livestream-titans-clash-facebook-youtube-and-twitspaces/"><u>[Updated] Livestream Titans Clash FACEbook, YOUTube, and TWITSpaces</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/accelerate-learning-urdu-effortlessly/"><u>Accelerate Learning Urdu, Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-zooms-blackout-issue-a-step-by-step-solution-guide-for-windows-desktop/"><u>Beat Zoom's Blackout Issue: A Step-by-Step Solution Guide for Windows Desktop</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-honor-magic-5-lite-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Honor Magic 5 Lite</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-fixing-the-infamous-thaumaturge-game-crashes-on-personal-computers/"><u>Comprehensive Guide: Fixing the Infamous Thaumaturge Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gaming-experience-in-the-elder-scrolls-online-fixing-the-notorious-blackwood-lag/"><u>Improved Gaming Experience in The Elder Scrolls Online: Fixing the Notorious Blackwood Lag</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-efficient-media-management-turning-videos-into-dvds-with-mac/"><u>In 2024, Efficient Media Management Turning Videos Into DVDs with Mac</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-gt-5-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme GT 5 | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-openai-losing-grip-on-the-management-of-chatgpt/"><u>Is OpenAI Losing Grip on the Management of ChatGPT?</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcoming-issues-with-dota-2-freezing-at-start-up/"><u>Resolved: Overcoming Issues with Dota 2 Freezing at Start-Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-for-non-responsive-ubisoft-connect/"><u>The Ultimate Fixes for Non-Responsive Ubisoft Connect</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-solving-2022-leaf-error-in-apex-legends-fix-guide/"><u>Troubleshooting Tips for Solving 2022 'Leaf' Error in Apex Legends - Fix Guide</u></a></li>
+</ul></div>
 

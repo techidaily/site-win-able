@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel: A Comprehensive Guide on Leveraging the Subtotal Formula"
-date: 2024-08-28T05:23:40.387Z
-updated: 2024-08-29T05:23:40.387Z
+date: 2024-12-04T17:08:36.438Z
+updated: 2024-12-06T16:36:33.261Z
 tags:
   - excel
 categories:
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
  As mentioned, SUBTOTAL in Excel allows you to group the same or related items in a list and use a function to calculate the values. For example, you can use it to sum sales by month or average grades by student. You could also add inventory by product or [count the number](https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-redmi-note-12t-pro-for-free-drfone-by-drfone-virtual-android/) of bills due next week.
 
  Using the SUBTOTAL function by creating a formula or using the Subtotal feature, you can get the calculations you need in just a few steps.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Excel SUBTOTAL Function
 
@@ -65,14 +69,15 @@ thumbnail: https://thmb.techidaily.com/487b81e16ea9432c9b3bc7ae56246949ca490ff5d
 
 ![Basic subtotal formula in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/BasicFormula-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For this next example, we hid rows 4 and 5\. Using this first formula, we can obtain our sum using the number 9 for the first argument to include the hidden data.
 
 =SUBTOTAL(9,B2:B6)
 
 ![SUBTOTAL function including hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SumIncludeHidden-ExcelSubtotal.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, we'll exclude those hidden rows from our total, using the number 109 for our first argument.
 
@@ -90,6 +95,10 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 
 ![SUBTOTAL function including hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/AverageIncludeHidden-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And next, we'll exclude the hidden rows with this formula:
 
 =SUBTOTAL(101,C2:C6)
@@ -97,8 +106,9 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 ![SUBTOTAL function excluding hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/AverageExcludeHidden-ExcelSubtotal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Notes on the SUBTOTAL Function
 
  Here are a few things to keep in mind when using the SUBTOTAL function in Excel:
@@ -119,9 +129,6 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal in the Outline menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/OutlineSubtotal-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  When the Subtotal box opens, choose how you want to add the subtotals.
 
 * **At Each Change In** **:** Select the column you want to use for the grouping. Here, we picked Month so that a new group is created when the Month changes in the sheet.
@@ -133,8 +140,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 ![Subtotal settings for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsSum-ExcelSubtotal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your data update to group _and_ subtotal the rows and create a grand total at the bottom. Use the plus, minus, and number buttons to collapse or expand the groups for easier viewing.
 
 ![Subtotal for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSum-ExcelSubtotal.png) 
@@ -148,22 +156,17 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 ![Subtotal settings for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsAverage-ExcelSubtotal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We now have our rows grouped by student with an average grade for each and an overall average at the bottom. Again, you can use the buttons on the left to collapse and expand the groups.
 
 ![Subtotal for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverage-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  If you decide to ungroup the rows after you use the Subtotal feature, the rows return to normal. However, those containing the SUBTOTAL function used by Excel remain for you to continue using or simply delete if you prefer.
 
 ![Subtotal average for ungrouped rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverageUngrouped-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The Subtotal feature can become complex if you plan to use many groups. However, these basic examples should help get you started if you're interested in this function.
 
  One thing to note is that you can't [add an Excel table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) subtotal with this feature. If you have your data in a table, you can either insert the Excel formula for SUBTOTAL as described earlier or [convert your table to a cell range](https://video-capture.techidaily.com/new-2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/) to use the feature. If you choose the latter, you'll lose the table functionality.
@@ -182,8 +185,6 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +192,21 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-download-free-mcb-logo-templates/"><u>[New] 2024 Approved Download Free MCB Logo Templates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-wildlife-wonders-at-fingertips-top-mobile-simulators-for-2024/"><u>[New] Wildlife Wonders at Fingertips Top Mobile Simulators for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-is-paying-monthly-for-youtubes-unlimited-access-a-good-deal-in-2024/"><u>[Updated] Is Paying Monthly for YouTube's Unlimited Access a Good Deal, In 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-subscriber-threshold-raised-for-profits/"><u>2024 Approved Subscriber Threshold Raised for Profits</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-minecraft-game-freezing-discover-6-quick-solutions-to-stabilize-your-playtime/"><u>End Minecraft Game Freezing - Discover 6 Quick Solutions to Stabilize Your Playtime</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/enhance-your-printing-with-the-newest-dymo-labelwriter-e-4xl-driver/"><u>Enhance Your Printing with the Newest DYMO LabelWriter E-4XL Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-pc-troubleshooting-steps-when-fuser-continuously-crashes/"><u>Fix Your PC: Troubleshooting Steps When Fuser Continuously Crashes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/from-queens-to-the-big-screen-the-impact-of-miles-morales-in-marvels-latest-game/"><u>From Queens to the Big Screen: The Impact of Miles Morales in Marvel's Latest Game</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-splitgate-graphics-settings-fixes-for-increasing-speed-and-reducing-stutter/"><u>Mastering Splitgate Graphics Settings: Fixes for Increasing Speed & Reducing Stutter</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-endless-loading-on-anthem-a-comprehensive-fix-guide/"><u>Solve Endless Loading on Anthem: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-increasing-your-ark-sanctuarys-performance-tips-for-pc-players/"><u>Ultimate Guide to Increasing Your ARK: Sanctuary's Performance - Tips for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-fixing-the-persistent-ntdlldll-system-crashes-in-modern-operating-systems/"><u>Understanding and Fixing the Persistent ntdll.dll System Crashes in Modern Operating Systems</u></a></li>
+<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-vivo-v29-pro-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Vivo V29 Pro?</u></a></li>
+</ul></div>
 

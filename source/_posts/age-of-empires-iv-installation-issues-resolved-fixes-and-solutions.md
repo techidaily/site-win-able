@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-11-20T18:47:38.732Z
-updated: 2024-11-26T21:09:42.407Z
+date: 2024-12-03T16:50:21.652Z
+updated: 2024-12-06T16:26:41.565Z
 tags:
   - win11
   - win10
@@ -105,10 +105,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -118,6 +114,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -129,23 +129,27 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
- Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
 
@@ -159,16 +163,12 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -193,22 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-finest-chromebook-pencil-stores-you-need-to-know-about-for-2024/"><u>[New] The Finest Chromebook Pencil Stores You Need to Know About for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unraveling-monetization-strategies-in-the-realm-of-video-shorts/"><u>[New] Unraveling Monetization Strategies in the Realm of Video Shorts</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-x-professional-audio-toolkit-personal-computing-for-2024/"><u>[Updated] X-Professional Audio Toolkit, Personal Computing for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-computer-lags-advanced-solutions-for-enhancing-your-sims-4-gameplay-pro-advice-2024/"><u>Conquering Computer Lags: Advanced Solutions for Enhancing Your Sims 4 Gameplay (Pro Advice, 2024)</u></a></li>
-<li><a href="https://win-able.techidaily.com/evil-genius-2-troubleshooting-how-to-successfully-start-the-game/"><u>Evil Genius 2 Troubleshooting: How to Successfully Start the Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-pc-version-fixes-and-solutions-for-persistent-crashing-issues/"><u>God of War PC Version: Fixes & Solutions for Persistent Crashing Issues</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/how-to-seamlessly-convert-and-download-pinterest-videos-as-mp3/"><u>How to Seamlessly Convert and Download Pinterest Videos as MP3</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 14 Plus and iPad?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-ghostly-gag-gallery/"><u>In 2024, Ghostly Gag Gallery</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/in-2024-how-to-translate-video-from-japanese-to-english-online/"><u>In 2024, How To Translate Video From Japanese to English Online?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/pushing-the-boundaries-of-screen-recording-with-recmeister-for-2024/"><u>Pushing the Boundaries of Screen Recording with Recmeister for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unpredictable-pc-malfunctions-when-running-gas-station-simulator-on-windows-1011/"><u>Resolving Unpredictable PC Malfunctions When Running Gas Station Simulator on Windows 10/11</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-f04-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy F04 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-story-how-we-overcame-the-game-security-infringement-noticed-issue/"><u>Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-seamless-online-gif-to-video-conversion-top-5/"><u>[New] 2024 Approved Seamless Online GIF to Video Conversion (Top 5)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-bandicam-the-2023-comprehensive-overview-for-2024/"><u>[Updated] Ultimate Guide to Bandicam The 2023 Comprehensive Overview for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-smart-8-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Smart 8 Pro without App | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-disruption-during-matches-resolving-fm2019-game-crash-errors/"><u>Avoid Disruption During Matches: Resolving FM2019 Game Crash Errors</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids/"><u>BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-your-csgo-login-woes-5-effective-remedies-for-no-user-logon-error/"><u>Cure Your CSGO Login Woes: 5 Effective Remedies for ‘No User Logon’ Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/dayz-first-person-shooter-instant-fixes-for-drop-issues/"><u>DayZ First-Person Shooter: Instant Fixes for Drop Issues</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/decoding-advanced-computing-the-expertise-of-toms-hardware-reviews/"><u>Decoding Advanced Computing: The Expertise of Tom's Hardware Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-rocket-league-game-running-smoothly-again/"><u>Fixing the Issue: How to Get Your Rocket League Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-update-analysis-the-effect-of-framerate-adjustments-in-s8/"><u>Fortnite Update Analysis: The Effect of Framerate Adjustments in S8</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco X5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/monster-hunter-stories-2-wings-of-ruin-not-launching-steps-to-successful-boot-up/"><u>Monster Hunter Stories 2: Wings of Ruin Not Launching - Steps to Successful Boot-Up</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro-for-2024/"><u>New From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/premier-pro-fullscreen-techniques-compendium/"><u>Premier Pro Fullscreen Techniques Compendium</u></a></li>
 </ul></div>
 

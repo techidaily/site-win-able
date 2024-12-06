@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2024-11-24T16:13:17.557Z
-updated: 2024-11-26T19:41:28.129Z
+date: 2024-12-04T16:19:32.946Z
+updated: 2024-12-06T16:26:49.945Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -36,6 +36,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -61,10 +65,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -76,11 +76,11 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
- If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 ### Fix 3: Update your graphics driver
 
@@ -92,6 +92,10 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
@@ -116,7 +120,7 @@ And it’s quite easy to update too:
 3. Once you’ve installed the updates, restart the computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
@@ -144,15 +148,11 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -180,24 +180,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/-symphony-of-streams-harmonizing-your-multiple-youtube-views/"><u>[New] A Symphony of Streams Harmonizing Your Multiple YouTube Views</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-elevate-your-virtual-meetings-mastering-zoom-filter-tech/"><u>[New] In 2024, Elevate Your Virtual Meetings Mastering Zoom Filter Tech</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/20-efficient-applications-for-auto-gpt/"><u>20 Efficient Applications for Auto-GPT</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-breakdown-of-leading-free-video-conferencing-services-for-commercial-and-academic-use/"><u>2024 Approved Breakdown of Leading Free Video Conferencing Services for Commercial and Academic Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/bugged-out-solving-recurrent-issues-with-cod-mw/"><u>Bugged Out? Solving Recurrent Issues with COD: MW</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994622561-cortana-malfunctioning-here-are-the-solutions-you-need/"><u>Cortana Malfunctioning? Here Are the Solutions You Need</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-fixes-for-overcoming-rainbow-six-siege-online-play-errors/"><u>Essential Fixes for Overcoming Rainbow Six Siege Online Play Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-game-running-overcoming-hardware-and-driver-errors-in-rainbow-six-extraction/"><u>Get Your Game Running: Overcoming Hardware and Driver Errors in Rainbow Six Extraction</u></a></li>
-<li><a href="https://win-forum.techidaily.com/guide-to-identifying-the-latest-powershell-version-installed-in-windows-11/"><u>Guide to Identifying the Latest PowerShell Version Installed in Windows 11</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-to-restoring-among-us-voice-communication-on-your-pc/"><u>Guide to Restoring Among Us Voice Communication on Your PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Honor Magic 5? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-s17e-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo S17e FRP Bypass</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-amplify-your-youtubes-interaction-with-emojis/"><u>In 2024, Amplify Your Youtubes' Interaction with Emojis</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-when-your-witcher-3-wild-hunt-game-wont-start/"><u>Mastering the Fix: When Your Witcher 3: Wild Hunt Game Won't Start</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-freezing-problems-pathfinder-wrath-of-the-righteular-is-now-playable-on-pc/"><u>Overcome Freezing Problems: 'Pathfinder: Wrath of the Righteular' Is Now Playable on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-call-of-duty-vanguard-fixing-development-bug-5573/"><u>Resolving Call of Duty: Vanguard - Fixing Development Bug 5573</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-pc-crashing-issues-with-counter-strike-2-cs2-expert-solutions-and-adjustments/"><u>Say Goodbye to PC Crashing Issues with Counter-Strike 2 (CS2) - Expert Solutions & Adjustments</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secret-to-perfect-discord-screenshares-overcoming-the-persistent-black-screen-dilemma/"><u>Unlock the Secret to Perfect Discord Screenshares: Overcoming the Persistent Black Screen Dilemma</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-y78-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y78 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-beat-boosting-elevate-your-ig-videos-with-the-right-tune/"><u>[New] Beat Boosting Elevate Your IG Videos with the Right Tune</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-strategy-for-professional-gopro-filming/"><u>[New] The Ultimate Strategy for Professional Gopro Filming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-ultimate-guide-to-controlling-playback-rate-on-snapchat/"><u>2024 Approved The Ultimate Guide to Controlling Playback Rate on Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-high-cpu-demands-on-discord-expert-strategies-for-2e24/"><u>Conquering High CPU Demands on Discord - Expert Strategies for 2E24</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-can-you-tell-if-xbox-live-is-experiencing-downtime-or-issues/"><u>How Can You Tell if Xbox Live Is Experiencing Downtime or Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-microsoft-flight-simulator-2020-for-pc-players/"><u>How to Fix Persistent Crashes in Microsoft Flight Simulator 2020 for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-fps-drop-in-dying-light-game-a-comprehensive-guide/"><u>How To Overcome The FPS Drop in Dying Light Game - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-network-losses-when-playing-escape-from-tarkov/"><u>How to Resolve Network Losses When Playing Escape From Tarkov</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-vr-engine-software-a-comprehensive-review/"><u>In 2024, Top-Tier VR Engine Software A Comprehensive Review</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-image-quality-a-newbies-comprehensible-guide/"><u>In 2024, Unveiling Image Quality A Newbie's Comprehensible Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-resolution-techniques-how-to-get-battlefield-5-running-despite-initialization-failures/"><u>Quick Resolution Techniques: How to Get Battlefield 5 Running Despite Initialization Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-windows-11-error-code-0xc19001e1-step-by-step-fix/"><u>Resolving Windows 11 Error Code 0xC19001E1 - Step by Step Fix</u></a></li>
+<li><a href="https://extra-information.techidaily.com/revolutionize-your-post-processing-with-advanced-3d-lut-techniques/"><u>Revolutionize Your Post-Processing with Advanced 3D LUT Techniques</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-itel-a60s-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-frozen-screens-in-rocket-league-solutions-inside/"><u>Troubleshooting Frozen Screens in Rocket League – Solutions Inside</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-tips-for-when-wpcapdll-is-nowhere-to-be-found/"><u>Troubleshooting Tips for When Wpcap.dll Is Nowhere to Be Found</u></a></li>
 </ul></div>
 

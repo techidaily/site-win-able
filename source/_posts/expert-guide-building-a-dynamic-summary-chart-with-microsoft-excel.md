@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Building a Dynamic Summary Chart with Microsoft Excel"
-date: 2024-08-28T05:22:53.173Z
-updated: 2024-08-29T05:22:53.173Z
+date: 2024-12-02T16:00:19.172Z
+updated: 2024-12-06T16:06:46.559Z
 tags:
   - excel
 categories:
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 
  It's easiest to have your summary rows located below the data that they summarize. However, there is a way to accommodate this if your summary rows are currently positioned above instead. We'll describe how to do this first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Adjust the Outline Settings
 
  Select the cells that you want to outline and go to the Data tab.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 
  Click "OK" and get ready to create the outline.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create the Automatic Outline
 
  If you have your summary rows and other outline requirements set, it's time to create your outline.
@@ -58,26 +66,25 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 
 ![Go to Data and click Outline](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineRibbon-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the "Group" arrow and choose "Auto Outline" in the drop-down list.
 
 ![Click Group and then Auto Outline](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineGroupAutoOutline-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You should see your spreadsheet update immediately to display the outline. This includes numbers, corresponding lines, and plus and minus signs in the gray area to the left of the rows or at the top of the columns.
 
 ![Auto Outline created in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/CreatedAutoOutline-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The lowest number (1) and the furthest-left buttons below the 1 are for your highest-level view.
 
 ![Excel Outline Level 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineLevel1-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The next-highest number (2) and the buttons below it are for the second-highest level.
 
@@ -87,20 +94,14 @@ thumbnail: https://thmb.techidaily.com/b60c1fc9251ee88631c28dd2623940b69aaa41245
 
 ![Excel Outline Level 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineLevel3-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  You can use the numbers, the plus and minus signs, or both to collapse and expand your rows. If you click a number, it will collapse or expand that entire level. If you click a plus sign, it will expand that particular set of rows in the outline. A minus sign will collapse that particular set of rows.
 
 ![Excel Outline Levels](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineLevels-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ###  Format Styles After Creating the Outline
 
  As previously mentioned, you can apply styles to your outline to make rows and summary rows stand out. In addition to the outline itself, this helps make the data a bit easier to read and distinguish from the rest.
@@ -113,12 +114,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Apply Styles to an Excel Outline](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineSettingsApplyStyles-Excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
  You should see the [formatting styles](https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) applied to your outline. You can now click "OK" to close the window.
 
 ![Excel Outline with Styles](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/OutlineWithStyles-Excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
@@ -131,8 +133,9 @@ Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-gu
 ![Click Outline, Ungroup, Clear Outline](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/04/ClearOutline-Excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you applied styles to your outline, you'd need to reformat your text manually.
 
  Outlines aren't just handy for preparing documents. In Excel, an outline gives you a terrific way to organize and more easily [analyze your data](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/). The automatic outline takes almost all of the manual work out of the process.
@@ -145,8 +148,6 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,23 @@ Related: [How to Use Pivot Tables to Analyze Excel Data](https://fake-location.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-discover-affordable-premium-asmr-audio-equipment/"><u>[New] In 2024, Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-financial-aspects-of-youtube-promotions-for-2024/"><u>[Updated] Financial Aspects of YouTube Promotions for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-trending-videos-to-topical-graphics-tiktok-to-gif-guide/"><u>[Updated] In 2024, From Trending Videos to Topical Graphics TikTok-to-GIF Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/desktop-adventures-await-with-pokemon-unite-get-started-here/"><u>Desktop Adventures Await with Pokémon Unite - Get Started Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987176124-fixing-steams-remote-play-glitches-quick-and-easy-tips/"><u>Fixing Steam's Remote Play Glitches – Quick and Easy Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2021-how-to-fix-the-persistent-loading-screen-issue/"><u>Football Manager 2021: How to Fix the Persistent Loading Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-stuck-launch-screen-in-updated-dota-2-version/"><u>Getting Past the Stuck Launch Screen in Updated Dota 2 Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-the-king-of-fighters-xv-from-frequent-pc-malfunctions-and-enjoy-uninterrupted-playtime/"><u>How to Stop 'The King of Fighters XV' From Frequent PC Malfunctions and Enjoy Uninterrupted Playtime</u></a></li>
+<li><a href="https://extra-information.techidaily.com/instant-access-windows-photos-view/"><u>Instant Access Windows Photos View</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/new-the-art-of-sound-visuals-illustrating-audio-signals-as-waveforms-and-enriching-footage-with-animation-in-adobe-premiere-pro/"><u>New The Art of Sound Visuals Illustrating Audio Signals as Waveforms & Enriching Footage with Animation in Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-silence-a-guide-to-enable-spatial-audio-on-microsofts-latest-os-versions/"><u>Overcoming the Silence: A Guide to Enable Spatial Audio on Microsoft's Latest OS Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-corsair-icue-issues-in-windows-11-a-step-by-step-guide/"><u>Solving Corsair iCUE Issues in Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-strategies-efficiently-saving-rocket-league-matches/"><u>Top Strategies Efficiently Saving Rocket League Matches</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-tier-rankings-for-podcasts-a-seo-masterclass-for-2024/"><u>Top-Tier Rankings for Podcasts A Seo Masterclass for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-why-cant-i-play-league-of-legends-in-2eight-fourteen/"><u>Ultimate Troubleshooting: Why Can’t I Play League of Legends in 2Eight Fourteen?</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/which-ios-app-crushes-in-video-editing-for-2024-cameo-or-filmorago/"><u>Which iOS App Crushes in Video Editing for 2024 Cameo or FilmoraGo?</u></a></li>
+</ul></div>
 

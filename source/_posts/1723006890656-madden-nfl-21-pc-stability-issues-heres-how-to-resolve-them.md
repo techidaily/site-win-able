@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-11-21T19:30:12.298Z
-updated: 2024-11-26T17:40:32.975Z
+date: 2024-12-01T16:09:36.127Z
+updated: 2024-12-06T16:54:44.581Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that scores.
@@ -37,6 +33,10 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Switch your DirectX version**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Lower in-game graphical settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Verify the integrity of game files
 
@@ -50,12 +50,16 @@ Here’s how to do that on Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -72,15 +76,15 @@ If the fix doesn’t stop the crash, you can try the next one below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the latest graphics driver, restart your PC and test the gameplay in Madden 21.
 
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -90,15 +94,15 @@ To minimize conflicts, you also need to install all the system patches:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If you’re sure your system is up to date, simply check out the next trick below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch your DirectX version
 
@@ -108,10 +112,6 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 
@@ -119,7 +119,7 @@ To minimize conflicts, you also need to install all the system patches:
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
@@ -160,17 +160,19 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-beginners-bounty-understanding-screen-clarity-in-digital-media/"><u>[Updated] Beginner's Bounty Understanding Screen Clarity in Digital Media</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-the-foundation-of-a-great-facebook-presence-mastering-covers/"><u>[Updated] In 2024, The Foundation of a Great Facebook Presence Mastering Covers</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-procedure-for-removing-stashed-videos-from-watch-later/"><u>2024 Approved Procedure for Removing Stashed Videos From Watch Later</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-fix-why-isnt-shadowplay-recording-in-windows-and-how-to-make-it-work/"><u>Complete Fix: Why Isn't Shadowplay Recording in Windows and How to Make It Work?</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-freezing-issues-in-diablo-iii/"><u>Effective Solutions for Continuous Freezing Issues in Diablo III</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/essential-video-grabbers-for-windows-10-users/"><u>Essential Video Grabbers for Windows 10 Users</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-itel-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Itel Get Deleted Phone Number Back with Ease and Safety</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-mastering-the-mix-of-sound-and-slides-in-powerpoint-presentations/"><u>In 2024, Mastering the Mix of Sound and Slides in PowerPoint Presentations</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-modern-warfare-the-new-era-of-first-person-shooting-in-counter-strike-global-offensive/"><u>Mastering Modern Warfare: The New Era of First-Person Shooting in Counter-Strike Global Offensive</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/mastering-the-art-of-recording-macs-roblox-sessions/"><u>Mastering the Art of Recording Mac's Roblox Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-gameplay-fluidity-2024-expert-fixes-for-frequent-fps-drops-in-valorant/"><u>Maximize Gameplay Fluidity: 2024 Expert Fixes for Frequent FPS Drops in Valorant</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-getting-gta-v-to-open-correctly/"><u>Overcoming the Challenge: Getting GTA V to Open Correctly</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-navigating-through-instagram-video-hiccups/"><u>[New] 2024 Approved Navigating Through Instagram Video Hiccups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-beyond-frames-per-second-complete-slow-motion-analysis-2024/"><u>[New] Beyond Frames Per Second Complete Slow Motion Analysis, 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-guffaw-generator-cyborg-comic-coders/"><u>[Updated] Guffaw Generator Cyborg Comic Coders</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/g-deep-youtubes-best-immersive-experiences/"><u>Diving Deep YouTube's Best Immersive Experiences</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/essentials-acquiring-quality-unboxing-soundtracks-for-2024/"><u>Essentials Acquiring Quality Unboxing Soundtracks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-seamless-play-how-to-fix-your-elden-rings-lag-and-stutter-in-just-6-steps/"><u>Expert Tips for Seamless Play: How to Fix Your Elden Ring's Lag and Stutter in Just 6 Steps</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/finding-opportunities-where-youtube-collaborations-thrive/"><u>Finding Opportunities Where YouTube Collaborations Thrive</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-latency-and-lag-how-to-combat-frame-rate-drops-in-call-of-duty-modern-warfare-3/"><u>Fixing Latency and Lag: How to Combat Frame Rate Drops in Call of Duty: Modern Warfare 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-continues-to-fail-new-strategies-and-hacks-for-flawless-gaming-in-2amo/"><u>Garry's Mod Continues to Fail? New Strategies & Hacks for Flawless Gaming in 2Amo</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-nubia-red-magic-9-pro-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Nubia Red Magic 9 Pro Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209764696-noisy-playstation-4-heres-how-you-can-silence-the-racket/"><u>Noisy PlayStation 4? Here's How You Can Silence the Racket!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-fixes-for-nwstoreexe-errors-step-by-step-instructions/"><u>Troubleshoot Fixes for NW_Store.exe Errors: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-development-issue-6068-in-call-of-duty-mobile/"><u>Troubleshooting Guide: Resolving Development Issue 6068 in Call of Duty Mobile</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-fallout-3-not-starting-gamers-tips/"><u>Ultimate Troubleshooting Steps for Fallout ^3 Not Starting | Gamer's Tips</u></a></li>
 </ul></div>
 

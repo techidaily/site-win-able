@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Decision to Discontinue Currency Features in Excel
-date: 2024-08-28T05:23:03.759Z
-updated: 2024-08-29T05:23:03.759Z
+date: 2024-12-03T16:57:43.028Z
+updated: 2024-12-06T16:15:21.031Z
 tags:
   - excel
 categories:
@@ -37,8 +37,6 @@ _Microsoft_
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -46,8 +44,27 @@ _Microsoft_
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-innovate-humorous-gifry-on-giphy-network/"><u>[New] In 2024, Innovate Humorous Gifry on Giphy Network</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-sky-high-technology-unleashed-compreeive-review-of-dji-phantom-4/"><u>[New] In 2024, Sky High Technology Unleashed Compreeive Review of DJI Phantom 4</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capturecraft-in-depth-analysis-of-screen-capture-tech/"><u>[Updated] 2024 Approved CaptureCraft In-Depth Analysis of Screen Capture Tech</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-highest-priority-list-best-10-apps-for-live-baseball-and-basketball-action-for-2024/"><u>[Updated] Highest Priority List Best 10 Apps for Live Baseball & Basketball Action for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-streamlining-remote-collaboration-master-skypes-screen-share-tools/"><u>[Updated] In 2024, Streamlining Remote Collaboration Master Skype’s Screen-Share Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-solving-stutter-issues-and-achieving-high-fps/"><u>Boost Your Gaming Experience : Solving Stutter Issues & Achieving High FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-nba-2k21-from-freezing-on-your-computer-system/"><u>Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-running-issues-resolved-tips-and-fixes-to-prevent-freezing-on-new-windows-11-devices/"><u>Fallout 3 Running Issues Resolved: Tips and Fixes to Prevent Freezing on New Windows 11 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-fixed-wrath-of-the-rightenous-no-longer-plagued-by-continuous-crashes-patch-details-inside/"><u>Game Fixed! 'Wrath of the Rightenous' No Longer Plagued by Continuous Crashes – Patch Details Inside</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-honor-play-8t-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Honor Play 8T | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglestv-beginners-guide-to-making-videos/"><u>In 2024, GigglesTV Beginner's Guide to Making Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-call-of-duty-wwii-display-issues-on-windows-computers-tips-and-tricks/"><u>Solve Your Call of Duty: WWII Display Issues on Windows Computers - Tips & Tricks</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-correcting-missing-binkw32dll-error-messages/"><u>Step-by-Step Guide: Correcting Missing 'Binkw32.dll' Error Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-eliminating-lag-in-counter-strike-2-across-all-pc-platforms/"><u>Top Tips for Eliminating Lag in Counter-Strike 2 Across All PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-forza-horizon-11-overcome-launch-hurdles-with-these-powerful-2024-solutions/"><u>Unlocking Forza Horizon 11: Overcome Launch Hurdles with These Powerful 2024 Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-contrasts-ipad-versus-ipad-air-explained/"><u>Unveiling the Contrasts: IPad versus iPad Air Explained</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Call of Duty Black Ops Cold War - Fixing User Interface Error 27711"
-date: 2024-11-24T16:23:21.537Z
-updated: 2024-11-26T16:06:53.699Z
+date: 2024-12-03T16:48:38.826Z
+updated: 2024-12-06T16:53:32.361Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -30,6 +34,10 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 2. **[Scan and repair your game](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart your PC
 
@@ -45,15 +53,7 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now you can launch the game and see if it loads this time.
 
@@ -88,10 +88,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -101,7 +105,7 @@ To do so, first visit the website of your GPU manufacturer:
  If the new driver doesn’t do the charm, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -121,10 +125,6 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -149,22 +149,20 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-beginners-tutorial-windows-movie-maker-6-installation/"><u>[New] Beginner's Tutorial Windows Movie Maker 6 Installation</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-pinnacle-20-anime-songs-to-start-with/"><u>[Updated] Pinnacle 20 Anime Songs to Start With</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1-troubleshooting-how-to-fix-frame-skipping-in-videos-when-playing-with-vlc-media-player/"><u>1. Troubleshooting: How to Fix Frame Skipping in Videos when Playing with VLC Media Player</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-miniature-music-menus-actors-in-audio-world/"><u>2024 Approved Miniature Music Menus Actors in Audio World</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unleashing-originality-in-virtual-meme-worlds/"><u>2024 Approved Unleashing Originality in Virtual Meme Worlds</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/5p6b5l2z55qe5yid5ael5yyw5ywj55uy5ymv5pys6l2v5lu26ycj6ag54ocu4ocu566a5y2v6auy5pwi5asn5yi25li756gs55uy5pa55rov/"><u>极佳的初始化光盘副本软件选项——简单高效复制主硬盘方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/dual-collision-dilemma-deciphering-it-takes-two-hits-for-pc-issues/"><u>Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-smooth-play-in-far-cry-6-comprehensive-guide-to-avoid-pc-crashes/"><u>Ensuring Smooth Play in Far Cry 6: Comprehensive Guide to Avoid PC Crashes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/fine-tuning-focus-the-ultimate-guide-to-zooming-in-on-videoleap/"><u>Fine-Tuning Focus The Ultimate Guide to Zooming in on Videoleap</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-your-gaming-experience-with-solutions-for-high-framerate-gameplay-in-the-division-2-revamped-2024/"><u>Maximize Your Gaming Experience with Solutions for High-Framerate Gameplay in The Division 2 (Revamped 2024)</u></a></li>
-<li><a href="https://facebook.techidaily.com/pre-deletion-checklist-what-to-weigh-in-on-social-media-departure/"><u>Pre-Deletion Checklist: What to Weigh in on Social Media Departure</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-gobi-fatal-error-in-ubisofts-back-cu-blood-a-guide-for-unreal-engine-4-players/"><u>Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-fall-guys-starter-problems-a-comprehensive-troubleshooting-tutorial/"><u>Solving Fall Guys Starter Problems – A Comprehensive Troubleshooting Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-wow-crashes-with-these-simple-troubleshooting-steps-play-smoothly-again/"><u>Stop WoW Crashes with These Simple Troubleshooting Steps - Play Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-complete-fixers-manual-resolving-freezes-on-your-playstation-4/"><u>The Complete Fixer's Manual: Resolving Freezes on Your PlayStation 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-microsoft-edge-keeps-crashing-on-windows-11-and-how-to-fix-it/"><u>Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/astering-video-edits-in-youtube-studios-editor/"><u>[New] Mastering Video Edits in YouTube Studio's Editor</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-windows-11-game-recordings-the-ultimate-guide-to-successful-techniques-for-2024/"><u>[New] Windows 11 Game Recordings The Ultimate Guide to Successful Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-fix-obs-studio-drop-frames-issue/"><u>[Updated] How To Fix OBS Studio Drop Frames Issue?</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-expert-fixes-for-ps4-system-crashes-and-hangs/"><u>Beat the Glitch: Expert Fixes for PS4 System Crashes & Hangs</u></a></li>
+<li><a href="https://games-able.techidaily.com/catch-up-on-classic-gaming-with-iphone-and-psp-fusion/"><u>Catch Up on Classic Gaming with iPhone & PSP Fusion</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-how-to-fix-game-lags-and-eliminate-frameskipping/"><u>Cyberpunk 2077: How to Fix Game Lags & Eliminate Frameskipping</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-no-rest-for-the-wicked-pc-performance-problems-and-preventing-crashes/"><u>Fixing 'No Rest for the Wicked' PC Performance Problems and Preventing Crashes</u></a></li>
+<li><a href="https://android-frp.techidaily.com/gionee-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Gionee ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-insights-choosing-the-best-platforms-for-watching-cricket-live/"><u>In 2024, Expert Insights Choosing the Best Platforms for Watching Cricket LIVE</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-htc-u23-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from HTC U23 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-stay-concentrated-how-to-tame-the-chatter-of-google-video-calls/"><u>In 2024, Stay Concentrated How to Tame the Chatter of Google Video Calls</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-setup-eliminate-stutter-and-improve-divisions-2s-fps/"><u>Master Your Gaming Setup: Eliminate Stutter & Improve Divisions 2'S FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-vrchat-loading-and-functionality-problems/"><u>Solution Steps for Overcoming VRChat Loading and Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-stand-zombie-army-4-dead-war-now-running-flawlessly-after-critical-pc-bug-fixes/"><u>The Final Stand - Zombie Army 4: Dead War Now Running Flawlessly After Critical PC Bug Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-fps-on-dying-light-tips-and-tricks-to-optimize-performance/"><u>Troubleshooting Low FPS on Dying Light: Tips and Tricks to Optimize Performance</u></a></li>
 </ul></div>
 

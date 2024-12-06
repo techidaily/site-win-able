@@ -1,7 +1,7 @@
 ---
 title: "Mastering Treemaps in Excel: Techniques for Designing Tailored Data Diagrams"
-date: 2024-08-28T05:23:45.124Z
-updated: 2024-08-29T05:23:45.124Z
+date: 2024-12-02T16:59:36.146Z
+updated: 2024-12-06T16:24:54.632Z
 tags:
   - excel
 categories:
@@ -39,13 +39,14 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
 
 ![Treemap hierarchical data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/TreemapData-ExcelTreemap.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Select the data](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/) for the chart and head to the Insert tab. Click the "Hierarchy" drop-down arrow and select "Treemap."
 
 ![On the Insert tab, click Hierarchy, Treemap](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/InsertHierarchyTreemap-ExcelTreemap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The chart will immediately display in your spreadsheet. And you can see how the rectangles are grouped within their categories along with how the sizes are determined.
 
  In the screenshot below, you can see the largest product sold, Accessories > Cap, and the smallest, Shoes > Sandals.
@@ -53,17 +54,11 @@ Related: [How to Create an Organizational Chart in PowerPoint](https://facebook-
 ![Treemap largest and smallest items](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/TreemapWithData-ExcelTreemap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you can make some changes to the appearance, move or resize the chart, and give it a title.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ##  How to Customize a Treemap in Excel
 
  The best place to start customizing your treemap is by giving it a title. By default, the name is Chart Title. Simply click that text box and enter a new name.
@@ -71,20 +66,25 @@ No advertising on the website.
 ![Enter a chart title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartTitle-ExcelTreemap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you can select a style, color scheme, or different layout for the treemap. Select the chart and go to the Chart Design tab that displays. Use the variety of tools in the ribbon to customize your treemap.
 
 ![Chart Design tab in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartDesignTab-ExcelTreemap.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For fill and line styles and colors, effects like shadow and 3-D, or exact size and proportions, you can use the Format Chart Area sidebar. Either right-click the chart and pick "Format Chart Area" or double-click the chart to open the sidebar.
 
 ![Format Chart Area sidebar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/FormatChartArea-ExcelTreemap.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On Windows, you'll see two handy buttons on the right of your chart when you select it. With these, you can add, remove, and reposition Chart Elements. And you can pick a style or color scheme with the Chart Styles button.
 
 ![Chart Elements, position Legend](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ChartElementsLegend-ExcelTreemap.png) 
@@ -93,9 +93,6 @@ No advertising on the website.
 
 ![Drag to resize the chart in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/ResizeChart-ExcelTreemap.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
  Charts are super visuals that can help display your data in easy-to-read ways for your audience. So, you might also consider [creating a waterfall chart](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) or [a Pareto chart](https://snapchat-videos.techidaily.com/new-in-2024-capturing-snapshots-transferring-from-snapchat-to-device-storage/) in Microsoft Excel.
 
 <ins class="adsbygoogle"
@@ -104,8 +101,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,4 +108,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-tech-whizs-playbook-how-to-nail-screen-recording-on-macos/"><u>[New] In 2024, The Tech Whiz's Playbook How to Nail Screen Recording on macOS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/10-best-luts-for-adobe-lightroom-for-2024/"><u>10 Best LUTs for Adobe LightRoom for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-a-course-to-riches-youtubes-monetary-milestones-for-2024/"><u>Charting a Course to Riches YouTube's Monetary Milestones for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/combine-sounds-into-powerpoint-narratives/"><u>Combine Sounds Into PowerPoint Narratives</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009321382-discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-installation-issues-of-minecraft-on-the-latest-windows-operating-system/"><u>Fixes for Installation Issues of Minecraft on the Latest Windows Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-blue-screen-of-doom-solutions-for-msedgeexe-error-on-pc/"><u>Fixing the Blue Screen of Doom: Solutions for Msedge.exe Error on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-discord-from-crashing-during-live-streams/"><u>Fixing the Issue: How to Stop Discord From Crashing During Live Streams</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Xiaomi Redmi K70? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-falling-fps-issue-in-forza-horizon-5-for-pc-players/"><u>How to Fix the Falling FPS Issue in Forza Horizon 5 for PC Players?</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-complete-tutorial-sending-photos-from-apple-iphone-se-2022-to-ipad-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Complete Tutorial Sending Photos From Apple iPhone SE (2022) to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-craft-unique-logos-using-complimentary-stock-graphics/"><u>In 2024, Craft Unique Logos Using Complimentary Stock Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-problems-six-ways-to-enhance-your-playtime-with-call-of-duty-modern-warfare-2-on-pc/"><u>Overcoming Stability Problems – Six Ways to Enhance Your Playtime with Call of Duty Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-pc-issues-understanding-and-solving-game-crashes/"><u>Resident Evil Village PC Issues - Understanding and Solving Game Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/rising-expectations-meet-delayed-oculus-quest-launch/"><u>Rising Expectations Meet Delayed Oculus Quest Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-blurry-image-issue-in-cod-warzone-on-pc-with-easy-fixes/"><u>Solving the Blurry Image Issue in COD: Warzone on PC with Easy Fixes</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/what-is-an-ai-tool-in-2024/"><u>What Is an AI Tool, In 2024</u></a></li>
+</ul></div>
 

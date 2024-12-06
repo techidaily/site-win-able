@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Excel's Secrets: 11 Uncommon Yet Essential Features for Enhanced Efficiency"
-date: 2024-08-28T05:23:12.954Z
-updated: 2024-08-29T05:23:12.954Z
+date: 2024-11-29T17:00:18.273Z
+updated: 2024-12-06T16:10:49.071Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
 ---
 
 ## Unlocking Excel's Secrets: 11 Uncommon Yet Essential Features for Enhanced Efficiency
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/2dd3f6016f2ac6912827509209a1009782287114c
  Microsoft Excel offers [hundreds of functions](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/). So, there's bound to be at least a handful you don't know exist. These unique functions have specific purposes that you'll be thrilled to learn about and use.
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  FLOOR and CEILING for Rounding
 
@@ -53,6 +61,10 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![CEILING function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Ceiling-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  MODE.SNGL for Finding Repetitive Values
 
  Originally simply the [MODE function](https://support.microsoft.com/en-us/office/mode-function-e45192ce-9122-4980-82ed-4bdc34973120), Microsoft created a newer version of this statistical function for improved accuracy. Use MODE.SNGL to find a single frequently recurring number in an array or cell range.
@@ -65,14 +77,19 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 
 ![MODE.SNGL function for one array](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArray-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To find a recurring number in A1 through A5 and C1 through C5, you'd use this formula:
 
 =MODE.SNGL(A1:A5, C1:C5)
 
 ![MODE.SNGL function for two arrays](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ModeSnglArrays-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  CONVERT for Converting From One Measurement to Another
 
@@ -88,10 +105,6 @@ Related: [How to Convert Almost Any Unit in Microsoft Excel](https://discord-vid
 
 ![CONVERT function for Celsius to Fahrenheit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertTemp-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  To convert the value in cell B1 from centimeters to inches, use this formula:
 
 =CONVERT(B1,"cm","in")
@@ -99,8 +112,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![CONVERT function for centimeters to inches](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ConvertLength-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  DELTA for Testing Equal or Not Equal Values
 
  Another engineering function that's useful is DELTA. With it, you'll use the [Kronecker delta](https://mathworld.wolfram.com/KroneckerDelta.html) function to test whether two values are equal. Different than the [EXACT function](https://support.microsoft.com/en-us/office/exact-function-d3087698-fc15-4a15-9631-12575cf29926), the result is either 1 (true) or 0 (false).
@@ -120,8 +134,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![DELTA function using numbers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/DeltaNumber-ExcelFunctionsLittleKnown.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  GESTEP for Testing Greater Than or Equal To a Threshold
 
  One more engineering function you may find useful is GESTEP which allows you to test values that are [greater than or equal to](https://buynow-reviews.techidaily.com/easy-steps-to-activate-your-own-nintendo-network-id-on-the-nintendo-3ds-handheld-system/) a step (threshold). The result is either 1 (true) or 0 (false).
@@ -134,14 +149,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![GESTEP function using a cell references](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepCell-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To test a value of 10 against step 12, use this formula:
 
 =GESTEP(10,12)
 
 ![GESTEP function using a number](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/GestepNumbers-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ADDRESS for Finding the Location of a Cell
 
@@ -163,36 +179,18 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ADDRESS function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressFunction-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To find the address of the same cell using an absolute row and relative column, you'd use this formula:
 
 =ADDRESS(2,3,2)
 
 ![ADDRESS function with an argument in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressFunctionArgument-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  To find the address of the same cell in the sheet named Sheet2, use the following formula. Note that the commas represent the blank arguments `type` and `style`.
 
 =ADDRESS(2,3,,,"Sheet2")
 
 ![ADDRESS function with a sheet name in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/AddressSheet-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  PI for the Value of Pi
 
  If you need to use the value of pi for equations in your sheet, you can obtain it with the PI function.
@@ -205,11 +203,19 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![PI function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi-ExcelFunctionsLittleKnown.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To multiply the value of pi by 10, you'd use this formula:
 
 =PI()*10
 
 ![PI function times ten in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Pi10-ExcelFunctionsLittleKnown.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  ARABIC and ROMAN for Converting Numerals
 
@@ -231,9 +237,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ROMAN function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/Roman-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  To convert the same number in Simplified form, use one of these formulas:
 
 =ROMAN(2999,4)
@@ -242,9 +245,6 @@ Related: [How to Cross Reference Cells Between Microsoft Excel Spreadsheets](htt
 
 ![ROMAN function with an argument](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/RomanArgument-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ##  REPT for Entering Repeating Text
 
  If you want to add a series of characters, symbols, or text as a placeholder or for a visual effect, use the REPT [text function](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/).
@@ -259,19 +259,12 @@ Related: [How to Add Text to a Cell With a Formula in Excel](https://buynow-revi
 
 ![REPT function for the word Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ReptExcel-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  To repeat an asterisk 20 times, you'd use this formula:
 
 =REPT("*",20)
 
 ![REPT function for asterisks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/ReptAsterisk-ExcelFunctionsLittleKnown.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  We've covered many [Excel functions](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/) at How-To Geek and try to walk you through using the most common options. Hopefully one of these out-of-the-ordinary functions is exactly what you need for math, engineering, statistical, lookup, or textual data.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -286,8 +279,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -295,4 +286,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>[Updated] In 2024, Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-social-media-savvy-the-art-of-timing-in-instagram-reels-for-2024/"><u>[Updated] Social Media Savvy The Art of Timing in Instagram Reels for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>2024 Approved Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-launch-glitches-sorted-out-embark-on-the-quest-today/"><u>Baldur's Gate 3 Launch Glitches Sorted Out - Embark on the Quest Today!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/elevate-your-twitch-presence-with-these-5-indispensable-services/"><u>Elevate Your Twitch Presence with These 5 Indispensable Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fallout-3-game-crashes-on-windows-10-pcs/"><u>Resolved: Fixes for Fallout 3 Game Crashes on Windows 10 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-improving-halo-infinite-sound-quality/"><u>Ultimate Troubleshooting Tips for Improving Halo Infinite Sound Quality</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unleashing-the-full-power-of-apple-podcasts-downloads/"><u>Unleashing the Full Power of Apple Podcasts Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-game-expert-advice-to-resolve-football-manager-2021-loading-screens-quickly/"><u>Unstick Your Game: Expert Advice to Resolve Football Manager 2021 Loading Screens Quickly</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-hardware-drivers-with-windows-device-manager-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your hardware drivers with Windows Device Manager in Windows 10</u></a></li>
+</ul></div>
 

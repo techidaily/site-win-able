@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Fixing Cyberpunk 2077’S Infamous Black Screen Problem
-date: 2024-11-23T22:46:12.978Z
-updated: 2024-11-26T21:01:08.601Z
+date: 2024-12-02T16:09:55.695Z
+updated: 2024-12-06T16:20:53.297Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fixes to try
 
  Here are 5 methods to resolve the Cyberpunk 2077 CPU spikes. You may not try them all; simply work your way down the list until you find the one that works for you.
@@ -44,15 +40,15 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1.jpg)
 2. Right-click each application in the list and click**End task** to close them one by one.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  If there’re no background programs consuming your CPU but the problem still exists, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Turn off overlays
 
@@ -65,13 +61,13 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 2. Select the**In-Game** tab, untick**Enable the Steam Overlay while in-game** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Check if Cyberpunk 2077 high CPU usage is still there. If so, proceed to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,10 +81,6 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3 – Adjust in-game graphics settings
 
  Many players suggested that lowering certain graphics options in Cyberpunk 2077 will mitigate the heavy CPU bottleneck. Follow the steps below to make some tweaks to see if that does the trick.
@@ -100,6 +92,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
@@ -107,10 +103,14 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the power settings
 
@@ -123,22 +123,22 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
- Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
 
 ### Fix 5 – Update your device drivers
 
@@ -183,17 +183,22 @@ There are two ways you can update the device drivers correctly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-early-stage-youtube-wisdom-sidestep-these-8-common-mistakes/"><u>[Updated] 2024 Approved Early-Stage YouTube Wisdom Sidestep These 8 Common Mistakes</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-ace-2-pro-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Ace 2 Pro to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-fixes-for-paladins-stability-avoid-crashes-and-play-smoothly/"><u>Expert Fixes for Paladins Stability: Avoid Crashes and Play Smoothly</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/guida-passo-passo-a-fare-il-backup-di-i-dati-sul-tuo-dispositivo-flash-usb/"><u>Guida Passo-Passo a Fare Il Backup Di I Dati Sul Tuo Dispositivo Flash USB</u></a></li>
-<li><a href="https://win-community.techidaily.com/how-to-set-up-a-backup-solution-on-windows-server-2022-alternative-methods/"><u>How to Set Up a Backup Solution on Windows Server 2022 - Alternative Methods</u></a></li>
-<li><a href="https://win-blog.techidaily.com/restore-sound-in-evil-genius-2-a-step-by-step-guide-for-gamers/"><u>Restore Sound in 'Evil Genius 2': A Step-by-Step Guide for Gamers</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/seeding-strategies-for-valheim-prosperity-for-2024/"><u>Seeding Strategies for Valheim Prosperity for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-preventing-and-fixing-rocket-league-stuttering-issues/"><u>Solution Guide: Preventing and Fixing Rocket League Stuttering Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-recurrent-microsoft-edge-problems-on-windows-11-systems/"><u>Step-by-Step Fixes for Recurrent Microsoft Edge Problems on Windows 11 Systems</u></a></li>
-<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-apple-iphone-6s-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your Apple iPhone 6s Plus</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-to-overcome-the-launch-failure-of-dead-space-reboot-expert-advice-players/"><u>Top Tips to Overcome the Launch Failure of Dead Space Reboot – Expert Advice Players</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/voice-driven-technology-evolution-best-speech-recognition-software-for-mac-for-2024/"><u>Voice-Driven Technology Evolution Best Speech Recognition Software for Mac for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-step-by-step-guide-how-to-convert-youtube-streaming-into-a-free-screencast/"><u>[New] In 2024, Step by Step Guide How To Convert YouTube Streaming Into a Free Screencast</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premium-mkv-player-for-windows-devices/"><u>[New] Premium MKV Player for Windows Devices</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-premium-picks-for-the-ultimate-gopro-experience-for-2024/"><u>[New] Premium Picks for the Ultimate Gopro Experience for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-the-ultimate-guide-for-transforming-youtube-videos-into-animated-gifs/"><u>[Updated] 2024 Approved The Ultimate Guide for Transforming YouTube Videos Into Animated GIFs</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-next-level-mp4-experience-integrating-advanced-srt-audio-for-2024/"><u>[Updated] Next-Level MP4 Experience Integrating Advanced SRT Audio for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-skyward-saga-with-gopro-karma-a-comprehensive-review-for-2024/"><u>[Updated] Skyward Saga with GoPro Karma A Comprehensive Review for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crypto-artistry-unleashed-the-best-generators-transforming-images/"><u>Crypto Artistry Unleashed The Best Generators Transforming Images</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Vivo Y78 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-of-the-kobo-nia-reader-can-it-match-up-to-the-amazon-kindle-standards/"><u>In-Depth Analysis of the Kobo Nia Reader - Can It Match Up to the Amazon Kindle Standards?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-excel-limitations-create-effective-substitutes-for-missing-bookmarks/"><u>Overcoming Excel Limitations: Create Effective Substitutes for Missing Bookmarks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/retrieve-past-excel-workbook-versions-easily-and-securely/"><u>Retrieve Past Excel Workbook Versions Easily and Securely</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-integration-setting-up-microsoft-forms-and-excel-online-auto-sync/"><u>Seamless Integration: Setting Up Microsoft Forms & Excel Online Auto-Sync</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-transition-mastering-the-art-of-transferring-contacts-from-outlook-to-gmail/"><u>Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-page-x-out-of-y-text-to-excel-headerfooter/"><u>Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-bullet-point-lists-to-your-excel-worksheets/"><u>Step-by-Step Guide: Adding Bullet Point Lists to Your Excel Worksheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-an-effective-combination-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-effortlessly-converting-excel-formulas-across-languages/"><u>Step-by-Step Guide: Effortlessly Converting Excel Formulas Across Languages</u></a></li>
 </ul></div>
 

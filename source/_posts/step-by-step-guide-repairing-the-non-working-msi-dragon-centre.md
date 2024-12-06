@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-11-24T18:45:22.805Z
-updated: 2024-11-26T18:33:10.430Z
+date: 2024-12-04T16:04:12.582Z
+updated: 2024-12-06T16:36:47.288Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,7 +31,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -45,7 +41,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 Hope it works for you, if not, try updating your audio driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
@@ -65,7 +61,7 @@ Hope it works for you, if not, try updating your audio driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,11 +74,15 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -106,19 +106,14 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-practices-in-extracting-youtube-media/"><u>[New] In 2024, Best Practices in Extracting YouTube Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-easily-add-subtitles-and-closed-captions-to-youtube-video-for-2024/"><u>[Updated] How to Easily Add Subtitles and Closed Captions to YouTube Video for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-professional-tips-ensuring-correct-date-on-pictures/"><u>[Updated] Professional Tips Ensuring Correct Date on Pictures</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-race-day-visuals-update-graphics-driver-for-fix-forza-horizon/"><u>Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-freezing-and-crashes-in-snowrunner-on-your-windows-laptop/"><u>Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-oculus-link-blackout-6-speedy-solutions/"><u>Fixing the Oculus Link Blackout: 6 Speedy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-watch-dogs-legion-from-endlessly-crashing-on-personal-computers/"><u>How to Stop Watch Dogs Legion From Endlessly Crashing on Personal Computers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-15-best-ways-to-watch-nba-live-stream/"><u>In 2024, 15 Best Ways To Watch NBA Live Stream</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-navigating-your-sierra-cloud-storage-effortlessly/"><u>In 2024, Navigating Your Sierra Cloud Storage Effortlessly</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/silent-surfing-achieving-invisible-browser-sessions-on-leading-platforms/"><u>Silent Surfing: Achieving Invisible Browser Sessions on Leading Platforms</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/step-by-step-fixes-for-a-malfunctioning-logitech-g430-restore-your-sound-now/"><u>Step-by-Step Fixes for a Malfunctioning Logitech G430 - Restore Your Sound Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-high-disk-and-cpu-load-in-wsappx-a-step-by-step-guide-to-optimization/"><u>Troubleshooting High Disk and CPU Load in WSAPPX: A Step-by-Step Guide to Optimization</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-mastering-the-art-of-directx-error-correction-in-fifa-19/"><u>Troubleshooting Tips: Mastering the Art of DirectX Error Correction in FIFA 19</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/windows-10-audio-woes-heres-how-to-fix-your-conexant-smartaudio-hd-sound-problems/"><u>Windows 10 Audio Woes? Here's How to Fix Your Conexant SmartAudio HD Sound Problems</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-should-you-pay-for-unlimited-youtube/"><u>[Updated] 2024 Approved Should You Pay for Unlimited YouTube?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-advanced-photo-manipulation-focus-on-content-not-backdrop/"><u>[Updated] Advanced Photo Manipulation Focus on Content, Not Backdrop</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-how-to-remove-red-eye-from-photos-on-iphone-free/"><u>2024 Approved How to Remove Red Eye From Photos on iPhone [Free]</u></a></li>
+<li><a href="https://fox-that.techidaily.com/airpod-connection-woes-master-these-solutions-for-fluid-transitions-across-iphone-ipad-and-mac/"><u>AirPod Connection Woes? Master These Solutions for Fluid Transitions Across iPhone, iPad & Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-navigating-low-fps-issues-and-enhancing-gameplay-speed-tips/"><u>Fallout Navigating Low FPS Issues and Enhancing Gameplay Speed - Tips</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-80plus-creative-cooking-channel-names-to-attract-more-audience/"><u>In 2024, 80+ Creative Cooking Channel Names to Attract More Audience</u></a></li>
+<li><a href="https://win-able.techidaily.com/sid-meiers-civ6-constant-disruptions-solved-top-tech-tweaks-and-adjustments-revealed/"><u>Sid Meier's Civ6 Constant Disruptions Solved: Top Tech Tweaks & Adjustments Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-understanding-and-resolving-two-point-decrease-in-frame-rate-on-pc-platforms/"><u>Solved: Understanding and Resolving Two-Point Decrease in Frame Rate on PC Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-lag-issues-effective-techniques-to-reduce-your-back-4-blood-gameplay-latency/"><u>Solving Lag Issues: Effective Techniques to Reduce Your 'Back 4 Blood' Gameplay Latency</u></a></li>
 </ul></div>
 

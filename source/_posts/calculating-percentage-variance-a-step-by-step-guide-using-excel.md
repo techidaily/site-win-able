@@ -1,7 +1,7 @@
 ---
 title: "Calculating Percentage Variance: A Step-by-Step Guide Using Excel"
-date: 2024-08-28T05:22:40.490Z
-updated: 2024-08-29T05:22:40.490Z
+date: 2024-12-02T16:00:20.667Z
+updated: 2024-12-06T16:33:36.993Z
 tags:
   - excel
 categories:
@@ -11,12 +11,20 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ## Calculating Percentage Variance: A Step-by-Step Guide Using Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [How Percentage of Change Works](https://facebook-record-videos.techidaily.com/new-the-10-best-iphone-and-android-apps-to-make-into-videos/)
 * [Let's Look at an Example](https://some-techniques.techidaily.com/in-2024-fish-tastic-top-5-action-cameras-for-catch/)
 
  You can use Excel to calculate the percentage of change between two values quickly. In our simple example, we show you what you need to know to be able to calculate things like how much the price of gas changed overnight or the percentage of a stock price's rise or fall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How Percentage of Change Works
 
@@ -28,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ($3.199 - $2.999)/($2.999) = 0.067 = 6.7%
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Let's Look at an Example
 
  For our simple example, we will look at a list of hypothetical prices and determine the percentage of change between an original price and a new price.
@@ -36,61 +48,42 @@ thumbnail: https://thmb.techidaily.com/ce4adb63fa2c2ea65274491b10b565805f9f069cb
 
 ![Example Data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-001.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Start by selecting the first cell in the "Percentage of Change" column.
 
 ![Select Cell G3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-002.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  Type the following formula and then press Enter:
 
 =(F3-E3)/E3
 
 ![Enter Formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-003.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The result will appear in the cell. It is not formatted as a percentage, yet. To do that, first select the cell containing the value.
 
 ![Formula Result](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-004.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the "Home" menu, navigate to the "Numbers" menu. We will use two buttons---one to format the cell value as a percentage and another to reduce the number of decimal places so that the cell only shows the tenths place. First, press the "%" button. Next, press the ".00->.0" button. You can use either of the buttons on the right side of the menu to increase or decrease the displayed precision of the value.
 
 ![Number Menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-005.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  The value is now formatted as a percentage with only one decimal place displayed.
 
 ![Formatted as Percent with One Decimal Place](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-006.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now we can calculate the percentage of change for the remaining values.
 
  Select all of the cells of the "Percentage of Change" column and then press Ctrl+D. The Ctrl+D shortcut fills data down or to the right through all selected cells.
 
 ![Fill Cells Down](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/02/excel-percent-of-change-007.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  Now we are done, all of the percentages of change between the original prices and the new prices have been calculated. Notice that when the "New Price" value is lower than the "Original Price" value, the result is negative.
 
 Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.techidaily.com/updated-2024-approved-high-definition-ready-enabling-av1-on-youtube/)
@@ -101,8 +94,6 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +101,21 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-incorporating-yt-music-streams-into-videos-for-2024/"><u>[New] Incorporating YT Music Streams Into Videos for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/solved-fn-keys-on-my-asus-laptop-not-working/"><u>[Solved] Fn Keys on My ASUS Laptop Not Working</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-tips-to-make-your-instagram-video-goes-viral-for-2024/"><u>[Updated] Tips to Make Your Instagram Video Goes Viral for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-freebie-libraries-17-websites-with-free-ebooks/"><u>Discover Freebie Libraries - 17 Websites with Free Ebooks</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-running-resolving-monster-hunter-rise-start-up-glitches/"><u>Get Your Game Running: Resolving Monster Hunter Rise Start-Up Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-adobe-premiere-pro-from-crashing-on-windows-10-and-11-solutions-found/"><u>How to Stop Adobe Premiere Pro From Crashing on Windows 10 and 11 – Solutions Found</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/next-level-nighttime-necessities-a-comprehensive-guide-to-romers-long-lasting-led-torch/"><u>Next-Level Nighttime Necessities: A Comprehensive Guide to Romer’s Long-Lasting LED Torch</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-pc-crash-issues-with-our-guide-to-stabilizing-final-fantasy-xiv/"><u>Overcome PC Crash Issues with Our Guide to Stabilizing Final Fantasy XIV</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-issue-stop-content-warning-from-crashing-your-pc/"><u>Solving the Persistent Issue: Stop 'Content Warning' From Crashing Your PC!</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-resolve-non-launch-problem-in-farming-simulator-2022-game/"><u>Steps to Resolve Non-Launch Problem in Farming Simulator 2022 Game</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-best-10-learning-apps-tailored-for-high-school-students/"><u>The Best 10 Learning Apps Tailored for High School Students</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-to-winx-mediatrans-pro-top-app-for-seamless-iphone-and-ipad-data-syncing-with-computer/"><u>Ultimate Guide to WinX MediaTrans Pro: Top App for Seamless iPhone & iPad Data Syncing with Computer</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-selection-of-iphone-12-and-12-pro-skins-and-shields-reviewed-tech-insights-from-zdnet/"><u>Ultimate Selection of iPhone 12 and 12 Pro Skins & Shields Reviewed | Tech Insights From ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-for-continuous-nox-player-crashes-on-windowsmac/"><u>Ultimate Troubleshooting Guide for Continuous Nox Player Crashes on Windows/Mac</u></a></li>
+</ul></div>
 

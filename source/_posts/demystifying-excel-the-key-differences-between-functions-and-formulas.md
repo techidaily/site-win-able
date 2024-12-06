@@ -1,7 +1,7 @@
 ---
 title: "Demystifying Excel: The Key Differences Between Functions and Formulas"
-date: 2024-08-28T05:22:42.971Z
-updated: 2024-08-29T05:22:42.971Z
+date: 2024-12-05T16:29:00.880Z
+updated: 2024-12-06T16:19:00.354Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/143b26f11671d3fcd62f1801d95a276dc9ebb60e2
 ---
 
 ## Demystifying Excel: The Key Differences Between Functions and Formulas
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -57,9 +61,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  What Is a Formula in Excel?
 
  A formula in Excel is an expression, such as an equation, that you create inside a cell. You can insert a function into your formula or create an equation without one.
@@ -69,8 +70,9 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![Formula bar in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/FormulaBar-ExcelFunctionsFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Formulas With Functions
 
  If you select a function you want to use, you add it to the formula and then include the arguments which can include cell references, numbers, or text values. Examples of simple formulas using functions in Excel include:
@@ -90,12 +92,13 @@ Related: [12 Basic Excel Functions Everybody Should Know](https://visual-screen-
 ![SUM function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Sum-ExcelFunctionsFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Formulas Without Functions
 
  Formulas can be used on their own, without functions. So you can perform tasks like adding numbers and [multiplying values in cells](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). Examples of basic formulas without functions in Excel include:
@@ -109,15 +112,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Formula without function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Formula-ExcelFunctionsFormulas.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ##  Remembering the Difference Between Functions and Formulas
 
  Even though a function is technically a formula, it's a predefined formula, not one that you create. So, the easiest way to distinguish the difference between a function and a formula in Excel is that you can insert a function into a formula that you create.
@@ -133,8 +132,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +139,23 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-captivating-captions-writing-copy-that-drives-engagement-and-views-for-2024/"><u>[New] Captivating Captions Writing Copy That Drives Engagement and Views for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-mastering-igtv-content-creation/"><u>[New] In 2024, The Ultimate Guide to Mastering IGTV Content Creation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-step-by-step-inverting-iphone-video-order/"><u>2024 Approved Step-by-Step Inverting iPhone Video Order</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/o-add-custom-youtube-shorts-thumbnails-effortlessly-for-2024/"><u>How to Add Custom YouTube Shorts Thumbnails Effortlessly for 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-motorola-g54-5g-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Motorola G54 5G Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-optimize-and-stabilize-outriders-gaming-experience-on-pc/"><u>How to Optimize and Stabilize Outriders Gaming Experience on PC</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-sony-xperia-5-v-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Sony Xperia 5 V FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-7-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 7 without Password?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fifa-21-performance-in-depth-solutions-to-prevent-and-fix-pc-crashes-comprehensive-guide/"><u>Mastering FIFA 21 Performance: In-Depth Solutions to Prevent and Fix PC Crashes - Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-capture-overcoming-shadowplay-recording-challenges-on-windows-machines/"><u>Mastering Game Capture: Overcoming Shadowplay Recording Challenges on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-playthroughs-await-with-these-swift-fixes-for-elden-rings-fps-problems/"><u>Seamless Playthroughs Await with These Swift Fixes for Elden Ring's FPS Problems</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/soviet-speech-the-common-thread-of-uk-and-russ/"><u>Soviet Speech: The Common Thread of Uk & Russ</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-to-windows-11-defender-aguard-on-edge/"><u>Step-by-Step Guide to Windows 11 Defender Aguard on Edge</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cs-2-startup-issues/"><u>Troubleshooting Steps: Resolving CS 2 Startup Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-overcoming-freezes-in-minecraft-version-of-2n24-for-windows-pcs/"><u>Troubleshooting: Overcoming Freezes in Minecraft Version of 2N24 for Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-troubles-here-are-7-fixes-to-launch-on-your-pc-successfully/"><u>Warzone 2.0 Troubles? Here Are 7 Fixes to Launch on Your PC Successfully</u></a></li>
+</ul></div>
 

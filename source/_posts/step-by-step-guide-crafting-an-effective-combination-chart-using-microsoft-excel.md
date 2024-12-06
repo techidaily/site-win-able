@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel"
-date: 2024-08-28T05:23:58.976Z
-updated: 2024-08-29T05:23:58.976Z
+date: 2024-11-30T17:10:20.450Z
+updated: 2024-12-06T17:05:11.011Z
 tags:
   - excel
 categories:
@@ -37,17 +37,22 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 
 ![Combo chart on a single axis inserted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/single-axis-combo.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can make further improvements to the chart now, like changing the chart title. Click on the chart title box and start typing to replace the words "Chart Title" with something more useful. As you type, the text will appear in the formula bar above.
 
 ![Change the chart title to something more useful](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/change-chart-title.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Press the Enter key, and Excel saves the typed text as the chart title.
 
 ![Combo chart with title](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/combo-chart-with-title.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Insert a Combo Chart with Two Axes
 
  Using the sample data shown below, let's create a combo chart to show the monthly revenue and the ad budget on the same chart.
@@ -55,8 +60,9 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 ![Sample data for a two axis combo chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/sample-data-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select range A1:C13\. Click Insert > Combo Chart. Choose the "Clustered Column - Line on Secondary Axis" chart.
 
 ![Insert Combo chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/insert-combo-chart-2.png) 
@@ -66,8 +72,9 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 ![Combo chart with mixed data types](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/changed-combo-chart-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Change an Existing Chart to a Combo Chart
 
  We have looked at two examples of creating a combo chart from spreadsheet data, but knowing how to edit an existing chart can also be useful.
@@ -77,17 +84,9 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 ![Clustered column chart that needs changing](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/clustered-column.png) 
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The chart has one axis, and you can barely see the ad budget columns on the chart. Let's change this to a combo chart by creating a secondary axis for the ad budget data and changing its chart type to a line.
 
  To begin, right-click on the data series you want to change (ad budget in this example). Next, select "Change Series Chart Type."
@@ -98,16 +97,14 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 
 ![Change chart type dialog](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/change-chart-type.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
  The chart is changed to a combo chart.
 
 ![Combo chart from clustered column completed](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/08/changed-combo-chart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can then make other improvements to the combo chart, such as editing the chart title or labeling the axis.
 
 <ins class="adsbygoogle"
@@ -116,8 +113,6 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +120,16 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-streamlining-your-video-production-with-kinemaster-and-leading-alternatives/"><u>[Updated] In 2024, Streamlining Your Video Production with KineMaster & Leading Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photographic-experience-with-aurora-hdr-software/"><u>2024 Approved Photographic Experience with Aurora HDR Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-restoring-server-linkage-and-stability-in-escape-from-tarkov/"><u>Expert Advice on Restoring Server Linkage and Stability in Escape From Tarkov</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-lava-storm-5g-to-mac-drfone-by-drfone-android/"><u>How to Mirror Lava Storm 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-11-pro-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Realme 11 Pro Bootloader Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-your-gameplay-enhancing-frame-rates-in-ring-of-elysium/"><u>Maximizing Your Gameplay: Enhancing Frame Rates in Ring of Elysium</u></a></li>
+<li><a href="https://fox-info.techidaily.com/music-merging-techniques-for-premiere-pro-editors/"><u>Music Merging Techniques for Premiere Pro Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-loading-issues-in-among-us/"><u>Resolved: How to Fix Persistent Loading Issues in Among Us</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-alienware-aurora-r7-insight-intense-power-meets-hefty-price-tag/"><u>The Alienware Aurora R7 Insight: Intense Power Meets Hefty Price Tag</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips for Outriders: Eliminating PC Glitches and Hiccups"
-date: 2024-11-20T22:04:43.769Z
-updated: 2024-11-26T22:07:01.005Z
+date: 2024-12-04T17:07:52.534Z
+updated: 2024-12-06T16:39:02.539Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ You may run into the_Path of Exile (PoE)_ freezing issue for several reasons, su
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -50,16 +50,12 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-19.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-28.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -68,14 +64,10 @@ Follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-35.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch your game to see if it runs properly now. If the issue continues to occur, read on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -90,6 +82,10 @@ Follow the instructions below:
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-02-53.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -118,19 +114,11 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-18.jpg)
 
  Relaunch your game to test your issue. If this didn’t work, move on to the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
 
@@ -146,9 +134,17 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-08-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase virtual memory
 
@@ -157,10 +153,6 @@ If your issue continues to occur, move on and try the next fix.
 **1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.** Then, click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-29-35.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Click **Settings** .
 
@@ -174,19 +166,23 @@ If your issue continues to occur, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **6)** Select your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-52.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-33-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -208,6 +204,10 @@ If your issue persists, then ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-48-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and your game. If your issue still exists, try the fix, below.
 
 ### Fix 7: Reinstall Steam
@@ -218,10 +218,6 @@ If your issue persists, then ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-23.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-32.jpg)
@@ -231,6 +227,10 @@ If your issue persists, then ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-38.jpg)
 
  **4)[Download](https://store.steampowered.com/about/)**  and install Steam. Then, reinstall your game on Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Clean the interior of your PC
 
@@ -259,20 +259,18 @@ Relaunch the game to see if this helped.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-eminent-playwriting-for-podcasting-for-2024/"><u>[New] Eminent Playwriting for Podcasting for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-best-settings-audience-focused-screen-shots/"><u>[Updated] Best Settings Audience-Focused Screen Shots</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-focus-on-the-essentials-mastering-close-up-in-videoleap-videos/"><u>[Updated] Focus on the Essentials Mastering Close-Up in Videoleap Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-discovering-whos-watching-your-videos/"><u>[Updated] In 2024, Discovering Who's Watching Your Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-resolve-game-crashes-in-bg3-for-windows-users/"><u>Comprehensive Guide to Resolve Game Crashes in BG3 for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-fixes-for-clear-crisp-imagery-boosting-graphic-quality-in-cod-warzone-pc-edition/"><u>DIY Fixes for Clear, Crisp Imagery: Boosting Graphic Quality In COD: Warzone (PC Edition)</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-lowering-cpu-strain-during-phasmophobia-gameplay/"><u>Expert Advice on Lowering CPU Strain During Phasmophobia Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-malfunction-solved-effective-strategies-to-stop-the-game-from-crashing/"><u>Forza Horizon 4 PC Malfunction Solved: Effective Strategies to Stop the Game From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/forza-horizon-4-wont-boot-uncover-proven-strategies-to-launch-your-game-effortlessly/"><u>Forza Horizon 4 Won't Boot? Uncover Proven Strategies to Launch Your Game Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/granblue-fantasy-pc-link-issues-heres-how-to-fix-it/"><u>Granblue Fantasy PC Link Issues? Here's How to Fix It!</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-best-free-youtube-ending-creators-top-6-picks/"><u>In 2024, Best Free YouTube Ending Creators - Top 6 Picks</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-infinix-zero-5g-2023-turbo-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Infinix Zero 5G 2023 Turbo Phones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/ios-guide-to-premium-ps2-emulation-software-for-2024/"><u>IOS Guide to Premium PS2 Emulation Software for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-tweet-management-the-elite-selection-of-top-ranked-twitter-tools/"><u>Mastering Tweet Management: The Elite Selection of Top-Ranked TwitteR Tools</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/understanding-filmoras-creative-certification-protocol/"><u>Understanding Filmora's Creative Certification Protocol</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-high-visibility-features-mastering-snapchats-star-for-2024/"><u>[New] High-Visibility Features Mastering Snapchat's Star for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-android-beat-best-free-apps-for-downloading-youtube-tunes/"><u>[New] In 2024, Android Beat Best Free Apps for Downloading YouTube Tunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-recurring-microsoft-edge-failures-and-restarts-in-windows-11-systems/"><u>Effective Fixes for the Recurring Microsoft Edge Failures and Restarts in Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-ensuring-smooth-operations-of-the-virtual-battleground-hyper-scape-on-your-computer/"><u>Enhanced: Ensuring Smooth Operations of the Virtual Battleground - Hyper Scape on Your Computer</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/free-tools-unlock-a-world-of-dvd-experience-on-devices-for-2024/"><u>Free Tools Unlock a World of DVD Experience on Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-fixes-to-resolve-palworld-not-opening-correctly/"><u>Immediate Fixes to Resolve Palworld Not Opening Correctly</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-bdo-crashes-on-your-windows-machine-with-these-proven-steps/"><u>Overcoming BDO Crashes on Your Windows Machine with These Proven Steps</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/precision-in-speech-synthesis-converting-text-formats-to-srt/"><u>Precision in Speech Synthesis Converting Text Formats to SRT</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-bluestacks-freezing-issues-quickly-with-these-5-simple-fixes/"><u>Resolve Bluestacks Freezing Issues Quickly with These 5 Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-solving-startup-problems-in-farming-simulator-2022-edition/"><u>Step-by-Step Guide: Solving Startup Problems in Farming Simulator 2022 Edition</u></a></li>
+<li><a href="https://techidaily.com/things-you-dont-know-about-huawei-p60-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Huawei P60 Reset Code | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/ultimate-guide-to-dvd-conversion-top-tools-for-seamless-format-changes-from-videoaudio/"><u>Ultimate Guide to DVD Conversion: Top Tools for Seamless Format Changes From Video/Audio</u></a></li>
 </ul></div>
 

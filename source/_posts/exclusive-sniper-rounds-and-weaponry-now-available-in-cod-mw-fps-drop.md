@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2024-11-25T21:32:38.997Z
-updated: 2024-11-26T23:33:42.705Z
+date: 2024-11-29T16:38:31.155Z
+updated: 2024-12-06T16:32:29.458Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -57,10 +53,14 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
 
@@ -75,7 +75,7 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -111,15 +111,11 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -131,6 +127,10 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,18 +158,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-entrepreneurs-mobile-advantage-streamlined-steps-to-establish-youtube-channels/"><u>[New] In 2024, The Entrepreneur's Mobile Advantage Streamlined Steps to Establish YouTube Channels</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-pro-editor-tips-cropping-and-export-your-videos-for-instagram-success-for-2024/"><u>[New] Pro Editor Tips Cropping & Export Your Videos for Instagram Success for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-unleash-potential-advanced-techniques-in-instagram-loop-creation-for-2024/"><u>[New] Unleash Potential Advanced Techniques in Instagram Loop Creation for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/5-essential-tips-to-overcome-dev-error-n-6634-in-call-of-duty-warzone-latest-solutions-2022/"><u>5 Essential Tips to Overcome Dev Error N 6634 in Call of Duty: Warzone (Latest Solutions 2022)</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-blue-screens-a-guide-for-stable-fallout-3-gameplay-on-windows-11-systems/"><u>Banishing Blue Screens: A Guide for Stable Fallout 3 Gameplay on Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-path-of-exile-connection-failures-an-authoritative-guide-to-overcoming-server-issues/"><u>Beat Path of Exile Connection Failures: An Authoritative Guide to Overcoming Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-account-access-difficulties-heres-how-you-can-fix-them-now/"><u>Fortnite Account Access Difficulties? Here's How You Can Fix Them Now!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/guide-to-lending-and-borrowing-game-titles-amongst-buddies-on-xbox-one/"><u>Guide to Lending and Borrowing Game Titles Amongst Buddies on Xbox One</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12-pro-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 12 Pro 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/screen-capture-showdown-obs-vs-shadow-for-2024/"><u>Screen Capture Showdown OBS vs Shadow for 2024</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/topos-conversorers-de-mkv-sin-costo-para-pc-y-dispositivos-moviles-en-2024/"><u>Topos Conversorers De MKV Sin Costo Para PC Y Dispositivos Móviles en 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-zoom-disruptions-on-pcs-latest-solutions/"><u>Troubleshoot and Stop Zoom Disruptions on PCs - Latest Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cyberpunk-2077s-latency-and-performance-hiccups/"><u>Ultimate Fixes for Cyberpunk 2077'S Latency and Performance Hiccups</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-exploring-best-applications-tiktok-vs-youtubes-micro-video-realm/"><u>[New] 2024 Approved Exploring Best Applications TikTok vs YouTube's Micro-Video Realm</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-crafting-the-ideal-drone-lipo-energy-allies/"><u>[New] Crafting the Ideal Drone - LiPo Energy Allies</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-gimbal-guide-to-enhancing-mirrorless-and-dslr-footage/"><u>[Updated] Gimbal Guide to Enhancing Mirrorless and DSLR Footage</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/350-motorola-handset-now-with-integrated-stylus-and-enhanced-memory-sold-at-discount-techspot/"><u>$350 Motorola Handset Now with Integrated Stylus & Enhanced Memory - Sold at Discount! | TechSpot</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-twofold-decline-in-frames-per-second-fps-on-personal-computers/"><u>Battling Twofold Decline in Frames Per Second (FPS) on Personal Computers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/como-convertir-archivos-de-video-amv-al-formato-wmv-usando-movavi-metodo-gratuito-y-facil-en-linea/"><u>Cómo Convertir Archivos De Vídeo AMV Al Formato WMV Usando Movavi - Método Gratuito Y Fácil en Línea</u></a></li>
+<li><a href="https://win-able.techidaily.com/epic-game-launcher-open-error-swift-and-easy-resolution-tips-available-now/"><u>Epic Game Launcher Open Error? Swift and Easy Resolution Tips Available Now</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/facebook-bestanden-niet-te-vinden-deklarieeren-we-het-probleem-en-pakken-we-er-een/"><u>Facebook Bestanden Niet Te Vinden? Deklariëeren We Het Probleem en Pakken We Er Een!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986405609-fixing-a-sluggish-chrome-browser-fast-solutions/"><u>Fixing a Sluggish Chrome Browser: Fast Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-oneplus-12r-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock OnePlus 12R PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-call-of-duty-vanguard-unfreeze-gameplay-guide/"><u>Resolving Issues with Call of Duty: Vanguard - Unfreeze Gameplay Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/significant-icloud-enhancements-now-available-on-windows-platform/"><u>Significant iCloud Enhancements Now Available on Windows Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-avatamadet-performance-hiccups-on-the-frontiers-of-pandora-fix-low-fps-and-eradicate-stuttering/"><u>Troubleshooting 'Avatamadet:' Performance Hiccups on the Frontiers of Pandora: Fix Low FPS and Eradicate Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-excessive-cpu-usage-during-cyberpunk-nk2077-gaming-sessions/"><u>Troubleshooting Excessive CPU Usage During Cyberpunk Nk2077 Gaming Sessions</u></a></li>
 </ul></div>
 

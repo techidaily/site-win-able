@@ -1,7 +1,7 @@
 ---
 title: Bloodhunt PC Trouble? Fix Stutter and Lagging Issues with These Steps
-date: 2024-08-28T05:27:38.497Z
-updated: 2024-08-29T05:27:38.497Z
+date: 2024-12-01T16:10:07.334Z
+updated: 2024-12-06T16:32:11.630Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -55,21 +59,19 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -81,26 +83,28 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
@@ -115,14 +119,12 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Change NVIDIA resolution
 
  Open the NVIDIA control panel and change the resolution from 4k to 1440p. Click**Apply > Yes** to save the change.
@@ -139,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,23 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-experience-ultra-clarity-in-xiaomis-screen-capture-technology-for-2024/"><u>[New] Experience Ultra Clarity in Xiaomi's Screen Capture Technology for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-the-finest-5-android-photo-editing-apps/"><u>[New] In 2024, Explore the Finest 5 Android Photo Editing Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-the-ascent-keeps-crashing-on-pc/"><u>[SOLVED] The Ascent Keeps Crashing on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/cant-play-mov-files-on-galaxy-f54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Galaxy F54 5G</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/compensation-for-ailing-apples-butterfly-keyboard-eligible-users-get-up-to-395-back-on-each-laptop/"><u>Compensation for Ailing Apple's Butterfly Keyboard: Eligible Users Get Up to $395 Back on Each Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-getting-pathfinder-wrath-of-the-righteous-up-and-running-smoothly/"><u>Expert Advice on Getting Pathfinder: Wrath of the Righteous Up and Running Smoothly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-factory-unlock-your-telstra-iphone-15-by-drfone-ios/"><u>How To Factory Unlock Your Telstra iPhone 15</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/insider-knowledge-navigating-the-world-of-windows-keys-and-deals/"><u>Insider Knowledge: Navigating the World of Windows Keys & Deals</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-corsair-icue-malfunctions-a-step-by-step-fix-for-windows-11-users/"><u>Overcoming Corsair iCUE Malfunctions: A Step-by-Step Fix for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-persistent-freezing-issues-in-halo-infinite-for-windows-players/"><u>Resolved: Persistent Freezing Issues in Halo Infinite for Windows Players</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/smart-tips-for-creating-pre-scheduled-sms-alerts-directly-from-your-iphones-calendar/"><u>Smart Tips for Creating Pre-Scheduled SMS Alerts Directly From Your iPhone's Calendar</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-start-origin-in-windows-10-or-11-how-to-resolve-it/"><u>Solution Guide: Why Can't I Start Origin in Windows 10 or 11? How to Resolve It?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/step-by-step-method-to-personalize-iphone-ringtones-for-2024/"><u>Step-By-Step Method to Personalize iPhone Ringtones for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-continuous-crashes-in-watch-dogs-legion-on-desktop-systems/"><u>Troubleshooting and Solving Continuous Crashes in Watch Dogs: Legion on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-for-your-computer/"><u>Ultimate Guide: Repairing Damaged Video Game Data for Your Computer</u></a></li>
+</ul></div>
 

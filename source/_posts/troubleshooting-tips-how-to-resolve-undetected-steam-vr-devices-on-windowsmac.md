@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac"
-date: 2024-11-21T18:57:25.237Z
-updated: 2024-11-26T21:11:23.046Z
+date: 2024-12-02T16:30:54.068Z
+updated: 2024-12-06T16:05:02.307Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ Many Origin users have recently experienced an error while trying to log in Orig
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,10 +40,6 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Restart Origin completely
 
  This is the first thing you should try when you’re experiencing the “login unavailable” error. Just restart Origin completely:
@@ -54,6 +50,10 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -62,12 +62,12 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
@@ -75,27 +75,23 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 10. Click**OK** .
 
@@ -118,11 +114,11 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to your device to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -139,25 +135,29 @@ or
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
 
@@ -195,15 +195,22 @@ or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-yakuza-like-a-dragon-crashing-on-pc/"><u>[SOLVED] Yakuza: Like a Dragon Crashing on PC</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-cutting-edge-strategies-for-mastering-full-screen-editing-in-premiere/"><u>2024 Approved Cutting-Edge Strategies for Mastering Full Screen Editing in Premiere</u></a></li>
-<li><a href="https://techidaily.com/complete-tutorial-for-vivo-v27e-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo V27e Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/enrich-file-interaction-use-windows-11s-selection-boxes/"><u>Enrich File Interaction: Use Windows 11'S Selection Boxes</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/hp-z440-motherboard-and-graphics-cards-find-update-or-download-all-necessary-drivers/"><u>HP Z440 Motherboard & Graphics Cards: Find, Update or Download All Necessary Drivers</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-comprehensive-techniques-to-download-thousands-of-tiktok-videos/"><u>In 2024, Comprehensive Techniques to Download Thousands of TikTok Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-playtime-effective-fixes-for-low-frames-per-second-fps-in-war-thunder-tips-for-gamers/"><u>Optimizing Playtime: Effective Fixes for Low Frames Per Second (FPS) in War Thunder - Tips for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-trouble-get-your-praey-for-the-gods-running-smoothly-again/"><u>PC Trouble? Get Your Praey for the Gods Running Smoothly Again</u></a></li>
-<li><a href="https://driver-download.techidaily.com/quick-fix-how-to-find-and-download-the-right-asus-wifi-networking-drivers/"><u>Quick Fix: How to Find & Download the Right ASUS WiFi Networking Drivers</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-log-in-troubles-heres-how-to-successfully-access-your-account/"><u>Steam Log-In Troubles? Here’s How to Successfully Access Your Account</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-constructing-captivating-youtube-music-selections/"><u>[Updated] In 2024, Constructing Captivating YouTube Music Selections</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-podcasting-power-play-selecting-the-best-audio-interfaces/"><u>2024 Approved Podcasting Power Play Selecting the Best Audio Interfaces</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-snowboard-cross-triumphs-olympic-highlights/"><u>2024 Approved Snowboard Cross Triumphs - Olympic Highlights</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-guide-clearing-out-empty-and-repeated-data-rows-on-microsoft-excel-sheets/"><u>A Step-by-Step Guide: Clearing Out Empty and Repeated Data Rows on Microsoft Excel Sheets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-tp-link-re505x-range-extender-evaluation/"><u>Comprehensive Guide: TP-Link RE505X Range Extender Evaluation</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/dall-e-3-reveals-integrated-editing-tools-time-to-polish-and-perfect-them/"><u>DALL-E 3 Reveals Integrated Editing Tools - Time to Polish and Perfect Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-conversion-techniques-moving-data-seamlessly-from-pdf-files-to-excel-sheets/"><u>Effortless Conversion Techniques: Moving Data Seamlessly From PDF Files to Excel Sheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-technique-for-creating-checkboxes-and-tick-symbols-in-excel-worksheets/"><u>Effortless Technique for Creating Checkboxes and Tick Symbols in Excel Worksheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/guaranteed-safety-for-your-inbox-mastering-gmail-backup-with-gmvault-and-setting-up-auto-backup-routines/"><u>Guaranteed Safety for Your Inbox: Mastering Gmail Backup with GMVault & Setting Up Auto-Backup Routines</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-saving-selected-cells-from-your-spreadsheet-as-a-pdf-file/"><u>Guide: Saving Selected Cells From Your Spreadsheet as a PDF File</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-plus-to-others-ios-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s Plus To Others ios devices? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-microsoft-excels-scenario-manager-a-step-by-step-guide/"><u>Mastering Microsoft Excel's Scenario Manager: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-privacy-controls-how-to-secretly-manage-visibility-of-excel-worksheets/"><u>Mastering Privacy Controls: How to Secretly Manage Visibility of Excel Worksheets</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/million-dollar-marketing-boosts-qualcomms-copilotplus-sales-with-improved-battery-performance-over-ai/"><u>Million-Dollar Marketing Boosts Qualcomm's Copilot+ Sales with Improved Battery Performance Over AI</u></a></li>
+<li><a href="https://win11.techidaily.com/remedying-disconnect-error-for-malwarebytes-services-in-windows-11/"><u>Remedying Disconnect Error for Malwarebytes Services in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-frame-rate-hitches-optimizing-assassins-creed-valhalla-performance-on-windows-machines/"><u>Resolve Frame Rate Hitches: Optimizing Assassin’s Creed Valhalla Performance on Windows Machines</u></a></li>
 </ul></div>
 

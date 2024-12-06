@@ -1,7 +1,7 @@
 ---
 title: "Mastering Rule-Based Cell Highlights: A Step-by-Step Guide to Conditional Formatting in Excel"
-date: 2024-08-28T05:23:42.752Z
-updated: 2024-08-29T05:23:42.752Z
+date: 2024-11-29T16:43:43.565Z
+updated: 2024-12-06T16:57:51.528Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 ---
 
 ## Mastering Rule-Based Cell Highlights: A Step-by-Step Guide to Conditional Formatting in Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/ddf4423afddb9cc05befc8c29dab68251d9067205
 
 ![Choose a location with conditional formatting rules](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ChooseLocation-ExcelManageConditionalFormattingRules.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This allows you to jump between the rules you set up for different spreadsheets in your workbook.
 
 Related: [How to Group Worksheets in Excel](https://article-files.techidaily.com/complete-review-for-hero4-black-for-2024/) 
@@ -49,24 +57,23 @@ Related: [How to Group Worksheets in Excel](https://article-files.techidaily.com
 ![Create a new conditional formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/New-ExcelManageConditionalFormattingRules.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Edit a Rule
 
  Click "Edit Rule" to change the rule type and description. This box looks similar to the New Rule window. You can make changes to the rule or the formatting itself. When you finish, click "OK" to apply the changes.
 
 ![Edit a conditional formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Edit-ExcelManageConditionalFormattingRules.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  If you only want to change the range of cells for a rule, just update the cell references in the Applies To column for that rule.
 
 ![Cell range for a rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/AppliesTo-ExcelManageConditionalFormattingRules.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Delete a Rule
 
  If you want to remove a rule completely, click "Delete Rule." Just be aware that you will not be asked to confirm this action. So, once you delete a conditional formatting rule here, it's removed for good.
@@ -74,8 +81,9 @@ Related: [How to Group Worksheets in Excel](https://article-files.techidaily.com
 ![Delete a conditional formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Delete-ExcelManageConditionalFormattingRules.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Duplicate a Rule
 
  An easy way to set up a similar conditional formatting rule is by duplicating a current one. Maybe you created a rule based on [date](https://screen-sharing-recording.techidaily.com/updated-2024-approved-economical-pc-playback-devices/) so that all dates last week are highlighted in green. But you also want a rule so that dates this week are highlighted in yellow. You can click "Duplicate Rule" for the first one, then click "Edit Rule" for the copied one and make your adjustments.
@@ -87,8 +95,9 @@ Related: [How to Group Worksheets in Excel](https://article-files.techidaily.com
 Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recording.techidaily.com/updated-2024-approved-economical-pc-playback-devices/) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Rearrange Your Rules
 
  The rules listed in the tool are in the order that they apply. This means if you have more than one rule for the same set of cells, each rule applies in the order it's shown. You can rearrange this order using the arrow buttons on the right side.
@@ -97,18 +106,12 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
 
 ![Move a conditional formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/ReorderRules-ExcelManageConditionalFormattingRules.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  In addition to reordering your rules, you may want to stop those in the list from being applied at some point. For this case, you would check the box on the right of the rule for "Stop If True." Then, if the rule applies and conditional formatting takes place, no further rules will be applied.
 
  Here's an example: Say you're [highlighting values based on ranking](https://hardware-updates.techidaily.com/1722966983711-ultimate-solution-to-get-your-epson-et-4550-up-and-running-on-windows-with-proven-techniques/). You have rules to highlight cells with numbers above average and those in the top 50 percent. But those above [average](https://screen-video-capture.techidaily.com/updated-in-2024-mastering-your-first-zoom-webinar-with-ease/) are your primary concern. You can check the box for Stop If True so that if the above average rule applies to those cells, it will stop there and not highlight those in the top 50 percent as well.
 
 ![Select Stop if True](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/StopIfTrue-ExcelManageConditionalFormattingRules.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can keep track of your conditional formatting rules easily with the Rules Manager in Excel. And for additional rules that might interest you, take a look at how to [use icon sets to represent values](https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-15-pro-max-by-drfone-ios/) or how to [highlight blanks or cells with errors](https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/).
 
 <ins class="adsbygoogle"
@@ -117,8 +120,6 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +127,21 @@ Related: [How to Sort by Date in Microsoft Excel](https://screen-sharing-recordi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-channel-ascension-mastering-the-art-of-youtube-backlink-acquisition/"><u>[New] 2024 Approved Channel Ascension Mastering the Art of YouTube Backlink Acquisition</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-ultimate-guide-to-vitas-video-editor-full-review-2024/"><u>[New] Ultimate Guide to Vita's Video Editor - Full Review 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bridging-audio-and-web-mastering-the-podcast-rss-format/"><u>[Updated] Bridging Audio & Web Mastering the Podcast RSS Format</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-imaginary-giggles-generate-with-kapwings-maker/"><u>2024 Approved Imaginary Giggles Generate with Kapwing's Maker</u></a></li>
+<li><a href="https://fox-making.techidaily.com/das-dreistufentechnik-fur-inkrementelle-backups-auf-externen-laufwerken-erklart/"><u>Das Dreistufentechnik Für Inkrementelle Backups Auf Externen Laufwerken Erklärt</u></a></li>
+<li><a href="https://win-able.techidaily.com/ffxiv-versioning-issue-update-process-incomplete/"><u>FFXIV Versioning Issue - Update Process Incomplete</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-improve-stability-for-a-smoother-back-4-blood-experience-on-pc-systems/"><u>Fix and Improve Stability for a Smoother Back 4 Blood Experience on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-tips-for-increasing-fps-on-ring-of-elysium/"><u>Improving Performance: Tips for Increasing FPS on Ring of Elysium</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-stop-starfield-from-stuttering-and-cutting-out/"><u>Solved! How to Stop Starfield From Stuttering and Cutting Out</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-insight-into-predictive-ai-systems-operations-and-principles/"><u>The Insight Into Predictive AI Systems: Operations & Principles</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994186467-troubleshooting-the-fifa-21-failed-startup-problems-fixed/"><u>Troubleshooting the FIFA 21 Failed Startup Problems - Fixed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unveiling-the-oneplus-nord-n10-5g-a-budget-marvel-you-cant-overlook/"><u>Unveiling the OnePlus Nord N10 5G: A Budget Marvel You Can't Overlook</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-guide-to-free-flv-video-editing-tools/"><u>Updated In 2024, The Ultimate Guide to Free FLV Video Editing Tools</u></a></li>
+</ul></div>
 

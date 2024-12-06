@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-11-21T16:25:59.852Z
-updated: 2024-11-26T19:12:01.990Z
+date: 2024-12-04T17:07:19.241Z
+updated: 2024-12-06T16:55:02.837Z
 tags:
   - win11
   - win10
@@ -44,15 +44,15 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -86,12 +86,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -132,13 +136,13 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
 
@@ -149,7 +153,7 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
@@ -157,10 +161,6 @@ To do so, follow these steps:
 Launch Metro Exodus and see if it works now.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
 
@@ -193,18 +193,18 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-building-a-brand-the-art-of-creating-attention-grabbing-reels-on-social-media/"><u>[New] Building a Brand The Art of Creating Attention-Grabbing Reels on Social Media</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-pioneering-techniques-for-popularizing-youtube-videos/"><u>[Updated] In 2024, Pioneering Techniques for Popularizing YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-pc-launch-fix-a-complete-guide-for-gamers/"><u>Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-wasteland-giants-a-comprehensive-guide-to-scavengers-on-pc/"><u>Defeating the Wasteland Giants: A Comprehensive Guide to Scavengers on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-total-war-warhammer-ii-from-freezing-and-crashing-effective-solutions-and-troubleshooting-tips/"><u>How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-breaking-the-boundaries-vr-film-production-essentials-top-9/"><u>In 2024, Breaking the Boundaries VR Film Production Essentials (Top 9)</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-your-new-asus-speakersound-drivers-now/"><u>Install Your New ASUS Speaker/Sound Drivers Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-solutions-to-fix-league-of-legends-crashes-get-back-in-action-now/"><u>Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/mastering-podcast-release-schedules/"><u>Mastering Podcast Release Schedules</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-recording-reaction-videos-on-your-phone/"><u>New In 2024, The Ultimate Guide to Recording Reaction Videos on Your Phone</u></a></li>
-<li><a href="https://win-unique.techidaily.com/secure-methods-for-attaching-new-hard-drives-to-your-vmware-esxi-environment/"><u>Secure Methods for Attaching New Hard Drives to Your VMware ESXi Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-fast-track-adding-snapchat-to-your-mac-for-2024/"><u>[New] Fast Track Adding Snapchat to Your Mac for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-effectively-reduce-your-youtube-video-lengths/"><u>[New] In 2024, How To Effectively Reduce Your YouTube Video Lengths</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-ideal-portals-to-rewind-at-your-computer-ps3-edition/"><u>[Updated] In 2024, Ideal Portals to Rewind at Your Computer (PS3 Edition)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-premieres-export-woes-to-fix-srt-files/"><u>[Updated] Navigating Premiere's Export Woes to Fix SRT Files</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-nikon-d-500-4k-dslr-camera-review/"><u>[Updated] Nikon D 500 4K DSLR Camera Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-solving-amazon-prime-video-connectivity-problems/"><u>Comprehensive Guide: Solving Amazon Prime Video Connectivity Problems</u></a></li>
+<li><a href="https://fox-info.techidaily.com/deciding-on-live-stream-xsplit-or-obs-pros-and-cons/"><u>Deciding on Live Stream XSplit or OBS Pros and Cons</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-discords-continuous-loading-problem-during-streaming/"><u>Effective Solutions for Resolving Discord's Continuous Loading Problem During Streaming</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-achieving-large-head-aesthetics-on-tiktok-step-by-step-3-techniques/"><u>In 2024, Achieving Large-Head Aesthetics on TikTok Step by Step (3 Techniques)</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-dreamlight-valley-pc-issues-6-critical-fixes-and-solutions/"><u>Solving Dreamlight Valley PC Issues: 6 Critical Fixes & Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/value-packed-review-testing-the-speeds-of-tp-link-archer-a6-ac1200-network-router/"><u>Value-Packed Review: Testing the Speeds of TP-Link Archer A6 AC1200 Network Router</u></a></li>
 </ul></div>
 

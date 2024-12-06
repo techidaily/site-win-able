@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer"
-date: 2024-08-28T05:23:57.692Z
-updated: 2024-08-29T05:23:57.692Z
+date: 2024-12-03T16:11:01.774Z
+updated: 2024-12-06T16:50:34.387Z
 tags:
   - excel
 categories:
@@ -49,8 +49,6 @@ If you have a large spreadsheet in Excel, you may want to add page numbers. Doin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -58,8 +56,25 @@ If you have a large spreadsheet in Excel, you may want to add page numbers. Doin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-pro-editor-tips-cropping-and-export-your-videos-for-instagram-success/"><u>[Updated] Pro Editor Tips Cropping & Export Your Videos for Instagram Success</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-merge-movies-on-youtube-compilation/"><u>2024 Approved Merge Movies on YouTube Compilation</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixation-addressing-the-challenge-of-non-receipt-in-yahoo-mail-and-retrieving-all-missed-messages/"><u>Fixation: Addressing the Challenge of Non-Receipt in Yahoo Mail and Retrieving All Missed Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-subnautica-below-zero-pc-game-crashing-problems-efficiently/"><u>How to Fix Persistent Subnautica (Below Zero) PC Game Crashing Problems Efficiently</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-xs-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone XS Max? Heres the Best Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Realme C67 4G | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-movie-substitutes-that-shook-up-my-world-7-choices/"><u>In 2024, Movie Substitutes That Shook Up My World - #7 Choices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/insta-prowess-guide-the-9-secrets-behind-top-posters-success/"><u>Insta Prowess Guide The 9 Secrets Behind Top Posters' Success</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/navigating-ais-influence-in-crafting-original-works/"><u>Navigating AI's Influence in Crafting Original Works</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-wont-boot-up-discover-easy-fixes-for-the-2022-pc-edition/"><u>Outriders Won't Boot Up? Discover Easy Fixes for the 2022 PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-to-the-puzzling-dark-screens-in-re8-on-your-desktop-gaming-rig/"><u>Solutions to the Puzzling Dark Screens in RE8 on Your Desktop Gaming Rig</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-overcome-the-notorious-minecraft-black-screen-error/"><u>Top Strategies to Overcome the Notorious Minecraft Black Screen Error</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-realme-gt-3-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Realme GT 3 without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-over-witcher-woes-strategies-to-stop-the-witcher-3-from-crashing-on-your-pc/"><u>Winning Over Witcher Woes: Strategies to Stop The Witcher 3 From Crashing on Your PC</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

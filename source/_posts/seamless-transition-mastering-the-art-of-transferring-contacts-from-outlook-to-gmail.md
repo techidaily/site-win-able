@@ -1,7 +1,7 @@
 ---
 title: "Seamless Transition: Mastering the Art of Transferring Contacts From Outlook to Gmail"
-date: 2024-08-28T05:23:55.337Z
-updated: 2024-08-29T05:23:55.337Z
+date: 2024-11-30T16:26:26.582Z
+updated: 2024-12-06T16:22:41.553Z
 tags:
   - excel
 categories:
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/02_clicking_go_to_the_old_version.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’re back in the old version of Google Contacts, click “More” at the top of the page and select “Export” from the dropdown.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/03_selecting_export.png) 
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/07_clicking_file_tab_in_outlook.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the backstage screen, click “Open & Export” on the left and then click the “Import/Export” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/08_clicking_import_export.png) 
@@ -72,6 +80,10 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/12_selecting_csv_file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Under Options, decide whether or not you want duplicates to be imported. You can save yourself time later by selecting “Do not import duplicate items” now. Click the “Next” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/13_do_not_duplicate_clicking_next.png) 
@@ -84,15 +96,27 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/14a_clicking_map_custom_fields_import_outlook.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What does it mean to map custom fields? Simply, some of the fields in .csv file that came from Gmail might not match the destination address book you’re importing to, which means you'll need to "map" them. As the dialog explains, you need to drag the value in the .csv file on the right, to the field in Outlook on the left that most closely resembles it.
 
  When you’re done mapping fields, click the “OK” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/14b_map_custom_fields_dialog_import_outlook.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now, click the “Finish” button to complete the import process.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/15_clicking_finish.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can see your imported contacts by opening the “People” icon at the bottom of the left pane.
 
@@ -114,13 +138,6 @@ thumbnail: https://thmb.techidaily.com/09131504d6b18963281f522bba9f2baa6f9c4f1ee
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/19_clicking_import_export.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  The Import and Export Wizard dialog box displays. Select “Export to a file” under Choose an action to perform and then click the “Next” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/20_export_to_a_file_outlook_orig.png) 
@@ -129,13 +146,14 @@ No advertising on the website.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/21_comma_separated_values_for_export.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Select “Contacts” in the Select folder to export from box under the email account in which your contacts are located. Then, click the “Next” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/22_selecting_contacts_for_export.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Now, we need to choose a location and specify a name for the exported file, so click the “Browse” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/23_clicking_browse_for_export.png) 
@@ -144,9 +162,6 @@ No advertising on the website.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/24_saving_csv_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Click the “Next” button to continue.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/25_save_exported_file_as_clicking_next.png) 
@@ -170,23 +185,21 @@ No advertising on the website.
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/29_contacts_open_in_excel_from_outlook.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're ready to import your contacts into Gmail, open a browser and log in to your account. Then, click on "Gmail" and select "Contacts” from the dropdown.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/30_selecting_contacts_for_import.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Google is redesigning Contacts and you can try out the Contacts preview (click on “Try Contacts preview” in the menu on the left when viewing contacts in the old version). However, the Contacts preview does not allow you to import contacts yet, so we have to revert to the old version to import our contacts. To do that, click “Go to the old version” at the bottom of the list of options on the left.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/31_clicking_go_to_the_old_version_import.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  On the Contacts screen, click the "More" button and select "Import" from the dropdown.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/32_selecting_import.png) 
@@ -196,15 +209,13 @@ No advertising on the website.
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/33_clicking_choose_file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  On the Open dialog box, navigate to the folder where you saved the .csv file from Outlook, select the file, and then click the “Open” button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/34_opening_csv_file_for_import.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Click the “Import” button on the Import contacts dialog box to finish importing the contacts from the .csv file.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/35_clicking_import.png) 
@@ -215,17 +226,10 @@ No advertising on the website.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/36_imported_contacts.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  If you click on the group of imported contacts, you'll be able to merge them and delete duplicates. It might take a little time to clean them all up, but if things are a total mess, then you can always remove your imported contacts, return to Outlook, and perform the process again, this time either using the map fields function or Excel to fix the problems.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/03/37_clicking_find_and_merge_duplicates.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  You now have an address book full of contacts that you can immediately start emailing. That said, this is a one-time deal, meaning that when you start making changes to the contacts in one email client or service, the other client or service won't reflect the changes.
 
 <ins class="adsbygoogle"
@@ -234,8 +238,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +245,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-capture-every-moment-to-perfection-with-sj7s-new-4k-star-camera-review/"><u>[Updated] 2024 Approved Capture Every Moment to Perfection with SJ7’s New 4K Star Camera Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-essential-software-for-enthusiasts-top-5-ps1-emulators-for-2024/"><u>[Updated] Essential Software for Enthusiasts Top 5 PS1 Emulators for 2024</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/web-voc-wmv-movavi/"><u>無償WEB VOC ファイル WMV形式に自動変換 - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-fallout-76-performance-top-techniques-to-eliminate-lag/"><u>Boost Your Fallout 76 Performance: Top Techniques to Eliminate Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-bug-solving-apex-legends-loading-issues-fast/"><u>Bypass the Bug: Solving Apex Legends Loading Issues Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-tips-and-solutions-for-when-your-warframe-wont-open/"><u>Effective Tips & Solutions For When Your Warframe Won't Open</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-nokia-g22-is-unlocked-by-drfone-android/"><u>How To Check if Your Nokia G22 Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-recurring-shutdowns-in-your-moonlight-user-interface/"><u>How To Stop Recurring Shutdowns in Your Moonlight User Interface</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/in-2024-a-brief-review-of-capcut-translate-with-alternative/"><u>In 2024, A Brief Review of CapCut Translate With Alternative</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-hacks-to-do-pokemon-go-trainer-battles-for-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, Hacks to do pokemon go trainer battles For Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-instantvidwin11-direct-straightforward-capture-tool/"><u>In 2024, InstantVidWin11 Direct, Straightforward Capture Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012802785-overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-freezing-issue-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>Solving the 'Freezing' Issue in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-the-beauty-of-the-lg-c9-oled-4k-smart-tv-an-ultimate-guide-for-home-theater-buffs/"><u>Unveiling the Beauty of the LG C9 OLED 4K Smart TV: An Ultimate Guide for Home Theater Buffs</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210348106-9782226390110-voix-desperances/"><u>Voix d'espérances | Free Book</u></a></li>
+</ul></div>
 

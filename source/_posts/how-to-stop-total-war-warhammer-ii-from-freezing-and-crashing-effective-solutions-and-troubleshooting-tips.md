@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-11-21T20:45:59.718Z
-updated: 2024-11-26T20:05:33.485Z
+date: 2024-11-29T16:20:29.876Z
+updated: 2024-12-06T17:09:44.795Z
 tags:
   - win11
   - win10
@@ -42,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
@@ -68,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -83,10 +79,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -106,10 +98,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 Your game still freezes? Try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Lower in-game graphics settings
 
  If you’re gaming on an old computer, try lowering the graphics settings a little bit so your game can run smoother. Here’s how to do it:
@@ -120,18 +108,30 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your issue persists, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
@@ -171,16 +171,20 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-best-in-class-ultra-fast-lapses-for-2024/"><u>[Updated] Best-in-Class Ultra Fast Lapses for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-writing-for-impact-a-compreenas-guide-to-youtube-video-storytelling/"><u>[Updated] In 2024, Writing for Impact A Compreenas Guide to YouTube Video Storytelling</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-crafting-easy-youtube-animation-subscribe-bars-in-filmora/"><u>2024 Approved Crafting Easy YouTube Animation Subscribe Bars in Filmora</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-expertly-design-your-3d-openers-best-picks/"><u>2024 Approved Expertly Design Your 3D Openers Best Picks</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-persistent-diablo-iii-shutdowns/"><u>Diagnosing and Repairing Persistent Diablo III Shutdowns</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/dissecting-the-features-and-flaws-of-google-stadia-for-better-gaming-experience/"><u>Dissecting the Features and Flaws of Google Stadia for Better Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-honor-magic5-ultimate-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Honor Magic5 Ultimate to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Motorola Edge 40 Neo? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-cyberpunk-2077-for-gpu-in-windows-11-a-comprehensive-fix-guide/"><u>Optimizing Cyberpunk 2077 for GPU in Windows 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-latency-problems-in-rainbow-six-siege-comprehensive-guide/"><u>Resolving Latency Problems in Rainbow Six Siege - Comprehensive Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-10-secret-photoshop-photo-editing-tips-for-beginners/"><u>[New] 2024 Approved 10 Secret Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-free-apps-for-youtube-to-wav-transformation/"><u>[Updated] In 2024, Essential Free Apps for YouTube to WAV Transformation</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-resolving-common-instagram-video-glitches-for-2024/"><u>[Updated] Resolving Common Instagram Video Glitches for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210185884-9780997507836-art-hope-the-way-to-creative-wellness/"><u>ART HOPE The Way To Creative Wellness | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-startup-problems-in-hogwarts-legacy-8-effective-fixes-to-try-now/"><u>Beat Startup Problems in Hogwarts Legacy - 8 Effective Fixes to Try Now!</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/comprehensive-guide-35-essential-steps-for-ransomware-defense-as-recommended-by-malwarefox/"><u>Comprehensive Guide: 35 Essential Steps for Ransomware Defense as Recommended by MalwareFox</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-riot-games-addressed-the-202e-connectivity-issue-in-lols-latest-patch/"><u>How Riot Games Addressed the 202E Connectivity Issue in LoL's Latest Patch</u></a></li>
+<li><a href="https://techidaily.com/how-to-update-apple-iphone-14-pro-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 14 Pro without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-extension-pad-picks-your-comprehensive-selection-for-2n24/"><u>Leading Extension Pad Picks: Your Comprehensive Selection for 2N24</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007371581-league-of-legends-fps-drop-mystery-explained-find-out-how-often-youll-get-your-item/"><u>League of Legends FPS Drop Mystery Explained - Find Out How Often You'll Get Your Item</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ordered-episode-list-for-an-authentic-dragon-ball-experience/"><u>Ordered Episode List for an Authentic Dragon Ball Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-ghostrunner-critical-crashes-in-windows-11-a-complete-guide/"><u>Resolving GhostRunner Critical Crashes in Windows 11 - A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-hogwarts-legacy-launch-issues-top-tips-and-tricks-of-2024/"><u>Solving the 'Hogwarts Legacy' Launch Issues: Top Tips and Tricks of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-r-type-final-grogsyndicationerror)r-type-final-2-from-crashing-on-your-computer/"><u>Troubleshooting Steps to Prevent R-Type Final Grog/Syndication_error>R-Type Final 2 From Crashing on Your Computer</u></a></li>
 </ul></div>
 

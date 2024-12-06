@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-11-22T00:22:59.009Z
-updated: 2024-11-26T17:05:07.917Z
+date: 2024-12-05T16:27:28.697Z
+updated: 2024-12-06T16:57:15.074Z
 tags:
   - win11
   - win10
@@ -49,10 +49,6 @@ Here are the minimum requirements for Madden NFL 22:
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -68,12 +64,24 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -87,10 +95,6 @@ There are mainly two ways to update your drivers:
 
 See if the issue persists. If yes, continue to the next solution.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4 – Repair the game files
 
  Missing or faulty game files will also prevent Madden 22 from working properly. To see if that’s the case, you could perform a quick scan and repair of the game files. Below we’ll show you how to do this on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and[**Epic Games Launcher**](https://tools.techidaily.com/drivereasy/download/) .
@@ -101,14 +105,14 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -118,17 +122,13 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -168,22 +168,20 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-csgo-fps-drops-issues/"><u>[Fixed] CS:GO FPS Drops Issues</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/024-approved-capturing-attention-striking-shots-for-youtube-success/"><u>[New] 2024 Approved Capturing Attention Striking Shots for YouTube Success</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-voice-over-techniques-creating-compelling-video-content/"><u>[New] In 2024, Voice Over Techniques Creating Compelling Video Content</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-code-23-your-comprehensive-guide-to-resolution-and-recovery/"><u>Apex Legends Error Code 23: Your Comprehensive Guide to Resolution and Recovery</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tips-for-eliminating-cod-mw2s-troublesome-directx-problem/"><u>Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/connect-with-stars-write-inspiring-biographies-on-whatsapp-for-2024/"><u>Connect with Stars – Write Inspiring Biographies on WhatsApp for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/t-tips-for-crafting-immersive-soundscapes-in-youtube-for-2024/"><u>Expert Tips for Crafting Immersive Soundscapes in YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/firefox-stalling-resolve-all-freezing-problems-with-our-step-by-step-guide/"><u>Firefox Stalling? Resolve All Freezing Problems with Our Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011342095-fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-terraria-from-crashing-expert-guidance-and-tips/"><u>How to Stop Terraria From Crashing : Expert Guidance and Tips</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-any-samsung-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Samsung Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-analysis-evaluating-google-maps-app-on-ios/"><u>In-Depth Analysis: Evaluating Google Maps App on iOS</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/movhevc/"><u>MOVファイルとのHEVCコードチェンジ: 効率的なビデオエンコード・デコード手法</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-of-alan-wake-2s-unavailable-release/"><u>Solving the Issue of Alan Wake 2'S Unavailable Release</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-complete-guide-to-capturing-your-screen-in-windows-11-with-these-4-handy-tricks/"><u>The Complete Guide to Capturing Your Screen in Windows 11 with These 4 Handy Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/uncovering-top-tier-cloud-services-to-sustain-data/"><u>Uncovering Top-Tier Cloud Services to Sustain Data</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-ultimate-portable-shake-reducer-for-clear-video-capture/"><u>[New] In 2024, Ultimate Portable Shake Reducer for Clear Video Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-navigating-spotifys-ad-landscape-a-beginners-guide/"><u>[Updated] Navigating Spotify's Ad Landscape A Beginner's Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-non-gta-worlds-a-list-of-comparable-mega-hits-for-2024/"><u>[Updated] Non-GTA Worlds A List of Comparable Mega-Hits for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-essential-meme-blueprint-building-impactful-gifs/"><u>[Updated] The Essential Meme Blueprint Building Impactful GIFs</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-explore-10-elite-streamers-offering-freshest-live-content/"><u>2024 Approved Explore 10 Elite Streamers Offering Freshest Live Content</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-timeline-enhancement-incor-written-by-assistant/"><u>2024 Approved Timeline Enhancement Incor Written by Assistant</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-solutions-for-thunder-tier-ones-stability-issues-when-played-on-a-computer/"><u>Common Solutions for Thunder Tier One's Stability Issues When Played on a Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-crashing-errors-in-red-dead-redemption-2-your-ultimate-launch-problem-solver/"><u>Conquering Crashing Errors in Red Dead Redemption 2 - Your Ultimate Launch Problem Solver</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/discover-cutting-edge-gadgets-at-toms-digital-workshop/"><u>Discover Cutting-Edge Gadgets at Tom's Digital Workshop</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/essential-mac-screen-recorders-top-10-free-list-for-2024/"><u>Essential Mac Screen Recorders – Top 10 FREE List for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2019-stalling-discover-effective-solutions-now/"><u>Football Manager 2019 Stalling? Discover Effective Solutions Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-boot-loop-in-football-manager-202n1-troubleshooting-guide/"><u>How to Overcome the Boot Loop in Football Manager 202N1 – Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-uncovering-youtubes-finest-vr-movie-gems/"><u>In 2024, Uncovering YouTube's Finest VR Movie Gems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-call-of-duty-ww2-error-code-4128-issue/"><u>Troubleshooting Steps for Call of Duty WW2 Error Code 4128 Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-crashes-in-noxplayer-for-desktop-users/"><u>Troubleshooting: Persistent Crashes in NoxPlayer for Desktop Users</u></a></li>
 </ul></div>
 

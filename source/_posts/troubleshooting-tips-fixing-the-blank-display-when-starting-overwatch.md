@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-11-19T21:39:15.266Z
-updated: 2024-11-26T16:03:31.514Z
+date: 2024-12-05T16:22:04.040Z
+updated: 2024-12-06T17:12:40.841Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -50,11 +50,19 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
 If you still have the issue, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
@@ -74,6 +82,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -81,10 +93,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -109,7 +117,7 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
@@ -119,6 +127,10 @@ OR
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -137,7 +149,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 Force Vertical Sync and Triple Buffering on
@@ -160,6 +172,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  For AMD users:  
 
  1) Type**Catalyst control center** in the search bar, and press Enter.  
@@ -169,6 +185,10 @@ OR
  Restart your computer and launch FIFA 19 to test the issue. If this annoying issue is still bugging you, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
 
@@ -180,17 +200,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -247,10 +259,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
@@ -275,10 +283,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
  6) Restart your computer and launch your FIFA 19 to see if is working perfectly again.
@@ -298,10 +302,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  2) Select**Windows Powershell(Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
@@ -340,24 +340,24 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-go-live-on-youtube-with-minimum-follower-criteria-met/"><u>[New] Go Live on Youtube with Minimum Follower Criteria Met</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-harnessing-the-power-of-animated-graphics/"><u>[New] In 2024, Harnessing the Power of Animated Graphics</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-leveraging-built-in-recorders-on-mate-1020-and-p2010-series-to-screen-capture/"><u>[New] In 2024, Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-best-places-for-finding-attractive-free-tiktok-bg-videos/"><u>[New] In 2024, The Best Places for Finding Attractive Free TikTok BG Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-streaming-hits-for-movie-lovers-for-2024/"><u>[Updated] Ultimate Streaming Hits for Movie Lovers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-k11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beyond-the-basics-what-are-chatbot-jailbreaks-and-is-it-wise-to-employ-them/"><u>Beyond the Basics: What Are Chatbot Jailbreaks and Is It Wise to Employ Them?</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/choosing-spiritual-audio-for-your-cellphone-for-2024/"><u>Choosing Spiritual Audio for Your Cellphone for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-guide-how-to-stop-fall-guys-from-freezing-in-windows-gameplay/"><u>Complete Guide: How to Stop 'Fall Guys' From Freezing in Windows Gameplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/exquisite-edits-selecting-superior-framing-software/"><u>Exquisite Edits Selecting Superior Framing Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-and-resolve-the-game-security-compromised-alert/"><u>How To Address and Resolve The 'Game Security Compromised' Alert</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-stable-rocket-league-sessions-and-avoid-frequent-crashes-best-practices-of-2024/"><u>How to Ensure Stable Rocket League Sessions and Avoid Frequent Crashes (Best Practices of 2024)</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-and-continue-your-adventure-when-stuck-at-the-loading-screen-of-red-dead-redemption-2/"><u>How to Fix and Continue Your Adventure When Stuck at the Loading Screen of Red Dead Redemption 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-how-to-address-slow-performance-in-outriders-gameplay/"><u>Solution Found! How to Address Slow Performance in Outriders Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-minecraft-not-responding-problems-for-a-seamless-gaming-experience/"><u>Solving 'Minecraft Not Responding' Problems for a Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-pc-connectivity-issues-a-guide-to-reconnecting-fallout-76-servers/"><u>Solving PC Connectivity Issues: A Guide to Reconnecting Fallout 76 Servers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-league-of-legends-not-launching-a-comprehensive-guide/"><u>Solving the 'League of Legends Not Launching : A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-guide-resolving-errors-during-minecraft-launcher-update-processes/"><u>Success Guide: Resolving Errors During Minecraft Launcher Update Processes</u></a></li>
-<li><a href="https://win-bits.techidaily.com/windows-11youtube/"><u>Windows 11によるYouTube動画の効果的な記録テクニック</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-enhancing-your-videos-final-impression/"><u>[New] 2024 Approved Enhancing Your Video's Final Impression</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pushing-videography-to-new-heights-with-the-1j5-camera/"><u>[Updated] Pushing Videography to New Heights with the 1J5 Camera</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028416344-5/"><u>「自由にダウンロード可能な優秀な無料ビデオ音量調節ツールベスト5」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-pinnacle-color-balance-pro/"><u>2024 Approved Pinnacle Color Balance Pro</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-powerhouse-the-ultimate-guide-to-the-hp-omen-obelisk-gaming-desktop/"><u>Affordable Powerhouse: The Ultimate Guide to the HP OMEN Obelisk Gaming Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sounds-problems-quickly-expert-advice-on-halo-infinite/"><u>Fixing Sounds Problems Quickly: Expert Advice on Halo Infinite</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000000594-how-to-enable-msi-afterburner-detection-for-your-gpu-on-windows-1011-problem-solved/"><u>How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved!</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-6-plus-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 6 Plus in the Best Ways</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-celebrate-la-noire-launch-confirmed-after-delays/"><u>PC Gamers Celebrate: L.A. Noire Launch Confirmed After Delays</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/revolutionizing-employee-interactions-with-gpt-powered-writing/"><u>Revolutionizing Employee Interactions with GPT-Powered Writing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-battlefield-2042-pc-instability-solutions-and-tips/"><u>Troubleshooting Battlefield 2042 PC Instability: Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-discord-stream-solutions-and-tips/"><u>Troubleshooting Your Discord Stream - Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-tutorial-overcoming-crashes-in-tribes-of-midgard-gaming-experience/"><u>Ultimate Fix Tutorial: Overcoming Crashes in 'Tribes of Midgard' Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996888849-understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved</u></a></li>
+<li><a href="https://games-able.techidaily.com/unwind-to-top-10-blissful-free-mobile-gaming-titles/"><u>Unwind to Top 10 Blissful Free Mobile Gaming Titles</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/what-has-changed-discover-the-recent-improvements-of-movavi-video-editor-on-mac-computers/"><u>What Has Changed? Discover the Recent Improvements of Movavi Video Editor on Mac Computers</u></a></li>
+<li><a href="https://fox-where.techidaily.com/44om44o844k244o844ov44kp44or44oa5yaf44gn44oh44k544kv44oi44od44ox44ov44kp44or44oa44gu5zwp6agm44ks6kej5rg6/"><u>ユーザーフォルダ内でデスクトップフォルダの問題を解決</u></a></li>
 </ul></div>
 

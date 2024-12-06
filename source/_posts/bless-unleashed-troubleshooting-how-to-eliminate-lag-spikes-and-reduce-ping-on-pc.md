@@ -1,7 +1,7 @@
 ---
 title: "Bless Unleashed Troubleshooting: How to Eliminate Lag Spikes and Reduce Ping on PC"
-date: 2024-11-26T00:55:57.042Z
-updated: 2024-11-26T20:09:09.063Z
+date: 2024-12-04T16:54:11.760Z
+updated: 2024-12-06T16:23:39.444Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here are 6 methods that have helped other players solve Diablo 2 Resurrected crashing on PC. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -38,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/faf1cb7ed901297d85ab9d9c8300254ef72ce23f3
 4. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
@@ -92,20 +84,24 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -117,14 +113,10 @@ If this method doesn’t help, check out your graphics driver.
 3. Click**Begin Scan** to process.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -138,6 +130,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -145,6 +141,10 @@ If this method doesn’t help, check out your graphics driver.
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
@@ -172,24 +172,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-learning-legends-esteemed-ed-streams-online/"><u>[New] Learning Legends Esteemed Ed Streams Online</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-erasing-your-instagram-identity-step-by-step-guidebook/"><u>[Updated] In 2024, Erasing Your Instagram Identity Step-by-Step Guidebook</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-talking-the-talk-mastering-viewer-communication/"><u>2024 Approved Talking the Talk Mastering Viewer Communication</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-tormented-souls-from-freezing-or-crashing-on-your-desktop-pc/"><u>How to Prevent Tormented Souls From Freezing or Crashing on Your Desktop PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Vivo Y28 5G | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 14 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-crash-troubles-solve-them-with-these-6-easy-fixes/"><u>Minecraft Crash Troubles? Solve Them with These 6 Easy Fixes!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcome-chatgpt-glitches-discover-these-eight-repairs-for-iphone-app-troubles/"><u>Overcome ChatGPT Glitches: Discover These Eight Repairs for iPhone App Troubles</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/perfecting-your-valorant-thumbnails-a-comprehensive-tutorial-for-2024/"><u>Perfecting Your Valorant Thumbnails A Comprehensive Tutorial for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/pro-tips-to-resolve-lagging-issues-in-the-sims-prises-simulation-an-updated-guide-for-pc-users-now-including-tips-and-tricks-released-up-to-2024/"><u>Pro Tips to Resolve Lagging Issues In The Sims Prise's Simulation: An Updated Guide for PC Users, Now Including Tips and Tricks Released up to 2024.</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-tips-for-a-fluid-fall-guys-adventure-boosting-frame-rates-lowering-latency/"><u>Quick Tips for a Fluid Fall Guys Adventure: Boosting Frame Rates, Lowering Latency</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-pc-issues-fixes-for-deathloops-persistent-stuttering-problem/"><u>Resolving PC Issues: Fixes for Deathloop's Persistent Stuttering Problem</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/resolving-the-nospinlockavailable-error-a-step-by-step-guide/"><u>Resolving the NO_SPIN_LOCK_AVAILABLE Error: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-cyberpunk-2nk7s-pc-stability-issues-fixed/"><u>Ultimate Troubleshooting Tips for Cyberpunk 2Nk7's PC Stability Issues - Fixed!</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-simplicity-and-strength-with-the-hp-stream-11-laptop/"><u>Unveiling Simplicity and Strength with the HP Stream 11 Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-on-wolcen-lords-of-mayhem-game-release-status-and-community-responses/"><u>Update on Wolcen: Lords of Mayhem Game Release Status and Community Responses</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-successfully-addressed-and-resolved-origin-online-authentication-problem/"><u>Update: Successfully Addressed and Resolved Origin Online Authentication Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/win-the-fight-against-battlefield-e-latency-a-players-10-tactics-for-smoother-gaming/"><u>Win the Fight Against Battlefield E Latency: A Player's 10 Tactics for Smoother Gaming</u></a></li>
-<li><a href="https://win-trending.techidaily.com/windows-10-updates-no-longer-free-find-out-what-microsofts-latest-changes-mean/"><u>Windows 10 Updates No Longer Free? Find Out What Microsoft's Latest Changes Mean</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-the-most-advanced-virtual-classrooms-not-udemys-offspring/"><u>[New] In 2024, The Most Advanced Virtual Classrooms, Not Udemy's Offspring</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-nine-pinnacle-filmora-features-videographers-adore/"><u>[Updated] Nine Pinnacle Filmora Features Videographers Adore</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-launch-malfunction-solve-the-error-code-0xc0000022-problem-today/"><u>Adobe Launch Malfunction - Solve the Error Code 0xC0000022 Problem Today</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/behebt-fehlermeldung-beim-zugriff-auf-das-versionshistorikerlaufwerk-problem-losen/"><u>Behebt Fehlermeldung Beim Zugriff Auf Das Versionshistorikerlaufwerk - Problem Lösen</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-speeding-up-your-steam-gameplay-experience/"><u>Expert Advice on Speeding Up Your Steam Gameplay Experience</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-c55-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco C55 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unraveling-the-mystery-behind-apples-m1-chip/"><u>In 2024, Unraveling the Mystery Behind Apple's M1 Chip</u></a></li>
+<li><a href="https://common-error.techidaily.com/master-the-hack-a-step-by-nstep-solution-for-correcting-black-screen-on-google-chrome/"><u>Master the Hack: A Step-by-nStep Solution for Correcting Black Screen on Google Chrome</u></a></li>
+<li><a href="https://win-able.techidaily.com/overwatch-stutters-and-jumps-discover-how-to-ensure-uninterrupted-gameplay/"><u>Overwatch Stutters and Jumps? Discover How to Ensure Uninterrupted Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubles-with-battlefront-ii-heres-how-to-fix-it/"><u>PC Troubles with Battlefront II? Here's How to Fix It!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-solutions-for-restoring-samsung-soundbar-functionality/"><u>Step-by-Step Solutions for Restoring Samsung Soundbar Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-sea-of-thieves-stability-issues/"><u>Ultimate Guide to Fixing Sea of Thieves Stability Issues</u></a></li>
 </ul></div>
 

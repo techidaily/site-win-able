@@ -1,7 +1,7 @@
 ---
 title: "Stop the Game From Quitting: Resolve Your Issues with Assassin's Creed Valhalla"
-date: 2024-11-19T16:59:05.256Z
-updated: 2024-11-26T17:45:25.712Z
+date: 2024-11-30T16:19:39.985Z
+updated: 2024-12-06T16:28:49.168Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 6. [**Disable peripherals**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -72,10 +76,14 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
@@ -92,21 +100,17 @@ You can use these steps to check for Windows updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
 
 If the crash happens again, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -137,6 +141,10 @@ If the crash happens again, you can take a look at the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
@@ -154,10 +162,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this trick failed to solve your problem, you can move on to the next one.
 
 ### Fix 6: Disable peripherals
@@ -166,16 +170,12 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
@@ -201,19 +201,20 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-free-digital-artistry-the-meme-generator/"><u>[New] Free Digital Artistry The Meme Generator</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-loudness-in-the-void-breaking-soundless-twitter-vids/"><u>[New] In 2024, Loudness in the Void Breaking Soundless Twitter Vids</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/die-ultimative-losung-fur-automatisch-geloschte-festplatteninhalte-recovery-tipps-und-tricks/"><u>Die Ultimative Lösung Für Automatisch Gelöschte Festplatteninhalte - Recovery-Tipps Und Tricks!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-when-amazon-prime-video-stops-playing/"><u>Fixes for When Amazon Prime Video Stops Playing</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723001988647-haley-ba-et-al-2018a-occurrence-of-glyphosate-in-groundwater-and-its-potential-impact-on-aquatic-ecosystems-environ-monit-assess-1905-267/"><u>Haley BA., Et Al (2018a). Occurrence of Glyphosate in Groundwater and Its Potential Impact on Aquatic Ecosystems. Environ Monit Assess, 190(5), 267</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-poco-m6-pro-4g-lock-screen-password-by-drfone-android/"><u>How To Change Poco M6 Pro 4G Lock Screen Password?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frequency-fluctuations-for-game-mastery/"><u>In 2024, Frequency Fluctuations for Game Mastery</u></a></li>
-<li><a href="https://win-able.techidaily.com/pathfinder-wrath-of-the-righteous-launch-problems-heres-how-to-resolve-them/"><u>Pathfinder: Wrath of the Righteous Launch Problems? Here's How to Resolve Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-how-to-stop-frequent-nox-player-crashes-on-desktop-systems/"><u>Solution Found: How to Stop Frequent Nox Player Crashes on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-resolving-steamvrs-error-308-quickly/"><u>Step-by-Step Troubleshooting: Resolving SteamVR's Error 308 Quickly</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-to-the-top-8-streaming-services-for-television/"><u>The Ultimate Guide to the Top 8 Streaming Services for Television</u></a></li>
-<li><a href="https://some-tips.techidaily.com/top-7-camcorders-for-extreme-weather-and-splashes-review-for-2024/"><u>Top 7 Camcorders for Extreme Weather and Splashes Review for 2024</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-lava-blaze-2-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Lava Blaze 2 5G to Gmail | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/unbeatable-deal-portable-15n-inch-1080p-ips-monitor-now-just-6599-best-quality-for-the-lowest-price/"><u>Unbeatable Deal: Portable 15.n Inch, 1080P IPS Monitor Now Just $65.99 - Best Quality for the Lowest Price!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-enhanced-repertoire-of-questions-to-spark-podcast-conversations/"><u>[New] 2024 Approved Enhanced Repertoire of Questions to Spark Podcast Conversations</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-unlocking-instagrams-hidden-revenue-opportunities/"><u>[New] In 2024, Unlocking Instagram's Hidden Revenue Opportunities</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-things-you-need-to-know-about-music-for-instagram-for-2024/"><u>[New] Things You Need to Know About Music for Instagram for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-mastering-instagram-3-key-caption-techniques-for-videos/"><u>[Updated] 2024 Approved Mastering Instagram 3 Key Caption Techniques for Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-wow-flicker-forever-effortless-troubleshooting-guide/"><u>Banish WoW Flicker Forever: Effortless Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-bokcs-troublesome-error-27711-fixed-gameplay-guide/"><u>Call of Duty BOKC's Troublesome Error 27711 Fixed - Gameplay Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/digiarte-connect-with-creative-minds-through-online-artistry/"><u>DigiArté: Connect with Creative Minds Through Online Artistry</u></a></li>
+<li><a href="https://fox-info.techidaily.com/exploring-the-huawei-p10s-user-interface-and-usability-for-2024/"><u>Exploring the Huawei P10's User Interface & Usability for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-issues-civ-6-wont-start-on-windows-10-devices/"><u>Fix Issues: Civ 6 Won't Start on Windows 10 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-the-not-launching-hurdle-for-overwatch-2-a-guide/"><u>How To Successfully Overcome The 'Not Launching' Hurdle for Overwatch 2 - A Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-infinix-smart-8-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Infinix Smart 8 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-the-reason-behind-elden-rings-postponed-debut/"><u>Inside the Reason Behind Elden Ring's Postponed Debut</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-fixes-for-unresponsive-steam-titles-on-windows-11/"><u>Resolved Issue: Fixes for Unresponsive Steam Titles on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009461689-solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-watermark-your-videos-for-free-top-5-software-options-for-2024/"><u>Updated Watermark Your Videos for Free Top 5 Software Options for 2024</u></a></li>
 </ul></div>
 

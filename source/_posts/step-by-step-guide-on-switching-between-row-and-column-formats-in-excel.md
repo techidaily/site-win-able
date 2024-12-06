@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide on Switching Between Row and Column Formats in Excel
-date: 2024-08-28T05:24:01.268Z
-updated: 2024-08-29T05:24:01.268Z
+date: 2024-12-02T17:02:50.160Z
+updated: 2024-12-06T16:19:00.794Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ---
 
 ## Step-by-Step Guide on Switching Between Row and Column Formats in Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,6 +31,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![highlight columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/highlight.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Right-click the empty cell where you'd like to display your results. Under "Paste Options" click "Paste Special."
 
 ![paste special menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/paste-special.png) 
@@ -34,6 +42,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
  Check the box next to "Transpose" and then press the "OK" button.
 
 ![check transpose box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/transpose-ok.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Transpose Data with the Transpose Formula
 
@@ -43,9 +55,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![click and drag](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/click-drag.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Type "=transpose" into the formula bar (without quotes) and then highlight the data you want to transpose. Instead of pressing "Enter" to execute the formula, press Ctrl + Shift + Enter instead.
 
 ![transpose formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/transpose.png) 
@@ -55,24 +64,13 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![drag box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/drag-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Our data is there now, but the result is a little messed up because of our lack of precision. We're going to fix that now. To correct the data, just go back to the formula bar, and press Ctrl + Shift + Enter one more time.
 
 ![formula bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/formula-bar-ctrl-shift-enter.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Transposing Data with Direct References
 
  In our third method of transposing Excel data we'll use direct references. This method enables us to find and replace a reference with the data we want to display instead.
@@ -81,21 +79,22 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![data entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/bcA2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the next cell, below our first one, type in the same prefix and then the cell location to the right of the one we used in the previous step. For our purposes, that would be cell B2, which we'll type in as bcB2.
 
 ![data entry](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/bcB2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Highlight both of these cells and drag the highlighted area out by clicking and dragging the green box at the bottom right of our selection.
 
 ![drag box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/drag-box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Press Ctrl+H on your keyboard to bring up the "Find and Replace" menu.
 
 ![find and replace](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/ctrl-h.png) 
@@ -104,10 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![find and replace](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/bc-.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Click the "Replace All" button to transpose your data.
 
 ![replace all](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/11/replace-all.png) 
@@ -120,8 +115,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +122,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-tiktok-unboxing-hacks-spin-your-video-into-a-viral-hit/"><u>[Updated] TikTok Unboxing Hacks Spin Your Video Into a Viral Hit</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beyond-trustworthy-exploring-when-to-question-ai-tools-like-zerogpt/"><u>Beyond Trustworthy? Exploring When to Question AI Tools Like ZeroGPT</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/downloading-facebook-videos-ultimate-5-list-ranked-for-2024/"><u>Downloading Facebook Videos Ultimate 5 List Ranked for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/harness-the-power-of-zoom-on-your-windows-10-pc/"><u>Harness the Power of Zoom on Your Windows 10 PC</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-honor-90-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Honor 90? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-the-simple-guide-to-free-video-embedding-in-articles/"><u>In 2024, The Simple Guide to Free Video Embedding in Articles</u></a></li>
+<li><a href="https://win-able.techidaily.com/instantly-resolve-your-fortnite-startup-woes-with-these-tricks/"><u>Instantly Resolve Your Fortnite Startup Woes with These Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-optimizing-your-gameplay-enhancing-fps-on-watch-dogs-legion/"><u>Master Tips: Optimizing Your Gameplay - Enhancing FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998553639-navigating-through-anno-1800s-directx-complications-successful-fixes/"><u>Navigating Through Anno 1800'S DirectX Complications – Successful Fixes!</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-2024-approved-ai-portrait-generator-getting-closer-to-the-artistic-marvels/"><u>New 2024 Approved AI Portrait Generator Getting Closer to the Artistic Marvels</u></a></li>
+<li><a href="https://win-tips.techidaily.com/seamless-page-replacement-tips-using-flipbuilder-avoid-full-project-reworks/"><u>Seamless Page Replacement Tips Using FlipBuilder: Avoid Full Project Reworks</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-playing-disco-elysium-on-pc-after-previous-crashes-tips-and-tricks-to-ensure-uninterrupted-gaming/"><u>Successfully Playing Disco Elysium on PC After Previous Crashes: Tips and Tricks to Ensure Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-get-civilization-vi-working-again-on-your-windows-11-pc/"><u>Troubleshooting Steps to Get Civilization VI Working Again on Your Windows 11 PC</u></a></li>
+</ul></div>
 

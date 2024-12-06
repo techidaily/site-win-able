@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-11-20T20:43:29.036Z
-updated: 2024-11-26T17:51:05.349Z
+date: 2024-12-03T16:04:54.950Z
+updated: 2024-12-06T17:04:18.107Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -59,10 +63,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -75,17 +75,21 @@ Here’s how:
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -115,15 +119,15 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -134,10 +138,6 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -164,16 +164,24 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-reviews.techidaily.com/dynabookpc/"><u>「初期設定ガイド：東芝Dynabookで正しいPCリセット手順を見つけた！」</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boosting-your-pcs-performance-solving-speed-issues-in-windows-11/"><u>Boosting Your PC's Performance: Solving Speed Issues in Windows 11</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/chatgpt-is-now-available-on-android/"><u>ChatGPT Is Now Available on Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-rectify-failed-downloadspeer-connections-on-utorrent/"><u>Effective Ways to Rectify Failed Downloads/Peer Connections on uTorrent</u></a></li>
-<li><a href="https://common-error.techidaily.com/fixing-security-connection-issues-a-guide-for-firefox-users/"><u>Fixing Security Connection Issues: A Guide for Firefox Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolving-black-screen-problems-in-epic-games-launcher/"><u>Fixing the Issue: Resolving Black Screen Problems in Epic Games Launcher</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/guide-facile-pour-revenir-en-arriere-et-recuperer-des-fichiers-elimines-sous-windows-11/"><u>Guide Facile Pour Revenir en Arrière Et Récupérer Des Fichiers Éliminés Sous Windows 11</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/hp-victus-15l-laptop-now-only-520-enjoy-a-sweeping-40-discount-on-the-latest-gaming-rig-zdnet/"><u>HP Victus 15L Laptop Now Only $520: Enjoy a Sweeping 40% Discount on the Latest Gaming Rig! - ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-tribes-landscape-solutions-to-cataclysm-game-crashes/"><u>Mastering the Tribe's Landscape: Solutions to Cataclysm Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-fifa-20-game-crashing-due-to-a-directx-issue/"><u>Resolved: How to Fix the FIFA 20 Game Crashing Due to a DirectX Issue</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-free-video-watermarking-made-easy-top-5-programs/"><u>Updated Free Video Watermarking Made Easy Top 5 Programs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-accessible-video-ideas-the-simplest-10-concepts-everyone-can-learn-to-make/"><u>[New] In 2024, Accessible Video Ideas The Simplest 10 Concepts Everyone Can Learn to Make</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-the-impact-of-visual-storytelling-maximizing-roi-through-fb-ad-animation/"><u>[New] The Impact of Visual Storytelling Maximizing ROI Through FB Ad Animation</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-lunar-client-keeps-crashing-on-pc/"><u>[SOLVED] Lunar Client Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-compreenas-a-step-by-step-process-to-apply-luts-in-photoshop-cc-for-2024/"><u>[Updated] Compreenas a Step-by-Step Process to Apply LUTs in Photoshop CC for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-simple-steps-for-looped-iphone-videos/"><u>2024 Approved Simple Steps for Looped iPhone Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/doom-eternal-stability-tips-how-to-overcome-frequent-crashes/"><u>DOOM Eternal Stability Tips: How to Overcome Frequent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-on-windows-10/"><u>Effortless Solutions to Stop Chrome From Crashing on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-lag-and-crashes-in-outriders-tips-and-tricks-to-optimize-playtime-on-pc/"><u>Eliminating Lag and Crashes in Outriders: Tips & Tricks to Optimize Playtime on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-connection-problems-with-the-steam-network/"><u>Expert Advice on Overcoming Connection Problems with the Steam Network</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-the-irrecoverable-directx-error-message-once-and-for-all/"><u>How to Fix the Irrecoverable DirectX Error Message Once and for All</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-remnant-from-the-ashes-from-frequently-crashing/"><u>How to Stop 'Remnant: From the Ashes' From Frequently Crashing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-secrets-to-discreetly-fading-out-sounds-using-audacity/"><u>In 2024, The Secrets to Discreetly Fading Out Sounds Using Audacity</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-realme-c51-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Realme C51 FRP Bypass</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/personalized-policy-enforcement-one-user-multiple-windows-versions/"><u>Personalized Policy Enforcement: One User, Multiple Windows Versions</u></a></li>
+<li><a href="https://program-issues.techidaily.com/resolving-issues-troubleshooting-oculus-graphics-driver-errors/"><u>Resolving Issues: Troubleshooting Oculus Graphics Driver Errors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-ultimate-guide-to-using-dism-with-win11-system-recovery/"><u>The Ultimate Guide to Using Dism with Win11 System Recovery</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-madden-nfl-20-pc-malfunctions-fixes-that-work/"><u>Troubleshooting Madden NFL '20 PC Malfunctions – Fixes That Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-issues-when-qbittorent-gets-unresponsive/"><u>Ultimate Guide: Resolving Issues When qBittorent Gets Unresponsive</u></a></li>
+<li><a href="https://win-able.techidaily.com/unfreeze-your-gameplay-permanent-solutions-for-fallout-4-pc-problems/"><u>Unfreeze Your Gameplay: Permanent Solutions for Fallout 4 PC Problems</u></a></li>
 </ul></div>
 

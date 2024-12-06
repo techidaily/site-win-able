@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-11-20T17:04:54.372Z
-updated: 2024-11-26T18:21:12.169Z
+date: 2024-12-05T16:25:46.376Z
+updated: 2024-12-06T16:19:30.932Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Table of contents
 
 * [Official Fix](https://tools.techidaily.com/drivereasy/download/)  
@@ -34,10 +30,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
   * [Step 3: Install beta patch](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 1: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Official Fix
 
@@ -71,17 +63,13 @@ Follow the steps below to fix the crashing issue.
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
@@ -93,7 +81,7 @@ Restart your computer for the changes to take effect.
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
@@ -112,11 +100,23 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -128,11 +128,15 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
@@ -145,10 +149,6 @@ Restart your computer for the changes to take effect.
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -174,24 +174,21 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-best-choices-in-game-livestream-technology/"><u>[New] Best Choices in Game Livestream Technology</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-rotate-to-win-insta-tricks-for-video-transformation-for-2024/"><u>[New] Rotate to Win Insta-Tricks for Video Transformation for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-the-workings-of-drones-an-introduction-for-beginners-for-2024/"><u>[New] The Workings of Drones An Introduction for Beginners for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-the-ultimate-checklist-for-video-praise-mastery/"><u>[Updated] 2024 Approved The Ultimate Checklist for Video Praise Mastery</u></a></li>
-<li><a href="https://win-able.techidaily.com/2023s-best-practices-to-prevent-and-solve-maplestory-issues-on-your-windows-pc/"><u>2023'S Best Practices to Prevent and Solve MapleStory Issues on Your Windows PC</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-live-play-and-log-mobile-gaming-with-samsung/"><u>2024 Approved Live, Play & Log Mobile Gaming with Samsung</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011206653-how-to-get-your-obs-to-resume-screen-recording-problem-solved/"><u>How to Get Your OBS to Resume Screen Recording: Problem Solved!</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-facilitating-tiktok-videos-transmission-to-facebook-friends/"><u>In 2024, Facilitating TikTok Videos' Transmission to Facebook Friends</u></a></li>
-<li><a href="https://win-able.techidaily.com/insurgency-sandstorm-no-more-fixing-the-perpetual-game-breaking-glitch/"><u>Insurgency: Sandstorm No More! Fixing the Perpetual Game-Breaking Glitch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-c51-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme C51? Fixed | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-leaf-of-legends-crash-fixes-in-minutes/"><u>Mastering Stability: Leaf of Legends Crash Fixes in Minutes!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-troubleshooting-a-complete-reference-for-pc-blue-screen-codes/"><u>Mastering Troubleshooting: A Complete Reference for PC Blue Screen Codes</u></a></li>
-<li><a href="https://common-error.techidaily.com/regain-control-of-your-network-with-these-nce-strategies-for-unresponsive-dns-servers/"><u>Regain Control of Your Network with These Nce Strategies for Unresponsive DNS Servers</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-debugging-overcoming-unexpected-graphical-hiccups-successfully/"><u>Rust Debugging: Overcoming Unexpected Graphical Hiccups Successfully</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-getting-genshin-impact-up-and-running-again/"><u>Troubleshooting Tips: Getting Genshin Impact Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-troubleshooting-techniques-to-restore-connection-2nvoice-guide-2024/"><u>Ubisoft Connect Troubleshooting Techniques to Restore Connection - 2nVoice Guide 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-debugging-cities-skylines-bugs-2024-edition/"><u>Ultimate Guide to Debugging Cities: Skylines Bugs - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-secrets-to-solve-steams-blocked-file-problem/"><u>Unlocking Secrets to Solve Steam’s Blocked File Problem</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-symphony-top-10-websites-presenting-dynamic-hdr-imagery/"><u>2024 Approved Sky Symphony - Top 10 Websites Presenting Dynamic HDR Imagery</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-devices-for-home-and-office/"><u>2024 Approved Ultimate Devices for Home and Office</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-obstacle-a-detailed-walkthrough-to-clear-error-asterisk-genshin-impact-4201/"><u>Bypassing Obstacle: A Detailed Walkthrough to Clear Error Asterisk Genshin Impact (4201)</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-meizu-21-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Meizu 21 Pro?</u></a></li>
+<li><a href="https://games-able.techidaily.com/discovering-new-gameplay-modes-on-ps5/"><u>Discovering New Gameplay Modes on PS5</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>Dive Into Fun Snapchat's World of Cartoon Lenses for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004476276-end-your-battle-with-unstable-lunar-client-on-windows-learn-how-here/"><u>End Your Battle with Unstable Lunar Client on Windows - Learn How Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-mayhem-of-destiny-2-the-broccoli-crash-patch-released-in-april-2024/"><u>Mastering the Mayhem of Destiny 2: The Broccoli Crash Patch Released in April 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-counter-strike-2-stuttering-and-freezing-with-these-key-fixes/"><u>Overcome Counter-Strike 2 Stuttering and Freezing with These Key Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-startup-problems-for-back-4-blood-game-on-windows-operating-systems/"><u>Resolving Startup Problems for Back 4 Blood Game on Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-error-code-277-on-pc-2024-tips/"><u>Roblox Error Code 277 on PC – 2024 Tips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-protectors-reviewed-your-ultimate-guide-by-tech-experts-at-zdnet/"><u>Top-Rated iPad Air Protectors Reviewed - Your Ultimate Guide by Tech Experts at ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nier-gestalt-crashes-on-pc/"><u>Troubleshooting and Solving NieR: Gestalt Crashes on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unclogging-operational-blockages-in-windows-inked-devices/"><u>Unclogging Operational Blockages in Windows Inked Devices</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-5-best-online-stop-motion-makers-on-2023-freeandpaid/"><u>Updated 2024 Approved 5 Best Online Stop Motion Makers on 2023 Free&Paid</u></a></li>
 </ul></div>
 

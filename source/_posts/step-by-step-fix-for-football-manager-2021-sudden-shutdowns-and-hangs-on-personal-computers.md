@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Football Manager 2021 Sudden Shutdowns and Hangs on Personal Computers
-date: 2024-11-25T00:56:36.180Z
-updated: 2024-11-27T00:52:42.080Z
+date: 2024-12-01T16:14:08.701Z
+updated: 2024-12-06T16:26:59.803Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -31,6 +35,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 3. **[Check for Software conflicts](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Delete the Preferences and/or Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -47,7 +55,7 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -61,10 +69,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If your issue persists after updating your graphics driver, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of your game files
 
@@ -84,6 +88,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Restart your game to test your issue.
 
 If your game still crashes, then go ahead with the fix below.
@@ -95,10 +103,6 @@ If your game still crashes, then go ahead with the fix below.
 **1)**  Right-click**your taskbar** and select **Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)**  Right-click the program you want to close and select **End task** .
 
@@ -122,17 +126,21 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Delete the **Preferences** and **Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall _FM20_  and/or Steam
 
@@ -150,16 +158,12 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart Steam to download and install _Football Manager 2020_ .
 
@@ -177,6 +181,10 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
@@ -185,17 +193,9 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-51.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -208,7 +208,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-16.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **9)**  Restart Steam and your game.
@@ -236,24 +236,19 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-channel-cashflow-effective-tactics-for-monetizing-on-mobile-devices/"><u>[New] 2024 Approved Channel Cashflow Effective Tactics for Monetizing on Mobile Devices</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-ps5xbox-series-x-elite-console-companion-screens/"><u>[New] PS5/Xbox Series X Elite Console Companion Screens</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-background-video-recording-solutions-for-2024/"><u>[Updated] Background Video Recording Solutions for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pricing-guide-youtube-marketing-expenses/"><u>[Updated] Pricing Guide YouTube Marketing Expenses</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-infinix-smart-8-plus-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Infinix Smart 8 Plus</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/boosting-user-experience-through-innovative-engagement-tools/"><u>Boosting User Experience Through Innovative Engagement Tools</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-guide-free-download-of-updated-epson-l3150-driver-for-win-11-8-and-7-operating-systems/"><u>Easy Guide: Free Download of Updated Epson L3150 Driver for Win 11, 8 & 7 Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-recurring-freezing-and-crashes-on-world-of-tanks-blitz/"><u>Expert Solutions for Recurring Freezing and Crashes on World of Tanks Blitz</u></a></li>
-<li><a href="https://win-able.techidaily.com/gameloops-gone-wrong-troubleshooting-and-fixes-for-stable-playtime-in-windows-1011/"><u>GameLoops Gone Wrong: Troubleshooting and Fixes for Stable Playtime in Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002793841-how-to-access-football-manager-2022-despite-the-postponed-launch-fixes-inside/"><u>How to Access Football Manager 2022 Despite the Postponed Launch - Fixes Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-windows-11-error-0xc19001e1-for-smooth-operations/"><u>How to Fix Windows 11 Error 0xC19001E1 for Smooth Operations</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Vivo Y78 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/online-account-login-restored-on-origin-platform/"><u>Online Account Login Restored on Origin Platform</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-red-magic-9-pro-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on Red Magic 9 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unwanted-superhero-characters-appearing-on-your-game-screen/"><u>Resolving Unwanted Superhero Characters Appearing on Your Game Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-sea-of-thieves-launch-problems/"><u>Troubleshooting Guide: Resolving Sea of Thieves Launch Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-and-repairing-rainbow-six-siege-gameplay-interruptions-on-your-computer/"><u>Ultimate Guide to Preventing and Repairing Rainbow Six Siege Gameplay Interruptions on Your Computer</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-apple-imac-27-4k-display-tech-and-performance-evaluation/"><u>Ultimate Guide: Apple iMac 27 4K Display Tech & Performance Evaluation</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-fix-when-zoom-doesnt-play-your-video/"><u>Ultimate Guide: How To Fix When Zoom Doesn't Play Your Video</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-expert-video-editing-techniques-for-instagram-success/"><u>[New] 2024 Approved Expert Video Editing Techniques for Instagram Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-select-the-best-free-mobile-video-platforms-of-2023/"><u>[New] Select the Best Free Mobile Video Platforms of 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blunder-effective-strategies-to-repair-your-steam-connection-errors-today/"><u>Beat the Blunder: Effective Strategies to Repair Your Steam Connection Errors Today!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/crafting-epic-scenarios-with-ai-assistance/"><u>Crafting Epic Scenarios with AI Assistance</u></a></li>
+<li><a href="https://driver-install.techidaily.com/fast-windows-driver-update-tutorials-10-81-and-7-edition/"><u>Fast Windows Driver Update Tutorials: 10, 8.1 & 7 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-a-complete-guide/"><u>Fixing Resident Evil Village Performance Problems on PC: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992888057-how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nubia-red-magic-8s-proplus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nubia Red Magic 8S Pro+ to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-to-fix-high-cpu-usage-during-a-phasmophobia-session/"><u>Optimizing Your PC to Fix High CPU Usage During a Phasmophobia Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-issues-with-star-wars-squadrons-crashing-problems-a-detailed-fix-list/"><u>Overcome Issues with Star Wars: Squadrons Crashing Problems – A Detailed Fix List</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insightful-world-of-generative-artificial-intelligence-explained/"><u>The Insightful World of Generative Artificial Intelligence Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-overcoming-apex-legends-engine-problems-easily/"><u>Top Tips for Overcoming Apex Legends Engine Problems Easily</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-monitor-drivers-in-windows-11-8-and-7-step-by-step-solutions/"><u>Troubleshooting HP Monitor Drivers in Windows 11, 8 & 7: Step-by-Step Solutions</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-revenue-harnessing-video-ad-dollars-on-youtube/"><u>Unlocking Revenue Harnessing Video Ad Dollars on YouTube</u></a></li>
 </ul></div>
 

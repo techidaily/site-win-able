@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Excel Limitations: Create Effective Substitutes for Missing Bookmarks!"
-date: 2024-08-28T05:23:51.642Z
-updated: 2024-08-29T05:23:51.642Z
+date: 2024-11-30T16:59:45.054Z
+updated: 2024-12-06T17:08:18.617Z
 tags:
   - excel
 categories:
@@ -26,13 +26,25 @@ thumbnail: https://thmb.techidaily.com/3a448075901e947fee8e320c0c5a95f89ce7a4052
 
 ![A Word document with the bookmark option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/word-bookmark.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can [add or link to as many bookmarks as you wish](https://facebook-clips.techidaily.com/new-2024-approved-augment-visuals-incorporating-black-box-and-letterboxing-in-social-media/) in a document, and they are really useful if, for example, you want to mark and jump to an important location in your document. Doing this can also be handy to save time if you'd otherwise have to scroll through a long document, where you could also miss what you're looking for. It's also great for creating hyperlinks to certain parts of your work.
 
  To jump to a bookmark you've set in Word, press Ctrl+G (or Ctrl+Cmd+G on a Mac), open the "Go To" tab, click "Bookmark", and use the drop-down to choose where you want to go.
 
 ![A Word document with the 'Go To' tab open and a bookmark selected.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/find-a-word-bookmark.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  However, to do the same thing (and more) in an Excel workbook, you have to take a different route.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Set and Locate a Bookmark (Name) in Excel
 
@@ -40,9 +52,6 @@ thumbnail: https://thmb.techidaily.com/3a448075901e947fee8e320c0c5a95f89ce7a4052
 
 ![An Excel worksheet with the name box highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/name-box.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To jump to a cell within the active worksheet—useful if you have hundreds of rows or columns within that sheet—type the column-row reference, such as E7, into the name box and press Enter. If you have other active tabs in your workbook, you can jump to any cell within any of the worksheets by typing the tab name, followed by an exclamation mark, and then the cell reference. For example,
 
 Sheet2!G5
@@ -69,9 +78,6 @@ R:R
 
 ![An Excel workbook containing a table, which has been named 'Total_Prices' in the name box.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/named-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Excel doesn't like spaces in names. If you want to use more than one word in the name, either type them without a space (for example, TotalPrices), or use an underscore (Total\_Prices).
 
  You can also name other elements in your workbook—such as charts or illustrations—in the same way. Unfortunately, you can only use the name box to jump to a cell or range of cells (you can't jump to charts or illustrations), but naming a chart can be useful in [VBA coding](https://win-blog.techidaily.com/troubleshooting-how-to-fix-failed-minecraft-installs-on-windows-11/).
@@ -80,15 +86,16 @@ R:R
 
 ![An Excel worksheet with the name box drop-down arrow selected and the named items displayed beneath.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/name-box-drop-down.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you prefer to use keyboard shortcuts, press F5 to bring up the Go To dialog box.
 
  You can also create a hyperlink to named cells in your workbook. Right-click the cell where you want the hyperlink to go, and choose "Link" from the options that appear. Then, click "Place In This Document", choose the name you want to link to, and click "OK."
 
 ![The Insert Hyperlink dialog box in Excel, with 'Place In This Document' highlighted and the list of names displayed.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/hyperlink-to-a-named-reference.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Naming a Formatted Table (It's Slightly Different)
 
  If you use a table within your workbook, we recommend that you format it properly [using Excel's built-in table formatter](https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-y56-5g-by-drfone-android/). Then, if you add additional columns or rows to your table, the name you have given to your array will extend to include the new data. Importantly, after formatting your table, you need to use a different name box, which means you'll be able to reference the table in formulas later on. We will discuss this more in the final section of this article. 
@@ -106,17 +113,19 @@ R:R
 ![Excel's Name Manager window, with the 'New,' 'Edit,' and 'Delete' options highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/manage-names.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you're done managing the names in your workbook, click "Close" in the bottom right-hand corner of the window.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Other Reasons for Using the Name Box
 
  Now that you've assigned names to cells within your workbook, let's look at other name box gems.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Reference a Name Within a formula
 
  In the example below, we have an accounting table on a separate tab in our workbook, and want to pull data from our table on Sheet 1\. Because we've named our data range, we can use that name within a formula, and Excel will help us to do that.
@@ -133,9 +142,6 @@ R:R
 
 ![An excel sheet with an array name showing in a formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/reference-a-name.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Double-click the data name.
 
  We now want to tell Excel to use the Total Pay column within our table, and we do this by opening a square parenthesis.
@@ -146,19 +152,12 @@ R:R
 
 ![An Excel worksheet with a named table and column showing in the automatic options in a formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/reference-a-name-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Double-click the column name, close the square parenthesis, and close the formula parenthesis, before pressing Enter.
 
 =sum(Employee_Pay[Total Pay])
 
  This will successfully sum all values in that column, and will also pick up changes or additions to the values in the column because you've named the table. We would then go ahead and use the same technique to complete the other totals and averages in our accounting table.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ###  Create Names for Columns in Tables
 
  Finally, if you have a large table of data, you might want to create a bookmark for an important row or column that you want to access quickly.
@@ -166,6 +165,10 @@ R:R
  Highlight your table, and in the "Formulas" tab on the ribbon, click "Create From Selection".
 
 ![A table in Excel with the 'Create From Selection' option highlighted.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/03/create-from-selection.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can then choose which names you want to create and click "OK." In our example, if we choose "Top Row," this will result in the column names being added to the name list for easier access later on.
 
@@ -181,8 +184,6 @@ R:R
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +191,26 @@ R:R
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-cut-the-clutter-polishing-videos-using-enhancer-22-for-2024/"><u>[New] Cut the Clutter Polishing Videos Using Enhancer 2.2 for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-full-potential-of-zoom-in-windows-10/"><u>2024 Approved Unlock Full Potential of Zoom in Windows 10</u></a></li>
+<li><a href="https://win-answers.techidaily.com/accelerate-your-ark-adventures-expert-strategies-for-higher-fps-performance-on-pc/"><u>Accelerate Your ARK Adventures: Expert Strategies for Higher FPS Performance on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996243994-call-of-duty-vanguard-stutter-and-lag-troubleshooting-solutions-for-a-smoother-game/"><u>Call of Duty Vanguard Stutter and Lag Troubleshooting: Solutions for a Smoother Game !</u></a></li>
+<li><a href="https://techidaily.com/crack-the-code-on-august-14-daily-nyt-crossword-clues-explained-part-429/"><u>Crack the Code on August 14 - Daily NYT Crossword Clues Explained (Part 429)</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-down-on-in-game-security-flaws-solutions-for-safer-play/"><u>Cracking Down on In-Game Security Flaws: Solutions for Safer Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-winword-application-errors-instantly-top-5-tips/"><u>Fix Your WINWORD Application Errors Instantly: Top 5 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-obs-streamrecord-lag-problems-a-comprehensive-guide/"><u>Fixing OBS Stream/Record Lag Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-endless-load-resolve-anthems-perpetual-launch-screen-issue/"><u>Fixing the Endless Load: Resolve Anthem's Perpetual Launch Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-race-started-overcoming-forza-horizon-nh-endless-launch-screen-issues/"><u>Get Your Race Started: Overcoming Forza Horizon Nh Endless Launch Screen Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-y100i-power-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo Y100i Power 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-artistic-anomaly-top-10-unique-affordable-mac-drawers-free/"><u>In 2024, Artistic Anomaly Top 10 Unique, Affordable Mac Drawers (Free)</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-nokia-c110-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Nokia C110 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-step-into-tomorrow-secure-these-7-devices-for-metaverse-life/"><u>In 2024, Step Into Tomorrow Secure These 7 Devices for Metaverse Life</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-not-installed-error-in-eac-a-step-by-step-installation-tutorial/"><u>Overcoming the 'Not Installed' Error in EAC: A Step-by-Step Installation Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/rust-programming-overcoming-deadlock-and-fixed-issues/"><u>Rust Programming: Overcoming Deadlock and Fixed Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-for-nioh-nendos-stability-issues-in-the-complete-edition/"><u>The Definitive Fix for Nioh Nendo's Stability Issues in the Complete Edition</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-top-rated-avi-file-combiners-10-free-solutions-for-you/"><u>Updated 2024 Approved Top-Rated AVI File Combiners 10 Free Solutions for You</u></a></li>
+</ul></div>
 

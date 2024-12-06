@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Your NVIDIA GeForce Setup - Fixing Sudden Shutdown Issues
-date: 2024-08-28T05:28:40.840Z
-updated: 2024-08-29T05:28:40.840Z
+date: 2024-12-03T16:54:44.162Z
+updated: 2024-12-06T16:47:21.477Z
 tags:
   - win11
   - win10
@@ -82,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -92,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -103,13 +104,18 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -135,13 +141,11 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -154,16 +158,14 @@ thumbnail: https://thmb.techidaily.com/53b02e126ac51e814487f95d202d6360b9c695229
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,18 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-restore-lost-watch-icon-on-facebook/"><u>[New] 2024 Approved Restore Lost Watch Icon on Facebook</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-tailoring-audio-rate-on-mobile-and-desktops-for-youtube/"><u>[Updated] 2024 Approved Tailoring Audio Rate on Mobile and Desktops for YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transforming-single-frames-into-motion-narratives/"><u>2024 Approved Transforming Single Frames Into Motion Narratives</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-mystery-unraveling-apex-legends-error-code-23/"><u>Fixing the Mystery: Unraveling Apex Legends' Error Code 23</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-cannot-log-onto-user-error-in-counter-strike-global-offensive/"><u>How to Overcome 'Cannot Log Onto User' Error in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-ranking-the-real-heavies-youtube-video-watch-hours-top-10/"><u>In 2024, Ranking the Real Heavies YouTube Video Watch Hours Top 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-woes-resolved-dealing-with-ongoing-rogue-company-malfunctions/"><u>PC Gaming Woes Resolved: Dealing with Ongoing Rogue Company Malfunctions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reimagined-ultrahd-2023s-samsung-bdplus-k850/"><u>Reimagined UltraHD 2023'S Samsung BD+ K850</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-hp-monitor-malfunctions-a-complete-walkthrough/"><u>Resolving HP Monitor Malfunctions: A Complete Walkthrough</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/unlocking-the-secrets-of-successful-youtube-thumbnail-crafting-for-2024/"><u>Unlocking the Secrets of Successful YouTube Thumbnail Crafting for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/x-plane-ebytes-11-takes-flight-innovative-visuals-and-features-in-a-cutting-edge-avionics-simulator/"><u>X-Plane Ebytes 11 Takes Flight: Innovative Visuals and Features in a Cutting-Edge Avionics Simulator</u></a></li>
+</ul></div>
 

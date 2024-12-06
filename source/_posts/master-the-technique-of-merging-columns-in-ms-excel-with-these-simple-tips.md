@@ -1,7 +1,7 @@
 ---
 title: Master the Technique of Merging Columns in MS Excel with These Simple Tips!
-date: 2024-08-28T05:23:34.557Z
-updated: 2024-08-29T05:23:34.557Z
+date: 2024-12-04T16:26:12.912Z
+updated: 2024-12-06T16:43:32.295Z
 tags:
   - excel
 categories:
@@ -44,39 +44,36 @@ Related: [How to Group and Ungroup Rows and Columns in Google Sheets](https://mo
 
 ![Minus sign button for grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedColumnsMinus-ExcelGroupColumns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll also notice buttons labeled 1 and 2 on the far left, which you can also use to expand and collapse the group. However, the number buttons change a bit if you add a subgroup or another group in your sheet, as we'll describe next.
 
 ![Number buttons for grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedColumnsNumbers-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ##  Create a Subgroup
 
  To create a subgroup of a [larger group of columns](https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-huawei-p60-drfone-by-drfone-virtual-android/), you follow the same steps as above. Select the columns, go to the Data tab, and pick "Group" in the Outline drop-down menu.
 
 ![Group in the Outline menu for a subgroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubgroupColumns-ExcelGroupColumns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  What changes when you create a subgroup is the way the number buttons work. After you create a subgroup, you'll see another button labeled 3\. This is because there is now another level.
 
 ![Button 3 for a subgroup of columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubgroupNumber3-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can still use the plus (+) and minus (-) sign buttons to expand and collapse each subgroup and group. But with the number buttons, you can quickly expand and collapse all groups on a level using the number button corresponding to the group level.
 
 ![Number buttons for expanding grouped columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ExpandNumbers-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Create Another Group
 
  If you want to create another separate group of columns in your sheet, you can do this as well. However, these groups can't be right next to each other.
@@ -93,6 +90,14 @@ Related: [How to Create an Automatic Outline in Microsoft Excel](https://youtube
 
 ![All groups collapsed with button 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/CollapseAll-ExcelGroupColumns.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Ungroup Columns in Excel
 
  If you want to return your columns to their original states, you can simply ungroup them.
@@ -103,28 +108,27 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 
 ![Ungroup in the Outline menu on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupColumns-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You'll then see your columns ungrouped.
 
 ![Ungrouped columns in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupedColumns-ExcelGroupColumns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also [remove just certain columns](https://article-tips.techidaily.com/updated-frolicsome-media-repository-for-2024/) from a group. For example, we have columns A through K in a group and want to remove columns F through H from that group.
 
  To do this, we select columns F through H and click "Ungroup" on the data tab.
 
 ![Ungroup in the Outline menu for a subgroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupCertainColumns-ExcelGroupColumns.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see that the rest of the columns remain in their group(s) with buttons and all.
 
 ![Ungrouped columns in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupedCertainColumns-ExcelGroupColumns.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  By grouping columns in Excel, you can reduce large amounts of data into workable sections. Keep this feature in mind with your next spreadsheet.
 
@@ -136,8 +140,6 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +147,20 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-beginners-guide-to-io-screen-video-for-2024/"><u>[New] Beginner's Guide to IO Screen Video for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-beyond-ustream-a-comparative-analysis-of-streams/"><u>[New] Beyond Ustream A Comparative Analysis of Streams</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unwinding-on-your-device-easy-phone-games-for-2024/"><u>[Updated] Unwinding on Your Device Easy Phone Games for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-reclaiming-iphone-hdr-footage-premiere-pros-fixes-for-overexposure/"><u>2024 Approved Reclaiming iPhone HDR Footage Premiere Pro's Fixes for Overexposure</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fallout-svensept-pc-server-connection-fixes-get-back-online-today/"><u>Fallout ˈsɛvən'sept PC Server Connection Fixes – Get Back Online Today</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-create-powerful-biz-decks-with-no-cost-templates/"><u>In 2024, Create Powerful Biz Decks with No-Cost Templates</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-world-of-tanks-blitz-effective-fixes-for-recurring-game-crashes/"><u>Mastering 'World of Tanks Blitz': Effective Fixes for Recurring Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-hoi4-top-solutions-for-a-smooth-experience/"><u>Overcoming Technical Hurdles in HoI4: Top Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/paladins-stability-hacks-for-smooth-playback-how-to-fix-crashing-issues/"><u>Paladins Stability Hacks for Smooth Playback - How to Fix Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-the-inability-to-play-dead-space-remastered-latest-solutions/"><u>Step-by-Step Fixes for the Inability to Play Dead Space Remastered - Latest Solutions</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-asus-rog-phone-7-ultimate-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Asus ROG Phone 7 Ultimate</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-causes-crashing-glitches-during-warzone-20-gameplay-on-desktops/"><u>What Causes Crashing Glitches During Warzone 2.0 Gameplay on Desktops?</u></a></li>
+</ul></div>
 

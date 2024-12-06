@@ -1,7 +1,7 @@
 ---
 title: "Rocket League Glitch Busting: How to Overcome Freezing Problems During Play"
-date: 2024-08-28T05:27:23.116Z
-updated: 2024-08-29T05:27:23.116Z
+date: 2024-12-05T16:50:24.255Z
+updated: 2024-12-06T16:04:19.982Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ To ascertain your computer’s specifications:
 
  Should your system fall short of these requirements, consider upgrading your hardware for optimal gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1 Update your CPU driver
 
  The Baldur’s Gate 3 high CPU usage problem may occur if you are using the wrong **graphics**  driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. You can head to graphics manufacturers’ websites (like [**Nvidia**](https://www.nvidia.com/Download/index.aspx?lang=en-us) or **[AMD](https://www.amd.com/en/support)**  ) to download the latest drivers. However, if you don’t have the time, patience, or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -64,22 +68,17 @@ To ascertain your computer’s specifications:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/de-scan.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or, you can click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-graphics-card-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Restart the computer and relaunch the game to see if the problem persists.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2 Change the power plan setting
 
  The Baldur’s Gate 3 is running slow or stuttering issue possibly because your computer is using**Energy saving power plan** . Or the default power plan**Balanced** also limits your CPU speed since the device’s priority is to balance performance and energy consumption. To figure that out, follow the steps below to modify your power plan setting.
@@ -88,16 +87,15 @@ To ascertain your computer’s specifications:
 2. Select**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-54.png)
 3. Click**Power & sleep** on the left panel and**Additional power settings** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-25-29.png)
 4. Choose the**High performance** power plan.  
-![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_17-26-09.png)
+
 Open the game to check for any improvement.
 
  This fix works in most cases. But some players also found that **reverting the power plan from high-performance mode to balanced mode** helped with the problem. You can also try both modes to see which brings better game performance.
@@ -116,6 +114,10 @@ Open the game to check for any improvement.
 
 Note: You may need to repeat this process each time you launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 Allow high graphics performance for the game
 
  Setting an individual game with high-performance graphics might reduce its CPU usage. That’s because anything that requires GPU in the game will be using GPU, instead of CPU. However, this method has no guaranteed results. You can switch between different modes to see which one works better in easing the Baldur’s Gate 3 high cpu usage headache.
@@ -123,16 +125,20 @@ Note: You may need to repeat this process each time you launch the game.
 1. Type**graphics settings** in the Windows search bar and click**Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-18.png)
 2. Click**Browse** and add Baldur’s Gate 3.exe to the list. The default installation location should be **C:\\Program Files (x86)\\Steam\\steamapps\\common** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-26-06.png)
 3. Once the game executable is added, click**Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-16.png)
 4. Select**High performance** , then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/2023-08-14_18-30-31.png)
 
 Launch the game again to check if the problem has been fixed.
@@ -144,12 +150,18 @@ Launch the game again to check if the problem has been fixed.
 1. Right-click the taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/task-manager-1.jpg)
 2. In the **Processes**  tab, select those apps and background processes occupying the CUP most, and click **End task** to save resources for your game.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/2022-07-13_18-31-13.jpg)
 3. Go to the **Details**  tab, right-click the executable file of your game, and set the priority level to **High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/game-stuttering-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Go back to your game to see if it works smoother.
 
@@ -163,20 +175,19 @@ Go back to your game to see if it works smoother.
 2. Open Fortect and click **Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click **START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  These fixes provide a roadmap to alleviate high CPU usage in Baldur’s Gate 3, ensuring an optimal gaming experience. Feel free to explore these solutions and share your feedback to help fellow gamers overcome similar challenges.
@@ -189,8 +200,6 @@ Go back to your game to see if it works smoother.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +207,26 @@ Go back to your game to see if it works smoother.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>[New] Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-harmony-and-law-instagrams-music-codex/"><u>[Updated] Harmony & Law Instagram's Music Codex</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-10-secrets-to-sizzling-unboxing-reels-on-social-media/"><u>[Updated] In 2024, 10 Secrets to Sizzling Unboxing Reels on Social Media</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premier-virtual-music-gatherings/"><u>2024 Approved Premier Virtual Music Gatherings</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-proven-methods-to-unfreeze-borderlands-3-during-playtime/"><u>Beat the Glitch: Proven Methods to Unfreeze Borderlands 3 During Playtime</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/come-eseguire-il-backup-delle-e-mail-con-aomei-backupper-guida-completa/"><u>Come Eseguire Il Backup Delle E-Mail Con AOMEI Backupper - Guida Completa</u></a></li>
+<li><a href="https://driver-error.techidaily.com/correct-unresponsive-right-click-issue-on-windows-11-touchpad/"><u>Correct Unresponsive Right-Click Issue on Windows 11 Touchpad</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-wont-launch-common-fixes-and-solutions/"><u>Diablo II: Resurrected Won't Launch – Common Fixes & Solutions</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/dll-installer-not-executed-for-crtdll/"><u>DLL Installer Not Executed for crt.dll</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-gaming-experience-optimize-horizon-zero-dawn-for-maximum-fps/"><u>Enhance Your Gaming Experience: Optimize Horizon Zero Dawn for Maximum FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/epa-2015-glyphosate-and-aminomethylphosphonic-acid-retrieved-from-(httpswwwepagovinventorysearchresultssourcegandcompoundandnameaminomethylphphosphonic20aci538/"><u>EPA (2015). Glyphosate and Aminomethylphosphonic Acid. Retrieved From <https://www.epa.gov/inventory/search_results/?source=G&compound=&name=AMINOMETHYLPHPHOSPHONIC ACID&smi=C13H8NClO5P></u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-sons-of-the-forest-pc-game-crashes-expert-advice-and-solutions/"><u>Fixing 'Sons of the Forest' PC Game Crashes: Expert Advice and Solutions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-steering-clear-of-echo-chambers-in-instagram-interactions/"><u>In 2024, Steering Clear of Echo Chambers in Instagram Interactions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Realme V30 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-infinite-loads-in-anthem-effective-solutions-revealed/"><u>Overcome Infinite Loads in Anthem: Effective Solutions Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolve-no-sound-issue-on-iphone-with-these-simple-tips/"><u>Resolve No Sound Issue on iPhone with These Simple Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-ahead-eliminate-crash-problems-in-ghost-recon-breakpoint-easily/"><u>Smooth Gameplay Ahead! Eliminate Crash Problems in Ghost Recon Breakpoint Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990105085-steam-vr-undetected-discover-these-6-essential-fixes/"><u>Steam VR Undetected? Discover These 6 Essential Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-stability-easy-fixes-for-recurring-game-crash-problems/"><u>World of Warcraft Stability: Easy Fixes for Recurring Game Crash Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tips and Solutions for Dealing with Unavailable PC Support on Rockstar Games
-date: 2024-11-24T22:18:52.963Z
-updated: 2024-11-26T21:52:58.012Z
+date: 2024-12-04T16:37:45.035Z
+updated: 2024-12-06T16:35:37.508Z
 tags:
   - win11
   - win10
@@ -26,10 +26,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to stop Sims 3 from crashing?
 
 1. [Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)
@@ -42,10 +38,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install the latest game patch
 
  The developers keeps releasing the game updates to fix some bugs and improve your gaming experience, so you should check the latest patch and**install the game patch** to keep your Sims 3 up to date.
@@ -53,6 +45,10 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
  After updating, restart your computer and open Sims 3 to see if it stops crashing.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Try Repair Game
 
@@ -74,10 +70,6 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated graphics card driver can cause the Sims 3 crashing, so you should make sure your graphics card driver is up to date, and update it if it’s not.
@@ -98,21 +90,25 @@ Your**Sims 3 keeps crashing** whenever you’re launching the game or in the mid
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1665b20185d.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged graphics card to automatically download and install the correct version of this driver (you can do this with the**FREE** version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b1f84eae6ca1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
  Still no luck? OK there’s one more thing to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Set Sims 3 to the Windowed mode
 
@@ -146,10 +142,6 @@ If you can access to the game settings:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Update DirectX in your computer
 
  If you’re running the old DirectX feature in your computer, you should consider updating the DirectX in your computer to fix the Sims 3 keeps crashing issue.
@@ -164,9 +156,17 @@ If you can access to the game settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa31a511b.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) You can see the**DirectX Version** under the**System** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aa69e72dc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to update DirectX?**
 
@@ -198,22 +198,22 @@ If you can access to the game settings:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-teamwork-in-video-production-boosting-channel-size/"><u>[New] 2024 Approved Teamwork in Video Production, Boosting Channel Size</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-spur-the-playback-of-vimeo-media/"><u>[New] Spur the Playback of Vimeo Media</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/2024-approved-pixelpilot-photovideo-slide-show-for-macos/"><u>2024 Approved PixelPilot Photovideo Slide Show for macOS</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-pro-editors-picks-optimal-after-effects-plugin-choices/"><u>2024 Approved Pro Editor's Picks Optimal After Effects Plugin Choices</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013900761-error-4201-in-genshin-impact-heres-how-you-can-correctly-resolve-it/"><u>Error 4201 in Genshin Impact? Here's How You Can Correctly Resolve It</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-getting-sea-of-thieves-running-after-launch-failures/"><u>Expert Tips on Getting Sea of Thieves Running After Launch Failures</u></a></li>
-<li><a href="https://extra-information.techidaily.com/first-timers-and-children-choose-these-drone-models/"><u>First-Timers & Children Choose These Drone Models</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-windows-10-how-to-prevent-fallout-3-from-crashing/"><u>Fixing Windows 10: How to Prevent Fallout 3 From Crashing</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-xr-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone XR with iTunes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-lenovo-ideapad-n100-driver-updates-for-optimal-performance-on-windows-11-systems/"><u>Get the Latest Lenovo IdeaPad N100 Driver Updates for Optimal Performance on Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-evil-genius-2-when-it-refuses-to-boot-up/"><u>How to Fix Evil Genius 2 When It Refuses to Boot Up</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-make-text-talk-on-screen-without-spending-for-2024/"><u>How to Make Text Talk on Screen Without Spending for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-warzones-ignored-gpu-usage-in-windows-11/"><u>Troubleshooting: Fixing Warzone's Ignored GPU Usage in Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstuck-in-minecraft-world-easy-fixes-for-stagnant-launcher-updates/"><u>Unstuck in Minecraft World: Easy Fixes for Stagnant Launcher Updates</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-on-guilty-gare-strive-understanding-the-cause-of-its-release-setback/"><u>Update on 'Guilty Gare Strive': Understanding the Cause of Its Release Setback</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-the-ultimate-list-of-best-mac-audio-tagging-applications-reviewed/"><u>Updated The Ultimate List of Best Mac Audio Tagging Applications Reviewed</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-is-new-world-constantly-crashing-on-my-computer-expert-advice-and-solutions/"><u>Why Is 'New World' Constantly Crashing on My Computer? Expert Advice & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-22-crashing-on-pc/"><u>[SOLVED] FIFA 22 Crashing on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] 2024 Approved Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-adaptive-content-strategies-for-optimal-youtube-performance/"><u>[Updated] In 2024, Adaptive Content Strategies for Optimal YouTube Performance</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-how-to-use-loilo-game-recorder/"><u>[Updated] In 2024, How to Use LoiLo Game Recorder</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-age-of-empires-ivs-launch-glitches-tips-and-troubleshooting-steps-for-gamers/"><u>Beat Age of Empires IV’s Launch Glitches: Tips and Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000472126-conquering-the-challenge-of-a-reliable-nba-2k21-experience-no-more-pc-crashes/"><u>Conquering the Challenge of a Reliable NBA 2K21 Experience - No More PC Crashes!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/elevating-your-youtube-presence-through-famebit-inspired-sponsorships/"><u>Elevating Your YouTube Presence Through FameBit-Inspired Sponsorships</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-applied-resolving-horizon-zero-dawns-pc-game-crash-issues/"><u>Fixes Applied: Resolving Horizon Zero Dawn's PC Game Crash Issues</u></a></li>
+<li><a href="https://fox-links.techidaily.com/flight-to-imagery-a-review-of-dji-sparks-miniature-drone-innovation-for-2024/"><u>Flight to Imagery A Review of DJI Spark's Miniature Drone Innovation for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-samsung-galaxy-f15-5g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Samsung Galaxy F15 5G to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimizing-your-netflix-stream-with-fasterslower-pace/"><u>Optimizing Your Netflix Stream with Faster/Slower Pace</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-tips-avoiding-and-resolving-gzw-crashes-during-play/"><u>PC Gaming Tips: Avoiding and Resolving GZW Crashes During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-acrocefexe-errors-a-step-by-step-guide/"><u>Resolving AcroCEF.exe Errors – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-city-skylines-2-stuck-at-launch-screen/"><u>Resolving Issues with City Skylines 2: Stuck at Launch Screen</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transform-your-living-space-with-magic-the-essential-smart-home-device-everyones-talking-about-zdnet/"><u>Transform Your Living Space with Magic: The Essential Smart Home Device Everyone's Talking About | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-solve-the-black-screen-problem-when-starting-helldivers-2-game/"><u>Troubleshooting Tips: How To Solve The Black Screen Problem When Starting Helldivers 2 Game</u></a></li>
 </ul></div>
 

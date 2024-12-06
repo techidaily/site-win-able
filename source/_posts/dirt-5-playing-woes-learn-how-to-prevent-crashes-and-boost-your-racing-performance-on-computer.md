@@ -1,7 +1,7 @@
 ---
 title: Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer
-date: 2024-11-20T19:24:20.703Z
-updated: 2024-11-26T16:42:41.920Z
+date: 2024-11-29T16:13:13.655Z
+updated: 2024-12-06T16:24:24.273Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -34,10 +38,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -58,19 +58,19 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -80,9 +80,17 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -91,10 +99,6 @@ The outdated or broken graphics driver often crashes the game.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
 
@@ -120,10 +124,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -155,16 +155,18 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ailing-the-streaming-seas-navigate-youtubes-numbers-for-profitability-and-popularity-for-2024/"><u>[New] Sailing the Streaming Seas Navigate YouTube's Numbers for Profitability & Popularity for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-the-finest-selection-of-5-sd-cards-for-hero-gopros-for-2024/"><u>[New] The Finest Selection of 5 SD Cards for Hero GoPros for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-eliminating-oculus-sickness-key-tactics/"><u>[Updated] 2024 Approved Eliminating Oculus Sickness Key Tactics</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/conquering-consumer-attention-metaverse-marketing-tips/"><u>Conquering Consumer Attention Metaverse Marketing Tips</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Tecno Camon 20? | Dr.fone</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/guide-upload-personal-video-content-to-apple-tv-application/"><u>Guide: Upload Personal Video Content to Apple TV Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-analysis-understanding-and-fixing-critical-ark-system-crashes/"><u>In-Depth Analysis: Understanding and Fixing Critical ARK System Crashes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/journey-to-intelligent-systems-with-auto-gpt-installation/"><u>Journey to Intelligent Systems with Auto-GPT Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-obs-crashes-on-modern-windows-systems-tips-and-fixes/"><u>Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994541102-silent-blocky-world-uncover-why-minecraft-sounds-are-missing-and-how-to-bring-them-back/"><u>Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-stabilizing-your-playthrough-of-city-skylines-2-on-pc/"><u>Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-the-evolution-of-action-cams-comparing-hero5-and-yis-newest-models-for-2024/"><u>[New] The Evolution of Action Cams Comparing Hero5 and Yi's Newest Models for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-mastering-the-science-proven-methods-for-effective-hashtagging-on-fb/"><u>[Updated] Mastering the Science Proven Methods for Effective Hashtagging on FB</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-unleashing-widespread-engagement-on-facebook/"><u>[Updated] Unleashing Widespread Engagement on Facebook</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-complete-review-for-hero4-black/"><u>2024 Approved Complete Review for Hero4 Black</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996961875-assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-adventure-fixed-problems-leading-to-constant-disruptions-in-the-new-world-pc-version/"><u>Crash-Free Adventure: Fixed Problems Leading to Constant Disruptions in the 'New World' PC Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/easy-telnet-setup-in-windows-10-and-11-wrap-up/"><u>Easy Telnet Setup in Windows 10 and 11 (Wrap Up)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-gimbal-solutions-youtube-creators-stabilizing-allies/"><u>Elite Gimbal Solutions YouTube Creators' Stabilizing Allies</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-the-postponement-of-immortals-fenyx-rising-the-untold-story/"><u>Inside the Postponement of Immortals: Fenyx Rising - The Untold Story</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-cyberpunk-2077-stutter-techniques-and-settings-for-smooth-gaming/"><u>Overcoming Cyberpunk 2077 Stutter: Techniques and Settings for Smooth Gaming</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/odern-content-curators-guide-to-branding-10-tools-for-2024/"><u>The Modern Content Curator's Guide to Branding - 10 Tools for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/top-5-free-ogg-vorbis-audio-editors-easy-and-powerful-options/"><u>Top 5 Free Ogg Vorbis Audio Editors - Easy and Powerful Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-fixing-pc-crashes-in-forza-horizon-5-gameplay/"><u>Ultimate Guide: Preventing and Fixing PC Crashes in Forza Horizon 5 Gameplay</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Comparative Cost Analysis: Owning a Desktop Printer vs Utilizing External Print Services"
-date: 2024-08-28T05:23:21.590Z
-updated: 2024-08-29T05:23:21.590Z
+date: 2024-12-04T16:02:50.040Z
+updated: 2024-12-06T16:03:48.840Z
 tags:
   - excel
 categories:
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 ![sshot-270](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-270.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Google searches for the cartridge part number and the word yield will potentially bring up pages with statistics of how many pages a cartridge will print before giving up the ghost. If you have actual cartridges in your home, the packaging may have yield information. If not, many pages will likely offer the information you need.
 
 ![sshot-271](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-271.png) 
@@ -45,14 +49,23 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 ![sshot-272](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-272.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Chances are you already have some sort of spreadsheet solution on your computer, be it [Microsoft Excel](http://office.microsoft.com/en-us/excel/) or the [OpenOffice suite](http://download.openoffice.org/). If you do not have either, you can [download OpenOffice for free](http://download.openoffice.org/). You can do the math yourself, but downloading free HTG tools will save you the trouble of doing it again and again.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  The How-To Geek Photo Print Calculation Tool
 
 ![sshot-262](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-262.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you have your spreadsheet solution, download the HTG Photo Print Calculation Tool for either OpenOffice or Excel.
 
@@ -64,16 +77,10 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 ![sshot-264](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-264.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Your printer may have multiple cartridges—six or even more, depending on your model. If you have four, five, or only two, input them all here.
 
 ![sshot-265](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-265.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Yield column, input the yields you found earlier, corresponding with the cartridges in the horizontal rows. Cyan yields 207 prints, while a magenta cartridge yields 204.
 
 ![sshot-266](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-266.png) 
@@ -82,29 +89,28 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
 
 ![sshot-267](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-267.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Paper is sold in packs of multiple sheets; this information is far easier to find than the yield of cartridges. A pack of photo paper sized 4”x6” comes in packs of 400, retailing for $27.51\. So a pack costing $27.51 yields a potential 400 prints. The tool calculates the cost per print at 7 cents per page.
 
 ![sshot-268](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-268.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  8”x10” paper is sold here in packs of 50 pages at a price of $19.99\. The tool calculates this cost at 40 cents per piece of photo paper, given that retail amount.
 
 ![sshot-269](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-269.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once the paper amounts are included, the tool automatically tallies the total cost of a single 4”x6” print and a single 8”x10” inch print. Keep in mind, without those two values, it cannot determine the cost per page.
 
  Note: The original multiplier of this number was slightly off. The tool has been adjusted in order to provide a more accurate costs for 8"x10" prints. You can trust this tool, despite numbers in the graphics being slightly lower than they should be.
 
 ![sshot-273](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/12/sshot-273.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Simple Google searches for “4x6 prints” can find online and local printers capable of producing high-quality prints for far cheaper than the above rate of 30 cents per 4”x6” or 85 cents per 8”x10”. From there, it is a simple comparison of cost versus convenience—are you prepared to spend the time to prepare prints for cheaper print services? Or do you prefer the convenience of printing from your somewhat pricier desktop printer? You may find that even despite the higher cost, the convenience of printing at home outweighs the price.
 
  Readers should also keep in mind that not all printing services are created equal, and that some printers may produce prints inferior to your desktop machine. Buyer beware, and happy printing!
@@ -124,8 +130,6 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +137,19 @@ thumbnail: https://thmb.techidaily.com/f06ecdd32f0e95a7a4f703e01e2d64ef66252665c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-top-ranked-4k-screen-recorders-summarized/"><u>[New] 2024 Approved Top-Ranked 4K Screen Recorders Summarized</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-how-to-make-a-thumbnail-for-your-youtube-free-easily/"><u>[New] How to Make a Thumbnail for Your YouTube Free Easily!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-key-components-to-successful-ad-textual-content-creation/"><u>[New] In 2024, Key Components to Successful Ad Textual Content Creation</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-intel-nvme-driver-software-now-fast-and-simple-steps/"><u>Download Intel NVMe Driver Software Now - Fast and Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolve-stutter-and-collapse-issues-with-v-rising-on-desktop/"><u>Expert Advice: Resolve Stutter and Collapse Issues with V Rising on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/fifa-20-on-pc-stability-guide-top-tips-to-prevent-game-crashes/"><u>FIFA 20 on PC Stability Guide: Top Tips to Prevent Game Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Lava Blaze Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-freezing-up-how-to-fix-persistent-game-lag/"><u>Immortals: Fenyx Rising Freezing Up? How To Fix Persistent Game Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-the-division-pressure-and-smoother-gameplay-in-the-2024-update-tips-and-tricks/"><u>Improve The Division Pressure and Smoother Gameplay in the 2024 Update - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-premier-mp4-converter-for-smooth-fb-integration/"><u>In 2024, Premier MP4 Converter for Smooth FB Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-release-hurdles-immortals-fenyx-rising-is-finally-out/"><u>Overcoming the Release Hurdles: Immortals' Fenyx Rising Is Finally Out!</u></a></li>
+<li><a href="https://games-able.techidaily.com/trust-tested-why-reviews-dont-always-tell-the-whole-story/"><u>Trust Tested: Why Reviews Don't Always Tell The Whole Story</u></a></li>
+</ul></div>
 

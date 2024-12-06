@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2024-11-24T18:30:22.669Z
-updated: 2024-11-26T23:34:19.980Z
+date: 2024-12-02T16:14:15.324Z
+updated: 2024-12-06T16:41:27.486Z
 tags:
   - win11
   - win10
@@ -49,7 +49,7 @@ Here’s a quick guide for that:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and see if it crashes again.
@@ -69,15 +69,7 @@ If this trick doesn’t help you, simply continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -95,21 +87,17 @@ And it’s fairly easy to update:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -123,17 +111,29 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method doesn’t fix your issue, simply check out the next one.
 
@@ -169,21 +169,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-screen-capture-bandicam-vs-camtasia-battle/"><u>[Updated] 2024 Approved Mastering Screen Capture Bandicam Vs. Camtasia Battle</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-future-proofing-your-mp4s-srt-integration-hacks/"><u>[Updated] Future-Proofing Your MP4s SRT Integration Hacks</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-elevate-your-yt-marketing-essential-tips-for-higher-rankings/"><u>2024 Approved Elevate Your YT Marketing Essential Tips for Higher Rankings</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/avchd-on-xperia-5-v-convert-mts-for-xperia-5-v-by-aiseesoft-video-converter-play-mts-on-android/"><u>AVCHD on Xperia 5 V-convert MTS for Xperia 5 V</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-resolving-fortnites-persistent-ls-0-013-startup-glitch/"><u>Expert Advice for Resolving Fortnite's Persistent LS-0 013 Startup Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-uninterrupted-gaming-experience-with-titanfall-2/"><u>Expert Tips for a Smooth, Uninterrupted Gaming Experience with Titanfall 2</u></a></li>
-<li><a href="https://windows11.techidaily.com/fix-your-slow-internet-matching-mobile-and-desktop-speeds/"><u>Fix Your Slow Internet: Matching Mobile and Desktop Speeds</u></a></li>
-<li><a href="https://win-able.techidaily.com/ghostrunner-breakdown-resolved-effective-strategies-to-address-critical-failures-in-windows-10-systems/"><u>Ghostrunner Breakdown Resolved: Effective Strategies to Address Critical Failures in Windows 10 Systems</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-realme-12-proplus-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Realme 12 Pro+ 5G Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/o-use-video-titles-and-youtube-tags-for-more-views-in-2024/"><u>How to Use Video Titles and YouTube Tags for More Views, In 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-practical-ways-to-archive-online-discussions/"><u>In 2024, Practical Ways to Archive Online Discussions</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-3-lag-issues-and-frame-rate-drop-in-call-of-duty-2024-update/"><u>Modern Warfare 3 Lag Issues & Frame Rate Drop in Call of Duty: 2024 Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-graphics-error-errgfx-explained-and-solved/"><u>Red Dead Redemption 2 Graphics Error (ERR_GFX) Explained and Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-frame-rate-drops-and-stutter-in-modern-warfare-2-for-pc-gamers/"><u>Resolving Frame Rate Drops & Stutter in Modern Warfare 2 for PC Gamers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-future-of-quick-text-conversion-from-srt/"><u>The Future of Quick Text Conversion From SRT</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-stop-halo-infinite-from-freezing-on-your-computer-with-these-7-simple-tips/"><u>Ultimate Solutions: Stop Halo Infinite From Freezing on Your Computer with These 7 Simple Tips</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-perfect-pick-kids-preferred-drones/"><u>[New] Perfect Pick Kids' Preferred Drones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-color-mastery-simple-steps-in-photoshop/"><u>[Updated] In 2024, Color Mastery Simple Steps in Photoshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-players-handbook-to-reconnecting-with-your-team-on-rainbow-six-siege-servers-error-fix-guide/"><u>A Player's Handbook to Reconnecting with Your Team on Rainbow Six Siege Servers: Error Fix Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/advantages-of-the-chatgpt-desktop-app-over-the-website-interface/"><u>Advantages of the ChatGPT Desktop App Over the Website Interface</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-block-solutions-to-roblox-loading-screen-hiccups/"><u>Bypassing the Block: Solutions to Roblox Loading Screen Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-to-follow-solutions-to-correct-error-e6-in-pc-versions-of-modern-warfare-and-warzone-games/"><u>Easy-to-Follow Solutions to Correct Error E6 in PC Versions of Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/guia-expertos-para-liberar-y-converter-contenido-de-itunes-en-mp3/"><u>Guía Expertos Para Liberar Y Converter Contenido De iTunes en MP3</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-constant-lag-and-disconnects-for-pc-players-in-warzone-20/"><u>How to Fix Constant Lag and Disconnects for PC Players in Warzone 2.0</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/ideal-episodic-unveiling-schedule/"><u>Ideal Episodic Unveiling Schedule</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-masterclass-selecting-christian-streaming-platforms/"><u>In 2024, Masterclass Selecting Christian Streaming Platforms</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-eradicating-e66ac-issue-from-your-nba-2k-game/"><u>Mastering Fixes: Eradicating E66ac Issue From Your NBA 2K Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-black-ops-cold-war-error-code-0xc0000005-fixes-and-solutions/"><u>Resolving 'Black Ops: Cold War' Error Code 0xC0000005 - Fixes and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/sony-vegas-stability-solutions-how-to-prevent-unexpected-software-shutdowns/"><u>Sony Vegas Stability Solutions: How To Prevent Unexpected Software Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-stop-your-mass-effect-legendary-edition-from-crashing-solutions-for-players-and-xbox-users/"><u>Steps to Stop Your Mass Effect Legendary Edition From Crashing: Solutions for Players and Xbox Users</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-crafting-the-perfect-track-heres-our-selection-of-the-best-8-chrome-os-compatible-daws-musicians/"><u>Updated In 2024, Crafting the Perfect Track? Heres Our Selection of the Best 8 Chrome OS-Compatible DAWs Musicians</u></a></li>
 </ul></div>
 

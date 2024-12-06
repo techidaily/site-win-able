@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs"
-date: 2024-11-25T19:55:13.501Z
-updated: 2024-11-26T16:05:46.196Z
+date: 2024-12-05T17:08:48.898Z
+updated: 2024-12-06T16:07:02.389Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
  The game may crash if your PC fails to meet its system requirement.  
@@ -65,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -105,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -117,13 +109,13 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -141,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -149,11 +145,11 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/4e831fd04562f2cd6825c32accd78b3641cb3be2e
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,18 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-mastering-adobe-easy-hue-transformations/"><u>[New] In 2024, Mastering Adobe Easy Hue Transformations</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-your-gaming-experience-boosting-fps-stability-for-pc-players-of-resident-evil-village/"><u>Enhancing Your Gaming Experience - Boosting FPS Stability for PC Players of Resident Evil Village</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-diagnosing-and-repairing-devices-with-a-sudden-black-screen-fault/"><u>Expert Advice on Diagnosing and Repairing Devices with a Sudden Black Screen Fault</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-wheel-drivers-updated-versions-for-win7810-systems/"><u>Get Your Logitech Wheel Drivers: Updated Versions for Win7/8/10 Systems</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-vivo-v29e-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Vivo V29e</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-outlook-app-crashes-and-improve-stability/"><u>How to Stop Frequent Outlook App Crashes & Improve Stability</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-headshot-generator/"><u>New 2024 Approved What Is an AI Headshot Generator?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-loading-obstacles-a-guide-to-fixing-among-us-stuck-scenes/"><u>Overcome 'Loading' Obstacles: A Guide to Fixing Among Us Stuck Scenes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210761818-9781591798682-remote-viewing/"><u>Remote Viewing | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-finals-keeps-crashing-on-pc-how-to-fix/"><u>The Finals Keeps Crashing on PC: How to Fix</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-role-and-functions-of-the-windows-registry-explained/"><u>The Role and Functions of the Windows Registry Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/uncovered-truth-why-mafia-ultimate-version-wont-see-daylight/"><u>Uncovered Truth: Why Mafia: Ultimate Version Won't See Daylight</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/understanding-instagrams-privacy-features-for-anonymous-livestreams-for-2024/"><u>Understanding Instagram's Privacy Features for Anonymous Livestreams for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/fun-for-the-whole-family-revisiting-a-goofy-movie/"><u>'Fun for the Whole Family' Revisiting a 'Goofy Movie'</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-selecting-the-best-screen-recorder-apps-for-mac/"><u>[New] In 2024, Selecting the Best Screen Recorder Apps for Mac</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-top-5-affordable-pinterest-video-downloaders-unveiled/"><u>[New] In 2024, Top 5 Affordable, Pinterest Video Downloaders Unveiled</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-simplest-way-win-clownfish-vocal-alteration-tool-for-2024/"><u>[New] Simplest Way Win Clownfish Vocal Alteration Tool for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-snap-complete-web-panel/"><u>2024 Approved Snap Complete Web Panel</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-ways-to-bypass-football-manager-2021s-continuous-load-delay-errors/"><u>Efficient Ways to Bypass Football Manager 2021'S Continuous Load Delay Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-for-smoother-gameplay-a-guide-to-optimizing-gta-5/"><u>Eliminating Stuttering for Smoother Gameplay: A Guide to Optimizing GTA 5</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/magic-the-gathering-online-conquering-black-screen-malfunctions-and-enhancing-your-gameplay/"><u>Magic: The Gathering Online - Conquering Black Screen Malfunctions and Enhancing Your Gameplay</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-exploring-the-best-audio-blending-software-top-picks-free-of-charge/"><u>New In 2024, Exploring the Best Audio Blending Software - Top Picks , Free of Charge!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009926438-no-more-crashes-in-multiversus-the-ultimate-8-fix-strategies-revealed/"><u>No More Crashes in MultiVersus - The Ultimate 8 Fix Strategies Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-guide-helldivers-ii-ultimate-solutions-for-a-smooth-gameplay-experience/"><u>PC Troubleshooting Guide: Helldivers II - Ultimate Solutions for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-alternative-path-operating-system-setup-for-incompatible-processors-with-windows-11/"><u>The Alternative Path: Operating System Setup for Incompatible Processors with Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-discord-app-crashes/"><u>Troubleshooting Steps for Persistent Discord App Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-complete-black-screens-during-re8-gaming-on-your-pc/"><u>Troubleshooting Steps to Resolve Complete Black Screens During RE8 Gaming on Your PC</u></a></li>
 </ul></div>
 

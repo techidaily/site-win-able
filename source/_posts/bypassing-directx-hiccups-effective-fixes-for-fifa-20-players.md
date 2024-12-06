@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2024-11-22T21:32:22.149Z
-updated: 2024-11-26T19:13:59.291Z
+date: 2024-12-01T16:58:14.938Z
+updated: 2024-12-06T17:14:56.330Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Verify integrity of game files
@@ -49,18 +49,18 @@ You can use these steps to scan and repair your game:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t help, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -81,6 +81,10 @@ If this doesn’t help, check out the next fix below.
 
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable hardware monitors
 
  Some gamers suggested that hardware monitoring software could be interfering with the game and hence the crashes. When troubleshooting crashing issues, we recommend closing other programs so as to minimize the risk. In other words, if you’re using hardware monitors such as**MSI Afterburner** ,**NVIDIA GeForce Experience** and**AIDA64** , make sure they’re turned off before launching Mass Effect.
@@ -97,6 +101,10 @@ Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -107,17 +115,9 @@ Here’s how to disable VSync with NVIDIA graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
 Now you can launch Mass Effect and check if it crashes again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -150,19 +150,24 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-mastering-the-art-of-oral-explanitations-and-slides/"><u>[New] In 2024, Mastering the Art of Oral Explanitations & Slides</u></a></li>
-<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-stutters-and-boosting-frames-in-dragons-dogma-n-second-edition/"><u>A Comprehensive Guide to Fixing Stutters and Boosting Frames in Dragon's Dogma N: Second Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/crafting-stunning-visuals-how-to-master-use-of-luts-in-photoshop-suite-for-2024/"><u>Crafting Stunning Visuals How to Master Use of LUTs in Photoshop Suite for 2024</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/enhance-video-quality-with-winxvideo-ais-advanced-frame-enrichment-technology/"><u>Enhance Video Quality with Winxvideo AI's Advanced Frame Enrichment Technology</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-erase-apple-iphone-13-data-completely-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Erase Apple iPhone 13 Data Completely | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-city-builder-game-from-crashing-on-pc-tips-for-cities-skylines-pressures/"><u>How to Stop Your City Builder Game From Crashing on PC: Tips for Cities: Skylines Pressures</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-google-pixel-8-pro-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Google Pixel 8 Pro Data? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/astery-choosing-top-dj-videos-for-events/"><u>Mix Mastery Choosing Top DJ Videos for Events</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-windows-11-fs-errors-swiftly/"><u>Reversing Windows 11 FS Errors Swiftly</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-fixing-finals-continuous-freezing-problems-on-desktops/"><u>The Definitive Guide to Fixing 'Finals' Continuous Freezing Problems on Desktops</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-5-essential-camping-equipment-and-tools-insights-from-zdnet/"><u>Top 5 Essential Camping Equipment & Tools - Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/tricks-to-enhance-performance-and-minimize-delay-for-an-optimal-fall-guys-experience/"><u>Tricks to Enhance Performance & Minimize Delay for an Optimal Fall Guys Experience</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-android-and-iphone-collage-kings-the-best-montage-apps/"><u>[New] 2024 Approved Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-compre-written-by-daniel-kelley/"><u>[Updated] A Compre Written by Daniel Kelley</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-list-top-9-multi-device-collaboration-apps-iosandroid-reviewed/"><u>2024 Approved Essential List Top 9 Multi-Device Collaboration Apps iOS/Android Reviewed</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-saving-and-showcasing-gifs-on-your-iphone-device/"><u>2024 Approved Seamlessly Saving and Showcasing GIFs on Your iPhone Device</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-top-popular-meme-ideas-for-every-occasion/"><u>2024 Approved Top Popular Meme Ideas for Every Occasion</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-11-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme 11 5G Phone Screen?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-black-screen-2024-tips/"><u>How to Fix Warzone Black Screen – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-discord-stream-malfunctions-preventing-the-platform-from-crashing-mid-stream/"><u>How to Resolve Discord Stream Malfunctions: Preventing the Platform From Crashing Mid-Stream</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edge-application-errors-on-windows-systems/"><u>How to Resolve Microsoft Edge Application Errors on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-solve-google-meets-camera-problem-a-complete-fix-guide/"><u>How to Successfully Solve Google Meet's Camera Problem - A Complete Fix Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-10plus-preferred-no-pay-webm-player-options/"><u>In 2024, 10+ Preferred No-Pay WebM Player Options</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S17e</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-reno-10-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Reno 10 5G Phone Network-Ready</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993990815-oculus-link-display-malfunction-correct-it-quickly-with-these-6-tips/"><u>Oculus Link Display Malfunction? Correct It Quickly with These 6 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-failed-initialization-issues-in-call-of-duty-black-ops-4-expert-advice/"><u>Resolving Failed Initialization Issues in Call of Duty: Black Ops 4 - Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-frequent-crashes-on-desktop/"><u>Troubleshooting Guide: How to Stop 'Hell Let Loose' From Frequent Crashes on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme GT 5 Pro? | Dr.fone</u></a></li>
 </ul></div>
 

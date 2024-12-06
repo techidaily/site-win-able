@@ -1,7 +1,7 @@
 ---
 title: "Mastering Summation: The Ultimate Guide to Adding Numbers with Microsoft Excel"
-date: 2024-08-28T05:23:43.956Z
-updated: 2024-08-29T05:23:43.956Z
+date: 2024-11-30T16:08:48.862Z
+updated: 2024-12-06T16:56:30.191Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 ---
 
 ## Mastering Summation: The Ultimate Guide to Adding Numbers with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/8e227e065d730938ce0d6ea2261402d78760be148
 
 Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How Addition Works in Excel
 
  In Excel, you have multiple ways to add numbers. The most basic method is to use **the plus (+) sign**. With this, you specify the numbers you want to add before and after the plus sign, and Excel adds those numbers for you.
@@ -29,6 +37,10 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
  The other quick way to add numbers is to use Excel's **AutoSum** feature. This feature automatically detects your number range and makes a sum of those numbers for you. You don't need to know the formula; Excel writes the formula for you.
 
  The third and the most used method to add numbers in Excel is the **SUM function**. With this function, you specify in a formula the cell ranges that you want to add and Excel calculates the sum of those numbers for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  How to Add Numbers Using the Plus Sign
 
@@ -50,21 +62,19 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Click the C5 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-select-c5-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the C5 cell, we'll type this formula and then press Enter:
 
 =C2+C3
 
 ![Add numbers with cell references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-enter-cell-reference.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  You will instantly see the answer in the C5 cell.
 
 ![Numbers added with cell references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-cell-reference-answer.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You're all set.
 
@@ -76,26 +86,21 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Click the C8 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-select-c8-cell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In Excel's ribbon at the top, click the "Home" tab. Then, in the "Editing" section on the right, click the "AutoSum" icon.
 
 ![Click "AutoSum" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-select-autosum.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Excel will automatically select your number range and highlight it. To perform the sum of these numbers, press Enter on your keyboard.
 
 ![Press Enter to see the result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/8-automatically-selected-range.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's it. You now have your answer in the C8 cell.
 
 ![AutoSum result.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-autosum-result.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Another trick for automatically completing spreadsheets is [using the Auto Fill tool](https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-honor-magic-6-drfone-by-drfone-virtual-android/).
 
@@ -109,22 +114,20 @@ Related: [How to Fill Excel Cells Automatically with Flash Fill and Auto Fill](h
 
 ![Click the C8 cell.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-click-c8-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the C8 cell (or any other cell you have chosen to display the answer in), type the following formula. This formula adds the numbers in the cells between C2 and C6, with both of those cells included. Feel free to change this range to accommodate your numbers range.
 
 =SUM(C2:C6)
 
 ![Enter the SUM function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-enter-sum-function.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Press Enter to see the result in your cell.
 
 ![The result of the SUM function.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-sum-function-result.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's how you add numbers using various ways in your Microsoft Excel spreadsheets. If you want to [perform subtraction in Excel](https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/), it's equally easy to do that.
 
 Related: [How to Subtract Numbers in Microsoft Excel](https://ios-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-by-drfone-ios/)
@@ -135,8 +138,6 @@ Related: [How to Subtract Numbers in Microsoft Excel](https://ios-unlock.techida
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +145,22 @@ Related: [How to Subtract Numbers in Microsoft Excel](https://ios-unlock.techida
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-4k-camera-guide-low-cost-options-(1000/"><u>[New] 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-photographers-blueprint-for-stunning-hdr-portraits/"><u>[Updated] In 2024, The Photographer's Blueprint for Stunning HDR Portraits</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/complete-review-of-razer-video-streaming-device/"><u>Complete Review of Razer Video Streaming Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-application-crashes/"><u>Complete Step-by-Step Tutorial: Resolving Teardown Application Crashes</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/eering-echoing-edits/"><u>Engineering Echoing Edits</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-11-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 11 to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/in-2024-mastering-the-art-of-incorporating-soundtracks-into-videos-using-filmora/"><u>In 2024, Mastering the Art of Incorporating Soundtracks Into Videos Using Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/increasing-frame-rate-and-smoothing-gameplay-a-guide-to-enhancing-performance-in-the-ascent/"><u>Increasing Frame Rate & Smoothing Gameplay: A Guide to Enhancing Performance in 'The Ascent'</u></a></li>
+<li><a href="https://fox-access.techidaily.com/is-inshot-surging-above-all-else-in-edits-in-2024/"><u>Is InShot Surging Above All Else in Edits, In 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/mastering-money-with-8-youtube-aspects/"><u>Mastering Money with 8 YouTube Aspects</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-wont-start-heres-how-you-can-fix-it-easily/"><u>Minecraft Won't Start? Here's How You Can Fix It Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pixel-perfect-performance-fixing-unclear-visuals-in-the-console-game-call-of-duty-warzone-for-pc-players/"><u>Pixel Perfect Performance: Fixing Unclear Visuals in the Console Game, Call of Duty: Warzone (for PC Players)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-itel-s23-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Itel S23 Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-yakuza-6-the-game-crashing-problems-on-windowsmac/"><u>Step-by-Step Solution for Yakuza 6: The Game Crashing Problems on Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-preventing-gtfo-malfunctions/"><u>Troubleshooting Tips for Preventing GTFO Malfunctions</u></a></li>
+</ul></div>
 

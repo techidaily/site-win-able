@@ -1,7 +1,7 @@
 ---
 title: "Mastering XLOOKUP: A Step-by-Step Guide to Leveraging Microsoft Excel's Powerful Search Tool"
-date: 2024-08-28T05:23:46.325Z
-updated: 2024-08-29T05:23:46.325Z
+date: 2024-12-02T16:47:23.553Z
+updated: 2024-12-06T16:58:05.061Z
 tags:
   - excel
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
  Excel's new XLOOKUP will replace VLOOKUP, providing a powerful replacement to one of Excel's most popular functions. This new function solves some of VLOOKUP's limitations and has extra functionality. Here's what you need to know.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  What is XLOOKUP?
 
  The new XLOOKUP function has solutions for some of the biggest limitations of [VLOOKUP](https://extra-tips.techidaily.com/integrate-sound-and-sight-web-studio/). Plus, it also replaces HLOOKUP. For example, XLOOKUP can look to its left, defaults to an exact match, and allows you to specify a range of cells instead of a column number. VLOOKUP is not this easy to use or as versatile. We'll show you how it all works.
@@ -31,8 +35,9 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
  For the moment, XLOOKUP is only available to users on the Insiders program. Anyone can [join the Insiders program](https://insider.office.com/en-us/) to access the newest Excel features as soon as they become available. Microsoft will soon begin to roll it out to all Office 365 users.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Use the XLOOKUP Function
 
  Let's dive straight in with an example of XLOOKUP in action. Take the example data below. We want to return the department from column F for each ID in column A.
@@ -57,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 
  Let's now explore a couple of advantages XLOOKUP has over VLOOKUP here.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  No More Column Index Number
 
  The infamous third argument of VLOOKUP was to specify the column number of the information to return from a table array. This is no longer an issue because XLOOKUP enables you to select the range to return from (column F in this example).
@@ -67,9 +69,9 @@ thumbnail: https://thmb.techidaily.com/c3e0373857c4f6ff49001a6f640f1a15c7eebbb81
 ![The column index number argument of VLOOKUP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/vlookup-arguments.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And don't forget, XLOOKUP can view the data left of the selected cell, unlike VLOOKUP. More on this below.
 
  You also no longer have the issue of a broken formula when new columns are inserted. If that happened in your spreadsheet, the return range would adjust automatically.
@@ -77,8 +79,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Inserted column does not break XLOOKUP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/inserted-column.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Exact Match is the Default
 
  It was always confusing when learning VLOOKUP why you had to specify an exact match was wanted.
@@ -88,8 +95,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  So in short, XLOOKUP asks fewer questions than VLOOKUP, is more user-friendly, and is also more durable.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  XLOOKUP can Look to the Left
 
  Being able to select a lookup range makes XLOOKUP more versatile than VLOOKUP. With XLOOKUP, the order of the table columns does not matter.
@@ -100,19 +108,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Example data for a lookup formula to the left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/lookup-left-data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The following formula can achieve this:
 
         `=XLOOKUP(A2,$E$2:$E$8,$D$2:$D$8)`
     
 ![XLOOKUP function returning a value to its left](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/lookup-left-complete.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  What to Do If Not Found
 
  Users of lookup functions are very familiar with the #N/A error message that greets them when their VLOOKUP or their MATCH function cannot find what it needs. And often there is a logical reason for this.
@@ -127,18 +128,6 @@ The ultimate burning program for all your needs!</a>
     
 ![Alternative text if not found with XLOOKUP](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/if-not-found-1.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Using XLOOKUP for a Range Lookup
 
  Although not as common as the exact match, a very effective use of a lookup formula is to look for a value in ranges. Take the following example. We want to return the discount dependent upon the amount spent.
@@ -169,17 +158,15 @@ The ultimate burning program for all your needs!</a>
 
 ![Fix the mistake by expanding the used range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/expand-lookup-table.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The formula immediately corrects the error. It is not a problem with having the "0" at the bottom of the range.
 
 ![Error fixed by expanding lookup table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/11/error-fixed.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Personally, I would still sort the table by the lookup column. Having "0" at the bottom would drive me crazy. But the fact that the formula didn't break is brilliant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  XLOOKUP Replaces the HLOOKUP Function Too
 
@@ -198,8 +185,9 @@ The ultimate burning program for all your needs!</a>
 ![XLOOKUP as a HLOOKUP function replacement](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/09/hlookup.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  XLOOKUP Can Look From the Bottom-Up
 
  Typically, you need to hunt down a list to find the first (often only) occurrence of a value. XLOOKUP has a sixth argument named search mode. This enables us to switch the lookup to start at the bottom and look up a list to find the last occurrence of a value instead.
@@ -223,9 +211,9 @@ The ultimate burning program for all your needs!</a>
  In this formula, the fourth and fifth argument were ignored. It is optional, and we wanted the default of an exact match.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Round-Up
 
  The XLOOKUP function is the [eagerly awaited successor](https://techcommunity.microsoft.com/t5/Excel-Blog/Announcing-XLOOKUP/ba-p/811376) to both the VLOOKUP and HLOOKUP functions.
@@ -242,8 +230,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -251,4 +237,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-comprehensive-guide-to-ios-video-capture-for-2024/"><u>[New] Comprehensive Guide to iOS Video Capture for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dauntless-crash-fix-proven-methods-to-ensure-smooth-gameplay-on-windows-pcs/"><u>Dauntless Crash Fix: Proven Methods to Ensure Smooth Gameplay on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-inquisition-unable-to-start-troubleshooting-tips-and-fixes/"><u>Dragon Age Inquisition Unable to Start: Troubleshooting Tips and Fixes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-views-a-guide-to-best-youtube-hash-tags/"><u>Elevate Views A Guide to Best YouTube Hash Tags</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-game-crashes-in-ghost-recon-breakpoint-find-out-how-to-fix-them-fast/"><u>End Game Crashes in Ghost Recon Breakpoint? Find Out How to Fix Them Fast!</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-of-woes-for-escape-from-tarkov-permanent-pc-game-stability-solutions-found/"><u>End of Woes for 'Escape From Tarkov': Permanent PC Game Stability Solutions Found!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-marketers-should-use-hashtags-on-facebook-properly/"><u>How Marketers Should Use Hashtags on Facebook Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-diablo-ii-resurrected-freezing-and-crashing-errors/"><u>How to Prevent and Resolve Diablo II Resurrected Freezing & Crashing Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-motorola-edge-40-neo-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Motorola Edge 40 Neo | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-fixing-paladins-crashes-proven-solutions-and-tips-to-enhance-your-gaming-experience/"><u>Master Fixing Paladins Crashes: Proven Solutions and Tips to Enhance Your Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fixes-for-stuck-shaders-in-black-ops-cold-war-get-back-to-gaming/"><u>Mastering Fixes for Stuck Shaders in Black Ops Cold War - Get Back to Gaming</u></a></li>
+<li><a href="https://facebook.techidaily.com/newbies-guide-top-10-sms-chamber-secrets/"><u>Newbie's Guide: Top 10 SMS Chamber Secrets</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-lava-blaze-curve-5g-by-drfone-android/"><u>Universal Unlock Pattern for Lava Blaze Curve 5G</u></a></li>
+</ul></div>
 

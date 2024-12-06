@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-11-24T18:59:09.169Z
-updated: 2024-11-26T16:11:54.528Z
+date: 2024-11-29T16:45:57.526Z
+updated: 2024-12-06T16:26:12.292Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You should be able to resolve it with one of the following solutions. You may not have to try all of these solutions; just work from the top down until you find the one.
@@ -35,7 +39,7 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 7. **[Uninstall and reinstall Phasmophobia](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Make sure your computer meets the specs
@@ -64,10 +68,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -87,7 +87,7 @@ OR
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
@@ -114,10 +114,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like the screen stuck at loading. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -135,7 +131,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Delete the game’s save file
@@ -147,10 +143,6 @@ OR
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
 
 ![delete save file Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-save-file.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Locate the**saveData.txt** file and delete it.
 
@@ -169,7 +161,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
@@ -195,16 +187,24 @@ Here’s how you can do this:
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Yes** .
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now restart your computer and your problem should be fixed.
 
@@ -252,22 +252,22 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/ransforming-viewers-into-income-how-many-votes-yield-earnings-for-2024/"><u>[New] Transforming Viewers Into Income How Many Votes Yield Earnings for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-stepping-up-your-gaming-stream-with-steam-capture/"><u>[Updated] 2024 Approved Stepping Up Your Gaming Stream with Steam Capture</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-streamlined-list-6-efficient-mac-screen-recording-solutions/"><u>2024 Approved Streamlined List 6 Efficient Mac Screen Recording Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-wont-start-navigate-to-victory-with-these-simple-repair-steps-players/"><u>Battlefield 5 Won't Start? Navigate to Victory with These Simple Repair Steps Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-and-fix-the-audio-issues-in-dying-light-with-proven-techniques/"><u>Decode and Fix the Audio Issues in 'Dying Light' With Proven Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-gaming-how-to-stop-your-slime-rancher-2-experience-from-ending-in-a-crash-on-windows-systems/"><u>Effortless Gaming: How to Stop Your Slime Rancher 2 Experience From Ending in a Crash on Windows Systems</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/latest-tp-link-wifi-network-card-drivers-compatible-with-windows-10-8-and-7/"><u>Latest TP-Link WiFi Network Card Drivers | Compatible with Windows 10, 8 & 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-issues-with-opening-discord-a-step-by-step-guide/"><u>Overcoming Issues with Opening Discord: A Step-by-Step Guide</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/96028126-9781620558010-psychedelic-mystery-traditions/"><u>Psychedelic Mystery Traditions | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-street-fighter-6s-pc-stability-issues-with-these-effective-fixes/"><u>Resolve Street Fighter 6'S PC Stability Issues with These Effective Fixes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/rise-in-search-results-mastering-podcast-seo/"><u>Rise in Search Results Mastering Podcast SEO</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/solved-move-from-vivo-t2-5g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Solved Move from Vivo T2 5G to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007686819-steam-vr-not-showing-up-try-these-6-quick-fixes/"><u>Steam VR Not Showing Up? Try These 6 Quick Fixes</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unveiling-the-chatgpt-text-limit-understanding-and-overcoming-restrictions/"><u>Unveiling the ChatGPT Text Limit: Understanding and Overcoming Restrictions</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007206674-warcraft-3-reforged-and-pc-performance-issues-master-these-fixes/"><u>Warcraft 3 Reforged and PC Performance Issues? Master These Fixes</u></a></li>
-<li><a href="https://win-data.techidaily.com/1728471318779-windows-11/"><u>Windows 11更新阻塞解決方案 - 五招指南</u></a></li>
+<li><a href="https://win-able.techidaily.com/days-gone-play-the-epic-open-world-ps4-game-exclusively-on-pc/"><u>'Days Gone': Play the Epic Open World PS4 Game Exclusively on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-friends-network-unreachable/"><u>[SOLVED] Steam Friends Network Unreachable</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-saving-window-views-on-pcs-from-winxp-to-11/"><u>[Updated] 2024 Approved Saving Window Views on PCs From WinXP to 11</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-synergizing-social-networks-share-your-igtv-content/"><u>[Updated] 2024 Approved Synergizing Social Networks Share Your IGTV Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-essential-guide-to-4-premium-fullscreen-software-for-2024/"><u>[Updated] The Essential Guide to 4 Premium Fullscreen Software for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-free-online-video-capture-leaders-top-10-edition/"><u>2024 Approved Free Online Video Capture Leaders – Top 10 Edition</u></a></li>
+<li><a href="https://win11.techidaily.com/7-key-steps-to-restore-your-usb-wi-fi-on-a-pc/"><u>7 Key Steps to Restore Your USB Wi-Fi On a PC</u></a></li>
+<li><a href="https://win-best.techidaily.com/come-assicurarsi-che-il-tuo-computer-soddisfi-le-condizioni-di-installabilita-per-windows-11-nonostante-linstallazione-fallisca/"><u>Come Assicurarsi Che Il Tuo Computer Soddisfi Le Condizioni Di Installabilità per Windows 11, Nonostante L'Installazione Fallisca</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-computers-bug-with-gray-zone-warfare-crash-fixes-on-pc/"><u>Fixing Your Computer's Bug with Gray Zone Warfare Crash Fixes on PC</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-13t-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi 13T Bootloader Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007791355-is-your-xbox-live-experience-interrupted-today-heres-the-latest-status-report/"><u>Is Your Xbox Live Experience Interrupted Today? Here's the Latest Status Report</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/reddits-golden-threads-celebrating-the-highest-rated-posts-for-2024/"><u>Reddit's Golden Threads Celebrating the Highest-Rated Posts for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-improper-installation-issues-with-the-ryzen-master-software/"><u>Resolving Improper Installation Issues with the Ryzen Master Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-instructions-eliminating-steam-error-code-130-once-and-for-all/"><u>Step-by-Step Instructions: Eliminating Steam Error Code 130 Once and For All!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-unexpected-shutdowns-in-genshin-impact-for-pc-users/"><u>Troubleshooting Tips: Preventing Unexpected Shutdowns in Genshin Impact for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992715963-why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-tech-enthusiasts-are-raving-about-apples-newest-addition-the-impressive-ipad-air-with-m2-chip-review/"><u>Why Tech Enthusiasts Are Raving About Apple's Newest Addition: The Impressive iPad Air with M2 Chip Review</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2024-11-25T01:04:52.598Z
-updated: 2024-11-26T21:57:15.114Z
+date: 2024-12-04T17:00:02.805Z
+updated: 2024-12-06T16:42:19.873Z
 tags:
   - win11
   - win10
@@ -28,10 +28,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -72,10 +68,6 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If it’s not working, move to the next fix.
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -90,6 +82,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
@@ -97,16 +93,24 @@ If it’s not working, move to the next fix.
 8. Press**Windows key + R** to open the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 11. Restart Battle.net and relaunch the game.
 
 No luck with this fix? Try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change NVIDIA settings
 
@@ -120,10 +124,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -134,11 +134,11 @@ No luck with this fix? Try the next one.
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
@@ -171,22 +171,20 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-expert-recommendations-for-limitless-data-holding/"><u>[New] Expert Recommendations for Limitless Data Holding</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-the-covert-community-top-5-anonymous-viewers/"><u>[Updated] The Covert Community Top 5 Anonymous Viewers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-navigating-twitch-recording-a-users-playbook/"><u>2024 Approved Navigating Twitch Recording A User's Playbook</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-blueprint-to-thriving-in-spotify-ads/"><u>2024 Approved The Ultimate Blueprint to Thriving in Spotify Ads</u></a></li>
-<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-google-pixel-fold-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Google Pixel Fold | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-glitch-steps-to-resolve-pc-game-crashes-in-slime-rancher-2/"><u>Beat the Glitch: Steps to Resolve PC Game Crashes in Slime Rancher 2</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-hl-l2340dw-compatible-software-downloads-for-windows-operating-system/"><u>Brother HL-L2340DW Compatible Software Downloads for Windows Operating System</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996849488-dayz-stability-revealed-how-to-prevent-game-crashes-easily-and-fast/"><u>DayZ Stability Revealed! How to Prevent Game Crashes Easily and Fast!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-13-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-enable-your-xboxps-controller-connection-for-gaming-in-steam-windows-fix/"><u>How to Enable Your Xbox/PS Controller Connection for Gaming in Steam (Windows Fix)</u></a></li>
-<li><a href="https://win-able.techidaily.com/hp-visual-output-issues-heres-how-you-can-resolve-them/"><u>HP Visual Output Issues? Here's How You Can Resolve Them!</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/os-x-mavericks-mp4-editing-software-convert-trim-and-more/"><u>OS X Mavericks MP4 Editing Software Convert, Trim, and More</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-guide-to-stable-play-in-naraka-bladepoint/"><u>Overcoming Technical Glitches: A Guide to Stable Play in Naraka: Bladepoint</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-to-reduce-high-ping-enhancing-your-multiplayer-gaming-experience-in-back-4-blood/"><u>Quick Fixes to Reduce High Ping: Enhancing Your Multiplayer Gaming Experience in Back 4 Blood</u></a></li>
-<li><a href="https://win-able.techidaily.com/spatial-audio-not-playing-on-win11-or-win10-quick-fixes-and-solutions/"><u>Spatial Audio Not Playing on Win11 or Win10: Quick Fixes and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-the-issue-of-multiversus-not-starting-on-your-pc/"><u>Troubleshooting Steps: Resolving the Issue of MultiVersus Not Starting on Your PC</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-video-annotation-tools-add-watermarks-and-captions/"><u>Updated 2024 Approved Free Video Annotation Tools Add Watermarks and Captions</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-long-exposure-iphone-shots-step-by-step-guide/"><u>[New] Long-Exposure iPhone Shots Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/aximizing-video-impact-with-youtube-cards/"><u>[New] Maximizing Video Impact with YouTube Cards</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-quick-and-easy-image-transition-techniques-explored/"><u>2024 Approved Quick and Easy Image Transition Techniques Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/bard-by-google-emerges-as-a-potent-contender-in-the-ai-arena-against-chatgpt/"><u>Bard by Google Emerges as a Potent Contender in the AI Arena Against ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
+<li><a href="https://facebook.techidaily.com/elevate-engagement-key-mobile-settings-in-fb-app/"><u>Elevate Engagement: Key Mobile Settings in FB App</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-performance-in-naraka-bladepoint-game-crashes-fixed-now/"><u>Enhanced Performance in Naraka: Bladepoint - Game Crashes Fixed Now</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-effective-wellness-ads-on-social-media-platforms/"><u>In 2024, Effective Wellness Ads on Social Media Platforms</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-snappy-business-ideas-for-profit/"><u>In 2024, Snappy Business Ideas for Profit</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-rainbow-six-extraction-proven-solutions-to-combat-fps-drops/"><u>Maximizing Frame Rates in Rainbow Six Extraction: Proven Solutions to Combat FPS Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-between-corsair-icue-and-windows-operating-systems/"><u>Resolving Compatibility Problems Between Corsair iCUE and Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-crashing-problems-on-pc-updated-solutions-for-202/"><u>Solving CS2 Crashing Problems on PC: Updated Solutions for 202^</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-manor-lords-game-crashes-steps-for-stable-pc-gaming/"><u>Solving Manor Lords Game Crashes: Steps for Stable PC Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-warzone-20-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Warzone 2.0' PC Game Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/understanding-the-reset-this-pc-feature-in-windows-11-optimal-times-and-methods/"><u>Understanding the Reset This PC Feature in Windows 11: Optimal Times and Methods</u></a></li>
 </ul></div>
 

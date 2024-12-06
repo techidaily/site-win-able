@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps to Stop Age of Wonders: Planetfall From Crashing on Windows"
-date: 2024-11-25T23:28:20.200Z
-updated: 2024-11-26T16:38:18.005Z
+date: 2024-12-03T17:10:31.554Z
+updated: 2024-12-06T16:35:34.488Z
 tags:
   - win11
   - win10
@@ -23,13 +23,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -61,7 +65,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
@@ -75,12 +79,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -99,21 +103,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -147,7 +151,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -161,10 +165,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,17 +194,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-blending-photography-and-sonic-artistry/"><u>[New] Blending Photography & Sonic Artistry</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-detailed-instructions-maximizing-mobizen-record-functionality/"><u>[New] Detailed Instructions Maximizing Mobizen Record Functionality</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-pros-picks-the-best-11-soundstreamers-reviewed/"><u>[Updated] Pro's Picks The Best 11 Soundstreamers Reviewed</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tongue-treasures-selecting-superb-audio-to-text-applications/"><u>2024 Approved Tongue Treasures Selecting Superb Audio to Text Applications</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/bridging-mac-and-monetization-imovie-editing-to-youtube-success/"><u>Bridging Mac & Monetization IMovie Editing to YouTube Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/common-error-overcoming-valheims-unresponsive-boot/"><u>Common Error: Overcoming Valheim's Unresponsive Boot</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-quest-awaits-troubleshoot-baldurs-gate-freezing-and-stuttering-with-these-6-essential-fixes/"><u>Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-pro-mac-photography-discovering-the-best-5-screen-shots-ways/"><u>In 2024, Pro Mac Photography Discovering the Best 5 Screen Shots Ways</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-escape-from-tarkovs-anticheat-disconnect-error/"><u>Resolving Escape From Tarkov's 'Anticheat Disconnect Error'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-your-2024-phasmophobia-crash-concerns-comprehensive-guide/"><u>Resolving Your 2024 Phasmophobia Crash Concerns - Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-company-using-chatgpt-8-key-methods/"><u>Revolutionize Your Company Using ChatGPT - 8 Key Methods</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/unlocking-the-secrets-to-outstanding-documentary-storytelling/"><u>Unlocking the Secrets to Outstanding Documentary Storytelling</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/515-price-on-hp-victus-15-for-gamers-during-anti-prime-day-at-best-buy-latest-deal-alert-digital-trends/"><u>$515 Price on HP Victus 15 for Gamers During Anti-Prime Day at Best Buy – Latest Deal Alert | Digital Trends</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieving-eternal-prosperity-navigating-the-depths-of-like-a-dragon-for-pc-gamers/"><u>Achieving Eternal Prosperity: Navigating the Depths of Like a Dragon for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-now-delivers-smoother-frame-rates-performance-boosted/"><u>Cyberpunk 2077 Now Delivers Smoother Frame Rates - Performance Boosted</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/elevate-digital-communication-using-manycam-the-ultimate-tool-for-virtual-webcams-and-video-conferencing-solutions/"><u>Elevate Digital Communication Using ManyCam - The Ultimate Tool for Virtual Webcams and Video Conferencing Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-cod-vanguard-e0x00001338-expert-solutions-for-your-pc-game-crashes/"><u>Fixing COD Vanguard E0x00001338: Expert Solutions for Your PC Game Crashes</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-google-pixel-8-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Google Pixel 8 lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-lava-agni-2-5g-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-ace-windows-10-tricks-to-save-time-and-energy/"><u>In 2024, Ace Windows 10 Tricks to Save Time & Energy</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/perfect-planning-how-to-schedule-your-online-teams-virtual-gatherings-google/"><u>Perfect Planning How to Schedule Your Online Team's Virtual Gatherings (Google)</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-accessible-stopwatches/"><u>Premier Accessible Stopwatches</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-of-constant-loading-screens-in-madden-22-a-comprehensive-guide/"><u>Solving the Issue of Constant Loading Screens in Madden 22 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-issues-with-civilization-vi-on-windows-10/"><u>Troubleshooting Guide: Fixing Launch Issues with Civilization VI on Windows 10</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unifying-recurring-subject-images-into-one-album-for-easy-access-on-iphone-or-mac/"><u>Unifying Recurring Subject Images Into One Album for Easy Access on iPhone or Mac</u></a></li>
 </ul></div>
 

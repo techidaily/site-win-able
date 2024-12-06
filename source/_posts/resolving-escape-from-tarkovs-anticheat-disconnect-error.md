@@ -1,7 +1,7 @@
 ---
 title: Resolving Escape From Tarkov's 'Anticheat Disconnect Error'
-date: 2024-11-24T22:58:52.698Z
-updated: 2024-11-26T16:39:16.462Z
+date: 2024-11-29T17:16:49.700Z
+updated: 2024-12-06T16:49:53.523Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 3. **[Switch DirectX versions](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Check if your PC meets the system requirements for Anno 1800](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on Anno 1800 is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -46,12 +50,16 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -61,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Install the latest game patch
 
  The developers of Anno 1800, Unisoft, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **[Ubisoft official website](https://www.ubisoft.com/en-us/)**  , check for the latest patch, download and install it. Then check if it fixes the Anno 1800 game crash problem.
@@ -68,10 +80,6 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
  If there is no patches available, or the patch fails to address the problem, then please try **Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Switch DirectX versions
 
@@ -87,19 +95,15 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
 
  2) Check out your **DirectX version** in the first page of the report.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
 
@@ -123,14 +127,10 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2) Open the engine.ini file.
@@ -199,24 +199,18 @@ thumbnail: https://thmb.techidaily.com/97b5d85adaa70d7cf066a732f43c0486f51d36a4b
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-enhancing-your-video-conferencing-essential-tips-for-using-zoom-in-win10-for-2024/"><u>[New] Enhancing Your Video Conferencing Essential Tips for Using Zoom in Win10 for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-conquer-the-metaverse-top-7-devices-that-matter/"><u>[New] In 2024, Conquer the Metaverse Top 7 Devices That Matter</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722982180885-solved-marvels-avengers-crashing-on-pc/"><u>[SOLVED] Marvel’s Avengers Crashing on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/avoid-unexpected-shutdowns-in-windows-11-pro/"><u>Avoid Unexpected Shutdowns in Windows 11 Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-interrupted-steam-installation-processes/"><u>Expert Tips on Fixing Interrupted Steam Installation Processes</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/future-gaming-experiences-on-psvr2-all-announced-titles-and-details/"><u>Future Gaming Experiences on PSVR2: All Announced Titles and Details</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-y100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo Y100 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-initial-darkness-solving-elden-rings-boot-up-blackout/"><u>How to Overcome the Initial Darkness - Solving Elden Ring's Boot-Up Blackout</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-mobiles-for-crafting-perfect-dji-videos/"><u>In 2024, Advanced Mobiles for Crafting Perfect DJi Videos</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/iphone-2023-reveal-anticipated-features-pricing-launch-timeline-and-latest-buzz/"><u>IPhone 2023 Reveal: Anticipated Features, Pricing, Launch Timeline & Latest Buzz</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ring-the-art-of-incorporating-youtube-in-slate-presentations/"><u>Mastering the Art of Incorporating YouTube in Slate Presentations</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-game-performance-fixing-cpu-overload-issues-in-phasmophobia/"><u>Optimizing Game Performance: Fixing Cpu Overload Issues in Phasmophobia</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/pro-tips-to-create-impactful-and-stunning-gopro-time-lapses-for-2024/"><u>Pro Tips to Create Impactful and Stunning GoPro Time-Lapses for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gaming-ending-maplestorys-freezes-and-crashes-on-windows-10/"><u>Seamless Gaming: Ending MapleStory's Freezes and Crashes on Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-hold-up-with-wolcens-release-unveiling-factors-behind-lords-of-mayhems-delayed-drop/"><u>The Hold-Up with Wolcen’s Release: Unveiling Factors Behind Lords of Mayhem’s Delayed Drop</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-age-of-empires-4s-gaming-hiccups-for-a-smoother-playthrough/"><u>Troubleshooting Age of Empires 4'S Gaming Hiccups for a Smoother Playthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-in-valorant-v-essential-tips-and-solutions/"><u>Troubleshooting PC Crashes in 'Valorant V': Essential Tips & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steam-errors-installed-easy-anti-cheat-now-game-launches-successfully/"><u>Troubleshooting Steam Errors: Installed Easy Anti-Cheat, Now Game Launches Successfully</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-breakthrough-youtube-success-essential-tips-from-creator-studio-guide-for-2024/"><u>[Updated] Breakthrough YouTube Success Essential Tips From Creator Studio Guide for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/(year)s-ultimate-guide-to-mastering-affiliate-marketing-with-movavi-mentions-a-ranked-list-of-proven-tips/"><u><Year>'s Ultimate Guide to Mastering Affiliate Marketing with Movavi Mentions: A Ranked List of Proven Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/bioshock-2-performance-boost-tips-and-solutions-for-handling-crashes-and-enjoying-the-full-experience/"><u>BioShock 2 Performance Boost - Tips & Solutions for Handling Crashes and Enjoying the Full Experience</u></a></li>
+<li><a href="https://win-premium.techidaily.com/convert-files-to-wmv-format-free-online-converter-by-movavi/"><u>Convert Files to WMV Format Free - Online Converter by Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013240994-dayz-stability-solutions-effortless-ways-to-stop-the-crashes/"><u>DayZ Stability Solutions: Effortless Ways to Stop the Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-grounded-game-crashes-on-pc-essential-troubleshooting-guides/"><u>Fix the 'Grounded' Game Crashes on PC : Essential Troubleshooting Guides</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-14-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 14?</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/hulu-stream-trouble-heres-how-to-resolve-error-code-rununk1-3-easily/"><u>Hulu Stream Trouble? Here’s How to Resolve ERROR Code: RUNUNK1 3 Easily</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-vivo-t2-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Vivo T2 5G</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/maximize-your-hard-drive-capacity-with-simple-tricks-by-yl-experts/"><u>Maximize Your Hard Drive Capacity with Simple Tricks by YL Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-effective-solutions-for-euro-truck-simulator-2s-pc-crashes/"><u>Optimizing Gameplay: Effective Solutions for Euro Truck Simulator 2'S PC Crashes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-quintessential-collection-of-anime-intros/"><u>The Quintessential Collection of Anime Intros</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-guide-for-virtual-reality-content-android-friendly-for-2024/"><u>The Ultimate Guide for Virtual Reality Content (Android-Friendly) for 2024</u></a></li>
 </ul></div>
 

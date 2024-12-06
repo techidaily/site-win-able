@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide"
-date: 2024-08-28T05:23:01.315Z
-updated: 2024-08-29T05:23:01.315Z
+date: 2024-12-02T16:23:15.544Z
+updated: 2024-12-06T16:01:43.402Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/188c04f255d93e67211a2465a27faabcbf2c001ac
 ---
 
 ## Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -30,10 +34,6 @@ thumbnail: https://thmb.techidaily.com/188c04f255d93e67211a2465a27faabcbf2c001ac
 * You can keep your cells and [columns the size you want](https://easy-unlock-android.techidaily.com/in-2024-unlock-your-realme-11-5g-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/) without sacrificing appearance by making them larger to fit the text.
 * If you adjust the cell size after you shrink the text, that text will adjust its size to fit the cell.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ##  How to Shrink Text in Excel on Windows
 
  In Excel on Windows, select one or more cells containing the text you want to shrink. Go to the Home tab and click the arrow in the bottom right corner of the Alignment section of the ribbon.
@@ -41,27 +41,27 @@ The ultimate burning program for all your needs!</a>
 ![Selected cells and Alignment arrow in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/HomeAlignmentWindows-ExcelShrinkTextFitCell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Check the box for Shrink to Fit in the Text Control section of the window and click "OK."
 
 ![Shrink to Fit box checked](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/ShrinkToFitWindows-ExcelShrinkTextFitCell.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You'll then see your change with the text sized to fit within the cell.
 
 ![Text fits within the cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FitWindows-ExcelShrinkTextFitCell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you change your mind later and want to undo the shrink you applied, simply follow the same steps above and uncheck the Shrink to Fit box.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Shrink Text in Excel on Mac
 
  In Excel on Mac, select one or more cells containing the text you want to shrink. Go to the Home tab and click the arrow next to the Wrap Text button in the Alignment section of the ribbon. Choose "Shrink Text to Fit."
@@ -73,9 +73,9 @@ The ultimate burning program for all your needs!</a>
 ![Text fits within the cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/07/FitMac-ExcelShrinkTextFitCell.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to return the text to its original size, follow the same steps as above and select "Shrink Text to Fit" to remove the checkmark.
 
  For an easy, time-saving way to make text fit perfectly inside a cell, remember this shrink text feature in Excel. You're then free to [add as much text as you want](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/) without fear of breaking your spreadsheet's look!
@@ -88,8 +88,6 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -97,4 +95,17 @@ Related: [How to Set Row Height and Column Width in Excel](https://easy-unlock-a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-insert-audio-files-into-powerpoint-sequences-for-2024/"><u>[New] Insert Audio Files Into PowerPoint Sequences for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-in-depth-motion-evaluation-2023/"><u>2024 Approved In-Depth Motion Evaluation 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-and-firefox-tips-solving-the-problem-of-stalled-video-but-ongoing-audio-on-youtube/"><u>Chrome & Firefox Tips: Solving the Problem of Stalled Video but Ongoing Audio on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-disco-elysium-adventure-from-crashing-on-pc-a-comprehensive-guide/"><u>How to Stop Your Disco Elysium Adventure From Crashing on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-nokia-c12-plus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Nokia C12 Plus Easily?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/lol-gaming-on-air-top-3-recording-methods/"><u>LOL Gaming On Air Top 3 Recording Methods</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/mastering-adsense-on-youtube-a-beginners-guide/"><u>Mastering AdSense on YouTube A Beginner's Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-guide-solving-freezing-and-fps-dips-in-siftu-expert-advice/"><u>PC Gaming Guide: Solving Freezing and FPS Dips in SIFTU – Expert Advice</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-best-live-streaming-apps-list-for-youtube-content-creators-iosandroid/"><u>The Best Live Streaming Apps List for YouTube Content Creators (iOS/Android)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-overcoming-error-code-0xc0000005/"><u>Troubleshooting Black Ops Cold War: Overcoming Error Code 0Xc0000005</u></a></li>
+</ul></div>
 

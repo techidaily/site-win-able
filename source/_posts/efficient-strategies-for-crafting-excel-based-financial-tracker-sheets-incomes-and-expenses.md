@@ -1,7 +1,7 @@
 ---
 title: "Efficient Strategies for Crafting Excel-Based Financial Tracker Sheets: Incomes & Expenses"
-date: 2024-08-28T05:23:25.105Z
-updated: 2024-08-29T05:23:25.105Z
+date: 2024-12-03T16:40:29.979Z
+updated: 2024-12-06T16:11:13.637Z
 tags:
   - excel
 categories:
@@ -33,8 +33,9 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
  This sample data is a guide. Enter the information in a way that is meaningful to you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Format the List as a Table
 
  Formatting the range as a table will make it easier to perform calculations and control the formatting.
@@ -57,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![The table styles gallery on the Ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/table-styles-gallery.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  This will expand the gallery with a list of styles to choose from.
 
  You can also create your own style or clear the current style by clicking the "Clear" button.
@@ -67,11 +65,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![Clear a table style](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/clear-table-style-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Name the Table
 
  We will give the table a name to make it easier to refer to in formulas and other Excel features.
@@ -81,8 +81,9 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![Naming an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/table-name.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Add Totals for the Income and Expenses
 
  Having your data formatted as a table makes it simple to add total rows for your income and expenses.
@@ -91,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![Total row checkbox on the ribbon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/total-row-ribbon-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  A total row is added to the bottom of the table. By default, it will perform a calculation on the last column.
 
  In my table, the last column is the expense column, so those values are totaled.
@@ -102,9 +100,6 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![Adding a total row to the table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/adding-total-row.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
  There are now totals for the income and the expenses.
 
  When you have a new income or expense to add, click and drag the blue resize handle in the bottom-right corner of the table.
@@ -117,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![Row for new expense and income data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/new-row-for-data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Summarize the Income and Expenses by Month
 
  It is important to keep totals of how much money is coming into your account and how much you are spending. However, it is more useful to see these totals grouped by month and to see how much you spend in different expense categories or on different types of expenses.
@@ -128,15 +127,13 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 ![Summarise with a PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/summarise-with-pivottable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Create PivotTable window will show the table as the data to use and will place the PivotTable on a new worksheet. Click the "OK" button.
 
 ![Create a PivotTable in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/create-pivottable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  The PivotTable appears on the left, and a Field List appears on the right.
 
  This is a quick demo to summarise your expense and income easily with a PivotTable. If you are new to PivotTables, check out [this in-depth article](https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-huawei-nova-y71-drfone-by-drfone-virtual-android/).
@@ -147,9 +144,17 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![Dragging fields to create a PivotTable](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/first-pivottable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The "Date" field is automatically grouped into months. The "In" and "Out" fields are summed.
 
 ![Income and expenses grouped by month](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/by-month.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In a second PivotTable, you can view a summary of your expenses by category.
 
@@ -161,22 +166,21 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
 
 ![second PivotTable summarising expenses by category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/second-pivottable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Update the Income and Expenses PivotTables
 
  When new rows are added to the income and expenses table, select the "Data" tab, click the "Refresh All" arrow, and then choose "Refresh All" to update both PivotTables.
 
 ![Refresh all PivotTables](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/refresh.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -185,4 +189,20 @@ thumbnail: https://thmb.techidaily.com/8e48b2813408b75482794fbb8e9c7fd16cd8c115a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-choosing-a-premium-portable-vlog-camera/"><u>[New] The Ultimate Guide to Choosing a Premium Portable Vlog Camera</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-from-chatterboxes-to-chronicles-mastering-the-art-of-skype-recording/"><u>[Updated] 2024 Approved From Chatterboxes to Chronicles Mastering the Art of Skype Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/disco-elysium-stability-patch-released-now-running-without-glitches-on-pc/"><u>Disco Elysium Stability Patch Released: Now Running Without Glitches on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-discord-screen-share-fixing-no-audio-output-problem/"><u>Effective Solutions for Discord Screen Share - Fixing No Audio Output Problem</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/effortless-installation-and-fun-with-ifunnys-memes-for-2024/"><u>Effortless Installation & Fun with iFunny's Memes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-microsoft-outlook/"><u>How to Fix: Persistent Crashes in Microsoft Outlook</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor 90 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-audio-recording-download-the-latest-focusrite-scarlett-18i20-windows-sound-drivers/"><u>Improve Audio Recording: Download the Latest Focusrite Scarlett 18I20 Windows Sound Drivers</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-13-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 13 to Samsung | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-fixing-persistent-crashes-in-diablo-immortal-for-pc-guide/"><u>Mastering Stability: Fixing Persistent Crashes in Diablo Immortal for PC (Guide)</u></a></li>
+<li><a href="https://driver-error.techidaily.com/1721104816682-reunion-rocks-all-wacom-devices-connected/"><u>Reunion Rocks: All Wacom Devices Connected!</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-the-potential-in-depth-review-of-highpoints-rocket-1608a-card-upgraded-storage-superior-power/"><u>Unveiling the Potential: In-Depth Review of HighPoint's Rocket 1608A Card - Upgraded Storage, Superior Power</u></a></li>
+</ul></div>
 

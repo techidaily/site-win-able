@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-11-25T01:05:44.304Z
-updated: 2024-11-26T17:46:30.551Z
+date: 2024-12-05T17:13:00.282Z
+updated: 2024-12-06T17:02:42.919Z
 tags:
   - win11
   - win10
@@ -67,10 +67,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -89,7 +85,7 @@ If this method doesn’t help, check out your graphics driver.
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
@@ -98,10 +94,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -112,17 +112,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
- Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 ### Fix 5 – Turn off overlays
 
@@ -134,10 +130,14 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **On GeForce Experience**
@@ -172,14 +172,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-crafting-memes-that-stand-out-the-9gag-way-for-2024/"><u>[New] Crafting Memes that Stand Out The 9GAG Way for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-direct-from-instagram-masterful-techniques-for-igtv-video-transferring/"><u>[Updated] 2024 Approved Direct From Instagram Masterful Techniques for IGTV Video Transferring</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-terrariums-topography-selecting-prime-maps/"><u>2024 Approved Terrarium's Topography Selecting Prime Maps</u></a></li>
-<li><a href="https://win-able.techidaily.com/directx-complications-heres-what-you-need-to-know-about-correcting-them-for-fifa-nineteen-twenty/"><u>DirectX Complications? Here’s What You Need to Know About Correcting Them for FIFA Nineteen Twenty</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-disconnection-how-to-detach-a-microsoft-account-from-windows-10-in-minutes/"><u>Effortless Disconnection: How To Detach a Microsoft Account From Windows 10 in Minutes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-constant-crashes-of-the-ascent-game-on-windowsmacos-systems/"><u>How To Fix The Constant Crashes Of The Ascent Game On Windows/MacOS Systems?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-persistent-stalling-issues-in-age-of-wonders-planetfall-for-windows-users/"><u>Solving Persistent Stalling Issues in 'Age of Wonders: Planetfall' For Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-lost-ark-startup-failures/"><u>Troubleshooting Guide: Resolving Lost Ark Startup Failures</u></a></li>
-<li><a href="https://win11.techidaily.com/upgrade-windows-system-craft-a-distributed-transcoding-powerhouse-with-tdarr/"><u>Upgrade Windows System: Craft a Distributed Transcoding Powerhouse with Tdarr</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-youtube-streams-to-local-files-audio-guide-for-2024/"><u>[New] From YouTube Streams to Local Files Audio Guide for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-visual-wit-iphone-memetic-formats-for-2024/"><u>[New] Visual Wit IPhone Memetic Formats for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-the-executive-mind-how-neuroscience-can-inform-better-management-strategies/"><u>[Updated] 2024 Approved The Executive Mind How Neuroscience Can Inform Better Management Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-crafting-atmospheres-with-cinematic-hues/"><u>[Updated] Crafting Atmospheres with Cinematic Hues</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-frame-rate-reductions-insights-into-fortnites-season-8-performance-tweaks/"><u>Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-enhance-rainbow-six-siege-playability-and-reduce-lag/"><u>Effective Solutions to Enhance Rainbow Six Siege Playability & Reduce Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-preventing-and-repairing-game-instability-for-slime-rancher-2-on-pc/"><u>Expert Guide: Preventing and Repairing Game Instability for Slime Rancher 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-fixes-how-to-speed-up-your-sluggish-chrome-browser-instantly/"><u>Fast Fixes: How to Speed Up Your Sluggish Chrome Browser Instantly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-when-the-elder-scrolls-online-wont-start-properly/"><u>How to Fix When 'The Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones/"><u>In 2024, 3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/raspberry-pi-reveals-plans-for-ipo-on-the-london-stock-exchange/"><u>Raspberry Pi Reveals Plans for IPO on the London Stock Exchange</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-problems-with-star-wars-the-old-republic-swtor/"><u>Resolving Launch Problems with Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-path-to-smooth-transitions-in-inshot-editing-for-2024/"><u>The Path to Smooth Transitions in Inshot Editing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-persistent-crashes-of-black-desert-on-your-computer/"><u>Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/ultimate-guide-resolving-maplestory-issues-on-windows-11-tips/"><u>Ultimate Guide: Resolving MapleStory Issues on Windows 11 - Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-startup-problems-resolved-enjoy-uninterrupted-gaming/"><u>Warframe Startup Problems Resolved - Enjoy Uninterrupted Gaming</u></a></li>
 </ul></div>
 

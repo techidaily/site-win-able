@@ -1,7 +1,7 @@
 ---
 title: Quick Tricks to Prevent and Repair League of Legends Crashes Easily
-date: 2024-08-28T05:28:25.394Z
-updated: 2024-08-29T05:28:25.394Z
+date: 2024-12-03T17:00:37.430Z
+updated: 2024-12-06T17:00:43.487Z
 tags:
   - win11
   - win10
@@ -60,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -88,13 +92,14 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -103,12 +108,13 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -116,9 +122,6 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -137,9 +140,6 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -155,15 +155,17 @@ thumbnail: https://thmb.techidaily.com/cd1e0583a3f82954a7a1df94033dc0576cc47353e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-blur-out-not-into-discovering-photo-clarity-web-tools/"><u>[New] Blur Out, Not Into! Discovering Photo Clarity Web Tools</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-instagram-videos-wandering-why-angles-change/"><u>[New] In 2024, Instagram Videos Wandering - Why Angles Change?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-enhancing-collaboration-slack-melded-with-filmoras-video-capabilities/"><u>[Updated] 2024 Approved Enhancing Collaboration Slack Melded With Filmora’s Video Capabilities</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-15-pro-max-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock On Apple iPhone 15 Pro Max Online</u></a></li>
+<li><a href="https://media-tips.techidaily.com/editing-iphones-voice-memo-files-a-comprehensive-guide-with-inbuilt-and-external-software/"><u>Editing iPhone's Voice Memo Files: A Comprehensive Guide with Inbuilt and External Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-overwatch-2-running-again-a-list-of-7-effective-fixes-release-glitches/"><u>Getting Overwatch 2 Running Again: A List of 7 Effective Fixes Release Glitches</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptzero-guide-detecting-synthetic-text-with-ease/"><u>GPTZero Guide: Detecting Synthetic Text with Ease</u></a></li>
+<li><a href="https://win-top.techidaily.com/hp-laptop-troubleshooting-how-to-fix-when-it-wont-start-up/"><u>HP Laptop Troubleshooting - How To Fix When It Won’t Start Up</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/"><u>In 2024, Discover the Power of a Different Voice Easy Alteration Guide for Free Fire Players (Free)</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-gameplay-improvement-update-graphics-driver-guide-and-resolve-outdated-issues/"><u>Minecraft Gameplay Improvement: Update Graphics Driver Guide & Resolve Outdated Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-skips-the-solution-for-halo-infinites-performance-glitches/"><u>No More Skips: The Solution for Halo Infinite's Performance Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-cyberpunk-2077-ignoring-graphics-card-on-windows-11/"><u>Solution: Cyberpunk 2077 Ignoring Graphics Card on Windows 11?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/solving-pdhdll-errors-comprehensive-guide-to-rectifying-missing-and-not-found-issues/"><u>Solving pdh.dll Errors: Comprehensive Guide to Rectifying 'Missing' And 'Not Found' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-pc-crash-problem-in-r-type-final-2-a-comprehensive-guide/"><u>Solving the PC Crash Problem in R-Type Final 2 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-training-interruptions-troubleshoot-last-epoch-failures-on-pc/"><u>Stop Training Interruptions: Troubleshoot Last Epoch Failures on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-the-disc-read-error-in-call-of-duty-warzone-version-50-and-31-on-pc-systems/"><u>Troubleshooting Steps: Fixing the 'Disc Read Error' In Call of Duty: Warzone Version [5.0] & [3.1] on PC Systems</u></a></li>
+</ul></div>
 

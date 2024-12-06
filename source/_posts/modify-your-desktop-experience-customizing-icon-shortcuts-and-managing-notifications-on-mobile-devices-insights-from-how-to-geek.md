@@ -1,7 +1,7 @@
 ---
 title: "Modify Your Desktop Experience: Customizing Icon Shortcuts & Managing Notifications on Mobile Devices - Insights From How-To Geek"
-date: 2024-08-28T05:23:49.273Z
-updated: 2024-08-29T05:23:49.273Z
+date: 2024-12-02T16:27:10.631Z
+updated: 2024-12-06T16:51:45.194Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ---
 
 ## Modify Your Desktop Experience: Customizing Icon Shortcuts & Managing Notifications on Mobile Devices - Insights From How-To Geek
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 ##  Distinguish Between Similar Documents with Unique Icons
 
 ![2011-08-01_153954](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_153954.jpg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > Dear How-To Geek,
 > 
@@ -36,9 +44,14 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
  We've done the same thing for some highly used but similarly named documents.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Replacing a Missing System Tray Icon![2011-08-01_160154](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2011/08/2011-08-01_160154.jpg "2011-08-01_160154") 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 > Dear How-To Geek,
 > 
@@ -52,16 +65,14 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
 
  Sometimes the system icons vanish in response to other variables on the computer. It's easy enough to get them back. Right click on your taskbar and click Properties. Then click the Taskbar tab in the menu that pops up. Halfway down the Taskbar options menu there is a Customize button in the Notification section. Click on that to toggle Notification Area icons on and off, including your missing volume icon.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Sharing Links with Your Smartphone
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/gg/up/sshot4d0efba212379.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 > Dear How-To Geek,
 > 
 > I find typing on my smartphone to be a real pain and the browser doesn't support bookmark syncing. How can I easily send bookmarks to my phone?
@@ -84,8 +95,6 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -93,4 +102,20 @@ thumbnail: https://thmb.techidaily.com/e73bb44e853b64ea13a3dc6d94705befdc354ca8d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-instant-video-visionary/"><u>[New] 2024 Approved Instant Video Visionary</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-gopros-hero5-up-against-yis-high-res-adventures/"><u>[New] GoPro's Hero5 Up Against Yi's High-Res Adventures</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won’t Open | Quickly & Easily</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-prime-sites-to-explore-glossy-golden-typography-designs/"><u>[Updated] Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-visual-wit-a-guide-to-making-memes-shine/"><u>2024 Approved Visual Wit A Guide to Making Memes Shine</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-zoom-compatibility-issues-with-new-updates-for-windows-1011-2024-edition/"><u>Expert Advice: Resolving Zoom Compatibility Issues with New Updates for Windows 10/11 - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-stability-improvements-for-risk-of-rain-2/"><u>Expert Guide: Stability Improvements for Risk of Rain 2</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-xr-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone XR Without iTunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-for-correcting-the-directdraw-error-in-windows-systems/"><u>Solution Tips for Correcting the DirectDraw Error in Windows Systems</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-registering-on-the-intelligent-bing-search-platform/"><u>Step-by-Step Guide: Registering on the Intelligent Bing Search Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-problems-on-the-platformer-game-avatar-frontiers-of-pandora/"><u>Troubleshooting Lag Problems on the Platformer Game - Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-ark-fixes-for-smoother-graphics-and-speed/"><u>Troubleshooting Lost Ark – Fixes for Smoother Graphics and Speed</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unleash-your-potential-with-the-budget-friendly-fitbit-inspire-3-at-99-a-top-choice-reviewed-by-zdnet/"><u>Unleash Your Potential with the Budget-Friendly Fitbit Inspire 3 at $99 – A Top Choice Reviewed by ZDNET</u></a></li>
+</ul></div>
 

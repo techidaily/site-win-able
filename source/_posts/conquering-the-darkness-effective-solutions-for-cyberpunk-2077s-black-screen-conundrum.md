@@ -1,7 +1,7 @@
 ---
 title: "Conquering the Darkness: Effective Solutions for Cyberpunk 2077'S Black Screen Conundrum"
-date: 2024-08-28T05:28:13.079Z
-updated: 2024-08-29T05:28:13.079Z
+date: 2024-12-05T16:19:31.377Z
+updated: 2024-12-06T16:11:46.034Z
 tags:
   - win11
   - win10
@@ -36,9 +36,17 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 2. Right-click each application in the list and click**End task** to close them one by one.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  If there’re no background programs consuming your CPU but the problem still exists, check out the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Turn off overlays
 
@@ -49,6 +57,11 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. Run the Steam client. Then, click**Steam** at the top left corner and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam1.jpg)
 2. Select the**In-Game** tab, untick**Enable the Steam Overlay while in-game** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam-2.jpg)
 
  Check if Cyberpunk 2077 high CPU usage is still there. If so, proceed to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -60,14 +73,8 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 3. Uncheck the box next to **In-Game Overlay** and click **Ok** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Adjust in-game graphics settings
 
  Many players suggested that lowering certain graphics options in Cyberpunk 2077 will mitigate the heavy CPU bottleneck. Follow the steps below to make some tweaks to see if that does the trick.
@@ -75,23 +82,27 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. Launch Cyberpunk 2077 and go to the**Settings** menu.  
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
 5. Scroll to**DLSS** and set it to**off** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
 
 ### Fix 4 – Change the power settings
@@ -101,29 +112,24 @@ No advertising on the website.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**control** in the field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Update your device drivers
 
  Cyberpunk 2077 high usage may occur if the device drivers on your PC are missing or out-of-date. If that’s your case, updating all the drivers could fix your issue.
@@ -138,9 +144,6 @@ There are two ways you can update the device drivers correctly:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1-1-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -160,8 +163,6 @@ There are two ways you can update the device drivers correctly:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +170,18 @@ There are two ways you can update the device drivers correctly:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-getting-the-most-out-of-your-youtube-videos-thumbnails-extraction/"><u>[New] 2024 Approved Getting the Most Out of Your Youtube Videos Thumbnails Extraction</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-perfect-discord-streams-tips-and-tricks/"><u>[New] Perfect Discord Streams Tips & Tricks</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-leveraging-zoom-for-high-quality-facebook-live-streams/"><u>[Updated] Leveraging Zoom for High-Quality Facebook LIVE Streams</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-madden-20-game-crashing-on-pc-a-comprehensive-guide/"><u>How to Fix Madden 20 Game Crashing on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/openai-insiders-quick-reference-guide/"><u>OpenAI Insider's Quick Reference Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/sculpting-softness-a-guide-to-quieter-mixes-with-fl-studio-for-2024/"><u>Sculpting Softness A Guide to Quieter Mixes with FL Studio for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-ubisoft-connect-proven-methods-for-faster-download-times/"><u>Speeding Up Ubisoft Connect: Proven Methods for Faster Download Times</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dota-2s-valve-anti-cheat-issues-for-players-in-2cuy-2022/"><u>Troubleshooting Dota 2'S Valve Anti-Cheat Issues for Players in 2Cuy 2022</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-creativity-8-powerful-dall-e-3-text-prompts-to-generate-astonishing-images/"><u>Unlock Creativity: 8 Powerful DALL-E 3 Text Prompts to Generate Astonishing Images</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-gaming-optimization-effective-techniques-to-resolve-low-fps-issues/"><u>Valheim Gaming Optimization: Effective Techniques to Resolve Low FPS Issues</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/8/"><u>예술적 검정착오를 방지하기 위한 8가지 비교와 분석에 도전하는 증명사진 핸들</u></a></li>
+</ul></div>
 

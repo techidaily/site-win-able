@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Reorganizing Your Spreadsheet - Moving Cells Up or Down in MS Excel"
-date: 2024-08-28T05:22:54.354Z
-updated: 2024-08-29T05:22:54.354Z
+date: 2024-11-29T16:51:50.317Z
+updated: 2024-12-06T16:23:17.534Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/a88de5655376206e2ee17661cb9dd03b46b68bf81
 ---
 
 ## Expert Guide: Reorganizing Your Spreadsheet - Moving Cells Up or Down in MS Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,36 +38,30 @@ Related: [How Do You Emulate Drag and Drop Without Holding the Mouse Button Down
 
 ![Select a column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/1-select-column.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Use your mouse or trackpad to bring the cursor to the border of the column. This turns your cursor into a four-arrow icon.
 
 ![Move the cursor to the column's border in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/2-column-border.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  While your cursor is a four-arrow icon, press and hold the Shift key on your keyboard. Then drag the column to its new location in your spreadsheet. Excel will place your column to the left of the column where you drop it.
 
 ![Drag a column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/3-move-column-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And that' it. Your selected column is now available at its new location.
 
 ![A moved column in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/4-column-moved-excel.png) 
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Move a Column With Cut and Paste
 
  Another way to move a column in your spreadsheet is by cutting and pasting the column.
@@ -80,16 +78,10 @@ Related: [How Do You Emulate Drag and Drop Without Holding the Mouse Button Down
 
 ![Right-click the destination column letter and select "Insert Cut Cells" in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/7-insert-cut-column.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Your original column will appear to the left of the selected column.
 
 ![A column moved with cut and paste in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/8-cut-column-inserted.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And that's how you move around your columns in your Excel spreadsheets!
 
  If you have data in one column that you want to be [split into multiple columns](https://tiktok-clips.techidaily.com/2024-approved-speeding-up-tiktok-videos-made-simple/), fixing that is easy!
@@ -97,8 +89,9 @@ Related: [How Do You Emulate Drag and Drop Without Holding the Mouse Button Down
 Related: [How to Make One Long Column into Multiple Columns in Excel](https://tiktok-clips.techidaily.com/2024-approved-speeding-up-tiktok-videos-made-simple/) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Move a Row in Excel
 
  Like with columns, you have a couple of ways to move rows in your spreadsheets. Use either drag and drop or cut and paste to move around your selected rows.
@@ -111,34 +104,26 @@ Related: [How to Make One Long Column into Multiple Columns in Excel](https://ti
 
 ![Click the row number in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/9-select-row.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hover your cursor over the selected row's borders, and your cursor will turn into a four-arrow icon.
 
 ![Bring the cursor around the row's border in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/10-row-border.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  While your cursor is still a four-arrow icon, press and hold the Shift key on your keyboard. Then drag the row to its new location.
 
 ![Drag a row in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/11-move-row-excel.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Your row is now placed at its new location.
 
 ![A row moved with drag and drop in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/12-row-moved-excel.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Move a Row With Cut and Paste
 
  If you don't prefer drag and drop, use the cut and paste method to move your rows.
@@ -156,8 +141,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![A row moved with cut and paste in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/15-cut-row-inserted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And you're all set.
 
  There are times when you want to move your data around in your spreadsheets. With Excel's quick and easy move options, you can quickly rearrange data in your various spreadsheets. Very useful!
@@ -174,8 +160,6 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +167,22 @@ Related: [How to Convert a Row to a Column in Excel the Easy Way](https://some-s
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-numbers-a-comprehensive-triad-strategy-for-monitoring-your-youtube-profitability/"><u>[New] In 2024, Navigating Numbers A Comprehensive Triad Strategy for Monitoring Your YouTube Profitability</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-sculpting-soundscapes-gradual-volume-reduction/"><u>2024 Approved Sculpting Soundscapes Gradual Volume Reduction</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/a-deep-dive-into-the-middle-of-the-road-marvels-avengers-film/"><u>A Deep Dive Into the Middle-of-the-Road Marvel's Avengers Film</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoiding-crashes-strategies-for-a-stable-sovled-warno-experience-on-pcs/"><u>Avoiding Crashes: Strategies for a Stable SOVLED Warno Experience on PCs</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/chatbots-and-code-risks-for-your-windows-11-access/"><u>Chatbots & Code Risks for Your Windows 11 Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/consider-keeping-a-food-diary-to-monitor-what-youre-eating-and-make-sure-its-nutritionally-balanced/"><u>Consider Keeping a Food Diary to Monitor What You're Eating and Make Sure It’s Nutritionally Balanced</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-it-fast-strategies-for-handling-sudden-crashes-in-your-gta-experience/"><u>Fix It Fast: Strategies for Handling Sudden Crashes in Your GTA Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-launch-your-adobe-software-after-fixing-the-crash-mistake-0xc0000022/"><u>How to Correctly Launch Your Adobe Software After Fixing the Crash (Mistake #0xC0000022)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-messages-on-infinix-note-30-vip-racing-edition-by-fonelab-android-recover-messages/"><u>How to restore wiped messages on Infinix Note 30 VIP Racing Edition</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-oppo-find-x6-drfone-by-drfone-virtual/"><u>In 2024, 9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Oppo Find X6 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-gmail-password-on-motorola-moto-g23-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Motorola Moto G23 Devices</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209739650-9781547574605-liderazgo-mejorar-la-comunicacion-en-los-negocios-e-influir-facilmente-en-los-miembros-del-equipo-para-lograr-el-exito/"><u>Liderazgo : Mejorar La Comunicación En Los Negocios E Influir Fácilmente En Los Miembros Del Equipo Para Lograr El Éxito | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-friendly-guide-ensuring-a-smooth-experience-in-tiny-tinas-wonderlands-without-crashes/"><u>PC-Friendly Guide: Ensuring a Smooth Experience in Tiny Tina's Wonderlands Without Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-rectify-the-situation-where-microsoft-outlook-wont-start-up-properly/"><u>Steps to Rectify the Situation Where Microsoft Outlook Won't Start Up Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/survive-and-thrive-proven-techniques-for-optimizing-fallout-76-gameplay-fps-on-latest-hardware/"><u>Survive and Thrive: Proven Techniques for Optimizing Fallout 76 Gameplay FPS on Latest Hardware</u></a></li>
+</ul></div>
 

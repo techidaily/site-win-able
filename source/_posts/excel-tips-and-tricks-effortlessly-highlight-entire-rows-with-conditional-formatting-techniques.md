@@ -1,7 +1,7 @@
 ---
 title: "Excel Tips & Tricks: Effortlessly Highlight Entire Rows with Conditional Formatting Techniques"
-date: 2024-08-28T05:23:28.629Z
-updated: 2024-08-29T05:23:28.629Z
+date: 2024-12-03T16:07:16.229Z
+updated: 2024-12-06T16:45:17.402Z
 tags:
   - excel
 categories:
@@ -31,18 +31,12 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step Two: Format Your Table
 
  Now it's time to format your table, if you want. You can use Excel's "simple" formatting tools or take a more hands-on approach, but it's best only to format only those parts that won't be affected by conditional formatting. In our case, we can safely set a border for the table, as well as format the header line.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Step Three: Create The Conditional Formatting Rules
 
  Now we come to the meat and potatoes. As we said at the outset, if you've never used conditional formatting before, you should probably check out our [earlier primer on the subject](https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/) and once you've got that down, come back here. If you're already somewhat familiar with conditional formatting (or just adventurous), let's forge on.
@@ -52,15 +46,13 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the "Conditional Formatting Rules Manager" window, click the "New Rule" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  In the "New Formatting Rule" window, select the "Use a formula to determine which cells to format" option. This is the trickiest part. Your formula must evaluate to "True" for the rule to apply, and must be flexible enough so you could use it across your entire table later on. Here, we're using the formula:
 
 =$D4<1980
@@ -77,13 +69,18 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_6.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Format Cells" window, go through the tabs and tweak the settings until you get the look you want. In our example, we're just going to change the fill color to green on the "Fill" tab. When you're done applying your formatting, click the "OK" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back in the "New Formatting Rule" window, you can now see a preview of your cell. If you're happy with the way everything looks, click the "OK" button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_8.png) 
@@ -93,8 +90,9 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_9.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you have a working formula, it's time to apply it across the entire table. As you can see above, right now the formatting applies only to the cell we started off with. In the "Conditional Formatting Rules Manager" window (which should still be open), click the up arrow to the right of the "Applies To" field.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
@@ -108,11 +106,16 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Note that the "Applies to" field now contains a range of cells instead of just a single address. Click the "Apply" button again, and you should see the whole table formatted according to your rule. In our example, you can see that the whole rows that contain movies made before 1980 are filled with green.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/11/ecf_1.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  That's it! If you have more complex needs, you can create additional formulas. And, of course, you can make your formulas a whole lot more complex than the simple example we've used here. You can even use conditional formatting between different spreadsheets, so that cells or rows in one spreadsheet are formatted differently depending on the data in a whole different sheet. Play around with the techniques we've covered, and in no time you'll be creating intricate spreadsheets with data that pops right off the screen.
 
@@ -122,8 +125,6 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,24 @@ Related: [Using Conditional Cell Formatting in Excel 2007](https://android-pokem
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-the-ultimate-framework-perfecting-live-broadcasts-via-obs-and-zoom/"><u>[New] In 2024, The Ultimate Framework Perfecting Live Broadcasts via OBS & Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-ranchers-revelry-best-friendly-farming-titles-for-gathering-pals/"><u>[New] Ranchers' Revelry Best Friendly Farming Titles for Gathering Pals</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-apocalypse-playground-8-best-zombie-game-experiences-for-2024/"><u>[New] The Apocalypse Playground 8 Best Zombie Game Experiences for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-polarr-photo-editor-demystified-in-depth-analysis/"><u>[Updated] Polarr Photo Editor Demystified In-Depth Analysis</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-directory-30plus-zero-cost-online-tools-for-visual-effects/"><u>2024 Approved The Ultimate Directory 30+ Zero-Cost Online Tools for Visual Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/8-ways-to-fix-hogwarts-legacy-crashing-on-startup-pc/"><u>8 Ways To Fix Hogwarts Legacy Crashing on Startup PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-lag-in-rainbow-six-siege-proven-techniques-and-advice/"><u>Beat Lag in Rainbow Six Siege: Proven Techniques and Advice</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-your-pcs-performance-now-download-geforce-drivers-from-nvidia-for-win11-and-win10/"><u>Enhance Your PC's Performance Now: Download GeForce Drivers From NVIDIA for Win11 & Win10</u></a></li>
+<li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-vivo-y78plus-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-master-these-5-tricks-to-get-your-game-running-smoothly/"><u>Hogwarts Legacy Won't Start? Master These 5 Tricks to Get Your Game Running Smoothly!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-mastering-the-art-of-engaging-facebook-video-ads/"><u>In 2024, Mastering the Art of Engaging Facebook Video Ads</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007879431-mastering-hitman-3-on-pc-avoid-crashes-and-enjoy-gaming-with-these-tips/"><u>Mastering Hitman 3 on PC - Avoid Crashes and Enjoy Gaming with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004178815-no-more-crashes-rapid-remedies-for-the-origin-application-issue/"><u>No More Crashes: Rapid Remedies for the 'Origin' Application Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-experience-fix-your-far-cry-cuisine-6-pc-game-crashes-now/"><u>Seamless Gaming Experience: Fix Your Far Cry Cuisine 6 PC Game Crashes Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-non-launching-dilemma-a-guide-to-getting-back-4-blood-up-and-running-on-windows/"><u>Solving the Non-Launching Dilemma: A Guide to Getting Back 4 Blood Up and Running on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-bugs-in-phasmophobia-updates-and-fixes-for-the-new-year/"><u>Troubleshooting Common Bugs in Phasmophobia: Updates and Fixes for the New Year</u></a></li>
+</ul></div>
 
