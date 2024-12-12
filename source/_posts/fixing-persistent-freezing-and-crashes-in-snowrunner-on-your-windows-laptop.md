@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-12-05T16:25:46.376Z
-updated: 2024-12-06T16:19:30.932Z
+date: 2024-12-09T16:09:05.156Z
+updated: 2024-12-12T16:15:26.187Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 
 Follow the steps below to fix the crashing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Check the requirements
 
  Make sure your PC has meet the minimum requirements of Yakuza 6: The Song of Life.
@@ -63,13 +67,17 @@ Follow the steps below to fix the crashing issue.
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
@@ -80,16 +88,20 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -100,23 +112,11 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -129,15 +129,11 @@ Restart your computer for the changes to take effect.
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
@@ -149,6 +145,10 @@ Restart your computer for the changes to take effect.
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -174,21 +174,16 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-sky-symphony-top-10-websites-presenting-dynamic-hdr-imagery/"><u>2024 Approved Sky Symphony - Top 10 Websites Presenting Dynamic HDR Imagery</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-ultimate-devices-for-home-and-office/"><u>2024 Approved Ultimate Devices for Home and Office</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-obstacle-a-detailed-walkthrough-to-clear-error-asterisk-genshin-impact-4201/"><u>Bypassing Obstacle: A Detailed Walkthrough to Clear Error Asterisk Genshin Impact (4201)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-meizu-21-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Meizu 21 Pro?</u></a></li>
-<li><a href="https://games-able.techidaily.com/discovering-new-gameplay-modes-on-ps5/"><u>Discovering New Gameplay Modes on PS5</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/dive-into-fun-snapchats-world-of-cartoon-lenses-for-2024/"><u>Dive Into Fun Snapchat's World of Cartoon Lenses for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004476276-end-your-battle-with-unstable-lunar-client-on-windows-learn-how-here/"><u>End Your Battle with Unstable Lunar Client on Windows - Learn How Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-mayhem-of-destiny-2-the-broccoli-crash-patch-released-in-april-2024/"><u>Mastering the Mayhem of Destiny 2: The Broccoli Crash Patch Released in April 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/no-audio-in-battlefield-4-troubleshooting-guide-and-solutions/"><u>No Audio in Battlefield 4? Troubleshooting Guide and Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-counter-strike-2-stuttering-and-freezing-with-these-key-fixes/"><u>Overcome Counter-Strike 2 Stuttering and Freezing with These Key Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-startup-problems-for-back-4-blood-game-on-windows-operating-systems/"><u>Resolving Startup Problems for Back 4 Blood Game on Windows Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-error-code-277-on-pc-2024-tips/"><u>Roblox Error Code 277 on PC – 2024 Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-rated-ipad-air-protectors-reviewed-your-ultimate-guide-by-tech-experts-at-zdnet/"><u>Top-Rated iPad Air Protectors Reviewed - Your Ultimate Guide by Tech Experts at ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nier-gestalt-crashes-on-pc/"><u>Troubleshooting and Solving NieR: Gestalt Crashes on PC</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/unclogging-operational-blockages-in-windows-inked-devices/"><u>Unclogging Operational Blockages in Windows Inked Devices</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-5-best-online-stop-motion-makers-on-2023-freeandpaid/"><u>Updated 2024 Approved 5 Best Online Stop Motion Makers on 2023 Free&Paid</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-selective-alarm-tones-optimal-websites-list/"><u>[New] 2024 Approved Selective Alarm Tones Optimal Websites List</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[New] In 2024, Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-issues-on-your-windows-computer/"><u>How to Fix World of Warcraft Not Starting Issues on Your Windows Computer</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-guidance-download-tamil-music-as-ringtone-and-how-to-cut-a-song-as-ringtone/"><u>In 2024, Guidance Download Tamil Music As Ringtone And How To Cut A Song As Ringtone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-increase-viewership-fairly-insights-for-video-marketers/"><u>In 2024, Increase Viewership Fairly Insights for Video Marketers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-camera-unavailable-obstacle-on-snapchat-a-step-by-step-guide/"><u>Overcoming 'Camera Unavailable' Obstacle on Snapchat – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-gaming-finals-helpful-hints-and-tips/"><u>Overcoming Launch Errors Gaming Finals: Helpful Hints and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-framerate-drop-and-lag-problems-in-battlefield-2042-pc-version/"><u>Resolved: Fixes for Framerate Drop & Lag Problems in Battlefield 2042 PC Version</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/seamless-teamwork-on-apple-pages-a-guide-to-icloud-integration-and-collaboration-techniques-as-featured-by-zdnet/"><u>Seamless Teamwork on Apple Pages: A Guide to iCloud Integration & Collaboration Techniques as Featured by ZDNET</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-professional-level-notes-via-chatgpt/"><u>The Ultimate Guide to Professional-Level Notes via ChatGPT</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/top-8-video-boosters-say-goodbye-to-slow-mo-for-2024/"><u>Top 8 Video Boosters Say Goodbye to Slow Mo for 2024</u></a></li>
 </ul></div>
 

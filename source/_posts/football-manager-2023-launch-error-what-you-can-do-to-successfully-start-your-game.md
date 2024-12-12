@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2023 Launch Error: What You Can Do to Successfully Start Your Game"
-date: 2024-08-27T20:47:30.607Z
-updated: 2024-08-28T20:47:30.607Z
+date: 2024-12-07T16:50:15.730Z
+updated: 2024-12-12T16:56:59.609Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1f190d8040197877fe9d91a786d037cb715f0068f
 ## Troubleshooting Tips for Football Manager 2023 That Won't Open: Solved
 
 Looking for Football Manager 2023 won’t launch fixes? You’ve come to the right place and this post is here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -37,8 +41,18 @@ Take Avast as an example:
 2. Click**Menu** on the top right of the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
@@ -46,9 +60,6 @@ Take Avast as an example:
 
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -73,17 +84,16 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  When the game file is broken or missing, the game won’t launch. If you’re playing FM21 on Steam, follow the steps to verity integrity of game files.
@@ -92,13 +102,11 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
@@ -111,9 +119,6 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
@@ -129,8 +134,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +141,26 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-next-gen-photography-unveiling-auto-and-smart-hdr-features-for-2024/"><u>[New] Next-Gen Photography Unveiling Auto and Smart HDR Features for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-storytelling-mastery-scriptwriting-secrets-revealed/"><u>[Updated] 2024 Approved Storytelling Mastery Scriptwriting Secrets Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-direct-lineup-for-iphone-images-flawless-snapchat-backup/"><u>[Updated] Direct Lineup for iPhone Images Flawless Snapchat Backup</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-first-steps-to-picture-perfection-demystifying-pixels-for-2024/"><u>[Updated] First Steps to Picture Perfection Demystifying Pixels for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-transformative-photos-lightroom-techniques-for-stunning-hdr/"><u>[Updated] In 2024, Transformative Photos Lightroom Techniques for Stunning HDR</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-guide-to-downloading-wi-fi-drivers-for-windows-7-operating-system/"><u>Effortless Guide to Downloading Wi-Fi Drivers for Windows 7 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-methods-to-correct-errors-in-microsoft-word-winwordexe/"><u>Effortless Methods to Correct Errors in Microsoft Word (WINWORD.EXE)</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-stop-microsoft-flight-simulator-2n-from-crashing-on-your-computer/"><u>Expert Tips to Stop Microsoft Flight Simulator 2N From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-cyberpunk-2n77-from-crashing-on-your-windows-pc-solutions-inside/"><u>How To Prevent Cyberpunk 2N77 From Crashing on Your Windows PC - Solutions Inside!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-galaxy-s24plus-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Galaxy S24+</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-from-gameplay-to-video-full-guide-on-ps4-with-obs/"><u>In 2024, From Gameplay to Video Full Guide on PS4 with OBS</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/inside-the-asus-rog-nuc-970-mini-pc-a-detailed-review-on-its-formidable-performance-and-portability/"><u>Inside the Asus ROG NUC 970 Mini PC: A Detailed Review on Its Formidable Performance and Portability</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-lag-in-fallout-4-optimize-and-overcome-pc-performance-hurdles/"><u>No More Lag in Fallout 4: Optimize & Overcome PC Performance Hurdles</u></a></li>
+<li><a href="https://win-able.techidaily.com/power-supply-issues-for-pc-an-inadequate-or-faulty-power-supply-unit-could-cause-the-computer-not-to-start-up-correctly-and-result-in-a-black-screen-checkin376/"><u>Power Supply Issues (for PC): An Inadequate or Faulty Power Supply Unit Could Cause the Computer Not to Start up Correctly and Result in a Black Screen. Checking Your PSU for Issues May Help</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993060502-resolved-fixing-the-notorious-black-screen-issue-in-cyberpunk-2077/"><u>Resolved: Fixing the Notorious Black Screen Issue in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-ensuring-smooth-valheim-startups-for-players/"><u>Resolved! Ensuring Smooth Valheim Startups for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-issues-with-gameplay-frames-per-second/"><u>Resolving Persistent Issues with Gameplay Frames Per Second</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-nwstoreexe-program-crash-effective-troubleshooting-steps/"><u>Resolving the NW_Store.exe Program Crash: Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://techidaily.com/top-iphone-6-plus-message-recovery-software-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Top iPhone 6 Plus Message Recovery Software | Stellar</u></a></li>
+</ul></div>
 

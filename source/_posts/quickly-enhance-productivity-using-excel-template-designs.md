@@ -1,7 +1,7 @@
 ---
 title: Quickly Enhance Productivity Using Excel Template Designs
-date: 2024-08-28T05:24:24.528Z
-updated: 2024-08-29T05:24:24.528Z
+date: 2024-12-06T16:47:01.835Z
+updated: 2024-12-12T16:41:12.139Z
 tags:
   - excel
 categories:
@@ -19,11 +19,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  An Excel theme is a collection of colors, fonts, and effects that you can apply to a workbook with a couple of clicks. Themes ensure a consistent and professional look to your reports, and they let you more easily adhere to company branding and identity guidelines.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Applying an Excel Theme
 
  You will find the themes under the "Page Layout" tab of Excel.
 
 ![Themes on the Page Layout tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/on-ribbon.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can select a theme for your workbook, which would apply the collection of colors, fonts, and shape effects.
 
@@ -43,6 +51,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
  This is great! But the ability to create a custom theme is where the magic is.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Create a Custom Color Theme
 
  Click on the "Colors" list in the Themes group and click "Customize Colors" from the bottom of the list.
@@ -57,6 +69,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Customise colours in a colour theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/customise-colours-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This color theme is then available from the list of options to apply to the workbook.
 
  The image below shows the theme applied and its impact on the charts and also to the cells behind the list.
@@ -64,17 +80,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Custom colour theme applied to a workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/custom-colour-theme-applied-1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The applied theme will also affect the options you get when applying colors in other areas of Excel. For example, you can see the color selection now available when applying fill color.
 
 ![Applying a fill colour from the theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/fill-colours.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The options are variations of the colors I selected in the Marketing theme.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ###  Create a Custom Font Theme
 
  Click the "Fonts" button and click "Customize Fonts."
@@ -82,8 +100,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 ![Create a new custom font theme](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/customise-fonts-theme.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Edit Theme Fonts window opens.
 
  Enter a name for your font theme and select the fonts you want to use for the "Heading font" and the "Body font" from the lists. Click "Save."
@@ -94,9 +113,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Font theme applied to a workbook](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/font-theme-applied.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ###  The Effects Theme
 
  The effects theme is a selection of shadows, reflections, lines, and other effects that can be applied to shapes.
@@ -105,12 +121,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Selection of effect themes](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/effects-theme.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ##  How to Save your Custom Theme
 
  With the custom color and font themes created and applied, they can be saved together into one theme.
@@ -127,22 +137,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019
 
 ![Saving the current theme to the templates folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/saving-the-theme.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  The theme can now be applied to any workbook from the "Themes" button.
 
 ![Selecting your custom theme from the gallery](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/06/new-theme-available.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you saved the theme somewhere else, and not in the templates folder, click "Browse for Themes" to locate it.
 
  With the click of a button, all the colors, fonts and effects are applied to the workbook. This can save hours of formatting time.
@@ -153,8 +155,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +162,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-physical-prowess-meets-online-opinions/"><u>[New] 2024 Approved Physical Prowess Meets Online Opinions</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-watchers-unveiling-who-sees-your-content-for-2024/"><u>[New] Instagram Watchers Unveiling Who Sees Your Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cultivating-a-loyal-fanbase-through-open-channels/"><u>[Updated] 2024 Approved Cultivating a Loyal Fanbase Through Open Channels</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-convert-srt-free-top-10-web-subtitle-services/"><u>2024 Approved Convert SRT Free Top 10 Web Subtitle Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-4-stability-guide-top-7-troubleshooting-tips-for-pc-ps5-and-xbox-users/"><u>Diablo 4 Stability Guide: Top 7 Troubleshooting Tips for PC, PS5, and Xbox Users</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1722894446253-discover-the-ultimate-list-the-7-best-imessage-games-for-2econdaries/"><u>Discover the Ultimate List: The 7 Best iMessage Games for 2Econdaries</u></a></li>
+<li><a href="https://win-hot.techidaily.com/discover-your-computers-graphics-card-a-step-by-step-guide-from-yl-computing/"><u>Discover Your Computer's Graphics Card: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/dont-miss-out-save-big-with-jackery-portable-power-station-discounts-of-up-to-40-this-cyber-monday-zdnet-insider-tips/"><u>Don't Miss Out: Save Big with Jackery Portable Power Station Discounts of Up to 40% This Cyber Monday - ZDNET Insider Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/download-this-flawless-updated-copy-of-football-manager-2020-say-goodbye-to-glitches/"><u>Download This Flawless, Updated Copy of Football Manager 2020 – Say Goodbye to Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-red-dead-online-game-crashes-on-your-pc/"><u>How to Prevent Red Dead Online Game Crashes on Your PC</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-15-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 15 Pro Max without Data Loss? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-audio-upheavals-top-rhythmic-disruptors-for-devices/"><u>In 2024, Audio Upheavals Top Rhythmic Disruptors for Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-gameplay-overcoming-lag-and-ping-problems-in-chivalry-2-with-fresh-tips/"><u>Mastering Smooth Gameplay: Overcoming Lag and Ping Problems in Chivalry 2 with Fresh Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-valorant-playtime-strategies-to-combat-latency-and-optimize-fps-performance/"><u>Maximizing Valorant Playtime: Strategies to Combat Latency and Optimize FPS Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-cannot-start-problem-in-resident-evil-village-game/"><u>Overcome Your 'Cannot Start' Problem in Resident Evil Village Game</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-infinix-hot-30-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Infinix Hot 30 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/rockstars-launcher-woes-expert-advice-to-get-your-game-started/"><u>Rockstar's Launcher Woes: Expert Advice to Get Your Game Started</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-correcting-final-examination-issue-tfla00ab345689/"><u>Step-by-Step Solutions for Correcting Final Examination Issue - TFLA00ab345689</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-persistent-game-freezes-with-high-fps-strategies/"><u>Ultimate Fix for Persistent Game Freezes with High FPS Strategies</u></a></li>
+</ul></div>
 

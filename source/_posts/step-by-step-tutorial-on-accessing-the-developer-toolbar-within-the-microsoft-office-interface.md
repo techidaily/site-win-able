@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial on Accessing the Developer Toolbar Within the Microsoft Office Interface
-date: 2024-08-28T05:24:07.245Z
-updated: 2024-08-29T05:24:07.245Z
+date: 2024-12-11T16:57:23.954Z
+updated: 2024-12-12T16:38:56.444Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ---
 
 ## Step-by-Step Tutorial on Accessing the Developer Toolbar Within the Microsoft Office Interface
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -34,8 +38,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  Once you add the Developer tab to the Ribbon, it will remain visible unless you clear the check box or reinstall a Microsoft Office program.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Add the Developer Tab to the Ribbon
 
  In this example, we'll demonstrate how to add the Developer tab to the Ribbon in Word. However, the steps are the same in Excel and PowerPoint. Note that you will have to enable the Developer tab in each app separately.
@@ -45,29 +50,29 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/dev-tab-pic1.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click "Options."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/dev-tab-pic2.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  In the Word Options dialog box, click "Customize the Ribbon" on the left side. On the far right list, under "Main Tabs," enable the "Developer" checkbox and then click "OK."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/dev-tab-pic3-v3.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Developer tab is then visible in the Ribbon.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/2019-01-02.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Developer tab is not context sensitive; it should stay visible no matter what you're doing in the app.
 
 <ins class="adsbygoogle"
@@ -76,8 +81,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +88,20 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-clicks-to-cash-elevating-exposure-economics-for-2024/"><u>[New] From Clicks to Cash Elevating Exposure Economics for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-stay-focused-with-smart-youtube-channel-management-for-pc-and-phones/"><u>[New] In 2024, Stay Focused with Smart Youtube Channel Management for PC and Phones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-innovative-approaches-to-capturing-skype-calls-on-obs/"><u>[Updated] Innovative Approaches to Capturing Skype Calls on OBS</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-perfecting-pics-with-practicality-top-5-pc-snipping-tools-for-2024/"><u>[Updated] Perfecting Pics with Practicality - Top 5 PC Snipping Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-cult-of-the-lamb-from-crashing-on-your-desktop-computer/"><u>Effective Solutions to Prevent Cult of the Lamb From Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-solving-elite-dangerous-pc-game-crashes/"><u>Fixing the Issue: Solving Elite Dangerous PC Game Crashes</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-eliminate-blur-in-zoom-calls-actionable-strategies/"><u>In 2024, Eliminate Blur in Zoom Calls – Actionable Strategies</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-nokia-c22-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Nokia C22 Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/protect-your-talking-secrets-the-top-3-bot-privacy-issues/"><u>Protect Your Talking Secrets: The Top 3 Bot Privacy Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-constant-freezing-in-ghostwire-tokyo-for-pc-users/"><u>Solution Guide: Overcoming Constant Freezing in Ghostwire: Tokyo for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-resolving-steamvr-error-message-e-308/"><u>Step-by-Step Tutorial on Resolving SteamVR Error Message 'E-308'</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-code-vein-from-crashing-discover-easy-ways-to-resolve-freezing-issues/"><u>Stop Code Vein From Crashing! Discover Easy Ways to Resolve Freezing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-strategies-for-boosting-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Strategies for Boosting FPS in 'Tainted Grail: Conquest'</u></a></li>
+</ul></div>
 

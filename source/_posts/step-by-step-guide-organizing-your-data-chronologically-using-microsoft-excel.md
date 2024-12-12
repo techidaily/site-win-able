@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Organizing Your Data Chronologically Using Microsoft Excel"
-date: 2024-08-28T05:24:02.444Z
-updated: 2024-08-29T05:24:02.444Z
+date: 2024-12-10T16:26:49.446Z
+updated: 2024-12-12T16:58:03.867Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/5d3200ea7acc8a267e33f7e3f6be29344352dcba6
 
 ![Unsorted dates in an Excel workbook.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Selected-Data.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  With your data selected, click the "Sort & Filter" button in the "Home" tab of the ribbon bar. This is where you go to [sort values in Excel](https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/) in various ways, including by date.
 
 Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/) 
@@ -42,6 +46,10 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![An example Excel data set, with data sorted by newest to oldest dates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-data-sorted-newest-to-oldest.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you're having problems, select only the column containing the dates and then click Home > Sort & Filter > Sort Oldest To Newest or Sort Newest To Oldest.
 
  Microsoft Excel will display a "Sort Warning" box, asking you whether you wish to sort the data around it (the rest of your data) to ensure that the overall data stays intact, otherwise only the date column will be sorted.
@@ -52,9 +60,6 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
  This will ensure that your entire data set is sorted in ascending or descending order, using the dates as the reference point.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ##  Sorting Dates by Month or Year
 
  It can sometimes be useful to organize data by specific months or years. You might, for instance, be looking to see how many birthdays fall in these groups.
@@ -82,8 +87,9 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 ![The MONTH and YEAR functions, shown in a Microsoft Excel worksheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Month-Year-Function.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To ensure that your
 
         `MONTH`
@@ -97,8 +103,9 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 ![To copy the data from a cell to fill a column, double-click the small, green square icon in the bottom-right corner of the cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Copy-Cell-Button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  With your
 
         `MONTH`
@@ -115,33 +122,23 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![To sort Excel data in ascending or descending order, click Sort &amp; Filter &gt; Sort Oldest to Newest or Sort Newest to Oldest](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Sort-and-Filter-Options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  You'll need to confirm that you want to use the entire data set, so make sure that "Expand The Selection" is highlighted and then click "Sort" in the "Sort Window" warning box.
 
 ![Sort Warning box Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Sort-Warning-Box.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the options you selected, Excel will immediately sort your data using the month or year column you created.
 
 ![An example Excel data set, sorted by month using a MONTH formula and the sort function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/06/Excel-Data-Sorted-by-Month.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -150,4 +147,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-melodic-instagram-reels-blending-music-voiceovers/"><u>[New] 2024 Approved Melodic Instagram Reels Blending Music, Voiceovers</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-minimovie-magician/"><u>[New] In 2024, MiniMovie Magician</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-introduction-to-dynamic-graphic-techniques/"><u>[New] Introduction to Dynamic Graphic Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-the-boundaries-of-true-black-on-asuss-professional-screen/"><u>[Updated] Exploring the Boundaries of True Black on ASUS's Professional Screen</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-sweet-slumber-scenes-video-critique-for-2024/"><u>[Updated] Sweet Slumber Scenes Video Critique for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012348891-discord-overlay-issues-fast-fixes-and-solutions/"><u>Discord Overlay Issues? - Fast Fixes and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-persistent-valheim-crashes-on-windowslinux-platforms/"><u>Expert Fixes for Persistent Valheim Crashes on Windows/Linux Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007636463-fix-wwe-2k22-continuously-crashes-while-playing-on-pc-solutions-inside/"><u>Fix: WWE 2K22 Continuously Crashes While Playing on PC – Solutions Inside!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-apple-iphone-14-plus-location-is-wrong-drfone-by-drfone-virtual-ios/"><u>How to Fix My Apple iPhone 14 Plus Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-harness-the-potential-of-ai-conversations-by-leveraging-quoras-poe-for-chatbot-access/"><u>How to Harness the Potential of AI Conversations by Leveraging Quora’s Poe for Chatbot Access</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-resolve-what-to-do-if-palworld-wont-launch-or-load/"><u>Immediate Resolve: What to Do if Palworld Won't Launch or Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013519721-oculus-link-not-functioning-here-are-6-fast-fixes-to-try/"><u>Oculus Link Not Functioning? Here Are 6 Fast Fixes to Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-in-los-santos-overcome-gta-5-stalling-and-crashing-problems/"><u>Smooth Sailing in Los Santos – Overcome GTA 5 Stalling & Crashing Problems</u></a></li>
+</ul></div>
 

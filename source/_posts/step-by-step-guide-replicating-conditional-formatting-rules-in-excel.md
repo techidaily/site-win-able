@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Replicating Conditional Formatting Rules in Excel"
-date: 2024-08-28T05:24:04.791Z
-updated: 2024-08-29T05:24:04.791Z
+date: 2024-12-05T16:44:41.466Z
+updated: 2024-12-12T16:49:30.862Z
 tags:
   - excel
 categories:
@@ -31,6 +31,10 @@ Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-gu
 
 ![Format Painter on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomeFormatPainter-ExcelCopyConditionalFormatting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see your cursor change to a plus sign with a paint brush. Select the cells you want to apply the same rule to, making sure to drag through adjacent cells.
 
 ![Using the Painter to copy the formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/UseFormatPainter-ExcelCopyConditionalFormatting.png) 
@@ -40,8 +44,13 @@ Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-gu
 ![Confirm the rule in the Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ConfirmFormatPainter-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Copy Formatting Using Paste Special
 
  The Paste Special options in Excel can do more than help you [add or multiply values](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). You can use the formatting paste action to apply conditional formatting too.
@@ -56,9 +65,6 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 
 ![Copy the formatted cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomeCopy-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  Select the cells that you want to apply the rule to by dragging through them. Then use the Paste Special action for formatting with one of the following.
 
 * Right-click and move to Paste Special > Other Paste Special Options and pick "Formatting."
@@ -68,15 +74,17 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![Paste Special Formatting option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomePasteSpecial-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see the formatting apply to your selected cells. Again, you can confirm that the rule copied and not just the formatting by viewing the Conditional Formatting Rules Manager.
 
 ![Confirm the rule in the Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ConfirmPasteSpecial-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Copy Formatting Using the Conditional Formatting Rules Manager
 
  The Conditional Formatting Rules Manager helps you [keep track of rules](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) you've set up in your sheet or workbook. It can also help you copy formatting by making a duplicate rule and then editing it slightly to fit other cells.
@@ -87,25 +95,10 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
 
 ![Manage Rules in the Conditional Formatting drop-down list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomeManageRules-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the Conditional Formatting Rules Manager opens, select "This Worksheet" in the drop-down box at the top. If the rule you want to duplicate is on a different sheet, you can select it from the drop-down list instead.
 
 ![Select a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/SelectSheet-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then, select the rule you want to copy at the bottom and click "Duplicate Rule."
 
 ![Duplicate the rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DuplicateRule-ExcelCopyConditionalFormatting.png) 
@@ -124,8 +117,6 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +124,24 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-e-education-video-logging/"><u>[New] E-Education Video Logging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-elite-hd-video-recorder-macpc-fullscreen/"><u>[New] In 2024, Elite HD Video Recorder MacPC Fullscreen</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-maximize-your-cam-flagship-gear-with-ease-for-2024/"><u>[Updated] Maximize Your Cam Flagship Gear with Ease for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-eliminating-in-game-input-delay-issues/"><u>Cyberpunk 2077 Resolved: Eliminating In-Game Input Delay Issues</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-current-amd-ryzen-graphics-card-drivers-for-optimal-performance/"><u>Download Current AMD Ryzen Graphics Card Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-stabilizing-your-pc-during-vr-gaming-sessions/"><u>Expert Tips for Stabilizing Your PC During VR Gaming Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013200651-fortnite-trouble-fix-load-failures-fast-with-these-simple-solutions/"><u>Fortnite Trouble? Fix Load Failures Fast with These Simple Solutions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/get-the-latest-handbrake-enhancements-with-libdvdcss-hbbatch-and-beast-download-now/"><u>Get the Latest Handbrake Enhancements with Libdvdcss, HBBatch and Beast - Download Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-frequent-halo-3-shutdowns-on-computer-systems/"><u>How to Prevent and Resolve Frequent Halo 3 Shutdowns on Computer Systems</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Tecno Spark 20 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/key-techniques-for-fixing-lethal-company-launch-failures-insights-for-202n4/"><u>Key Techniques for Fixing Lethal Company Launch Failures - Insights for 202N4</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-resolving-the-problems-preventing-sea-of-thieves-from-launching/"><u>Solution Found! Resolving the Problems Preventing Sea of Thieves From Launching</u></a></li>
+<li><a href="https://windows11.techidaily.com/streamlining-and-simplifying-docker-operations-on-windows/"><u>Streamlining and Simplifying Docker Operations on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-ii-crashing-problems-now-fixed/"><u>Total War: Warhammer II Crashing Problems - Now Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-logitech-g-hub-fails-to-start-in-windows/"><u>Troubleshooting Steps When Logitech G Hub Fails to Start in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-blackout-on-desktop-computers-proven-tips-to-restore-video-feed/"><u>Zoom Blackout on Desktop Computers? - Proven Tips to Restore Video Feed</u></a></li>
+</ul></div>
 

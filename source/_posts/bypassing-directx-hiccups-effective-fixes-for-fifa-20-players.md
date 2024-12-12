@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2024-12-01T16:58:14.938Z
-updated: 2024-12-06T17:14:56.330Z
+date: 2024-12-07T16:30:59.075Z
+updated: 2024-12-12T16:46:43.702Z
 tags:
   - win11
   - win10
@@ -35,10 +35,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -49,18 +45,14 @@ You can use these steps to scan and repair your game:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this doesn’t help, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -82,7 +74,7 @@ If this doesn’t help, check out the next fix below.
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Disable hardware monitors
@@ -93,6 +85,10 @@ If this doesn’t help, check out the next fix below.
 
  If you’re not running any monitors nor overclocking, simply check out the next tips below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Disable all overlays
 
  Overlays is a feature that allows you to record in-game achievements or interact with friends. Convenient as they may be, they could also affect game stability. In this case, you can try disabling all these overlays and see how things go.
@@ -100,10 +96,6 @@ If this doesn’t help, check out the next fix below.
 Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -114,6 +106,10 @@ Here’s how to disable VSync with NVIDIA graphics card:
 1. In the empty area of your desktop, right-click and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
@@ -130,6 +126,10 @@ Now you can launch Mass Effect and check if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -150,24 +150,24 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-android-and-iphone-collage-kings-the-best-montage-apps/"><u>[New] 2024 Approved Android & iPhone Collage Kings The Best Montage Apps</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-compre-written-by-daniel-kelley/"><u>[Updated] A Compre Written by Daniel Kelley</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-essential-list-top-9-multi-device-collaboration-apps-iosandroid-reviewed/"><u>2024 Approved Essential List Top 9 Multi-Device Collaboration Apps iOS/Android Reviewed</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-seamlessly-saving-and-showcasing-gifs-on-your-iphone-device/"><u>2024 Approved Seamlessly Saving and Showcasing GIFs on Your iPhone Device</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-top-popular-meme-ideas-for-every-occasion/"><u>2024 Approved Top Popular Meme Ideas for Every Occasion</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-can-we-unlock-our-realme-11-5g-phone-screen-by-drfone-android/"><u>How Can We Unlock Our Realme 11 5G Phone Screen?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-black-screen-2024-tips/"><u>How to Fix Warzone Black Screen – 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-discord-stream-malfunctions-preventing-the-platform-from-crashing-mid-stream/"><u>How to Resolve Discord Stream Malfunctions: Preventing the Platform From Crashing Mid-Stream</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edge-application-errors-on-windows-systems/"><u>How to Resolve Microsoft Edge Application Errors on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-solve-google-meets-camera-problem-a-complete-fix-guide/"><u>How to Successfully Solve Google Meet's Camera Problem - A Complete Fix Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-10plus-preferred-no-pay-webm-player-options/"><u>In 2024, 10+ Preferred No-Pay WebM Player Options</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-vivo-s17e-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Vivo S17e</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-oppo-reno-10-5g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Oppo Reno 10 5G Phone Network-Ready</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993990815-oculus-link-display-malfunction-correct-it-quickly-with-these-6-tips/"><u>Oculus Link Display Malfunction? Correct It Quickly with These 6 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-failed-initialization-issues-in-call-of-duty-black-ops-4-expert-advice/"><u>Resolving Failed Initialization Issues in Call of Duty: Black Ops 4 - Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-hell-let-loose-from-frequent-crashes-on-desktop/"><u>Troubleshooting Guide: How to Stop 'Hell Let Loose' From Frequent Crashes on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-the-deathloop-stuttering-issue-on-pc-and-playstation-5/"><u>Ultimate Troubleshooting Guide: Solving the Deathloop Stuttering Issue on PC and PlayStation 5</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Realme GT 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-master-the-art-of-yt-channel-creation-right-from-your-smartphone/"><u>[New] 2024 Approved Master the Art of YT Channel Creation, Right From Your Smartphone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-mastering-clear-sound-recording-without-mic-techniques/"><u>[Updated] 2024 Approved Mastering Clear Sound Recording Without Mic Techniques</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-enhancing-youtube-content-via-finalcut-pro-techniques-for-2024/"><u>[Updated] Enhancing YouTube Content via FinalCut Pro Techniques for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-art-of-accompanying-imagery-with-audio/"><u>2024 Approved The Art of Accompanying Imagery With Audio</u></a></li>
+<li><a href="https://blog-min.techidaily.com/mp3ogg-movavi/"><u>網路上免費MP3到OGG格式的轉換 - 利用Movavi音頻編輯工具</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-comprehensive-look-at-watch-dogs-legions-unique-setting-a-review/"><u>A Comprehensive Look at Watch Dogs: Legion's Unique Setting - A Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/ace-the-apocalypse-masterful-methods-to-fix-and-avoid-critical-ark-malfunctions/"><u>Ace the Apocalypse: Masterful Methods to Fix and Avoid Critical 'Ark' Malfunctions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/fehlerbehebung-fur-iphones-die-stecken-bleiben-im-apple-bootlogo/"><u>Fehlerbehebung Für iPhones, Die Stecken Bleiben Im Apple Bootlogo</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002684339-how-to-stop-stray-impact-game-from-crashing-on-your-pc-effective-fixes-revealed/"><u>How to Stop 'Stray: Impact' Game From Crashing on Your PC – Effective Fixes Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-network-stability-resolving-your-new-world-connections-issues/"><u>Mastering Network Stability: Resolving Your 'New World Connections Issues'</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-eos-authentication-hurdle-in-palworld-with-these-proven-fixes/"><u>Overcome the EOS Authentication Hurdle in Palworld with These Proven Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-relinking-issue-in-granblue-fantasy-a-comprehensive-guide/"><u>Solving the 'Relinking Issue' In Granblue Fantasy – A Comprehensive Guide</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-effective-strategies-to-recover-missing-msvcrtdll-file/"><u>Solving the Mystery: Effective Strategies to Recover Missing msvcrt.dll File</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/transforming-laptop-performance-the-revolutionary-apple-m1-powered-macbook-air-13-inch-2020-evaluation/"><u>Transforming Laptop Performance: The Revolutionary Apple M1-Powered MacBook Air 13-Inch (2020) Evaluation</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-corsair-icue-connectivity-problems-on-windows-11-pcs/"><u>Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-roblox-pc-error-code-277-essential-fixes-and-advice/"><u>Troubleshooting Roblox PC Error Code 277: Essential Fixes and Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-fifa-19-crashing-incidents-on-personal-computers/"><u>Ultimate Fixes for FIFA 19 Crashing Incidents on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-taskbar-issues-resolved-effective-solutions-for-common-problems/"><u>Windows 11 Taskbar Issues Resolved? Effective Solutions for Common Problems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp4-mpeg-movavi/"><u>인터넷을 통해 약값의 MP4 MPEG 전화기 - Movavi</u></a></li>
 </ul></div>
 

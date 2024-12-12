@@ -1,7 +1,7 @@
 ---
 title: "Mastering Microsoft Excel's Scenario Manager: A Step-by-Step Guide"
-date: 2024-08-28T05:24:22.226Z
-updated: 2024-08-29T05:24:22.226Z
+date: 2024-12-05T16:51:06.181Z
+updated: 2024-12-12T16:27:21.852Z
 tags:
   - excel
 categories:
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/86e7c4ea92c80232a2f22ec398fe1175bda0bfa79
 
  This can help you [forecast finances](https://youtube-docs.techidaily.com/-of-wisdom-youtube-tvs-unique-selling-points-for-2024/) or [make a decision based on the results](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/) of the Scenario Manager. For the best way to show how useful the tool can be, let's walk through an example.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Use the Scenario Manager in Excel
 
  For our example, we must decide between two different jobs. Job 1 has a lower salary but is closer to home which makes our fuel cost lower. Job 2 pays more but is further from home making our fuel cost higher. We want to see which job leaves us with more money at the end of the month.
@@ -32,6 +36,10 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
 
 ![Data for first scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/FinanceData-ExcelScenarioManager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Go to the Data tab, click the What-If Analysis drop-down arrow, and pick "Scenario Manager."
 
 ![What-If Analysis on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/DataWhatIfScenarioManager-ExcelScenarioManager.png) 
@@ -39,6 +47,10 @@ Related: [How to Change the Cell Reference Style in Excel](https://facebook-vide
  In the Scenario Manager window, click "Add" to include this first scenario.
 
 ![Add the first scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddScenario-ExcelScenarioManager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Give your scenario a name; we'll use Job 1.
 
@@ -66,9 +78,17 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
 ![Changing cells for a scenario](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/AddSecondScenarioCells-ExcelScenarioManager.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you have both scenarios set up and should see them in the Scenario Manager window.
 
 ![Two scenarios in the manager window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/BothScenarios-ExcelScenarioManager.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You already see the first scenario for Job 1 in the sheet since you initially entered those details. To see the second scenario, select it in the window and click "Show."
 
@@ -84,9 +104,6 @@ Related: [All the Best Microsoft Excel Keyboard Shortcuts](https://eaxpv-info.te
 
  When you land on the one you want to keep in your sheet, make sure it's displayed there and click "Close" in the Scenario Manager window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Notes on the Scenario Manager
 
  You can set up as many scenarios as you like and switch between them the same way. This is handy for comparing 3, 5, or 10 different numeric or [financial situations](https://driver-install.techidaily.com/update-pcs-graphics-capabilities-with-new-drivers/).
@@ -101,9 +118,6 @@ Related: [How to Use Microsoft's "Money in Excel" to Manage Your Finances](https
 
 ![Scenario Summary report](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/ScenarioSummary-ExcelScenarioManager.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can select a Scenario [PivotTable](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/) Report instead of a Summary Report if you like.
 
  Before you spend time swapping out values manually to [find the best solution](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) to your situation, be sure to check out the Scenario Manager in Excel. It truly makes comparisons a breeze!
@@ -116,8 +130,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +137,19 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-cutting-edge-strategies-for-mastering-full-screen-editing-in-premiere/"><u>[New] 2024 Approved Cutting-Edge Strategies for Mastering Full Screen Editing in Premiere</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-discover-the-power-of-youtube-editing-a-compre-written-in-code-the-intricacies-of-javascript-functions/"><u>[Updated] 2024 Approved Discover the Power of YouTube Editing A Compre Written in Code The Intricacies of JavaScript Functions</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012346879-call-of-duty-wwii-black-screen-woes-heres-how-to-resolve-it-on-windows/"><u>Call of Duty: WWII Black Screen Woes? Here's How to Resolve It on Windows.</u></a></li>
+<li><a href="https://win-able.techidaily.com/dirt-5-stability-issues-resolved-troubleshoot-pc-crashes-and-enjoy-racing-again/"><u>Dirt 5 Stability Issues Resolved – Troubleshoot PC Crashes & Enjoy Racing Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy A05? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-gameplay-stop-minecraft-dungeon-pcs-from-frequent-crashing-easy-tips-inside/"><u>Fix Your Gameplay: Stop Minecraft Dungeon PCs From Frequent Crashing – Easy Tips Inside!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-y78plus-by-drfone-android/"><u>Full Guide to Unlock Your Vivo Y78+</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-players-struggle-troubleshooting-modern-warfare-3-constant-crashes/"><u>PC Players Struggle: Troubleshooting Modern Warfare 3 Constant Crashes</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/schritt-fur-schritt-anleitung-zur-wiederherstellung-des-geloschten-browserverlaufs-bei-google/"><u>Schritt-Für-Schritt Anleitung Zur Wiederherstellung Des Gelöschten Browserverlaufs Bei Google</u></a></li>
+<li><a href="https://win11.techidaily.com/stealthy-settings-showcase-hiding-power-command-on-win11/"><u>Stealthy Settings Showcase: Hiding Power Command on Win11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-robot-vacuums-comprehensive-reviews-and-buying-guide-insights-from-industry-experts/"><u>Top-Rated Robot Vacuums: Comprehensive Reviews & Buying Guide - Insights From Industry Experts</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-the-potential-of-chatgpt-top-5-methods-to-engage-without-openai-membership/"><u>Unlocking the Potential of ChatGPT: Top 5 Methods to Engage without OpenAI Membership</u></a></li>
+</ul></div>
 

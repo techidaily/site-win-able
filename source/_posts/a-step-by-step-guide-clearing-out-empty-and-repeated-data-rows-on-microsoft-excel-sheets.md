@@ -1,7 +1,7 @@
 ---
 title: "A Step-by-Step Guide: Clearing Out Empty and Repeated Data Rows on Microsoft Excel Sheets"
-date: 2024-08-28T05:24:16.649Z
-updated: 2024-08-29T05:24:16.649Z
+date: 2024-12-11T16:37:53.378Z
+updated: 2024-12-12T16:46:11.927Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 ---
 
 ## A Step-by-Step Guide: Clearing Out Empty and Repeated Data Rows on Microsoft Excel Sheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -32,9 +36,17 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 
 ![Mark if your table has headers](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/RemoveDuplicatesHasHeaders-ExcelTable.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then, choose the columns that have the duplicate data you want to remove. By default, all table columns are marked. You can check specific columns by clicking "Unselect All" and then marking the individual columns. Or you can click "Select All" if you change your mind.
 
 ![Select the columns containing duplicates](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/RemoveDuplicatesSelectColumns-ExcelTable.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When you're ready, click "OK." You will not see the duplicates highlighted nor will you have any indication of what's been removed. But you will see the number of duplicates that were found and deleted.
 
@@ -44,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 
 ![Duplicates found and removed in an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/DuplicatesFoundRemoved-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  Remove Blank Rows in an Excel Table
 
  To [delete blank rows](https://youtube-lab.techidaily.com/ed-maximizing-profits-from-a-million-viewer-baseline-for-2024/) in your Excel table, you'll [use the filter feature](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/). Since tables can already have filter buttons in the headers, you don't have to take an extra step to enable filters.
@@ -57,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 
 ![Uncheck Select All and check Blanks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/FilterDeselectAllBlanks-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  If you do not see an option for Blanks in the filter settings, then you do not have any in that table column.
 
  Next, you'll see the table adjust to display only blank rows with the remaining data hidden from view. You can then delete the blank rows. You'll notice that the row headers are highlighted in blue, making them easier to see and select.
@@ -67,15 +73,13 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 ![Filtered blank rows in an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/FilteredBlankRows-ExcelTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select a blank row, right-click, and pick "Delete Row." You can do this for each blank row.
 
 ![Right-click and pick Delete Row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/DeleteBlankRow-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Do not drag through the blank rows to select and delete them. If you do this, that selection may include hidden rows that are not blank.
 
  Once you've removed the blank rows in your table, you can clear the filter. Click the filter button next to the column header again and select "Clear Filter From."
@@ -83,16 +87,13 @@ thumbnail: https://thmb.techidaily.com/144ba6c2b445ab473f613c1a9b64b4025f1536845
 ![Clear the filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/ClearFilterFromBlanks-ExcelTable.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your table back to its normal view and unfiltered with your blank rows gone.
 
 ![Blank rows found and removed in an Excel table](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/07/BlankRowsFoundRemoved-ExcelTable.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For advanced data analysis in Excel, consider [creating a pivot table](https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-honor-play-40c-drfone-by-drfone-virtual-android/).
 
 Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-savvy.techidaily.com/1723808302722-effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/)
@@ -103,8 +104,6 @@ Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-sa
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -112,4 +111,22 @@ Related: [How to Check If a Cell Is Blank With ISBLANK in Excel](https://tech-sa
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-discovering-your-lately-watched-fb-movies-made-simple/"><u>[New] 2024 Approved Discovering Your Lately Watched Fb Movies Made Simple</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-solitary-snaps-to-awe-inspiring-tiled-panoramas/"><u>[New] From Solitary Snaps to Awe-Inspiring Tiled Panoramas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>[Updated] 2024 Approved Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
+<li><a href="https://common-error.techidaily.com/bypassing-the-stop-error-in-hamachi-service-a-step-by-step-guide-to-restoration/"><u>Bypassing the Stop Error in Hamachi Service - A Step-by-Step Guide to Restoration</u></a></li>
+<li><a href="https://program-issues.techidaily.com/counter-strike-2-not-starting-heres-how-to-rectify-that/"><u>Counter-Strike 2 Not Starting? Here's How to Rectify That!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-keep-manor-lords-running-without-interruption-on-windows-machines/"><u>Expert Tips to Keep Manor Lords Running Without Interruption on Windows Machines</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-it-possible-for-chatgpt-to-create-a-secure-and-efficient-exercise-regimen-tailored-just-for-you/"><u>Is It Possible for ChatGPT to Create a Secure & Efficient Exercise Regimen Tailored Just For You?</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-stuttering-issues-in-sifu-on-pc-effective-solutions-inside/"><u>Overcome Stuttering Issues in Sifu on PC - Effective Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-in-counter-strike-2-tips-for-a-smoother-play/"><u>Overcoming Lag in Counter-Strike 2: Tips for a Smoother Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-to-address-long-waiting-periods-launching-the-force-unleashed-battlefront-ii-on-pc/"><u>Quick Fixes to Address Long Waiting Periods Launching The Force Unleashed: Battlefront II on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-problem-of-non-detectable-gpu-with-msi-afterburner-in-windows-1110/"><u>Resolving the Problem of Non-Detectable GPU with MSI Afterburner in Windows 11/10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionizing-yard-work-unveiling-the-most-entertaining-grass-trimming-experience-with-remote-controlled-lawn-mowers-featured-on-zdnet/"><u>Revolutionizing Yard Work: Unveiling the Most Entertaining Grass-Trimming Experience with Remote-Controlled Lawn Mowers, Featured on ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-destiny-2-issues-a-guide-to-overcoming-the-centipede-glitch/"><u>Solve Your Destiny 2 Issues: A Guide to Overcoming the Centipede Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-overcoming-startup-glitches-in-far-cry-6-gameplay-on-windows-platform/"><u>Successfully Overcoming Startup Glitches in Far Cry 6 Gameplay on Windows Platform</u></a></li>
+<li><a href="https://facebook.techidaily.com/uniting-the-masses-a-step-by-step-for-full-group-features-on-fb/"><u>Uniting the Masses: A Step-by-Step for Full Group Features on FB</u></a></li>
+</ul></div>
 

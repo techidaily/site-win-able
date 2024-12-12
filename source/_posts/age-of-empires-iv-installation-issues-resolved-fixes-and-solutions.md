@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-12-03T16:50:21.652Z
-updated: 2024-12-06T16:26:41.565Z
+date: 2024-12-08T16:21:54.910Z
+updated: 2024-12-12T16:49:19.874Z
 tags:
   - win11
   - win10
@@ -65,6 +65,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -87,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -96,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -109,15 +121,15 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -129,25 +141,13 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -168,7 +168,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
@@ -193,20 +193,16 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-seamless-online-gif-to-video-conversion-top-5/"><u>[New] 2024 Approved Seamless Online GIF to Video Conversion (Top 5)</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-to-bandicam-the-2023-comprehensive-overview-for-2024/"><u>[Updated] Ultimate Guide to Bandicam The 2023 Comprehensive Overview for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-infinix-smart-8-pro-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track Infinix Smart 8 Pro without App | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-disruption-during-matches-resolving-fm2019-game-crash-errors/"><u>Avoid Disruption During Matches: Resolving FM2019 Game Crash Errors</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/beatbox-your-way-up-the-ultimate-guide-for-top-10-music-vids/"><u>BeatBox Your Way Up The Ultimate Guide for Top 10 Music Vids</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-your-csgo-login-woes-5-effective-remedies-for-no-user-logon-error/"><u>Cure Your CSGO Login Woes: 5 Effective Remedies for ‘No User Logon’ Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/dayz-first-person-shooter-instant-fixes-for-drop-issues/"><u>DayZ First-Person Shooter: Instant Fixes for Drop Issues</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/decoding-advanced-computing-the-expertise-of-toms-hardware-reviews/"><u>Decoding Advanced Computing: The Expertise of Tom's Hardware Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-rocket-league-game-running-smoothly-again/"><u>Fixing the Issue: How to Get Your Rocket League Game Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-update-analysis-the-effect-of-framerate-adjustments-in-s8/"><u>Fortnite Update Analysis: The Effect of Framerate Adjustments in S8</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-poco-x5-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Poco X5 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/monster-hunter-stories-2-wings-of-ruin-not-launching-steps-to-successful-boot-up/"><u>Monster Hunter Stories 2: Wings of Ruin Not Launching - Steps to Successful Boot-Up</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-from-noisy-to-pro-how-to-remove-background-noise-in-final-cut-pro-x-like-a-pro-for-2024/"><u>New From Noisy to Pro How to Remove Background Noise in Final Cut Pro X Like a Pro for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/premier-pro-fullscreen-techniques-compendium/"><u>Premier Pro Fullscreen Techniques Compendium</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-chuckle-chest-premium-selection-of-gratuitous-gags/"><u>[New] In 2024, Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-bloodhunt-keeps-hiccuping-or-crashing-during-gameplay/"><u>Easy Fixes for When Bloodhunt Keeps Hiccuping or Crashing During Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-maplestory-issues-on-windows-10-top-strategies/"><u>Fixing Persistent MapleStory Issues on Windows 10 (Top Strategies )</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-a-grip-on-your-footage-fcpx-video-stabilization-made-easy/"><u>In 2024, Get a Grip on Your Footage FCPX Video Stabilization Made Easy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-clicks-big-smiles-crafting-memes-easily-for-2024/"><u>Quick Clicks, Big Smiles Crafting Memes Easily for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/triumph-through-film-the-top-10-motivating-titles-for-2024/"><u>Triumph Through Film The Top 10 Motivating Titles for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-oxygen-not-included-crashes-effective-solutions-inside/"><u>Troubleshooting 'Oxygen Not Included' Crashes: Effective Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-days-gone-game-crashes-a-step-by-step-guide/"><u>Troubleshooting the 'Days Gone' Game Crashes : A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-premier-magsafe-power-packs-of-2nndie-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Premier MagSafe Power Packs of 2Nndie: In-Depth Analysis and Ratings</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 </ul></div>
 

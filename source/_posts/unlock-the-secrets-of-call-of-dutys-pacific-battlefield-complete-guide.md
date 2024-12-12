@@ -1,7 +1,7 @@
 ---
 title: Unlock the Secrets of Call of Duty's Pacific Battlefield - Complete Guide
-date: 2024-12-03T16:26:24.340Z
-updated: 2024-12-06T16:50:15.832Z
+date: 2024-12-06T16:00:57.752Z
+updated: 2024-12-12T17:04:58.094Z
 tags:
   - win11
   - win10
@@ -41,7 +41,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 **Note:** Don’t use fullscreen (use borderless instead) and don’t**Alt + Tab** your game, for these two things can always cause Battlefield V crashing issues.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Change Windows 10 Virtual Memory/Pagefile
@@ -58,13 +58,13 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab and click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/advanced-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Uncheck**Automatically manage paging file size for all drives** . Select**Custom size** and enter the**Initial size** and**Maximum size** .
 
@@ -114,6 +114,10 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 **OR**
@@ -127,7 +131,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 4) Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Delete settings and repair your Battlefield V
@@ -143,7 +147,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  4) Launch your Battlefield V again to see if the crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Stop Overclocking
@@ -184,10 +188,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-as-admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3) Run Origin as administrator as well.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/origin-run-as-admin.jpg)
@@ -195,7 +195,7 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
  4) Try launching your game again to see if Battlefield V crashing issue still persists.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: System File Checker
@@ -223,10 +223,6 @@ Battlefield 5 keeps crashing randomly? The ultimate fix is here for you to bring
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### Option 2 – Manually
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl + Shift + Enter** to run Command Prompt as admin.
@@ -250,6 +246,10 @@ sfc /scannow
 
  If you receive neither of these messages, you can click **[Microsoft Support Page](https://support.microsoft.com/en-us/help/929833/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system)**  to further fix your problem with the System File Checker tool.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Perform a clean boot
 
  Battlefield V crashing can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -259,7 +259,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/run-box.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Then click**OK** to apply.
@@ -271,7 +271,7 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/open-task-manager.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Select each startup item and click**Disable** .
@@ -306,24 +306,16 @@ sfc /scannow
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-easily-capturing-iphone-screens-on-the-go/"><u>[New] Easily Capturing iPhone Screens on the Go</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games/"><u>[Updated] In 2024, Walk of Shadows A Comprehensive List of Intense Zombie Games</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-iphones-made-simple-how-to-save-and-savor-animated-images/"><u>2024 Approved IPhones Made Simple How to Save and Savor Animated Images</u></a></li>
-<li><a href="https://facebook.techidaily.com/customizing-your-facebook-presence-picture/"><u>Customizing Your Facebook Presence Picture</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-tips-for-preventing-and-repairing-phoenix-point-game-crashes/"><u>Definitive Tips for Preventing & Repairing Phoenix Point Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-for-discord-wont-open-a-comprehensive-guide/"><u>Effective Fixes for 'Discord Won't Open' - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/final-fixes-tackling-cod-mws-multiplayer-bugs/"><u>Final Fixes: Tackling Cod: MW's Multiplayer Bugs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-startup-failures-in-helldivers-2-overcoming-the-dark-launch-obstacle/"><u>Fixing Startup Failures in Helldivers 2 – Overcoming the Dark Launch Obstacle</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Xiaomi FRP Locks</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-crashes-in-mount-and-blade-2-bannerlord-top-tips-and-tricks/"><u>How to Fix Recurring Crashes in Mount & Blade 2: Bannerlord – Top Tips and Tricks</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-camon-20-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Camon 20 to PC? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-from-freezing-troubleshooting-elite-dangerous-for-a-smooth-experience/"><u>How to Stop Your Game From Freezing: Troubleshooting 'Elite Dangerous' For a Smooth Experience</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-pixeled-up-transform-your-shots-for-free/"><u>In 2024, Pixeled-Up Transform Your Shots for Free</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/most-effective-chatgpt-techniques-on-github-repository/"><u>Most Effective ChatGPT Techniques on GitHub Repository</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/optimized-strategies-for-youtube-and-facebook-cross-posting/"><u>Optimized Strategies for YouTube & Facebook Cross-Posting</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-error-0xc0000022-fixes-for-troubleshooting-adobe-app-launch-failures/"><u>Resolving Error 0xC0000022: Fixes for Troubleshooting Adobe App Launch Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-a-guide-to-smoother-play-in-total-war-saga-troy-edition/"><u>Resolving Performance Hiccups - A Guide to Smoother Play in Total War: Saga, Troy Edition</u></a></li>
-<li><a href="https://blog-min.techidaily.com/transformando-mpeg-en-mp3-opta-por-un-convertidor-virtual-o-fisico/"><u>Transformando MPEG en MP3: Opta Por Un Convertidor Virtual O Físico</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-silent-gameplay-solving-pubgs-audio-problems/"><u>Troubleshooting Silent Gameplay: Solving PUBG's Audio Problems</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-charting-your-path-to-youtube-affiliate-status-with-10k-vistas-goal/"><u>[New] 2024 Approved Charting Your Path to YouTube Affiliate Status with 10K Vistas Goal</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-creative-video-ends-top-6-budget-friendly-options-for-2024/"><u>[New] Creative Video Ends Top 6 Budget-Friendly Options for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-tips-and-tricks-erasing-unwanted-backdrops-for-2024/"><u>[New] Tips and Tricks Erasing Unwanted Backdrops for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-flood-resistant-cams-reviewed-7-edition/"><u>[New] Top Flood-Resistant Cams Reviewed – #7 Edition</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-top-10-channels-to-watch-on-igtv-daily-for-2024/"><u>[Updated] Top 10 Channels to Watch on IGTV Daily for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-the-perplexing-challenge-understanding-the-impact-of-error-2024/"><u>Cyberpunk 2077 and the Perplexing Challenge: Understanding the Impact of Error 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fixes-for-google-chrome-eating-up-too-much-processor-power/"><u>Final Fixes for Google Chrome Eating Up Too Much Processor Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-call-of-duty-mobile-warzone-20-for-pc-players/"><u>How to Fix Persistent Crashes in Call of Duty Mobile Warzone 2.0 for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-collision-solved-resolving-dual-accident-issues/"><u>PC Collision Solved: Resolving Dual Accident Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/tactical-insights-for-cod-warzone-players-in-the-new-pacific-map/"><u>Tactical Insights for COD: Warzone Players in the New Pacific Map</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/transforma-musica-oggv-vorbis-a-celdos-mp3-para-descarga-gratuita-con-herramientas-de-conversion-en-linea-tutorial-de-movavi/"><u>Transforma Música OggV Vorbis a Celdos MP3 Para Descarga Gratuita Con Herramientas De Conversión en Línea - Tutorial De Movavi</u></a></li>
 </ul></div>
 

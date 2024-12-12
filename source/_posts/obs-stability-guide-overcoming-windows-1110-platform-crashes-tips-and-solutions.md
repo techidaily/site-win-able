@@ -1,7 +1,7 @@
 ---
 title: "OBS Stability Guide: Overcoming Window's 11/10 Platform Crashes - Tips and Solutions"
-date: 2024-08-27T20:48:07.163Z
-updated: 2024-08-28T20:48:07.163Z
+date: 2024-12-06T16:05:19.613Z
+updated: 2024-12-12T16:03:07.750Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19d
 
  Before you proceed to the advanced troubleshooting steps below, make sure your setup meets the[system requirements of Biomutant](https://store.steampowered.com/app/597820/BIOMUTANT/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  If you’ve overclocked the CPU and GPU for better graphics performance, you may find it doesn’t work as expected and can cause incompatibility issues with Biomutant. To see if that’s the case, try **turning off overclocking utilities** like MSI Afterburner and **setting the clock speed back to the default** .
@@ -41,9 +45,6 @@ If Biomutant still crashes, there are more fixes below.
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -51,18 +52,15 @@ If Biomutant still crashes, there are more fixes below.
 1. Launch the Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Biomutant** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Update your graphics driver
 
@@ -82,22 +80,26 @@ There are two ways to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Disable overlays
 
  According to other players, the Steam overlay is a buggy feature that can trigger Biomutant crashing. Simply disable this option to see how the game works. If you’re using an overlay with any third-party app, make sure to turn them off as well.
@@ -122,8 +124,6 @@ There are two ways to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,24 @@ There are two ways to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-jake-pauls-youtube-odyssey-a-tale-of-growth/"><u>[New] Jake Paul's YouTube Odyssey A Tale of Growth</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[Updated] Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Motorola Defy 2 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Dose Life360 Notify Me When Someone Checks My Location On Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-game-for-ready-or-not-errors-effective-solutions-for-smooth-playtime-on-pc/"><u>End Game for 'Ready Or Not' Errors: Effective Solutions for Smooth Playtime on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-days-gone-pc-issues-and-crashes-updated/"><u>How To Prevent and Fix Days Gone PC Issues & Crashes - Updated</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-modern-warfare-3-from-keeping-on-crashing-your-pc-game/"><u>How to Stop Modern Warfare 3 From Keeping on Crashing Your PC Game</u></a></li>
+<li><a href="https://techtrends.techidaily.com/impact-of-ram-speed-and-access-times-on-computer-performance/"><u>Impact of RAM Speed & Access Times on Computer Performance</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-breakdown-adding-narrative-pauses-to-your-youtube-projects/"><u>In 2024, Breakdown Adding Narrative Pauses to Your YouTube Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991665998-online-login-for-origin-users-successfully-reinstated-enjoy-uninterrupted-gaming/"><u>Online Login for Origin Users Successfully Reinstated – Enjoy Uninterrupted Gaming!</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-playthrough-boost-fps-on-avatar-frontiers-of-pandora-to-eliminate-frame-drops/"><u>Optimize Your Playthrough: Boost FPS on Avatar: Frontiers of Pandora to Eliminate Frame Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-discord-network-issues-with-these-packet-loss-solutions/"><u>Overcome Discord Network Issues with These Packet Loss Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-graphics-card-not-recognized-by-warzone-on-windows-11/"><u>Resolved: Graphics Card Not Recognized by Warzone on Windows 11</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/smartphone-solutions-top-voice-changer-applications/"><u>Smartphone Solutions Top Voice Changer Applications</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-truth-unveiled-diablo-immortal-is-launching-for-pc-after-all/"><u>The Truth Unveiled: Diablo Immortal Is Launching for PC After All!</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ing-tracks-todays-youtube-vital-views/"><u>Trending Tracks Today's YouTube Vital Views</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-choose-a-high-end-windows-notebook-over-a-macbook-air-top-comparisons-and-reviews-on-zdnet/"><u>Why Choose a High-End Windows Notebook Over a MacBook Air? Top Comparisons and Reviews on ZDNet</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-12-03T16:41:32.042Z
-updated: 2024-12-06T17:12:56.990Z
+date: 2024-12-10T16:58:40.880Z
+updated: 2024-12-12T17:10:16.202Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure your specs meet the requirements
 
  As a AAA title in 2019, Modern Warfare is challenging, both to your game skills and computer hardware. So if you’re sticking with a PC built five years ago, chances are you won’t find this “slow-motion” game enjoyable. If you notice your FPS is dropping constantly, and even worse during a shoot-out, the first thing you should do is to**check your specs and see if they meet the game requirements** . Because if they don’t, then maybe it’s time for an upgrade.
@@ -61,6 +57,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -72,15 +72,7 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -102,6 +94,10 @@ You can do it with only 2 steps:
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -112,12 +108,12 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -126,7 +122,7 @@ And it’s quite easy to update too:
  If this method doesn’t help your case, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
@@ -148,6 +144,10 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 
@@ -156,7 +156,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -180,20 +180,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-club-chronicles-expertly-picked-dj-videos/"><u>[New] Club Chronicles Expertly Picked DJ Videos</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-out-youtubes-financial-strategy-for-nurturing-short-videos/"><u>[New] In 2024, Charting Out YouTube's Financial Strategy for Nurturing Short Videos</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-free-video-chat-alternatives-for-windowsmac-os-users/"><u>[New] In 2024, Free Video Chat Alternatives for Windows/Mac OS Users</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-step-by-step-setting-up-snapchat-on-mac/"><u>[New] Step-by-Step Setting Up Snapchat on Mac</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/tep-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>[New] Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-your-origin-app-to-work-again-on-win10-and-win11-systems/"><u>Getting Your Origin App to Work Again on Win10 and Win11 Systems</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-6-ways-to-change-spotify-location-on-your-vivo-v27e-drfone-by-drfone-virtual-android/"><u>In 2024, 6 Ways to Change Spotify Location On Your Vivo V27e | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mac-studios-unique-feature-that-influences-my-decision-over-upgrading-to-a-fall-release-of-the-m4-mac-mini-zdnet-perspectives/"><u>Mac Studio’s Unique Feature that Influences My Decision over Upgrading to a Fall Release of the M4 Mac Mini | ZDNet Perspectives</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-starfield-performance-tackling-the-cpu-hurdle-with-effective-methods/"><u>Mastering Starfield Performance: Tackling the CPU Hurdle with Effective Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-wilds-of-valheim-without-interruption-fix-your-pc-game-crashes-now/"><u>Mastering the Wilds of Valheim Without Interruption - Fix Your PC Game Crashes Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-controller-malfunctions-in-minutes-with-our-step-by-step-troubleshooting/"><u>Resolve Controller Malfunctions in Minutes with Our Step-by-Step Troubleshooting</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-6-tips-na-presunu-pravocerveneho-hledani-jak-ziskat-vyhru-ve-seo/"><u>Top 6 Tips Na Přesunu Pravočerveného Hledání: Jak Získat Výhru Ve SEO</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-endless-hunger-problems-resulting-in-pc-malfunctions/"><u>Troubleshooting Endless Hunger Problems Resulting in PC Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-performance-and-increasing-fps-on-watch-dogs-legion/"><u>Ultimate Guide to Enhancing Performance & Increasing FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/why-is-my-ubisoft-connect-not-working-solutions-to-common-glitches-in-202cu/"><u>Why Is My Ubisoft Connect Not Working? Solutions to Common Glitches in 202Cu</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-top-8-websites-for-3d-graffiti-fonts/"><u>[New] 2024 Approved Top 8 Websites for 3D Graffiti Fonts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ear-end-visualizations-mind-bending-youtube-figures-and-trends-for-2024/"><u>[New] Year-End Visualizations Mind Bending Youtube Figures and Trends for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/5-essential-strategies-to-resolve-your-eos-login-issues-on-palworld/"><u>5 Essential Strategies to Resolve Your EOS Login Issues on Palworld</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-getting-banned-handling-the-persistent-dota-2-valve-anti-cheat-concerns/"><u>Avoid Getting Banned: Handling the Persistent Dota 2 Valve Anti-Cheat Concerns</u></a></li>
+<li><a href="https://win-able.techidaily.com/bridging-the-gap-between-ios-and-windows-11-ensuring-itunes-detects-your-iphone/"><u>Bridging the Gap Between iOS and Windows 11: Ensuring iTunes Detects Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-stuck-on-loading-screen-heres-what-you-can-do/"><u>Deathloop Stuck on Loading Screen? Here’s What You Can Do</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effiziente-iso-datei-einhangen-fur-windows-betriebssysteme-10-8-7-mit-hilfe-der-winx-dvd-duplikatensoftware/"><u>Effiziente ISO-Datei Einhängen Für Windows-Betriebssysteme (10, 8, 7) Mit Hilfe Der WinX DVD Duplikatensoftware</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-cityscapes-in-a-new-dimension-how-augmented-reality-revolutionizes-urban-navigation-on-google-maps/"><u>Explore Cityscapes in a New Dimension: How Augmented Reality Revolutionizes Urban Navigation on Google Maps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-bugs-swift-solutions-to-avoid-batman-arkham-knight-crashes/"><u>Fixing Bugs: Swift Solutions to Avoid Batman: Arkham Knight Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-decreased-frame-rates-for-dota-2-players-on-windows-11-and-windows-10/"><u>Fixing Decreased Frame Rates for Dota 2 Players on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-roblox-solutions-for-audio-problems-in-roblox-games-on-windows-11-and-10/"><u>Fixing Silent Roblox: Solutions for Audio Problems in Roblox Games on Windows 11 and 10</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-v29-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo V29 Pro Phone that is Locked?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-retrace-footsteps-android-film-inversion/"><u>In 2024, Retrace Footsteps Android Film Inversion</u></a></li>
+<li><a href="https://extra-support.techidaily.com/learn-the-art-of-saving-and-logging-periscope-content-for-2024/"><u>Learn the Art of Saving & Logging Periscope Content for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-monster-hunter-world-strategies-for-defeating-unique-monsters/"><u>Navigating 'Monster Hunter: World': Strategies for Defeating Unique Monsters</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1723808235464-transform-your-computer-experience-asus-aura-graphics-packages-for-windows-1011-ready-to-download/"><u>Transform Your Computer Experience - ASUS Aura Graphics Packages for Windows 10/11 Ready to Download</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-isnt-my-windows-spotlight-showing-images-solutions-for-windows-11-users/"><u>Why Isn't My Windows Spotlight Showing Images? Solutions for Windows 11 Users</u></a></li>
 </ul></div>
 

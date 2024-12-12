@@ -1,7 +1,7 @@
 ---
 title: "Unlock Excel Efficiency: A Comprehensive Tutorial on Freezing/Thawing Rows & Columns"
-date: 2024-08-28T05:24:15.628Z
-updated: 2024-08-29T05:24:15.628Z
+date: 2024-12-10T16:08:55.722Z
+updated: 2024-12-12T16:43:27.585Z
 tags:
   - excel
 categories:
@@ -28,15 +28,27 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
  So, let's take a look at how to perform these actions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Freeze the Top Row
 
  Here's the first spreadsheet we'll be messing with. It's the Inventory List template that comes with Excel, in case you want to play along.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The top row in our example sheet is a header that might be nice to keep in view as you scroll down. Switch to the "View" tab, click the "Freeze Panes" dropdown menu, and then click "Freeze Top Row."
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_2.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now, when you scroll down the sheet, that top row stays in view.
 
@@ -46,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_4.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Freeze the Left Row
 
  Sometimes, the leftmost column contains the information you'll want to keep on screen as you scroll to the right on your sheet. To do that, switch to the "View" tab, click the "Freeze Panes" dropdown menu, and then click "Freeze First Column."
@@ -56,17 +65,17 @@ thumbnail: https://thmb.techidaily.com/1cfdb45880b22613393e076dccb2e4b9121be109b
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, as you scroll to the right, that first column stays on screen. In our example, it lets us keep the inventory ID column visible while we scroll through the other columns of data.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_6.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And again, to unfreeze the column, just head to View > Freeze Panes > Unfreeze Panes.
 
 ##  Freeze Your Own Group of Rows or Columns
@@ -75,14 +84,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_7.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  Notice that there are a bunch of rows at the top before the actual header we might want to freeze---the row with the days of the week listed. Obviously, freezing just the top row won't work this time, so we'll need to freeze a group of rows at the top.
 
  First, select the entire row below the bottom most row that you want to stay on screen. In our example, we want row five to stay on screen, so we're selecting row six. To select the row, just click the number to the left of the row.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_8.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Next, switch to the "View" tab, click the "Freeze Panes" dropdown menu, and then click "Freeze Panes."
 
@@ -93,22 +103,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To freeze a pane of columns instead, just select the whole row to the right of the right most row you want to freeze. Here, we're selecting Row C because we want Row B to stay on screen.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  And then head to View > Freeze Panes > Freeze Panes. Now, our column showing the months stays on screen as we scroll right.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/06/efp_1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  And remember, when you have frozen rows or columns and need to return to a normal view, just go to View > Freeze Panes > Unfreeze Panes.
 
 ##  Freeze Columns and Rows at the Same Time
@@ -137,8 +142,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +149,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-designing-a-simple-youtube-subscriber-shortcut/"><u>[Updated] Designing a Simple YouTube Subscriber Shortcut</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-helldivers-2-on-computer-expert-fixes-for-uninterrupted-gaming-bliss/"><u>Beat Helldivers 2 on Computer: Expert Fixes for Uninterrupted Gaming Bliss</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-diablo-ii-resurrected-stability-problems-fixes-unveiled/"><u>Beating Diablo II Resurrected Stability Problems – Fixes Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/demystifying-google-hangouts-origin-features-and-evolution-over-time/"><u>Demystifying Google Hangouts: Origin, Features, and Evolution Over Time</u></a></li>
+<li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-xiaomi-redmi-k70-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Xiaomi Redmi K70 Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-the-ascent-adventure-proven-strategies-to-reduce-stuttering-and-increase-fps-performance/"><u>Elevate Your The Ascent Adventure: Proven Strategies to Reduce Stuttering & Increase FPS Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gameplay-interruptions-tips-for-smoother-rocket-league-experience/"><u>Fixing Gameplay Interruptions: Tips for Smoother Rocket League Experience</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-a-comprehensive-walkthrough-of-adobe-presenter-recording/"><u>In 2024, A Comprehensive Walkthrough of Adobe Presenter Recording</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-oppo-reno-11-5g-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Oppo Reno 11 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-reno-8t-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo Reno 8T Phones</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/navigating-youtubes-creative-commons-framework-effectively-for-2024/"><u>Navigating YouTube's Creative Commons Framework Effectively for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-reducing-god-of-wars-excessive-cpu-demand/"><u>Solving the Issue: Reducing God of War's Excessive CPU Demand</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-battlenet-launcher-issues-on-windows-pcs/"><u>Troubleshooting Guide: Fixing 'Battle.net Launcher' Issues on Windows PCs</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/what-makes-periscope-special-understanding-features-and-registration/"><u>What Makes Periscope Special? Understanding Features & Registration</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/where-is-the-best-place-to-catch-dratini-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Realme Narzo 60 5G | Dr.fone</u></a></li>
+</ul></div>
 
