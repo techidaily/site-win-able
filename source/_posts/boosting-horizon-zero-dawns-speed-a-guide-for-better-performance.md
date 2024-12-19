@@ -1,7 +1,7 @@
 ---
 title: Boosting Horizon Zero Dawn's Speed - A Guide for Better Performance
-date: 2024-08-27T20:37:07.569Z
-updated: 2024-08-28T20:37:07.569Z
+date: 2024-12-12T08:07:31.576Z
+updated: 2024-12-18T23:54:14.350Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  VR games tend to be graphically demanding, not to mention this long anticipated AAA title. So before you can fully experience the well-crafted dystopia in Half Life: Alyx, first you need to make sure your gaming rig meets the minimum requirements. Because if it doesn’t, then maybe it’s time for an upgrade.
@@ -42,9 +46,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -54,28 +55,22 @@ Here’s how:
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Disable overlays
 
  In-game overlays allow you to interact with friends and place orders while you’re enjoying the game. But this handy feature might also be an interference to performance according to some. So if you’re using overlays such as**Steam** or**Discord** , try disabling them and see how it goes.
@@ -85,6 +80,10 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -96,10 +95,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
@@ -118,13 +113,20 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -132,6 +134,10 @@ Here’s how you can check for updates manually:
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -143,15 +149,14 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
  So these are the fixes for your stuttering issue in Half Life: Alyx. If you have any questions or ideas, feel free to jot them down in the comments.
@@ -162,8 +167,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +174,23 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-leveraging-speech-recognition-in-googles-popular-docs-application-for-2024/"><u>[New] Leveraging Speech Recognition in Google's Popular Docs Application for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-silent-voices-in-the-social-media-arena-ig-live-edition/"><u>[Updated] 2024 Approved Silent Voices in the Social Media Arena - IG Live Edition</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase iPhone XS Max When Its Locked Within Seconds</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-motorola-edge-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/activate-and-configure-microsoft-hyper-v-on-your-new-windows-pressappointment/"><u>Activate & Configure Microsoft Hyper-V on Your New Windows Press_appointment</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-fixing-phasmophobias-vr-connectivity-issues/"><u>Comprehensive Guide to Fixing Phasmophobia's VR Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/dark-souls-iii-performance-enhancements-fixes-for-common-game-crashes-and-bugs/"><u>Dark Souls III Performance Enhancements – Fixes for Common Game Crashes and Bugs</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/decoding-laptops-silent-staring-effective-strategies-for-addressing-computer-power-but-no-display-issue/"><u>Decoding Laptop's Silent Staring: Effective Strategies for Addressing Computer Power but No Display Issue</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/enhancing-tiktok-profiles-with-linktree-features/"><u>Enhancing TikTok Profiles with Linktree Features</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722871215037-entertaining-apple-tech-jokes-top-iphone-and-ipad-pranks-for-a-good-time/"><u>Entertaining Apple Tech Jokes: Top iPhone & iPad Pranks for a Good Time!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-non-responsive-battlenlauncher-errors-on-windows-systems/"><u>Expert Tips for Resolving Non-Responsive Battle.nLauncher Errors on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-infamous-the-witcher-3-game-crashes-a-detailed-walkthrough-for-gamers/"><u>Fixing the Infamous 'The Witcher 3' Game Crashes - A Detailed Walkthrough for Gamers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-best-free-apple-iphone-xs-max-imei-checker-by-drfone-ios/"><u>In 2024, Best Free Apple iPhone XS Max IMEI Checker</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-transformative-audio-techniques-for-media-professionals/"><u>In 2024, Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pixel-panic-solutions-to-black-screen-anomaly-for-windows-players-of-call-of-duty-wwii/"><u>Troubleshooting Pixel Panic: Solutions to Black Screen Anomaly for Windows Players of Call of Duty: WWII</u></a></li>
+<li><a href="https://win-able.techidaily.com/unable-to-access-doom-eternal-since-its-delayed-launch-find-remedies-and-get-gaming-now/"><u>Unable to Access DOOM Eternal Since Its Delayed Launch? Find Remedies and Get Gaming Now</u></a></li>
+</ul></div>
 

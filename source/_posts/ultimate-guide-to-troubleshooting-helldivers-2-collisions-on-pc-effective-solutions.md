@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Troubleshooting Helldivers 2 Collisions on PC - Effective Solutions
-date: 2024-08-27T20:34:11.680Z
-updated: 2024-08-28T20:34:11.680Z
+date: 2024-12-17T04:11:21.850Z
+updated: 2024-12-18T19:44:27.229Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -54,9 +58,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -75,9 +76,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party software
 
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
@@ -92,9 +90,9 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
@@ -133,19 +131,21 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking your GPU
 
  If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
@@ -158,9 +158,9 @@ OR
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
@@ -171,12 +171,13 @@ The ultimate burning program for all your needs!</a>
 3. Choose **Graphics Tools** from the results list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -194,8 +195,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +202,19 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-uncharted-territories-virtual-realitys-role-in-leisure/"><u>[New] 2024 Approved Uncharted Territories Virtual Reality's Role in Leisure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-ultimate-guide-to-inshot-on-pcs-and-laptops/"><u>[New] In 2024, The Ultimate Guide to Inshot on PCs and Laptops</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-velocity-vision-speed-up-videos-on-android-for-2024/"><u>[New] Velocity Vision Speed Up Videos on Android for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-the-ultimate-guide-to-bandicam-navigating-its-full-potential/"><u>[Updated] In 2024, The Ultimate Guide to Bandicam Navigating Its Full Potential</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-guide-to-resolving-lower-fps-in-farming-simulator-22-when-played-on-a-personal-computer/"><u>A Guide to Resolving Lower FPS in Farming Simulator 22 When Played on a Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-2-update-fixes-implemented-to-prevent-game-crashes-successfully/"><u>Chivalry 2 Update: Fixes Implemented to Prevent Game Crashes Successfully</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-honor-magic-vs-2-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Honor Magic Vs 2 Devices</u></a></li>
+<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-samsung-galaxy-s23-ultra-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-fan-dynamics-enhance-processor-cooling/"><u>Innovative Fan Dynamics Enhance Processor Cooling</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-lag-in-valheim-optimize-your-game-on-pc-efficiently/"><u>No More Lag in Valheim: Optimize Your Game on PC Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-enhancing-stable-drops-in-gaming-fps-scores/"><u>Troubleshooting and Enhancing Stable Drops in Gaming FPS Scores</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-making-steam-acknowledge-your-controller-in-windows/"><u>Troubleshooting Guide: Making Steam Acknowledge Your Controller in Windows</u></a></li>
+</ul></div>
 

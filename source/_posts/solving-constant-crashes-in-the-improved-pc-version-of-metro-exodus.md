@@ -1,7 +1,7 @@
 ---
 title: Solving Constant Crashes in the Improved PC Version of Metro Exodus
-date: 2024-08-27T20:37:09.873Z
-updated: 2024-08-28T20:37:09.873Z
+date: 2024-12-17T23:49:14.367Z
+updated: 2024-12-18T22:40:02.059Z
 tags:
   - win11
   - win10
@@ -67,9 +67,6 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -86,6 +83,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -93,8 +94,9 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
@@ -102,8 +104,9 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -112,12 +115,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Right-click **Path of Exile** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
@@ -128,6 +132,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 In case this fix didn’t help, please move on to Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run RoE as an administrator
 
@@ -140,13 +148,14 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
@@ -165,18 +174,12 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -196,8 +199,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +206,26 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-elite-portables-cutting-edge-4k-video-creation-machines-for-2024/"><u>[New] Elite Portables Cutting-Edge 4K Video Creation Machines for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-perfect-your-images-with-polarr-a-complete-photography-resource/"><u>[New] In 2024, Perfect Your Images with Polarr A Complete Photography Resource</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-perfecting-your-sims-4-live-action/"><u>[New] In 2024, Perfecting Your Sims 4 Live Action</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-easy-tips-to-create-a-funny-meme/"><u>2024 Approved Easy Tips to Create a Funny Meme</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-multiverse-crashes-top-8-strategies-for-a-smooth-gaming-experience/"><u>Beat Multiverse Crashes: Top 8 Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blitz-prevent-war-thunder-from-crashing-this-year-with-proven-solutions/"><u>Beat the Blitz: Prevent War Thunder From Crashing This Year with Proven Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bose-qc35-ii-insider-the-best-sound-quieting-gear/"><u>Bose QC35 II Insider: The Best Sound Quieting Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-repairing-issues-with-playstationxboxs-grand-theft-auto-5-online/"><u>Expert Advice on Repairing Issues with PlayStation/Xbox's Grand Theft Auto 5 Online</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-gpts-capabilities-to-overhaul-health-systems/"><u>Exploring GPT's Capabilities to Overhaul Health Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/how-to-change-voice-on-instagram-story-and-reels/"><u>How to Change Voice on Instagram Story and Reels?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-step-by-step-approach-to-mastering-lut-utilization/"><u>In 2024, A Step-by-Step Approach to Mastering LUT Utilization</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-stealthy-spectator-of-online-tales/"><u>In 2024, Stealthy Spectator of Online Tales</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/mastering-touchscreen-troubleshooting-in-windows-10-a-comprehensive-5-way-approach/"><u>Mastering Touchscreen Troubleshooting in Windows 10: A Comprehensive 5-Way Approach</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuttering-and-freezes-in-football-manager-2022-on-windows-and-macs/"><u>Overcoming Stuttering & Freezes in Football Manager 2022 on Windows and Macs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995810436-say-goodbye-to-frustrations-effective-solutions-for-constant-blender-crashes-on-desktop-computers/"><u>Say Goodbye to Frustrations: Effective Solutions for Constant Blender Crashes on Desktop Computers.</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-for-fixing-the-problematic-game-launch-in-fortnite-ls-0013/"><u>Steps for Fixing the Problematic Game Launch in Fortnite (LS-0013)</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-preventing-fallout-3-from-crashing-in-windows-11/"><u>Troubleshooting Guide: Preventing Fallout 3 From Crashing in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-for-star-wars-battlefront-2s-error-code-327-a-comprehensive-walkthrough/"><u>Ultimate Solution for Star Wars Battlefront 2'S Error Code 327 - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/warno-not-working-top-strategies-to-prevent-the-game-from-crashing-on-your-desktop/"><u>Warno Not Working? Top Strategies to Prevent the Game From Crashing on Your Desktop</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Fallout 4 PC Crashes and Stutters"
-date: 2024-08-27T20:38:13.927Z
-updated: 2024-08-28T20:38:13.927Z
+date: 2024-12-15T00:18:03.745Z
+updated: 2024-12-18T22:41:57.531Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -42,8 +46,9 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 You can fix it by uninstalling the multiplayer HD texture packs.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -59,21 +64,19 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -84,9 +87,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
@@ -97,19 +97,17 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -122,6 +120,10 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -139,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,20 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-reviewing-and-analyzing-previous-tweets/"><u>[New] Reviewing and Analyzing Previous Tweets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-top-15-ff-extensions-for-easy-fb-video-download/"><u>[New] Top 15 FF Extensions For Easy FB Video Download</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-record-ps4-with-obs-full-guide/"><u>[Updated] Record PS4 with OBS Full Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-color-depth-explored-windows-hdri-for-editors/"><u>2024 Approved Color Depth Explored Windows HDRI for Editors</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-steam-capture-for-cyberpunk-2077-adventures/"><u>2024 Approved Easy Steam Capture for Cyberpunk 2077 Adventures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-secrets-to-saving-and-sharing-your-roblox-experience-on-a-mac/"><u>2024 Approved Secrets to Saving & Sharing Your Roblox Experience on a Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-solution-stop-your-app-from-breaking-down-with-this-detailed-crash-fix-guide/"><u>Master the Solution: Stop Your App From Breaking Down with This Detailed Crash Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-debugging-effortless-ways-to-overcome-javascript-glitches-on-discord/"><u>Mastering Debugging: Effortless Ways to Overcome JavaScript Glitches on Discord</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-loop-glitch-resolved-for-riot-games-lol-in-recent-fix/"><u>Reconnect Loop Glitch Resolved for Riot Games' LoL in Recent Fix</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/stabilizing-ai-imaginations-with-six-tailored-instructions/"><u>Stabilizing AI Imaginations with Six Tailored Instructions</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-problem-solved-how-to-reconnect-with-the-local-client/"><u>Steam Problem Solved: How To Reconnect with The Local Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-playing-modern-warfare-on-a-pc-as-of-2024/"><u>Troubleshooting Guide for Playing Modern Warfare on a PC as of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-display-distortions-solved-say-goodbye-to-flickering-scenes/"><u>Warzone Display Distortions Solved - Say Goodbye to Flickering Scenes</u></a></li>
+</ul></div>
 

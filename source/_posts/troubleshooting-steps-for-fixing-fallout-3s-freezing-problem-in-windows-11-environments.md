@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Fixing Fallout 3'S Freezing Problem in Windows 11 Environments
-date: 2024-08-27T20:38:23.458Z
-updated: 2024-08-28T20:38:23.458Z
+date: 2024-12-11T22:08:52.939Z
+updated: 2024-12-18T19:33:06.117Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ _Image source: ea.com_
  The Dead Space Remake is superb! With its jaw-dropping visual fidelity, suspenseful atmospheric audio, and improvements to gameplay, the remake is undoubtedly the definitive way to experience one of the best survival horror shooters.
 
  But there are some issues pissing players off, one of which is that the game doesn’t even launch! Some are getting an error **“Your game failed to launch. An error on our end caused your launch to fail. Try again a little later.”** If you have no clue what has happened, you’ve come to the right place! In this guide, we’ll walk you through the methods to solve your problem and bring your game back to the deep and immersive gaming experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before proceeding to the fixes below…
 
@@ -67,6 +71,10 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/system-requiemnts-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To find out which graphics card you have in your PC, all you have to do is go to the**Display** tab.
 
  If a system restart doesn’t help and you’ve confirmed that your PC is perfectly capable of running Dead Space, you can try these fixes.
@@ -78,6 +86,10 @@ To check your PC hardware specifications, you can follow the steps below.
 5. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Verify your game files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Temporarily disable firewall and antivirus software
 
@@ -92,27 +104,14 @@ To check your PC hardware specifications, you can follow the steps below.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
  You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ## 2\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. Besides, Dead Space Remake is graphics demanding, which requires your system to allocate sufficient resources in order to function properly. If you have too many programs running in the background while launching Dead Space, however, you’re more likely to suffer from any sort of issue. To prevent this from affecting your gameplay, you should take the steps as follows to stop certain programs from running.
@@ -122,16 +121,10 @@ Key features:
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unnecessary applications.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
 
 ## 3\. Run your game as an administrator
@@ -144,9 +137,6 @@ Key features:
 
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Download & install all Windows updates
 
  Windows updates are released on a regular basis to provide users with bug fixes and new features. So you should make sure they are installed in your system to get all the performance enhancements. If your issue is triggered by the incompatibilities, updating Windows is more likely to help.
@@ -160,9 +150,6 @@ Key features:
 
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. Unfortunately, it’s also susceptible to corruption. When that happens, your PC performance would suffer and your graphics-intensive game may fail to work properly. Therefore, it’s imperative to update your graphics driver. Additionally, when a new title comes out, some graphics card manufacturers would release game-ready drivers, which you should definitely download and install.
@@ -170,8 +157,9 @@ Key features:
  There are mainly two ways you can update your drivers: manually and automatically.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your drivers
 
  If you have the time, patience and computer skills to update drivers on your own, you can visit your graphics card manufacturer’s website:
@@ -204,9 +192,6 @@ Key features:
 
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### On Steam
 
 1. Open your Steam client. Under**LIBRARY** , right-click your game title and select**Properties** .
@@ -215,8 +200,9 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-verify-intergrity-of-game-files-on-Steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now Steam will start scanning your game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  When the verification process is finished, close the window and check if it solves your problem. If your game still fails to launch, move on to the next fix.
@@ -229,13 +215,11 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Dead-Space-Remake-repair-game-files-on-the-EA-app.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### On Epic Games
 
 1. Navigate to the game in your Library. Then click on the**three dots** . Select**Manage** from the drop-down.  
@@ -243,9 +227,17 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -262,17 +254,15 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type **sfc /scannow**  and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  When you see a message that says “Verification 100% complete”, type **exit** and press Enter.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  However, this tool may not help you with a 100% guarantee. Sometimes it fails to fix an underlying problem. If that’s your case, a more powerful tool will be needed. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is the one that helps. Specializing in Windows repair, Fortect can help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. In addition, it detects threatening apps, protects, and removes malware from your PC before it’s too late!
 
  Fixing corrupted system files with Fortect is a breeze. All you have to do is follow the simple step-by-step below.
@@ -293,8 +283,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -302,4 +290,24 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-download-and-audit-voice-recordings/"><u>[New] 2024 Approved Download & Audit Voice Recordings</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-top-tunes-choosing-best-offline-audio-to-text-tools-for-2024/"><u>[New] Top Tunes Choosing Best Offline Audio-to-Text Tools for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-the-unexpected-10-truths-about-instagram-reels/"><u>[Updated] 2024 Approved Unveiling the Unexpected 10 Truths About Instagram Reels</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-go-backwards-the-iphones-playback-power/"><u>2024 Approved Go Backwards The iPhone's Playback Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-alert-demystifying-the-leaf-issue-in-the-2022-patch-fixes-inside/"><u>Apex Legends Error Alert: Demystifying the 'Leaf' Issue in the 2022 Patch - Fixes Inside</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/cookiebot-enhanced-boost-your-sites-analytics-and-personalization/"><u>Cookiebot-Enhanced: Boost Your Site's Analytics & Personalization</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-gta-v-online-functionality-problems/"><u>Expert Tips for Repairing GTA V Online Functionality Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-dota-2s-reduced-fps-in-latest-windows-os-tips-and-tricks-for-gaming-optimization/"><u>How to Resolve Dota 2'S Reduced FPS in Latest Windows OS - Tips and Tricks for Gaming Optimization</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-close-up-clarity-mastering-teammate-focus/"><u>In 2024, Close-Up Clarity Mastering Teammate Focus</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, List of Pokémon Go Joysticks On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-trailblazers-in-the-world-of-virtual-reality/"><u>In 2024, Trailblazers in the World of Virtual Reality</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987245835-no-more-game-crashes-decode-and-repair-your-cod-vanguard-en-error-0x00001338-on-pc-now/"><u>No More Game Crashes – Decode and Repair Your COD Vanguard E:N (Error 0X00001338) on PC Now</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/nubia-red-magic-8s-pro-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Nubia Red Magic 8S Pro Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-fixes-for-monster-hunter-rise-failed-to-load/"><u>Solution Guide: Fixes For 'Monster Hunter Rise Failed To Load'</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-essential-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-breaking-down-on-windows/"><u>Top 8 Essential Solutions to Prevent Marvel's Guardians of the Galaxy From Breaking Down on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-starts-valheim-not-starting-up-correctly-as-of-march-2024/"><u>Troubleshooting Starts: Valheim Not Starting Up Correctly as of March 2024</u></a></li>
+</ul></div>
 

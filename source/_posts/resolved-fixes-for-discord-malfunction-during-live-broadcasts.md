@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes for Discord Malfunction During Live Broadcasts"
-date: 2024-08-27T20:36:47.869Z
-updated: 2024-08-28T20:36:47.869Z
+date: 2024-12-12T16:04:22.108Z
+updated: 2024-12-19T04:52:41.238Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 
  Before trying any fixes below, please check your camera doesn’t have any physical problem and is working fine on another computer or application.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the privacy settings](https://tools.techidaily.com/drivereasy/download/)
@@ -35,6 +39,11 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 1. Press the**Windows logo key + I** and click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
@@ -56,8 +65,9 @@ Here’s how…
 If it doesn’t help, please move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -66,9 +76,6 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update camera driver
 
@@ -98,14 +105,15 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your system
 
@@ -130,39 +138,30 @@ If your camera is still not working on Discord, move to the next fix.
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
 11. Install it on your computer and try the camera.
 
@@ -178,8 +177,6 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +184,23 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-top-10-budget-friendly-apps-revolutionizing-smartphone-imagery/"><u>[New] 2024 Approved Top 10 Budget-Friendly Apps Revolutionizing Smartphone Imagery</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-a-deep-dive-into-effective-youtube-banner-techniques/"><u>[New] In 2024, A Deep Dive Into Effective YouTube Banner Techniques</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-step-up-your-visual-effects-game-with-free-lessons-from-4-innovative-youtube-channels/"><u>[Updated] In 2024, Step Up Your Visual Effects Game with Free Lessons From 4 Innovative YouTube Channels</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-start-your-adventure-with-robocop-rogue-city-on-windows-machines-now/"><u>Beat the Bug: Start Your Adventure with RoboCop: Rogue City on Windows Machines Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/easy-fixes-for-when-microsofts-default-browser-crashes-or-freezes/"><u>Easy Fixes for When Microsoft's Default Browser Crashes or Freezes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-smooth-play-experience-strategies-to-improve-frame-rate-and-reduce-delays-in-fall-guys/"><u>Enhancing Smooth Play Experience: Strategies to Improve Frame Rate & Reduce Delays in Fall Guys</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-when-your-steam-client-just-wont-respond-get-back-on-track-now/"><u>Expert Tips & Fixes for When Your Steam Client Just Won't Respond - Get Back on Track Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-lag-issues-in-discord-updated/"><u>Expert Tips for Resolving Lag Issues in Discord (Updated )</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/fixing-graphics-card-glitches-with-windows-11s-native-diagnostic-tools-a-guide-from-yl-software/"><u>Fixing Graphics Card Glitches with Windows 11'S Native Diagnostic Tools: A Guide From YL Software</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-vivo-v29e-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/monster-hunter-rise-not-launching-quick-fixes-you-can-try/"><u>Monster Hunter Rise Not Launching - Quick Fixes You Can Try!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-game-errors-fix-your-ring-of-elysium-stability-issues-once-and-for-all/"><u>Overcome Game Errors: Fix Your Ring of Elysium Stability Issues Once & For All!</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-stalled-windows-10-installation-for-smooth-upgrades/"><u>Resolving Stalled Windows 10 Installation for Smooth Upgrades</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-hogwarts-legacy-stutter-in-the-latest-update/"><u>Ultimate Troubleshooting Guide to Fixing Hogwarts Legacy Stutter in the Latest Update</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unveiling-performance-vs-price-for-the-tp-link-archer-c50-wireless-router-assessment/"><u>Unveiling Performance Vs. Price for the TP-Link Archer C50 Wireless Router Assessment</u></a></li>
+</ul></div>
 

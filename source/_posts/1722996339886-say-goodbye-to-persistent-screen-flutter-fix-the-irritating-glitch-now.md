@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Persistent Screen Flutter: Fix the Irritating Glitch Now!"
-date: 2024-08-27T20:39:40.715Z
-updated: 2024-08-28T20:39:40.715Z
+date: 2024-12-18T00:34:41.572Z
+updated: 2024-12-18T22:51:41.799Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/54fd3e003b786647a6f1d7a89a0a9ff3e56e44f97
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Solution 1: Move your game to another drive
 
  Origin enables players to move games to another drive easily. Coping and pasting your game files and folders doesn’t move your games completely, so you’ll need to do it via Origin.
@@ -48,9 +52,17 @@ Make sure that Anthem is closed and not running in the background.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
 
@@ -78,8 +90,9 @@ Make sure that Anthem is closed and not running in the background.
 All good now? That’s great!
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -98,9 +111,6 @@ Here’s how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
 
  6) Once finished, restart your computer and launch Anthem.
@@ -127,10 +137,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
@@ -138,17 +144,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Once updated, restart your computer to take effect.
 
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 4: Turn off Origin In-Game Overlay
 
  Sometimes the in-game overlays can result in game crashing as it may cause software conflicts. To rule it out as the cause, you can turn off Origin In-Game Overlay and see it you can fix your issue.
@@ -159,9 +163,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -171,8 +172,9 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Restart Origin and Anthem to see how it works.
 
 Hopefully this will fix your Anthem not loading issue.
@@ -198,8 +200,9 @@ Here’s what you need to do:
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Solution 6: Change your graphics settings
 
  Many Anthem players have reported that modifying Anthem graphics settings helps with the Anthem loading issue, especially in reducing Anthem loading times. So you can change the graphics settings for Anthem in your computer.
@@ -209,6 +212,10 @@ Here’s what you need to do:
  2) Under**Display Settings** , change your screen resolution to the one that is the same with your monitor resolution. Switch to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
@@ -231,8 +238,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +245,22 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-infuse-melodies-into-powerpoint-visuals/"><u>[New] 2024 Approved Infuse Melodies Into PowerPoint Visuals</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-recorder-a-comprehensive-review-of-screen-recording-for-2024/"><u>[New] Master Recorder A Comprehensive Review of Screen Recording for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-how-to-choose-engaging-tiktok-backgrounds/"><u>2024 Approved How to Choose Engaging TikTok Backgrounds</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleash-your-photo-potential-with-instagram-filters/"><u>2024 Approved Unleash Your Photo Potential with Instagram Filters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/beyond-fbx-cutting-edge-options-for-game-recorders/"><u>Beyond FBX Cutting-Edge Options for Game Recorders</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-fix-the-continuous-pc-freeze-issue-update-2024/"><u>Call of Duty: Black Ops Cold War - Fix the Continuous PC Freeze Issue (Update 2024)</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-my-data-if-my-iphone-8-plus-screen-turns-black-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Can I recover my data if my iPhone 8 Plus screen turns black? | Stellar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-huawei-p60-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Huawei P60 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-assembling-a-youtube-music-playlist/"><u>In 2024, The Art of Assembling a YouTube Music Playlist</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-gamers-guide-prevent-and-resolve-your-pc-games-from-crashing/"><u>Master Gamers' Guide: Prevent and Resolve Your PC Games From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-issues-solving-stutter-problems-in-sifu-fps-gameplay/"><u>PC Issues: Solving 'Stutter' Problems in Sifu FPS Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/score-huge-printing-capabilities-at-a-lower-price-save-80-on-elegoo-neptune-3-plus/"><u>Score Huge Printing Capabilities at a Lower Price – Save $80 on Elegoo Neptune 3 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-ahead-prevent-world-of-warships-pc-freezes-and-glitches-using-our-top-easy-strategies/"><u>Smooth Gameplay Ahead! Prevent World of Warships PC Freezes and Glitches Using Our Top Easy Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-gta-5-online-connectivity-issues/"><u>Troubleshooting Tips for GTA 5 Online Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-reasons-behind-immortals-fenyx-risings-postponed-debut-issue-resolved/"><u>Unveiling the Reasons Behind Immortals Fenyx Rising's Postponed Debut - Issue Resolved!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming the Out-of-Video-Memory Error in Fortnite: Tips & Solutions"
-date: 2024-08-27T20:40:22.794Z
-updated: 2024-08-28T20:40:22.794Z
+date: 2024-12-17T07:25:57.138Z
+updated: 2024-12-19T08:37:24.246Z
 tags:
   - win11
   - win10
@@ -42,8 +42,9 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropoping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, newly-released games like Sifu work better with the latest graphics driver.
@@ -60,11 +61,16 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -100,10 +106,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -127,6 +129,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -136,10 +142,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
@@ -151,9 +158,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. If you see a prompt similar to this, go back to the Power Options winow in Control Panel to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 ## Disable overlays
@@ -163,9 +167,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -177,9 +181,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch Sifu to see you can play it smoothly.
 
 ---
@@ -196,8 +197,6 @@ Launch Sifu to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +204,26 @@ Launch Sifu to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-panoramic-viewpoint-gear-for-vr/"><u>[New] Panoramic Viewpoint Gear for VR</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-charting-new-territory-strategies-for-youtube-keyword-research/"><u>[Updated] 2024 Approved Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-transform-your-footage-with-pro-tips-for-gopro-time-lapses/"><u>2024 Approved Transform Your Footage with Pro Tips for GoPro Time Lapses</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-and-install-realtek-rtl8188cu-wi-fi-card-driver-supported-on-windows-10-20092009r2/"><u>Download and Install Realtek RTL8188CU Wi-Fi Card Driver Supported on Windows 10, 2009/2009R2</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-documenting-macs-roblox-playthroughs/"><u>Essential Guide to Documenting Mac's Roblox Playthroughs</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-and-set-up-your-acers-bluetooth-driver-expert-tips-for-speed-and-convenience/"><u>Get and Set Up Your Acer's Bluetooth Driver: Expert Tips for Speed & Convenience</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-nvidia-quadro-rtx-8000-drivers-now-supported-on-windows-11-10-and-7/"><u>Get the Latest Nvidia Quadro RTX 8000 Drivers Now: Supported on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-mini-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 mini? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-freeze-glitches-in-call-of-duty-black-ops-cold-war-for-smooth-playing-experience/"><u>How To Overcome Game Freeze Glitches In Call of Duty: Black Ops Cold War for Smooth Playing Experience</u></a></li>
+<li><a href="https://network-issues.techidaily.com/overcoming-win-gdx-failure/"><u>Overcoming Win GDX Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-issues-preventing-your-game-from-starting/"><u>Quick Solutions: Overcome Issues Preventing Your Game From Starting!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-start-utilizing-the-handy-and-mobile-friendly-version-of-driver-easy/"><u>Quick Start: Utilizing the Handy and Mobile-Friendly Version of Driver Easy</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-frame-rate-and-stuttering-issues-in-the-latest-game-update/"><u>Solving Frame Rate and Stuttering Issues in the Latest Game Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/speedy-advice-navigating-through-shader-optimization-snags-in-star-wars-battlefront-ii/"><u>Speedy Advice: Navigating Through Shader Optimization Snags in Star Wars Battlefront II</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-fixes-for-the-elusive-coredll-errors/"><u>The Ultimate Fixes for the Elusive 'Core.dll' Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-trusted-techniques-to-resolve-terraria-disconnection-issues/"><u>Top 6 Trusted Techniques to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-scavengers-game-errors-for-a-smooth-pc-experience/"><u>Troubleshooting and Repairing 'Scavengers' Game Errors for a Smooth PC Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-successfully-starting-starfield-on-your-console-or-pc/"><u>Troubleshooting Tips - Successfully Starting Starfield on Your Console or PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps for Resolving Battle.net Launch Issues</u></a></li>
+</ul></div>
 

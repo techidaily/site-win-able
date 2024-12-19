@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Address and Overcome the 'UE4 Madness' Error in Outriders
-date: 2024-08-27T20:34:54.375Z
-updated: 2024-08-28T20:34:54.375Z
+date: 2024-12-11T19:44:15.519Z
+updated: 2024-12-19T00:14:51.322Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 
 **RECOMMENDED**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you. The first three are some basic troubleshooting steps, you can skip these fixes if you’ve already tried them.
@@ -55,9 +59,9 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -69,6 +73,10 @@ The ultimate burning program for all your needs!</a>
 5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If you’re on Rockstar game launcher, you can verify integrity by:
 
@@ -82,9 +90,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -93,15 +98,13 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Graphics card manufacturers keep releasing new drivers to fix known bugs and add new features. Outdated or corrupt graphics drivers can cause your game to crash. For game players, it’s important to keep your graphics drivers (and sometimes sound card drivers) to make sure your game runs smoothly.
@@ -135,15 +138,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -159,8 +160,9 @@ OR
 2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Install Graphics Tools
@@ -193,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +202,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-effortless-conversion-youtube-videos-to-mac-ratio/"><u>[New] 2024 Approved Effortless Conversion Youtube Videos to Mac Ratio</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-melodic-matchmaking-complementary-soundtracks-for-boxings/"><u>[New] Melodic Matchmaking Complementary Soundtracks for Boxings</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-what-every-independent-youtuber-should-know-about-mcns/"><u>[Updated] What Every Independent YouTuber Should Know About MCNs</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/begin-your-journey-on-x-a-comprehensive-walkthrough-of-signing-up/"><u>Begin Your Journey on X - A Comprehensive Walkthrough of Signing Up</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-video-editing-tools-convert-dvr-files-to-avi-format-on-your-windows-pc/"><u>Best Video Editing Tools: Convert DVR Files to AVI Format on Your Windows PC</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/complete-diy-tutorial-on-how-to-conduct-data-restoration-for-scsi-drives/"><u>Complete DIY Tutorial on How to Conduct Data Restoration for SCSI Drives</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-steamvr-error-308-expert-solutions-for-a-seamless-vr-experience/"><u>Defeat SteamVR Error 308: Expert Solutions for a Seamless VR Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-anticheat-connection-issue-error-on-escape-from-tarkov/"><u>Fixing the 'Anticheat Connection Issue' Error on Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-easily-enable-hyper-v-features-on-windows-10-systems/"><u>How To Easily Enable Hyper-V Features On Windows 10 Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/league-of-legends-download-acceleration-tips-to-fix-your-game-lag/"><u>League of Legends Download Acceleration: Tips to Fix Your Game Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-gaming-fun-with-splitgate-a-guide-on-overcoming-performance-hiccups-like-low-fps-and-stutters/"><u>Maximize Your Gaming Fun with Splitgate: A Guide on Overcoming Performance Hiccups Like Low FPS and Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-and-repairing-gray-zone-warfare-crashes-on-your-computer/"><u>Preventing and Repairing Gray Zone Warfare Crashes on Your Computer</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/transferieren-sie-musik-von-cd-auf-das-iphone-einfach-perfekt-itunes-oder-nicht/"><u>Transferieren Sie Musik Von CD Auf Das iPhone Einfach Perfekt - ITunes Oder Nicht?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-high-latency-and-stutter-in-chivalry-2/"><u>Ultimate Guide: Solving High Latency & Stutter in Chivalry 2</u></a></li>
+</ul></div>
 

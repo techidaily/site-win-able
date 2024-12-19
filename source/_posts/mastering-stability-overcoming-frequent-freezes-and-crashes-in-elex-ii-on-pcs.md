@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Overcoming Frequent Freezes and Crashes in Elex II on PCs"
-date: 2024-08-27T20:37:34.311Z
-updated: 2024-08-28T20:37:34.311Z
+date: 2024-12-15T00:59:07.580Z
+updated: 2024-12-19T03:16:57.020Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 4. [Update your graphics card driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Run as the administrator](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall incompatible software
 
  Sometimes the third party software can interfere with your game. So uninstall the newly installed software to see whether it can help. If you have Razer Chroma SDK, Razer Synapse or Roccat Mouse driver installed on your PC, you’d better uninstall it and see whether it solves the Frostpunk crash issue.  
@@ -56,9 +60,6 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus software is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall the game
 
  Fully uninstalling and reinstalling the game is an old easy but effective method. The game profile can be crashed which cause the Frostpunk crash. So doing a clean reinstall can fix the issue.
@@ -66,8 +67,9 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 If it doesn’t work, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify games files via Steam
 
  Verify games files can help you solve some common error. Some users says Frostpunk crash can be solved by this method.
@@ -79,9 +81,6 @@ If it doesn’t work, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 5. Relaunch the game and check whether the issue will appear or not.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics card driver
 
  With outdated or wrong drivers, your game may encounter a crash. So it is very important to update your graphics card drivers. But Windows 10 doesn’t always give you the latest version automatically. Therefore, update your graphics card driver is always a good option.  
@@ -111,14 +110,16 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Run as the administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Frostpunk can make full use of its features, so run the game as an administrator to see if this fixes your issue.
@@ -128,8 +129,9 @@ OR
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/ad.jpg)
 4. Run Frostpunk and check whether the problem is solved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -142,8 +144,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -151,4 +151,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-dynamic-strategies-for-complementary-podcast-consumption-for-2024/"><u>[New] Dynamic Strategies for Complementary Podcast Consumption for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-xr-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone XR</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-f1-2020s-pc-crashes-tips-and-solutions-to-keep-your-race-running-uninterrupted/"><u>Conquering F1 2020'S PC Crashes: Tips and Solutions to Keep Your Race Running Uninterrupted</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/discover-the-most-exciting-no-cost-comic-designs/"><u>Discover the Most Exciting, No-Cost Comic Designs</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-six-benefits-of-owning-an-apple-watch-expert-advice/"><u>Discover the Ultimate Six Benefits of Owning an Apple Watch, Expert Advice</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/expert-analysis-of-the-anker-roav-dashcam-c1-features-for-a-complete-drivers-solution/"><u>Expert Analysis of the Anker Roav DashCam C1: Features for a Complete Driver's Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/functionalization-possibilities-for-nanofibers-including-electrostatic-charging-hydrophilic-treatments-or-catalytic-coatings-for-enhanced-pollutant-removal.490/"><u>Functionalization Possibilities for Nanofibers, Including Electrostatic Charging, Hydrophilic Treatments, or Catalytic Coatings for Enhanced Pollutant Removal</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/how-to-restore-missing-siri-suggestions-on-your-iphone-effectively/"><u>How To Restore Missing Siri Suggestions on Your iPhone Effectively</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-lava-yuva-3-pro-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Yuva 3 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-in-avatar-the-game-techniques-for-enhancing-frame-rate-and-reducing-stutter/"><u>Improving Performance in 'Avatar: The Game' - Techniques for Enhancing Frame Rate & Reducing Stutter</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-x50iplus-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Honor X50i+ Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masterful-viewing-for-artists-best-monitor-guide/"><u>In 2024, Masterful Viewing for Artists – Best Monitor Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-issues-top-7-solutions-if-overwatch-2-wont-start/"><u>Overcoming Issues: Top 7 Solutions if Overwatch 2 Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-issues-how-to-stop-code-veal-stuttering/"><u>Overcoming Technical Issues: How to Stop Code Veal Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-counter-strike-2-from-freezing-and-crashing-in-202/"><u>Troubleshooting Steps to Stop Counter-Strike 2 From Freezing and Crashing in 202</u></a></li>
+</ul></div>
 

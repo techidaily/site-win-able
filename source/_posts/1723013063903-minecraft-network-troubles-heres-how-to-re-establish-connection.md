@@ -1,7 +1,7 @@
 ---
 title: Minecraft Network Troubles? Here’s How to Re-Establish Connection
-date: 2024-08-27T20:35:34.528Z
-updated: 2024-08-28T20:35:34.528Z
+date: 2024-12-18T04:18:54.038Z
+updated: 2024-12-19T07:43:58.308Z
 tags:
   - win11
   - win10
@@ -66,25 +66,16 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 3. Go to the**Worlds** tab and choose one of your Worlds.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
-6. You should be able to join your friends’ world.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
+6. You should be able to join your friends’ world.
+
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -92,21 +83,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. Click the Windows start button, type**control panel** and press the**Enter** key on your keyboard to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
+
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the network drivers
 
@@ -122,9 +116,15 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
-4. Run Minecraft and check whether you can connect to the world.
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+4. Run Minecraft and check whether you can connect to the world.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -144,9 +144,6 @@ If this fix can’t help, you can move to the next.
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 ### Fix 6: Disable antivirus software
@@ -170,6 +167,10 @@ If this fix can’t help, you can move to the next.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
  If it doesn’t work, you can contact your ISP for more information. Some players reported the ISP would block their ability to use all Minecraft servers. You need to persist and they’ll make a change.
@@ -177,12 +178,9 @@ If this fix can’t help, you can move to the next.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tips
 
 #### For iPad users
@@ -205,8 +203,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +210,18 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fishermans-field-guide-to-prime-camers/"><u>[New] 2024 Approved The Fisherman's Field Guide to Prime Camers</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-podcast-pioneers-effortless-livestream-tips/"><u>[New] Podcast Pioneers Effortless Livestream Tips</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-ps4-live-broadcasting-101-with-obs-recording-tips-for-2024/"><u>[New] PS4 Live Broadcasting 101 with OBS Recording Tips for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-camera-kings-collide-sj6-powerhouse-vs-yi-4k-masterpiece/"><u>[Updated] Camera Kings Collide SJ6 Powerhouse Vs. Yi 4K Masterpiece</u></a></li>
+<li><a href="https://win-able.techidaily.com/counter-strike-2-not-launching-solutions-you-need-to-try-now/"><u>Counter-Strike 2 Not Launching? Solutions You Need To Try Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-0xc0000022-explained-solutions-to-get-your-adobe-app-running-smoothly-again/"><u>Error 0xC0000022 Explained – Solutions to Get Your Adobe App Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-finals-error-code-tfla0002/"><u>How to Fix The Finals Error Code TFLA0002</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-the-root-causes-of-lcd-display-intermittent-flicker-expert-insights-from-yl-computing/"><u>Identifying the Root Causes of LCD Display Intermittent Flicker - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-in-fall-guys-eliminate-those-puzzling-pc-freezes/"><u>Mastering Stability in Fall Guys: Eliminate Those Puzzling PC Freezes</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-performance-review-for-garmin-forerunner-945-the-premier-gps-smartwatch-for-fitness-enthusiasts/"><u>Top Performance Review for Garmin Forerunner 945: The Premier GPS Smartwatch for Fitness Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-for-overwatch-graphics-driver-crashes-resolved/"><u>Ultimate Troubleshooting for Overwatch Graphics Driver Crashes (Resolved)</u></a></li>
+</ul></div>
 

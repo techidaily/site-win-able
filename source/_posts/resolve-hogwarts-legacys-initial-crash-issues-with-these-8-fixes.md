@@ -1,7 +1,7 @@
 ---
 title: Resolve Hogwarts Legacy's Initial Crash Issues with These 8 Fixes
-date: 2024-08-27T20:34:35.338Z
-updated: 2024-08-28T20:34:35.338Z
+date: 2024-12-17T05:26:09.967Z
+updated: 2024-12-18T22:45:25.166Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -49,9 +53,6 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -62,10 +63,6 @@ System requirements of WRC 10 from Steam
 2. **Right-click** on **WRC 10 FIA World Rally Championship** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **To verify game files in Epic Games Launcher:**
@@ -74,9 +71,6 @@ The ultimate burning program for all your needs!</a>
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
@@ -95,18 +89,17 @@ The ultimate burning program for all your needs!</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of WRC 10 FIA World Rally Championship releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -114,6 +107,10 @@ The ultimate burning program for all your needs!</a>
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -132,24 +129,29 @@ The ultimate burning program for all your needs!</a>
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -177,8 +179,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/1723005574195-black-ops-cold-war-crack-the-mystery-behind-errorcode-0xc0000005-and-play-smoothly/"><u>'Black Ops Cold War': Crack the Mystery Behind ERROR_CODE 0xC0000005 and Play Smoothly</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-how-to-use-google-trends-to-come-up-with-video-ideas-easy-guide/"><u>[New] In 2024, How to Use Google Trends to Come up with Video Ideas [Easy Guide]</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-genshin-impact-error-4201/"><u>[SOLVED] Genshin Impact Error 4201</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995959997-solved-steam-cant-log-in/"><u>[SOLVED] Steam Can't Log In</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-implementing-custom-overlays-in-youtube-videos/"><u>[Updated] 2024 Approved Implementing Custom Overlays in YouTube Videos</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-elite-sound-selection-superior-downloads/"><u>2024 Approved Elite Sound Selection Superior Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-navigating-the-world-of-internet-hilarity/"><u>2024 Approved Navigating the World of Internet Hilarity</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-riding-ahead-with-clarity-hats-cam-excellence-in-the-year-of-23/"><u>2024 Approved Riding Ahead with Clarity Hats Cam Excellence in the Year of '23</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-nvidia-geforce-experience-problem-decode-and-repair-error-0x0003/"><u>Clearing Up Nvidia Geforce Experience Problem: Decode and Repair Error 0X0003</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-steam-cloud-desynchronization-problems/"><u>How to Fix Steam Cloud Desynchronization Problems</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/how-to-handle-an-overheating-pc-expert-tips-from-yl-computing-and-yl-software/"><u>How to Handle an Overheating PC: Expert Tips From YL Computing and YL Software</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-play-8t-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Honor Play 8T Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/navigating-excellence-with-the-garmin-gpsmap-64st-a-detailed-review/"><u>Navigating Excellence with the Garmin GPSMAP 64St: A Detailed Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stuck-screens-in-minecraft-solutions-for-pc-users/"><u>Overcoming Stuck Screens in Minecraft - Solutions for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/skyrocket-your-ark-game-speed-on-pc-with-effective-fps-optimization-techniques/"><u>Skyrocket Your ARK Game Speed on PC with Effective FPS Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-the-black-screen-in-rainbow-six-siege-a-complete-guide/"><u>Solving the Mystery of the Black Screen in Rainbow Six Siege: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-the-finals-pre-launch-glitches-key-insights-and-strategies-for-a-smooth-2024-rollout/"><u>Step-by-Step Fixes for The Finals Pre-Launch Glitches: Key Insights & Strategies for a Smooth 2024 Rollout</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-keep-your-mac-awake-prevent-automatic-sleep-mode/"><u>Ultimate Guide: Keep Your Mac Awake – Prevent Automatic Sleep Mode</u></a></li>
+<li><a href="https://article-files.techidaily.com/visionary-toolkit-premium-ae-templates-at-zero-cost-for-2024/"><u>Visionary Toolkit Premium AE Templates at Zero Cost for 2024</u></a></li>
+</ul></div>
 

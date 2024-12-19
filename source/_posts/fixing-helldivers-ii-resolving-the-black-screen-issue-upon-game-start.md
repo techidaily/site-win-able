@@ -1,7 +1,7 @@
 ---
 title: "Fixing Helldivers II: Resolving the Black Screen Issue Upon Game Start"
-date: 2024-08-27T20:39:41.904Z
-updated: 2024-08-28T20:39:41.904Z
+date: 2024-12-16T08:46:28.104Z
+updated: 2024-12-19T06:06:24.552Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Uninstall your antivirus software
 
@@ -71,17 +75,11 @@ There are mainly two ways to update your device drivers:
  Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -93,9 +91,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -114,17 +109,19 @@ There are mainly two ways to update your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Run Minecraft Launcher in compatibility mode
 
  Many find running Minecraft launcher in compatibility mode helped solve the Minecraft stuck on the loading screen issue. This method has varying success, but it’s worth trying. Here’s how to do it:
@@ -137,6 +134,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean reinstall
 
  Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
@@ -144,12 +145,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -167,8 +170,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +177,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-directly-sending-youtube-videos-to-facebook-networks-for-2024/"><u>[New] Directly Sending YouTube Videos to Facebook Networks for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-distinguished-pioneers-elite-insta-hlv-page-builders-for-2024/"><u>[New] Distinguished Pioneers Elite Insta HLV Page Builders for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-tailored-minecraft-filming-techniques-for-gamers-for-2024/"><u>[New] Tailored Minecraft Filming Techniques for Gamers for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/auditory-aesthetics-crafting-perfect-sounds-for-insta-for-2024/"><u>Auditory Aesthetics Crafting Perfect Sounds for Insta for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/disabling-autoplay-on-apple-music-a-step-by-step-guide/"><u>Disabling Autoplay on Apple Music: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-stable-gameplay-stop-starfield-pc-crashes-now/"><u>Expert Tips and Fixes for Stable Gameplay: Stop Starfield PC Crashes Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-repair-acrocefexe-errors-in-windows/"><u>How To Correctly Address and Repair acroCEF.exe Errors in Windows</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/idea-ink-the-top-10-iosandroid-image-writing-tools-for-2024/"><u>Idea Ink The Top 10 iOS/Android Image-Writing Tools for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-converting-your-favourite-tracks-bridging-spotify-with-youtube-music/"><u>In 2024, Converting Your Favourite Tracks Bridging Spotify with YouTube Music</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-high-performance-pc-hardware-tips-from-toms-digital-workshop/"><u>Navigating High-Performance PC Hardware: Tips From Tom's Digital Workshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-video-card-compatibility-problem-in-the-sims-4-tips-and-solutions/"><u>Resolving 'Video Card Compatibility Problem in The Sims 4': Tips & Solutions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/reviving-dull-images-the-most-effective-10-web-editing-aids-for-2024/"><u>Reviving Dull Images The Most Effective 10 Web Editing Aids for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/rhythmic-raptor-rumba/"><u>Rhythmic Raptor Rumba</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-to-glitch-free-playthrough-of-assassins-creed-valhalla-on-your-pc/"><u>Solution to Glitch-Free Playthrough of Assassin’s Creed Valhalla on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-final-fantasy-xiv-version-verification/"><u>Trouble with Final Fantasy XIV Version Verification</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-when-starting-farmland-tycoon-22/"><u>Troubleshooting Tips: Resolving Issues When Starting Farmland Tycoon 22</u></a></li>
+</ul></div>
 

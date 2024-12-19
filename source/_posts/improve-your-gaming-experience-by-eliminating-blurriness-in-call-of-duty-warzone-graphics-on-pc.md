@@ -1,7 +1,7 @@
 ---
 title: "Improve Your Gaming Experience by Eliminating Blurriness in Call of Duty: Warzone Graphics on PC"
-date: 2024-08-27T20:36:35.465Z
-updated: 2024-08-28T20:36:35.465Z
+date: 2024-12-16T20:32:02.180Z
+updated: 2024-12-19T00:46:55.039Z
 tags:
   - win11
   - win10
@@ -42,6 +42,10 @@ modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
@@ -63,8 +67,9 @@ wireless router
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -78,21 +83,16 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -100,11 +100,18 @@ No advertising on the website.
 1. Click the**Start** button and type**advanced system settings** in the Windows search bar. Then click**View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-1.jpg)
 2. Click**Settings** under the Performance section.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
@@ -115,11 +122,9 @@ No advertising on the website.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ### Fix 5 – Delete the game cache files
 
  The faulty game files can also lead to various issues with Warzone including the 6328 dev error. In this case, you should try cleaning up the cache.
@@ -129,6 +134,10 @@ No advertising on the website.
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -137,14 +146,8 @@ No advertising on the website.
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 
 ---
@@ -160,8 +163,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +170,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-minisculecam-record-evaluation-and-comparisons/"><u>[New] 2024 Approved MinisculeCam Record Evaluation & Comparisons</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-dive-deep-10-immersive-youtube-videos-for-vr-enthusiasts/"><u>[New] In 2024, Dive Deep 10 Immersive YouTube Videos for VR Enthusiasts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-crafting-the-perfect-end-screen-youtube-template-guidebook-for-2024/"><u>[Updated] Crafting the Perfect End Screen - YouTube Template Guidebook for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44oe44kk44oq44k544oi44cn44oh44o844k44ks5ywo6yoo57ay576f44gx44gm44cb44ol44kz44ol44kz5yuv55s744gl44kj44oq44od44ob44gn5lplusd5a2y44gz44kl44og44kv44ol44od4465/"><u>「マイリスト」データを全部網羅して、ニコニコ動画からバッチで保存するテクニック</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-drones-for-gopro/"><u>Best Drones for GoPro</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-practices-to-stop-microsofts-window-os-from-giving-you-a-flickering-display-with-chrome-updated-a-deep-dive-into-the-top-solutions-of-2024/"><u>Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024.</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/expert-techniques-for-high-quality-android-recordings-for-2024/"><u>Expert Techniques for High-Quality Android Recordings for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-menace-solving-the-no-audio-issue-in-evil-genius-2/"><u>Fixing Silent Menace: Solving the 'No Audio' Issue in Evil Genius 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-constant-crashes-in-your-diablo-iii-game/"><u>How to Fix Constant Crashes in Your Diablo III Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-horizon-zero-dawn-gameplay-enhance-frame-rate-and-optimize-performance/"><u>Improve Horizon Zero Dawn Gameplay: Enhance Frame Rate & Optimize Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/les-meilleures-options-libres-pour-la-realisation-de-films-animes-en-2nano-decouvrez-les-logiciels-avant-gardistes-du-monde-3d/"><u>Les Meilleures Options Libres Pour La Réalisation De Films Animés en 2Nano, Découvrez Les Logiciels Avant-Gardistes Du Monde 3D</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998501069-smooth-sailing-ahead-no-more-fps-drops-for-forza-horizon-5-players-on-windows-machines/"><u>Smooth Sailing Ahead: No More FPS Drops for Forza Horizon 5 Players on Windows Machines!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-mystery-of-cs-go-not-opening-innovative-techniques-and-insights-for-gamers/"><u>Solving the Mystery of CS: GO Not Opening – Innovative Techniques & Insights for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-eliminate-youtube-buffering-problems-a-step-by-step-solution/"><u>Troubleshoot and Eliminate YouTube Buffering Problems: A Step-by-Step Solution</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-to-do-if-your-apple-iphone-13-pro-has-bad-esn-or-blacklisted-imei-by-drfone-ios/"><u>What to do if your Apple iPhone 13 Pro has bad ESN or blacklisted IMEI?</u></a></li>
+</ul></div>
 

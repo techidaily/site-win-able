@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Black Screen Problem in Resident Evil Village (PC)"
-date: 2024-08-27T20:40:56.669Z
-updated: 2024-08-28T20:40:56.669Z
+date: 2024-12-14T17:18:27.252Z
+updated: 2024-12-18T18:49:24.651Z
 tags:
   - win11
   - win10
@@ -36,16 +36,27 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 2. Press the**Window logo key + I** together and click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change resolution
 
  Many players have found out the best resolution to solve this cursor issue is**16:9** . That means if you have 1680: 1050, select 1600 x 900 instead. If you run the game with a 16: 10 monitor, the black bar would appear on the bottom of your screen and the desktop mouse becomes visible. The game would be unplayable because of sensitivity and aiming issues.
@@ -55,15 +66,9 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. Choose**Screen Resolution** that fits your PC, remember the 16: 9 works better.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
 4. Make sure you’re in full screen, not borderless window.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
 **Note** : This fix might let the image lose a lot of quality.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
@@ -73,22 +78,11 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix brings no luck, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update device driver
 
  Keeping your drivers updated is important to your PC. If driver on your PC is outdated or corrupted, you may encounter crashes or other issues that won’t let you enjoy the game. To prevent potential risks, you need to update your device driver regularly.
@@ -110,12 +104,13 @@ There are two ways you can update your device drivers:
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -129,8 +124,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +131,22 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-multiversus-successfully-on-windows-overcoming-common-errors/"><u>Easy Solutions for Launching MultiVersus Successfully on Windows: Overcoming Common Errors</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722995393949-forza-horizon-npc-gameplay-stability-improvement-fps-enhancements/"><u>Forza Horizon nPC Gameplay Stability Improvement - FPS Enhancements!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012288372-get-your-pcs-minecraft-back-to-playing-smoothly-fix-common-freeze-problems-today/"><u>Get Your PC's Minecraft Back to Playing Smoothly - Fix Common Freeze Problems Today</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-gionee-f3-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Gionee F3 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-quick-fix-for-common-discord-scripting-errors/"><u>Master the Quick Fix for Common Discord Scripting Errors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ring-youtube-brand-identity-increasing-subscriber-count-for-2024/"><u>Mastering YouTube Brand Identity Increasing Subscriber Count for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-avchd-video-editing-the-top-5-software-options-this-year-for-2024/"><u>New AVCHD Video Editing The Top 5 Software Options This Year for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-how-to-fix-and-prevent-slow-frame-rates/"><u>Outriders: How to Fix and Prevent Slow Frame Rates</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-accessories-for-perfect-xbox-recording/"><u>Prime Accessories for Perfect Xbox Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723014137253-solving-the-problem-cant-launch-battlefield-4-on-windows-heres-how/"><u>Solving the Problem - Can’t Launch Battlefield 4 on Windows? Here’s How!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-essential-beginning-lineups-for-panzoids-for-2024/"><u>The Essential Beginning Lineups for Panzoids for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722966501303-the-ultimate-guide-overcoming-bluetooth-driver-challenges-in-windows-11-fixed/"><u>The Ultimate Guide: Overcoming Bluetooth Driver Challenges in Windows 11 - Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-terraria-6-reliable-strategies-for-reestablishing-connection/"><u>Troubleshoot Your Terraria: 6 Reliable Strategies for Reestablishing Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-game-crashes-in-nba-2k23-for-pc-discover-these-7-proven-fixes/"><u>Troubleshooting Game Crashes in NBA 2K23 for PC: Discover These 7 Proven Fixes</u></a></li>
+</ul></div>
 

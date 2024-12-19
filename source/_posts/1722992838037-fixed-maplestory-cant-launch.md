@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Maplestory Can’t Launch"
-date: 2024-08-27T20:38:44.322Z
-updated: 2024-08-28T20:38:44.322Z
+date: 2024-12-12T19:44:01.175Z
+updated: 2024-12-18T23:01:44.311Z
 tags:
   - win11
   - win10
@@ -35,12 +35,18 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Right-click on the shortcut and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Chang Compatibility Mode
 
  Many players has reported that changing the compatibility mode would help resolving the problem.
@@ -52,17 +58,20 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 4. Launch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change System Configuration
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**msconfig** and press**Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
 
@@ -94,9 +103,6 @@ OR
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -108,15 +114,14 @@ OR
 2. End up all the Nexon files and Maplestory files by clicking**End Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 3. Press the Windows logo key + R to open the Run box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 4. Type**regedit** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 5. Press**Windows key + F** together open the search menu.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Type**soScreenMode** and press Enter.
 7. Change the**0** to**3** . Save the change.
 8. Launch the game in compatibility mode and check.
@@ -131,8 +136,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fb-easy-listen-no-pay-required/"><u>2024 Approved FB Easy Listen No Pay Required</u></a></li>
+<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-iphone-xs-max-reviewed-why-it-stands-as-the-finest-in-its-class-despite-a-hefty-price-tag/"><u>Apple iPhone XS Max Reviewed: Why It Stands as the Finest in Its Class, Despite a Hefty Price Tag</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-content-like-a-pro-avoid-these-four-slip-ups-using-chatgpt/"><u>Crafting Content Like a Pro: Avoid These Four Slip-Ups Using ChatGPT</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-and-update-toshiba-device-drivers-for-windows-a-comprehensive-guide/"><u>Download & Update Toshiba Device Drivers for Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effective-solutions-for-when-discord-keeps-collapsing-during-live-streams-step-by-step-guide/"><u>Effective Solutions for When Discord Keeps Collapsing During Live Streams: Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-fake-gps-without-root-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Fake GPS Without Root On Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lags-in-elden-ring-six-speedy-tweaks-for-ultimate-frame-rate-and-playability/"><u>Say Goodbye to Lags in Elden Ring: Six Speedy Tweaks for Ultimate Frame Rate & Playability</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-team-fortress-2-not-launching-properly/"><u>Solutions for 'Team Fortress 2 Not Launching Properly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/step-by-step-tutorial-for-compatible-video-conversion-to-apple-tv-playback/"><u>Step-by-Step Tutorial for Compatible Video Conversion to Apple TV Playback</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/troubleshooting-and-fix-for-dxgkrnlsys-blue-screen-of-death-on-pcs/"><u>Troubleshooting and Fix for 'dxgkrnl.sys' Blue Screen of Death on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smooth-csgo-gameplay-performance/"><u>Troubleshooting Techniques for Smooth CS:GO Gameplay Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-minecraft-freezes-or-doesnt-respond/"><u>Troubleshooting Tips for When Minecraft Freezes or Doesn’t Respond</u></a></li>
+</ul></div>
 

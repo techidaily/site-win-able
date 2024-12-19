@@ -1,7 +1,7 @@
 ---
 title: "Star Wars Squadrons Troubleshooting: Step-by-Step Solution for Game Stability"
-date: 2024-08-27T20:35:49.311Z
-updated: 2024-08-28T20:35:49.311Z
+date: 2024-12-15T08:35:28.995Z
+updated: 2024-12-19T08:32:16.236Z
 tags:
   - win11
   - win10
@@ -39,6 +39,11 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
@@ -52,15 +57,21 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-7.jpg)
 5. Select**Notepad** or other similar editing tools.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
@@ -81,20 +92,26 @@ To update your graphics driver, here are two safe ways for you:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-7.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test the game’s performance after your graphics driver is updated. If Battlefield 5 still fails to open, move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Turn off Origin in-game overlay
 
  Origin enables the in-game overlay feature by default, but that may cause Battlefield 5 not starting properly. Try disabling this option to see if the problem is fixed.
@@ -103,14 +120,8 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** on the top pane and click**Application Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
 ### Fix 5 – Disable cloud storage
@@ -121,21 +132,16 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** \>**Applications Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Perform a reinstallation
 
  A fresh reinstallation is a common but solid fix to constant program problems. So, if all else above can’t get your Battlefield V back to life, try to reinstall the game completely.
@@ -162,8 +168,6 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -171,4 +175,22 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-immediate-ios-screen-playback-guide-for-2024/"><u>[New] Immediate iOS Screen Playback Guide for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-reasons-to-approach-generative-ai-with-caution-in-chat-apps/"><u>7 Reasons to Approach Generative AI with Caution in Chat Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-valorant-game-crash-problems-expert-tips-and-tricks/"><u>Fix Your Valorant Game Crash Problems: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/gratuit-online-konvertent-wav-van-w64-met-movavi-efficient-en-gemakkelijk/"><u>Gratuit Online Konvertent WAV Van W64 Met Movavi - Efficiënt en Gemakkelijk</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-v27e-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo V27e in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-yakuza-3-remastereds-pc-stability-problem-and-enjoy-seamless-gaming/"><u>How to Fix Yakuza 3 Remastered's PC Stability Problem and Enjoy Seamless Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-repair-a-broken-link-in-terraria-top-six-strategies/"><u>How to Successfully Repair a Broken Link in Terraria - Top Six Strategies</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-from-idea-to-recording-a-comprehensive-guide-to-podcast-scripting/"><u>In 2024, From Idea to Recording A Comprehensive Guide to Podcast Scripting</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-smoothly-transition-sounds-with-audition/"><u>In 2024, How to Smoothly Transition Sounds with Audition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-must-see-hd-screenshots-for-mac-users-char-limit-156/"><u>In 2024, Must See HD Screenshots for Mac Users (Char Limit 156)</u></a></li>
+<li><a href="https://win-able.techidaily.com/loaded-with-problems-resolve-among-us-endless-boot-up-hurdles-now/"><u>Loaded with Problems? Resolve Among Us' Endless Boot-Up Hurdles Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-proven-tips-to-prevent-dead-by-daylight-crashes/"><u>Mastering Stability: Proven Tips to Prevent Dead By Daylight Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-error-code-80070057-for-a-seamless-cod-black-ops-cold-war-experience/"><u>Overcoming Error Code 80070057 for a Seamless Cod: Black Ops Cold War Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/quick-refresher-green-screen-film-tech-basics-for-2024/"><u>Quick Refresher Green Screen Film Tech Basics for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-dragons-dogma-2-crash-for-windows-gamers-effective-solutions-unveiled/"><u>Troubleshooting the Dragon's Dogma 2 Crash for Windows Gamers: Effective Solutions Unveiled</u></a></li>
+</ul></div>
 

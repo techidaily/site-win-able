@@ -1,7 +1,7 @@
 ---
 title: "Mastering Smooth Playthroughs: Fixing Overwatch's Stuttering Performance Problems"
-date: 2024-08-27T20:39:30.056Z
-updated: 2024-08-28T20:39:30.056Z
+date: 2024-12-13T22:52:09.908Z
+updated: 2024-12-19T00:42:32.606Z
 tags:
   - win11
   - win10
@@ -55,20 +55,18 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 2. From the **Advanced** tab, set the Time range to **All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** , **Cache images and files** are selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa337b7af41.jpg)
 3. Click**Clear data** .
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. When the data is cleared, type **chrome://restart** in the URL bar then press **Enter** to restart Chrome and check if the problem is resolved. If not, try[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa39e38cfc3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### If you’re using Firefox
 
 1. Click the menu button on the upper right.
@@ -77,12 +75,13 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 3. A small window will pop up and ask you for details about what to delete. Select all check boxes and set the time range to **Everything** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa34023c8f2.jpg)
 4. Click**Clear Now** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 5. Once everything is clear, relaunch Firefox and check if YouTube now works properly. If not, try Fix 3, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable browser add-ons
 
@@ -95,8 +94,9 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 2. **Toggle off** all extensions to disable them.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350f743b4.jpg)
 3. Restart Chrome and test if the YouTube issue is fixed. If not, move on to[**Fix 4**](https://tools.techidaily.com/drivereasy/download/) .
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### On Firefox
@@ -107,11 +107,13 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
    * **To disable an extension or theme** , click **Extensions** or**Themes** , select the add-on you want to disable, and click the **Disable** button next to it.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35ddb2fa5.jpg)  
    * **To disable a plugin** , click **Plugins** , select the plugin you want to disable, and select **Never Activate** from the drop-down menu.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35eb2a62b.jpg)  
    * Restart Firefox to check if the problem is resolved. If not, try Fix 4, below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -127,15 +129,18 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 1. Click the**three dots** on the far right, then select **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36db131bc.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36e7f2618.jpg)
 3. Under **System** , turn off the **Use hardware acceleration when available** option.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36f56f5eb.jpg)
 4. Relaunch Chrome and test. If YouTube still freezes, try **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### If you’re using Firefox
@@ -145,14 +150,13 @@ thumbnail: https://thmb.techidaily.com/0d60a13e95bd2f19c3825589ac3dc780b265ba27c
 2. Click **General** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa373c65352.jpg)
 3. Under **Performance** , de-select **Use recommended performance settings** , then de-select **Use hardware acceleration when available** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa374843a3c.jpg)
 4. Close Firefox, then restart it and check. If YouTube still freezes, try Fix 5, below.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -176,15 +180,9 @@ OR
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa38934c6ad.jpg)
 4. Restart your computer and check if YouTube now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 6, below.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Update Adobe Flash Player
 
  Most video stream portals use Adobe Flash Player to stream videos. If Adobe Flash Player is old, or somehow corrupt, missing, it may cause YouTube to freeze. You can update Adobe Flash Player and see if it solves your problem.
@@ -195,13 +193,15 @@ Here’s how to update Adobe Flash Player
 2. Click**Install Now** to download the latest version of Adobe Flash Player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa384304614.jpg)
 3. Double-click on the downloaded file and follow the on-screen instructions to install the program.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Check if the YouTube problem is resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Use a different browser
 
  Sometimes you may need a different browser. Perhaps the web browser you are using is incompatible with the YouTube web player. Maybe its configuration, extensions or plugins (like Adobe Flash Player mentioned above) are preventing videos from playing on YouTube.
@@ -222,8 +222,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +229,22 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-daily-digital-domination-top-10-youtube-viewership-ranking/"><u>[Updated] 2024 Approved Daily Digital Domination Top 10 YouTube Viewership Ranking</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-evaluating-macs-leading-snipping-tools-compilation/"><u>[Updated] 2024 Approved Evaluating Mac's Leading Snipping Tools Compilation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-5-star-channel-cutting-long-urls-down-for-youtube-videos/"><u>[Updated] In 2024, 5-Star Channel Cutting Long URLs Down for YouTube Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-tekken-8-launch-issues-on-windows-and-mac-systems/"><u>A Comprehensive Guide to Fixing Tekken 8 Launch Issues on Windows and Mac Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-glitches-overcoming-game-lockups-in-fallout-3-with-windows-11-systems/"><u>Bypassing Glitches: Overcoming Game Lockups in Fallout 3 with Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-performance-hitches-in-call-of-duty-warzone-on-desktop-updated-solutions/"><u>Bypassing Performance Hitches in Call of Duty Warzone on Desktop - Updated Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-hitman-3-blackout-issue-when-playing-on-windowspc/"><u>Easy Fixes for Hitman 3 Blackout Issue When Playing on Windows/PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/evil-genius-ng-wont-launch-heres-how-to-troubleshoot-and-fix-it/"><u>Evil Genius nG Won’t Launch? Here's How to Troubleshoot and Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-fatal-errors-and-crashes-in-batman-arkham-knight-to-enjoy-uninterrupted-gaming/"><u>Fixing Fatal Errors and Crashes in Batman Arkham Knight to Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-expert-group-chat-options-for-virtual-gatherings/"><u>In 2024, Expert Group Chat Options for Virtual Gatherings</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-firecapture-plugins-for-firefox/"><u>In 2024, FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-moto-g-5g-2023-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Moto G 5G (2023) to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-realme-12plus-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Realme 12+ 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012558621-rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again!</u></a></li>
+</ul></div>
 

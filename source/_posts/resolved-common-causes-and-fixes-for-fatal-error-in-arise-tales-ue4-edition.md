@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Common Causes and Fixes for 'Fatal Error' In Arise Tales - UE4 Edition"
-date: 2024-08-27T20:38:25.893Z
-updated: 2024-08-28T20:38:25.893Z
+date: 2024-12-13T07:59:19.361Z
+updated: 2024-12-19T01:57:15.649Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/e660cb7c486fc8d0b8cac52fbec26fad8dcc27b5b
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work through the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -52,9 +60,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -65,15 +70,13 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -84,10 +87,11 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -108,15 +112,16 @@ And it’s quite easy to update too:
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
  After updating your system, launch Modern Warfare and check if your FPS has been improved.
 
  If this method doesn’t help your case, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
 
@@ -133,14 +138,13 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -159,8 +163,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +170,24 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-secrets-to-saving-switch-gameplay-on-video/"><u>[New] Secrets to Saving Switch Gameplay on Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999603112-solved-how-to-fix-multiversus-crashing-8-best-ways/"><u>[SOLVED] How to Fix MultiVersus Crashing – 8 Best Ways</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-inspiring-youtube-mastery-key-content-strategies-for-channels/"><u>[Updated] Inspiring YouTube Mastery Key Content Strategies for Channels</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-maximizing-your-youtube-income-through-understanding-cpm/"><u>[Updated] Maximizing Your YouTube Income Through Understanding CPM</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-honor-x9a-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Honor X9a is off? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/demystifying-star-wars-battlefront-iis-screen-troubles-a-step-by-tstep-guide-for-a-clearer-viewing-experience/"><u>Demystifying Star Wars Battlefront II's Screen Troubles: A Step-by-tStep Guide for a Clearer Viewing Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204379242-effortless-fixes-when-your-laptop-wont-hold-a-charge-get-power-back-now/"><u>Effortless Fixes When Your Laptop Won't Hold a Charge – Get Power Back Now!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/hasty-habits-presentation-file-recording/"><u>Hasty Habits Presentation File Recording</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-web-based-titling-aces-identified/"><u>In 2024, Best 5 Web-Based Titling Aces Identified</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-year-smooth-gaming-2024s-top-solutions-for-lol-black-screen-glitches/"><u>New Year, Smooth Gaming: 2024'S Top Solutions for LoL Black Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frozen-frames-eliminate-firefox-stalling-issues-with-our-expert-tips/"><u>No More Frozen Frames: Eliminate Firefox Stalling Issues with Our Expert Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-guide-overcoming-launch-errors-with-saints-row-for-a-seamless-experience/"><u>PC Gaming Guide: Overcoming Launch Errors with Saints Row for a Seamless Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-phasmophobia-game-crashes-patches-and-updates-of-2024/"><u>Solutions for Phasmophobia Game Crashes: Patches and Updates of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-art-of-recovering-from-back-to-back-computing-breakdowns/"><u>The Art of Recovering From Back-to-Back Computing Breakdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-division-2-stabilizing-tips-resolving-fps-issues-in-seconds/"><u>The Division 2 Stabilizing Tips: Resolving FPS Issues in Seconds!</u></a></li>
+<li><a href="https://win-unique.techidaily.com/troubleshooting-tips-fixing-backup-schedule-not-running-issue-on-windows-server/"><u>Troubleshooting Tips: Fixing 'Backup Schedule Not Running' Issue on Windows Server</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unlocking-the-metaverse-simplified-avatar-designs/"><u>Unlocking the Metaverse Simplified Avatar Designs</u></a></li>
+</ul></div>
 

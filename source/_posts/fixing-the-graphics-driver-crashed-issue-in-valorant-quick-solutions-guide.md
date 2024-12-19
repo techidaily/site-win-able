@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'Graphics Driver Crashed' Issue in Valorant - Quick Solutions Guide
-date: 2024-08-27T20:38:06.895Z
-updated: 2024-08-28T20:38:06.895Z
+date: 2024-12-15T16:00:44.699Z
+updated: 2024-12-18T18:52:54.763Z
 tags:
   - win11
   - win10
@@ -36,6 +36,11 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. Launch the game and click**Option** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
@@ -44,9 +49,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Method 2: Edit your configuration file
 
  If you follow the guide to install the game correctly, you can edit the configuration file to solve the freezing problem.
@@ -57,11 +59,18 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
@@ -75,19 +84,22 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
@@ -120,9 +132,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -132,9 +146,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -151,8 +162,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +169,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-step-by-step-setting-up-your-smartphone-as-a-webcam-device/"><u>[New] In 2024, Step-by-Step Setting Up Your Smartphone as a Webcam Device</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-correcting-gopros-fish-eye-distortion-techniques/"><u>[Updated] 2024 Approved Correcting GoPro's Fish Eye Distortion Techniques</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionary-rider-helmet-cams-top-picks-for-23/"><u>2024 Approved Revolutionary Rider Helmet Cams - Top Picks for '23</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-gaming-interruptions-easily-resolve-steam-disk-errors/"><u>Avoid Gaming Interruptions: Easily Resolve Steam Disk Errors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/elevate-your-websites-performance-by-leveraging-cookiebot-tech/"><u>Elevate Your Website's Performance by Leveraging Cookiebot Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-fix-no-more-vehicle-collisions/"><u>Forza Horizon 4 PC Fix - No More Vehicle Collisions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/genshin-impact-pc-version-troubleshooting-and-fixing-crashes-successfully/"><u>Genshin Impact PC Version: Troubleshooting & Fixing Crashes Successfully!</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-the-power-windows-11-and-high-dynamic-range-explained/"><u>Harnessing the Power: Windows 11 and High Dynamic Range Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-v30-lite-5g-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo V30 Lite 5G Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/outro-designs-ending-credits-for-every-budget/"><u>Outro Designs Ending Credits for Every Budget</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/stop-video-preview-on-all-platforms-with-yt/"><u>Stop Video Preview on All Platforms with YT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-oceans-archive-best-practices-in-capturing-professional-underwater-footage-for-2024/"><u>The Ocean’s Archive Best Practices in Capturing Professional Underwater Footage for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-overcome-common-issues-with-biomutant-gameplay-on-pc/"><u>Tips & Tricks: Overcome Common Issues with Biomutant Gameplay on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-resolving-issues-with-intel-graphics-drivers/"><u>Troubleshooting Fixes: Resolving Issues with Intel Graphics Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-assassins-creed-valhallas-unexpected-launch-schedule-shift/"><u>Unraveling the Mystery Behind Assassin's Creed Valhalla’s Unexpected Launch Schedule Shift</u></a></li>
+</ul></div>
 

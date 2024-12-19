@@ -1,7 +1,7 @@
 ---
 title: "Solve Your City Building Game Crashes: Expert Fixes and Strategies"
-date: 2024-08-27T20:39:09.230Z
-updated: 2024-08-28T20:39:09.230Z
+date: 2024-12-11T18:06:12.814Z
+updated: 2024-12-18T17:56:59.983Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/f604bb285b3b1ed855f8a1c3cb89d8ee4bdb35648
 6. **[Verify your game files](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable overlay](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Make sure your PC meets the specs
 
@@ -69,8 +73,9 @@ RECOMMENDED System Requirements
 ![launch DirectX Diagnostic Tool](https://images.drivereasy.com/wp-content/uploads/2020/10/dxdiag-Run-box.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Under the**System** tab, look for the DirectX version listed.
 
 ![Check DirectX Version ](https://images.drivereasy.com/wp-content/uploads/2020/10/DirectX-12-3.jpg)
@@ -87,9 +92,6 @@ If your DirectX is not Version 12, you should update it.
 
 ![download DirectX](https://images.drivereasy.com/wp-content/uploads/2020/10/DOWNLOAD-DirectX-12-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Once the download is completed, click on the**dxwebsetup.exe** file and follow the on-screen instructions to install it.
 
  4) Now restart your computer.
@@ -123,8 +125,9 @@ To stop Windows from blocking your game, simply follow the steps below:
  5) Click**OK** to save the changes.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Anti-virus software
 
  To disable anti-virus software temporarily, simply click the links below and follow the instructions to disable the anti-virus software you’re running:
@@ -174,17 +177,15 @@ OR
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch your game to check if the issue is fixed. If not, try the next fix.
@@ -208,8 +209,9 @@ Here’s how you can do it:
 ![delete temp files Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After deleting temp files, relaunch your game to check if the crashing issue persists. If it still crashes, don’t worry, there are a few other fixes for you.
 
 ---
@@ -218,18 +220,12 @@ Here’s how you can do it:
 
  Granting the launcher with administrative rights can resolve many issues including the game crashing issue. So you can run[Steam](https://tools.techidaily.com/drivereasy/download/) or[Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/) as an administrator to fix the Death Stranding crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### For Steam
 
  1) Right-click on the Steam shortcut from your desktop and select **Open file location** .
 
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator-rightclick-from-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down and find the **Steam application** . Right-click on it and select **Properties** .
 
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/09/run-steam-as-an-administrator-2.png)
@@ -238,24 +234,22 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After applying the changes, open your Steam client and launch Death Stranding to check if the problem is solved.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### For Epic Games Launcher
 
  1) Right-click on the Epic Games Launcher shortcut from your desktop and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-rightclick-on-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down and find the **EpicGamesLauncher application** . Right-click on it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-select-properties-2.jpg)
@@ -264,16 +258,10 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the changes, open Epic Games Launcher and launch Death Stranding to check if the problem is solved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Verify your game files
 
  If some of your game files are missing or corrupted, it would most likely cause the crashing issue. So in this case, you’re supposed to verify your game files to rule out the cause.
@@ -286,17 +274,15 @@ No advertising on the website.
 
 ![verify game files on Steam Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the tab**LOCAL FILES** and click**VERIFY INTEGRITY OF GAME FILES…** .
 
 ![verify game files on Steam Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  This verification process would take a while to finish. After that, play your game to check if the issue is solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### For Epic Games Launcher
 
@@ -304,9 +290,6 @@ No advertising on the website.
 
 ![verify game files on Epic Games Launcher Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-game-files-Epic-Games-Launcher-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Move your mouse pointer to**Death Stranding** and click on the**three dots** .
 
  3) Once open, click**Verify** in the drop-down navigation.
@@ -314,8 +297,9 @@ No advertising on the website.
 ![verify game files on Epic Games Launcher Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-game-files-Epic-Games-Launcher-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## Fix 7: Disable overlay
@@ -328,18 +312,12 @@ No advertising on the website.
 [Discord in-game overlay](https://tools.techidaily.com/drivereasy/download/)
 [Steam overlay](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Disable Geforce Experience in-game overlay
 
  1) Click on the**Settings** icon.
 
 ![disable overlay Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/GEFORCE-EXPERIENCE-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  2) Under the**GENERAL** tab, scroll down and switch**IN-GAME OVERLAY** to**OFF** .
 
 ![disable overlay Geforce Experience Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-overlay-GEFORCE-Experinece-1.jpg)
@@ -347,9 +325,9 @@ No advertising on the website.
 After you’ve applied the changes, remember to quit the app.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Disable Discord in-game overlay
 
  If you have Discord running, you can disable overlay by following these steps:
@@ -370,9 +348,6 @@ After applying the changes, quit Discord.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select **GENERAL**  and uncheck the box **Enable the Steam Overlay while in-game** .
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-Steam-overlay-1.png)
@@ -381,9 +356,6 @@ After applying the changes, quit Discord.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Fix 8: Stop overclocking
 
  You may have tried overclocking your computer using some applications like**MSI Afterburner** to have better gaming performance. But adversely, it would cause crashing on your game. So you need to change those settings back to normal.
@@ -400,8 +372,6 @@ After applying the changes, quit Discord.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -409,4 +379,20 @@ After applying the changes, quit Discord.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-avoiding-common-pitfalls-in-digital-marketing-journey/"><u>[New] Avoiding Common Pitfalls in Digital Marketing Journey</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeted-to-fame-identifying-2023s-most-shared-content/"><u>[New] Tweeted to Fame Identifying 2023'S Most Shared Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pennywise-pilots-best-value-drones-for-(500/"><u>[Updated] Pennywise Pilots Best Value Drones for <$500</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a59-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A59 5G Phone that is Locked?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-ideal-6-networks-for-thriving-business-ventures/"><u>In 2024, Ideal 6 Networks for Thriving Business Ventures</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-microsoft-surface-duo-costly-yet-faulty-performance/"><u>In-Depth Analysis of Microsoft Surface Duo: Costly Yet Faulty Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-solutions-for-adobe-after-effects-on-the-latest-windows-versions-11-and-n/"><u>Mastering Stability: Solutions for Adobe After Effects on the Latest Windows Versions (11 and N)</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-cyberpunk-2077-for-lower-cpu-usage-best-tips-and-tricks/"><u>Optimizing Cyberpunk 2077 for Lower CPU Usage: Best Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-msi-mystic-light-connectivity-problems-for-a-seamless-pc-setup/"><u>Resolving MSI Mystic Light Connectivity Problems for a Seamless PC Setup</u></a></li>
+<li><a href="https://facebook.techidaily.com/separating-fact-from-fiction-a-new-lens-on-facebook-reports/"><u>Separating Fact From Fiction: A New Lens on Facebook Reports</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-indestructible-spirit-of-black-america-a-journey-through-perpetual-adversity-and-victory/"><u>The Indestructible Spirit of Black America: A Journey Through Perpetual Adversity and Victory</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-call-of-duty-ww2-overcoming-the-error-4128/"><u>Troubleshooting Call of Duty: WW2 - Overcoming the Error 4128</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fix-nier-rereplica-failed-to-boot-errors/"><u>Troubleshooting Guide: Fix NieR ReReplica Failed to Boot Errors</u></a></li>
+</ul></div>
 

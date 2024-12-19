@@ -1,7 +1,7 @@
 ---
 title: Addressing the Windows Spotlight Not Working Dilemma on Windows 11 PCs
-date: 2024-08-27T20:34:16.937Z
-updated: 2024-08-28T20:34:16.937Z
+date: 2024-12-16T00:18:51.515Z
+updated: 2024-12-19T00:40:53.142Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/656378bfa436826a8517a6c678576be78969ead53
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -59,9 +63,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -80,9 +81,6 @@ There’re mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -91,6 +89,10 @@ There’re mainly two ways you can update your graphics drivers:
  Launch Premiere Pro to see if it crashes or not. Normally, after you updated the graphics driver, the crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Reset your preferences
 
@@ -101,15 +103,13 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Turn off GPU acceleration
 
  GPU acceleration is one of the common causes of Premiere Pro crashing. If you’ve turned on GPU acceleration, temporarily disable it to see if you can fix Premiere Pro crashing. Here is how to do it:
@@ -119,16 +119,14 @@ It’s quite easy to reset your preferences. Here’s how:
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Remove media cache files
 
  Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
@@ -136,6 +134,11 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 See if this fix stops the crashing. If not, try the next fix, below.
@@ -152,6 +155,10 @@ See if this fix stops the crashing. If not, try the next fix, below.
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Check for overheating components
 
  Premiere Pro utilizes both CPU and GPU to perform heavy computations. If Premiere Pro runs on your computer for a long time, your computer may get overheated, especially when its cooling system is not working properly. Once your computer got overheated, Premiere Pro may crash without warning. If it’s the case, you need to cool your computer down.
@@ -162,16 +169,14 @@ To cool down your computer, you may need to
 * Make sure your computer is in a**cool environment.**
 * Use a**better cooling system** for your computer if yours is not powerful enough.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -189,8 +194,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +201,22 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-the-unlisted-conundrum-dissecting-non-indexed-youtube-videos/"><u>[New] 2024 Approved The Unlisted Conundrum Dissecting Non-Indexed YouTube Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-going-beyond-boundaries-streaming-mastery-on-facebook-for-2024/"><u>[New] Going Beyond Boundaries Streaming Mastery on Facebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-gaming-frontier-exploration-premium-oculus-players-guide/"><u>[Updated] Gaming Frontier Exploration Premium Oculus Players Guide</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-streamline-your-youtube-experience-manage-video-comments/"><u>[Updated] In 2024, Streamline Your YouTube Experience Manage Video Comments</u></a></li>
+<li><a href="https://win-able.techidaily.com/centipede-issue-in-destiny-2-resolved-learn-how-it-got-fixed/"><u>Centipede Issue in Destiny 2 Resolved – Learn How It Got Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fix-list-to-solve-borderlands-3-is-stuck-on-startup/"><u>Definitive Fix List to Solve 'Borderlands 3 Is Stuck on Startup'</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-black-display-during-boot-up-heres-how-to-resolve-it/"><u>Elden Ring Black Display During Boot-Up? Here's How to Resolve It</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-and-crashes-in-your-digital-metropolis-advanced-fixes-for-city-skylines/"><u>Eliminate Lag and Crashes in Your Digital Metropolis: Advanced Fixes for City Skylines</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-dive-into-av1-a-simple-guide-for-neophytes/"><u>In 2024, Dive Into AV1 A Simple Guide for Neophytes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-secrets-of-screen-grabs-exposed/"><u>In 2024, Secrets of Screen Grabs Exposed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, What are Location Permissions Life360 On Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-edge-crashes-on-windows-11-heres-how-you-can-fix-it/"><u>Microsoft Edge Crashes on Windows 11? Here's How You Can Fix It!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/redefine-viewing-premium-platforms-for-videos/"><u>Redefine Viewing Premium Platforms for Videos</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/top-video-editing-apps-for-pc-gopro-quik-and-more-for-2024/"><u>Top Video Editing Apps for PC GoPro Quik and More for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-overwatch-2-continuous-pc-crashes/"><u>Troubleshooting Steps for 'Overwatch 2' Continuous PC Crashes</u></a></li>
+</ul></div>
 

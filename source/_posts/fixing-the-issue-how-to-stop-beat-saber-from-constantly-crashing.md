@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Stop Beat Saber From Constantly Crashing"
-date: 2024-08-27T20:35:40.933Z
-updated: 2024-08-28T20:35:40.933Z
+date: 2024-12-17T19:02:21.353Z
+updated: 2024-12-18T22:57:05.284Z
 tags:
   - win11
   - win10
@@ -45,8 +45,9 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Run Hearthstone as administrator
 
  Windows runs Hearthstone in user mode by default, but that might keep it from accessing certain files and cause the crashes. To see if that’s the case, you could run Hearthstone as administrator and relaunch the game.
@@ -59,9 +60,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/3-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  Launch Hearthstone to see if the problem reappears. If yes, continue to the next fix.
 
 ---
@@ -82,6 +80,10 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -89,8 +91,9 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You could do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -110,32 +113,14 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 **3)** Click**Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for the scan and repair to finish, then relaunch your game to see if the crashing issue is settled. If not, try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Temporarily disable the anti-virus programs
 
  Sometimes the third-party anti-virus programs will interfere with Hearthstone and prevent it from launching or running. Temporarily**disable any anti-virus programs** you’re using to determine if it’s the cause.
@@ -148,6 +133,10 @@ There are two ways you can update the graphics driver:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Delete the Hearthstone folder
 
  Many users managed to start Hearthstone normally by deleting the Hearthstone folder. Here’s how:
@@ -156,23 +145,18 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 **2)** Right click the Hearthstone folder and click**Delete** , or just move it to another location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  Relaunch Hearthstone to see if you get rid of the crashing issue. If not, keep reading the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Perform a clean boot
 
  Some services or applications running in the background may also conflict with Hearthstone. A clean boot allows Windows to start up with only critical drivers and programs, so you’ll know if any other software is hindering your game.
@@ -181,9 +165,6 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Select the**Services** tab. Then, check**Hide all Microsoft services** , and click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
@@ -195,18 +176,20 @@ There are two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select the**Startup** tab. Then, right click each enabled startup item and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **5)** Go back to the System Configuration window, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**Restart** .
 
@@ -225,6 +208,10 @@ There are two ways you can update the graphics driver:
 **2)** Click the**Normal startup** button, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Restart** .
 
@@ -246,6 +233,10 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Download the latest version of Hearthstone and double click the downloaded file to install it.
 
 ---
@@ -262,8 +253,6 @@ There are two ways you can update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -271,4 +260,18 @@ There are two ways you can update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-optimal-aerial-vehicles-your-next-purchase/"><u>[New] Optimal Aerial Vehicles Your Next Purchase</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-feast-on-a-gallery-ios-top-10-free-stunning-photo-collage-apps/"><u>[Updated] In 2024, Feast on a Gallery IOS’ Top 10 FREE, Stunning Photo Collage Apps</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/2024-approved-discover-the-best-10-free-tiktok-video-editing-apps-for-mac/"><u>2024 Approved Discover the Best 10 FREE TikTok Video Editing Apps for Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95782594-9781620550892-a-brief-tour-of-higher-consciousness-2nd-ed/"><u>A Brief Tour of Higher Consciousness (2nd ed.) | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-fallout-3-launch-failures-with-our-top-troubleshooting-tactics/"><u>Defeat Fallout 3 Launch Failures with Our Top Troubleshooting Tactics</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-performance-boost-updating-your-graphics-drivers/"><u>Forza Horizon 5 Performance Boost: Updating Your Graphics Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210197803-9780760368220-knot-magic/"><u>Knot Magic | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-how-to-fix-continuous-crashes-in-beat-saber/"><u>Resolving the Issue: How to Fix Continuous Crashes in Beat Saber</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-ultimate-resource-for-safe-and-efficient-data-destruction-advice/"><u>Stellar's Ultimate Resource for Safe and Efficient Data Destruction Advice</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-the-secrets-of-apple-vision-pro-expert-guidance-on-impeccable-screenshot-captures-and-seamless-recordings-zdnet-insights/"><u>Unlocking the Secrets of Apple Vision Pro: Expert Guidance on Impeccable Screenshot Captures and Seamless Recordings | ZDNET Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-helldivers-ii-wont-start-on-steam-and-how-to-successfully-fix-it/"><u>Why Helldivers II Won't Start on Steam and How to Successfully Fix It</u></a></li>
+</ul></div>
 

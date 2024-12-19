@@ -1,7 +1,7 @@
 ---
 title: BioShock 2 Performance Boost - Tips & Solutions for Handling Crashes and Enjoying the Full Experience
-date: 2024-08-27T20:36:40.346Z
-updated: 2024-08-28T20:36:40.346Z
+date: 2024-12-12T21:48:40.404Z
+updated: 2024-12-19T06:49:05.808Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 5. [**Close all the background programs**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  The constant crashes may indicate an**integrity issue** with your game files. To check and repair corrupted game files, simply follow these steps:
@@ -35,6 +39,11 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 1. Go to your**Steam Library** . Right-click**Marvel’s Avengers** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-1.jpg)
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** , then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-2.jpg)
 
  Once you’ve completed this process, launch Marvel’s Avengers and check if the crash reappears.
@@ -50,9 +59,6 @@ You can install system updates with just a few clicks:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box. Type or paste **control /name Microsoft.WindowsUpdate** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . This might take a while for Windows to search and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed all the updates, restart your computer for it to take full effect.
 
@@ -62,9 +68,6 @@ You can install system updates with just a few clicks:
 
  If this fix doesn’t work for your case, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In most cases, crashing issues tend to be driver-related, which means you’re probably using a**faulty** or**outdated graphics driver** . So updating your driver could very well tackle your problem right away.
@@ -99,8 +102,9 @@ You can install system updates with just a few clicks:
  If this method doesn’t give you any luck, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable all the overlays
 
 **Using overlay for games** is another possible cause for crashing. So if you’re using overlays like**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable this feature and start the game directly.
@@ -110,15 +114,11 @@ You can install system updates with just a few clicks:
 1. On the top left corner of your Steam client, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab,**uncheck** these boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Marvel’s Avengers and see if it crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t do the trick for you, please continue to the next one.
@@ -128,8 +128,9 @@ The powerful video editing program for your Windows PC</a>
  Some AAA titles require all the resources of your rig, and sometimes they crash because you have other programs eating up your RAM or CPU resources. So check if you’re running large programs such as**Chrome** ,**Discord** or**Skype** . If you do, close them before launching Marvel’s Avengers.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Turn off VSync
 
  VSync is “**Vertical Sync** ” for short. It’s a feature that locks your FPS at a certain range, which is believed to be a solution to screen tearing. But VSync has downsides too. It might cause system instability and crash your game. Usually GPU manufacturers will release driver updates targeting this issue, but before that update comes out, you can try to fix the crash by simply disabling VSync.
@@ -142,6 +143,10 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Launch Marvel’s Avengers and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  So these are the fixes for your crashing issue with Marvel’s Avengers. Hopefully, you’ve fixed the crash and can realize your super hero dream. If you have any questions and suggestions, don’t hesitate to leave a comment.
@@ -152,8 +157,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +164,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-find-youtube-hidden-videos/"><u>[Updated] How to Find YouTube Hidden Videos</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-step-by-step-techniques-for-creating-stellar-valorant-thumbnail-images/"><u>[Updated] In 2024, Step-by-Step Techniques for Creating Stellar Valorant Thumbnail Images</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-organize-and-share-music-how-to-make-youtube-playlists-easier-for-2024/"><u>[Updated] Organize and Share Music How to Make YouTube Playlists Easier for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-speedy-tempo-change-software-showcase-mobile-pc-for-2024/"><u>[Updated] Speedy Tempo Change Software Showcase (Mobile, PC) for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-every-frame-best-free-download-apps-for-mobile-devices/"><u>Enjoy Every Frame Best Free Download Apps for Mobile Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-crashes-and-lag-expert-solutions-for-smooth-play/"><u>Fix Your Game Crashes and Lag - Expert Solutions for Smooth Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-connection-troubles-heres-how-to-fix-no-ping-detected-from-our-servers/"><u>Halo Infinite Connection Troubles? Here's How to Fix 'No Ping Detected From Our Servers'</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-12-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 12 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/meilleurs-gestionnaires-de-telechargement-videos-pour-mac-utiliser-des-films-en-hd-et-4k-sans-frais/"><u>Meilleurs Gestionnaires De Téléchargement VIDEOS Pour MAC : Utiliser Des Films en HD Et 4K Sans Frais</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-hacks-ending-the-saga-of-constant-crashes-in-outpost-infinity-siege-gameplay/"><u>PC Gaming Hacks: Ending the Saga of Constant Crashes in Outpost: Infinity Siege Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frequent-outlook-app-shutdowns-a-step-by-step-guide/"><u>Resolving Frequent Outlook App Shutdowns - A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-the-ultimate-guide-to-hand-drawing-whiteboard-animation-makers-for-2024/"><u>Updated The Ultimate Guide to Hand Drawing Whiteboard Animation Makers for 2024</u></a></li>
+</ul></div>
 

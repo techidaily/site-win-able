@@ -1,7 +1,7 @@
 ---
 title: "Discord Display Troubles: Fixing Screen Sharing Issues That Cause a Black Outage on Screens"
-date: 2024-08-27T20:35:25.220Z
-updated: 2024-08-28T20:35:25.220Z
+date: 2024-12-17T21:32:39.394Z
+updated: 2024-12-18T17:44:15.372Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 3. [Launch through the NVIDIA GeForce app](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check your system requirement
 
  Make sure your PC meets the minimum system requirements, that’s the basic requirement.
@@ -45,19 +49,19 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
 2. Click the**gear button** on the bottom to open User settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-41-03.jpg)
 3. Click**Overlay** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Check**Enable in-game overlay** . Disable it if it’s toggled.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/2021-03-11_9-42-39.jpg)
 5. Relaunch your game and check.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Launch through the NVIDIA GeForce app
 
  If you’re using NVIDIA graphic card on your PC, you can install[NVIDIA GeForce Experience app](https://tools.techidaily.com/drivereasy/download/) , then launch the game through the app.
@@ -65,8 +69,9 @@ Star Wars Battlefront 2 is an old game, so is the issue. The old game issue disc
  In the game settings, change the video options from Fullscreen to Borderless and the game should running properly every time.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Star Wars Battlefront 2 black screen issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -95,15 +100,14 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -117,8 +121,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -126,4 +128,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-chortlecraft-customize-funny-digital-images/"><u>[New] ChortleCraft Customize Funny Digital Images</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-foolproof-method-for-adding-a-link-to-your-tiktok-bio-for-2024/"><u>[New] Foolproof Method for Adding a Link to Your TikTok Bio for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-complete-guide-to-crafting-captivating-snapchat-boomers-for-2024/"><u>[New] The Complete Guide to Crafting Captivating Snapchat Boomers for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-elite-gaming-setup-essentials-revealed/"><u>[Updated] 2024 Approved Elite Gaming Setup Essentials Revealed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-augment-your-vfx-arsenal-explore-these-top-8-sites-for-free-eco-backgrounds-for-2024/"><u>[Updated] Augment Your VFX Arsenal - Explore These Top 8 Sites for Free Eco-Backgrounds for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insightful-analysis-of-modifying-photographic-genders-on-social-platforms-for-2024/"><u>[Updated] Insightful Analysis of Modifying Photographic Genders on Social Platforms for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/bluescreenview-explained-with-ease-and-clarity/"><u>BlueScreenView Explained with Ease and Clarity</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-rectified-unauthorized-access-in-gaming-alert-cleared-up/"><u>Error Rectified: Unauthorized Access in Gaming Alert Cleared Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-not-working-here-are-the-proven-steps-to-restore-functionality/"><u>Google Meet Camera Not Working? Here Are the Proven Steps to Restore Functionality!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guardians-of-the-galaxy-pc-game-8-troubleshooting-steps-for-a-smooth-play-experience/"><u>Guardians of the Galaxy PC Game: 8 Troubleshooting Steps for a Smooth Play Experience</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oneplus-nord-n30-5g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-black-screen-problem-in-call-of-duty-wwii-when-playing-on-windows-solutions/"><u>How to Fix the 'Black Screen' Problem in Call of Duty: WWII when Playing on Windows - Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-baffling-warzone-memory-error-0-1766-on-your-xboxpc-setup/"><u>How To Fix The Baffling Warzone Memory Error 0-1766 On Your Xbox/PC Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-your-outlook-is-not-launching/"><u>Solving the Issue: Why Your Outlook Is Not Launching</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-repair-guide-eliminating-the-dxgkrnl-fatal-error-from-your-windows-videos/"><u>Step-by-Step Repair Guide: Eliminating the Dxgkrnl Fatal Error From Your Windows Videos</u></a></li>
+</ul></div>
 

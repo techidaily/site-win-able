@@ -1,7 +1,7 @@
 ---
 title: "Maximize Your CS2 Experience: Fixing Frame Rate Drops and Gameplay Interruptions"
-date: 2024-08-27T20:40:55.513Z
-updated: 2024-08-28T20:40:55.513Z
+date: 2024-12-16T22:51:42.110Z
+updated: 2024-12-19T01:15:00.099Z
 tags:
   - win11
   - win10
@@ -35,6 +35,11 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 2. Click**Graphics Settings** from the System Menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-1.jpg)
 3. Choose**Full Screen** for Display Mode, and turn off**Shadows** and**Motion Blur** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-3.jpg)
 4. On the next page, turn off**Dynamic Reflections** and**Ambient Occlusion** . Then, set**Texture Quality** and**Effect Quality** to**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-2.jpg)
@@ -54,9 +59,6 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 3. Untick**Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 #### On Discord
 
 1. Run Discord.
@@ -65,25 +67,21 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 3. Click the**Overlay** tab and toggle off**Enable in-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 #### On GeForce Experience
 
 1. Run GeForce Experience.
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 3. Scroll to toggle off**In-Game Overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/0-00.jpg)
 
  After you disable any overlays in-use, restart Nioh 2 to see if it performs better now. If not, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  Graphics card driver matters a lot to your gaming performance. If you’re using a faulty or outdated graphics driver, Nioh 2 FPS drop is likely to occur. GPU manufacturers will regularly optimize their drivers for the latest titles. So if you expect smooth gameplay with high and steady FPS, you should keep your graphics driver up-to-date.
@@ -98,17 +96,22 @@ There are two ways you can update the driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-de-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart the computer and launch Nioh 2 to test. If you don’t see any improvements in the game performance, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Optimize the graphics card settings
 
@@ -119,14 +122,13 @@ There are two ways you can update the driver:
 2. Select**3D Settings** \>**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-2.jpg)
 3. Go to the**Program Settings** tab. Then click the**Add** button and select Nioh 2 to customize.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-3.jpg)
 4. Choose **High-performance NVIDIA processor** as the preferred graphics processor.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-8-1.jpg)
 5. Adjust the specific settings as follows:  
 **Image Sharpening** :_Off_  
@@ -139,6 +141,10 @@ There are two ways you can update the driver:
 
  Launch Nioh 2 to see how thing goes. If the problem persists, check out the last fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5 – Close unnecessary background programs
 
  When applications running in the background like Discord or Chrome eat up your RAM or CPU resources, Nioh 2 may become stuttering and FPS capped. Before you start gaming, make sure to close all unneeded applications.
@@ -146,14 +152,17 @@ There are two ways you can update the driver:
 1. Right-click any empty space on the taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-1.jpg)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run Nioh 2 and you should achieve higher frame rates during the gameplay.
 
 ---
@@ -169,8 +178,6 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +185,22 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-asus-rog-phone-8-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Asus ROG Phone 8 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-the-stability-problem-resolving-pc-crashes-in-assassins-creed-valhalla/"><u>Addressing the Stability Problem: Resolving PC Crashes in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-gzw-failures-on-pc-systems/"><u>Effective Solutions for Fixing GZW Failures on PC Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-xiaomi-redmi-a2plus-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Xiaomi Redmi A2+ To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-persistent-valorant-game-crashes-for-a-smooth-gaming-experience-on-pc/"><u>How to Resolve Persistent Valorant Game Crashes for a Smooth Gaming Experience on PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-y78plus-t1-edition-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo Y78+ (T1) Edition to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-deciphering-ios-mechanism-for-image-capture/"><u>In 2024, Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-honor-x50iplus-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Honor X50i+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-the-art-of-analytics-essential-tools-for-beginner-marketers-on-social-media/"><u>In 2024, Mastering the Art of Analytics Essential Tools for Beginner Marketers on Social Media</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-cropping-videos-in-avidemux-a-comprehensive-guide-for-beginners-and-pros/"><u>New Cropping Videos in Avidemux A Comprehensive Guide for Beginners and Pros</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-r-type-final-from-freezing-on-your-computer-system/"><u>Resolved: How to Stop R-Type Final ^ From Freezing on Your Computer System</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/simplified-processes-generating-your-podcasts-rss-feed-for-2024/"><u>Simplified Processes Generating Your Podcast's RSS Feed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-when-discord-screen-share-mutes-fix-it-now/"><u>Solution Guide: When Discord Screen Share Mutes, Fix It Now!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-11-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme 11 Pro? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-fixing-the-causes-of-regular-nox-player-breakdowns-on-desktops/"><u>Understanding and Fixing the Causes of Regular Nox Player Breakdowns on Desktops</u></a></li>
+</ul></div>
 

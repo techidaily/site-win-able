@@ -1,7 +1,7 @@
 ---
 title: "Forza Horizon 4 PC Crash: Troubleshooting and Solutions"
-date: 2024-08-27T20:36:07.198Z
-updated: 2024-08-28T20:36:07.198Z
+date: 2024-12-16T01:20:56.273Z
+updated: 2024-12-18T16:54:35.944Z
 tags:
   - win11
   - win10
@@ -52,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Install the latest game patch
 
  The developers of Anno 1800, Unisoft, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **[Ubisoft official website](https://www.ubisoft.com/en-us/)**  , check for the latest patch, download and install it. Then check if it fixes the Anno 1800 game crash problem.
@@ -61,8 +65,9 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Switch DirectX versions
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
@@ -77,7 +82,15 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Check out your **DirectX version** in the first page of the report.
 
@@ -95,9 +108,6 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
 
  4) Restart your computer for the change to take effect.
@@ -108,14 +118,12 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 2) Open the engine.ini file.
 
 3) Change**DeviceType: DX 12** to**DX 11** and**Adapter: 1** to**Adapter: 0** .
@@ -124,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Check if your PC meets the system requirements for Anno 1800
 
  Anno 1800 may also crash with a DirectX if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Anno 1800.
@@ -156,8 +161,9 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -179,8 +185,6 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +192,20 @@ thumbnail: https://thmb.techidaily.com/65fba9a952c6564fd879ce858daef732be8f2531c
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-avoiding-pitfalls-navigating-through-facebooks-algorithm-update/"><u>[Updated] 2024 Approved Avoiding Pitfalls Navigating Through Facebook's Algorithm Update</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/anchor-audios-to-corresponding-slides-in-ppt/"><u>Anchor Audios to Corresponding Slides in PPT</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/apples-upcoming-unveiling-the-understated-yet-impactful-ai-innovation-set-for-wwdc-reveal/"><u>Apple's Upcoming Unveiling: The Understated yet Impactful AI Innovation Set for WWDC Reveal</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-input-latency-mastering-valorant-on-your-pc/"><u>Beat Input Latency: Mastering Valorant on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/establishing-safe-file-housing-on-win1011-systems/"><u>Establishing Safe File Housing on Win10/11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-on-pc-freezing-fix-it-with-these-2024-expert-solutions/"><u>Fortnite on PC Freezing? Fix It with These 2024 Expert Solutions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-3-stability-issues-on-pc-discover-the-fix/"><u>Halo 3 Stability Issues on PC? Discover the Fix</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/magsafe-connection-gear-comprehensive-analysis-and-ratings-cnet/"><u>MagSafe Connection Gear : Comprehensive Analysis and Ratings | CNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-art-of-debugging-eradicating-xbox-and-pcs-code-0-1766-error-in-call-of-duty-warzone/"><u>Master the Art of Debugging: Eradicating Xbox & PC's Code 0-1766 Error in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-roam-tips-for-resolving-stalling-start-up-in-far-cry-5/"><u>Ready to Roam? Tips for Resolving Stalling Start-Up in Far Cry 5</u></a></li>
+<li><a href="https://some-skills.techidaily.com/refined-aesthetics-microsofts-office-web-apps-get-stunning-revamp/"><u>Refined Aesthetics: Microsoft's Office Web Apps Get Stunning Revamp</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/straightforwardsnapper-w10s-easy-tool/"><u>StraightforwardSnapper W10's Easy Tool</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/top-strategies-for-preventing-skyfall-problems-in-how-to-build-a-metropolis-cities-skylines-latest-fixes/"><u>Top Strategies for Preventing Skyfall Problems in How to Build a Metropolis: Cities Skylines [Latest Fixes]</u></a></li>
+</ul></div>
 

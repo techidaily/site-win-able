@@ -1,7 +1,7 @@
 ---
 title: "'Sons of the Forest' Sudden Shutdowns on PC: Diagnosis & Solutions Explained"
-date: 2024-08-27T20:39:06.930Z
-updated: 2024-08-28T20:39:06.930Z
+date: 2024-12-13T03:13:08.543Z
+updated: 2024-12-19T00:15:14.339Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7104f2fdb3efe51471cdd88f375c828abb8a0fae8
 
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -39,6 +43,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If using dual monitors, disable your second one from your**Windows display settings** .  
  Ensure that the resolution of the game matches that of your display monitors.
 
@@ -52,25 +60,24 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
  The privilege issue might be the reason for Fallout 3 freezing issue. With high integrity access, Fallout 3 can make full use of its features, so run it as an administrator to see if this fixes your freezes.
@@ -79,22 +86,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your graphics card drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter freezes. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -126,14 +132,15 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
 
@@ -151,8 +158,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +165,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-audiophiles-choice-selecting-superior-oculus-devices/"><u>[New] Audiophiles' Choice Selecting Superior Oculus Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-ultimate-guide-to-growth-and-glitter-in-video-ventures/"><u>[New] The Ultimate Guide to Growth & Glitter in Video Ventures</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-beware-the-risk-in-fake-followers-on-youtube/"><u>[Updated] 2024 Approved Beware The Risk in Fake Followers on YouTube</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-hidden-gems-10-unique-facebook-meme-pages/"><u>[Updated] In 2024, Hidden Gems 10 Unique Facebook Meme Pages</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-streamline-color-correction-with-easy-techniques/"><u>2024 Approved Streamline Color Correction with Easy Techniques</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/crafting-metropolises-in-cities-skylines-an-irresistible-city-building-adventure/"><u>Crafting Metropolises in 'Cities: Skylines': An Irresistible City-Building Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-for-diablo-ii-reborn-players-a-comprehensive-guide/"><u>Fixing Launch Errors for Diablo II Reborn Players – A Comprehensive Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-realme-11-pro-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Realme 11 Pro Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-innovative-windows-podcast-solutions-top-8-cutting-edge-apps/"><u>In 2024, Innovative Windows Podcast Solutions Top 8 Cutting-Edge Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-the-art-of-full-image-display-on-instagram-a-step-by-step-guide/"><u>Mastering the Art of Full Image Display on Instagram: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lost-ark-no-sound-problem-expert-advice/"><u>Overcoming Lost Ark No Sound Problem: Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989980589-quick-fixes-for-smooth-play-improve-your-frames-per-second-fps-on-elden-ring/"><u>Quick Fixes for Smooth Play: Improve Your Frames Per Second (FPS) on Elden Ring.</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-against-fortnite-freezes-advanced-strategies-to-optimize-gameplay/"><u>Winning Against Fortnite Freezes: Advanced Strategies to Optimize Gameplay</u></a></li>
+</ul></div>
 

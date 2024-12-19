@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Glitches: Solve Persistent Fall Guys PC Freezes"
-date: 2024-08-27T20:39:51.915Z
-updated: 2024-08-28T20:39:51.915Z
+date: 2024-12-16T05:25:13.196Z
+updated: 2024-12-19T06:08:06.132Z
 tags:
   - win11
   - win10
@@ -25,15 +25,16 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -47,12 +48,20 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -63,9 +72,6 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
@@ -78,24 +84,17 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 6. Restart your computer and check to see if the problem resolves.
 
 ### Method 5: Use windowed mode
@@ -106,6 +105,11 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -118,8 +122,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +129,16 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-checklist-for-professional-live-streaming/"><u>[New] In 2024, The Ultimate Checklist for Professional Live Streaming</u></a></li>
+<li><a href="https://games-able.techidaily.com/elevate-your-gameplay-top-6-innovative-chess-mobile-games/"><u>Elevate Your Gameplay: Top 6 Innovative Chess Mobile Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-effective-ways-to-overcome-no-user-logged-in-error-in-counter-strike-global-offensive/"><u>Five Effective Ways to Overcome 'No User Logged In' Error in Counter-Strike Global Offensive</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6-without-losing-any-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6 without Losing Any Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamlining-device-management-tips-for-using-the-miniature-driver-easy-app/"><u>Streamlining Device Management: Tips for Using the Miniature Driver Easy App</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-crashes-in-ni-no-musume-2-full-version/"><u>Troubleshooting Steps for Fixing Crashes in Ni No Musume 2 Full Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-non-responsive-corsair-icue-software-on-windows-11-pcs/"><u>Troubleshooting Steps for Non-Responsive Corsair iCUE Software on Windows 11 PCs</u></a></li>
+</ul></div>
 

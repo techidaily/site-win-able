@@ -1,7 +1,7 @@
 ---
 title: Fixes for Rainbow Six Extraction Unwanted Restarts and Crashes on Windows
-date: 2024-08-27T20:34:37.649Z
-updated: 2024-08-28T20:34:37.649Z
+date: 2024-12-12T23:26:59.006Z
+updated: 2024-12-18T23:38:30.490Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -47,10 +48,11 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Kill background programs
 
@@ -62,13 +64,11 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  As a game player, the graphics card is one of the most important components of your PC. If the graphics driver is outdated or corrupted, you may not be able to enjoy the game. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve gaming performance and experience, but Windows won’t always provide you with the latest version.
@@ -85,11 +85,12 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -104,8 +105,9 @@ So, there are two ways that you can update your graphics driver:
 3. Click**Reset Request** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Increase page file size
 
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
@@ -132,8 +134,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +141,18 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-a-complete-guide-to-utilizing-zoom-in-windows-10/"><u>[New] A Complete Guide to Utilizing Zoom in Windows 10</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-complete-instagram-reversal-methodology/"><u>[New] The Complete Instagram Reversal Methodology</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-utilizing-alternate-shots-to-elevate-film-quality/"><u>[New] Utilizing Alternate Shots to Elevate Film Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-overcoming-technical-glitches-in-phasmophobia-for-an-optimal-vr-experience/"><u>Comprehensive Solutions: Overcoming Technical Glitches in Phasmophobia for an Optimal VR Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-launch-fixes-addressing-and-correcting-entry-point-errors/"><u>Fortnite Launch Fixes: Addressing and Correcting Entry Point Errors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-6-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 6 Prevention & Solution</u></a></li>
+<li><a href="https://windows11.techidaily.com/real-time-resource-management-tracking-cpu-memory-and-graphics/"><u>Real-Time Resource Management: Tracking CPU, Memory & Graphics</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-address-and-correct-days-gone-not-starting-up-on-windowspc/"><u>Resolved! How To Address and Correct Days Gone Not Starting Up on Windows/PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-stability-solutions-for-gamers-tips-to-prevent-crashes-in-cuireyear/"><u>Rocket League Stability Solutions for Gamers - Tips to Prevent Crashes in Cuire_year</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-role-of-chatgpt-in-facilitating-malware-design-a-possibility-or-myth/"><u>The Role of ChatGPT in Facilitating Malware Design: A Possibility or Myth?</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-fortnites-ls-0013-boot-problem-learn-here/"><u>Ultimate Fix for Fortnite's LS-0013 Boot Problem - Learn Here!</u></a></li>
+</ul></div>
 

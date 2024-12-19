@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Rocket League Freezing Issues: Fixes and Tips for Optimal Gameplay"
-date: 2024-08-27T20:35:22.027Z
-updated: 2024-08-28T20:35:22.027Z
+date: 2024-12-17T07:39:55.728Z
+updated: 2024-12-19T04:45:52.856Z
 tags:
   - win11
   - win10
@@ -48,9 +48,17 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) When Windows asks you to confirm, click **End process** .
 
@@ -62,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use “flushdns” command
 
  This command is pretty useful to solve network-related issues. When you’re having major lag spikes in games or just feel that your network connection is unstable/stops working, you should always give this fix a try.
@@ -73,9 +78,6 @@ thumbnail: https://thmb.techidaily.com/d386a416e48c7407fcb7aac43bcc48ab905a8aa1d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Click **Yes** if you’re prompted about permission.
 
 2) In your command prompt window, enter the following command:
@@ -106,9 +108,6 @@ ipconfig /flushdns
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -118,8 +117,9 @@ ipconfig /flushdns
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
@@ -162,17 +162,9 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
@@ -189,9 +181,6 @@ wireless router
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## OBS lags when recording
 
  Overloaded GPU is the main cause reason for the lag issue. Luckily, below you will find some solutions that do work for many OBS users:
@@ -202,8 +191,9 @@ wireless router
 4. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Adjust OBS settings
 
  There’re quite a few guidelines for how to find out the OBS settings that give you the best streaming/recording performance. You can simply google “obs settings for streaming” and follow the instructions ranking high; also keep in mind that you may need to play around with different settings until you find the ones that work wonders. For example, you could start with the settings below:
@@ -217,18 +207,13 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Note that settings optimized for different streaming services (Twitch, Youtube, etc.) may vary, and you can probably find the recommended settings on their official websites (e.g., **[OBS settings for Twitch](https://stream.twitch.tv/)**  ).
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Update graphics card drivers
 
@@ -246,9 +231,6 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
@@ -257,9 +239,17 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Lower in-game graphics settings
 
@@ -279,8 +269,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -288,4 +276,26 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-the-dark-art-of-night-photography-best-practices-revealed/"><u>[New] 2024 Approved The Dark Art of Night Photography Best Practices Revealed</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-chromatic-charisma-mastering-colorful-filters-on-snapchat-for-2024/"><u>[New] Chromatic Charisma Mastering Colorful Filters on Snapchat for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevating-your-social-media-game-horizontal-videos-on-igtv/"><u>[New] In 2024, Elevating Your Social Media Game Horizontal Videos on IGTV</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-nba-2k20-crash-issue-quickly-and-easily/"><u>[SOLVED] NBA 2K20 Crash Issue | Quickly & Easily</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-seeing-beyond-our-elite-rankings-of-camera-lenses-1-10/"><u>[Updated] 2024 Approved Seeing Beyond Our Elite Rankings of Camera Lenses #1-10</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-exploring-christian-music-collections-for-your-device/"><u>[Updated] Exploring Christian Music Collections For Your Device</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/easy-configuration-of-user-privileges-in-control-panel-with-yl-software-tutorials/"><u>Easy Configuration of User Privileges in Control Panel with YL Software Tutorials</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-your-terraria-game-glitches-six-reliable-fixes-for-restoring-stability/"><u>End Your Terraria Game Glitches: Six Reliable Fixes for Restoring Stability</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/from-chaos-to-calm-quick-edits-for-your-overwhelming-tiktok-drafters/"><u>From Chaos to Calm Quick Edits for Your Overwhelming TikTok Drafters</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-launch-problems-heres-how-to-fix-the-initial-black-screen/"><u>Helldivers 2 Launch Problems? Here's How to Fix the Initial Black Screen!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-msi-afterburner-to-see-your-graphics-card-under-windows-10-or-11/"><u>How to Get MSI Afterburner to See Your Graphics Card Under Windows 10 or 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-steams-cloud-synchronization-issues-expert-tips-and-tricks/"><u>How to Resolve Steam's Cloud Synchronization Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-problems-in-steams-remote-play-functionality/"><u>Overcoming Common Problems in Steam's Remote Play Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-god-of-wars-persistent-pc-freezing-problems-a-step-by-estep-guide/"><u>Overcoming God of War's Persistent PC Freezing Problems - A Step-by-eStep Guide</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-chromes-glitchy-glow-a-2024-definitive-repair-manual-for-windows-enthusiasts/"><u>Say Goodbye to Chrome's Glitchy Glow: A 2024 Definitive Repair Manual for Windows Enthusiasts</u></a></li>
+<li><a href="https://discover-able.techidaily.com/solving-your-pcs-booting-problems-a-guide-by-yl-computing-and-yl-software/"><u>Solving Your PC's Booting Problems: A Guide by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-fight-against-crashes-enhancing-stability-for-fallout-3-on-modern-windows-machines/"><u>Winning the Fight Against Crashes: Enhancing Stability for Fallout 3 on Modern Windows Machines</u></a></li>
+</ul></div>
 

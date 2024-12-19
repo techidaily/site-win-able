@@ -1,7 +1,7 @@
 ---
 title: "CoD Vanguard Troubleshooting: How to Resolve Code 0X00001338 Issues in Windows"
-date: 2024-08-27T20:40:51.871Z
-updated: 2024-08-28T20:40:51.871Z
+date: 2024-12-18T08:27:07.899Z
+updated: 2024-12-18T21:30:46.755Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Clear the game cache
 
  If you’re still running into Vanguard error codes, it might be caused by your game cache. A quick fix is to delete the “Players” folder. Here’s how:
@@ -49,18 +46,27 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
 `(C:\ProgramData\Blizzard Entertainment\Battle.net\Cache)`
 
  4) Delete every folder or file under the**Cache** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
 
  If you are experiencing the error on a non-RTX GPU, then try reducing the GPU clock by 50 MHz using MSI Afterburner to fix the error.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update device drivers
 
@@ -81,9 +87,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -97,8 +100,9 @@ After updating your drivers, restart your PC and test the gameplay.
 Launch CoD Vanguard and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Disable in-game overlays
 
  Using in-game overlays like Geforce Experience overlay or third-party tools and software like MSI Afterburner or any RGB software can cause Cod Vanguard error codes issues.
@@ -113,6 +117,10 @@ Launch CoD Vanguard and test the gameplay.
 * Razer Cortex Gamecaster
 * Xbox Game DVR
 * Twitch
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7\. Repair your system files
 
@@ -141,15 +149,13 @@ Launch CoD Vanguard and test the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Option 2 – Manually
 
  To check and restore your system file might take time and computer skills. You will need to run numerous commands, wait for the process to complete, or risk your data.
@@ -172,10 +178,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -225,8 +227,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +234,20 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-mastering-pro-grade-gopro-video-content-creation/"><u>[New] 2024 Approved Mastering Pro-Grade GoPro Video Content Creation</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-behind-the-scenes-insights-deciphering-what-unlisted-means-for-youtube-users/"><u>[Updated] In 2024, Behind-the-Scenes Insights Deciphering What 'Unlisted' Means for YouTube Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210469029-9781739783600-beat-the-gun/"><u>Beat the Gun | Free Book</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/delete-gmail-account-withwithout-password-on-vivo-s17-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Vivo S17</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-counter-strike-2-crashing-issues-on-pc-in-2nd-four/"><u>Fixes and Solutions for Counter-Strike 2 Crashing Issues on PC in 2nD Four</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-achieve-smooth-gaming-in-battlefield-v-a-guide-to-resolving-lag-problems/"><u>How to Achieve Smooth Gaming in Battlefield V: A Guide to Resolving Lag Problems</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-tecno-pop-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Tecno Pop 8 | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-critical-selection-of-1-5-best-snippers-for-windows/"><u>In 2024, Critical Selection of #1-5 Best Snippers for WINDOWS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-oppo-k11x-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Oppo K11x Phone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-visual-distortions-in-rust-now-squashed/"><u>Overcoming Visual Distortions in Rust - Now Squashed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/premier-church-live-streaming-services-revealed/"><u>Premier Church Live Streaming Services Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/reborn-globe-still-stops-short-no-more-freezing-issues/"><u>Reborn Globe Still Stops Short, No More Freezing Issues!</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-updates-get-the-2024-version-of-rainbow-six-siege-free-edition/"><u>Unveiling Updates: Get the 2024 Version of Rainbow Six Siege Free Edition</u></a></li>
+</ul></div>
 

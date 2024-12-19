@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for Devil May Cry N' Taming the Crash Beast
-date: 2024-08-27T20:39:22.874Z
-updated: 2024-08-28T20:39:22.874Z
+date: 2024-12-17T07:58:22.682Z
+updated: 2024-12-18T20:15:31.865Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5bcf8cebc4ec75a2f2c5443679e92acacca4bb84e
 
 Spend a weekend playing World of Warcraft on your computer but there’s brightness flickering on the loading screen and while in the world, it could be frustrating. Don’t worry, you’re not the only one. This post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -31,18 +35,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -55,9 +47,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -66,9 +55,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -81,10 +67,11 @@ Restart your computer for the changes to take effect.
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Check the issue is persist or not.
 
 ### Method 4: Change the screen refresh rate
@@ -94,19 +81,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -116,6 +106,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -128,8 +123,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +130,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-effortless-animated-addition-how-to-send-and-share-gifs-on-snapchat/"><u>[Updated] In 2024, Effortless Animated Addition How to Send and Share GIFs on Snapchat</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-record-keeper-thorough-az-audits/"><u>[Updated] Ultimate Record Keeper - Thorough AZ Audits</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-from-unwrapped-to-personalized-perfection-10-leading-shopping-platforms/"><u>2024 Approved From Unwrapped to Personalized Perfection 10 Leading Shopping Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-battle-of-technical-difficulties-overcome-street-fighter-6-pc-crashes-with-these-proven-fixes/"><u>Beat the Battle of Technical Difficulties - Overcome Street Fighter 6 PC Crashes with These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-common-fall-guys-game-crashing-and-starting-troubles/"><u>Comprehensive Fixes for Common Fall Guys Game Crashing & Starting Troubles</u></a></li>
+<li><a href="https://games-able.techidaily.com/deciding-on-a-steam-deck-model/"><u>Deciding on a Steam Deck Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-your-gaming-experience-overcome-freezing-and-stuttering-in-baldurs-gate/"><u>Improve Your Gaming Experience: Overcome Freezing and Stuttering in Baldur's Gate</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-efficiently-archive-social-media-videos-with-top-5-pick/"><u>In 2024, Efficiently Archive Social Media Videos with Top 5 Pick</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-infinix-hot-30i-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Infinix Hot 30i Phone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-where-is-the-best-place-to-catch-dratini-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Where Is the Best Place to Catch Dratini On Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-for-preventing-tower-of-fantasy-pc-disruptions-and-crashes/"><u>Master Tips for Preventing Tower of Fantasy PC Disruptions and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-game-repair-secrets-how-to-correctly-resolve-file-errors-in-the-world-of-gaming/"><u>PC Game Repair Secrets: How to Correctly Resolve File Errors in the World of Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-woes-how-to-overcome-darkest-dungeon-2s-persistent-crashing-problem/"><u>PC Gaming Woes: How to Overcome Darkest Dungeon 2'S Persistent Crashing Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-terrarias-persistent-crashes-with-these-proven-solutions/"><u>Resolve Terraria's Persistent Crashes with These Proven Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-rainbow-six-siege-issue-guide-to-correcting-error-code-3-0x0001000b/"><u>Resolving Rainbow Six Siege Issue: Guide to Correcting Error Code 3-0X0001000B</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/tailoring-windows-defender-file-scan-settings-a-step-by-step-guide-yl-computing/"><u>Tailoring Windows Defender File Scan Settings: A Step-by-Step Guide - YL Computing</u></a></li>
+</ul></div>
 

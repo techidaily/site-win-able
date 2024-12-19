@@ -1,7 +1,7 @@
 ---
 title: Black Screen Issue Resolution Tactics Covered Here
-date: 2024-08-27T20:39:00.989Z
-updated: 2024-08-28T20:39:00.989Z
+date: 2024-12-16T19:02:35.632Z
+updated: 2024-12-18T23:16:44.709Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 ### Fix 2: Update Graphics Card Drivers
@@ -54,15 +58,17 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -79,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -87,24 +97,15 @@ thumbnail: https://thmb.techidaily.com/0275b65ec50c26c096fbd58891ad5416742f7595b
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -123,8 +124,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-nikons-challenge-to-gopro-hero-black-in-video-realm-for-2024/"><u>[New] Nikon's Challenge to GoPro HERO Black in Video Realm for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-iphonedesktops-top-8-video-transformation-tools/"><u>2024 Approved IPhone/Desktop's Top 8 Video Transformation Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1126913-9781612832111-closer-than-you-think/"><u>Closer Than You Think | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-wwii-troubleshooting-for-persistent-black-screen-issues-in-windows-environments/"><u>COD: WWII Troubleshooting for Persistent Black Screen Issues in Windows Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-and-unexpected-quits-during-your-serious-sam-grope-on-pc-a-comprehensive-fix-guide/"><u>Eliminating Stuttering & Unexpected Quits During Your Serious Sam Grope on PC – A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-nox-player-from-continuously-crashing/"><u>Fixing the Issue: How to Stop Nox Player From Continuously Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-blackout-problem-in-discord-when-sharing-your-screen-solution-found/"><u>How to Overcome the Blackout Problem in Discord When Sharing Your Screen – Solution Found!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-tribes-of-midgard-freezing-issues-expert-tips-and-tricks/"><u>How to Prevent and Resolve 'Tribes of Midgard' Freezing Issues - Expert Tips & Tricks</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/impact-of-mongol-empires-establishment-on-chinese-society-insights-by-yl-computing/"><u>Impact of Mongol Empire's Establishment on Chinese Society: Insights by YL Computing</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-brand-alliances-elevating-youtube-content/"><u>In 2024, Brand Alliances Elevating YouTube Content</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-crashing-enjoy-a-bug-free-experience-in-remnant-from-the-ashes/"><u>No More Crashing: Enjoy a Bug-Free Experience in Remnant: From the Ashes</u></a></li>
+<li><a href="https://article-tips.techidaily.com/podcasts-vs-youtube-making-an-informed-media-decision/"><u>Podcasts Vs. YouTube Making an Informed Media Decision</u></a></li>
+<li><a href="https://common-error.techidaily.com/solution-steps-access-issues-with-windows-security-feature-smartscreen/"><u>Solution Steps: Access Issues with Windows Security Feature SmartScreen</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-chrome-stalling-issue-in-windows-11-with-these-simple-tips/"><u>Solve Your Chrome Stalling Issue in Windows 11 with These Simple Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-eradicating-helldivers-2-bsod-blue-screen-issue/"><u>Step-by-Step Guide: Eradicating 'Helldivers 2' BSOD (Blue Screen) Issue</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-fixing-player-error-no-source-available-on-windows/"><u>Troubleshooting Guide: Fixing 'Player Error - No Source Available' On Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Realm of Wealth in 'Like a Dragon' On PC: Top Techniques Revealed for Unlimited Success"
-date: 2024-08-27T20:40:42.263Z
-updated: 2024-08-28T20:40:42.263Z
+date: 2024-12-13T06:40:42.018Z
+updated: 2024-12-18T17:27:15.557Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap827.png)
 
 **Forza Horizon 4 keeps crashing on your PC?**  Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of FH 4 players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Try these fixes**
 
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 11. **[Reinstall Forza Horizon 4](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 1: Check If your PC meets the minimum system requirements for Forza Horizon 4**
 
@@ -70,17 +78,15 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 **You may need to upgrade your hardware** if your PC fails to meet the minimum system requirements for Forza Horizon 4.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Install the latest game patch**
 
  The developers of Forza Horizon 4 release regular game patches to fix bugs.   **It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it** .
 
  If a patch is available, install it, then run Forza Horizon 4 to see if you resolved this issue. If this issue persists, or if there was no new game patch available, move on to Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### **Fix 3: Update your drivers**
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -99,23 +105,18 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Update-drivers.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Clear your standby memory before playing**
 
  If Forza Horizon 4 keeps crashing on your PC, it may also be triggered by some RAM issues. In this case, it is necessary to clear your standby memory before you play Forza Horizon 4\. You can clear your standby memory by using**RAMMap** , a freeware from Microsoft. Here is how to do it:
@@ -126,16 +127,19 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 3. Extract the downloaded .zip file.**Right-click RAMMap.exe** and select**Run as administrator** . You’ll be prompted for permission. Click**Yes** to continue.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap831.png)
 4. In RAMMap, click**Empty** and select**Empty Standby List** to clear your standby memory. This action would instantly restore free memory.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap832.png)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Forza Horizon 4 after you clear your standby memory. If the game doesn’t crash, congratulations! You’ve fixed this problem. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 5: Disable your microphone for Forza Horizon 4**
 
  If you’ve enabled your microphone for Forza Horizon 4, it may be the cause of the crash issue. Just disable it to see whether the game will keep crashing or not. Here is how to do it:
@@ -145,9 +149,6 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 2. On the left panel, click**Microphone** . Then on the right,**Turn off** the toggle next to**Forza Horizon 4** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap834-1.png)
 3. Restart your Windows system and launch Forza Horizon 4 again.
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  See if you resolved this problem. If it still keeps crashing, try the next fix, below.
 
@@ -165,13 +166,11 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap837.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Launch Forza Horizon 4 to see if you fixed this issue. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 7: Add Forza Horizon 4 as an exception to your third-party antivirus application**
 
  Your third-party antivirus application might also be to root of the game crash issues. Since the third-party antivirus application hooks very deep into your system, it may interfere with Forza Horizon 4.
@@ -199,14 +198,6 @@ thumbnail: https://thmb.techidaily.com/aae84a5750e29cf324709d1ed75a3536c8f1bc719
 1. On your keyboard, press **the Windows logo key**  and type **update** . In the list of results, click **Check for updates**  to open **Windows Update** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap838.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap839.png)
 
  Restart your PC and launch Forza Horizon 4 again. See if you fixed this issue. If not, try the next fix, below.
@@ -218,15 +209,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap840.png)
 2. Navigate to the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap841.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap843.png)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap844.png)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap845.png)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap846.png)
@@ -235,9 +233,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 11: Reinstall Forza Horizon 4**
 
  If none of the fixes above works, it’s time to uninstall Forza Horizon 4 and reinstall it. Here is how to do it:
@@ -247,11 +242,12 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 2. Click **Uninstall**  to uninstall Forza Horizon 4.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap848.png)
 3. Open the**Microsoft** **Store**  app. In the search bar, type **f** **orza horizon 4** and click the **Search**  button.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap850.png)
 4. Select the game you purchased before to start installing the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
 
@@ -267,8 +263,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +270,19 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-epic-echoes-academy-superlative-seventeen/"><u>[New] In 2024, Epic Echoes Academy – Superlative Seventeen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/best-3-infinix-hot-40-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Infinix Hot 40 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-desert-pc-woes-heres-what-you-need-to-know-about-preventing-crashes/"><u>Black Desert PC Woes? Here's What You Need to Know About Preventing Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-fixing-the-dark-display-glitch-on-your-fallout-relzs-gameplay-screen/"><u>Crack the Code: Fixing the Dark Display Glitch on Your Fallout ˈrəʊlz's Gameplay Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/critical-insights-why-blind-trust-in-ai-isnt-wise/"><u>Critical Insights: Why Blind Trust in AI Isn't Wise</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-innovative-earwaxcam-now-at-a-steep-discount-black-friday-exclusive-on-zdnet/"><u>Discover the Innovative EarWaxCam Now at a Steep Discount - Black Friday Exclusive on ZDNet</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-expert-tips-for-effortless-google-podcast-upload/"><u>In 2024, Expert Tips for Effortless Google Podcast Upload</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/io-screen-recorder-user-manual-overview/"><u>IO Screen Recorder User Manual Overview</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-performance-increase-frames-per-second-fps-for-a-better-experience-in-ring-of-elysium/"><u>Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/online-mp3-maker-vullend-uw-asf-files-gratis-met-movavi/"><u>Online MP3 Maker - Vullend Uw ASF Files Gratis Met Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-adventures-in-salem-tactics-to-prevent-deathloop-from-haltin-on-pcps5/"><u>Seamless Adventures in Salem: Tactics to Prevent Deathloop From Haltin' On PC/PS5</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-black-screen-problem-on-persona-5-strikers-platform/"><u>Solutions for Black Screen Problem on Persona 5 Strikers Platform</u></a></li>
+</ul></div>
 

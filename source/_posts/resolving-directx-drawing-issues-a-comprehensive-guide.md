@@ -1,7 +1,7 @@
 ---
 title: "Resolving DirectX Drawing Issues: A Comprehensive Guide"
-date: 2024-08-27T20:36:36.638Z
-updated: 2024-08-28T20:36:36.638Z
+date: 2024-12-14T20:53:10.153Z
+updated: 2024-12-19T07:19:41.365Z
 tags:
   - win11
   - win10
@@ -27,11 +27,19 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 4. [**Change the graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Turn off the preview window
 
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
@@ -44,14 +52,8 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
@@ -59,16 +61,18 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -77,9 +81,11 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Click the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
@@ -104,14 +110,12 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -129,8 +133,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +140,23 @@ Many Windows users have been reporting the OBS not recording screen issue lately
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-the-asgardian-crusade-final-quest/"><u>[New] In 2024, The Asgardian Crusade Final Quest</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-frame-perfection-top-10-tools-to-edge-your-instagram-content/"><u>[Updated] In 2024, Frame Perfection Top 10 Tools to Edge Your Instagram Content</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-gratuitous-screen-snap-for-macos/"><u>2024 Approved Gratuitous Screen Snap for MacOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-kickstart-cinematic-craft-install-xp-movie-maker/"><u>2024 Approved Kickstart Cinematic Craft Install XP Movie Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-on-troubleshooting-and-preventing-resident-evil-ebeque-4-remake-crashes/"><u>Complete Guide on Troubleshooting and Preventing Resident Evil Ebeque 4 Remake Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-game-crashes-a-players-guide-to-improving-days-gone-performance-202eb/"><u>Fixing Persistent Game Crashes: A Player's Guide to Improving 'Days Gone' Performance (202Eb)</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-nokia-c300-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Nokia C300 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994150669-is-doom-eternal-stuck-in-development-purgatory-heres-how-you-can-unlock-it/"><u>Is DOOM Eternal Stuck in Development Purgatory? Here’s How You Can Unlock It!</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/methods-to-transfer-from-apple-iphone-13-mini-to-android-drfone-by-drfone-transfer-from-ios/"><u>Methods to Transfer from Apple iPhone 13 mini to Android | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mp3-to-m4a/"><u>MP3 to M4A変換フリーツール比較ガイド - 使いやすくて正確なソフトウェア集めました!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/pilot-prowess-explained-from-basic-to-advanced-flight/"><u>Pilot Prowess Explained: From Basic to Advanced Flight</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002212485-rapid-repair-techniques-for-faulty-controllers-stabilize-and-enjoy-uninterrupted-play/"><u>Rapid Repair Techniques for Faulty Controllers - Stabilize and Enjoy Uninterrupted Play</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2023-files-for-free-stellar-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2023 Files for Free | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-connectivity-issues-astro-a50-doesnt-appear-as-an-input-device/"><u>Solving Connectivity Issues: Astro A50 Doesn't Appear as an Input Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-critical-errors-the-ultimate-fix-for-gobi-fatal-error-in-back-4-blood/"><u>Troubleshooting Critical Errors: The Ultimate Fix for 'Gobi Fatal Error in Back 4 Blood'</u></a></li>
+</ul></div>
 

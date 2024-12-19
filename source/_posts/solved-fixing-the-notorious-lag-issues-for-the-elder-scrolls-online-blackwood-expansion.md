@@ -1,7 +1,7 @@
 ---
 title: Solved! Fixing the Notorious Lag Issues for The Elder Scrolls Online Blackwood Expansion
-date: 2024-08-27T20:40:19.126Z
-updated: 2024-08-28T20:40:19.126Z
+date: 2024-12-14T02:35:32.683Z
+updated: 2024-12-19T00:12:09.469Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4cbebb13391bd3ac3f3b9ef43b45b771ba69f0146
 ## Tips for Fixing the Dreaded Black Screen Glitch on Electronics – Solved
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before trying…
 
@@ -32,6 +36,10 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -42,15 +50,13 @@ There’re things you can do before trying complicated fixes:
 3. In the Compatibility tab, click **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -58,20 +64,20 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update graphic driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -94,9 +100,6 @@ If it’s not working, move to the next fix.
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -111,8 +114,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -120,4 +121,18 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-efficient-techniques-for-live-discord-recording/"><u>[New] In 2024, Discover Efficient Techniques for Live Discord Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-the-colorists-companion-top-11-tools-for-hue-harmony-for-2024/"><u>[New] The Colorist's Companion Top 11 Tools for Hue Harmony for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlock-your-dji-potential-two-devices-get-20-gratis-luts/"><u>[New] Unlock Your DJI Potential – Two Devices Get 20 Gratis LUTs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982340749-solved-hitman-3-crashing-on-pc-2024-tips/"><u>[Solved] Hitman 3 Crashing on PC – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-rapid-solutions-to-resolve-oculus-link-display-issues-effectively/"><u>6 Rapid Solutions to Resolve Oculus Link Display Issues Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-hp-security-manager-error-1325-during-windows-7-uninstall-process/"><u>Effective Solutions for Overcoming HP Security Manager Error 1325 During Windows 7 Uninstall Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-slow-playback-comprehensive-guide-to-revamping-spotify-on-your-computer-2e-year-edition/"><u>Solving Slow Playback: Comprehensive Guide to Revamping Spotify on Your Computer, 2E Year Edition</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/sustained-disconnection-technique-from-youtube-shorts/"><u>Sustained Disconnection Technique From YouTube Shorts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/understanding-the-compatible-media-file-types-available-on-apples-set-top-box/"><u>Understanding the Compatible Media File Types Available on Apple's Set-Top Box</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ventura-upgrade-roadmap-for-your-mac/"><u>Ventura Upgrade Roadmap for Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-pc-gameplay-smooth-performance-update-crashes-solved/"><u>Warzone PC Gameplay Smooth Performance Update - Crashes Solved!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Effective Ways: Resolving Modern Warfare Ebx-Crash Issues on Windows PCs"
-date: 2024-08-27T20:37:35.467Z
-updated: 2024-08-28T20:37:35.467Z
+date: 2024-12-13T02:00:49.465Z
+updated: 2024-12-19T07:20:49.326Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -56,13 +60,11 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -80,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -90,20 +93,20 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -122,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,21 @@ thumbnail: https://thmb.techidaily.com/3a6dbb861d55872fdf4ced41ee2862ae3932a3822
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-pro-level-gopro-tricks-and-insights/"><u>[New] Pro-Level GoPro Tricks and Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-free-fcp-download-options/"><u>[Updated] Explore FREE FCP Download Options</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-full-analysis-of-camstudio-screen-capture-tech/"><u>[Updated] Full Analysis of CamStudio Screen Capture Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-enrich-your-photographic-expression-techniques-for-inserting-text-onto-images/"><u>[Updated] In 2024, Enrich Your Photographic Expression Techniques for Inserting Text Onto Images</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-transform-videos-with-tiktok-effects/"><u>[Updated] Transform Videos with TikTok Effects</u></a></li>
+<li><a href="https://win-able.techidaily.com/fair-winds-ahead-sail-past-sea-of-thieves-stuck-on-launch-seas/"><u>Fair Winds Ahead: Sail Past Sea of Thieves Stuck on Launch Seas</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-rid-of-crashes-for-good-troubleshooting-steps-to-improve-darkest-dungeon-2-performance-on-pc/"><u>Get Rid of Crashes for Good! Troubleshooting Steps to Improve Darkest Dungeon 2 Performance on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-past-the-launch-error-of-division-2-with-easy-solutions/"><u>Getting Past the Launch Error of Division 2 with Easy Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-google-pixel-8-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/increase-output-with-top-8-chrome-plug-ins-powered-by-ai/"><u>Increase Output with Top 8 Chrome Plug-Ins Powered by AI</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-setup-of-tiny-tinas-wonderlands-for-pc-a-step-by-step-troubleshooting-guide/"><u>Mastering the Setup of Tiny Tina’s Wonderlands for PC – A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-difficulties-for-pc-based-wizardry-software-creations/"><u>Overcoming Launch Difficulties for PC-Based Wizardry Software Creations</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-epic-games-launcher-error-a-step-by-step-guide/"><u>Solving the Epic Games Launcher Error - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Gain Access and Fix the 'Permission Denied for Fortnite' Issue
-date: 2024-08-27T20:40:32.796Z
-updated: 2024-08-28T20:40:32.796Z
+date: 2024-12-16T17:13:07.368Z
+updated: 2024-12-19T09:32:55.296Z
 tags:
   - win11
   - win10
@@ -39,11 +39,18 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
@@ -54,7 +61,15 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -85,17 +100,11 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  How does your game work now? If it crashes again, head to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -105,19 +114,15 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
 ---
@@ -133,8 +138,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +145,19 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-how-to-record-with-nvidia-screen-recorder/"><u>[New] How to Record with NVIDIA Screen Recorder</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-professional-gamers-guide-optimal-video-capture-tips-for-2024/"><u>[New] Professional Gamers' Guide Optimal Video Capture Tips for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-troubleshooting-guide-to-fix-call-of-dutys-modern-warfare-pcxbox-dev-6eerror-code-6034/"><u>DIY Troubleshooting Guide to Fix Call of Duty's Modern Warfare (PC/Xbox) DEV-6eError Code 6034</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-hacks-overcoming-the-rust-not-responding-issue/"><u>Fixes and Hacks: Overcoming the 'Rust Not Responding' Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-deadly-steamuidll-missing-file-warning-for-smooth-gaming/"><u>Fixing the Deadly 'steamui.dll Missing File' Warning for Smooth Gaming</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/get-more-for-less-with-the-powerful-and-economic-arcshell-ar-5-reviewed-here/"><u>Get More for Less with the Powerful and Economic Arcshell AR-5 Reviewed Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-camera-functionality-during-a-google-meet-conference-call/"><u>How to Restore Camera Functionality During a Google Meet Conference Call</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-strategies-for-prominent-personalities-on-snapchat/"><u>In 2024, Strategies for Prominent Personalities on Snapchat</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-ahead-no-more-crashing-escape-from-tarkov-on-your-pc/"><u>Smooth Gaming Ahead: No More Crashing 'Escape From Tarkov' On Your PC</u></a></li>
+<li><a href="https://techidaily.com/stellar-data-recovery-for-iphone-8-failed-to-recognize-my-iphone-how-to-fix-it-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Stellar Data Recovery for iPhone 8 failed to recognize my iPhone. How to fix it? | Stellar</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-power-bank-for-your-laptop-at-a-steep-discount-quality-assurance-through-the-years/"><u>Top-Rated Power Bank for Your Laptop at a Steep Discount: Quality Assurance Through the Years</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-top-10-neon-sign-makers-online-quick-and-easy-to-use/"><u>Updated 2024 Approved Top 10 Neon Sign Makers Online Quick and Easy to Use</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies for Eliminating Lag in Chivalry 2: Expert Advice From 2024"
-date: 2024-08-27T20:34:49.473Z
-updated: 2024-08-28T20:34:49.473Z
+date: 2024-12-16T09:01:44.764Z
+updated: 2024-12-18T23:56:15.472Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
  If this doesn’t fix the stuttering issue, take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Stuttering or FPS drops might indicate that you’re using**a buggy or outdated graphics driver** . This is actually pretty common—games are getting more and more demanding, and the generic driver that comes with Windows no longer suffices. To get the best in-game performance, always check if you have the latest GPU driver.
@@ -54,6 +51,11 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -62,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 
  If the latest driver doesn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Make sure Windows is up to date
 
  Every once in a while, Microsoft releases Windows updates that fix bugs and offer performance boosts. To ensure the best gaming experience, besides drivers you also need to**keep your system up to date** .
@@ -72,11 +71,6 @@ thumbnail: https://thmb.techidaily.com/157ffc7b25c5a556041baa5052e314a4da47d7995
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
  Once you’ve got your system updated, do a reboot and test the gameplay in The Ascent.
@@ -84,8 +78,9 @@ The powerful video editing program for your Windows PC</a>
  If this doesn’t give you any improvements, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Run The Ascent on DirectX 11
 
  Some players reported different results on DirectX 11 and 12, so you can switch between these two and see which works the best. By default you’ll be running The Ascent on DirectX 12.
@@ -100,8 +95,9 @@ If you don’t know how to switch, follow these steps:
  If changing the DirectX version doesn’t do the trick, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable Control Flow Guard
 
  Control Flow Guard is a Windows 10 feature designed to combat system vulnerabilities by**restricting application behavior** . According to the feedback, it appears that CFG could be causing the stuttering issue in The Ascent. To see if that’s your case, you can follow these steps to disable CFG:
@@ -109,21 +105,28 @@ If you don’t know how to switch, follow these steps:
 1. On your keyboard, press**the Windows logo key** and type**exploit** . Select**Exploit protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-1.jpg)
 2. Navigate to the Program settings tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-2.jpg)
 3. Click**Add program to customize** and select**Add by program name** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-3.jpg)
 4. In the pop-up window, type**TheAscent-Win64-Shipping.exe** if you’re on Steam. For Xbox Game Pass it’ll be**TheAscent-WinGDK-Shipping.exe** . Next, click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-4.jpg)
 5. Under the**Control flow guard (CFG)** section, select**Override system settings** . Then toggle it to**Off** and click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-cfg-5.jpg)
 6. Now you can check if there’re any improvements in The Ascent. (You might also need to go to**Steam > Settings > Cloud** and disable Steam Cloud synchronization.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -135,8 +138,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +145,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-convert-spoken-words-into-text-effortlessly-using-ms-word/"><u>[New] Convert Spoken Words Into Text Effortlessly Using MS Word</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-streamlining-your-overwatch-sessions-recording/"><u>2024 Approved Streamlining Your Overwatch Sessions Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-proven-methods-to-unfreeze-borderlands-3-during-playtime/"><u>Beat the Glitch: Proven Methods to Unfreeze Borderlands 3 During Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-ii-resurrected-wont-launch-common-fixes-and-solutions/"><u>Diablo II: Resurrected Won't Launch – Common Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/epa-2015-glyphosate-and-aminomethylphosphonic-acid-retrieved-from-(httpswwwepagovinventorysearchresultssourcegandcompoundandnameaminomethylphphosphonic20aci538/"><u>EPA (2015). Glyphosate and Aminomethylphosphonic Acid. Retrieved From <https://www.epa.gov/inventory/search_results/?source=G&compound=&name=AMINOMETHYLPHPHOSPHONIC ACID&smi=C13H8NClO5P></u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-v29e-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo V29e Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-no-more-youtube-shorts-a-detailed-breakdown/"><u>In 2024, No More YouTube Shorts A Detailed Breakdown</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-xiaomi-civi-3-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Xiaomi Civi 3? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/master-the-skill-of-trimming-youtube-videos-for-perfect-bites-for-2024/"><u>Master the Skill of Trimming YouTube Videos for Perfect Bites for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-ahead-eliminate-crash-problems-in-ghost-recon-breakpoint-easily/"><u>Smooth Gameplay Ahead! Eliminate Crash Problems in Ghost Recon Breakpoint Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990105085-steam-vr-undetected-discover-these-6-essential-fixes/"><u>Steam VR Undetected? Discover These 6 Essential Fixes!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/step-by-step-guide-downloading-crunchyroll-episodes-for-offline-viewing-on-pcs-and-macs/"><u>Step-by-Step Guide: Downloading Crunchyroll Episodes for Offline Viewing on PCs & Macs</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-from-start-to-finish-how-to-edit-video-files-on-mac-os-x-yosemite/"><u>Updated In 2024, From Start to Finish How to Edit Video Files on Mac OS X Yosemite</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: DirectX Errors in FIFA 19? Here's How to Fix Them Quickly and Efficiently
-date: 2024-08-27T20:39:14.004Z
-updated: 2024-08-28T20:39:14.004Z
+date: 2024-12-18T01:37:45.213Z
+updated: 2024-12-19T07:03:30.940Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 2. [**Update DirectX**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Check if your PC meets the system requirements for FIFA 19**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Perhaps one of the most common causes of a DirectX error on FIFA is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -41,9 +45,17 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -53,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the DirectX error. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -66,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Check if your PC meets the system requirements for FIFA 19
 
  FIFA may also crash with a DirectX if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for FIFA 19.
@@ -102,15 +108,17 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -130,8 +138,6 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +145,21 @@ thumbnail: https://thmb.techidaily.com/0d5172690106aeb0b1e42f6467812ce6f42bcdb66
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-convert-instagram-vids-to-mp4-optimal-methods-and-results/"><u>[Updated] Convert Instagram Vids to MP4 Optimal Methods & Results</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-high-definition-face-off-ultimate-legend-sj6-vs-xiaomis-yi-for-2024/"><u>[Updated] High Definition Face-Off Ultimate Legend SJ6 Vs. Xiaomi's Yi for 2024</u></a></li>
+<li><a href="https://win-guides.techidaily.com/expert-analysis-on-unexpected-freezes-and-blue-screen-errors-by-yl-technologies-advanced-support-guides/"><u>Expert Analysis on Unexpected Freezes and Blue Screen Errors by YL Technologies | Advanced Support Guides</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/expert-tips-for-downloading-and-installing-broadcom-gigabit-ethernet-driver-on-windows-10-issues-addressed/"><u>Expert Tips for Downloading & Installing Broadcom Gigabit Ethernet Driver on Windows 10 – Issues Addressed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-preventing-god-of-war-from-crashing-on-your-pc/"><u>Fixing the Issue: Preventing God of War From Crashing on Your PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hilarityhub-design-memes-with-ease-and-speed-for-2024/"><u>HilarityHub Design Memes with Ease and Speed for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-realme-11x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Realme 11X 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-poco-c50-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/insightful-evaluation-of-the-latest-lg-360-cam-model-for-2024/"><u>Insightful Evaluation of the Latest LG 360 Cam Model for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008533092-minecraft-launch-issues-heres-how-to-get-past-the-loading-hurdle/"><u>Minecraft Launch Issues? Here's How to Get Past the Loading Hurdle!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011242886-solutions-for-uninterrupted-steam-download-sessions-no-more-stops/"><u>Solutions for Uninterrupted Steam Download Sessions - No More Stops!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/trasforma-le-tue-foto-raw-cr2-in-file-digitali-usando-la-funzionalita-di-conversione-online-provagratis-da-movavi/"><u>Trasforma Le Tue Foto RAW CR2 in File Digitali Usando La Funzionalità Di Conversione Online ProvaGratis Da Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-get-your-madden-22-up-and-running-fast/"><u>Troubleshooting Tips to Get Your Madden 22 Up and Running Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-no-more-everspace-2-game-crashes-on-your-windows-computer/"><u>Ultimate Fix: No More Everspace 2 Game Crashes on Your Windows Computer</u></a></li>
+</ul></div>
 

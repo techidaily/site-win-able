@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance to Prevent Game Crashes in Assassin's Creed: Valhalla PC Version"
-date: 2024-08-27T20:34:51.909Z
-updated: 2024-08-28T20:34:51.909Z
+date: 2024-12-14T23:21:49.950Z
+updated: 2024-12-18T22:38:09.851Z
 tags:
   - win11
   - win10
@@ -33,8 +33,9 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
  It’s always recommended to check Assassin’s Creed: Valhalla game updates, and install the latest game patch to solve the issue. You can find more information about Assassin’s Creed: Valhalla[news & updates](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla/news-updates) on Ubisoft.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2 – Reboot your network
 
  First, make sure you’re using an Ethernet connection to get a stable network all the time. Then you can try restarting the network. This will help fix Internet connection problems, improve slow-moving connections.
@@ -47,9 +48,6 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/93354306_10157091808650060_3767062751000657920_n.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 3) Wait 1 minute, then plug the power cord back into the modem/router.
 
 4) Wait for the Internet light to turn green.
@@ -74,9 +72,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full suppor** t and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
@@ -89,8 +84,9 @@ There are two ways for you to update the device drivers:
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 – Disable VRR and V-Sync/FreeSync
 
  Many players may turn on VRR (Variable Refresh Rate) or V-Sync (Vertical Synchronization) to reduce screen tearing. But this can introduce input lag. However, if you have terrible screen tearing when playing Assassin’s Creed Valhalla, you can skip this fix.
@@ -99,9 +95,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
@@ -109,6 +102,10 @@ There are two ways for you to update the device drivers:
  3) Toggle off the button under**Variable refresh rate** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
 
@@ -122,15 +119,16 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click**Apply** .
 
 **Note:** If you’re using an AMD graphics card, open**AMD** **Radeon Settings** \>**Display** \> turn off**AMD FreeSync** .
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
@@ -139,27 +137,33 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) On the left pane, click**Change adapter settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  4) Right-click on your network adapter and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Select**Use the following DNS server addresses** .
 
@@ -167,12 +171,13 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/CMD.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then click Yes if you’re prompted for permission.
 
@@ -182,9 +187,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
 ## 6 – Clean all your temp files
@@ -195,9 +197,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-305.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
@@ -205,6 +204,10 @@ There are two ways for you to update the device drivers:
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/continue.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Once complete, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **prefetch** and hit **Enter** .
 
@@ -232,8 +235,6 @@ There are two ways for you to update the device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +242,24 @@ There are two ways for you to update the device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-manual-on-gesture-controls/"><u>[New] Comprehensive Manual on Gesture Controls</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-facebooks-best-friend-on-mobile-top-10-android-extractor-apps-overview-for-2024/"><u>[New] Facebook's Best Friend on Mobile Top 10 Android Extractor Apps Overview for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-capturing-your-cameras-magic-review-and-best-free-options/"><u>[New] In 2024, Capturing Your Camera's Magic – Review & Best FREE Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-navigating-through-grids-in-google-meet-webinar/"><u>[Updated] Navigating Through Grids in Google Meet Webinar</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-s18e-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo S18e Activity | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/bridging-gaps-in-digital-socialization-with-facebook-updates/"><u>Bridging Gaps in Digital Socialization with Facebook Updates</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-prevent-and-solve-gaming-applications-from-crashing/"><u>Comprehensive Guide to Prevent and Solve Gaming Applications From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-prevent-dead-by-daylight-crashes-top-tricks-for-a-stable-gameplay-experience/"><u>Expert Advice to Prevent Dead By Daylight Crashes: Top Tricks for a Stable Gameplay Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Xiaomi Redmi K70 | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-your-iphones-battery-life-suffering-post-ios-update-1751-discover-7-proven-fixes-techzoo/"><u>Is Your iPhone's Battery Life Suffering Post-iOS Update 17.5.1? Discover 7 Proven Fixes | TechZoo</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-browser-performance-tackling-chromes-cpu-overload-issue-resolved/"><u>Optimized Browser Performance: Tackling Chrome's CPU Overload Issue Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-wont-start-discover-the-fixes-that-work/"><u>Resident Evil Village Won't Start? Discover the Fixes That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-lag-troubles-with-these-fixes-for-dying-light-gameplay/"><u>Resolve Your Lag Troubles with These Fixes for Dying Light Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-successfully-start-age-of-empires-ii-on-windows-11/"><u>Resolved: How to Successfully Start Age of Empires II on Windows 11</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-your-huion-pen-5-rapid-fixes-for-immediate-usage/"><u>Reviving Your Huion Pen: 5 Rapid Fixes for Immediate Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-lag-fix-baldurs-gate-stuttering-and-freezing-using-our-expert-guide/"><u>Say Goodbye to Lag! Fix Baldur's Gate Stuttering & Freezing Using Our Expert Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/unanswered-questions-surrounding-diablo-immortals-pc-launch-date-amidst-delay-rumors/"><u>Unanswered Questions Surrounding Diablo Immortal's PC Launch Date Amidst Delay Rumors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcome 2024'S Common Fortnite Game Crashes on Your PC with These Expert Tips
-date: 2024-08-27T20:35:18.766Z
-updated: 2024-08-28T20:35:18.766Z
+date: 2024-12-13T16:21:29.636Z
+updated: 2024-12-19T05:50:52.657Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Video Card**   | NVIDIA GeForce GTX 1080 SLI or AMD RX Vega 56 CFX (or better)     |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4K configuration for Far Cry 5
 
 | **Supported OS** | Windows 10                                                              |
@@ -45,6 +46,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Processor**    | Intel Core i7-6700 @ 3.4 GHz or AMD Ryzen 5 1600X @ 3.6 GHz (or better) |
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,9 +62,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 5. [Set the Graphics Options to low settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the long loading time issue. With high integrity access, Uplay can make full use of its features and won’t be bothered by this issue. So run the game as an administrator to see if this fixes your issue.
@@ -67,21 +69,23 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 1. Right-click on the Uplay icon and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay-1.jpg)
 2. Choose the**Compatibility** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
 5. Click**OK** then run Uplay and the game to check.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify game files
 
  If the first fix doesn’t help, the problem may be caused by the corrupted game files. This method will check the game files and verify them. What else, it will download and repair required files. So you can use this fix to fix the Far Cry 5 stuck on loading issue.
@@ -90,16 +94,14 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest patch
 
@@ -137,9 +139,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will solve the problem.
@@ -149,9 +148,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Set the Graphics Options to low settings
 
  If you were not stuck on the “beginning screen” but could enter the game, you could try this fix. The high graphics settings in your Far Cry 5 can take up many system resources, but it can slow down your gram or even crashing because insufficient system resource can be provided. With that, you should set the Graphics Options settings in Far Cry 5 in lower mode to make your game smoother and avoid stacking on the loading screen.
@@ -159,20 +155,28 @@ OR
 1. Open **Settings** in Far Cry 5, and click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
 5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
 6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,8 +196,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +203,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-the-1-facebook-playlist-top-8-videos-for-today/"><u>[New] The #1 Facebook Playlist Top 8 Videos for Today</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-crafting-your-own-insta-tones/"><u>2024 Approved Step-By-Step Guide to Crafting Your Own Insta Tones</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-list-7-indispensable-devices-in-the-metaverse/"><u>2024 Approved The Ultimate List 7 Indispensable Devices in the Metaverse</u></a></li>
+<li><a href="https://common-error.techidaily.com/deciphering-the-reason-behind-spontaneous-windows-11-bootups-a-comprehensive-guide/"><u>Deciphering the Reason Behind Spontaneous Windows 11 Bootups - A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-driver-downloads-and-updates-for-your-hp-elitebook-8460p-running-on-windows-os/"><u>Easy Driver Downloads and Updates for Your HP EliteBook 8460P Running on Windows OS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95841435-9781683253846-el-tarot-egipcio/"><u>El tarot egipcio | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-cod-black-ops-4-experience-by-eliminating-fps-drops/"><u>Enhance Your COD Black Ops 4 Experience by Eliminating FPS Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-borderlands-11-effective-troubleshooting-steps/"><u>Fix Your Borderlands 지정된 문제: 11 Effective Troubleshooting Steps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/macxdvd-full-licensing-package-offer-secure-your-software-for-a-year-at-no-extra-cost/"><u>MacXDVD Full Licensing Package Offer: Secure Your Software for a Year at No Extra Cost!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-preventing-and-correcting-gtfo-crashes/"><u>Step-by-Step Guide: Preventing and Correcting GTFO Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-repair-the-voice-chatting-glitches-on-your-among-us-game-pc/"><u>Step-by-Step Solutions to Repair the Voice Chatting Glitches on Your Among Us Game (PC)</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-solutions-for-nonfunctional-cs-2-audio-feedback/"><u>Troubleshooting and Solutions for Nonfunctional CS 2 Audio Feedback</u></a></li>
+</ul></div>
 

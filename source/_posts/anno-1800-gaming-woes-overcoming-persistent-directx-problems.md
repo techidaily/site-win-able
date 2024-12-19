@@ -1,7 +1,7 @@
 ---
 title: "Anno 1800 Gaming Woes: Overcoming Persistent DirectX Problems"
-date: 2024-08-27T20:38:45.319Z
-updated: 2024-08-28T20:38:45.319Z
+date: 2024-12-17T17:29:05.752Z
+updated: 2024-12-18T20:30:29.424Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/93fd3ecf6c0ec1cdbec9f4930fda0699ca8c61749
 ## Expert Tips on Overcoming Black Screen Problems, Now Solved
 
 Bothered by Enlisted black screen issue? Don’t worry, you’re not alone. This post shows you how to fix black screen issues step-by-step.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before trying…
 
@@ -40,13 +44,11 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
@@ -58,34 +60,20 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update graphic driver
 
  Graphics card manufacturers like Nvidia, AMD and Intel constantly release new graphics drivers to fix bugs and improve the gaming performance and experience.
@@ -109,8 +97,9 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -125,8 +114,6 @@ Key features:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -134,4 +121,22 @@ Key features:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-10-chat-and-quest-in-the-virtual-society/"><u>[New] 10 Chat & Quest in the Virtual Society</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-quick-ig-update-on-todays-compelling-podcast/"><u>[New] Quick IG Update on Today's Compelling Podcast</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-crafting-a-winning-windowsmac-skype-chat-circle/"><u>[Updated] In 2024, Crafting a Winning Windows/Mac Skype Chat Circle</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-webcam-perfection-in-live-streaming-and-recording/"><u>[Updated] In 2024, WebCam Perfection in Live-Streaming and Recording</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-into-the-future-jaunt-vrs-potential-explored/"><u>[Updated] Into the Future Jaunt VR's Potential Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/accelerate-origin-file-transfers-expert-hacks-for-quick-load-times/"><u>Accelerate Origin File Transfers: Expert Hacks for Quick Load Times</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1723862803395-dont-miss-out-on-the-ultimate-gamers-bargain-snag-the-high-performance-curved-24-inch-acer-nitro-for-a-steal-at-just-81/"><u>Don't Miss Out on the Ultimate Gamers' Bargain - Snag the High-Performance, Curved 24-Inch Acer Nitro for a Steal at Just $81!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-fix-connectivity-problems-in-new-world-game/"><u>Expert Tips to Fix Connectivity Problems in New World Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-consecutive-software-hiccups-on-your-personal-computer/"><u>How to Fix Consecutive Software Hiccups on Your Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-compatibility-problems-with-logitech-options-for-windows-users/"><u>Resolving Compatibility Problems with Logitech Options for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-common-problems-when-cortana-wont-work-properly/"><u>Solved!: Overcoming Common Problems When Cortana Won't Work Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-diablo-immortal-wont-hit-pc-platforms-as-scheduled/"><u>Update: Diablo Immortal Won't Hit PC Platforms as Scheduled</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-the-best-of-the-best-4k-video-editing-software-for-professionals/"><u>Updated The Best of the Best 4K Video Editing Software for Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-crashing-woes-a-comprehensive-guide-to-solving-pc-stability-issues/"><u>Warzone 2.0 Crashing Woes? A Comprehensive Guide to Solving PC Stability Issues</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/1728485516210-7/"><u>データ抹消に必要な最小スキャン数の理解：7回リフレッシュの有効性</u></a></li>
+</ul></div>
 

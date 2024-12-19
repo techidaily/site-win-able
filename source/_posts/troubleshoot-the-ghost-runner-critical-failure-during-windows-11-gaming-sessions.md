@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot the 'Ghost Runner' Critical Failure During Windows 11 Gaming Sessions
-date: 2024-08-27T20:35:52.856Z
-updated: 2024-08-28T20:35:52.856Z
+date: 2024-12-14T20:31:58.589Z
+updated: 2024-12-18T22:33:29.394Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -74,9 +71,17 @@ It may take some time to complete the verifying process.
 2. Click on the **three dots** under the **Necromunda: Hired Gun** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -92,14 +97,8 @@ It may take some time to complete the verifying process.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -118,6 +117,10 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -129,16 +132,14 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Add the game as an exception to your 3rd party antivirus software
 
  Some third-party antivirus software hooks very deep into your system, and it may interfere with the game. If some important game files are blocked by the third-party antivirus software, the game will crash.
@@ -148,8 +149,9 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -169,8 +171,6 @@ It may take some time to complete the verifying process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +178,20 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-channel-conversion-guide-yt-to-igtv-strategies/"><u>[Updated] 2024 Approved Channel Conversion Guide YT to IGTV Strategies</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-10-alternatives-to-game-bar-for-screenshots-and-recordings/"><u>[Updated] Top 10 Alternatives to Game Bar for Screenshots & Recordings</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/aufraumen-vor-dem-absturz-sofortmassnahmen-gegen-bevorstehende-hdd-fehlerszenarien-auf-windows-10-8-oder-7/"><u>Aufräumen Vor Dem Absturz: Sofortmaßnahmen Gegen Bevorstehende HDD-Fehlerszenarien Auf Windows 10, 8 Oder 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-recurring-dota-underlords-game-stability-problems/"><u>Effective Fixes for the Recurring Dota Underlords Game Stability Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722991408590-experience-mythology-like-never-before-the-pc-version-of-god-of-war-fps-is-approaching-fast/"><u>Experience Mythology Like Never Before: The PC Version of God of War FPS Is Approaching Fast!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-realme-12-proplus-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Realme 12 Pro+ 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-fixes-for-the-mass-effect-legendary-edition-console-and-computer-players-guide-to-crash-free-playtime/"><u>Mastering Stability Fixes for The Mass Effect Legendary Edition: Console & Computer Player's Guide to Crash-Free Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-racing-experience-a-step-by-step-guide-to-upgrade-graphics-driver-for-forza-horizon-5/"><u>Optimize Your Racing Experience: A Step-by-Step Guide to Upgrade Graphics Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photoshops-stabilization-an-essential-tool-or-overrated-feature/"><u>Photoshop's Stabilization An Essential Tool or Overrated Feature?</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-with-total-war-warhammer-ii-addressing-crash-dilemmas/"><u>Seamless Gaming with Total War: WARHAMMER II - Addressing Crash Dilemmas</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-hp-display-malfunctions-successfully/"><u>Troubleshooting Guide: Resolving HP Display Malfunctions Successfully</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-high-definition-with-lgs-ud88-w-widescreen-monitor/"><u>Unveiling High Definition with LG's UD88-W Widescreen Monitor</u></a></li>
+</ul></div>
 

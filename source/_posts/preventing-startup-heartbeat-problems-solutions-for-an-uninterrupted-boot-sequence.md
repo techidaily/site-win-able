@@ -1,7 +1,7 @@
 ---
 title: "Preventing Startup Heartbeat Problems: Solutions for an Uninterrupted Boot Sequence"
-date: 2024-08-27T20:39:39.500Z
-updated: 2024-08-28T20:39:39.500Z
+date: 2024-12-12T19:34:26.331Z
+updated: 2024-12-18T18:19:12.553Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 4. [Set Virtual Disk Service to automatic](https://tools.techidaily.com/drivereasy/download/)
 5. [Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1\. Update your graphics driver
 
  The graphics card is the heart and soul for games like Valorant. If the game constantly crashes on your PC, it is likely that the graphics driver on your computer is outdated or corrupt. So you should update your drivers to see if it fixes the crashing issue.
@@ -41,14 +45,20 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 5. Launch Valorant, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Re-launch Riot Vanguard
 
  Sometimes a simple restart could help fix lots of hiccups. So as an empirical method, you can force quit the program and give Riot Vanguard a re-launch. Then restart your computer and check to see if the game still crashes.
@@ -64,19 +74,10 @@ To do so:
 1. On your keyboard, press the Windows logo key and type**Add or Remove Programs** , then click on**Add or Remove Programs** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Add-or-Remove-Programs.png)
 2. In the list of apps and features, locate Riot Vanguard. Then click on it and choose**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/RV.png)
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Set Virtual Disk Service to automatic
 
  According to some players, settings the Virtual Disk service to automatic has helped them get rid of the**Vanguard not initialized** issue.
@@ -87,11 +88,13 @@ To do so:
 3. Scroll down to**Virtual Disk** and double-click on it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 5: Install all Windows updates
 
@@ -104,9 +107,11 @@ The steps are pretty easy:
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer.
 5. Launch your game again and hopefully you’ve got rid of the woe.
 
@@ -124,8 +129,6 @@ The steps are pretty easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +136,20 @@ The steps are pretty easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-become-the-brand-you-want-with-our-exclusive-set-of-free-graphics/"><u>[Updated] Become the Brand You Want With Our Exclusive Set of FREE Graphics!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-dissolves-with-ableton-live/"><u>[Updated] Crafting Dissolves with Ableton Live</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/t-your-video-feedback-control-in-youtube-for-2024/"><u>Adjust Your Video Feedback Control in YouTube for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/analysis-by-zdnet-iphone-14-the-perfect-balance-of-functionality-and-features/"><u>Analysis by ZDNET: IPhone 14 - The Perfect Balance of Functionality and Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/elex-ii-stability-issues-resolved-how-to-stop-game-crashes-on-pc/"><u>Elex II Stability Issues Resolved: How to Stop Game Crashes on PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/fixing-vlc-mp4wmv-compatibility-challenges-for-smooth-playback/"><u>Fixing VLC MP4/WMV Compatibility Challenges for Smooth Playback</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-your-apple-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Reset Your Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001364236-launch-problems-in-valorant-heres-how-you-can-resolve-them-on-your-pc-latest-tips/"><u>Launch Problems in Valorant? Here's How You Can Resolve Them on Your PC - Latest Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-terraria-stability-issues-with-new-2024-fixes-and-hacks/"><u>Overcome Terraria Stability Issues with New 2024 Fixes and Hacks</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/simplifying-mail-management-a-comprehensive-guide-to-multi-selection-in-googles-email-platform/"><u>Simplifying Mail Management: A Comprehensive Guide to Multi-Selection in Google's Email Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-lag-and-stutter-problem-in-fortnite-on-your-computer/"><u>Solving the Lag and Stutter Problem in Fortnite on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-made-easy-start-genshin-impact-without-a-hitch/"><u>Troubleshooting Made Easy: Start Genshin Impact Without a Hitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-the-dead-space-reboot-starting-issue-2024-tips-and-solutions/"><u>Ultimate Fixes for the Dead Space Reboot Starting Issue - 2024 Tips & Solutions</u></a></li>
+</ul></div>
 

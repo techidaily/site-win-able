@@ -1,7 +1,7 @@
 ---
 title: Apex Legends Troubleshooting - How to Fix Connection Issues
-date: 2024-08-27T20:39:57.105Z
-updated: 2024-08-28T20:39:57.105Z
+date: 2024-12-17T23:20:37.664Z
+updated: 2024-12-19T05:10:56.934Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/667b327336657b37d917ada8179b0c23c67339c9f
 
 It’s annoying when you can’t connect to the EA server or receive the error message saying**Connection to server timed out** . Is Apex Legends down again? Or it’s something wrong with your PC? Don’t worry, you’re not the only one, the methods below would help you fix the connection issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 3. [Run as administrator](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Check the server status
 
@@ -43,9 +51,6 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -58,43 +63,27 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
-7. Click**OK** to save the change.
-8. Reboot the game and check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
+7. Click**OK** to save the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+8. Reboot the game and check.
+
 ### Method 3: Run as administrator
 
 Some players suggest Run as administrator could fix this issue.
@@ -122,11 +111,12 @@ If this method doesn’t help, please move to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Method 5: Clear game cache
 
  Many players have reported their issues were solved after clearing the game cache. If you’re playing Apex Legends on PC with Origin or EA Desktop, follow the steps below to clear the cache.
@@ -167,8 +157,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +164,24 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-channel-labeling-101-how-to-make-yourself-hard-to-ignore/"><u>[Updated] In 2024, Channel Labeling 101 How to Make Yourself Hard to Ignore</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-explore-free-youtube-channel-imagery-tools/"><u>[Updated] In 2024, Explore Free YouTube Channel Imagery Tools</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-rapid-fire-windowed-image-reader/"><u>[Updated] Rapid-Fire Windowed Image Reader</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-zoom-mastery-achieving-precision-in-google-meet-sessions-for-2024/"><u>[Updated] Zoom Mastery Achieving Precision in Google Meet Sessions for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-simplifying-display-images-with-screencapture-techniques/"><u>2024 Approved Simplifying Display Images with ScreenCapture Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-glitch-bustling-techniques-to-mend-your-devices-fluttering-image-issues/"><u>Conquer the Glitch: Bustling Techniques to Mend Your Device's Fluttering Image Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-winwordexe-errors-your-go-to-list-of-effortless-fixes-to-restore-microsoft-wordpad-functionality/"><u>Decoding WINWORD.EXE Errors - Your Go-To List of Effortless Fixes to Restore Microsoft WordPad Functionality</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-high-quality-csr-bluetooth-chip-software-now/"><u>Download High-Quality CSR Bluetooth Chip Software Now</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/dvd-for-windows-11/"><u>DVD圧縮ツールガイド for Windows 11: 高解像度で見ごこちを向上させる手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004157379-elden-ring-boot-up-blues-heres-the-solution-for-a-seamless-start/"><u>Elden Ring Boot-Up Blues? Here's the Solution for a Seamless Start!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-the-detected-no-ping-problem-on-your-halo-infinite-setup/"><u>How to Address the Detected No Ping Problem on Your Halo Infinite Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-mass-effect-legendary-edition-from-stopping-unexpectedly-tips-for-xbox-and-computer-players/"><u>How To Stop Mass Effect Legendary Edition From Stopping Unexpectedly - Tips for Xbox & Computer Players</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-itel-a60s-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Itel A60s | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/nvidia-rtx-troubleshooting-guide/"><u>NVIDIA RTX Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-eac-laaunch-issue-with-proper-installation-of-easy-anti-cheat/"><u>Resolved: Fixing the EAC Laaunch Issue with Proper Installation of Easy Anti-Cheat</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-overcome-football-manager-202n1s-persistent-startup-problems/"><u>Solution Steps: Overcome Football Manager 202N1's Persistent Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-performance-tweaks-and-fixes-expert-advice-for-eliminating-lag-and-improving-frame-rate/"><u>World of Warcraft Performance Tweaks & Fixes: Expert Advice for Eliminating Lag and Improving Frame Rate !</u></a></li>
+</ul></div>
 

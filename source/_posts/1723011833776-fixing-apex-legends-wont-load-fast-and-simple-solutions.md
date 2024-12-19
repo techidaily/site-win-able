@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Apex Legends Won't Load': Fast and Simple Solutions!"
-date: 2024-08-27T20:34:42.397Z
-updated: 2024-08-28T20:34:42.397Z
+date: 2024-12-15T02:30:25.492Z
+updated: 2024-12-18T19:51:56.246Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
  If you find your chrome becomes slower than usual, don’t worry! You’re not alone. Many users are reporting this annoying issue.
 
  The good news is you can fix it on your own. You should be able to fix the Chrome slow issue easily with the fixes we list below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Fixes to try:**
 
@@ -44,11 +48,16 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap24-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable the Chrome apps and extensions you don’t need
 
  The apps and extensions on your Chrome can also consume lots of resources when you’re surfing the Internet on Chrome. Try disabling the apps and extensions you don’t need any more to see if this issue persists. Here is how to do it:
@@ -56,6 +65,11 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
@@ -67,14 +81,13 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve fixed this issue. If the issue persists, try clearing your old stuck browser data.
 
@@ -88,17 +101,11 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 2. Set the time range to**cover from when you started to use your browser till now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
 
  Check to see if this annoying issue reappears. If not, you have resolved this issue. If this issue persists, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable hardware acceleration
 
  Enabling**hardware acceleration** allows your browser to rely on the GPU, not solely the CPU to render web pages. In the most cases, it will speed things up. But sometimes hardware acceleration can bring about unexpected issues. So, try disabling hardware acceleration on your browsers to see if the Chrome slow issue persists. Here is how to do it:
@@ -106,17 +113,15 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap31-1.jpg)
 2. In the search bar, type **hardware** . Then   **turn off the toggle**  next to the feature **Use hardware acceleration when available**  .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
 
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check your PC for malware in your Chrome and reset your browser settings
 
  You may run into this issue if your Chrome is affected by malware. Try checking your PC for malware in your Chrome, and then reset your browser settings. Here is how to do it:
@@ -126,13 +131,19 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset**  and then click**Clean up computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-3.jpg)
 3. Click**Find** to check for harmful software.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap35-1.jpg)
 4. Click**Remove** if you’re asked to remove unwanted software.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### To reset your browser settings
 
@@ -141,13 +152,11 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 2. In the search bar, type **reset** and then click**Restore settings to their original defaults** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap36-2.jpg)
 3. Click**Reset settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
@@ -161,9 +170,6 @@ thumbnail: https://thmb.techidaily.com/a17447c179fae26d14a354bd27ee3ed0db51405b2
 2. Wait until your Chrome updates itself to the latest version.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap39.jpg)
 3. Reopen your Chrome.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
 
@@ -185,14 +191,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan screen](https://images.drivereasy.com/wp-content/uploads/2018/09/Driver-Easy-Scan-screen.jpg)
 3. Click **Update**  next to your network device to automatically download the correct version of this driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All**  ).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![update network driver](https://images.drivereasy.com/wp-content/uploads/2018/09/update-network-driver.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -207,8 +205,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +212,26 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-kit-list-for-road-trip-movie-making/"><u>[Updated] Kit List for Road-Trip Movie Making</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-peerless-dialogue-creator-zone/"><u>[Updated] Peerless Dialogue Creator Zone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leading-tactics-sourcing-high-quality-photo-and-video-backdrops/"><u>2024 Approved Leading Tactics Sourcing High-Quality Photo & Video Backdrops</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210200999-9781908005151-art-of-mindful-silence/"><u>Art of Mindful Silence | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-news-elden-ring-delay-clarified-fans-await-answers/"><u>Breaking News: Elden Ring Delay Clarified – Fans Await Answers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-experience-the-robust-connectivity-with-asus-zenwifi-xt8-ax6600-mesh-system/"><u>Comprehensive Review: Experience the Robust Connectivity with ASUS ZenWifi XT8 AX6600 Mesh System</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-persistent-issues-in-war-thunder-avoidance-tactics-for-the-latest-crashes/"><u>Dealing with Persistent Issues in War Thunder - Avoidance Tactics for the Latest Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-eliminating-lag-and-freezing-problems-while-playing-call-of-duty-modern-warfare/"><u>Expert Advice: Eliminating Lag and Freezing Problems While Playing Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-fear-to-proficiency-excel-and-chatgpt-duo/"><u>From Fear to Proficiency: Excel & ChatGPT Duo</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-network-problems-addressing-our-data-centers-ping-failure-in-halo-infinite/"><u>How to Overcome Network Problems - Addressing Our Data Centers Ping Failure in Halo Infinite</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/master-the-dolby-setup-in-windows-tenth-tutorial-for-starting-your-sound-driver/"><u>Master the Dolby Setup in Windows Tenth: Tutorial for Starting Your Sound Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-preventing-assassins-creed-odyssey-from-freezing-updated-2er-tips/"><u>Mastering the Fix: Preventing Assassin's Creed Odyssey From Freezing - Updated 2Er Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-settings-to-eliminate-stuttering-during-assassins-creed-valhalla-sessions/"><u>Optimizing Your PC Settings to Eliminate Stuttering During Assassin's Creed Valhalla Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-call-of-duty-black-ops-4-fixes-for-laggy-gameplay-and-lowered-frames-per-second/"><u>Overcoming Call of Duty: Black Ops 4 - Fixes for Laggy Gameplay & Lowered Frames per Second</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-vivo-y100i-power-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Vivo Y100i Power 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/quick-fixes-for-eliminating-unwanted-hum-in-your-speakers/"><u>Quick Fixes for Eliminating Unwanted Hum in Your Speakers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dota-2-startup-issues-and-persistent-loading-interfaces/"><u>Resolving Dota 2 Startup Issues and Persistent Loading Interfaces</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-final-fantasy-xiv-from-crashing-on-desktop-systems/"><u>Ultimate Guide to Preventing Final Fantasy XIV From Crashing on Desktop Systems</u></a></li>
+</ul></div>
 

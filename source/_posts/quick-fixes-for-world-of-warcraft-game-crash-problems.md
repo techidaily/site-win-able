@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for 'World of Warcraft' Game Crash Problems
-date: 2024-08-27T20:38:37.778Z
-updated: 2024-08-28T20:38:37.778Z
+date: 2024-12-12T20:53:27.206Z
+updated: 2024-12-18T21:07:04.393Z
 tags:
   - win11
   - win10
@@ -101,15 +101,19 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems using**Driver Easy Pro** to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
@@ -132,23 +136,14 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-628.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  4) Right-click on your network adapter and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-629.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the initial IP address;for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.
@@ -163,9 +158,6 @@ If this fix didn’t help, read on and try the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## Fix 5: Close bandwidth-hogging apps
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues in WoW. Make sure you shut down all the resource-hungry programs before playing the game. Here’s how:
@@ -175,8 +167,9 @@ If this fix didn’t help, read on and try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
@@ -186,15 +179,17 @@ If this fix didn’t help, read on and try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) When Windows asks you to confirm, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
  5) Your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the high ping issue reoccurs.
@@ -207,14 +202,6 @@ If this fix didn’t help, read on and try the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 6: Restart your router & modem
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -223,9 +210,17 @@ If this fix didn’t help, read on and try the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 wireless router
 
@@ -240,6 +235,10 @@ wireless router
  In case this fix is to little or no avail, read on and check out the next one.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Swap Wifi to Ethernet connection
 
@@ -263,8 +262,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +269,22 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-vividvistazoom-7-captivating-larger-images/"><u>[Updated] 2024 Approved VividVistaZoom 7 Captivating Larger Images</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-crafting-a-plan-to-locate-breathtaking-photos-in-minutes-on-pexels/"><u>[Updated] In 2024, Crafting a Plan to Locate Breathtaking Photos in Minutes on Pexels</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-proven-methods-to-supercharge-your-spotify-ad-results-for-2024/"><u>[Updated] Proven Methods to Supercharge Your Spotify Ad Results for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-ps4-freezing-problems-with-these-easy-steps-to-repair-guide/"><u>Banish PS4 Freezing Problems with These Easy Steps to Repair Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/dealing-with-non-responsive-utorrent-a-guide-to-7-quick-fixes/"><u>Dealing with Non-Responsive Utorrent: A Guide to 7 Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-challenges-in-yakuza-like-a-dragon-for-personal-computers/"><u>Defeating Challenges in 'Yakuza: Like a Dragon' For Personal Computers</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-for-modifying-your-facebook-passcode-online/"><u>Easy Steps for Modifying Your Facebook Passcode Online</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/o-add-timestamps-youtube-video/"><u>How to Add Timestamps YouTube Video?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-issues-with-non-functional-intel-support-tools-in-windows/"><u>How to Resolve Issues with Non-Functional Intel Support Tools in Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-logitech-g533-mic-problems-and-restore-audio/"><u>How to Resolve Logitech G533 Mic Problems and Restore Audio</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-2023-guide-to-top-value-streaming-tools-for-all-platform-users/"><u>In 2024, The 2023 Guide to Top Value Streaming Tools for All Platform Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-among-us-deadlock-tips-for-escaping-load-loop-troubles/"><u>Overcoming the 'Among Us' Deadlock: Tips for Escaping Load Loop Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-your-gas-station-simulator-from-crashing-on-pc/"><u>Resolved: How to Stop Your Gas Station Simulator From Crashing on PC</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/streaming-into-the-future-a-review/"><u>Streaming Into the Future A Review</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-2020-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE (2020) With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+</ul></div>
 

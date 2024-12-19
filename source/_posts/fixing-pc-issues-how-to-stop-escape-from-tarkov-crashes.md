@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Issues: How to Stop Escape From Tarkov Crashes"
-date: 2024-08-27T20:39:32.388Z
-updated: 2024-08-28T20:39:32.388Z
+date: 2024-12-14T04:32:12.280Z
+updated: 2024-12-18T17:58:38.974Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 6. **[Reinstall Epic Games launcher](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, you should update your graphics driver to see if it fixes your issue.
@@ -45,11 +49,19 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-40-47.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -57,9 +69,6 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 If your issue persists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run your game as an administrator
 
  By default, Windows runs programs as a user, with limited access to the files and folders on your PC. To see if that’s the problem for you, try running your game as an administrator. Here is how:
@@ -69,25 +78,24 @@ If your issue persists, move on to the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 **3)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Restart your game to see if this worked.
 
  If the game crashing issue continues to occur, then go ahead with Fix 3, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off unnecessary programs
 
@@ -105,16 +113,10 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Relaunch your game to see if this fixed your issue.
 
 If it didn’t, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify your game files
 
  This issue might happen when one or more Phoenix Point files are corrupt or missing. If you’re playing the game on Epic Games Launcher, you should verify your game files. Here is how to do it:
@@ -129,9 +131,6 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Restart your game.
 
  If your game still won’t work properly, then try the next solution.
@@ -155,6 +154,10 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
  If your game is still unplayable, move on to **[Fix 6](https://tools.techidaily.com/drivereasy/download/)**  , below.
@@ -165,9 +168,6 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-01-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Right-click **Phoenix Point**  and click **More > App settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-56-02-1.jpg)
@@ -177,16 +177,13 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-03-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 **5)** Relaunch _Phoenix Point_ after the process is complete.
 
 If your problem continues to occur, then move on and try the next fix.
@@ -201,9 +198,6 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
@@ -213,17 +207,26 @@ If your problem continues to occur, then move on and try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-38.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall _Phoenix Point_ .
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check for Windows updates
 
@@ -254,8 +257,6 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -263,4 +264,18 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-masterclass-using-magix-video-pro-x/"><u>[New] Masterclass Using Magix Video Pro X</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-navigating-novelty-applying-cartoon-lenses-in-snapchat/"><u>[Updated] 2024 Approved Navigating Novelty Applying Cartoon Lenses in Snapchat</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expert-tips-for-repairing-access-pointwireless-adapter-malfunctions-5-stars/"><u>Expert Tips for Repairing Access Point/Wireless Adapter Malfunctions (5 Stars)</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-keep-playing-without-crashes-fixing-maplestory-on-windows-11-latest-tips-and-techniques/"><u>How to Keep Playing Without Crashes: Fixing MapleStory on Windows 11 - Latest Tips & Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-realme-11-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Realme 11 Pro to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/naraka-bladepoint-update-squashes-previous-glitches-smoother-experience-guaranteed/"><u>Naraka: Bladepoint Update Squashes Previous Glitches – Smoother Experience Guaranteed</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/repair-corrupted-windows-10-images-with-dism-a-dual-approach-guide-for-offline-scenarios/"><u>Repair Corrupted Windows 10 Images with DISM - A Dual-Approach Guide for Offline Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-heart-of-iron-iv-game-crashes-explained/"><u>Resolved: Common Heart of Iron IV Game Crashes Explained</u></a></li>
+<li><a href="https://extra-support.techidaily.com/seamless-sync-solutions-top-cloud-apps-for-android-for-2024/"><u>Seamless Sync Solutions Top Cloud Apps for Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-fixing-persistent-palworld-pc-app-issues/"><u>Troubleshooting Steps for Fixing Persistent Palworld PC App Issues</u></a></li>
+</ul></div>
 

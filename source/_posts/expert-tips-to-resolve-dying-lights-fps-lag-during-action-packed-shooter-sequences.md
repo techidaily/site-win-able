@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Resolve Dying Light's FPS Lag During Action-Packed Shooter Sequences
-date: 2024-08-27T20:37:04.040Z
-updated: 2024-08-28T20:37:04.040Z
+date: 2024-12-11T21:29:23.050Z
+updated: 2024-12-18T20:14:18.475Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c62b5284641027dfddd7dff7e86c9bcc06523e51b
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-driver-outdated-featured.jpg)
 
  After the Minecraft update, many players start reporting an**Drivers Outdated message** telling that they need to update their graphics driver. If you’re on the same boat, you’re in the right place. In this tutorial, we’ll show you how to get rid of this message.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,15 +66,17 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
@@ -84,18 +90,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Scan and repair Windows
 
  If you’re sure it’s not a driver issue, try scanning Windows and see if it’s a system error.
@@ -106,18 +106,20 @@ If you’re still seeing the message, continue to the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 Once done, restart Windows and try again in Minecraft.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Check your default GPU
 
  If your computer comes with dual graphics cards, for example an Intel integrated graphics and a dedicated NVIDIA/AMD graphics card, you can check if you’re**running Minecraft on the desired GPU** . The update message might appear if you’re running Minecraft on the wrong GPU.
@@ -129,16 +131,22 @@ Here’s how you can check the preferred GPU of Minecraft:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -154,8 +162,6 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +169,26 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-unraveling-drone-use-in-the-now-and-next-frontier/"><u>[New] In 2024, Unraveling Drone Use in the Now & Next Frontier</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-maximize-your-inspiration-free-pinterest-video-downloaders/"><u>[New] Maximize Your Inspiration Free Pinterest Video Downloaders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facilitating-tiktok-videos-transmission-to-facebook-friends-for-2024/"><u>[Updated] Facilitating TikTok Videos' Transmission to Facebook Friends for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-maximizing-fb-visibility-top-10-seo-strategies/"><u>[Updated] Maximizing FB Visibility Top 10 SEO Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-stabilizing-horizon-forbidden-west-full-gameplay-on-windows/"><u>Complete Guide: Stabilizing 'Horizon Forbidden West' Full Gameplay on Windows</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-asus-ax6000-rt-ax88u-wireless-router-analysis-elevate-your-home-network-with-wi-fi-6/"><u>Comprehensive Asus AX6000 RT-AX88U Wireless Router Analysis - Elevate Your Home Network with Wi-Fi 6</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhancing-emergency-department-efficiency-with-process-mining-insights-from-widener-universitys-study-using-abbyy-timeline/"><u>Enhancing Emergency Department Efficiency with Process Mining: Insights From Widener University's Study Using ABBYY Timeline</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-recurring-issues-how-to-stop-world-of-tanks-blitz-from-continuously-crashing/"><u>Fixing Recurring Issues: How to Stop World of Tanks Blitz From Continuously Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-not-launching-issue-in-last-epoch-game-tips-and-solutions-pc-2024-update/"><u>Fixing the 'Not Launching' Issue in Last Epoch Game: Tips & Solutions (PC) | 2024 Update</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-nokia-130-music-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Nokia 130 Music | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-prevent-and-solve-dragon-age-origins-problems-with-windows-11-compatibility/"><u>How to Prevent and Solve Dragon Age: Origins Problems with Windows 11 Compatibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-games-from-crashing-on-your-computer/"><u>How to Stop Games From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k21-black-screen-glitch-fixes-and-workarounds-ready-for-the-2024-launch/"><u>NBA 2K21 Black Screen Glitch - Fixes and Workarounds Ready for the 2024 Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-startup-issues-in-far-cry-5-a-step-by-step-guide/"><u>Overcoming Startup Issues in Far Cry 5: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-risk-of-rain-2-stability-issues-with-these-expert-fixes/"><u>Resolve Risk of Rain 2 Stability Issues with These Expert Fixes</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/reviving-your-gopro-footage-effective-techniques-for-extracting-videos-from-sd-cards/"><u>Reviving Your GoPro Footage: Effective Techniques for Extracting Videos From SD Cards</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-problems-how-to-get-resident-evil-village-game-running-smoothly/"><u>Solved Problems: How To Get Resident Evil Village Game Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/thunder-tier-one-stability-solving-recurring-pc-game-crashes-efficiently/"><u>Thunder Tier One Stability: Solving Recurring PC Game Crashes Efficiently</u></a></li>
+<li><a href="https://win-unique.techidaily.com/windows-11-rsync/"><u>Windows 11における効率的なファイル同期: Rsyncの利用手順</u></a></li>
+</ul></div>
 

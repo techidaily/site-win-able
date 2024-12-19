@@ -1,7 +1,7 @@
 ---
 title: "Pathfinder: Wrath of the Righteeous Crash Troubleshooting Guide"
-date: 2024-08-27T20:34:55.547Z
-updated: 2024-08-28T20:34:55.547Z
+date: 2024-12-16T16:03:46.200Z
+updated: 2024-12-19T05:39:58.169Z
 tags:
   - win11
   - win10
@@ -58,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
  Try starting the game and check if the ‘Pathfinder: Wrath of the Righteous not launching’ issue persists. If this method doesn’t do the trick, you can move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
  To boost gaming performance, it’s always recommended to keep your drivers up to date, especially your graphics driver (sometimes your audio drivers, too). If your driver is outdated or faulty, you may experience game crashing / not launching issues quite often (newly-released games especially).
@@ -76,13 +73,18 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![update drivers to fix game issues](https://images.drivereasy.com/wp-content/uploads/2021/09/update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer and check whether your problem is solved.
 
@@ -90,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable NVIDIA/GoG Overlays
 
  If you’re on GoG and Pathfinder: Wrath of the Righteous won’t launch, the solution is as follow:
@@ -101,15 +104,13 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Go to**Game Features** and uncheck**Overlay** .
 
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
 
  If you’re using an NVIDIA graphics card, you can disable NVIDIA overlay.
@@ -132,6 +133,10 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Modify the Registry
 
  If the fixes above didn’t help at all, you can delete the ‘Owlcat’ key and let Steam reload the game.
@@ -142,12 +147,13 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
 ![edit registry](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to C**omputer\\HKEY\_CURRENT\_USER\\SOFTWARE\\owlcat** and delete the entire key.
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -168,8 +174,9 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .
@@ -188,8 +195,6 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +202,23 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-ad-revenue-how-much-do-youtubers-make-per-ad/"><u>[Updated] 2024 Approved YouTube Ad Revenue How Much Do YouTubers Make Per Ad?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unveiling-luxury-transforming-standard-shipments-into-memories/"><u>[Updated] Unveiling Luxury Transforming Standard Shipments Into Memories</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-capture-your-music-5-pro-tips-for-streaming-sound-online/"><u>2024 Approved Capture Your Music 5 Pro Tips for Streaming Sound Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-launch-any-video-projects-with-free-kits/"><u>2024 Approved Launch Any Video Projects with Free Kits</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/expert-tips-and-strategies-to-make-your-podcast-title-stand-out/"><u>Expert Tips & Strategies to Make Your Podcast Title Stand Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-dota-2s-stalled-loading-scenes-a-step-by-step-guide-to-restarting-your-game/"><u>Fix Dota 2'S Stalled Loading Scenes - A Step-by-Step Guide to Restarting Your Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-has-bethesda-improved-performance-issues-for-mass-effect-ultimate-collection/"><u>How Has Bethesda Improved Performance Issues for Mass Effect Ultimate Collection?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-oxygen-not-included-gameplay-interruptions/"><u>How to Prevent and Fix 'Oxygen Not Included' Gameplay Interruptions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-gionee-f3-pro-phone-without-google-account-by-drfone-android/"><u>How to Unlock Gionee F3 Pro Phone without Google Account?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-how-to-build-your-own-4k-video-editing-pc/"><u>In 2024, How To Build Your Own 4K Video Editing PC</u></a></li>
+<li><a href="https://os-tips.techidaily.com/mastering-iphone-image-preservation-key-techniques-for-ios-1314-photo-backup-mastery/"><u>Mastering iPhone Image Preservation: Key Techniques for iOS 13/14 Photo Backup Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-troubleshooting-effective-solution-for-error-3-0x0001000b/"><u>Rainbow Six Siege Troubleshooting: Effective Solution for Error 3-0X0001000B</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cant-i-play-starfield-how-to-fix-launch-problems-in-steam-and-xbox/"><u>Solution Guide: Why Can't I Play Starfield? How to Fix Launch Problems in Steam and Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-fifa-22-keeps-exiting-prematurely-on-pc/"><u>Troubleshooting: Why FIFA 22 Keeps Exiting Prematurely on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-continuous-crash-problems-discover-these-fixes-made/"><u>War Thunder Continuous Crash Problems? Discover These Fixes Made !</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-chatgpt-is-a-game-changer-in-seeking-personal-health-guidance/"><u>Why ChatGPT Is a Game-Changer in Seeking Personal Health Guidance</u></a></li>
+</ul></div>
 
