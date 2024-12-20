@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications"
-date: 2024-12-06T16:38:58.297Z
-updated: 2024-12-12T16:36:09.611Z
+date: 2024-12-18T19:15:38.972Z
+updated: 2024-12-19T18:19:34.178Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using the latest drivers
@@ -54,15 +50,11 @@ thumbnail: https://thmb.techidaily.com/8f94bf7c2b99f85ff1fa63d2bea22e03cd2a105f9
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -87,17 +79,29 @@ You can use the following steps to check for Minecraft updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -106,10 +110,6 @@ You can use the following steps to check for Minecraft updates.
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
 
 If you’re still seeing the message, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair Windows
 
@@ -123,6 +123,10 @@ If you’re still seeing the message, continue to the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -146,18 +150,14 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can restart Minecraft and check if the message is still there.
 
@@ -182,20 +182,22 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-the-ultimate-guide-for-ps3-playback-recording/"><u>[New] 2024 Approved The Ultimate Guide for PS3 Playback Recording</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-in-depth-look-at-frozen-delight-recording-software/"><u>[New] In 2024, In-Depth Look at Frozen Delight Recording Software</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-roguelike-vs-roguelite-debates-and-history/"><u>[New] In 2024, Roguelike Vs. Roguelite Debates and History</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-elevate-your-video-content-with-desktopmobile-timestamps/"><u>[Updated] 2024 Approved Elevate Your Video Content with Desktop/Mobile Timestamps</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-7-apps-altering-vocal-soundtracks/"><u>[Updated] Top 7 Apps Altering Vocal Soundtracks</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-discovering-your-curated-collection-of-tunes-in-youtubes-depths/"><u>2024 Approved Discovering Your Curated Collection of Tunes in YouTube's Depths</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/atassd/"><u>ATASSD快速数据重建秘籍：键动数字资料拯援技巧</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-game-crashes-on-your-pc-essential-tips/"><u>Fixing Game Crashes on Your PC: Essential Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/logitech-g-hub-not-working-a-comprehensive-fix-guide-for-windows-users/"><u>Logitech G Hub Not Working? A Comprehensive Fix Guide for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimized-and-secure-playthroughs-on-your-computer-with-the-patched-fnaf-security-update/"><u>Optimized & Secure Playthroughs on Your Computer with the Patched FNAF Security Update</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-running-payday-2-on-pc/"><u>Overcoming Launch Errors: A Guide to Successfully Running Payday 2 on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/rocket-league-performance-restored-say-goodbye-to-freezing-glitches/"><u>Rocket League Performance Restored - Say Goodbye to Freezing Glitches!</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-honor-x50iplus-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Honor X50i+ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-preventing-hitman-3-from-crashing-on-your-computer-tips/"><u>Ultimate Guide to Preventing Hitman 3 From Crashing on Your Computer - Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-to-swiftly-resolving-apex-legends-startup-challenges/"><u>Unlocking the Secrets to Swiftly Resolving Apex Legends Startup Challenges.</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-friendly-facebook-files-your-free-fb-link-download-aids/"><u>[Updated] Friendly Facebook Files - Your Free FB Link Download Aids</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-crafting-characters-the-art-of-3d-text-design/"><u>[Updated] In 2024, Crafting Characters The Art of 3D Text Design</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1726225913398-mpeg/"><u>線上無料MPEG轉档服务 - 快速實用解答</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-overcome-the-dangerous-fatal-error-ark-issue/"><u>Comprehensive Solutions to Overcome the Dangerous 'Fatal Error Ark' Issue</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-four-motivations-for-adopting-claude-3/"><u>Discover Four Motivations for Adopting Claude 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-your-hardware-is-not-supported-error-0xc19001e1-in-windows-10/"><u>Effective Solutions for the 'Your Hardware Is Not Supported' Error (0xC19001E1) in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010505543-effortlessly-enhance-your-dayz-gameplay-increased-fps-now/"><u>Effortlessly Enhance Your DayZ Gameplay – Increased FPS Now!</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/enhance-your-videos-effective-titles-and-keywords-on-youtube-for-2024/"><u>Enhance Your Videos Effective Titles and Keywords on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-rectifying-back-astopper-for-back-4-bloods-ue4-gobi-error-challenge/"><u>Expert Tips on Rectifying Back Astopper for Back 4 Blood's UE4-Gobi Error Challenge</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-samsung-galaxy-a15-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/installing-the-newest-printer-drivers-for-your-hp-color-laserjet-pro-mfp-m477/"><u>Installing the Newest Printer Drivers for Your HP Color LaserJet Pro MFP M477</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-a-comprehensive-fix-to-the-witcher-3-wild-hunt-woes/"><u>Overcoming Launch Obstacles: A Comprehensive Fix to The Witcher 3: Wild Hunt Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-relentless-outlook-closure-issues-for-smoother-operations/"><u>Overcoming Relentless Outlook Closure Issues for Smoother Operations</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-mp3-converters-the-ultimate-list-from-youtube/"><u>Prime MP3 Converters The Ultimate List From YouTube</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-ultimate-showdown-determining-the-best-between-huggingchat-and-chatgpt/"><u>The Ultimate Showdown: Determining the Best Between HuggingChat and ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-connecting-to-apex-legends-server-try-these-methods/"><u>Trouble Connecting to Apex Legends Server? Try These Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dropping-frames-in-call-of-duty-modern-warfare-3-tips-for-smooth-gameplay/"><u>Troubleshooting Dropping Frames in Call of Duty: Modern Warfare 3 - Tips for Smooth Gameplay</u></a></li>
 </ul></div>
 

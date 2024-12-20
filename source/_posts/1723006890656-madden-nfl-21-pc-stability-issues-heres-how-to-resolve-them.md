@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-12-08T16:24:59.880Z
-updated: 2024-12-12T17:04:08.016Z
+date: 2024-12-15T18:07:09.194Z
+updated: 2024-12-19T18:39:19.336Z
 tags:
   - win11
   - win10
@@ -46,13 +46,13 @@ Here’s how to do that on Origin:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -68,19 +68,11 @@ If the fix doesn’t stop the crash, you can try the next one below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the latest graphics driver, restart your PC and test the gameplay in Madden 21.
 
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -91,10 +83,14 @@ To minimize conflicts, you also need to install all the system patches:
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -108,24 +104,28 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphical settings
@@ -160,24 +160,22 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-strategies-for-longer-content-on-the-social-network-giant/"><u>[New] In 2024, Strategies for Longer Content on the Social Network Giant</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-symphony-for-statuses-whatsapps-melodic-feature/"><u>[New] Symphony for Statuses WhatsApp's Melodic Feature</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-video-preservation-straightforward-techniques-unpacked/"><u>2024 Approved Instagram Video Preservation Straightforward Techniques Unpacked</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-nokia-150-2023-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Nokia 150 (2023) by Name | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-failed-to-create-qsurfaceformat-opengl-context-error/"><u>Comprehensive Fixes for 'Failed to Create QSurfaceFormat OpenGL Context Error'</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-your-battle-with-the-unstable-lunar-client-a-complete-solution-for-windows/"><u>End Your Battle with the Unstable Lunar Client: A Complete Solution for Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-a-fiery-launch-overcoming-the-challenge-of-an-atomic-heart-crash-during-startup/"><u>Fixing a Fiery Launch: Overcoming the Challenge of an Atomic Heart Crash During Startup</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y200-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y200 Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/improving-quality-the-definitive-guide-to-tweaking-display-settings-on-a-samsung-4k-series-television/"><u>Improving Quality: The Definitive Guide to Tweaking Display Settings on a Samsung 4K Series Television</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-beyond-the-basics-non-inshot-pc-video-tools/"><u>In 2024, Beyond the Basics Non-Inshot PC Video Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/join-kratos-for-an-action-packed-journey-the-god-of-war-fps-is-now-available-on-pc/"><u>Join Kratos for an Action-Packed Journey: The God of War FPS Is Now Available on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-issues-for-a-smooth-experience/"><u>Lego Star Wars: The Skywalker Saga - Resolved PC Issues for a Smooth Experience</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/maximizing-the-potential-of-virtual-dialogue-secrets-from-a-pro-zoom-chat-guru/"><u>Maximizing the Potential of Virtual Dialogue Secrets From a Pro ZOOM Chat Guru</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-for-diablo-ii-resurrected-a-step-by-step-guide/"><u>Overcoming Launch Hurdles for Diablo II: Resurrected - A Step-by-Step Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-motorola-moto-g-stylus-2023-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Motorola Moto G Stylus (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-performance-issues-in-avatar-pandoras-edge-a-step-by-step-guide/"><u>Solving Performance Issues in Avatar: Pandora's Edge - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-launch-starfield-successfully-on-your-console-or-pc/"><u>Step-by-Step Solutions to Launch Starfield Successfully on Your Console or PC</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-essential-guide-to-ar-vr-mr-and-xr-understanding-what-sets-them-apart/"><u>The Essential Guide to AR, VR, MR & XR: Understanding What Sets Them Apart</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-no-launch-availability-solutions-inside/"><u>Troubleshooting DOOM Eternal: No Launch Availability, Solutions Inside</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-deliberating-on-auroras-contribution-to-photographic-quality/"><u>[New] Deliberating on Aurora’s Contribution to Photographic Quality</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-detailed-review-and-tips-picsart-users-for-2024/"><u>[New] Detailed Review & Tips PicsArt Users for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-viral-victory-your-kinemaster-journey/"><u>[New] Viral Victory Your KineMaster Journey</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-zenful-grooves-top-20-tranquil-country-beats-for-stress-free-dancing-tiktok/"><u>[Updated] 2024 Approved Zenful Grooves Top 20 Tranquil Country Beats for Stress-Free Dancing (TikTok)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-behind-the-scenes-creating-successful-youtube-shorts-videos-for-2024/"><u>[Updated] Behind the Scenes Creating Successful YouTube Shorts Videos for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-how-to-capture-your-iphones-screen-seamlessly-for-2024/"><u>[Updated] How to Capture Your iPhone's Screen Seamlessly for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-amplifying-video-clarity-on-youtube/"><u>[Updated] In 2024, Amplifying Video Clarity on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-covert-pc-freezing-and-shutdown-problems/"><u>Comprehensive Solutions to Covert PC Freezing and Shutdown Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-latency-battles-streamlined-gameplay-for-enthusiasts-of-the-elder-scrolls-online-blackwood-chapter/"><u>Conquering Latency Battles: Streamlined Gameplay for Enthusiasts of The Elder Scrolls Online Blackwood Chapter</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-custom-viewability-in-social-media-sphere/"><u>Crafting Custom Viewability in Social Media Sphere</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-common-problems-with-robocop-rogue-city-when-launched-on-personal-computers/"><u>Fixing Common Problems with RoboCop: Rogue City When Launched on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-from-crashing-top-6-troubleshooting-steps/"><u>How to Stop Your Game From Crashing: Top 6 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-strategies-to-prevent-final-fantasy-xv-from-freezing-or-crashing-on-pc/"><u>Mastering the Fix: Strategies to Prevent Final Fantasy XV From Freezing or Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigate-clear-skies-solutions-for-sea-of-thieves-persistent-loading-struggles/"><u>Navigate Clear Skies: Solutions for Sea of Thieves Persistent Loading Struggles</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-steam-game-startup-problems-on-your-windows-10-pc/"><u>Overcoming Steam Game Startup Problems on Your Windows 10 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ue4-debugging-success-solutions-for-back-4-bloods-gobi-crash-problem/"><u>UE4 Debugging Success: Solutions for Back 4 Blood's Gobi Crash Problem</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/voice-command-utilization-no-cost/"><u>Voice Command Utilization No Cost</u></a></li>
 </ul></div>
 

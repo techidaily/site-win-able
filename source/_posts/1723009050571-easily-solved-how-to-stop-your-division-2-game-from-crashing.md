@@ -1,7 +1,7 @@
 ---
 title: "Easily Solved: How to Stop Your Division 2 Game From Crashing"
-date: 2024-12-07T17:02:54.911Z
-updated: 2024-12-12T16:41:21.330Z
+date: 2024-12-16T16:03:02.233Z
+updated: 2024-12-19T17:22:51.853Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,15 +48,15 @@ thumbnail: https://thmb.techidaily.com/cf530c2c593b6932cef8db0cdf4cd19063a18ed96
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
 
 If this method doesn’t help, check out your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -75,21 +71,17 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -100,12 +92,24 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -116,14 +120,10 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
@@ -172,21 +172,22 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-studio-setup-starters-top-17-lights-and-more/"><u>[New] Studio Setup Starters - Top 17 Lights & More</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-the-spectacquad-p2715q-a-deep-dive-into-4k-screen-technology-for-2024/"><u>[New] The Spectacquad P2715Q A Deep Dive Into 4K Screen Technology for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-muting-the-youtube-video-peek-mechanism/"><u>[Updated] 2024 Approved Muting the YouTube Video Peek Mechanism</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-recovery-pathways-from-youtube-disqualification/"><u>[Updated] Recovery Pathways From YouTube Disqualification</u></a></li>
-<li><a href="https://win-able.techidaily.com/7-ways-to-fix-steam-black-screen-not-loading-2024/"><u>7 Ways to Fix Steam Black Screen/ Not Loading 2024</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/abu-dhabis-guide-5-things-you-must-review-before-getting-a-fitness-tracker/"><u>Abu Dhabi's Guide: 5 Things You Must Review Before Getting a Fitness Tracker</u></a></li>
-<li><a href="https://win-able.techidaily.com/alan-wake-groovy-gaming-troubleshoot-crashes-with-these-simple-steps/"><u>Alan Wake Groovy Gaming: Troubleshoot Crashes with These Simple Steps</u></a></li>
-<li><a href="https://win-dash.techidaily.com/getting-started-with-your-new-logitech-mx-master-installation-essentials/"><u>Getting Started With Your New Logitech MX Master: Installation Essentials</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-i-stopped-my-blender-from-continuously-crashing-on-windowsmac/"><u>How I Stopped My Blender From Continuously Crashing on Windows/Mac!</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/labor-day-tech-bonanza-snag-the-latest-ipad-pro-for-a-whopping-700-discount-at-zdnets-special-promotion/"><u>Labor Day Tech Bonanza! Snag the Latest iPad Pro for a Whopping $700 Discount at ZDNet's Special Promotion</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-release-hurdle-solving-your-football-manager-2022-access-challenges-easily/"><u>Overcome the Release Hurdle: Solving Your Football Manager 2022 Access Challenges Easily</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-crash-issues-heres-how-you-can-resolve-them-now/"><u>Steam Crash Issues? Here's How You Can Resolve Them Now!</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-guide-for-a-high-flying-ps4-experience/"><u>The Ultimate Guide for a High-Flying PS4 Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-audio-issues-in-halo-infinite-gameplay/"><u>Troubleshooting Common Audio Issues in Halo Infinite Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722987396216-ultimate-guide-resolving-the-new-world-connection-issue/"><u>Ultimate Guide: Resolving the 'New World Connection Issue'</u></a></li>
-<li><a href="https://os-tips.techidaily.com/uncover-the-top-secret-tricks-of-ios-transforming-your-iphone-experience/"><u>Uncover the Top Secret Tricks of iOS: Transforming Your iPhone Experience</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-how-to-generate-stellar-podcast-title-ideas/"><u>[New] How to Generate Stellar Podcast Title Ideas</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-innovative-cost-cutting-in-cloud-storage-savings-guide-2024/"><u>[New] Innovative Cost Cutting in Cloud Storage - Savings Guide 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-latest-tricks-for-ios-screenshots-and-recording/"><u>[Updated] Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-troubleshooting-guide-connecting-to-path-of-exile-servers-without-errors/"><u>2024 Troubleshooting Guide: Connecting to Path of Exile Servers Without Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/deciphering-the-hold-up-a-closer-look-at-why-the-ascent-is-not-releasing-sooner/"><u>Deciphering The Hold-Up: A Closer Look at Why 'The Ascent' Is Not Releasing Sooner</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-fixing-the-notorious-apex-legends-error-23/"><u>Effective Solutions for Fixing the Notorious Apex Legends Error 23</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/enhance-web-personalization-with-the-power-of-cookiebot-technology/"><u>Enhance Web Personalization with the Power of Cookiebot Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-tips-for-a-smooth-fallout-3-experience-on-modern-windows-systems/"><u>Essential Tips for a Smooth Fallout 3 Experience on Modern Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fix-guide-addressing-skyline-cities-2-pc-glitches-efficiently/"><u>Expert Fix Guide: Addressing Skyline Cities 2 PC Glitches Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-itunes-how-to-correct-errors-found-in-audio-settings/"><u>Fixing iTunes: How to Correct Errors Found in Audio Settings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-asus-rog-phone-7-ultimate-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Asus ROG Phone 7 Ultimate Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-ark-survival-evolved-performance-pro-tips-for-achieving-the-fastest-frame-rate-on-pc/"><u>Mastering ARK: Survival Evolved Performance - Pro Tips for Achieving the Fastest Frame Rate on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-a-stuck-or-crashing-battlenet-launcher-on-windows-systems/"><u>Quick Fixes for a Stuck or Crashing Battle.net Launcher on Windows Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/seamless-creation-a-closer-look-at-magix-video-pro-x-for-2024/"><u>Seamless Creation A Closer Look at Magix Video Pro X for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/l-blade-the-comprehensive-guide-to-youtube-performance-tracking/"><u>Social Blade The Comprehensive Guide to YouTube Performance Tracking</u></a></li>
+<li><a href="https://article-posts.techidaily.com/ultimate-zooid-design-starter-packs-for-2024/"><u>Ultimate Zooid Design Starter Packs for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot & Fix: Persistent Crashes of Black Desert on Your Computer"
-date: 2024-08-27T20:30:06.447Z
-updated: 2024-08-28T20:30:06.447Z
+date: 2024-12-17T16:36:48.711Z
+updated: 2024-12-19T16:45:08.460Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Update your graphics driver
 
  The GPU driver might be causing the error ‘**An Unreal process has crashed: UE4-Madness** .’ in Outriders. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver.
@@ -53,15 +57,13 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -70,8 +72,9 @@ There are mainly two methods for you to update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -81,6 +84,10 @@ There are mainly two methods for you to update the graphics driver:
  2) Right-click **OUTRIDERS Demo** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
@@ -100,14 +107,8 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 5\. Launch the game in your game folder
 
  This method has helped many players solve the Unreal Game crashes. If you don’t know the exact installation location of your game, here’s how to do it:
@@ -121,9 +122,9 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
  4) Launch the game from the exe.
@@ -144,13 +145,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
 
  Now you can launch your game again to check the ‘Unreal process has crashed: UE4-Madness error’ is gone.
@@ -168,8 +170,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +177,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-essential-economic-education-top-15-youtube-picks-for-2024/"><u>[Updated] Essential Economic Education Top 15 YouTube Picks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/anthems-stuck-on-launch-solving-the-games-unending-boot-sequence-woes/"><u>Anthem's Stuck on Launch? Solving the Game’s Unending Boot Sequence Woes</u></a></li>
+<li><a href="https://win11.techidaily.com/counteracting-0x80070194-a-guide-to-onedrive-in-ws/"><u>Counteracting 0X80070194: A Guide to OneDrive in WS</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/efficient-deletion-techniques-for-online-discussions/"><u>Efficient Deletion Techniques for Online Discussions</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/efficient-route-for-vimeo-uploads-from-window-media-tools/"><u>Efficient Route for Vimeo Uploads From Window Media Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-horror-game-immersion-fixing-lag-issues-in-resident-evil-village-on-pc/"><u>Enhance Your Horror Game Immersion - Fixing Lag Issues in Resident Evil Village on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-excitement-with-cod-modern-warfares-newest-fps-release/"><u>Experience the Excitement with Cod: Modern Warfare's Newest FPS Release!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-prevent-adobe-premiere-pro-crashing-incidents-on-windows-1110-platforms/"><u>Expert Solutions to Prevent Adobe Premiere Pro Crashing Incidents on Windows 11/10 Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/from-recording-to-broadcasting-the-steam-gamers-path-for-2024/"><u>From Recording to Broadcasting The Steam Gamers' Path for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-to-play-solutions-for-launch-failures-of-steam-titles-on-windows-10/"><u>Get to Play: Solutions for Launch Failures of Steam Titles on Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-elite-group-chat-and-webcams-the-best-selection/"><u>In 2024, Elite Group Chat & Webcams The Best Selection</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-zte-axon-40-lite-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on ZTE Axon 40 Lite with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-end-of-nightmares-fixing-and-preventing-black-screens-in-cyberpunk-2077/"><u>The End of Nightmares: Fixing and Preventing Black Screens in Cyberpunk 2077</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-journey-through-generative-ais-evolution/"><u>The Journey Through Generative AI's Evolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-optimizing-sims-4-speed-and-stability-on-windows-computers/"><u>Top Strategies for Optimizing Sims 4 Speed and Stability on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-to-launch-valorant-successfully-on-your-pc-updated-guide/"><u>Top Strategies to Launch Valorant Successfully on Your PC - Updated Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Get Rainbow Six Siege Running Smoothly After Fixing Launch Issues.
-date: 2024-08-27T20:31:22.582Z
-updated: 2024-08-28T20:31:22.582Z
+date: 2024-12-15T16:44:22.913Z
+updated: 2024-12-19T17:21:53.939Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -58,9 +66,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
@@ -73,12 +78,13 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -86,9 +92,6 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -109,6 +112,10 @@ thumbnail: https://thmb.techidaily.com/3e9db891de75640d42280dabbfbbc511c64f55b10
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
@@ -123,8 +130,9 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
 "C:\Program Files (x86)\Epic Games\Launcher\Portal\Binaries\Win32\EpicGamesLauncher.exe" -OpenGL
@@ -133,18 +141,12 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -165,6 +167,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
@@ -175,9 +181,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -187,15 +190,17 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Restart your computer.
 
 4) Download the installation package from[https://www.epicgames.com/store/en-US/download](https://www.epicgames.com/store/en-US/download) and install it on your computer.
@@ -215,8 +220,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +227,23 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-next-gen-webinar-software/"><u>[New] Navigating Next-Gen Webinar Software</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-action-packed-snapshots-the-bold-polaroid-xs-100i-review/"><u>[Updated] 2024 Approved Action-Packed Snapshots The Bold Polaroid XS 100I Review</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-quick-guide-to-huawei-p60-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Huawei P60 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-application-wont-boot-resolve-error-code-0xc0000022-and-start-successfully/"><u>Adobe Application Won't Boot? Resolve Error Code 0xC0000022 and Start Successfully.</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-launch-glitches-sorted-out-embark-on-the-quest-today/"><u>Baldur's Gate 3 Launch Glitches Sorted Out - Embark on the Quest Today!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723011416759-discord-overlay-not-responding-heres-how-to-get-it-working-again/"><u>Discord Overlay Not Responding? Here's How to Get It Working Again!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-update-hp-display-drivers-in-microsofts-windows-operating-systems-11-8-and-7/"><u>How to Correctly Update HP Display Drivers in Microsoft's Windows Operating Systems: 11, 8 & 7</u></a></li>
+<li><a href="https://win-able.techidaily.com/insights-unveiled-it-takes-two-now-available/"><u>Insights Unveiled: 'It Takes Two' Now Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-common-causes-of-a-purely-black-display/"><u>Resolved: Troubleshooting Common Causes of a Purely Black Display</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-no-more-crusader-kings-iii-computer-freezes/"><u>Solution Guide: No More Crusader Kings III Computer Freezes</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/spyware-explained-your-comprehensive-guide-by-malwarefox/"><u>Spyware Explained – Your Comprehensive Guide by MalwareFox</u></a></li>
+<li><a href="https://games-able.techidaily.com/supercharge-your-playtime-with-elite-tech/"><u>Supercharge Your Playtime with Elite Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-6-chilling-hk-tv-shows-streaming-with-eng-subs-your-ultimate-free-guide/"><u>Top 6 Chilling HK TV Shows Streaming with Eng Subs: Your Ultimate FREE Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-civilization-6-installation-issues-in-windows-10-environments/"><u>Troubleshooting Civilization 6 Installation Issues in Windows 10 Environments</u></a></li>
+<li><a href="https://win-able.techidaily.com/unstick-your-game-expert-advice-to-resolve-football-manager-2021-loading-screens-quickly/"><u>Unstick Your Game: Expert Advice to Resolve Football Manager 2021 Loading Screens Quickly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/windows-10-the-definitive-resource-for-downloading-and-updating-lenovo-ideapad-100-drivers/"><u>Windows 10: The Definitive Resource for Downloading & Updating Lenovo IdeaPad 100 Drivers</u></a></li>
+</ul></div>
 

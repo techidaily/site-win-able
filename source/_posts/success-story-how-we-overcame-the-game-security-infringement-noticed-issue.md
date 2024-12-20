@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2024-12-05T16:53:08.601Z
-updated: 2024-12-12T16:53:15.914Z
+date: 2024-12-17T16:53:21.254Z
+updated: 2024-12-19T18:11:44.713Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 * [Fix 1: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 * [Fix 3: Reinstall shaders & clear cache](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -54,17 +62,13 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change mini map shape
 
@@ -75,6 +79,10 @@ Restart your computer for the changes to take effect.
 3. Scroll down to**HUD** . Change Mini Map Shape into**Square** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_10-34-49.jpg)
 4. Back to the game and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
@@ -90,19 +98,11 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Close all your Blizzard programs completely.
 6. Press**Ctrl + Shift+ Esc** together to open the**Task Manager** .
 7. Click the**Processes** tab. Select Battle.net and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-49-07.jpg)
 8. Press**Windows key + R** to open the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
@@ -134,7 +134,7 @@ No luck with this fix? Try the next one.
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
@@ -145,7 +145,7 @@ No luck with this fix? Try the next one.
 7. Don’t choose the latest driver, select the older one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8. Follow the on-screen instructions to download the driver.
@@ -171,22 +171,18 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/fixed-how-to-reconnect-to-destiny-2-server-issues/"><u>[FIXED] How to Reconnect to Destiny 2 Server Issues</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-are-critiques-on-items-compensated-monetarily/"><u>[New] 2024 Approved Are Critiques on Items Compensated Monetarily?</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-charting-the-course-for-your-youtube-music-narrative/"><u>[Updated] Charting the Course for Your YouTube Music Narrative</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-no-license-plenty-of-melodies-top-10-online-websites/"><u>[Updated] No License, Plenty of Melodies - Top 10 Online Websites</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-snapshotwiz-10-pro-windows-screen-master/"><u>2024 Approved SnapshotWiz 10 Pro - Windows Screen Master</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-optimal-gameplay-advanced-strategies-to-resolve-warzone-stutter-and-boost-frame-rate/"><u>Achieve Optimal Gameplay: Advanced Strategies to Resolve Warzone Stutter & Boost Frame Rate</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-civilization-6-game-crashes-on-windows-10-devices/"><u>How to Fix Civilization 6 Game Crashes on Windows 10 Devices?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-7-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 7 Plus iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-unlock-iphone-video-potential-mastering-8-essential-filmmaking-skills/"><u>In 2024, Unlock iPhone Video Potential Mastering 8 Essential Filmmaking Skills</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-techniques-for-fixing-pixel-vibration-in-google-chrome-on-windows-pc-updated-guide/"><u>New Techniques for Fixing Pixel Vibration in Google Chrome on Windows PC: Updated Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-constant-errors-in-microsoft-outlook-a-comprehensive-guide/"><u>Overcoming Constant Errors in Microsoft Outlook: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-users-fixes-and-solutions-for-the-continuously-crashing-new-world-game/"><u>PC Users: Fixes & Solutions for the Continuously Crashing 'New World' Game</u></a></li>
-<li><a href="https://program-issues.techidaily.com/phasmophobia-troubleshooting-conquering-the-unyielding-90-loading-screen-dilemma-of-2024/"><u>Phasmophobia Troubleshooting: Conquering the Unyielding 90% Loading Screen Dilemma of 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/soft-volume-tricks-lives-hidden-gems-for-2024/"><u>Soft Volume Tricks Live’s Hidden Gems for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/tackling-the-troublesome-black-display-when-playing-overwatch-initially/"><u>Tackling the Troublesome Black Display When Playing Overwatch Initially</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-minecraft-server-connectivity-problems-resolved/"><u>Troubleshooting Your Minecraft Server: Connectivity Problems Resolved</u></a></li>
-<li><a href="https://discover-brilliant.techidaily.com/virtual-broadcast-tools-with-manycam-elevate-your-live-videos-with-high-quality-soft-webcams/"><u>Virtual Broadcast Tools with ManyCam - Elevate Your Live Videos with High-Quality Soft Webcams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-earning-potential-for-creators-in-youtube-ads/"><u>[Updated] Earning Potential for Creators in YouTube Ads?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/s-must-use-free-youtube-intro-maker-sites/"><u>10+ Must-Use Free YouTube Intro Maker Sites</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-techniques-for-increasing-youtube-video-size/"><u>2024 Approved Techniques for Increasing YouTube Video Size</u></a></li>
+<li><a href="https://discover-able.techidaily.com/best-methods-for-setting-up-an-initial-onekey-recovery-backup-a-comprehensive-guide/"><u>Best Methods for Setting Up an Initial OneKey Recovery Backup: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-app-crashes-how-to-fix-and-prevent-unplanned-closures/"><u>COD Modern Warfare 3 App Crashes: How To Fix & Prevent Unplanned Closures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/effortless-ways-to-stop-csgo-slowdowns-and-latency/"><u>Effortless Ways to Stop CS:GO Slowdowns and Latency!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-unstable-performance-ensuring-a-smooth-genshin-impact-experience-on-desktop-computers/"><u>Expert Fixes for Unstable Performance - Ensuring a Smooth Genshin Impact Experience on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-pc-restart-issues-during-play-of-infinity-siege/"><u>Guide to Fixing PC Restart Issues During Play of 'Infinity Siege'</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/ideas-to-keep-your-snapchat-streak-alive/"><u>Ideas to Keep Your Snapchat Streak Alive</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-the-art-of-finding-lost-chats-for-2024/"><u>Mastering the Art of Finding Lost Chats for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/obs-stability-guide-overcoming-windows-1110-platform-crashes-tips-and-solutions/"><u>OBS Stability Guide: Overcoming Window's 11/10 Platform Crashes - Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/shadowplay-recording-failures-in-windows-heres-how-you-can-fix-them/"><u>Shadowplay Recording Failures in Windows? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-enhancing-your-ark-sanctuary-islands-fps-on-pc/"><u>Ultimate Guide: Enhancing Your ARK: Sanctuary Islands FPS on PC</u></a></li>
 </ul></div>
 

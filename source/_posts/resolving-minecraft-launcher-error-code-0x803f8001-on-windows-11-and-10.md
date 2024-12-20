@@ -1,7 +1,7 @@
 ---
 title: Resolving Minecraft Launcher Error Code 0X803F8001 on Windows 11 and 10
-date: 2024-08-27T20:32:41.565Z
-updated: 2024-08-28T20:32:41.565Z
+date: 2024-12-16T19:25:17.037Z
+updated: 2024-12-19T16:05:21.075Z
 tags:
   - win11
   - win10
@@ -36,8 +36,9 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
  If it’s not sorting out the issue, let’s head to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  If you’re an HP user, you need to update your Conexant drivers. But the newer version can’t be found on the HP drivers page neither in Device Manager. So follow the steps below and you can update to 20H2 successfully.
@@ -46,9 +47,18 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 2. Run[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run the Windows Update again. You should be able to finish the feature upgrade to 20H2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -62,11 +72,11 @@ Trying to update your PC to 20H2 but Windows failed to install the updates? It�
 4. Right-click on Conexant and click**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-20_15-57-09.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 6. Reboot your PC and run Windows Update again. You should be able to finish the feature upgrade to 20H2.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable antivirus
 
@@ -80,9 +90,6 @@ Don’t forget to enable the software afterward.
 
 If the error persists, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Use Windows troubleshooter
 
  The Windows update troubleshooter is a built-in app that comes up with Windows 10\. You can use it to detect what’s causing the error 0xc19001e1 and fix it automatically to get rid of the problem. And it’s easy and safe to use. Follow the steps below to run the troubleshooter.
@@ -90,22 +97,18 @@ If the error persists, move to the next fix.
 1. Press the**Windows logo key + I** together on your keyboard. Then click**Update and Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Troubleshoot** tab on the left panel and click**Additional troubleshooter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot1.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/troubleshoot2.jpg)
 4. Once the process is finished, reboot your PC and update Windows again.
 
 If the error persists, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  One of the reasons that cause the Windows Update Error 0xc19001e1 is corrupted system files.
@@ -127,12 +130,18 @@ Here’s how to fix it:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -151,9 +160,6 @@ Here’s how to fix it:
 
  If the result indicates there are broken files but SFC can’t fix them, you can turn to[Deployment Image Servicing and Management (DISM) Tool](https://tools.techidaily.com/drivereasy/download/) for deeper examination and repair.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Free up disk space
 
  When there’s no enough space on your disc for the installation of the update, you might receive error code 0xc19001e1\. So you need to ensure you have enough space. If you don’t have, deleting junk and duplicate files to free up some space.
@@ -161,35 +167,31 @@ Here’s how to fix it:
 1. Press**Windows logo key + I** together on your keyboard. Then click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. Click**Storage** on the left panel and you can view the storage usage of your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3efb39ec79c.png)
 
 If you want to reduce the amount of space being used:
 
 1. Click**Free up space now** .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea56da75b4.jpg)
 2. Wait for the scanning process to be complete.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Select the_files you want to remove_ , then click**Remove files** .  
  Before you select an option, read carefully its description to learn what you’ll remove if doing so.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3ea79456d1d.jpg)
 4. Wait for the cleaning process to be complete.
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 
  This should free up an amount of space for you. But if that isn’t enough for you, then you should check if there are other files or programs you may want to remove:
 
 1. Click the**left arrow** in the upper left corner of the window to go back to the storage settings.![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f0094a368f.jpg)
 2. Click_the disk you’re going to clean up_ .![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f021078a01.jpg)
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Check the space usage of_each data type_ . If you want to manage the usage of a type,**click it** to view more details.  
 \* The following are a few things we recommend you take a look at:  
    * **The data type that uses the most amount of space**  
@@ -199,9 +201,6 @@ If you want to reduce the amount of space being used:
    * …  
    ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3f07dd26e5a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  This should free up a lot of space for your Windows 10 computer. Reboot your PC and update your system.
 
 ### Fix 7: Reset or reinstall Windows
@@ -222,8 +221,6 @@ If you want to reduce the amount of space being used:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +228,26 @@ If you want to reduce the amount of space being used:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-breaking-down-snapchats-new-highlight-functionality-for-2024/"><u>[Updated] Breaking Down Snapchat's New Highlight Functionality for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-timeless-clip-creator-program/"><u>2024 Approved Timeless Clip Creator Program</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-15-pro-max-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 15 Pro Max - 4 Easy Ways</u></a></li>
+<li><a href="https://extra-information.techidaily.com/comprehensive-study-editmagics-power-edition/"><u>Comprehensive Study EditMagic's Power Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-case-fixes-for-previously-persistent-issues-in-death-stranding-on-pc-unveiled/"><u>Crack the Case: Fixes for Previously Persistent Issues in Death Stranding on PC Unveiled</u></a></li>
+<li><a href="https://blog-min.techidaily.com/free-online-converter-change-m4v-to-mkv-format-with-moveave/"><u>Free Online Converter: Change M4V to MKV Format with Moveave</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-avatars-latest-expansion-to-boot-on-your-system/"><u>Getting Avatar's Latest Expansion to Boot on Your System?</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-pokemon-go-joystick-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-the-delay-is-over-adventure-awaits/"><u>Immortals Fenyx Rising - The Delay Is Over, Adventure Awaits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/methods-to-resolve-scanner-malfunctions/"><u>Methods to Resolve Scanner Malfunctions</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-honor-magic-5-lite-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Honor Magic 5 Lite – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/operational-handling-of-srt-in-oses-for-2024/"><u>Operational Handling of SRT in OSes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-remedies-for-immediate-control-program-stabilization/"><u>Quick Remedies for Immediate Control Program Stabilization</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-warzone-20-lag-issues-top-strategies-for-a-smooth-game/"><u>Solving Warzone 2.0 Lag Issues: Top Strategies for a Smooth Game</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/today-in-virtual-reality-hardware/"><u>Today in Virtual Reality Hardware</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-zoom-crashes-on-windows-operating-systems/"><u>Troubleshooting Guide for Zoom Crashes on Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-the-persistent-ubisoft-connect-problems-of-2024/"><u>Troubleshooting Steps for the Persistent Ubisoft Connect Problems of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-resolve-v-rising-game-stutter-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve V-Rising Game Stutter Issues on Your Computer</u></a></li>
+</ul></div>
 

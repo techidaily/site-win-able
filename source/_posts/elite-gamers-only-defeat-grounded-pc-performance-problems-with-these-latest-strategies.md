@@ -1,7 +1,7 @@
 ---
 title: "Elite Gamers Only: Defeat 'Grounded' PC Performance Problems with These Latest Strategies"
-date: 2024-08-27T20:29:39.617Z
-updated: 2024-08-28T20:29:39.617Z
+date: 2024-12-16T16:08:56.919Z
+updated: 2024-12-19T18:33:39.319Z
 tags:
   - win11
   - win10
@@ -41,8 +41,18 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -58,9 +68,6 @@ If this fix doesn’t help you, take a look at the next one below.
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
@@ -73,9 +80,6 @@ Now you test the gameplay in Valorant and check for improvements.
 
  If this trick doesn’t do the trick for you, simply try the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
 **GPU drivers** are essential to your gaming rig and should be kept up to date. The latest graphics driver ensures your graphics card works as intended and helps avoid encountering issues in PC games. So if you don’t remember when was the last time you updated your drivers, definitely do it now.
@@ -105,13 +109,18 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and check if Valorant stutters again.
 
 If the latest driver doesn’t help you, check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Lower your mouse report rate
 
@@ -122,20 +131,15 @@ If the latest driver doesn’t help you, check out the next method.
  If this fix doesn’t give you luck, simply continue to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Turn on VSync
 
  Some gamers reported that they managed to solve the stuttering by turning Vertical Sync on, so it might be a potential fix you can try. Meanwhile, if VSync doesn’t improve your game, try lowering your in-game graphics and see what happens.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Empty Standby Memory
 
 This method may require a basic level of computer knowledge.
@@ -145,63 +149,63 @@ This method may require a basic level of computer knowledge.
 1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 3. You can empty the standby memory manually.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
 1. Right click**EmptySandbyList.exe** and select**Property** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-2.jpg)
 2. Navigate to the**Compatibility** tab, check the box next to**Run this program as an administrator** . Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -215,8 +219,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +226,23 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-future-of-video-recording-insights-into-fraps/"><u>[Updated] The Future of Video Recording Insights Into Fraps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-instagram-virtuosos-playbook-for-widespread-popularity-for-2024/"><u>[Updated] The Instagram Virtuoso's Playbook for Widespread Popularity for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-3-tarkov-error-code-103003-explained-and-solved-expert-advice/"><u>Arma 3 Tarkov Error Code 103003 Explained and Solved: Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-your-origin-download-velocity-top-strategies-for-faster-downloads/"><u>Boosting Your Origin Download Velocity: Top Strategies for Faster Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-tips-for-enhancing-youtube-videos-through-seo-mastery-for-2024/"><u>Expert Tips for Enhancing YouTube Videos Through SEO Mastery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-modern-warfare-unplayable-on-pc-issue-for-smooth-gaming/"><u>How to Resolve 'Modern Warfare Unplayable on PC' Issue for Smooth Gaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-five-cozy-seasons-ideal-backgrounds-to-warm-up-videos/"><u>In 2024, Five Cozy Seasons Ideal Backgrounds to Warm Up Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-the-final-cut-revealed-release-cancellation-clarification/"><u>Mafia: The Final Cut Revealed - Release Cancellation Clarification</u></a></li>
+<li><a href="https://win11.techidaily.com/managing-disk-space-spotting-large-files-and-folders-in-windows-pc/"><u>Managing Disk Space: Spotting Large Files & Folders in Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-warzone-performance-in-windows-11-by-unlocking-your-graphics-card-potential/"><u>Maximize Warzone Performance in Windows 11 by Unlocking Your Graphics Card Potential</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-hiccups-when-playing-yakuza-e-6-song-of-the-life-and-death/"><u>Overcoming PC Hiccups When Playing Yakuza E 6 – Song of the Life and Death</u></a></li>
+<li><a href="https://driver-install.techidaily.com/secure-inf-verification-missing-signatures/"><u>Secure Inf Verification: Missing Signatures</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-clearing-the-black-screen-error-in-battlefront-2/"><u>Solution Steps for Clearing the Black Screen Error in Battlefront 2</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-7-transformative-ai-practices-you-must-try/"><u>Top 7 Transformative AI Practices You Must Try</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-ipad-productivity-apps-streamline-your-tasks-and-enhance-efficiency-insights/"><u>Top iPad Productivity Apps: Streamline Your Tasks & Enhance Efficiency - Insights</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-nokia-150-2023-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Nokia 150 (2023)? Fixed | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve NBA 2K21's Persistent Black Screen Issue
-date: 2024-08-27T20:30:48.651Z
-updated: 2024-08-28T20:30:48.651Z
+date: 2024-12-16T16:13:32.549Z
+updated: 2024-12-19T16:09:48.152Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/b2d930dc9f54bd4e0c530d86c2a348d9ac40f0a9c
 ## PUBG Mobile Blackscreen Issues? Here's How You Can Resolve Them
 
 PlayerUnknown’s Battlegrounds (PUBG) is a famous online multiplayer battle royale game. Despite the fact that it has been out for a long time, issues like game freezing are still common. If you happened to be one of them and you’re done with restarting your computer, then you’ve come to the right place! We’ve put together some fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,12 +57,16 @@ Recommended requirements for PUBG
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Install the latest patch
 
  PUBG keeps releasing its patches in order to fix some bugs. So you can install the new patches to keep your game up to date on the[Patch Note](https://lite.pubg.com/category/patch-note/) page.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -73,8 +81,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your drivers (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -88,8 +97,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![automatically update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -98,14 +108,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’ve had your drivers updated and the PUBG freezing problem persists, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Disable overclocking
 
@@ -129,9 +140,6 @@ Here is how to enable this plan:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### What to do if you don’t see the Ultimate Performance plan
 
  If you can’t see the**Ultimate Performance** plan on the settings, you can add it with the Command Prompt.
@@ -142,9 +150,6 @@ The steps are as follows:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-3-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the prompt, type the following command lines and hit**Enter** .
 
  **powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61**
@@ -152,6 +157,10 @@ The steps are as follows:
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
 
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Delete temp files
 
@@ -163,9 +172,6 @@ The steps are as follows:
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Select all the files in the folder and delete them.
 
 ![delete temp files; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-temp-files-3-1.png)
@@ -184,14 +190,8 @@ The steps are as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fix 6: Turn off VSync
 
  When VSync is enabled, your game might be less responsive. So you can turn it off to boost your game performance. Take NVIDIA as an example:
@@ -217,8 +217,6 @@ The steps are as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +224,17 @@ The steps are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-avoid-buffering-switch-av1-codec-on-youtube/"><u>[Updated] In 2024, Avoid Buffering Switch AV1 Codec on YouTube</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-file-forwarding-made-easy-top-5-methods-to-upload-directly-on-pc/"><u>[Updated] In 2024, File Forwarding Made Easy Top 5 Methods to Upload Directly on PC</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Pokemons for PVP Matches in Pokemon Go For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-microsoft-edges-exe-error-problem-on-windows-devices/"><u>Expert Solutions to Microsoft Edge's .exe Error Problem on Windows Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop SnowRunner From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/global-vs-local-llms-a-compreayers-guide-to-choosing-rightly/"><u>Global vs Local LLMs – A Compreayer's Guide to Choosing Rightly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-assassins-creed-odyssey-stuttering-issues-in-pc-gaming-2024-updates/"><u>How to Solve Assassin's Creed Odyssey Stuttering Issues in PC Gaming (2024 Updates)</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-zte-nubia-z60-ultra-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your ZTE Nubia Z60 Ultra working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-heart-of-iron-iv-malfunctioning-issues-expert-advice-and-fixes/"><u>Resolving Heart of Iron IV Malfunctioning Issues - Expert Advice & Fixes</u></a></li>
+</ul></div>
 

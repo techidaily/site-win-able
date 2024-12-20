@@ -1,7 +1,7 @@
 ---
 title: "PC Gamers Celebrate: L.A. Noire Launch Confirmed After Delays"
-date: 2024-08-27T20:30:40.400Z
-updated: 2024-08-28T20:30:40.400Z
+date: 2024-12-13T18:14:32.468Z
+updated: 2024-12-19T17:00:57.631Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ God of War
 
  If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix the game fps drops, stuttering, and other performance issues easily!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the God of War FPS drops for other PC players. You probably don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -35,6 +39,10 @@ God of War
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  The Santa Monica Studio releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -44,8 +52,9 @@ God of War
  Launch God of War and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patches available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  One of the most common causes of game stuttering (or FPS dropping) is that the graphics driver on your computer is outdated or broken. If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, since in most cases, AAA titles like God of War work better with the latest graphics driver.
@@ -62,23 +71,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Change Windows power plan
 
  A power plan is a set of system and hardware settings on Windows OS. It’s designed to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -90,6 +90,11 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch God of War and check if you get a better PFS. If the God of War FPS drops again on your powerful computer, try setting the Windows power plan to Ultimate Performance, a power plan that is not widely known, but is designed to make the most out of high-end setups.
@@ -105,8 +110,9 @@ There are mainly two methods for you to update the graphics driver:
  See if God of War’s in-game fps improves after changing the power plan. If this fix didn’t help, just read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of God of War. If you have a powerful PC, just skip this fix.
@@ -153,8 +159,9 @@ There are mainly two methods for you to update the graphics driver:
  Launch God of War and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable overlays
 
  Overlays may interfere with God of War, and sometimes they may even introduce performance issues and compatibility issues. Try disabling the in-game overlay before playing the game.
@@ -170,9 +177,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch God of War again after you disabled all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 are convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -184,9 +188,11 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle under **Background recording** if it is turned on.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Launch God of War to see if you can play it smoothly.
@@ -204,8 +210,6 @@ Launch God of War to see if you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +217,22 @@ Launch God of War to see if you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-content-for-specific-youtube-subsets/"><u>[Updated] 2024 Approved Crafting Content for Specific Youtube Subsets</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-cutting-edge-text-tools-for-immersive-storytelling/"><u>[Updated] 2024 Approved Cutting-Edge Text Tools for Immersive Storytelling</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-easy-relief-music-legal-top-10-downloads-to-soothe-your-mind/"><u>[Updated] Easy Relief Music – Legal, Top 10 Downloads to Soothe Your Mind</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-infuse-melodies-into-powerpoint-visuals/"><u>[Updated] In 2024, Infuse Melodies Into PowerPoint Visuals</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-instructions-for-binding-your-samsung-remote-controller-to-any-tv-model/"><u>Easy Instructions for Binding Your Samsung Remote Controller to Any TV Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-correct-the-infamous-minecraft-exit-code-0-problem/"><u>How to Address and Correct the Infamous Minecraft 'Exit Code 0' Problem</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-14-pro-max-when-you-forget-the-passcode-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 14 Pro Max When You Forget the Passcode?</u></a></li>
+<li><a href="https://win-able.techidaily.com/instantly-resolve-your-fortnite-startup-woes-with-these-tricks/"><u>Instantly Resolve Your Fortnite Startup Woes with These Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-tips-optimizing-your-gameplay-enhancing-fps-on-watch-dogs-legion/"><u>Master Tips: Optimizing Your Gameplay - Enhancing FPS on Watch Dogs: Legion</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998553639-navigating-through-anno-1800s-directx-complications-successful-fixes/"><u>Navigating Through Anno 1800'S DirectX Complications – Successful Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-playing-disco-elysium-on-pc-after-previous-crashes-tips-and-tricks-to-ensure-uninterrupted-gaming/"><u>Successfully Playing Disco Elysium on PC After Previous Crashes: Tips and Tricks to Ensure Uninterrupted Gaming</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-marketing-playbook-for-digital-beginners-on-reddit-for-2024/"><u>The Ultimate Marketing Playbook for Digital Beginners on Reddit for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-get-civilization-vi-working-again-on-your-windows-11-pc/"><u>Troubleshooting Steps to Get Civilization VI Working Again on Your Windows 11 PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-rainbow-six-extractions-pc-game-crashes/"><u>Troubleshooting Tips for Fixing Rainbow Six Extraction's PC Game Crashes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-ffmpegs-potential-for-original-formatted-audio-retrieval/"><u>Unveiling FFmpeg's Potential for Original Formatted Audio Retrieval</u></a></li>
+</ul></div>
 

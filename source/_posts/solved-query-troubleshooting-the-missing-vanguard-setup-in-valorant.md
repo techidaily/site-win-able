@@ -1,7 +1,7 @@
 ---
 title: "Solved Query: Troubleshooting the Missing Vanguard Setup in Valorant"
-date: 2024-08-23T11:30:55.222Z
-updated: 2024-08-24T11:30:55.222Z
+date: 2024-12-13T17:41:08.808Z
+updated: 2024-12-19T16:25:46.278Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -64,14 +61,8 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It may take some time to complete the verifying process.
 
 **For Epic Games Launcher users:**
@@ -83,6 +74,10 @@ It may take some time to complete the verifying process.
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -101,6 +96,10 @@ It may take some time to complete the verifying process.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finished updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you updated the graphics driver, the game crashing issue will disappear.
@@ -118,6 +117,10 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -127,14 +130,13 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch_Necromunda: Hired Gun_ and see if the game crashes. If the issue persists, try the next fix, below.
@@ -148,8 +150,9 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -169,8 +172,6 @@ It may take some time to complete the verifying process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +179,20 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-instant-techniques-chaotic-ordering-of-youtube-tracks/"><u>[New] Instant Techniques Chaotic Ordering of YouTube Tracks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-top-inspirational-movies-for-personal-power-boosts/"><u>[Updated] 10 Top Inspirational Movies for Personal Power Boosts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-fallout-76-lag-eliminating-gameplay-interruptions-successfully/"><u>Fix Your Fallout ^76 Lag: Eliminating Gameplay Interruptions Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-half-life-alyx-performance-issues-lags-and-stutters-solved/"><u>Fixes for 'Half-Life: Alyx' Performance Issues - Lags & Stutters Solved</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-xiaomi-redmi-k70-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Xiaomi Redmi K70 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-for-downloads-and-peer-connections-in-utorrent/"><u>How to Restore Functionality for Downloads & Peer Connections in uTorrent</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-solution-to-eliminate-steamvr-error-message-308/"><u>Mastering the Solution to Eliminate SteamVR Error Message 308</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-online-not-working-solve-persistent-pc-game-crashing-problems-here/"><u>Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/showdown-of-smartphones-the-in-depth-comparison-between-samsung-galaxy-s-and-nokia-n8/"><u>Showdown of Smartphones: The In-Depth Comparison Between Samsung Galaxy S and Nokia N8</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-stop-your-pc-from-continuously-crashing-during-frontier-sessions/"><u>Step-by-Step Strategies to Stop Your PC From Continuously Crashing During Frontier Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-hogwarts-legacy-game-crashes-at-launch-8-effective-fixes-for-your-pc/"><u>Stop Hogwarts Legacy Game Crashes at Launch: 8 Effective Fixes for Your PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/subtle-sounds-clear-vision-audio-cleanup-methods-reviewed-for-2024/"><u>Subtle Sounds, Clear Vision Audio Cleanup Methods Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-manor-lords-game-from-freezing-on-pc/"><u>Troubleshoot and Stop Manor Lords Game From Freezing on PC</u></a></li>
+</ul></div>
 

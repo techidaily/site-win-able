@@ -1,7 +1,7 @@
 ---
 title: "Clearing the Path for Fortnite Success: Solving ‘You Lack Permissions’ Issues"
-date: 2024-08-27T20:29:17.436Z
-updated: 2024-08-28T20:29:17.436Z
+date: 2024-12-12T17:37:06.126Z
+updated: 2024-12-19T18:30:40.092Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -53,18 +50,6 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -74,17 +59,15 @@ thumbnail: https://thmb.techidaily.com/cb7e01d77e11396989975642eff6b3a0f56218967
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 4: Update network driver
 
  An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
@@ -99,21 +82,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -121,6 +106,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 [1: Flush your DNS](https://tools.techidaily.com/drivereasy/download/)
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1: Flush your DNS
 
@@ -132,9 +121,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 ### 2: Switch to a public DNS server
@@ -144,16 +135,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
@@ -161,6 +151,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -185,8 +179,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +186,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[New] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtubes-creative-commons-a-guide-for-videographers/"><u>[New] YouTube’s Creative Commons A Guide for Videographers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-premium-listings-where-to-download-snappy-tones-directly/"><u>[Updated] In 2024, Premium Listings Where to Download Snappy Tones Directly</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-effective-methods-to-resolve-terraria-disconnection-issues/"><u>6 Effective Methods to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-truth-behind-elden-rings-delayed-launch/"><u>The Truth Behind Elden Ring's Delayed Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210087886-9780648894216-unhindered/"><u>Unhindered | Free Book</u></a></li>
+</ul></div>
 

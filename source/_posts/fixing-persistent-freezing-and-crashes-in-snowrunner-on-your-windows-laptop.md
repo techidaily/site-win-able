@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-12-09T16:09:05.156Z
-updated: 2024-12-12T16:15:26.187Z
+date: 2024-12-16T18:29:05.219Z
+updated: 2024-12-19T18:04:00.654Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 Follow the steps below to fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
@@ -68,17 +68,13 @@ Follow the steps below to fix the crashing issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -88,20 +84,16 @@ Restart your computer for the changes to take effect.
 ![Steam game Yakuza 3 Remastered properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -112,13 +104,25 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
 
@@ -127,10 +131,6 @@ Restart your computer for the changes to take effect.
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
@@ -141,14 +141,14 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -174,16 +174,19 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-selective-alarm-tones-optimal-websites-list/"><u>[New] 2024 Approved Selective Alarm Tones Optimal Websites List</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-keep-your-content-clout-authentic-resist-the-like-lie-in/"><u>[New] In 2024, Keep Your Content Clout Authentic Resist the Like Lie-In</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-issues-on-your-windows-computer/"><u>How to Fix World of Warcraft Not Starting Issues on Your Windows Computer</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-guidance-download-tamil-music-as-ringtone-and-how-to-cut-a-song-as-ringtone/"><u>In 2024, Guidance Download Tamil Music As Ringtone And How To Cut A Song As Ringtone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-increase-viewership-fairly-insights-for-video-marketers/"><u>In 2024, Increase Viewership Fairly Insights for Video Marketers</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-camera-unavailable-obstacle-on-snapchat-a-step-by-step-guide/"><u>Overcoming 'Camera Unavailable' Obstacle on Snapchat – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-gaming-finals-helpful-hints-and-tips/"><u>Overcoming Launch Errors Gaming Finals: Helpful Hints and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-framerate-drop-and-lag-problems-in-battlefield-2042-pc-version/"><u>Resolved: Fixes for Framerate Drop & Lag Problems in Battlefield 2042 PC Version</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-teamwork-on-apple-pages-a-guide-to-icloud-integration-and-collaboration-techniques-as-featured-by-zdnet/"><u>Seamless Teamwork on Apple Pages: A Guide to iCloud Integration & Collaboration Techniques as Featured by ZDNET</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-professional-level-notes-via-chatgpt/"><u>The Ultimate Guide to Professional-Level Notes via ChatGPT</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/top-8-video-boosters-say-goodbye-to-slow-mo-for-2024/"><u>Top 8 Video Boosters Say Goodbye to Slow Mo for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-download-youtube-tunes-with-these-10plus-no-cost-audio-crackers/"><u>[New] 2024 Approved Download YouTube Tunes with These 10+ No-Cost Audio Crackers</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-find-your-perfect-match-with-these-best-5-iphone-pods-for-2024/"><u>[New] Find Your Perfect Match with These Best 5 iPhone Pods for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-total-gb-for-24-hour-movie-size/"><u>[Updated] 2024 Approved Total GB for 24-Hour Movie Size</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-ensuring-smooth-operations-in-your-discord-channels-with-these-steps-for-2024/"><u>[Updated] Ensuring Smooth Operations in Your Discord Channels with These Steps for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/compliance/"><u>Compliance</u></a></li>
+<li><a href="https://games-able.techidaily.com/directing-xbox-inputs-on-a-windows-desktop-146-chars/"><u>Directing Xbox Inputs on a Windows Desktop (146 Chars)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/exclusive-guide-to-high-performing-screens-for-xbox-series-x-gaming-for-2024/"><u>Exclusive Guide to High-Performing Screens for Xbox Series X Gaming for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-your-ubisoft-connect-experience-strategies-to-speed-up-downloads/"><u>Improving Your Ubisoft Connect Experience: Strategies to Speed Up Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-rainbow-six-siege-pc-black-screen-issue-a-comprehensive-guide/"><u>Solving the Rainbow Six Siege PC Black Screen Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-fixing-the-problem-when-thaumaturge-wont-open-on-windowsmac-os/"><u>Step-by-Step Guide: Fixing the Problem When Thaumaturge Won't Open on Windows/Mac OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-techniques-to-eliminate-dota-2-lag-expert-advice-from-2024/"><u>Ultimate Troubleshooting Techniques to Eliminate Dota 2 Lag - Expert Advice From 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-eliminate-discord-slowness-with-our-expert-tips/"><u>Ultimate Troubleshooting: Eliminate Discord Slowness with Our Expert Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-black-screen-issues-top-solutions-and-fixes/"><u>Warzone Black Screen Issues: Top Solutions and Fixes</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-samsung-galaxy-s24plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Samsung Galaxy S24+ Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
 

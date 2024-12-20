@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Steam Friends Network Unreachable"
-date: 2024-08-23T11:31:15.028Z
-updated: 2024-08-24T11:31:15.028Z
+date: 2024-12-14T18:59:40.783Z
+updated: 2024-12-19T17:49:50.891Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 3. **[Run TF2 in compatibility mode & as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -57,9 +61,6 @@ By checking your system specs, just follow the instructions below:
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics drivers
 
  You might not be able to launch your games if your graphics drivers are corrupt or out-of-date. So to have a better gaming experience, have them updated.
@@ -77,9 +78,9 @@ By checking your system specs, just follow the instructions below:
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics drivers (recommended)
 
  If you don’t feel like updating the drivers all on your own, we recommend you use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs the correct versions of drivers that your computer needs. With Driver Easy, updating graphics drivers becomes much easier.
@@ -91,8 +92,9 @@ By checking your system specs, just follow the instructions below:
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -102,9 +104,6 @@ OR
 
 ![update graphics drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/update-all-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After that, launch your game to see if the problem is solved. If not, try to update other drivers including sound drivers, and DirectX drivers as well.
@@ -119,12 +118,13 @@ OR
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Open the**steamapps** folder.
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-2-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then open the**common** folder >**Team Fortress 2** folder.
 
@@ -133,18 +133,13 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Verify the integrity of game files
 
  TF 2 might not launch when a certain file is missing or damaged. To fix it, you need to verify the integrity of game files on Steam.
@@ -157,9 +152,6 @@ OR
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
  3) Steam will verify the game’s files and this process may take several minutes.
 
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
@@ -172,13 +164,25 @@ OR
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**GENERAL** tab, click**SET LAUNCH OPTIONS** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Till then, try running the game. If you want to go back to the previous launch options, just delete**autoconfig** following the steps listed above.
 
@@ -203,8 +207,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +214,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-non-standard-windows-media-processors/"><u>[New] 2024 Approved Non-Standard Windows Media Processors</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-capturing-online-seminars/"><u>[New] In 2024, Capturing Online Seminars</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-glitch-expert-fixes-for-ps4-system-crashes-and-hangs/"><u>Beat the Glitch: Expert Fixes for PS4 System Crashes & Hangs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-proficient-content-for-short-form-video-best-edits-reviewed-for-2024/"><u>Craft Proficient Content for Short-Form Video Best Edits Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-how-to-fix-game-lags-and-eliminate-frameskipping/"><u>Cyberpunk 2077: How to Fix Game Lags & Eliminate Frameskipping</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/external-gpu-connectivity-on-demand-introducing-the-beelink-gti14-with-meteor-lake-processor-and-latchable-pcie-slot/"><u>External GPU Connectivity on Demand: Introducing the Beelink GTi14 with Meteor Lake Processor and Latchable PCIe Slot</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/streamlining-the-recording-process-in-virtual-gatherings/"><u>Streamlining the Recording Process in Virtual Gatherings</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-stand-zombie-army-4-dead-war-now-running-flawlessly-after-critical-pc-bug-fixes/"><u>The Final Stand - Zombie Army 4: Dead War Now Running Flawlessly After Critical PC Bug Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-low-fps-on-dying-light-tips-and-tricks-to-optimize-performance/"><u>Troubleshooting Low FPS on Dying Light: Tips and Tricks to Optimize Performance</u></a></li>
+</ul></div>
 

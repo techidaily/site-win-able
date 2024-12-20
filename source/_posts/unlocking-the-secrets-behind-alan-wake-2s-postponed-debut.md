@@ -1,7 +1,7 @@
 ---
 title: Unlocking The Secrets Behind Alan Wake 2'S Postponed Debut
-date: 2024-08-27T20:33:46.896Z
-updated: 2024-08-28T20:33:46.896Z
+date: 2024-12-16T18:29:55.291Z
+updated: 2024-12-19T17:31:32.966Z
 tags:
   - win11
   - win10
@@ -63,11 +63,12 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -78,12 +79,14 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
@@ -99,11 +102,13 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -118,8 +123,9 @@ And it’s quite easy to update too:
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -131,23 +137,21 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
 ---
@@ -160,8 +164,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +171,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagram-edge-adjusting-fcpx-to-vertical-footage/"><u>[Updated] Instagram Edge Adjusting FCPX to Vertical Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994582044-banish-the-shadows-expert-fixes-to-minecrafts-ominous-black-screen-problem-2024-solutions-revealed/"><u>Banish the Shadows: Expert Fixes to Minecraft's Ominous Black Screen Problem - 2024 Solutions Revealed</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpts-literary-evolution-personalizing-prose/"><u>ChatGPT's Literary Evolution: Personalizing Prose</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-server-connection-lost-these-proven-fixes-will-restore-your-gameplay-without-a-hitch/"><u>Destiny 2 Server Connection Lost? These Proven Fixes Will Restore Your Gameplay Without a Hitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-display-problems-heres-how-you-can-get-your-screen-share-audio-working-again/"><u>Discord Display Problems? Here's How You Can Get Your Screen Share Audio Working Again!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-s18-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo S18</u></a></li>
+<li><a href="https://fox-where.techidaily.com/sharing-and-downloading-flipbooks-for-offline-viewing-the-ultimate-guide-with-flipbuilder/"><u>Sharing & Downloading Flipbooks for Offline Viewing | The Ultimate Guide with FlipBuilder</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/silent-strike-sequels-the-next-10-best-samurai-adventures-for-2024/"><u>Silent Strike Sequels The Next 10 Best Samurai Adventures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-troubles-decoded-solutions-for-non-responsive-behavior/"><u>Steam Troubles Decoded: Solutions for Non-Responsive Behavior</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-essentials-to-initiate-in-google-meet/"><u>The Essentials to Initiate in Google Meet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unveiling-the-5-motivations-for-companies-to-ban-gpt-tools/"><u>Unveiling the 5 Motivations for Companies to Ban GPT Tools</u></a></li>
+</ul></div>
 

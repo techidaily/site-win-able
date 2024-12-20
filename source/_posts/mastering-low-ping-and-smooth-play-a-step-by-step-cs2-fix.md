@@ -1,7 +1,7 @@
 ---
 title: "Mastering Low Ping & Smooth Play: A Step-by-Step CS2 Fix"
-date: 2024-12-05T17:01:31.477Z
-updated: 2024-12-12T16:16:43.797Z
+date: 2024-12-14T17:13:16.270Z
+updated: 2024-12-19T16:45:06.890Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -53,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 7. **[Uninstall Optifine](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure Minecraft is using the dedicated GPU
 
  Sometimes the operating system won’t recognize Minecraft as a game and won’t run it with the dedicated GPU for high performance. If that’s the case for you, you’re likely to experience stuttering in Minecraft. To fix it, you can force the game to use the dedicated GPU via Graphics settings. Here’s how:
@@ -60,10 +60,6 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 1. Right-click your desktop and select**Display settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
@@ -73,11 +69,11 @@ thumbnail: https://thmb.techidaily.com/77bfb2c7f1c1fe0360a8a12d5582bbafa6a377d53
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
@@ -87,13 +83,13 @@ If this solution doesn’t help, continue with the next fix below.
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Update your graphics driver manually
 
  You can update your graphics drivers manually by going to the manufacturer’s website ([NVIDIA](http://nvidia.com/drivers) ,[AMD](https://www.amd.com/en/support) ,[Intel](https://downloadcenter.intel.com/) ) for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -116,6 +112,10 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -134,17 +134,9 @@ This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Enable VSync
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Via NVIDIA Control Panel
 
@@ -164,7 +156,7 @@ But if it doesn’t, take a look at the next fix.
 3. Then click**Global Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
@@ -172,9 +164,17 @@ But if it doesn’t, take a look at the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off threaded optimization
 
@@ -184,14 +184,18 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
 After doing so, restart Minecraft and check if the problem is resolved.
 
@@ -205,25 +209,21 @@ If the stuttering issue remains, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Installations1.jpg)
 2. Click the**three dots** button next to Minecraft, then select**Edit** from the dropdown menu.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/edit.jpg)
 3. Click**MORE OPTIONS** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/more-options.jpg)
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
 Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Uninstall OptiFine
 
@@ -256,19 +256,24 @@ If this solution doesn’t work, take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-unveiling-the-new-era-of-screen-capture-with-apeaksoft/"><u>[Updated] Unveiling the New Era of Screen Capture with Apeaksoft</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-navigating-facebook-sharing-of-youtube-videos/"><u>2024 Approved Navigating Facebook Sharing of YouTube Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatgpt-strategies-for-climbing-the-corporate-ladder-and-achieving-employment-success/"><u>ChatGPT Strategies for Climbing the Corporate Ladder and Achieving Employment Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-pc-launch-fix-a-complete-guide-for-gamers/"><u>Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-the-wasteland-giants-a-comprehensive-guide-to-scavengers-on-pc/"><u>Defeating the Wasteland Giants: A Comprehensive Guide to Scavengers on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-past-startup-errors-for-a-smooth-monster-hunter-rise-experience/"><u>Get Past Startup Errors for a Smooth Monster Hunter Rise Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-total-war-warhammer-ii-from-freezing-and-crashing-effective-solutions-and-troubleshooting-tips/"><u>How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-audience-wow-factor-how-to-create-spectacular-live-streams/"><u>In 2024, Audience Wow Factor How to Create Spectacular Live Streams</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-oneplus-12-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How OnePlus 12 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-leading-no-ad-android-screen-recorder-hacks/"><u>In 2024, Leading No-Ad Android Screen Recorder Hacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/instant-solutions-to-fix-league-of-legends-crashes-get-back-in-action-now/"><u>Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revolutionizing-portable-computing-with-apples-new-m3-macbook-air-an-in-depth-review/"><u>Revolutionizing Portable Computing with Apple's New M3 MacBook Air - An In-Depth Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/titanfall-2-stability-issues-heres-how-you-can-fix-the-game-crashes-instantly/"><u>Titanfall 2 Stability Issues? Here's How You Can Fix the Game Crashes Instantly</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-top-tips-navigating-the-latest-facebook-features/"><u>[New] 2024 Approved Top Tips Navigating the Latest Facebook Features</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-huawei-p10-review-unpacking-its-impressive-specs-and-features/"><u>[New] Huawei P10 Review Unpacking Its Impressive Specs and Features</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-webcam-mastery-unique-ideas-explored/"><u>[New] In 2024, Webcam Mastery Unique Ideas Explored</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-novices-blueprint-for-easy-stressless-nft-making/"><u>[New] Novice's Blueprint for Easy, Stressless NFT Making</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-comprehensive-techniques-for-movie-recording-across-os-and-devices/"><u>[Updated] 2024 Approved Comprehensive Techniques for Movie Recording Across OS and Devices</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-ideal-combo-top-10-recommended-tools-for-vimeo-download-for-2024/"><u>[Updated] Ideal Combo Top 10 Recommended Tools for Vimeo Download for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-screen-issue-resolution-tactics-covered-here/"><u>Black Screen Issue Resolution Tactics Covered Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-download-speeds-on-ubisoft-connect-platforms/"><u>Boosting Download Speeds on Ubisoft Connect Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-stop-your-horizon-forbidden-west-100-edition-from-freezing-on-windows-and-mac/"><u>Expert Tips to Stop Your Horizon Forbidden West 100% Edition From Freezing on Windows and Mac</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-oppo-reno-8t-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Oppo Reno 8T 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-how-to-fix-and-prevent-game-crashing-issues/"><u>Mount & Blade II: Bannerlord - How to Fix and Prevent Game Crashing Issues</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mastering-sony-camcorder-footage-a-step-by-step-editing-guide/"><u>New In 2024, Mastering Sony Camcorder Footage A Step-by-Step Editing Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-staring-at-darkness-effective-fixes-for-elden-rings-black-screen-hurdle/"><u>No More Staring at Darkness: Effective Fixes for Elden Ring's Black Screen Hurdle</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-comprehensive-guide-to-avoiding-lost-ark-game-crashes/"><u>Resolving PC Issues: Comprehensive Guide to Avoiding Lost Ark Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-valorant-lag-issues-optimize-performance-on-pc-2024-edition/"><u>Solving Valorant Lag Issues - Optimize Performance on PC, 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-secret-to-preventing-star-wars-squadron-clashes-a-comprehensive-guide-for-gamers/"><u>The Secret to Preventing Star Wars Squadron Clashes - A Comprehensive Guide for Gamers.</u></a></li>
+<li><a href="https://extra-information.techidaily.com/time-taken-to-watch-an-example-of-a-20mb-video/"><u>Time Taken to Watch An Example of a 20MB Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/tower-of-fantasy-on-pc-ultimate-fix-guide-to-stop-the-constant-crashing/"><u>Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/unlock-flawless-media-playback-with-these-5-exceptional-avi-to-mpeg-converter-applications/"><u>Unlock Flawless Media Playback with These 5 Exceptional AVI to MPEG Converter Applications!</u></a></li>
 </ul></div>
 

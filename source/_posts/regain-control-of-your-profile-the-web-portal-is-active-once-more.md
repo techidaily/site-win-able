@@ -1,7 +1,7 @@
 ---
 title: "Regain Control of Your Profile: The Web Portal Is Active Once More"
-date: 2024-12-11T16:37:11.778Z
-updated: 2024-12-12T16:44:44.804Z
+date: 2024-12-12T18:31:53.876Z
+updated: 2024-12-19T19:36:44.187Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,20 +59,20 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -84,17 +88,9 @@ thumbnail: https://thmb.techidaily.com/7d9570e63947f5c327258cd4fe6b134c780b31f63
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -121,6 +117,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
@@ -132,19 +132,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Modify Intel graphics card
 
@@ -158,6 +154,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
@@ -165,6 +165,10 @@ Here are the system requirements for Control:
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -192,10 +196,6 @@ Here are the system requirements for Control:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -233,7 +233,7 @@ Here are the system requirements for Control:
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
@@ -245,17 +245,17 @@ Here are the system requirements for Control:
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
-See if this fix works for you. If not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+See if this fix works for you. If not, try the next fix, below.
 
 ### Fix 11: Reinstall the game
 
@@ -283,16 +283,18 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/levating-your-content-6-steps-to-higher-youtube-visibility-for-2024/"><u>[New] Elevating Your Content 6 Steps to Higher YouTube Visibility for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-saving-window-views-on-pcs-from-winxp-to-11-for-2024/"><u>[New] Saving Window Views on PCs From WinXP to 11 for 2024</u></a></li>
-<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-vivo-s17e-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Vivo S17e | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-the-ultimate-tutorial-on-how-to-openedit-srt-on-mac/"><u>2024 Approved The Ultimate Tutorial on How to Open/Edit SRT on Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/age-of-empires-4-wont-start-heres-your-guide-to-a-successful-launch/"><u>Age of Empires 4 Won't Start? Here's Your Guide to a Successful Launch</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-tecno-spark-10-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Tecno Spark 10 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://some-tips.techidaily.com/in-2024-transforming-raw-footage-an-in-depth-guide-to-applying-lut-filters-in-obs-studio/"><u>In 2024, Transforming Raw Footage An In-Depth Guide to Applying LUT Filters in OBS Studio</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-fallout-4s-black-screen-glitch-with-easy-fixes/"><u>Overcome Fallout 4'S Black Screen Glitch with Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solution-how-to-overcome-fortnites-stubborn-loading-barrier/"><u>Quick Solution: How to Overcome Fortnite's Stubborn Loading Barrier</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-ps4-system-freezes-a-comprehensive-walkthrough/"><u>Ultimate Guide: Resolving PS4 System Freezes – A Comprehensive Walkthrough</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/windows-1011avi3/"><u>Windows 10＆11向けの最適なAVIファイル統合手段トップ3 - 品質保持を忘れず</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-oppo-find-x7-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-critical-review-of-vlcs-capture-tools/"><u>2024 Approved Critical Review of VLC's Capture Tools</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-tips-for-preventing-invisible-thumbnails-on-shorts-videos/"><u>2024 Approved Tips for Preventing Invisible Thumbnails on Shorts Videos</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/identifying-and-fixing-unwanted-startups-in-windows-10-computers/"><u>Identifying and Fixing Unwanted Startups in Windows 10 Computers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-essential-vr-game-guide-top-8-on-oculus/"><u>In 2024, Essential VR Game Guide Top 8 on Oculus</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/in-depth-evaluation-of-anycubic-kobra-2-max-unearthing-a-hidden-gem/"><u>In-Depth Evaluation of Anycubic Kobra 2 MAX: Unearthing a Hidden Gem</u></a></li>
+<li><a href="https://win-able.techidaily.com/join-the-thrills-of-rainbow-six-siege-without-spending-a-penny-in-202n4/"><u>Join the Thrills of Rainbow Six Siege Without Spending a Penny in 202N4</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastery-of-winwordexe-errors-5-hacks-for-swift-word-repairs/"><u>Mastery of WINWORD.EXE Errors: 5 Hacks for Swift Word Repairs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/personalized-exercise-monitoring-made-simple-with-the-user-friendly-samsung-galaxy-fit2/"><u>Personalized Exercise Monitoring Made Simple with the User-Friendly Samsung Galaxy Fit2</u></a></li>
+<li><a href="https://driver-download.techidaily.com/quick-download-of-lexars-usb-drive-software-get-started-fast/"><u>Quick Download of Lexar's USB Drive Software - Get Started Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixing-the-pc-compatibility-issue-for-call-of-duty-modern-warfare-launch/"><u>Solution Found! Fixing the PC Compatibility Issue for Call of Duty: Modern Warfare Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-found-fixing-hp-monitor-issues-and-restoring-your-screen/"><u>Solutions Found: Fixing HP Monitor Issues & Restoring Your Screen</u></a></li>
 </ul></div>
 

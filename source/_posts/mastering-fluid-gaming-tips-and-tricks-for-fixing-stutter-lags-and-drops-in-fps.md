@@ -1,7 +1,7 @@
 ---
 title: "Mastering Fluid Gaming: Tips and Tricks for Fixing Stutter, Lags, & Drops in FPS"
-date: 2024-08-27T20:32:02.082Z
-updated: 2024-08-28T20:32:02.082Z
+date: 2024-12-14T18:46:52.658Z
+updated: 2024-12-19T18:09:24.540Z
 tags:
   - win11
   - win10
@@ -43,17 +43,9 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
  If your specs are more than capable for the game, simply continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -63,14 +55,13 @@ Here’s how:
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -82,8 +73,9 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Disable overlays
 
  In-game overlays allow you to interact with friends and place orders while you’re enjoying the game. But this handy feature might also be an interference to performance according to some. So if you’re using overlays such as**Steam** or**Discord** , try disabling them and see how it goes.
@@ -93,6 +85,10 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -107,9 +103,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
@@ -125,18 +118,21 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
@@ -153,11 +149,12 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -169,8 +166,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +173,22 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-dizzy-with-design-mastering-upside-down-imagery/"><u>[New] 2024 Approved Dizzy with Design Mastering Upside Down Imagery</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-revolutionizing-video-recording-insights-on-camstudios-latest-release/"><u>[New] Revolutionizing Video Recording - Insights on CamStudio's Latest Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-your-gameplay-experience-solving-fps-drops-and-stutters-in-naraka-bladepoint/"><u>Enhancing Your Gameplay Experience: Solving FPS Drops and Stutters in Naraka: Bladepoint</u></a></li>
+<li><a href="https://win-able.techidaily.com/experiencing-cyberpunk-2077-lag-heres-how-to-defrost-and-enjoy-smoothly/"><u>Experiencing Cyberpunk 2077 Lag? Here's How to Defrost and Enjoy Smoothly</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solutions-for-resolving-nvidia-hardware-disk-issues/"><u>Expert Solutions for Resolving NVIDIA Hardware Disk Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-se-2022-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone SE (2022) After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-xiaomi-redmi-note-13-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Xiaomi Redmi Note 13 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-tech-tailored-using-apple-watch-for-macopening/"><u>In 2024, Tech Tailored Using Apple Watch for MacOpening</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-huawei-p60-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-troubleshooting-the-game-crash-now-fixed/"><u>Jurassic World Evolution: Troubleshooting the Game Crash - Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-step-by-step-approach-to-stop-deathloop-from-hanging-on-your-console/"><u>Overcoming Technical Glitches: A Step-By-Step Approach To Stop Deathloop From Hanging On Your Console</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revolutionizing-workplace-technology-how-apples-vision-pro-enables-efficient-enterprise-devices-management-featured-on-zdnet/"><u>Revolutionizing Workplace Technology: How Apple's Vision Pro Enables Efficient Enterprise Devices Management - Featured on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-to-eliminate-cs-go-latency-problems/"><u>Simple Steps to Eliminate CS: GO Latency Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-preventing-risk-of-rain-2-from-crashing/"><u>Troubleshooting Guide: Preventing Risk of Rain 2 From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-recurring-crashes-in-microsoft-flight-simulator-2020/"><u>Troubleshooting Recurring Crashes in Microsoft Flight Simulator 2020</u></a></li>
+</ul></div>
 

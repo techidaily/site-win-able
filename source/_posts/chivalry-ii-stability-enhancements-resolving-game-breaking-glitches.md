@@ -1,7 +1,7 @@
 ---
 title: "Chivalry II Stability Enhancements: Resolving Game-Breaking Glitches"
-date: 2024-12-06T16:21:35.790Z
-updated: 2024-12-12T16:40:59.861Z
+date: 2024-12-17T18:26:49.800Z
+updated: 2024-12-19T17:33:00.602Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ If your Cities: Skylines 2 crashes on your computer as well, don’t worry, you�
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes for Cities: Skylines 2 crashing problem
 
@@ -77,15 +81,11 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then try your Cities: Skylines 2 again to see if it still crashes. If the problem remains, please move on to the next fix.
 
@@ -96,10 +96,6 @@ Here are the requirements for your reference:
  An outdated or incorrect display card driver could also be the culprit to your Cities: Skylines 2 crashing problem, so if the above methods don’t help Cities: Skylines 2 to stop crashing, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -113,6 +109,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  Then search for your GPU model. Note that you should only download the latest driver installer that’s compatible with your operating system. Once downloaded, open the installer and follow the on-screen instructions to update.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Update your graphics driver automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -123,14 +123,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -149,12 +141,12 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/steam-properties.jpg)
 2. Click **Installed Files** , and click **Verify Integrity of game files** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-48.png)
 3. Then wait for the process to be done – it could take several minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. When the verification is done, launch Steam and try Cities: Skylines 2 again to see if its crashing problem is fixed. If not, please move on to the next fix.
 
@@ -171,15 +163,19 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Reinstall Cities: Skylines 2
 
@@ -188,6 +184,10 @@ To do so, first visit the website of your GPU manufacturer:
 1. In your Steam library, right-click Cities: Skylines 2, and select **Manage**  then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-123.png)
 2. When Cities: Skylines 2 is removed from your computer, restart the Steam client.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Then go to your Steam library, find**Cities: Skylines 2** , and install it again.
 
@@ -212,24 +212,20 @@ To do so, first visit the website of your GPU manufacturer:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-guide-to-hosting-channels-with-real-time-video-streaming/"><u>[New] Guide to Hosting Channels with Real-Time Video Streaming</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-ultimate-tutorial-on-editing-youtube-videos/"><u>[Updated] 2024 Approved The Ultimate Tutorial on Editing YouTube Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-professional-mac-gif-recording-top-10-picks-for-2024/"><u>[Updated] Professional Mac GIF Recording Top 10 Picks for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-explore-the-best-smartphone-compatible-vr/"><u>2024 Approved Explore the Best Smartphone-Compatible VR</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/deciding-on-apples-latest-innovations-comparing-features-of-the-apple-watch-ultra-vs-series-8/"><u>Deciding on Apple's Latest Innovations: Comparing Features of the Apple Watch Ultra Vs. Series 8</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009050571-easily-solved-how-to-stop-your-division-2-game-from-crashing/"><u>Easily Solved: How to Stop Your Division 2 Game From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-overwatchs-persistent-black-screen-problem/"><u>Fixing the Issue: How to Resolve Overwatch's Persistent Black Screen Problem</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/gratis-png-naar-gif-converteren-onafhankelijk-and-eenvoudig-met-movavi/"><u>Gratis PNG Naar GIF Converteren - Onafhankelijk & Eenvoudig Met Movavi</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/harmonious-journey-from-picture-to-playlist-for-2024/"><u>Harmonious Journey From Picture to Playlist for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-startup-stability-strategies-to-shield-against-the-perils-of-an-atomic-heart-collapse/"><u>Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'</u></a></li>
-<li><a href="https://win-able.techidaily.com/rapid-enhancements-unsticking-and-streamlining-shaders-for-star-wars-battlefront-ii/"><u>Rapid Enhancements: Unsticking and Streamlining Shaders for Star Wars Battlefront II</u></a></li>
-<li><a href="https://win-able.techidaily.com/ready-to-fix-detailed-tips-for-restoring-ds4-failed-to-load-on-your-pc/"><u>Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC</u></a></li>
-<li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-nokia-150-2023-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of Nokia 150 (2023)</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-steam-game-file-access-issue/"><u>Resolved: Fixing the Steam Game File Access Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-counter-strike-2-boot-problems-for-smoother-gaming-experience/"><u>Resolving Counter-Strike 2 Boot Problems for Smoother Gaming Experience</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-latency-issues-ultimate-guide-to-reducing-lag-in-street-fighter-6/"><u>Resolving Latency Issues: Ultimate Guide to Reducing Lag in Street Fighter 6</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamlessly-moving-your-memories-a-guide-to-uploading-google-photos-into-icloud/"><u>Seamlessly Moving Your Memories: A Guide to Uploading Google Photos Into iCloud</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-steam-from-stopping-you-immediate-solutions-to-persistent-app-crashes/"><u>Stop Steam From Stopping You: Immediate Solutions to Persistent App Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-thaumaturge-game-freezing-issue-on-your-pc/"><u>Troubleshooting the Thaumaturge Game Freezing Issue on Your PC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-craft-proficient-content-for-short-form-video-best-edits-reviewed/"><u>[New] In 2024, Craft Proficient Content for Short-Form Video Best Edits Reviewed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-perfect-pathway-setting-up-movie-maker-6-for-2024/"><u>[New] Perfect Pathway Setting Up Movie Maker 6 for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-simple-steps-to-a-stellar-vlog-journey-for-2024/"><u>[New] Simple Steps to a Stellar Vlog Journey for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-puzzle-fixing-the-persistent-black-screen-error-in-persona-5-strikers-gameplay/"><u>Beating the Puzzle: Fixing the Persistent Black Screen Error in Persona 5 Strikers Gameplay</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-honor-70-lite-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Honor 70 Lite 5G</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/giggle-engineering-with-chatgpt-is-ai-the-new-joker/"><u>Giggle Engineering with ChatGPT: Is AI the New Joker?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993678617-halo-infinite-pc-freeze-dilemma-fix-it-in-just-7-easy-ways/"><u>Halo Infinite PC Freeze Dilemma? Fix It in Just 7 Easy Ways</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-honor-magic-vs-2-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Honor Magic Vs 2 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/hunt-down-hot-deals-on-acer-products-during-the-2024-prime-day-sale/"><u>Hunt Down Hot Deals on Acer Products During the 2024 Prime Day Sale</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-mx-series-mouse-drivers-compatible-with-multiple-windows-versions-download-now/"><u>Logitech MX-Series Mouse Drivers: Compatible with Multiple Windows Versions – Download Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-2-wont-launch-here-are-solutions-that-worked-for-me/"><u>Modern Warfare 2 Won't Launch? Here Are Solutions that Worked for Me!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-a-step-by-step-guide-to-overcoming-fortnite-error-84-unable-to-connect-with-friends/"><u>Solving the Puzzle: A Step-by-Step Guide to Overcoming Fortnite Error 84 - Unable to Connect with Friends</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-to-stop-valheim-from-frequent-crashes-on-your-computer/"><u>Troubleshooting Guide to Stop Valheim From Frequent Crashes on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-download-problems-with-cyberpunk-2077-on-steam-platform/"><u>Troubleshooting Guide: Resolving Download Problems with Cyberpunk 2077 on Steam Platform</u></a></li>
 </ul></div>
 

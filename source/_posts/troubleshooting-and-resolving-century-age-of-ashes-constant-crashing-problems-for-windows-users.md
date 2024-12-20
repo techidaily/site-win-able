@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users"
-date: 2024-12-08T16:51:22.621Z
-updated: 2024-12-12T16:54:47.473Z
+date: 2024-12-18T17:24:59.145Z
+updated: 2024-12-19T16:27:07.869Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -57,12 +53,16 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -97,6 +97,10 @@ There’re mainly two ways you can update your graphics drivers:
 
 **Or**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -114,16 +118,8 @@ There’re mainly two ways you can update your graphics drivers:
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -141,12 +137,12 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -162,11 +158,11 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
-If After Effects still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -175,12 +171,16 @@ If After Effects still crashes, try the next fix, below.
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,14 +210,18 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-digital-revolution-integrating-dslr-into-online-platforms-from-home-pcsmacs/"><u>[Updated] 2024 Approved Digital Revolution Integrating DSLR Into Online Platforms From Home PCs/Macs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-visual-filmmaking-resources-environmentally-conscious/"><u>[Updated] In 2024, Visual Filmmaking Resources - Environmentally Conscious</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-storytelling-at-its-simplest/"><u>[Updated] Storytelling at Its Simplest</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/windows-11-dvd-top10/"><u>「Windows 11 DVD コピーを簡単に!無料のベストツール集Top10掲載」</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/access-the-best-video-conversion-suite-for-free-secure-your-official-winx-combo-package-now/"><u>Access the Best Video Conversion Suite for Free: Secure Your Official WinX Combo Package Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lag-solving-fortnites-pc-freezing-glitch-of-2t4/"><u>Beat the Lag: Solving Fortnite's PC Freezing Glitch of 2T4</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-phasmophobia-crashing-issues-expert-advice-and-troubleshooting-steps/"><u>How to Prevent Phasmophobia Crashing Issues - Expert Advice and Troubleshooting Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-valorants-pc-input-delay-problem-insights/"><u>How to Resolve Valorant's PC Input Delay Problem: Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-problems-heres-the-solution-for-a-smooth-experience/"><u>Ubisoft Connect Problems? Here's the Solution for a Smooth Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-echo-chambers-advanced-mac-audio-techniques/"><u>[New] Echo Chambers Advanced Mac Audio Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-harnessing-the-power-of-gratuitous-text-animations/"><u>[New] Harnessing the Power of Gratuitous Text Animations</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-livetv-and-facebook-integrating-fb-livestreams-for-2024/"><u>[Updated] LiveTV and Facebook Integrating FB Livestreams for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013182220-cyberpunk-2077-performance-boosted-overcoming-previous-fps-drops/"><u>Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops.</u></a></li>
+<li><a href="https://win-able.techidaily.com/eradicate-stuttering-in-cyberpunk-2077-for-a-seamless-gaming-experience-tips-and-fixes/"><u>Eradicate Stuttering in Cyberpunk 2077 for a Seamless Gaming Experience: Tips & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2023-launch-error-what-you-can-do-to-successfully-start-your-game/"><u>Football Manager 2023 Launch Error: What You Can Do to Successfully Start Your Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-poco-c50-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Poco C50 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-latest-guide-on-ipad-23-and-apple-iphone-15-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Latest Guide on iPad 2/3 and Apple iPhone 15 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/knowledge-currents-best-yt-for-academic-growth-for-2024/"><u>Knowledge Currents Best YT for Academic Growth for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-players-manual-for-2e4-overcoming-the-notorious-black-screen-dilemma/"><u>League of Legends Player's Manual for 2E4: Overcoming the Notorious Black Screen Dilemma.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-performance-issues-how-to-stop-stardew-valley-from-crashing/"><u>Resolving Performance Issues: How to Stop Stardew Valley From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-performance-issues-in-avatar-the-legend-of-quetsiyah-addressing-pandoras-lags/"><u>Solving Performance Issues in 'Avatar: The Legend of Quetsiyah': Addressing Pandora's Lags</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701054414-ultimate-recorder-select-top-12-no-timer/"><u>Ultimate Recorder Select Top 12, No Timer!</u></a></li>
 </ul></div>
 

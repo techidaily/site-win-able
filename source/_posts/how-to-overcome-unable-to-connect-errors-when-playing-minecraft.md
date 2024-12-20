@@ -1,7 +1,7 @@
 ---
 title: How to Overcome 'Unable to Connect' Errors When Playing Minecraft
-date: 2024-08-27T20:29:11.483Z
-updated: 2024-08-28T20:29:11.483Z
+date: 2024-12-16T16:47:26.813Z
+updated: 2024-12-19T17:14:07.476Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 [**Download Now**](https://www.fortect.com/go/route-dz.php?channel=dz&d=t&banner=drivereasyen87812)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,6 +51,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 * For Xbox users
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Re-add your friend
 
@@ -68,24 +76,18 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 4. Evoke the menu and choose**Save & Quit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
+
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -93,36 +95,20 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 1. Click the Windows start button, type**control panel** and press the**Enter** key on your keyboard to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update the network drivers
 
  Outdated network drivers may cause the “Unable to connect to world” issue. So you can try to update the network driver to fix the problem.
@@ -137,13 +123,7 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Run Minecraft and check whether you can connect to the world.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -162,7 +142,15 @@ If this fix can’t help, you can move to the next.
 4. Click**Submit** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software
 
@@ -213,8 +201,6 @@ If this fix can’t help, you can move to the next.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +208,24 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-mastering-instagrams-hashtag-language-for-enhanced-engagement/"><u>[Updated] In 2024, Mastering Instagram's Hashtag Language for Enhanced Engagement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-perfecting-visuals-how-to-remove-images-edges-in-canva/"><u>[Updated] In 2024, Perfecting Visuals How to Remove Images' Edges in Canva</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premium-internet-voice-pads/"><u>[Updated] In 2024, Premium Internet Voice Pads</u></a></li>
+<li><a href="https://win-dash.techidaily.com/easy-guide-to-installing-canon-mp280-drivers-on-windows-1187/"><u>Easy Guide to Installing Canon MP280 Drivers on Windows 11/8/7</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-wwe-2k20-crashes-clear-straightforward-tips-for-gaming-bliss-on-pc/"><u>Fix Your WWE 2K20 Crashes: Clear, Straightforward Tips for Gaming Bliss on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-expert-tips-and-solutions/"><u>Fixing Resident Evil Village Performance Problems on PC: Expert Tips & Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-11-best-location-changers-for-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>In 2024, 11 Best Location Changers for Honor Magic 6 Lite | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oneplus-11-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass OnePlus 11 5G FRP</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/maccam-essentials-tips-and-tricks-recording-for-2024/"><u>MacCam Essentials Tips and Tricks Recording for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/online-companion-fb-stories-saver/"><u>Online Companion Fb Stories Saver</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-xcom-2-crashing-issues-on-windows-pcs/"><u>Resolved: How to Fix XCOM 2 Crashing Issues on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-connection-issues-in-utorrent-for-improved-torrents-sharing-and-download-speed/"><u>Resolving Connection Issues in uTorrent for Improved Torrents Sharing and Download Speed</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-the-hogwarts-legacy-wont-start-issue-top-strategies-of-2024/"><u>Solve the 'Hogwarts Legacy Won't Start' Issue: Top Strategies of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-stability-guide-no-more-crashes/"><u>Terraria Stability Guide: No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-connection-problems-solve-them-here-with-our-latest-tips/"><u>Ubisoft Connection Problems? Solve Them Here with Our Latest Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-resolving-citysketchers-urban-collapse-bug-top-hacks-of-2024/"><u>Ultimate Guide to Resolving CitySketchers' Urban Collapse Bug - Top Hacks of 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/ultimate-guide-the-best-video-player-software-for-handling-dvd-video-files-on-modern-computers-windows-11-macos/"><u>Ultimate Guide: The Best Video Player Software for Handling DVD-Video Files on Modern Computers (Windows 11, macOS)</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Made Easy: Comprehensive Solutions for Steam Error N130"
-date: 2024-08-27T20:30:04.137Z
-updated: 2024-08-28T20:30:04.137Z
+date: 2024-12-12T16:36:43.989Z
+updated: 2024-12-19T17:23:35.518Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -45,10 +49,18 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -57,14 +69,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -82,9 +88,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -93,14 +96,16 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -108,18 +113,22 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
-3. Click**Set Launch Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
-4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
+3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
+4. Type**–config very\_low** in the text field and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -138,8 +147,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +154,18 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-the-ultimate-guide-to-boosting-views-on-tiktok-unboxings/"><u>[New] 2024 Approved The Ultimate Guide to Boosting Views on TikTok Unboxings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-swiftswirl-momentmirror-recording/"><u>[New] SwiftSwirl MomentMirror Recording</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-demystifying-youtube-shorts-for-total-beginners/"><u>2024 Approved Demystifying YouTube Shorts for Total Beginners</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-unfixable-overcoming-baldurs-gate-3-launch-problems/"><u>Fixing the Unfixable? Overcoming Baldur's Gate 3 Launch Problems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-enhancing-video-conferencing-with-zoom-and-chromebook/"><u>In 2024, Enhancing Video Conferencing with Zoom and Chromebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-motorola-edge-40-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-oppo-find-n3-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Oppo Find N3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://win-able.techidaily.com/origin-online-error-resolution-tips-to-restore-your-gaming-library-access/"><u>Origin Online Error Resolution: Tips to Restore Your Gaming Library Access</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/securing-your-digital-assets-with-confidence-expert-advice-by-yl-software/"><u>Securing Your Digital Assets with Confidence: Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/stay-on-top-of-your-game-ultimate-tips-to-resolve-war-thunders-persistent-crashing-issues-for-202er/"><u>Stay on Top of Your Game: Ultimate Tips to Resolve War Thunder's Persistent Crashing Issues for 202Er</u></a></li>
+<li><a href="https://win-able.techidaily.com/triumphant-journey-through-arise-debugging-fatal-mishaps-in-unreal-engine-4/"><u>Triumphant Journey Through Arise: Debugging Fatal Mishaps in Unreal Engine 4</u></a></li>
+</ul></div>
 

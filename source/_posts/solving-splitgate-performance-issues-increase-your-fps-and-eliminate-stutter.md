@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2024-12-07T16:04:26.830Z
-updated: 2024-12-12T16:48:31.479Z
+date: 2024-12-16T18:49:40.038Z
+updated: 2024-12-19T18:15:29.452Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all the solutions. Simply work down the list until you find the one that gives you luck.
@@ -39,10 +35,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 5. **[Turn on VSync](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Empty Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Install all Windows updates
 
  While the ubiquitous Windows update prompts might be annoying to some, keeping the system up to date is actually saving your time by avoiding tons of compatibility issues. So when you’re troubleshooting game issues, it’s always recommended to**check for system updates** first.
@@ -53,12 +45,12 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -66,7 +58,7 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -74,10 +66,6 @@ Here’s how you can check for updates manually:
  Once you’ve installed all the updates, do a reboot and check if the stuttering issue persists.
 
 If this fix doesn’t help you, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change your power plan
 
@@ -87,23 +75,35 @@ If this fix doesn’t help you, take a look at the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you test the gameplay in Valorant and check for improvements.
 
  If this trick doesn’t do the trick for you, simply try the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -134,6 +134,10 @@ To do so, first visit the website of your GPU manufacturer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and check if Valorant stutters again.
@@ -155,7 +159,7 @@ If the latest driver doesn’t help you, check out the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Empty Standby Memory
@@ -169,7 +173,7 @@ This method may require a basic level of computer knowledge.
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
@@ -190,10 +194,6 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
@@ -203,10 +203,6 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 
@@ -215,6 +211,10 @@ This method may require a basic level of computer knowledge.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
@@ -247,14 +247,22 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-standard-rgb-versus-srgb-standards-for-2024/"><u>[New] Standard Rgb Versus Srgb Standards for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-sub-50-mic-selections-for-aspiring-streaming-artists/"><u>[Updated] 2024 Approved Sub-$50 Mic Selections for Aspiring Streaming Artists</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-facebook-finders-playbook-for-quick-reconnaissance-for-2024/"><u>[Updated] Facebook Finder’s Playbook for Quick Reconnaissance for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-ultimate-guide-to-adding-text-on-images/"><u>[Updated] Ultimate Guide to Adding Text on Images</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a23-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A23 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-freezing-and-crashes-in-snowrunner-on-your-windows-laptop/"><u>Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-oculus-link-blackout-6-speedy-solutions/"><u>Fixing the Oculus Link Blackout: 6 Speedy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-watch-dogs-legion-from-endlessly-crashing-on-personal-computers/"><u>How to Stop Watch Dogs Legion From Endlessly Crashing on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-high-disk-and-cpu-load-in-wsappx-a-step-by-step-guide-to-optimization/"><u>Troubleshooting High Disk and CPU Load in WSAPPX: A Step-by-Step Guide to Optimization</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-bridging-the-gap-between-standard-and-superior-video-quality-techniques/"><u>[New] Bridging the Gap Between Standard and Superior Video Quality Techniques</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-choosing-between-vlc-and-mx-for-video-enjoyment/"><u>[New] Choosing Between VLC and MX for Video Enjoyment</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-smilesketcher-easy-to-use-digital-comedy-tool/"><u>[New] SmileSketcher Easy-to-Use Digital Comedy Tool</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-jumpstart-your-journey-to-tiktok-fame-with-these-hits/"><u>[Updated] Jumpstart Your Journey to TikTok Fame with These Hits</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-top-rated-sony-a7s-ii-memory-accessory/"><u>2024 Approved Top-Rated Sony A7S II Memory Accessory</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-gaming-bugs-8-crucial-fixes-for-stable-play-in-marvels-guardians-of-the-galaxy-on-pc/"><u>Beat Gaming Bugs: 8 Crucial Fixes for Stable Play in 'Marvel's Guardians of the Galaxy' On PC</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/beginning-zoom-video-calls-on-android-devices/"><u>Beginning Zoom Video Calls on Android Devices</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-infinix-note-30-vip-racing-edition-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Infinix Note 30 VIP Racing Edition?</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719173432882-compact-mini-led-screen-best-value-deal/"><u>Compact Mini-LED Screen: Best Value Deal</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-world-of-warships-from-crashing-on-your-pc-five-essential-tips/"><u>How to Stop World of Warships From Crashing on Your PC – Five Essential Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/insufficient-cpu-warning-boost-your-processor-power-for-seamless-vanguard-use/"><u>Insufficient CPU Warning: Boost Your Processor Power for Seamless Vanguard Use</u></a></li>
+<li><a href="https://win-able.techidaily.com/now-rewrite-the-equation-using-these-equivalent-fractions/"><u>Now, Rewrite the Equation Using These Equivalent Fractions</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-world-of-warcraft-game-crash-problems/"><u>Quick Fixes for 'World of Warcraft' Game Crash Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-fixing-new-worlds-slowdown-and-network-issues/"><u>Step-by-Step Solution for Fixing New World’s Slowdown and Network Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-when-persona-3-ffi-wont-start/"><u>Troubleshooting Guide: Resolving Issues When Persona 3 FFI Won't Start</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-nokia-g42-5g-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Nokia G42 5G.</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-unexpected-drops-in-game-frame-rates/"><u>Unraveling the Mystery Behind Unexpected Drops in Game Frame Rates</u></a></li>
 </ul></div>
 

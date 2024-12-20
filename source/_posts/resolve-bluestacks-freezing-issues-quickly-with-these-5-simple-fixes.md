@@ -1,7 +1,7 @@
 ---
 title: Resolve Bluestacks Freezing Issues Quickly with These 5 Simple Fixes
-date: 2024-08-27T20:33:11.343Z
-updated: 2024-08-28T20:33:11.343Z
+date: 2024-12-18T19:16:08.046Z
+updated: 2024-12-19T19:40:51.330Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Repair system files
 
  Missing or corrupted system files is one of the most common causes that your Oculus Link malfunction or goes black. To identify what’s the problem and fix it, you should perform a thorough scan and repair of your computer.
@@ -42,13 +46,15 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your device drivers
 
  The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
@@ -63,18 +69,16 @@ There are mainly two ways you can update the driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -86,6 +90,11 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
@@ -98,12 +107,13 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Opt out of Public Test Channel
 
@@ -115,10 +125,11 @@ It’s suggested you opt out of the Beta mode and here’s how:
 2. Select**Settings** on the left pane and navigate to the**Beta** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
 3. **Toggle off** the button next to Public Test Channel.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
@@ -129,15 +140,13 @@ It’s suggested you opt out of the Beta mode and here’s how:
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
+
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
@@ -157,8 +166,6 @@ Restart Oculus Link and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +173,20 @@ Restart Oculus Link and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-achieving-broadcast-excellence-your-guide-to-youtubes-live-360-videos/"><u>[New] 2024 Approved Achieving Broadcast Excellence Your Guide to YouTube's Live 360 Videos</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/everyday-annoyances-windows-11-review-highlights/"><u>Everyday Annoyances: Windows 11 Review Highlights</u></a></li>
+<li><a href="https://win-able.techidaily.com/gyimah-r-et-al-2017-a-quantitative-review-of-the-toxicity-and-carcinogenic-potential-of-glyphosate-using-data-from-the-open-literature-published-1960-2015-c384/"><u>Gyimah, R., Et Al (2017). A Quantitative Review of the Toxicity and Carcinogenic Potential of Glyphosate Using Data From the Open Literature Published 1960-2015. Crit Rev Toxicol, 47(8), 739-50</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-total-war-three-kingdoms-freezing-problem/"><u>Resolving 'Total War: Three Kingdoms' Freezing Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-interruptions-mastering-uninterrupted-live-streaming-on-discord/"><u>Stop Interruptions: Mastering Uninterrupted Live Streaming on Discord</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-ihome-zenergy-mattress-side-sleep-enhancer-transforming-slumber-into-invigorating-dawns-product-reviewed/"><u>The IHome Zenergy Mattress-Side Sleep Enhancer: Transforming Slumber Into Invigorating Dawns – Product Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-adobe-premiere-pro-stability-enhanced-for-windows-11-and-10-users/"><u>Troubleshooting Guide: Adobe Premiere Pro Stability Enhanced for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-hiccups-for-a-smooth-outriders-experience/"><u>Troubleshooting PC Hiccups for a Smooth Outriders Experience</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-startech-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Troubleshooting StarTech Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-strategies-for-the-new-world-connection-error/"><u>Troubleshooting Strategies for the 'New World Connection Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tactics-for-a-persistent-outlook-connection-issue/"><u>Troubleshooting Tactics for a Persistent Outlook Connection Issue</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/ultimate-guide-mastering-video-scaling-techniques-in-adobe-premiere-pro/"><u>Ultimate Guide: Mastering Video Scaling Techniques in Adobe Premiere Pro</u></a></li>
+</ul></div>
 

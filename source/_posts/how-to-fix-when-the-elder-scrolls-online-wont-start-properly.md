@@ -1,7 +1,7 @@
 ---
 title: How to Fix When 'The Elder Scrolls Online' Won’t Start Properly
-date: 2024-08-27T20:30:11.265Z
-updated: 2024-08-28T20:30:11.265Z
+date: 2024-12-16T16:56:07.601Z
+updated: 2024-12-19T18:33:44.951Z
 tags:
   - win11
   - win10
@@ -59,8 +59,18 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-Run-box.jpg)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
@@ -70,14 +80,15 @@ To check the specs of your PC:
 
 ## How to fix Days Gone Not Launching on PC
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1 – Install the latest game patch
 
  The developer team of Days Gone released a note of known bugs in the game. It is possible that the launching failure is also one of the bugs and that a patch is required to fix it. So you should keep a watchful eye on the latest patch. As long as it’s released, you should close the game, then restart Steam client or Epic Games Launcher for the updates to take effect.
 
  If you’ve installed the latest patch but the issue persists, please try**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -98,9 +109,6 @@ To check the specs of your PC:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Launch Days Gone in Windowed Mode
 
  Playing Days Gone in fullscreen may contribute to a more immersive gaming experience, but it’s resource demanding, which may put more strain on your PC and cause your game to not launch. To verify if this is the case, you can run the game in Windowed mode and see how it goes.
@@ -121,8 +129,9 @@ To check the specs of your PC:
 3. Click the **DISPLAY**  tab, then in**WINDOW MODE** , choose**Windowed mode** . Click**Apply** and exit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-4.png)
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable all overlays
@@ -135,14 +144,13 @@ To check the specs of your PC:
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
+
 ##### Disable GeForce Experience Overlay
 
 1. Open GeForce Experience.
@@ -150,28 +158,26 @@ To check the specs of your PC:
 3. From the **GENERAL** panel, toggle the **SHARE** setting to off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ge.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ##### Disable Discord Overlay
 
 1. Open Discord.
 2. Click**the cog** icon in the lower left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/discord.png)
 3. In the pop-up window, scroll down to**Game Overlay** , then in the right panel, switch off the**Enable in-game overlay** toggle.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/overlaydiscord.png)
 4. Click**Esc** to exit the window.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify game integrity
 
  Days Gone may not launch if the game files are missing or corrupt. Luckily, both Steam client and Epic Game Launcher have built-in repair features, allowing you to verify the integrity of the game files and fix it (if anything wrong is found).
@@ -182,9 +188,6 @@ To check the specs of your PC:
 2. Locate Days Gone and right-click on**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Click**LOCAL FILES** \>**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
 4. Wait a bit until the process finishes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
@@ -197,8 +200,9 @@ To check the specs of your PC:
 2. Locate Days Gone, then click **the three dots icon next to the game** and click **VERIFY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify.png)
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Rename the Movies Folder
@@ -208,10 +212,6 @@ To check the specs of your PC:
 
  Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 7 – Close unnecessary apps
 
  Having too many apps running in the background may make your game fail to restart, since they compete for CPU and memory. So it makes sense that while you’re playing the game, you close these resources hungry applications and services.
@@ -222,9 +222,11 @@ Here’s how to close background apps:
 2. Select the**Startup** tab, then right-click on each item and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Run Days Gone and hopefully the launching error is now resolved.
 
 ---
@@ -237,8 +239,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +246,24 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-innovative-approaches-to-live-broadcasting-on-youtube-with-wirecast/"><u>[Updated] In 2024, Innovative Approaches to Live Broadcasting on Youtube with WireCast</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-ultimate-source-of-high-quality-video-downloaders/"><u>[Updated] The Ultimate Source of High-Quality Video Downloaders</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-the-craft-of-professional-gopro-cinematography/"><u>2024 Approved Mastering the Craft of Professional Gopro Cinematography</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-ls-0013-kickoff-hiccup-in-fortnite-everything-you-need-to-know/"><u>Beating the LS-0013 Kickoff Hiccup in Fortnite – Everything You Need to Know</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-honor-x50iplus-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor X50i+ Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-use-your-utorrent-try-out-these-7-successful-remedies/"><u>Can't Use Your Utorrent? Try Out These 7 Successful Remedies</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolve-code-vein-game-crashes-effectively/"><u>Fixing the Issue: Resolve 'Code Vein' Game Crashes Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rate-and-reducing-stutters-ultimate-guide-for-call-of-duty-warzone/"><u>Improving Frame Rate & Reducing Stutters: Ultimate Guide for Call of Duty: Warzone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia G310 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-efficiency-how-to-lower-cyberpunk-2077s-heavy-load-on-your-processor/"><u>Maximize Efficiency: How to Lower Cyberpunk 2077'S Heavy Load on Your Processor</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/my-epic-apple-vision-pro-experience-with-top-notch-tv-shows-a-journey-of-amazement-and-exhaustion/"><u>My Epic Apple Vision Pro Experience with Top-Notch TV Shows - A Journey of Amazement & Exhaustion</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-warzones-no-match-found-dilemma-a-guide-for-pc-gamers/"><u>Overcoming Warzone's 'No Match Found' Dilemma: A Guide for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996380803-pc-gamers-destiny-2-fixed-and-fully-operational-now/"><u>PC Gamers: Destiny 2 Fixed and Fully Operational Now!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-simple-guide-downloading-wacom-drivers-with-no-hassle/"><u>Quick and Simple Guide: Downloading Wacom Drivers with No Hassle</u></a></li>
+<li><a href="https://media-tips.techidaily.com/quickly-transform-avchd-files-for-ipad-2-a-step-by-step-tutorial-using-ipad-2-video-converter/"><u>Quickly Transform AVCHD Files for iPad 2: A Step-by-Step Tutorial Using IPad 2 Video Converter</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-cod-battle-royales-warring-dev-error-6328-with-top-tips/"><u>Resolve Cod: Battle Royale's Warring Dev Error #6328 with Top Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-windows-ms-office-erase-error-code-0x80041015/"><u>Unlocking Windows MS Office: Erase Error Code 0X80041015</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Put an End to Constant Minecraft Crashes with These 6 Quick Solutions
-date: 2024-08-23T11:31:28.756Z
-updated: 2024-08-24T11:31:28.756Z
+date: 2024-12-14T18:53:52.572Z
+updated: 2024-12-19T18:42:01.565Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 5. [**Increase your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Delete specific game files](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  AAA titles tend to be large, and they’re likely to crash when there’re missing or corrupted game files. To make sure the data is intact and up to date, you need to**verify the integrity of your game files** .
@@ -42,11 +46,16 @@ thumbnail: https://thmb.techidaily.com/8a309f6aebab825a6cd0baff1d0b8550d45fadce3
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the problem persists, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The constant crashes might indicate a driver issue. In other words, you might be using**a faulty or outdated graphics driver** . You should always keep your driver up to date for the best in-game performance. And this is especially the case when you are dealing with new titles like New World.
@@ -59,9 +68,6 @@ If the problem persists, take a look at the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -80,16 +86,20 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -105,9 +115,6 @@ If your system is already up to date, you can try the next method.
 1. Open New World. On the top right corner, click the**gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select**Visuals** . Then set**Object details** to**High** or lower.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-2.jpg)
 
 Now you can play and check if the crash stops.
@@ -115,8 +122,9 @@ Now you can play and check if the crash stops.
  If changing graphics settings doesn’t give you luck, continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Increase your virtual memory
 
  New World recommend 16GB RAM so you better check if you meets this requirement. There’re already reports showing that the game might crash if your PC runs out of memory. If that’s your case, you can try to increase your virtual memory:
@@ -124,18 +132,22 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press the **Windows logo key** and type **advanced system settings** . Click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select **Customize size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer and check if New World crashes again.
 
@@ -150,9 +162,6 @@ Now you can play and check if the crash stops.
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%appdata%** and click**OK** .  
 ![how to clean uninstall Discord](https://images.drivereasy.com/wp-content/uploads/2021/07/appdata.jpg)
 2. Go to**AGS > New World** and delete the following:  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
    * The**savedata** folder  
    * The**user\_preload\_settings** file
 3. Now you can restart New World and see if the game crashes again.
@@ -167,8 +176,6 @@ Now you can play and check if the crash stops.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +183,20 @@ Now you can play and check if the crash stops.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-8-sites-to-download-free-green-screen-backgrounds-and-footage/"><u>[Updated] 8 Sites to Download Free Green Screen Backgrounds and Footage</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-playtime-registration-and-logout-tutorials-for-2024/"><u>[Updated] Playtime Registration & Logout Tutorials for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-perfect-picture-quality-on-zoom/"><u>2024 Approved Achieving Perfect Picture Quality on Zoom</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-transform-ppt-deck-into-video-stream/"><u>2024 Approved Transform PPT Deck Into Video Stream</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-when-the-witcher-3-wild-hunt-game-fails-to-load/"><u>How to Fix When The Witcher 3 Wild Hunt Game Fails to Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-correct-nvidias-geforce-error-code-0x0003/"><u>How to Troubleshoot and Correct NVIDIA's GeForce Error Code 0X0003</u></a></li>
+<li><a href="https://win-able.techidaily.com/launch-unveiled-the-dual-forces-behind-it-takes-two-success/"><u>Launch Unveiled: The Dual Forces Behind 'It Takes Two' Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-cold-start-ensuring-seamless-launch-of-cod-black-ops-cold-war-on-pc-systems/"><u>Mastering The Cold Start: Ensuring Seamless Launch of Cod: Black Ops Cold War on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-ark-scorched-earth-ultimate-tips-and-tricks-for-pc-players/"><u>Maximizing Frame Rates in ARK: Scorched Earth - Ultimate Tips & Tricks for PC Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-addressed-fixing-streaming-issues-with-netflix-on-xbox-console/"><u>Successfully Addressed: Fixing Streaming Issues with Netflix on Xbox Console</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/taking-the-apple-watch-series-4-for-a-spin-a-leap-forward-in-wearable-technology-excellence/"><u>Taking the Apple Watch Series 4 for a Spin: A Leap Forward in Wearable Technology Excellence</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/the-impact-of-low-memory-on-system-stability-expert-analysis-by-yl-software/"><u>The Impact of Low Memory on System Stability: Expert Analysis by YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-resolve-hogwarts-legacys-stutter-issues/"><u>Ultimate Troubleshooting Tips: Resolve Hogwarts Legacy's Stutter Issues</u></a></li>
+</ul></div>
 

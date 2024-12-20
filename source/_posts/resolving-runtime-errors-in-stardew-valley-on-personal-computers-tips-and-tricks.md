@@ -1,7 +1,7 @@
 ---
 title: Resolving Runtime Errors in Stardew Valley on Personal Computers - Tips & Tricks
-date: 2024-08-27T20:33:21.321Z
-updated: 2024-08-28T20:33:21.321Z
+date: 2024-12-13T17:19:23.355Z
+updated: 2024-12-19T18:14:30.142Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
  New games often come out with some bugs, and Deathloop is no exception. One of the issues plaguing many gamers is that**the game keeps freezing on their PC and PS5** . Although we are not sure what is causing the problem currently, there are still some workarounds you can try.
 
  Avoid using the Windows \[**ALT** \]+\[**TAB** \] function as it can have an impact on the framerate.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
@@ -56,13 +57,18 @@ thumbnail: https://thmb.techidaily.com/da588ad139882f359e01e1480116ed64f1f64c7e5
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Check if you still have the freezing issue in Deathloop.
 
 If this does not resolve the problem, proceed to Fix 3\.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, you’re more likely to encounter the freezing issue in Deathloop. To fix it, make sure you have the latest drivers for your graphics card installed.
@@ -73,23 +79,14 @@ If this does not resolve the problem, proceed to Fix 3\.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your drivers, restart your PC and launch Deathloop to check if your problem is resolved.
 
 If the game still keeps freezing, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close background programs
 
  Too many programs running in the background will take up more sources and slow down your PC. You can free up your system resources by closing all the additional programs in the background. Here’s how:
@@ -102,6 +99,10 @@ If the game still keeps freezing, take a look at the next fix.
 
  If the freezing issue still occurs after closing all the background programs, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Switch to Performance Mode on PS5
 
  Some players reported that Deathloop has a smoother performance with Performance Mode selected on their PS5\. To set Performance Mode on your PS5, follow these steps:
@@ -110,9 +111,6 @@ If the game still keeps freezing, take a look at the next fix.
 2. Choose**Save Data and Game/App Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
@@ -120,8 +118,9 @@ If the game still keeps freezing, take a look at the next fix.
 If this method doesn’t do the trick, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Power cycle your PS5
 
  If you’re experiencing the issue of Deathloop keeps freezing on your PlayStation 5, you can try to power cycle your console. Here’s how:
@@ -129,6 +128,11 @@ If this method doesn’t do the trick, check out the last fix.
 1. Press and hold the**power button** on your controller.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
 4. Plug the power cable back in and turn the console back on by pressing the**power button** on your controller.
 
@@ -148,8 +152,6 @@ Check if the game freezes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +159,26 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-seamless-obs-integration-on-your-mac-a-detailed-walkthrough/"><u>[New] 2024 Approved Seamless OBS Integration on Your Mac A Detailed Walkthrough</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-harmony-hub-next-gen-unveiled-for-2024/"><u>[New] Harmony Hub Next Gen Unveiled for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ntdlldll-crash-issue-on-windows-1110/"><u>[SOLVED] | “ntdll.dll” Crash Issue on Windows 11/10</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-best-buy-top-10-gaming-gpus-for-high-quality-online-viewing-for-2024/"><u>[Updated] Best Buy Top 10 Gaming GPUs for High-Quality Online Viewing for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-crafting-a-cash-cascade-on-youtube-strategies-beyond-the-ad-model/"><u>[Updated] Crafting a Cash Cascade on YouTube Strategies Beyond the Ad Model</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-top-5-android-games-for-true-ps2-virtual-gaming-adventures/"><u>[Updated] Top 5 Android Games for True PS2 Virtual Gaming Adventures</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-cod-warzones-persistent-pacific-map-crash-problem/"><u>Expert Fixes for COD Warzone's Persistent Pacific Map Crash Problem</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/flip-the-narrative-ios-video-playback-upside-down-for-2024/"><u>Flip the Narrative IOS Video Playback Upside-Down for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/identifying-and-fixing-causes-of-sudden-decreases-in-frame-rate/"><u>Identifying & Fixing Causes of Sudden Decreases in Frame Rate</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-pixels-to-percussion-composing-visuals-in-video/"><u>In 2024, Pixels to Percussion Composing Visuals in Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-gaming-hurdles-diagnose-and-repair-v-risings-pc-performance-problems/"><u>Overcome Gaming Hurdles: Diagnose & Repair V Rising's PC Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/pathfinder-game-crash-woes-no-more-overcoming-recent-stability-glitches-in-wrath-of-the-righteous/"><u>Pathfinder Game Crash Woes No More: Overcoming Recent Stability Glitches in Wrath of the Righteous</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-warship-gaming-at-its-best-5-quick-fixes-to-prevent-wow-sea-battles-from-failing/"><u>PC Warship Gaming at Its Best: 5 Quick Fixes to Prevent WoW Sea Battles From Failing</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-nba-2k24-issue-quick-guide-to-fix-error-code-727e66ac/"><u>Resolve NBA 2K24 Issue: Quick Guide to Fix Error Code 727E66ac</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/simple-tricks-how-to-transform-your-f4v-files-into-mp4-format/"><u>Simple Tricks: How to Transform Your F4V Files Into MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-of-a-non-responsive-msi-dragoncenter-application/"><u>Solving the Issue of a Non-Responsive MSI DragonCenter Application</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-repair-for-non-responsive-logitec-c920-webcam/"><u>Step-by-Step Repair for Non-Responsive Logitec C920 Webcam</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-vivo-v29-pro-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Vivo V29 Pro FRP</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-translate-audiovideo-content-from-spanish-to-english-and-vice-versa/"><u>Updated How to Translate Audio/Video Content From Spanish to English and Vice Versa?</u></a></li>
+</ul></div>
 

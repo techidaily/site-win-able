@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-12-10T16:33:27.352Z
-updated: 2024-12-12T16:07:09.381Z
+date: 2024-12-15T18:21:42.062Z
+updated: 2024-12-19T17:00:12.850Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
@@ -91,6 +91,10 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -99,10 +103,6 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 **4)** Relaunch the game to test your issue.
 
 If your problem persists, then go ahead with the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
 
@@ -127,7 +127,7 @@ If your problem persists, then go ahead with the next fix below.
 If this didn’t work, try the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Lower your in-game settings
@@ -145,10 +145,6 @@ If this didn’t work, try the fix, below.
 **4)** Relaunch the game to see if this worked.
 
 If not, move on and try the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Increase virtual memory
 
@@ -168,9 +164,17 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-881.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
@@ -187,15 +191,15 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 **9)**  Restart your computer and your game.
 
  If the game crashing issue still exists, then go ahead with the next solution below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for Windows updates
 
@@ -209,13 +213,13 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DOOM Eternal
 
@@ -225,29 +229,25 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_12-34-56-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall DOOM.
 
@@ -274,24 +274,24 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/eciphering-adsense-profits-on-youtube-revenue-per-kv-watched-for-2024/"><u>[New] Deciphering AdSense Profits on YouTube Revenue per KV Watched for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-comprehensible-guide-to-updating-usernames-in-google-meet/"><u>[Updated] 2024 Approved Comprehensible Guide to Updating Usernames in Google Meet</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-gopros-improved-action-session-series/"><u>[Updated] GoPro's Improved Action Session Series</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-navigating-instagram-hashtags-maximizing-post-exposure-and-engagement/"><u>2024 Approved Navigating Instagram Hashtags Maximizing Post Exposure & Engagement</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-unraveling-the-magic-of-time-extension-in-reels/"><u>2024 Approved Unraveling the Magic of Time Extension in Reels</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/accelerating-expertise-in-social-media-strategies-with-reddit-guidance-for-2024/"><u>Accelerating Expertise in Social Media Strategies with Reddit Guidance for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006216317-beat-the-game-breaking-bugs-in-true-colors-your-ultimate-solution-inside/"><u>Beat the Game-Breaking Bugs in 'True Colors' - Your Ultimate Solution Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-solving-common-problems-with-non-functioning-phasmophobia-in-virtual-reality/"><u>Expert Tips on Solving Common Problems with Non-Functioning Phasmophobia in Virtual Reality</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/exploring-the-hidden-perils-a-comprehensive-guide-to-crypto-risks-by-yl-software/"><u>Exploring the Hidden Perils: A Comprehensive Guide to Crypto Risks by YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-ensure-successful-screen-recording-in-obs-studio/"><u>How to Ensure Successful Screen Recording in OBS Studio</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-smooth-gaming-in-battlegrounds-royale-pubg-when-it-freezes/"><u>How to Restore Smooth Gaming in Battlegrounds Royale (PUBG) When It Freezes</u></a></li>
-<li><a href="https://techtrends.techidaily.com/iyi-ozellikler-var-hi-techtir-ve-ucretsiz-movavinin-21-farkli-yenilenebilirusun-ip-kameralari/"><u>İyi Özellikler Var, Hi-Tech'tir Ve Ücretsiz: Movavi'nin 21 Farklı Yenilenebilirüşün IP Kameraları</u></a></li>
-<li><a href="https://win-able.techidaily.com/managing-and-reducing-chromes-memory-footprint-for-a-smoother-experience/"><u>Managing and Reducing Chrome's Memory Footprint for a Smoother Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-boot-problems-in-payday-2-a-comprehensive-guide/"><u>Overcoming PC Boot Problems in Payday 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolution-guide-fixing-the-nvidia-geforce-experience-e0x0003-error/"><u>Resolution Guide: Fixing the NVIDIA GeForce Experience E_0x0003 Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fix-for-nonfunctioning-discord-screen-capture-feature/"><u>Step-by-Step Fix for Nonfunctioning Discord Screen Capture Feature</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/the-ultimate-guide-to-recording-gaming-with-fraps-for-2024/"><u>The Ultimate Guide to Recording Gaming with Fraps for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-assassins-creed-syndicate-sequence-failure/"><u>Troubleshooting Guide: Solving 'Assassin's Creed Syndicate Sequence Failure'</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-top-10-online-tools-to-convert-images-to-videos/"><u>Updated In 2024, Top 10 Online Tools to Convert Images to Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-change-default-image-savings-in-os-x/"><u>[New] In 2024, Change Default Image Savings in OS X</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/p-by-step-journey-through-high-impact-youtube-banner-designs-for-2024/"><u>A Step-by-Step Journey Through High-Impact YouTube Banner Designs for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-your-raccoon-woes-in-resident-evil-village-expert-tips-to-correct-mouse-issues/"><u>Banish Your Raccoon Woes in Resident Evil Village – Expert Tips to Correct Mouse Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-prevent-days-gone-from-crashing-on-latest-systems-in-202n/"><u>Comprehensive Solutions to Prevent Days Gone From Crashing on Latest Systems in 202N</u></a></li>
+<li><a href="https://games-able.techidaily.com/controlling-xbox-game-bars-activity-stream-on-windows-11/"><u>Controlling Xbox Game Bar's Activity Stream on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-when-path-of-exile-wont-respond/"><u>Effective Fixes for When Path of Exile Won't Respond</u></a></li>
+<li><a href="https://win-able.techidaily.com/future-proof-gaming-anticipated-changes-to-rainbow-six-siege/"><u>Future-Proof Gaming: Anticipated Changes to Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-i-regained-access-overcoming-wow-server-connectivity-problems/"><u>How I Regained Access: Overcoming WoW Server Connectivity Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-to-enable-and-use-inbuilt-video-calling-apps-on-windows-devices/"><u>How to Enable and Use Inbuilt Video Calling Apps on Windows Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-steamvr-error-message-308-easily-and-quickly/"><u>How to Resolve SteamVR Error Message #308 Easily and Quickly</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-infinix-hot-30i-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Infinix Hot 30i Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mastering-youtube-shorts-a-step-by-step-creation-guide/"><u>In 2024, Mastering YouTube Shorts A Step-by-Step Creation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-xiaomi-13-ultra-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Xiaomi 13 Ultra Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/premium-audio-experience-leading-wired-earbuds/"><u>Premium Audio Experience: Leading Wired Earbuds</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-remedies-to-launch-and-load-palworld-without-a-glitch/"><u>Quick Remedies to Launch and Load Palworld Without a Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/red-dead-redemption-2-optimized-solutions-to-gameplay-lag-and-freezing-problems/"><u>Red Dead Redemption 2 Optimized: Solutions to Gameplay Lag and Freezing Problems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-and-repair-a-quick-fix-for-slow-keyboard-responses/"><u>Troubleshooting & Repair: A Quick Fix for Slow Keyboard Responses</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-gaming-issues-fix-crashes/"><u>Troubleshooting PC Gaming Issues: Fix Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/na-gif-ppm-movavi/"><u>오븐라이न에서 무세포 보각화 GIF – 풋로 이미지를 PPM로 전환하기: Movavi 사용자 가이드</u></a></li>
 </ul></div>
 

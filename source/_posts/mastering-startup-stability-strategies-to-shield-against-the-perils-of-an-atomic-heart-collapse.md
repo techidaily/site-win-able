@@ -1,7 +1,7 @@
 ---
 title: "Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'"
-date: 2024-12-08T16:24:10.842Z
-updated: 2024-12-12T16:52:02.205Z
+date: 2024-12-15T16:13:04.820Z
+updated: 2024-12-19T16:31:20.181Z
 tags:
   - win11
   - win10
@@ -36,7 +36,7 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
@@ -73,6 +73,10 @@ Marvel’s Guardians of the Galaxy system requirements
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -88,6 +92,10 @@ Marvel’s Guardians of the Galaxy system requirements
 2. **Right-click** on **Marvel’s Guardians of the Galaxy** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -105,6 +113,10 @@ If this issue persists, try the next fix, below.
 
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 5\. Disable overlays
 
  Overlays are handy. However, sometimes they would interfere with the game and even block the game files.
@@ -115,19 +127,15 @@ If this issue persists, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Temporarily disable anti-virus software
 
@@ -159,17 +167,13 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -179,29 +183,25 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
@@ -238,21 +238,20 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-how-to-effectively-move-files-between-two-ios-units-for-2024/"><u>[New] How to Effectively Move Files Between Two iOS Units for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-expert-advice-the-most-effective-ways-to-capture-your-virtual-sessions/"><u>[Updated] 2024 Approved Expert Advice The Most Effective Ways to Capture Your Virtual Sessions</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-high-definition-spectacle-our-top-7-camera-lineup/"><u>[Updated] High-Definition Spectacle Our Top 7 Camera Lineup</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-experts-insight-best-car-tracking-gadgets/"><u>2024 Approved Expert's Insight Best Car Tracking Gadgets</u></a></li>
-<li><a href="https://win-best.techidaily.com/como-transformar-videos-wmv-al-formato-de-audio-m4a-gratuitamente-con-herramientas-en-linea/"><u>Cómo Transformar Vídeos WMV Al Formato De Audio M4A Gratuitamente Con Herramientas en Línea</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-crashing-problems-with-lego-star-wars-the-skywalker-saga-on-pc/"><u>Expert Solutions to Overcome Crashing Problems with Lego Star Wars: The Skywalker Saga on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-snowrunner-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Stop SnowRunner From Continuously Crashing on Your PC</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-proportional-adjustments-online/"><u>In 2024, Mastering Proportional Adjustments Online</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-top-online-platforms-for-youtube-media-growth/"><u>In 2024, Top Online Platforms for YouTube Media Growth</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-oneplus-nord-3-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends OnePlus Nord 3 5G without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-quick-fixes-for-launch-problems-in-stardew-valley-steamxbox/"><u>Master the Quick Fixes for Launch Problems in Stardew Valley (Steam/Xbox)</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lag-times-cyberpunk-2077s-enhanced-responsiveness-fixes-revealed/"><u>Overcoming Lag Times: Cyberpunk 2077'S Enhanced Responsiveness Fixes Revealed</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-5-launching-problems-on-pc-how-to-resolve-them-effectively/"><u>Resident Evil #5 Launching Problems on PC - How to Resolve Them Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/slay-game-breaking-glitches-a-comprehensive-guide-to-addressing-witcher-3-crashes-on-pc/"><u>Slay Game-Breaking Glitches - A Comprehensive Guide to Addressing Witcher 3 Crashes on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gaming-awaits-resolving-dauntless-crashes-and-glitches-on-your-computer/"><u>Smooth Gaming Awaits: Resolving Dauntless Crashes and Glitches on Your Computer</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-how-to-for-keeping-your-windows-computers-motherboard-drivers-current-and-efficient/"><u>The Ultimate How-To for Keeping Your Windows Computer's Motherboard Drivers Current and Efficient</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-master-fades-with-ease-4-methods-unveiled/"><u>[New] 2024 Approved Master Fades with Ease 4 Methods Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-looms-labyrinth-navigating-screen-record-art/"><u>[Updated] 2024 Approved Loom's Labyrinth Navigating Screen Record Art</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-12-step-youtube-seo-guide-for-beginners-who-want-more-views/"><u>[Updated] The 12-Step YouTube SEO Guide for Beginners Who Want More Views</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/enhancing-gopro-footage-minimizing-motion-blur-for-2024/"><u>Enhancing GoPro Footage Minimizing Motion Blur for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/everlasting-cycle-of-rebirth-strategies-for-the-black-communitys-endurance/"><u>Everlasting Cycle of Rebirth: Strategies for the Black Community's Endurance</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-the-silent-bluetooth-connection-solutions-that-work/"><u>Fixing the Silent Bluetooth Connection: Solutions That Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-regaining-access-after-losing-connection-with-a-blizzard-game-server/"><u>Guide to Regaining Access After Losing Connection with a Blizzard Game Server</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-compact-mobile-smoothie-recorder-gadget/"><u>In 2024, Compact Mobile Smoothie Recorder Gadget</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-web-archival-a-step-by-step-guide-to-using-the-wayback-machine/"><u>Mastering Web Archival: A Step-by-Step Guide to Using the Wayback Machine</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-pressure-cooker2-not-opening-diagnose-and-repair-your-gaming-setup/"><u>Modern Warfare Pressure Cooker2 Not Opening - Diagnose and Repair Your Gaming Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-preventing-f1-202n-from-freezing-during-your-race/"><u>Solved! Preventing F1 202N From Freezing During Your Race</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-guide-for-preventing-risk-of-rain-2-disruptions/"><u>The Ultimate Fix Guide for Preventing Risk of Rain ^2 Disruptions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-7-artificial-intelligence-techniques-employed-by-fraudsters-in-love-deceptions/"><u>Top 7 Artificial Intelligence Techniques Employed by Fraudsters in Love Deceptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-persistent-launch-issues-in-world-of-tanks-blitz/"><u>Understanding & Resolving Persistent Launch Issues in World of Tanks Blitz</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-transform-your-gopro-clips-a-comprehensive-mac-editing-tutorial/"><u>Updated In 2024, Transform Your GoPro Clips A Comprehensive Mac Editing Tutorial</u></a></li>
 </ul></div>
 

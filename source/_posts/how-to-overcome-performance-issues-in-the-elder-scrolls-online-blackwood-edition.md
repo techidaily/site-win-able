@@ -1,7 +1,7 @@
 ---
 title: "How to Overcome Performance Issues in The Elder Scrolls Online: Blackwood Edition"
-date: 2024-08-27T20:31:29.687Z
-updated: 2024-08-28T20:31:29.687Z
+date: 2024-12-13T19:44:47.254Z
+updated: 2024-12-19T16:00:00.272Z
 tags:
   - win11
   - win10
@@ -45,9 +45,6 @@ If you’ve already done these, go ahead with the fixes below.
 1. **Unplug** the modem and router from the power outlet.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/modem-1.jpg)  
  modem  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/router.jpg)  
  router
 2. **Wait** for one minute.
@@ -57,9 +54,6 @@ If you’ve already done these, go ahead with the fixes below.
 
 If not, check out more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  Some programs need administrator rights to function properly. To ensure Madden 22 works properly, you can run the game as an administrator. Here’s how:
@@ -67,7 +61,16 @@ If not, check out more fixes below.
 1. On your desktop, right-click Madden NFL 22 icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-this-program-as-admin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can repeat the steps above to run Steam or Origin client as an administrator. Then test if the game loads successfully.
 
@@ -82,9 +85,6 @@ If not, check out more fixes below.
 1. Go to your Steam**LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library.jpg)
 2. Right-click Madden NFL 22 and select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab, then click**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-verify-game-files.jpg)
@@ -95,21 +95,22 @@ If not, check out more fixes below.
 1. Select**My Game Library** in Origin.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-my-game-library.jpg)
 2. Right-click Madden NFL 22 and select**Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-repair.jpg)
 3. Origin will check your game’s installation and then automatically download any replacement or missing files.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  Once done, run Madden 22 again to check if the game is still stuck on the loading screen.
 
 If the issue persists, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your network driver
 
  Being stuck on the loading screen could indicate that you have a poor connection, which can be caused by a broken or outdated network driver. To fix this issue, you need to make sure you’re using the latest network driver.
@@ -122,15 +123,13 @@ The powerful video editing program for your Windows PC</a>
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
  After updating your network driver, restart your computer and try relaunching Madden 22 to see if it does load without issue now.
@@ -146,44 +145,33 @@ If the issue remains, try the next fix.
 2. Under Advanced network settings, click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
 3. Right-click your current network and select**Properties** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-properties.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/IPV4-properties.jpg)
 5. Select**Use the following DNS server addresses** . For**Preferred DNS server** , type**8.8.8.8** ; and for**Alternate DNS server** , type**8.8.4.4** . Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/8888-8844.jpg)
 6. Next, you need to clear the DNS cache for the changes to apply. On your keyboard, press the**Windows logo key** and type**cmd** in the search bar. Select**Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-ipconfig-flushdns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Try relaunching Madden 22 and see if it does load without issue now.
 
 If this fix doesn’t work for you, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Delete game data on Xbox
 
  For Xbox players, if you’re stuck on the loading screen when launching madden 22, you can try to fix this issue by deleting saved game data. Since this cannot be undone, it is highly recommended that you back up your saved game data to online storage before deleting it. Here’s how:
@@ -191,24 +179,18 @@ If this fix doesn’t work for you, proceed to the next one.
 1. On Xbox Home, select **My games & apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/my-games-apps.jpg)
 2. Highlight Madden NFL 22, press the **Menu** button on your controller, then select **Manage game & add-ons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-game-add-ones.jpg)
 3. Select the **Saved data**  box, then choose the item you want to delete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/xbox-saved-data.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Try launching Madden 22 again to check if it can load normally.
 
 If not, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  A clean boot can cut down the number of applications that run when you start your computer. This can help you to identify if there are any conflicts between Madden 22 and another program. Here’s how:
@@ -216,13 +198,15 @@ If not, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In the System Configuration window, navigate to the**Services** tab and check the box to**Hide all Microsoft Services** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
@@ -256,8 +240,6 @@ If not, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -265,4 +247,19 @@ If not, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-fixing-obscured-content-on-youtube-platform/"><u>[New] 2024 Approved Fixing Obscured Content on YouTube Platform</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-quick-clicks-to-creative-mosaics-with-google-imagery-for-2024/"><u>[Updated] Quick Clicks to Creative Mosaics with Google Imagery for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/choosing-prime-windows-11-editing-software/"><u>Choosing Prime Windows 11 Editing Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-stops-working-fixing-game-crashes-and-unexpected-closures-quickly/"><u>COD Modern Warfare 3 Stops Working: Fixing Game Crashes and Unexpected Closures Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-thaw-cycles/"><u>Freeze-Thaw Cycles:</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-4-ways-to-transfer-contacts-from-apple-iphone-se-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 4 Ways to Transfer Contacts from Apple iPhone SE to iPhone Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-network-delays-and-connectivity-errors-in-new-world-effective-solutions/"><u>Overcoming Network Delays and Connectivity Errors in 'New World': Effective Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/revolutionize-your-work-routine-the-power-of-chatgpt-in-increasing-efficiency/"><u>Revolutionize Your Work Routine: The Power of ChatGPT in Increasing Efficiency</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-zero-x-eight-oh-three-one-f-error-in-microsoft-written-word/"><u>Taming Zero X Eight Oh Three One F Error in Microsoft' Written Word</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/top-10-instagram-grid-makers-to-create-visually-appealing-grids-for-2024/"><u>Top 10 Instagram Grid Makers to Create Visually Appealing Grids for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-reactivating-spatial-audio-in-your-windows-10-or-11-system/"><u>Troubleshooting Guide: Reactivating Spatial Audio in Your Windows 10 or 11 System</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-play-diablo-immortal-on-my-computer-insights-and-expectations/"><u>Why Can't I Play Diablo Immortal on My Computer? Insights & Expectations</u></a></li>
+</ul></div>
 

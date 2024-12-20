@@ -1,7 +1,7 @@
 ---
 title: Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks
-date: 2024-08-27T20:30:13.648Z
-updated: 2024-08-28T20:30:13.648Z
+date: 2024-12-17T16:19:48.652Z
+updated: 2024-12-19T17:29:55.940Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -72,17 +69,15 @@ thumbnail: https://thmb.techidaily.com/d2645cac902b58a500f2b96d93b9bed8c46b609d2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -91,9 +86,17 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In**Window Mode** , click and change to another mode.
 
@@ -106,10 +109,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -120,9 +119,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 6) Restart your computer.
@@ -140,25 +136,28 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
 
@@ -178,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +184,22 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-superior-capture-software-for-mac-excluding-bandicam/"><u>[New] In 2024, Superior Capture Software for Mac, Excluding Bandicam</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-modern-warfare-2-not-launching/"><u>[SOLVED] Modern Warfare 2 Not Launching</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-warframe-keeps-freezing/"><u>[SOLVED] Warframe Keeps Freezing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-recalibrating-youtube-rearranging-with-ease-and-speed/"><u>[Updated] 2024 Approved Recalibrating YouTube Rearranging with Ease and Speed</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-gopro-hero5-session-review/"><u>2024 Approved GoPro Hero5 Session Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/clear-up-your-connection-eliminating-content-warning-errors-in-voice-chatting/"><u>Clear Up Your Connection: Eliminating Content Warning Errors in Voice Chatting</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/essential-painters-companion-discovering-the-best-4-apps-for-wall-makeovers/"><u>Essential Painter's Companion: Discovering the Best 4 Apps for Wall Makeovers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-errors-in-rainbow-six-extraction-overcoming-driverhardware-conflicts/"><u>Fixing Errors in Rainbow Six Extraction - Overcoming Driver/Hardware Conflicts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-perpetual-load-how-to-overcome-robloxs-endless-boot/"><u>Fixing the Perpetual Load: How to Overcome Roblox's Endless Boot</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-motorola-moto-g14-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Motorola Moto G14 and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/metro-exodus-on-pc-effective-solutions-to-overcome-game-crashes/"><u>Metro Exodus on PC: Effective Solutions to Overcome Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/starfield-on-pc-now-smooth-sailing-after-fixing-freezing-and-crash-bugs/"><u>Starfield on PC Now Smooth Sailing After Fixing Freezing & Crash Bugs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/step-by-step-obs-configuration-for-smooth-broadcasting-for-2024/"><u>Step-By-Step OBS Configuration for Smooth Broadcasting for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-dynamic-duo-effect-inside-the-successful-release-of-it-takes-two/"><u>The Dynamic Duo Effect: Inside the Successful Release of 'It Takes Two'</u></a></li>
+</ul></div>
 

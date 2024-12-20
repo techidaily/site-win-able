@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions for Constant 'Age of Wonders: Planetfall' Crashes on PC"
-date: 2024-08-27T20:30:45.206Z
-updated: 2024-08-28T20:30:45.206Z
+date: 2024-12-13T18:56:14.597Z
+updated: 2024-12-19T18:38:01.941Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  Many gamers have been reporting the**Memory Error 0-1766 on COD Warzone** lately, mostly on Xbox and PC. Players are experiencing**endless game crashes** or**being kicked out of the game** a couple of times a day. If you’re in the same boat, no worries. We’ve put together some working fixes and will walk you through the steps in this article.
 
  You may also like…[ \[SOLVED\] Warzone Not Launching](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -41,6 +45,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  Before we dive into anything advanced, make sure you’ve tried to re-launch Warzone, and restart your Xbox/PC to see if the error is gone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection (Xbox & PC)
 
  A quick fix you can try for both Xbox and PC is to check your Internet connection. Low latency issues seem to have caused the Memory Error 0-1766 for some players, so you should check your Internet connection first as well. Here’s a few things you can do:
@@ -52,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  If your Internet connection is solid but you still get the Memory Error 0-1766 on Warzone, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Close running games and apps (Xbox & PC)
 
  If a few games and apps running in the background, your Xbox or PC won’t be able to let Warzone use all the resources and run smoother. Also background programs could interfere with Warzone, causing the Memory Error 0-1766\. Below is how to close the games and apps running in the background:
@@ -66,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 3. Select**Quit** .
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On PC
 
 1. Right-click your taskbar, then click**Task Manager** .  
@@ -76,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
  Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  If this doesn’t resolve the Memory Error 0-1766 for you, try the fixes for Xbox below, or jump to the[fixes for PC players](https://tools.techidaily.com/drivereasy/download/) .
 
 ## Fix 3: Adjust display settings (Xbox)
@@ -96,9 +99,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  If you still get the Memory Error 0-1766 after adjusting the display settings on your Xbox console, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Clear Mac address (Xbox)
 
  Clearing your Mac address gives a fresh reboot on your Xbox, and it’s likely to resolve the Memory Error 0-1766 on Warzone. The steps are quite easy, below is how:
@@ -109,8 +109,9 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 4. **Clear the Alternate Mac Address** . Your Xbox console should restart.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Verify and repair your game files (PC)
 
  If you’re getting the COD Warzone Memory Error 0-1766 on PC, a quick fix you can try is to verify your game files. Damaged game files could cause the error, but you can do a quick scan and repair within the Battle.net app. Here’s how:
@@ -119,9 +120,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 2. Click the**gear-shaped icon** , then click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-22_10-38-31-1.jpg)
 3. Wait for the scan to complete, then re-launch Warzone to test if the error is resolved.
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If you’ve been accessing Warzone from Modern Warfare, you’ll need to go to the Modern Warfare page and do as Step 2 above instructs.
 
@@ -138,6 +136,11 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Move to the**Startup** tab, and click**Open Task Manager** .  
  (Windows 7 users: right-click an empty area on your taskbar to find the option of task manager.)  
@@ -145,9 +148,6 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If the Memory Error 0-1766 is now gone, this means at least one of the programs you disabled was causing the problem.  
   
@@ -168,20 +168,20 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Move to the**Startup** tab, and**enable the first five startup items** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Warzone to test if the error is resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with Warzone and causing Memory Error 0-1766.
 5. Disable the problem program and reboot your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tip: Update the graphics driver on your PC
 
  If you run into other game errors or experiencing game crashes when your play Warzone on PC, you may need to update your graphics driver. A faulty or outdated graphics driver could cause a lot of problems and lead to game errors, so you need to make sure yours is up-to-date and functioning properly.
@@ -201,6 +201,10 @@ thumbnail: https://thmb.techidaily.com/7dc3990d7127eb4697b62478b58e508110f384615
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -222,8 +226,6 @@ Make sure to restart your PC for the new driver to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +233,21 @@ Make sure to restart your PC for the new driver to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-dimension-dilemma-in-videos-insight-into-imovie-trimming/"><u>[New] Dimension Dilemma in Videos Insight Into iMovie Trimming</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-revolutionary-wearable-camera-tech/"><u>[New] Revolutionary Wearable Camera Tech</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-innovative-approaches-to-youtube-teaser-trailblazing/"><u>[Updated] 2024 Approved Innovative Approaches to YouTube Teaser Trailblazing</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-bug-solving-apex-legends-loading-issues-fast/"><u>Bypass the Bug: Solving Apex Legends Loading Issues Fast</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-unforgettable-experiences-for-more-subscribers-with-these-6-tips/"><u>Craft Unforgettable Experiences for More Subscribers with These 6 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-assassins-creed-valhalla-lag-and-hitches/"><u>Expert Advice: Resolving Assassin's Creed Valhalla Lag and Hitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/learn-to-effortlessly-utilize-microsoft-copilot-with-your-mac/"><u>Learn to Effortlessly Utilize Microsoft Copilot with Your Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-precious-memories-expert-iphone-data-recovery-options-available-now/"><u>Secure Your Precious Memories: Expert iPhone Data Recovery Options Available Now</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/simple-steps-transferring-your-mkv-videos-into-mov-format-compatible-with-ios-and-macos-devices/"><u>Simple Steps: Transferring Your MKV Videos Into MOV Format Compatible with iOS and macOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-pc-game-crashes-for-sword-and-fairy-vii-a-comprehensive-guide/"><u>Solved! Overcoming PC Game Crashes for Sword and Fairy VII – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-of-constant-minecraft-game-crashes-a-six-step-guide/"><u>Solving the Issue of Constant Minecraft Game Crashes: A Six-Step Guide</u></a></li>
+</ul></div>
 

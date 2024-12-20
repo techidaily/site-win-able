@@ -1,7 +1,7 @@
 ---
 title: "Stop PC Fails in Elex II: Comprehensive Solutions and Hacks"
-date: 2024-08-23T11:31:02.099Z
-updated: 2024-08-24T11:31:02.099Z
+date: 2024-12-18T19:29:29.402Z
+updated: 2024-12-19T16:49:15.682Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-1-1024x532.jpg)
 
  **Get infinite loading circle when you launch Apex Legends? Don’t worry when Apex Legends not loading…** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,9 +49,17 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
@@ -79,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Flush your DNS
 
  Flushing your DNS is another fix that may help you resolve this issue. If you don’t know how to do it, you can follow the steps below:
@@ -92,8 +108,9 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -112,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
@@ -122,9 +136,6 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -135,16 +146,10 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
 ### Fix 6: Play with VPN
@@ -168,26 +173,25 @@ thumbnail: https://thmb.techidaily.com/795b74ea54cc5678eb54323c8f0f4911a2d522641
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -210,8 +214,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -219,4 +221,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-compensated-analysis-the-vlog-perspective-on-goods/"><u>[Updated] 2024 Approved Compensated Analysis The Vlog Perspective on Goods?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-full-assessment-experiencing-the-world-in-360-with-samsung/"><u>[Updated] In 2024, Full Assessment Experiencing the World in 360° with Samsung</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-youtube-revenue-breakdown-cpm-insights/"><u>[Updated] YouTube Revenue Breakdown CPM Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-user-friendly-guide-to-leveraging-windows-10-and-zoom/"><u>A User-Friendly Guide to Leveraging Windows 10 and Zoom</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elevating-digital-portraits-with-acoustic-accents/"><u>Elevating Digital Portraits with Acoustic Accents</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/enhance-team-collaboration-through-effective-microsoft-teams-snap-practices/"><u>Enhance Team Collaboration Through Effective Microsoft Teams Snap Practices</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722960197765-get-the-latest-lenovo-monitor-driver-software-here/"><u>Get the Latest Lenovo Monitor Driver Software Here!</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a78-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo A78 Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://win-able.techidaily.com/r-type-final-solved-diagnosing-and-repairing-pc-malfunctions-during-play/"><u>R-Type Final [SOLVED]: Diagnosing and Repairing PC Malfunctions During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-rainbow-six-extraction-pc-game-crashes/"><u>Resolved: Fixing Rainbow Six Extraction PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-mordhau-game-crash-problem-a-step-by-step-guide/"><u>Resolving the Mordhau Game Crash Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-eliminating-stuttering-and-enhancing-flow-in-mass-effect-series/"><u>Solved: Eliminating Stuttering and Enhancing Flow in Mass Effect Series</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-bgiii-start-up-woes-ready-to-begin-your-epic-journey/"><u>Solving BGIII Start-Up Woes - Ready to Begin Your Epic Journey?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010996234-total-war-warhammer-ii-crashes-top-5-solutions-to-try-now/"><u>Total War: Warhammer II Crashes – Top 5 Solutions to Try Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-far-cry-6-not-launching-issue-for-pc-gamers/"><u>Troubleshoot and Resolve Far Cry 6 Not Launching Issue for PC Gamers</u></a></li>
+</ul></div>
 

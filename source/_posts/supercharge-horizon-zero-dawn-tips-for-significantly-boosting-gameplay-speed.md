@@ -1,7 +1,7 @@
 ---
 title: Supercharge Horizon Zero Dawn! Tips for Significantly Boosting Gameplay Speed
-date: 2024-08-27T20:32:19.583Z
-updated: 2024-08-28T20:32:19.583Z
+date: 2024-12-13T18:58:12.339Z
+updated: 2024-12-19T16:17:05.435Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1c433afae0f8c316ba83d724b6e1d85b8ae483fb3
 ## Speedy Solutions: Boost Your Elden Ring Gameplay with These Fast-Fixes for FPS Dips
 
 As one of the most awaited games in 2022, Elden Ring is finally here. However many players are not that happy with their gameplay. Various types of performance issues and technical bugs have been reported since the release. If you’re also experiencing**insufferable Elden Ring FPS drops and constant stuttering** , don’t worry. In this post, we’ve put together all the simple and quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -51,9 +55,6 @@ To keep your graphics driver up-to-date, here are two options for you:
 
  After the driver update, relaunch the game to see how it works. If the problem persists, there are more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Optimize graphics settings
 
  If you’re using a laptop or multi-GPU system, make sure the dedicated GPU is properly utilized. If not, you’ll see huge FPS drops and it’s better to tweak the settings for maximum performance
@@ -61,17 +62,16 @@ To keep your graphics driver up-to-date, here are two options for you:
 1. In the Windows search box, type**graphics settings** and select**Graphics settings** from the result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings-1.jpg)
 2. Click**Desktop app** from the drop-down list and click**Browse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dedicated-gpu-3.jpg)
 3. Go to the game’s installation folder and add the**eldenring.exe file** .
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 4. Once it’s added, click it and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/graphics-settings-1.jpg)
 5. Select**High performance** and click**Save** .
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this method doesn’t work, try the next solution.
 
@@ -82,12 +82,18 @@ If this method doesn’t work, try the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Elden Ring** from the game list and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Select**LOCAL FILES** and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take a while for Steam to scan and repair the game files, which will replace the wrong files with those from the official server. Now check if you get smoother gameplay. If not, try the next fix below.
 
@@ -98,18 +104,21 @@ If this method doesn’t work, try the next solution.
 1. Open Steam and click**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click Elden Ring and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1-1.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Restart the game and test. Still no luck? Continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Disable Microsoft Device Association Root Enumerator
 
  Some players also reported that disabling Microsoft Device Association Root Enumerator resolves the stuttering dramatically. Disabling this device may stop some part of the device driver from installing, but your computer will work normally for the most part.
@@ -117,13 +126,20 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-1.jpg)
 2. Double-click**Software devices** to open the category.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-1.jpg)
 3. Right-click**Microsoft Device Association Root Enumerator** and click**Disable device** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-2.jpg)
 4. Click**Yes** to confirm.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/device-manager-3.jpg)
 
  Test if you has an instant FPS boost. If so, you can enable the device again while you’re not playing the game. If the issue reoccurs, turn the device on and then take a look at the last fix.
@@ -135,20 +151,14 @@ Restart the game and test. Still no luck? Continue to the next fix.
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 2. Click **3D settings** \> **Manage 3D settings** in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 3. Under the**Global Settings** tab, scroll through the list to find**Shader Cache Size** and set it to**Unlimited** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/nvidia-setting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Apply the changes and see if you’re able to play the game as expected.
 
 ---
@@ -164,8 +174,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +181,23 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/astering-makeup-tutorials-launching-your-glam-vlog/"><u>[New] Mastering Makeup Tutorials Launching Your Glam Vlog</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-securing-sound-speed-increase-in-the-digital-world-of-spotify-for-2024/"><u>[Updated] Securing Sound Speed Increase in the Digital World of Spotify for 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/activating-customizable-rgb-in-windows-11-os/"><u>Activating Customizable RGB in Windows 11 OS</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-for-the-frequent-problem-of-fuser-applications-crashing-on-desktops/"><u>Expert Fixes for the Frequent Problem of Fuser Applications Crashing on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723003879892-fix-your-quick-fixes-how-to-stop-titanfall-2-from-crashing-instantly/"><u>Fix Your [Quick Fixes]: How To Stop Titanfall 2 From Crashing Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-flight-simulator-2020-when-its-frozen-at-update-prompt/"><u>How to Fix Microsoft Flight Simulator 2020 When It's Frozen at Update Prompt</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-out-of-video-memory-error-in-fortnite-complete-solution/"><u>How to Fix the 'Out of Video Memory' Error in Fortnite - Complete Solution</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide/"><u>In 2024, Crafting Effective In-Stream Ad Campaigns on Facebook A Comprehensive Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo A78 5G? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-investing-in-a-blu-ray-disc-player-worth-it/"><u>Is Investing in a Blu-Ray Disc Player Worth It?</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/onedrive-introduces-offline-functionality-for-seamless-file-editing-in-isolated-locations-digital-innovation-today/"><u>OneDrive Introduces Offline Functionality for Seamless File Editing in Isolated Locations | Digital Innovation Today</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/os-melhores-10-softwares-de-graca-para-a-reproducao-e-conversao-de-discos-opticos/"><u>Os Melhores 10 Softwares De Graça Para a Reprodução E Conversão De Discos Ópticos</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-computer-keep-getting-content-warning-errors-and-how-to-stop-them/"><u>Solving the Issue: Why Does My Computer Keep Getting 'Content Warning' Errors and How to Stop Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-windows-pc-issues-fixes-for-crackdown-3-freezing-problems/"><u>Solving Windows PC Issues: Fixes for 'Crackdown 3' Freezing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-continuous-play-of-fallout-3-on-windows-11-machines/"><u>Troubleshooting Tips for Continuous Play of Fallout 3 on Windows 11 Machines</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722853570262-unveiling-the-samsung-galaxy-s2n-prospective-price-points-debut-date-and-specs-revealed/"><u>Unveiling the Samsung Galaxy S2n: Prospective Price Points, Debut Date & Specs Revealed</u></a></li>
+</ul></div>
 

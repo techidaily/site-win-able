@@ -1,7 +1,7 @@
 ---
 title: Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back!
-date: 2024-12-07T16:41:56.366Z
-updated: 2024-12-12T16:34:19.246Z
+date: 2024-12-12T19:20:45.607Z
+updated: 2024-12-19T19:42:43.494Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -52,17 +48,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -79,16 +67,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
@@ -107,14 +99,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -147,13 +139,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -165,6 +161,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
@@ -194,22 +194,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-night-mode-magic-with-iphone-cameras/"><u>[New] Night Mode Magic with iPhone Cameras</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/outube-premium-subscription-should-you-get-one/"><u>[New] YouTube Premium Subscription - Should You Get One?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-which-gopro-is-better-max-360-or-hero-11/"><u>2024 Approved Which GoPro Is Better, Max 360 or Hero 11?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/are-you-having-trouble-with-microsoft-teams-heres-how-to-tell/"><u>Are You Having Trouble with Microsoft Teams? Here's How to Tell.</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-shadowplay-recording-glitches-in-windows-environments/"><u>Effective Solutions for Resolving Shadowplay Recording Glitches in Windows Environments</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-eliminate-frame-drops-and-visual-hitches-in-warzone/"><u>How to Eliminate Frame Drops and Visual Hitches in Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-game-stutter-and-freezes-in-no-rest-for-the-wicked-a-step-by-step-approach/"><u>How To Overcome Game Stutter and Freezes in 'No Rest for the Wicked': A Step-by-Step Approach</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-patch-ensuring-seamless-wow-playtime-on-pcs/"><u>Mastering the Patch: Ensuring Seamless WoW Playtime on PCs</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/maximizing-impact-the-best-instagram-hashtag-list/"><u>Maximizing Impact The Best Instagram Hashtag List</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-2024-approved-what-is-an-ai-script-generator/"><u>New 2024 Approved What Is an AI Script Generator?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/online-aiff-en-avi-converter-met-geen-kosten-meester-van-movavi-konvertieringssoftware/"><u>Online AIFF en AVI-Converter Met Geen Kosten - Meester Van Movavi Konvertieringssoftware</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-your-games-effective-ways-to-address-and-prevent-frames-per-second-dips-on-pc/"><u>Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-for-unending-anthem-startup-no-more-loading-frustration/"><u>Solution for Unending Anthem Startup: No More Loading Frustration</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-update-your-minecraft-graphics-driver-to-resolve-outdated-notifications/"><u>Step-by-Step Guide: Update Your Minecraft Graphics Driver to Resolve 'Outdated' Notifications</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-addressing-and-repairing-acrocefexe-error-messages/"><u>The Ultimate Guide: Addressing and Repairing acroCEF.exe Error Messages</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-4-groundbreaking-ios-16-enhancements-justifying-the-shift-from-your-older-iphone-expert-insights/"><u>Top 4 Groundbreaking iOS 16 Enhancements Justifying the Shift From Your Older iPhone: Expert Insights</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/ultimate-fix-for-assassins-creed-odyssey-pc-stalling-problems/"><u>Ultimate Fix for Assassin's Creed Odyssey PC Stalling Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-navigating-virtual-conversations-a-google-meet-handbook-for-2024/"><u>[New] Navigating Virtual Conversations A Google Meet Handbook for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-mobile-mastery-using-phone-as-a-camera-for-recording/"><u>[Updated] Mobile Mastery Using Phone as a Camera for Recording</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/1721268226249-discover-how-cookiebot-enhances-user-experience-and-conversion-rates/"><u>Discover How Cookiebot Enhances User Experience & Conversion Rates.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-fixes-for-your-stubborn-usb-to-hdmi-connection-problems/"><u>Expert Fixes for Your Stubborn USB to HDMI Connection Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-realme-12-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Realme 12 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-smooth-playthroughs-fixing-overwatchs-stuttering-performance-problems/"><u>Mastering Smooth Playthroughs: Fixing Overwatch's Stuttering Performance Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-glitches-in-call-of-duty-black-ops-cold-war-fixing-tips-and-solutions/"><u>Overcoming Freezing Glitches in Call of Duty: Black Ops Cold War - Fixing Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-hurdles-in-gears-5-tactics-to-stop-unexpected-game-shutdowns/"><u>Overcoming Technical Hurdles in Gears 5: Tactics to Stop Unexpected Game Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-persistent-problem-of-outlook-freezing-or-crashing/"><u>Understanding and Solving the Persistent Problem of Outlook Freezing or Crashing</u></a></li>
 </ul></div>
 

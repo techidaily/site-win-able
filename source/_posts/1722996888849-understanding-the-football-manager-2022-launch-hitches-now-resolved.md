@@ -1,7 +1,7 @@
 ---
 title: Understanding the Football Manager 2022 Launch Hitches - Now Resolved
-date: 2024-08-27T20:30:34.343Z
-updated: 2024-08-28T20:30:34.343Z
+date: 2024-12-13T19:08:15.497Z
+updated: 2024-12-19T17:00:30.125Z
 tags:
   - win11
   - win10
@@ -36,9 +36,6 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2\. Add an exception to your antivirus
 
  Antivirus is known to interfere with Football Manager 2022 and most of your Steam games. To make sure you can run your game, make sure you have added Football Manager 2022 as an exception to your antivirus software.
@@ -52,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -68,14 +66,19 @@ thumbnail: https://thmb.techidaily.com/086d7c930c164ea9d01018f76fb536ddc6879aa44
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4\. Verify the integrity of game files
 
  Football Manager 2022 not launching can be caused by corrupt or missing game files. In that case, you can perform an integrity check to solve this issue. Here’s how:
@@ -89,13 +92,15 @@ After updating your drivers, restart your PC and test the gameplay.
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Once complete, launch the game to check if your game is working again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Delete the Caches and Preferences folder
 
  According to some Football Manager 2022 players, you can delete certain game files and restart the game to fix the launch issue. Here’s how:
@@ -106,10 +111,11 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
 
@@ -123,7 +129,15 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Locate the game’s executable and run the game as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
 
@@ -132,15 +146,9 @@ Once complete, launch the game to check if your game is working again.
  1) Right-click on Football Manager 2021 and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) In the **GENERAL** tab, uncheck **Enable the Steam Overlay while in-game** and type **\-windowed** under **LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
 ### Fix 8\. Repair your system files
@@ -185,9 +193,6 @@ Once complete, launch the game to check if your game is working again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -198,9 +203,6 @@ sfc /scannow
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -249,8 +251,6 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +258,21 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-creating-an-athletic-channel-on-apple-hardware/"><u>[New] 2024 Approved Creating an Athletic Channel on Apple Hardware</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ow-to-address-and-overcome-a-youtube-content-id-issue/"><u>[New] How to Address and Overcome a YouTube Content ID Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-user-testimonials-and-reviews-on-the-lg-bp350-monitor/"><u>[New] User Testimonials and Reviews on the LG BP350 Monitor</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-brand-makeover-made-easy-revel-in-our-array-of-over-50-free-online-promotional-artwork/"><u>[Updated] In 2024, Brand Makeover Made Easy Revel in Our Array of over 50 Free Online Promotional Artwork</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ideal-microphones-for-precision-in-4k-video-and-sound-recording/"><u>2024 Approved Ideal Microphones for Precision in 4K Video & Sound Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-twofold-decline-in-frames-per-second-fps-on-personal-computers/"><u>Battling Twofold Decline in Frames Per Second (FPS) on Personal Computers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/co-pilot-revolutionizing-chatgpt-features-and-capabilities-explored/"><u>Co-Pilot Revolutionizing ChatGPT: Features and Capabilities Explored</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-video-promo-tips-for-startups-infographic-for-2024/"><u>Essential Video Promo Tips for Startups (Infographic) for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-top-5-cost-effective-fitness-trackers-for-gamers/"><u>In 2024, Top 5 Cost-Effective Fitness Trackers (For Gamers)</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-frustration-fixing-persistent-game-crashes-in-warzone-20-on-desktop-pcs/"><u>Overcoming the Frustration: Fixing Persistent Game-Crashes in Warzone 2.0 on Desktop PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-call-of-duty-vanguard-unfreeze-gameplay-guide/"><u>Resolving Issues with Call of Duty: Vanguard - Unfreeze Gameplay Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-next-gen-iphone-released-in-teasers-pricing-arrival-dates-and-speculations-on-its-advances/"><u>The Next-Gen iPhone Released in Teasers: Pricing, Arrival Dates and Speculations on Its Advances!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-avatamadet-performance-hiccups-on-the-frontiers-of-pandora-fix-low-fps-and-eradicate-stuttering/"><u>Troubleshooting 'Avatamadet:' Performance Hiccups on the Frontiers of Pandora: Fix Low FPS and Eradicate Stuttering</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-excessive-cpu-usage-during-cyberpunk-nk2077-gaming-sessions/"><u>Troubleshooting Excessive CPU Usage During Cyberpunk Nk2077 Gaming Sessions</u></a></li>
+</ul></div>
 

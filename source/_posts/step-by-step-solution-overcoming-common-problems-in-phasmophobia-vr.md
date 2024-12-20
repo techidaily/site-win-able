@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solution: Overcoming Common Problems in Phasmophobia VR"
-date: 2024-08-27T20:32:37.470Z
-updated: 2024-08-28T20:32:37.470Z
+date: 2024-12-13T16:45:05.746Z
+updated: 2024-12-19T19:09:58.229Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 * [Disable all overlays](https://tools.techidaily.com/drivereasy/download/)
 * [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Run the game as administrator
 
  It’s very likely that Nioh 2 crashing is caused by a lack of administrative rights. Running your game/ game launcher as admin is the first method you should try when your game crashes or not fails to launch. Here’s how:
@@ -50,8 +54,9 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Shut down all unnecessary apps
 
  In case other apps are interfering with Nioh 2, please make sure you have shut down all non-essential programs (especially anti-virus) before starting the game.
@@ -60,9 +65,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
 
 ## Fix 3: Clean reinstall the graphics card driver
@@ -90,11 +92,16 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get **full support**  and a **30-day money back guarantee** .)
 
@@ -129,23 +136,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 3) Wait for the process to complete. This may take 2-3 minutes.
 
 4) Also download the Microsoft Visual C++ 2013 (both the x86 and x64) and complete the installation/repair.
@@ -153,15 +143,13 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Once complete, restart your PC for it to take full effect.
 
 Play your game again and see if Nioh 2 not launching is resolved by now.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Disable all overlays
 
  Many players find that disabling all overlays, such as Steam overlay, Discord overlays hele solve the Nioh 2 crashing issue. Here’s how:
@@ -176,6 +164,10 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 
 Now launch your game, and see if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 7: Perform a clean boot
 
  To make sure no other apps is interfering with Nioh 2, you can try performing a clean boot. Here’s how:
@@ -186,20 +178,10 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
@@ -208,13 +190,18 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
 
  If your game runs perfectly this time, congratulations! If you need to find the problematic software. Here’s how to do it:
@@ -237,8 +224,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +231,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-10-naming-algorithms-for-podcast-mastery/"><u>[New] Top 10 Naming Algorithms for Podcast Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-red-dead-redemption-2-crashing-on-pc/"><u>[Solved] Red Dead Redemption 2 Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-red-dead-redemption-2-load-screen-hurdle-expert-advice-and-fixes/"><u>Bypassing the Red Dead Redemption 2 Load Screen Hurdle – Expert Advice & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012162014-halo-infinites-black-screen-troubleshooting-solutions-revealed/"><u>Halo Infinite's Black Screen Troubleshooting - Solutions Revealed</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Infinix Hot 30i? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c50-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C50 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-the-key-to-quick-and-effective-small-image-generation/"><u>In 2024, The Key to Quick and Effective Small Image Generation</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-issues-in-red-dead-redemption-2-solutions-and-tips-for-gamers/"><u>Overcoming Launch Issues in Red Dead Redemption 2 - Solutions and Tips for Gamers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210393724-9780834844216-pause-rest-be/"><u>Pause, Rest, Be | Free Book</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/significant-aspects-in-techno-narrative-design-for-2024/"><u>Significant Aspects in Techno Narrative Design for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-overcoming-wrc-10-game-crashes-for-a-smooth-rally-experience-on-your-computer/"><u>Solved! Overcoming WRC 10 Game Crashes for a Smooth Rally Experience on Your Computer</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/testing-the-value-a-deep-dive-into-amazonbasics-6-sheet-document-destroyer-evaluation/"><u>Testing the Value - A Deep Dive Into AmazonBasics 6-Sheet Document Destroyer Evaluation</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/top-tips-to-flawlessly-integrate-timely-text-in-your-fb-videos-for-2024/"><u>Top Tips to Flawlessly Integrate Timely Text in Your FB Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-stop-dota-2-from-suddenly-shutting-down/"><u>Troubleshooting Tips: Stop Dota 2 From Suddenly Shutting Down</u></a></li>
+</ul></div>
 

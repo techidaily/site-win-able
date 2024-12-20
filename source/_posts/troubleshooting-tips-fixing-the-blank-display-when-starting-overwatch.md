@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-12-11T16:49:55.132Z
-updated: 2024-12-12T16:38:31.234Z
+date: 2024-12-12T17:47:36.690Z
+updated: 2024-12-19T16:18:35.741Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -67,20 +63,20 @@ If you still have the issue, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -146,6 +142,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
  Then click**Add** and select your**FIFA 19** exe. program file.  
@@ -157,7 +157,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For AMD users:  
@@ -171,7 +171,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7**Run System File Checker** to repair corrupt files
@@ -184,12 +184,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
@@ -247,6 +251,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
@@ -259,16 +267,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
@@ -278,10 +282,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -340,18 +340,24 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/arvesting-hits-and-heads-how-to-profit-from-your-youtube-presence-without-ads/"><u>[New] Harvesting Hits and Heads How to Profit From Your YouTube Presence Without Ads</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719160505091-4-premium-game-boy-advance-emulators-for-your-idevice/"><u>4 Premium Game Boy Advance Emulators for Your iDevice!</u></a></li>
-<li><a href="https://win-able.techidaily.com/civilization-vi-startup-errors-resolved-fixes-for-windows-10-users/"><u>Civilization VI Startup Errors Resolved: Fixes for Windows 10 Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/germany-calls-for-halt-to-facebooks-whatsapp-data-harvesting/"><u>Germany Calls for Halt to Facebook's WhatsApp Data Harvesting</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-amd-radeon-display-adapters-drivers-for-your-windows-7-pc/"><u>Get the Latest AMD Radeon Display Adapters Drivers for Your Windows 7 PC</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/getting-the-most-recent-epson-xp-310-driver-upgrade-for-optimal-performance/"><u>Getting the Most Recent Epson XP-310 Driver Upgrade for Optimal Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-warzone-20-7-crucial-fixes-for-a-seamless-launch-experience-on-your-pc/"><u>Mastering Warzone 2.0: 7 Crucial Fixes for a Seamless Launch Experience on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/mlb-the-show-21-server-connectivity-latest-patch-solves-the-problems/"><u>MLB The Show 21 Server Connectivity - Latest Patch Solves the Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-persistent-crashes-in-immortals-a-guide-to-a-smooth-fenyx-rising-experience/"><u>Overcoming Persistent Crashes in Immortals: A Guide to a Smooth Fenyx Rising Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/pure-entertainment-kids-fun-games-roundup/"><u>Pure Entertainment Kids' Fun Games Roundup</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-addressing-and-fixing-recurring-watch-dogs-legion-crashes-on-personal-computers/"><u>Smooth Sailing: Addressing and Fixing Recurring 'Watch Dogs: Legion' Crashes on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-when-counter-strike-global-offensive-wont-open-properly/"><u>Solutions for When Counter Strike Global Offensive Won't Open Properly</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-budget-friendly-electric-vehicles-a-comprehensive-guide-zdnet/"><u>Top Budget-Friendly Electric Vehicles : A Comprehensive Guide - ZDNet</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-media-streamlining-is-a-podcast-or-youtube-better-for-you-in-2024/"><u>[New] Media Streamlining Is a Podcast or YouTube Better for You, In 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2023s-best-replacements-for-samsung-gear-360-for-2024/"><u>[Updated] 2023'S Best Replacements for Samsung Gear 360 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-sound-capture-using-audacity-efficiently-on-a-mac/"><u>[Updated] Streamline Sound Capture Using Audacity Efficiently on a Mac</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-unveiling-the-secrets-to-producing-popular-youtube-shorts-for-2024/"><u>[Updated] Unveiling the Secrets to Producing Popular YouTube Shorts for 2024</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/1728505411308-hdd/"><u>安全なデータ保存方法：外付けHDDへの自動バックアップツール探し</u></a></li>
+<li><a href="https://win-studio.techidaily.com/breathtaking-new-york-wallpapers-and-background-images-hd-for-your-screen-captivating-photos-from-yl-software/"><u>Breathtaking New York Wallpapers and Background Images (HD) for Your Screen – Captivating Photos From YL Software</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-infinix-zero-30-5g-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Infinix Zero 30 5G Phone? | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722891461810-exploring-the-best-tv-streaming-options-our-pick-of-the-top-8/"><u>Exploring the Best TV Streaming Options: Our Pick of the Top 8</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-pc-once-and-for-all-discover-6-proven-methods-to-prevent-stray-crashes/"><u>Fix Your PC Once and For All! Discover 6 Proven Methods to Prevent Stray Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-non-responsive-pacific-drive-devices/"><u>Guide to Fixing Non-Responsive Pacific Drive Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-black-screen-comprehensive-guide-to-resolve-common-glitches/"><u>Halo Infinite Black Screen - Comprehensive Guide to Resolve Common Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-problem-zoom-cannot-start-video-5-strategies/"><u>How To Overcome the Problem: Zoom Cannot Start Video - 5 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-terraria-from-crashing-proven-strategies-for-players/"><u>How to Stop Terraria From Crashing: Proven Strategies for Players</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-warzone-glitches-cutting-edge-fixes-to-enhance-your-desktop-gaming-quality/"><u>Navigating Through Warzone Glitches: Cutting-Edge Fixes to Enhance Your Desktop Gaming Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-compatibility-issues-successfully-playing-modern-warfare/"><u>Overcoming PC Compatibility Issues: Successfully Playing Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-discord-screen-share-solutions-for-no-sound-problems/"><u>Troubleshooting Discord Screen Share - Solutions for No Sound Problems</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unbeatable-deal-get-your-hands-on-the-crisp-clear-gaming-screen-of-innocns-240hz-ips-monitor-at-just-199/"><u>Unbeatable Deal: Get Your Hands on the Crisp, Clear Gaming Screen of Innocn’s 240Hz IPS Monitor at Just $199</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-getting-doom-eternal-running-smoothly/"><u>Unlocking the Secrets: A Step-by-Step Guide to Getting DOOM Eternal Running Smoothly</u></a></li>
 </ul></div>
 

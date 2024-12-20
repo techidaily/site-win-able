@@ -1,7 +1,7 @@
 ---
 title: "Evil Genius 2 Issue: Fixing the Silent Game with Easy Solutions"
-date: 2024-08-27T20:31:35.671Z
-updated: 2024-08-28T20:31:35.671Z
+date: 2024-12-12T17:53:54.633Z
+updated: 2024-12-19T17:06:19.962Z
 tags:
   - win11
   - win10
@@ -40,9 +40,17 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -50,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -73,21 +78,19 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Run Epic Games Launcher again to see if this issue reappears.
 
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -101,6 +104,10 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
@@ -109,17 +116,11 @@ thumbnail: https://thmb.techidaily.com/bedeaab43df1b8b5afd8fae799c1b0ff2cb5a9adc
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Change Epic Games Launcher Properties
 
  Some players reported that this issue can be fixed by changing the properties of Epic Games Launcher. Here’s how to do it:
@@ -127,6 +128,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
 
@@ -136,9 +141,6 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Run Epic Games Launcher again to see if this fix works.
 
  If it won’t open, try the next fix to disable your antivirus software temporarily.
@@ -146,8 +148,9 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -160,6 +163,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
@@ -168,21 +175,10 @@ _You can do it for free if you like, but it’s partly manual._
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
  Run Epic Games Launcher to see if you can open it. If not, you may need to try the next fix to reinstall the program.
@@ -200,6 +196,10 @@ _You can do it for free if you like, but it’s partly manual._
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1070.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Restart your computer.
 
@@ -220,8 +220,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +227,24 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-comparing-video-storage-in-64128gb-drives-for-2024/"><u>[Updated] Comparing Video Storage in 64/128GB Drives for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-frames-to-fabulous-the-ultimate-list-of-photo-plugins/"><u>[Updated] In 2024, Frames to Fabulous The Ultimate List of Photo Plugins</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gaming-experience-solving-stutter-issues-and-achieving-high-fps/"><u>Boost Your Gaming Experience : Solving Stutter Issues & Achieving High FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-prevent-nba-2k21-from-freezing-on-your-computer-system/"><u>Expert Tips to Prevent NBA 2K21 From Freezing on Your Computer System</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-running-issues-resolved-tips-and-fixes-to-prevent-freezing-on-new-windows-11-devices/"><u>Fallout 3 Running Issues Resolved: Tips and Fixes to Prevent Freezing on New Windows 11 Devices</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/garantindo-a-seguranca-do-multimidia-o-movavi-oferece-softwares-eficientes/"><u>Garantindo a Segurança Do Multimídia, O Movavi Oferece Softwares Eficientes</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-hands-on-monster-hunter-stories-2-solving-the-wings-of-ruin-not-starting-dilemma/"><u>Get Your Hands on Monster Hunter Stories 2: Solving the 'Wings of Ruin' Not Starting Dilemma</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Honor 90 Lite? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y78plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y78+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/new-horizons-for-filters-mondly-and-pearson-alliance/"><u>New Horizons for Filters: Mondly and Pearson Alliance</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-performance-for-r-type-final-2-on-pc-no-more-crashes/"><u>Optimizing Performance for R-Type Final 2 on PC: No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-phasmophobias-90-launch-hurdle-tips-and-solutions/"><u>Overcome Phasmophobia's 90% Launch Hurdle: Tips and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-rainbow-six-siege-latency-problems-instantly/"><u>Resolve Your Rainbow Six Siege Latency Problems Instantly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/runescape-crash-issues-effective-solutions-and-fixes/"><u>RuneScape Crash Issues: Effective Solutions and Fixes</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-cropping-images-in-final-cut-pro-x-for-2024/"><u>The Ultimate Guide to Cropping Images in Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-superior-e-readers-surpassing-remarkable-and-kindle-in-functionality-cnet-reviews/"><u>The Ultimate Guide to Superior E-Readers - Surpassing Remarkable and Kindle in Functionality | CNET Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-forza-horizon-11-overcome-launch-hurdles-with-these-powerful-2024-solutions/"><u>Unlocking Forza Horizon 11: Overcome Launch Hurdles with These Powerful 2024 Solutions</u></a></li>
+</ul></div>
 

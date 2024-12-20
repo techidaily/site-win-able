@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting MSI Afterburner to Detect Your GPU on Windows 10 & 11 Systems"
-date: 2024-12-08T16:45:19.161Z
-updated: 2024-12-12T16:53:24.716Z
+date: 2024-12-14T18:19:19.027Z
+updated: 2024-12-19T19:51:30.245Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,11 +45,11 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
@@ -64,6 +60,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -81,10 +81,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -100,6 +96,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -122,7 +122,7 @@ There’re mainly two ways you can update your graphics drivers:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
@@ -141,20 +141,16 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -169,7 +165,7 @@ There’re mainly two ways you can update your graphics drivers:
 If After Effects still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Reinstall codecs and plugins
@@ -181,6 +177,10 @@ If After Effects still crashes, try the next fix, below.
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,16 +210,22 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-top-mp4-to-facebook-video-converter-2023-edition/"><u>[Updated] 2024 Approved Top MP4-to-Facebook Video Converter 2023 Edition</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-noworrycapture-quick-and-easy-win11-recordings/"><u>2024 Approved NoWorryCapture - Quick and Easy Win11 Recordings</u></a></li>
-<li><a href="https://win-able.techidaily.com/dead-by-daylight-playable-again-your-ultimate-fix-for-error-8014/"><u>Dead By Daylight Playable Again? Your Ultimate Fix for Error 8014</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-vivo-s17t-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Vivo S17t Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-fortnites-persistent-startup-hurdle/"><u>How to Overcome Fortnite's Persistent Startup Hurdle</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-connectivity-errors-restore-functionality-of-logitech-g-hub-on-windows-computers/"><u>Overcoming Connectivity Errors: Restore Functionality of Logitech G Hub on Windows Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005443254-sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002039781-tackling-call-of-duty-vanguards-dev-error-5573-a-step-by-step-guide-to-success/"><u>Tackling Call of Duty Vanguard's Dev Error 5573 - A Step by Step Guide to Success</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/techniques-to-brighten-up-your-content-creation-spaces-for-2024/"><u>Techniques to Brighten Up Your Content Creation Spaces for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/unleash-portable-potential-try-pdw4-game-pc/"><u>Unleash Portable Potential, Try PDW4 Game PC</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/winx-dvd-to-mp4-converter-for-windows-10-user-friendly-and-free-transcoding-software-with-quick-backup-features/"><u>WinX DVD to MP4 Converter for Windows 10: User-Friendly & Free Transcoding Software with Quick Backup Features</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-premier-10-video-grabbers-for-streaming-content-creators/"><u>[New] Premier 10 Video Grabbers for Streaming Content Creators</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/10-best-foreign-films-to-improve-your-language-skills/"><u>10 Best Foreign Films To Improve Your Language Skills</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-zte-nubia-z60-ultra-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from ZTE Nubia Z60 Ultra to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-mystery-of-modern-warfare-mw3-dev-error-6034-solutions-for-gamers-on-pc-and-xbox/"><u>Decode the Mystery of Modern Warfare MW3 Dev Error #6034: Solutions for Gamers on PC & Xbox</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-for-the-recurring-microsoft-edge-failures-and-restarts-in-windows-11-systems/"><u>Effective Fixes for the Recurring Microsoft Edge Failures and Restarts in Windows 11 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-ensuring-smooth-operations-of-the-virtual-battleground-hyper-scape-on-your-computer/"><u>Enhanced: Ensuring Smooth Operations of the Virtual Battleground - Hyper Scape on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-league-of-legends-wont-open-2024-tips/"><u>How to Fix League of Legends Won’t Open – 2024 Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-20-must-haves-free-copyright-compliant-relaxation-tracks/"><u>In 2024, 20 Must-Haves Free, Copyright-Compliant Relaxation Tracks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-dealing-with-a-solitary-speaker/"><u>In 2024, Dealing with a Solitary Speaker</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sierra-maximizing-your-icloud-drive-experience/"><u>In 2024, Sierra Maximizing Your iCloud Drive Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/nvidia-geforce-gtx-1060-update-now/"><u>Nvidia GeForce GTX 1060 Update Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011403459-quick-fixes-for-speedy-chrome-no-more-lag/"><u>Quick Fixes for Speedy Chrome – No More Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-bluestacks-freezing-issues-quickly-with-these-5-simple-fixes/"><u>Resolve Bluestacks Freezing Issues Quickly with These 5 Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-guide-for-steam-connection-issues-overcoming-failed-to-connect-messages/"><u>Resolved: Troubleshooting Guide for Steam Connection Issues - Overcoming 'Failed to Connect' Messages</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-no-ping-detected-issue-in-halo-infinity-a-step-by-step-guide/"><u>Solving the 'No Ping Detected' Issue in Halo Infinity: A Step-by-Step Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210661783-9798986875514-the-real-you/"><u>The Real You | Free Book</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-n-11-audio-troubles-heres-how-to-restore-your-mic-functionality/"><u>Windows N 11 Audio Troubles? Here's How to Restore Your Mic Functionality</u></a></li>
 </ul></div>
 

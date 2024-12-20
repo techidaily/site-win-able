@@ -1,7 +1,7 @@
 ---
 title: Overcome Madden 22'S Perpetual Startup Issue with These Simple Steps
-date: 2024-12-05T16:06:06.821Z
-updated: 2024-12-12T16:47:11.667Z
+date: 2024-12-12T18:01:24.579Z
+updated: 2024-12-19T18:42:59.808Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How to fix_FM19_ crashing?
 
@@ -62,25 +58,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Check your**operating system, processor and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-05.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
@@ -96,13 +80,13 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -128,9 +112,17 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -141,7 +133,7 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 If your game still crashes, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify the integrity of your game files
@@ -157,6 +149,10 @@ If your game still crashes, then go ahead with the next fix below.
 **3)**  Right-click **Football Manager 2019**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -176,6 +172,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Type**C:\\Users\\** _Your Windows Username_ **\\AppData\\Local\\Sports Interactive\\Football Manager 2019** on the address bar, then press**Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-17.jpg)
@@ -185,6 +185,10 @@ If your game still crashes, then go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-21.jpg)
 
  Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Set Game Launch Options
 
@@ -201,6 +205,10 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-26.jpg)
@@ -212,10 +220,6 @@ If your game still crashes, then go ahead with the next fix below.
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
@@ -241,6 +245,10 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
@@ -250,10 +258,6 @@ If you still have the problem, try running your game in Windowed mode.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
 
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Change the power option
 
@@ -272,7 +276,7 @@ If you still have the problem, try running your game in Windowed mode.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
@@ -315,10 +319,6 @@ If the game still crashes, try reinstalling the game launcher.
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -367,14 +367,20 @@ If the game still crashes, try reinstalling the game launcher.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-no-lag-top-8-screen-grab-essentials/"><u>[New] In 2024, No Lag Top 8 Screen Grab Essentials</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-acknowledgement-pack-free-and-paid-otus-ready/"><u>[Updated] Acknowledgement Pack Free & Paid OTUs Ready</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-latest-update-beyond-light-pc-version-glitches-resolved/"><u>Destiny 2'S Latest Update - Beyond Light PC Version Glitches Resolved</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-installation-of-intel-cpu-drivers-quick-guide-for-users/"><u>Easy Installation of Intel CPU Drivers – Quick Guide for Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722997903683-how-to-fix-starfield-high-cpu-usage-issue-2024-tips/"><u>How to Fix Starfield High CPU Usage Issue - 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-ntdlldll-system-crashes-tips-for-windows-11-and-windows-10-users/"><u>Resolving ntdll.dll System Crashes: Tips for Windows 11 and Windows 10 Users</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/step-by-step-guide-simplifying-the-process-of-automatically-archiving-your-gmail-messages/"><u>Step-by-Step Guide: Simplifying the Process of Automatically Archiving Your Gmail Messages</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722985057941-tips-to-amplify-performance-in-horizon-zero-dawn-boost-fps-and-enjoy-seamless-action/"><u>Tips to Amplify Performance in Horizon Zero Dawn – Boost FPS & Enjoy Seamless Action!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-resolving-voice-communication-issues-in-among-us-for-windows-users/"><u>Troubleshooting Steps: Resolving Voice Communication Issues in Among Us for Windows Users</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-how-to-optimize-vertical-or-horizontal-vids-on-fb/"><u>[New] In 2024, How To Optimize Vertical or Horizontal Vids On FB</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/astering-the-art-of-discovering-elusive-youtube-videos-for-2024/"><u>[New] Mastering the Art of Discovering Elusive YouTube Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-unable-to-launch-game-please-verify-your-game-data/"><u>[SOLVED] Unable to Launch Game, Please Verify Your Game Data</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-samsung-gear-360-top-alternative-cameras-2023-edition/"><u>[Updated] 2024 Approved Samsung Gear 360 Top Alternative Cameras 2023 Edition</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-techniques-to-archive-and-save-video-calls-for-2024/"><u>[Updated] Techniques to Archive and Save Video Calls for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-12-simple-tricks-to-make-your-youtube-videos-go-viral/"><u>2024 Approved 12 Simple Tricks to Make Your YouTube Videos Go Viral</u></a></li>
+<li><a href="https://win-able.techidaily.com/dread-hunger-pc-issues-discover-how-to-prevent-unexpected-game-closures/"><u>Dread Hunger PC Issues? Discover How to Prevent Unexpected Game Closures!</u></a></li>
+<li><a href="https://win-able.techidaily.com/euro-truck-simulator-2-crashes-on-windows-diagnosis-and-solutions/"><u>Euro Truck Simulator 2 Crashes on Windows: Diagnosis and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-netflix-streaming-interruptions-on-the-xbox-one-platform/"><u>Expert Tips for Fixing Netflix Streaming Interruptions on the Xbox One Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-connection-lost-in-anticheat-module-issue-on-escape-from-tarkov/"><u>How To Fix The 'Connection Lost In AntiCheat Module' Issue on EscapE From TarKoV</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/massey-jj-blumberg-b-2012-endocrine-disruption-in-amphibians-evidence-for-the-effects-of-environmental-contaminants-on-sexual-development-and-behavior-envir423/"><u>Massey JJ., Blumberg B (2012). Endocrine Disruption in Amphibians: Evidence for the Effects of Environmental Contaminants on Sexual Development and Behavior. Environ Health Perspect, 118(3), 457.</u></a></li>
+<li><a href="https://win11.techidaily.com/scribble-to-screen-find-the-best-notes-tools-on-windows/"><u>Scribble to Screen: Find the Best Notes Tools on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-experience-achieved-dragon-age-origins-now-runs-flawlessly-on-windows-11/"><u>Smooth Gaming Experience Achieved: Dragon Age: Origins Now Runs Flawlessly on Windows 11</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/zdnets-in-depth-look-at-the-framework-chromebook-revolutionizing-repairability-and-longevity-for-future-tech-enthusiasts/"><u>ZDNet's In-Depth Look at The Framework Chromebook – Revolutionizing Repairability & Longevity for Future Tech Enthusiasts</u></a></li>
 </ul></div>
 

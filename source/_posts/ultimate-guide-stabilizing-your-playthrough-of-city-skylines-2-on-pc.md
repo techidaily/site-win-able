@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2024-12-05T17:04:31.270Z
-updated: 2024-12-12T16:40:56.253Z
+date: 2024-12-17T17:47:24.723Z
+updated: 2024-12-19T17:52:49.598Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -32,10 +36,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -64,19 +64,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
@@ -84,7 +84,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
@@ -111,10 +111,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
@@ -137,6 +133,10 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -146,7 +146,7 @@ Here’s how you can check for updates manually:
 If this method failed to fix the lag, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
@@ -160,12 +160,12 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,24 +186,18 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-a-comprehensive-look-at-stardew-and-ginger-isle-for-2024/"><u>[New] A Comprehensive Look at Stardew and Ginger Isle for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-capturing-the-essence-cinematic-techniques-at-their-best/"><u>[New] In 2024, Capturing the Essence Cinematic Techniques at Their Best</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-tips-for-selecting-the-right-editor-filmora-and-democracy-creator-guide/"><u>[Updated] Expert Tips for Selecting the Right Editor Filmora and Democracy Creator Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-performance-fast-a-guide-to-effortless-shader-customization-in-swbfii/"><u>Boost Performance Fast! A Guide to Effortless Shader Customization in SWBFII</u></a></li>
-<li><a href="https://article-files.techidaily.com/breakneck-video-progress-on-facebook-must-have-extension-solutions-for-2024/"><u>Breakneck Video Progress on Facebook - Must-Have Extension Solutions for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/busting-davinci-resolve-blockade-tips-for-restarting-it-successfully-on-a-windows-machine/"><u>Busting DaVinci Resolve Blockade: Tips for Restarting It Successfully on a Windows Machine</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/comprehensive-microsoft-surface-pro-8-evaluation-tailored-for-the-enterprise-insights-from-zdnet/"><u>Comprehensive Microsoft Surface Pro 8 Evaluation: Tailored for the Enterprise – Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-for-resolving-fortnites-persistent-ls-0-013-startup-glitch/"><u>Expert Advice for Resolving Fortnite's Persistent LS-0 013 Startup Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-uninterrupted-gaming-experience-with-titanfall-2/"><u>Expert Tips for a Smooth, Uninterrupted Gaming Experience with Titanfall 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-get-resident-evil-5-running-smoothly-on-your-pc/"><u>Fix Guide: How to Get Resident Evil 5 Running Smoothly on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-cod-modern-warfare-2-gameplay-with-these-directx-error-solutions/"><u>Fix Your COD Modern Warfare 2 Gameplay with These DirectX Error Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/hassle-free-ways-to-prevent-chrome-sluggishness-and-freezing-on-pcs-with-windows-10/"><u>Hassle-Free Ways to Prevent Chrome Sluggishness and Freezing on PCs with Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-of-cold-war-across-platforms/"><u>How to Overcome the Endless Loading Screen of Cold War Across Platforms</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-performance-tips-to-stop-stuttering-and-increase-fps-in-valorant/"><u>Improving Performance: Tips to Stop Stuttering & Increase FPS in VALORANT</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-deep-windows-11-know-how-importing-media-like-a-pro/"><u>In 2024, Deep Windows 11 Know-How Importing Media Like a Pro</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-12plus-5g-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Realme 12+ 5G | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/ultimate-selection-of-high-performance-wi-fi-expansion-devices-for-2n4-connectivity-enthusiasts-2024-edition/"><u>Ultimate Selection of High-Performance Wi-Fi Expansion Devices for 2N4 Connectivity Enthusiasts - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solutions-stop-halo-infinite-from-freezing-on-your-computer-with-these-7-simple-tips/"><u>Ultimate Solutions: Stop Halo Infinite From Freezing on Your Computer with These 7 Simple Tips</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-amplify-content-with-free-audio-samples/"><u>[Updated] In 2024, Amplify Content with Free Audio Samples</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-solution-for-unsticking-your-fortnite-from-a-stalled-loading-phase/"><u>Complete Solution for Unsticking Your Fortnite From a Stalled Loading Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-to-resolve-palworld-login-error-eos-issue-a-comprehensive-guide/"><u>Easy Fixes to Resolve 'Palworld Login Error - EOS Issue': A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/embrace-the-future-of-search-engines-by-joining-microsoftamoored-bing-with-smart-technology/"><u>Embrace the Future of Search Engines by Joining Microsoft'amoored Bing with Smart Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-helldivers-ii-resolving-the-black-screen-issue-upon-game-start/"><u>Fixing Helldivers II: Resolving the Black Screen Issue Upon Game Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-freezing-problems-in-cyberpunk-rewind-for-pc-players/"><u>How to Resolve the Freezing Problems in Cyberpunk: Rewind for PC Players</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-note-50-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Realme Note 50 Phone with Broken Screen</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-mastering-the-meaning-and-usage-of-tiktoks-pfp-symbol/"><u>In 2024, Mastering the Meaning and Usage of TikTok’s PFP Symbol</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-startup-heartbeat-problems-solutions-for-an-uninterrupted-boot-sequence/"><u>Preventing Startup Heartbeat Problems: Solutions for an Uninterrupted Boot Sequence</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996339886-say-goodbye-to-persistent-screen-flutter-fix-the-irritating-glitch-now/"><u>Say Goodbye to Persistent Screen Flutter: Fix the Irritating Glitch Now!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-7-hidden-traps-of-ai-text-synthesis/"><u>Top 7 Hidden Traps of AI Text Synthesis</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/5-raw/"><u>パーティション回復に必要な5つのコツ: RAWドライブ向けガイド</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-12-07T16:04:58.568Z
-updated: 2024-12-12T16:59:07.401Z
+date: 2024-12-13T18:01:43.303Z
+updated: 2024-12-19T17:58:52.246Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Outdated versions of the software may bring buggy issues when you’re using the software, and Metro Exodus is no exception. That’s why the software developers keep releasing new patches to fix bugs and improve features.
@@ -49,6 +53,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics card driver
 
@@ -86,6 +94,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to take effect.
@@ -95,10 +107,6 @@ Now launch Metro Exodus and see if the crashing issue has been resolved.
 If your problem still persists, don’t worry. There is another try.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Switch to DX11 in your game settings
 
@@ -118,10 +126,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -133,23 +137,19 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Type**_dxlevel110_** in the field, then click**OK** .
@@ -193,21 +193,19 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-earn-wisely-the-simple-triad-method-for-scrutinizing-youtube-profits/"><u>[Updated] In 2024, Earn Wisely The Simple Triad Method for Scrutinizing YouTube Profits</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-breaking-boundaries-top-10-novel-facebook-memes/"><u>2024 Approved Breaking Boundaries Top 10 Novel Facebook Memes</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/best-3-honor-x50iplus-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor X50i+ Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/beyond-light-for-pc-a-crash-free-adventure-in-destiny-2-the-updates-that-worked/"><u>Beyond Light for PC: A Crash-Free Adventure in Destiny 2 - The Updates That Worked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-dial-back-unrequested-youtube-recommendations/"><u>In 2024, Dial Back Unrequested YouTube Recommendations</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Come up With the Best Pokemon Team On Lava Agni 2 5G? | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/in-depth-review-of-suminds-best-selling-bluetooth-bt70b-transmitter-a-must-have-for-every-driver/"><u>In-Depth Review of Sumind's Best Selling Bluetooth BT70B Transmitter: A Must-Have for Every Driver!</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/insta-marketing-dynamo-crafting-winning-strategies-with-videos-on-social-media/"><u>Insta-Marketing Dynamo Crafting Winning Strategies with Videos on Social Media</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-fix-what-to-do-when-your-fortnite-entry-point-is-missing/"><u>Mastering the Fix: What to Do When Your Fortnite Entry Point Is Missing</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-quits-tackle-persistent-crashing-on-any-platform-with-these-diablo-4-solutions/"><u>No More Quits! Tackle Persistent Crashing on Any Platform with These Diablo 4 Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013942899-resolved-issues-with-launching-rainbow-six-siege-fixed/"><u>Resolved: Issues with Launching Rainbow Six Siege Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-input-lag-challenges-in-valorant-on-pc-as-of-march-2024/"><u>Solving Input Lag Challenges in Valorant on PC as of March 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-non-functional-nvidia-overlay-issues/"><u>Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-fixing-stardew-valley-continuous-crashes-on-your-pc/"><u>Ultimate Guide to Fixing Stardew Valley Continuous Crashes on Your PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-discover-the-best-green-screen-software-for-your-mac-workflow-for-2024/"><u>Updated Discover the Best Green Screen Software for Your Mac Workflow for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/your-personal-drone-that-never-falters-in-following/"><u>Your Personal Drone that Never Falters in Following</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tep-by-step-throwing-epic-intros-with-imovie-for-2024/"><u>[New] Step-by-Step Throwing Epic Intros with iMovie for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-exclusive-list-best-free-videos-for-pc-macos/"><u>[Updated] In 2024, Exclusive List Best Free Videos for PC, MacOS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-streaming-high-quality-vr-videos-made-easy-for-ios-users/"><u>[Updated] Streaming High-Quality VR Videos Made Easy for IOS Users</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/abbyy-and-blue-prism/"><u>ABBYY & Blue Prism: プロセスインテリジェンスツールで組織の自動化効率を飛躍的に高める</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-secret-weapon-for-stunning-time-lagged-footage/"><u>Android's Secret Weapon for Stunning Time-Lagged Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/discord-display-troubles-fixing-screen-sharing-issues-that-cause-a-black-outage-on-screens/"><u>Discord Display Troubles: Fixing Screen Sharing Issues That Cause a Black Outage on Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-dota-2-vac-ban-glitch-a-comprehensive-guide/"><u>Fixing the DotA 2 VAC Ban Glitch : A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015952228-how-to-fix-realtek-hd-audio-controller-wont-launch-complete-solution/"><u>How to Fix Realtek HD Audio Controller Won't Launch – Complete Solution!</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Samsung Galaxy M54 5G | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-thorough-reconnaissance-the-full-review-for-bublcams-panoramic-masterpiece/"><u>In 2024, Thorough Reconnaissance The Full Review for Bublcam's Panoramic Masterpiece</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-compatibility-hurdles-making-logitech-options-work-seamlessly-in-windows-environment/"><u>Overcoming Compatibility Hurdles: Making Logitech Options Work Seamlessly in Windows Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-rocket-league-freezing-issues-fixes-and-tips-for-optimal-gameplay/"><u>Say Goodbye to Rocket League Freezing Issues: Fixes and Tips for Optimal Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/soil-testing-identifies-specific-soil-needs-allowing-for-targeted-amendments-which-improves-crop-yields-reduces-waste-and-minimizes-environmental-harm-from-613/"><u>Soil Testing Identifies Specific Soil Needs, Allowing for Targeted Amendments, Which Improves Crop Yields, Reduces Waste, and Minimizes Environmental Harm From Over-Fertilization.</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redred2-errgfxstate-issue-a-comprehensive-guide/"><u>Troubleshooting the RED_RED2 ERR_GFX_STATE Issue: A Comprehensive Guide</u></a></li>
 </ul></div>
 

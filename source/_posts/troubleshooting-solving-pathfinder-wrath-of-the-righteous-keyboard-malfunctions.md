@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Solving 'Pathfinder - Wrath of the Righteous' Keyboard Malfunctions"
-date: 2024-08-27T20:30:00.532Z
-updated: 2024-08-28T20:30:00.532Z
+date: 2024-12-14T17:41:10.375Z
+updated: 2024-12-19T17:09:29.424Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  If you’re quite sure there is nothing to do with your antivirus application, try the fixes listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Performance issues such as freezing and stuttering may be caused by an outdated or misconfigured graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now. This is probably the best shot you have got without doing a lot of troubleshooting. Additionally, graphics card manufacturers usually release game ready drivers to guarantee that players can get the best performance out of your graphics card.
@@ -43,8 +47,9 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -55,9 +60,6 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  Updating drivers manually does require a certain level of computer knowledge and can be error-prone. If you don’t feel like doing it on your own, we recommend you use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  , an automatic driver updater. With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -67,16 +69,10 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test the gameplay. If this doesn’t do the trick, proceed to the next fix.
@@ -86,26 +82,26 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
  A variety of issues may be caused by corrupted game files, whether it’s glitched graphics or inability to launch the game. When the Pathfinder: Wrath of the Righteous freezing issue arise, you should check the integrity of the game files on Steam or GOG Galaxy:
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Verify on Steam
 
 1. Launch your Steam client. From the LIBRARY section, right-click your game title and select**Properties** from the menu.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click on the**VERIFY INTEGRITY OF GAME FILES…** button. Then Steam will verify the game files. Simply wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ### Verify on GOG Galaxy
 
 1. Launch GOG Galaxy.
@@ -127,22 +123,20 @@ Since the release of Pathfinder: Wrath of the Righteous, you can scroll through 
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click **In-Game** . Uncheck the box **Enable the Steam Overlay while in-game** . Then click **OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)
 
  After applying the changes, play Pathfinder: Wrath of the Righteous and your problem should be alleviated. However, if the freezing issue still occurs, don’t worry. Below are other fixes for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 5\. Launch your game from .exe file
 
  Most of the time, we just launch a program by simply clicking on the shortcut or launch a game from the gaming platform. But there is one other way you can launch your game. That is through the .exe file. Simply go to your game’s installation directory and**double-click on the executable** . Sometimes running your game directly from the executable (suggested by some players) can work like magic. So if the above methods didn’t work for you, definitely give it a shot. Players who **can’t launch the Pathfinder along with the disk write error** can also benefit from this trick.
 
 However, if it doesn’t give you any luck, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete the registry key
 
@@ -156,6 +150,10 @@ However, if it doesn’t give you any luck, try the next fix below.
 
 ![delete registry key](https://images.drivereasy.com/wp-content/uploads/2021/09/registry.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, restart your game and test the gameplay.
 
  However, if nothing else has helped, it’s high time to check if you have**corrupted, malfunctioning, and missing Windows software files** , which will cause performance issues.
@@ -168,6 +166,10 @@ Once done, restart your game and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  That’s it. Feel free to drop a comment below if any fixes listed above worked for you. We also welcome alternate methods in case you’ve found one that worked for you.
@@ -178,8 +180,6 @@ Once done, restart your game and test the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,24 @@ Once done, restart your game and test the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-crafting-cinematic-l-slow-videos-tips-from-the-pros-on-gopro-hero-10/"><u>[Updated] Crafting Cinematic L-Slow Videos Tips From the Pros on GoPro Hero 10</u></a></li>
+<li><a href="https://techidaily.com/different-methods-for-resetting-motorola-moto-g-5g-2023-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Motorola Moto G 5G (2023) Phones with Screen Locked and Not | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/eradicate-your-call-of-duty-global-offensive-lag-in-minutes/"><u>Eradicate Your Call of Duty: Global Offensive Lag in Minutes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2023-update-successfully-resolves-launch-problems/"><u>Football Manager 2023 Update Successfully Resolves Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-logitech-g-prodigy-g403-mouse-drivers-and-latest-updates-for-windows/"><u>Free Logitech G Prodigy (G403) Mouse Drivers & Latest Updates for Windows</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Vivo Y56 5G? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-11-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 11 5G Devices</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-8t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 8T to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-the-simple-nature-of-storytelling/"><u>In 2024, Unveiling the Simple Nature of Storytelling</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-sound-settings-resolving-zero-acoustics-in-your-twitch-livestream-setup/"><u>Mastering Sound Settings: Resolving Zero Acoustics in Your Twitch Livestream Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stream-stability-essential-troubleshooting-steps-for-twitch-glitches/"><u>Mastering Stream Stability: Essential Troubleshooting Steps for Twitch Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-successfully-solving-your-fortnite-technical-problems-easily/"><u>PC Gaming Successfully: Solving Your Fortnite Technical Problems Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-trouble-solving-problems-when-your-thaumaturge-software-wont-start-up-correctly/"><u>PC Trouble: Solving Problems When Your Thaumaturge Software Won't Start Up Correctly</u></a></li>
+<li><a href="https://win11.techidaily.com/solving-frustrating-asana-issues-with-a-step-by-step-guide/"><u>Solving Frustrating Asana Issues with a Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-dota-2-crashing-for-good-expert-fix-tips-and-techniques/"><u>Stop Dota 2 Crashing for Good – Expert Fix Tips & Techniques</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-tecno-spark-20-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Tecno Spark 20 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/windows-7hdd/"><u>Windows 7用外部HDDへの自動バックアップ手順</u></a></li>
+</ul></div>
 

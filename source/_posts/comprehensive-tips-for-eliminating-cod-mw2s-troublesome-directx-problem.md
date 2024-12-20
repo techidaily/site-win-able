@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Tips for Eliminating COD MW2's Troublesome DirectX Problem
-date: 2024-12-06T16:59:36.516Z
-updated: 2024-12-12T16:59:40.147Z
+date: 2024-12-18T18:17:02.827Z
+updated: 2024-12-19T17:37:04.058Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,10 +55,6 @@ Here’s how you can do this:
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
@@ -76,7 +76,7 @@ Here’s how you can do this:
 ![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
@@ -89,19 +89,11 @@ Here’s how you can do this:
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
@@ -115,6 +107,10 @@ Here’s how you can do this:
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -127,7 +123,7 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Adjust compatibility mode
@@ -154,10 +150,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
@@ -166,9 +158,17 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
@@ -188,10 +188,6 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  9) Check**Yes, try again using different settings,** and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
@@ -199,10 +195,6 @@ Here’s how you can do this:
  10) Click**Test the program…** \>**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  11) Click**Yes, save these settings for this program** .
 
@@ -216,6 +208,10 @@ Here’s how you can do this:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 6: Allow the launcher through the firewall
 
  There is a possibility that your firewall blocks the launcher. So if this is your case, you’re supposed to allow the launcher through the firewall.
@@ -228,15 +224,15 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
  If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
 
@@ -254,9 +250,17 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Network and Sharing Center** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
 
@@ -288,10 +292,6 @@ To do this, simply follow the instructions below:
  1) Press **Windows logo key + R**  together on your keyboard. Type **cmd**  and press **Shift + Ctrl + Enter** at the same time.
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When a prompt appears, simply click **Yes** .
 
@@ -358,20 +358,19 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-narrative-nooks-the-leading-10-rogues/"><u>2024 Approved Narrative Nooks The Leading 10 Rogues</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-crashes-on-your-assassins-creed-valhalla-adventure-top-fixes-players/"><u>Avoiding Crashes on Your Assassin's Creed Valhalla Adventure: Top Fixes Players</u></a></li>
-<li><a href="https://win11.techidaily.com/combatting-insufficient-privilege-error-during-windows-setup/"><u>Combatting Insufficient Privilege Error During Windows Setup</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/crafting-characters-and-plots-with-ai-aided-insight-from-chatgpt/"><u>Crafting Characters and Plots with AI-Aided Insight From ChatGPT</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-latest-amd-rx-6900-xt-gpu-drivers-for-windows-compatible-with-versions-11-10-8-and-7/"><u>Get the Latest AMD RX 6900 XT GPU Drivers for Windows - Compatible with Versions 11, 10, 8 and 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-solve-elex-ii-stability-problems-on-desktop-systems/"><u>How to Prevent and Solve Elex II Stability Problems on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-warframe-from-continuously-stalling/"><u>How to Stop Warframe From Continuously Stalling</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-easy-methods-how-to-transfer-pictures-from-apple-iphone-14-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Easy Methods How To Transfer Pictures From Apple iPhone 14 to PC | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/1722904672732-navigating-style-vs-functionality-an-in-depth-look-at-amazfit-gts-wearable-tech/"><u>Navigating Style vs Functionality: An In-Depth Look at Amazfit GTS Wearable Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-assassins-creed-valhalla-start-up-issues/"><u>Quick Fixes: Resolving 'Assassin's Creed Valhalla' Start-Up Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-overcoming-the-issue-of-far-cry-6-failing-to-start-on-windows/"><u>Resolved: Overcoming the Issue of Far Cry 6 Failing to Start on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-heres-how-you-can-prevent-and-solve-them/"><u>Starfield PC Stability Issues? Here's How You Can Prevent and Solve Them!</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-nubia-red-magic-9-pro-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Nubia Red Magic 9 Pro Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/unlocking-top-tier-gif-utilities-on-ios-devices/"><u>Unlocking Top-Tier GIF Utilities on iOS Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-quick-and-free-ios-apps-to-convert-youtube-videos-to-mp3-files/"><u>[Updated] In 2024, Quick and Free IOS Apps to Convert YouTube Videos to MP3 Files</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-unveiling-the-art-of-flipping-photo-shades-for-2024/"><u>[Updated] Unveiling the Art of Flipping Photo Shades for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-list-of-leading-real-time-tv-streamers-compared/"><u>2024 Approved Ultimate List of Leading Real-Time TV Streamers Compared</u></a></li>
+<li><a href="https://win-able.techidaily.com/definitive-fix-for-escape-from-tarkov-stability-end-pc-game-crashes-once-and-for-all-with-these-steps/"><u>Definitive Fix for 'Escape From Tarkov' Stability: End PC Game Crashes Once & For All with These Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-overcoming-the-solved-the-ascent-game-crash-issues-on-windows/"><u>Fixes & Solutions: Overcoming the [SOLVED] 'The Ascent' Game Crash Issues on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-at-hand-what-to-do-if-your-discord-live-stream-wont-start-properly/"><u>Fixes at Hand! What to Do If Your Discord Live Stream Won't Start Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-last-epoch-game-crashing-issue-on-pc/"><u>How to Resolve the 'Last Epoch' Game Crashing Issue on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-we-solved-starfields-stutter-and-cutout-problem-for-smooth-gaming-experience/"><u>How We Solved Starfield's Stutter and Cutout Problem for Smooth Gaming Experience</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/intelegerea-politici-privinde-expediertele-si-remasurile-guvernul-si-privirea-publica/"><u>Înțelegerea Politici Privinde Expediertele Și Remașurile: Guvernul Și Privirea Publică</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-2024-approved-top-5-quandale-dingle-voice-generators/"><u>New 2024 Approved Top 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/professional-video-guide-secure-your-data-with-bitrasers-enterprise-wipe-tools/"><u>Professional Video Guide: Secure Your Data with BitRaser's Enterprise Wipe Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-preventing-outlook-from-keeping-on-crashing/"><u>Troubleshooting Steps for Preventing Outlook From Keeping on Crashing</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-top-digital-scrapbooking-tools-for-photos-and-videos/"><u>Updated Top Digital Scrapbooking Tools for Photos and Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/windows-11-optimizado-conversor-de-dvd-a-mp4-gratuito-y-eficiente-por-winx/"><u>Windows 11 Optimizado: Conversor De DVD a MP4 Gratuito Y Eficiente Por WinX</u></a></li>
 </ul></div>
 

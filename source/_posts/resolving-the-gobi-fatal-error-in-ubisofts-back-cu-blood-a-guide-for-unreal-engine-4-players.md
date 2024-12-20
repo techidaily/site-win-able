@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Gobi Fatal Error in Ubisoft's Back Cu Blood: A Guide for Unreal Engine 4 Players"
-date: 2024-12-05T16:02:39.023Z
-updated: 2024-12-12T16:43:42.636Z
+date: 2024-12-12T16:09:46.761Z
+updated: 2024-12-19T18:01:58.276Z
 tags:
   - win11
   - win10
@@ -40,6 +40,10 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
  If you encounter the crashing issue again when playing Phasmophobia, move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  Phasmophobia crashing issues might occur when there is bad or corrupted game data. To see if this is the case for you, you can verify the game file from Steam:
@@ -51,7 +55,7 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
@@ -61,10 +65,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 4) Restart the game after the process is complete.
 
 If Phasmophobia still crashes, move on to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Delete corrupted game files
 
@@ -82,12 +82,16 @@ Game crashing issues might happen when your game files are corrupted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5) Relaunch the game to test the issue.
 
 If the game still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
@@ -113,6 +117,10 @@ If the game still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,7 +131,7 @@ If the game still crashes, try the next fix below.
 If the crash still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower your graphics settings
@@ -154,10 +162,6 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
@@ -172,10 +176,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_14-53-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Apply > OK** .
 
  4) Relaunch the game to test your issue.
@@ -183,7 +183,7 @@ If Phasmophobia crashing issues persist, try the next fix below.
 If the problem still exists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 9: Try Phasmophobia beta version
@@ -217,16 +217,19 @@ If the problem still exists, try the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/rime-phone-video-and-image-capturing-best-apps-for-iphones-and-android/"><u>[New] Prime Phone Video & Image Capturing Best Apps for iPhones and Android</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-achieve-higher-interactions-mastering-the-art-of-square-videos-for-2024/"><u>[Updated] Achieve Higher Interactions Mastering the Art of Square Videos for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-guide-to-improved-zoom-video-quality/"><u>[Updated] The Ultimate Guide to Improved Zoom Video Quality</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-creative-loss-unexpectedly-banished-vid/"><u>2024 Approved Creative Loss Unexpectedly Banished Vid</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-lags-expert-fixes-for-a-smoother-naraka-gaming-experience/"><u>Beat the Lags: Expert Fixes for a Smoother Naraka Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-lego-star-wars-the-skywalker-saga-game-crashes-on-your-pc-solutions/"><u>Dealing with Lego Star Wars: The Skywalker Saga Game Crashes on Your PC – Solutions !</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/step-by-step-instrucuion-on-viewing-espn-plus-on-an-lg-smart-tv/"><u>Step-by-Step Instrucuion on Viewing ESPN + On An LG Smart TV</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-starting-age-of-empires-iv-without-a-glitch/"><u>The Ultimate Guide to Starting Age of Empires IV Without a Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/total-war-three-kingdoms-game-stabilization-solutions-for-continuous-play/"><u>Total War: Three Kingdoms – Game Stabilization Solutions for Continuous Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-pc-based-roblox-code-277-bug-with-our-latest-fixes/"><u>Troubleshoot PC-Based Roblox Code 277 Bug with Our Latest Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-crash-errors-on-diablo-ii-a-comprehensive-guide/"><u>Troubleshooting Crash Errors on Diablo II: A Comprehensive Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-ps4-broadcast-simplified-detailed-steps-using-obs/"><u>[New] 2024 Approved PS4 Broadcast Simplified Detailed Steps Using OBS</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-unleash-creativity-the-newcomers-snapseed-tutorial/"><u>[New] 2024 Approved Unleash Creativity The Newcomer's Snapseed Tutorial</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-hidden-gems-10-unique-facebook-meme-pages/"><u>[New] In 2024, Hidden Gems 10 Unique Facebook Meme Pages</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtubers-ultimate-guide-10-keys-to-unique-short-form-videos/"><u>2024 Approved Youtubers' Ultimate Guide 10 Keys to Unique Short-Form Videos</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-a58-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo A58 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://win-able.techidaily.com/directx-trouble-fix-your-fifa-19-game-without-hesitation/"><u>DirectX Trouble? Fix Your FIFA 19 Game Without Hesitation!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-simple-troubleshooting-tips-to-stop-the-division-amo-from-freezing-or-crashing/"><u>Fast and Simple Troubleshooting Tips to Stop The Division Amo From Freezing or Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-frozen-steam-interface-on-windows-and-mac-a-step-by-step-guide-202/"><u>Fixing the Frozen Steam Interface on Windows and Mac - A Step-by-Step Guide (202</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-your-nvme-drivers-on-windows-computers/"><u>How to Easily Update Your NVMe Drivers on Windows Computers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-get-creative-with-fcpx-top-10-free-plugin-essentials/"><u>New Get Creative with FCPX Top 10 Free Plugin Essentials</u></a></li>
+<li><a href="https://win-able.techidaily.com/portable-power-up-how-to-harness-drivereasys-compact-version-effectively/"><u>Portable Power-Up: How to Harness DriverEasy's Compact Version Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/siri-malfunctions-uncover-solutions-for-the-most-frequent-iphone-and-ipad-snags/"><u>Siri Malfunctions: Uncover Solutions for the Most Frequent iPhone & iPad Snags</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleashing-your-brands-potential-on-top-platforms-facebook-twitter-instagram-youtube/"><u>Unleashing Your Brand's Potential on Top Platforms - Facebook, Twitter, Instagram, YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-network-snags-expert-strategies-for-resolving-new-world-connectivity-problems/"><u>Unraveling Network Snags: Expert Strategies for Resolving New World Connectivity Problems</u></a></li>
 </ul></div>
 

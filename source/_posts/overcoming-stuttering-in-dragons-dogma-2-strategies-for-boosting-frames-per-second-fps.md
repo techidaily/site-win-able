@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Stuttering in Dragon's Dogma 2: Strategies for Boosting Frames per Second (FPS)"
-date: 2024-12-11T16:40:05.212Z
-updated: 2024-12-12T16:56:28.531Z
+date: 2024-12-13T18:27:59.481Z
+updated: 2024-12-19T18:18:03.545Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -57,26 +61,38 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
@@ -88,10 +104,6 @@ And here’s how to turn off Steam overlays:
 After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -106,10 +118,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -133,10 +141,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -146,7 +150,7 @@ Here’s how you can check for updates manually:
 If this method failed to fix the lag, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
@@ -162,10 +166,6 @@ To do so, follow these steps:
 
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -186,18 +186,20 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-imovie-smoothly-incorporate-online-videos-soundtracks/"><u>[New] 2024 Approved IMovie Smoothly Incorporate Online Videos' Soundtracks</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-maximizing-macs-potential-capturing-the-spirit-of-roblox-games/"><u>[New] 2024 Approved Maximizing Mac's Potential Capturing the Spirit of Roblox Games</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-time-efficient-ways-to-wipe-out-ssgnature-backdrops/"><u>[New] Time-Efficient Ways to Wipe Out Ssgnature Backdrops</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-kernelbasedll-crash-issue-quickly-and-easily/"><u>[SOLVED] | KernelBase.dll Crash Issue | Quickly & Easily!</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-global-gross-earnings-of-youtube-luminaries/"><u>[Updated] Global Gross Earnings of YouTube Luminaries</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-digging-for-discounted-beauty-in-tiktok-backgrounds/"><u>2024 Approved Digging for Discounted Beauty in TikTok Backgrounds</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/approved-how-to-use-creative-commons-copyright-licenses/"><u>2024 Approved How to Use Creative Commons Copyright Licenses?</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-swift-visualizer-windows-high-speed-image-viewer/"><u>2024 Approved Swift Visualizer - Windows High-Speed Image Viewer</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-launching-valorant-successfully-overcoming-pc-hurdles-in-2/"><u>Expert Advice on Launching Valorant Successfully: Overcoming PC Hurdles in 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-snowrunner-from-regularly-crashing-on-your-computer-troubleshooting-steps-inside/"><u>How to Prevent SnowRunner From Regularly Crashing on Your Computer - Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>In 2024, Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-firefox-stalls-and-lockups-advanced-solutions-users/"><u>Overcoming Firefox Stalls & Lockups: Advanced Solutions Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/video-creators-companion-selecting-perfect-camera-stabilizers/"><u>Video Creator's Companion Selecting Perfect Camera Stabilizers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-dive-deep-into-video-creation-with-these-top-12-vlogger-friendly-cameras/"><u>[New] 2024 Approved Dive Deep Into Video Creation with These Top 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-how-to-record-youtube-videos/"><u>[New] In 2024, How to Record YouTube Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-streamline-your-watching-enabling-youtube-autoplay-in-facebook-feeds/"><u>[New] In 2024, Streamline Your Watching Enabling YouTube Autoplay in Facebook Feeds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-photo-background-removal-techniques/"><u>[New] Mastering Photo Background Removal Techniques</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-mastery-for-phones-choose-from-the-top-8-timers/"><u>[Updated] Instagram Mastery for Phones - Choose From The Top 8 Timers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-from-isolated-viewers-to-shared-experiences-online/"><u>2024 Approved From Isolated Viewers to Shared Experiences Online</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-steps-for-seamless-use-of-telegram-web/"><u>Essential Steps for Seamless Use of Telegram Web</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-use-of-chatgpt-for-precision-editing-and-proofreading-tasks/"><u>Exploring the Use of ChatGPT for Precision Editing and Proofreading Tasks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-nba-2k24s-error-code-727e66ac-a-comprehensive-guide/"><u>Fixing NBA 2K24's Error Code 727E66AC: A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-assassins-creed-odyssey-stuttering-issue-a-step-by-step-guide-for-pc-users/"><u>How to Fix Assassin's Creed Odyssey Stuttering Issue : A Step-by-Step Guide for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multiplayer-how-to-resolve-error-code-84-in-fortnite-and-reconnect-with-your-squad/"><u>Mastering Multiplayer: How to Resolve Error Code 84 in Fortnite & Reconnect with Your Squad</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-call-of-duty-warzone-match-finding-problem-on-pc/"><u>Troubleshoot Your Call of Duty Warzone Match-Finding Problem on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hitman-3-solutions-for-overcoming-the-elusive-connection-issue/"><u>Troubleshooting Hitman 3 - Solutions for Overcoming the Elusive Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-advanced-methods-to-boost-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Advanced Methods to Boost FPS in Tainted Grail: Conquest</u></a></li>
 </ul></div>
 

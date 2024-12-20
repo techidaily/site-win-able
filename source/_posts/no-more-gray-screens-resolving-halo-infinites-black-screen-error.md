@@ -1,7 +1,7 @@
 ---
 title: "No More Gray Screens: Resolving Halo Infinite’s Black Screen Error"
-date: 2024-08-27T20:33:27.674Z
-updated: 2024-08-28T20:33:27.674Z
+date: 2024-12-16T17:47:09.500Z
+updated: 2024-12-19T17:42:29.150Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -54,18 +58,9 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -90,20 +85,29 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+5. Run the game to check the problem will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -122,8 +126,6 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +133,20 @@ thumbnail: https://thmb.techidaily.com/1e40e68e85695875cbdf7c309b6e95c0f93def476
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-revolutionize-your-feed-with-these-10-insta-tools/"><u>[New] Revolutionize Your Feed with These 10 Insta-Tools</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-future-vision-evolving-trends-in-multicam-video-technology/"><u>[Updated] 2024 Approved Future Vision Evolving Trends in Multicam Video Technology</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-seamless-conversion-from-iphonepc-explore-the-8-best-apps/"><u>[Updated] 2024 Approved Seamless Conversion From iPhone/PC Explore the #8 Best Apps</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/a-minimalist-approach-to-ufo-beliefs-with-aminy/"><u>A Minimalist Approach to UFO Beliefs with Aminy</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-addressing-the-recurring-crash-problem-of-xcom-2-on-windows-systems/"><u>Comprehensive Solutions: Addressing the Recurring Crash Problem of XCOM 2 on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/fast-fixes-for-when-your-dns-goes-down-learn-how-here/"><u>Fast Fixes for When Your DNS Goes Down - Learn How Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-qbittorent-back-on-track-if-its-frozen-or-lagging/"><u>How to Get Your qBittorent Back on Track If It's Frozen or Lagging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-notes-from-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Notes from iPhone 15 Pro? | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-performance-optimizing-frames-per-second-fps-and-minimizing-lags-in-watch-dogs-legion/"><u>Improve Performance: Optimizing Frames Per Second (FPS) & Minimizing Lags in Watch Dogs: Legion</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-sharefake-gps-on-uber-for-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How to share/fake gps on Uber for Tecno Phantom V Fold | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3-not-working-expert-tips-to-get-it-running-smoothly-again/"><u>Modern Warfare ^3 Not Working? Expert Tips to Get It Running Smoothly Again!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/motivational-moments-the-ultimate-list-for-insta-for-2024/"><u>Motivational Moments The Ultimate List for Insta for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987125949-say-goodbye-to-constant-kodi-malfunctions-weve-fixed-it/"><u>Say Goodbye to Constant Kodi Malfunctions – We’ve Fixed It</u></a></li>
+</ul></div>
 

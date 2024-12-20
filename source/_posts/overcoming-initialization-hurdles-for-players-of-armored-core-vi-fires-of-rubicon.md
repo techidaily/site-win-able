@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initialization Hurdles for Players of Armored Core VI - Fires of Rubicon
-date: 2024-12-09T16:33:11.448Z
-updated: 2024-12-12T16:31:24.218Z
+date: 2024-12-15T17:55:16.026Z
+updated: 2024-12-19T18:28:09.604Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/36b09f7ccaa9c81816aab7eda16cf8f7440a1a40a
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,12 +50,16 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
 
 If this doesn’t help, you can take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -72,12 +72,12 @@ If this doesn’t help, you can take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,10 +92,6 @@ If this doesn’t help, you can take a look at the next fix below.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -113,33 +109,33 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -150,6 +146,10 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
@@ -178,22 +178,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-elevating-your-podcast-the-best-mics-ranked-for-2024/"><u>[New] Elevating Your Podcast The Best Mics Ranked for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-streamline-your-zoom-talks-with-camera-snaps/"><u>[New] Streamline Your Zoom Talks with Camera Snaps</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-not-launching/"><u>[SOLVED] 'Resident Evil Village Not Launching'</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-effortless-time-lapse-videos-with-samsung-tech/"><u>[Updated] In 2024, Effortless Time-Lapse Videos with Samsung Tech</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unboxed-talent-the-breakout-females-dominating-youtube-for-2024/"><u>[Updated] Unboxed Talent The Breakout Females Dominating YouTube for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-secret-finds-exclusive-free-speech-transcribers-for-mac/"><u>2024 Approved Secret Finds Exclusive Free Speech Transcribers for Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lag-issues-in-rainbow-six-siege-expert-tips-and-solutions/"><u>Eliminate Lag Issues in Rainbow Six Siege - Expert Tips & Solutions</u></a></li>
-<li><a href="https://win-online.techidaily.com/entdecken-sie-die-effektivsten-methoden-erkennen-und-aktualisieren-von-windows-11-nicht-sichtbaren-updates/"><u>Entdecken Sie Die Effektivsten Methoden: Erkennen Und Aktualisieren Von Windows 11 Nicht Sichtbaren Updates</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hide-face-details-picart-privacy-mode-for-2024/"><u>Hide Face Details PicArt Privacy Mode for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Huawei Nova Y71? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/latest-fixes-and-solutions-for-the-not-launching-error-in-hogwarts-legacy/"><u>Latest Fixes and Solutions for the 'Not Launching' Error in Hogwarts Legacy</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-persistent-overwatch-2-shutdowns-a-pc-users-handbook/"><u>Overcoming Persistent 'Overwatch 2' Shutdowns: A PC User’s Handbook</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-when-minecraft-wont-install-on-windows-11/"><u>Resolved: Troubleshooting Steps When Minecraft Won't Install on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-enshrouded-crashes-a-pc-troubleshooting-guide/"><u>Say Goodbye to Enshrouded Crashes - A PC Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frame-drops-on-steam-v-tips-to-improve-performance-on-pc/"><u>Troubleshooting Frame Drops on Steam 'V': Tips to Improve Performance on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-success-rainbow-six-siege-starts-without-errors/"><u>Troubleshooting Success: Rainbow Six Siege Starts Without Errors</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-crucial-info-every-asmr-viewer-should-absorb/"><u>[New] In 2024, Crucial Info Every ASMR Viewer Should Absorb</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fifa-21-not-launching/"><u>[SOLVED] FIFA 21 Not Launching</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-converting-messages-into-speech-on-discord/"><u>[Updated] In 2024, Converting Messages Into Speech on Discord</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-template-to-trendsetter-gamer-channel-banners-guide/"><u>[Updated] In 2024, From Template to Trendsetter Gamer Channel Banners Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-how-to-curate-a-facebook-playlist-via-phonetablet/"><u>2024 Approved How to Curate a Facebook Playlist via Phone/Tablet</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-iv-fixed-no-more-pc-game-crashes/"><u>Age of Empires IV Fixed: No More PC Game Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-zoom-cant-start-video-error-5-effective-solutions-for-smooth-streaming/"><u>Eliminate 'Zoom Can’t Start Video' Error: 5 Effective Solutions for Smooth Streaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-resident-evil-village-not-loading-errors/"><u>Expert Advice on Fixing Resident Evil Village Not Loading Errors</u></a></li>
+<li><a href="https://review-topics.techidaily.com/govee-rgbif-illuminating-floor-lamp-product-review-and-smart-lighting-experience/"><u>Govee RGBiF Illuminating Floor Lamp - Product Review & Smart Lighting Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/hell-let-loose-pc-performance-issues-now-solved-with-easy-steps/"><u>Hell Let Loose PC Performance Issues – Now Solved with Easy Steps</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-open-your-iphone-12-without-a-home-button-by-drfone-ios/"><u>How To Open Your iPhone 12 Without a Home Button</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-honor-magic-5-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Honor Magic 5 Lite FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-vivo-y77t-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Vivo Y77t | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-info-the-unexpected-delay-for-wolcens-lords-of-mayhem/"><u>Inside Info: The Unexpected Delay for Wolcen's 'Lords of Mayhem'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-zte-blade-a73-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best ZTE Blade A73 5G Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/top-10-scriptural-ringtone-selections-for-faith-for-2024/"><u>Top 10 Scriptural Ringtone Selections for Faith for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-deadly-glitches-with-ghostrunner-under-windows-11-solutions-unveiled/"><u>Troubleshooting Deadly Glitches with Ghostrunner Under Windows 11: Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-palworld-top-solutions-for-launch-and-load-issues/"><u>Troubleshooting Palworld: Top Solutions for Launch and Load Issues</u></a></li>
 </ul></div>
 

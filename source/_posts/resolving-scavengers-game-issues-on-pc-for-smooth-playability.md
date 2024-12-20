@@ -1,7 +1,7 @@
 ---
 title: Resolving Scavengers Game Issues on PC for Smooth Playability
-date: 2024-08-27T20:31:23.769Z
-updated: 2024-08-28T20:31:23.769Z
+date: 2024-12-13T17:14:51.235Z
+updated: 2024-12-19T17:56:32.118Z
 tags:
   - win11
   - win10
@@ -53,7 +53,15 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Verify the game files
 
@@ -65,13 +73,11 @@ The outdated or broken graphics driver often crashes the game.
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -80,9 +86,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -90,13 +93,19 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -105,16 +114,10 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -136,8 +139,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,19 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-everything-you-need-to-succeed-with-youtube-short-videos/"><u>[New] In 2024, Everything You Need to Succeed with YouTube Short Videos</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-how-to-download-part-of-a-youtube-videos/"><u>[New] In 2024, How to Download Part of a YouTube Videos?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-metaverse-memetic-marvels-from-copycat-cartoons-to-originalist-oddities/"><u>[New] In 2024, Metaverse Memetic Marvels - From Copycat Cartoons to Originalist Oddities</u></a></li>
+<li><a href="https://extra-information.techidaily.com/assessing-video-broadcast-tools-wirecasts-place/"><u>Assessing Video Broadcast Tools WireCast's Place</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-startup-obstacles-in-helldivers-2-a-guide-to-dealing-with-black-screens/"><u>Bypassing Startup Obstacles in Helldivers 2: A Guide to Dealing with Black Screens</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009544976-dragons-dogma-2-crashing-on-pc-how-to-fix/"><u>Dragon's Dogma 2 Crashing on PC: How to Fix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/mastering-live-broadcasts-a-step-by-step-guide-for-fb-users-for-2024/"><u>Mastering Live Broadcasts A Step-by-Step Guide for FB Users for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-2024-approved-excellence-in-separating-silence-and-signal-audio-extraction-from-videos-for-modern-tech/"><u>New 2024 Approved Excellence in Separating Silence and Signal Audio Extraction From Videos for Modern Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-fallout-3-game-crashes-on-windows-10-pcs/"><u>Resolved: Fixes for Fallout 3 Game Crashes on Windows 10 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-improving-halo-infinite-sound-quality/"><u>Ultimate Troubleshooting Tips for Improving Halo Infinite Sound Quality</u></a></li>
+<li><a href="https://fox-place.techidaily.com/updating-your-scanners-drivers-a-step-by-step-guide-by-yl-computing/"><u>Updating Your Scanner's Drivers: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-wonders-diverse-monitor-decorations-1011-edition/"><u>Windows Wonders: Diverse Monitor Decorations, 10/11 Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing the Issue of MSI Afterburner Not Acknowledging GPU in Windows 11 Environments
-date: 2024-08-27T20:30:20.079Z
-updated: 2024-08-28T20:30:20.079Z
+date: 2024-12-16T16:15:48.165Z
+updated: 2024-12-19T19:24:10.133Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5c41e214e42161b19b3ba596b247b1528c5c85cbd
 ## Fix the Crashing Issue in Elite Dangerous on Your Computer Today
 
 Many Elite Dangerous players have been reporting the game crashing issue. It occurs randomly, at launch or mid-game, causing extreme annoyance. In this guide, we’ll take a look at Elite Dangerous crashing fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Fix Elite Dangerous Crashing
 
@@ -48,11 +52,16 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -60,16 +69,10 @@ This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)**  Relaunch your game to test the issue.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -92,8 +95,9 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -116,15 +120,13 @@ This could take several minutes. Wait for the process to be complete.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -150,8 +152,9 @@ If the crashing still happens, continue with the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Double-click**DisplaySettings.xml** to open the file.
 
 **4)** Change the fullscreen option to**<FullScreen>0</FullScreen>** .
@@ -170,8 +173,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +180,20 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-unraveling-the-enigma-how-to-download-messages-from-facebook/"><u>[Updated] In 2024, Unraveling the Enigma How to Download Messages From Facebook</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-key-lights-and-soft-shadows-for-vloggers/"><u>[Updated] Key Lights and Soft Shadows for Vloggers</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/cost-free-cloud-storage-solutions-auto-backup-of-files-to-network-servers/"><u>Cost-Free Cloud Storage Solutions: Auto-Backup of Files to Network Servers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-call-of-duty-warzone-black-screen-problem-with-these-latest-tips/"><u>Fixing Your Call of Duty: Warzone Black Screen Problem with These Latest Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-updated-graphic-drivers-in-forza-horizon-5-game/"><u>How To Correct Updated Graphic Drivers In Forza Horizon 5 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-enable-hyper-v-capabilities-on-your-windows-10-pc/"><u>How to Successfully Enable Hyper-V Capabilities on Your Windows 10 PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ase-your-videos-impact-essential-keyword-analysis-resources-for-2024/"><u>Increase Your Video's Impact Essential Keyword Analysis Resources for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/madden-21-update-eliminates-common-pc-gaming-stops-and-drops/"><u>Madden 21 Update Eliminates Common PC Gaming Stops and Drops</u></a></li>
+<li><a href="https://driver-install.techidaily.com/pairing-w11-with-xbox-one-gaming-controllers/"><u>Pairing W11 with Xbox One Gaming Controllers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/resolve-safaris-live-streaming-stumbling-blocks-for-2024/"><u>Resolve Safari's Live-Streaming Stumbling Blocks for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-battlefield-2042s-frame-rate-problems-and-stuttering-for-pc-users/"><u>Resolved: How to Fix Battlefield 2042'S Frame Rate Problems & Stuttering for PC Users</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210180694-9780997837988-the-manna-paradigm-shift/"><u>The Manna Paradigm Shift | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-non-functional-windows-11-taskbar-problems/"><u>Troubleshooting Guide: Resolving Non-Functional Windows 11 Taskbar Problems</u></a></li>
+</ul></div>
 

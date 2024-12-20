@@ -1,7 +1,7 @@
 ---
 title: Speeding Up Download Speeds on Origin - Proven Tips and Tricks for Gamers in 202N4
-date: 2024-08-23T11:31:52.554Z
-updated: 2024-08-24T11:31:52.554Z
+date: 2024-12-15T16:15:13.106Z
+updated: 2024-12-19T17:27:12.784Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 7. **[Reinstall Origin](https://tools.techidaily.com/drivereasy/download/)**
 8. **[If your problem persists…](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your network
 
  The Origin download requires a stable network. If you’re seeing slow speeds, it’s most likely an issue with your network. In this case, you can:
@@ -45,6 +49,10 @@ Players have been reporting an issue of extremely slow download speed in Origin.
  With so many devices connected to your network, Origin download can be quite slow. So if possible, disconnect them while downloading.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your network adapter driver
 
@@ -74,9 +82,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Run Origin as an administrator
 
  Running administrator mode will unlock permissions. Sometimes it’s quite helpful to grant Origin administrator rights to function properly. To run Origin as an administrator, take the steps below:
@@ -91,9 +96,6 @@ OR
 
 ![run Origin as an administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-Origin-as-an-administrator-2-1.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  After the changes are applied, the program always runs with administrator permissions. If you want to disable this option, just uncheck it and follow the same steps.
 
 ---
@@ -108,20 +110,18 @@ OR
 
 ![how to bring up system configuration](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click on the**Services** tab. Check the box to**Hide all Microsoft services** , then click**Disable all** .
 
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click on the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Under the**Startup** tab, right-click on the programs**one by one** and click**Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/prevent-programs-from-starting-automatically.jpg)
@@ -137,6 +137,10 @@ OR
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.png)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Start Origin in R&D mode
 
@@ -158,46 +162,38 @@ OR
 
 ![slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/RD-mode.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**File** \>**Save As** .
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Type**EACore.ini** in the**File name** .
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 After that, you’ll see an icon on your desktop like the picture.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/EACore-icon.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  6) Now start Origin, and click Yes when the USE CONFIGURATION FILE ON DESKTOP window pops up. This will overwrite your old config file. After that, log into Origin.
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-4.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The**EACore.ini** file is deleted from your desktop once you import it. If you want to leave R&D mode, you can navigate to the file by typing**%ProgramData%/Origin** in the Run box.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Clean the Origin cache file
 
  When things don’t work right with your Origin download, clearing your cache can help fix the issue. But before you clear the cache, make sure the Origin app is fully closed.
@@ -206,10 +202,6 @@ After that, you’ll see an icon on your desktop like the picture.
 
 ![exit Origin](https://images.drivereasy.com/wp-content/uploads/2020/09/exit-Origin.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
  To double-check if it’s running in the background, you can go to the**Task Manager** :
 
  1) Press the**Windows logo key** +**R** together on your keyboard to open the Run box.
@@ -234,8 +226,9 @@ After that, you’ll see an icon on your desktop like the picture.
 ![open the cache files](https://images.drivereasy.com/wp-content/uploads/2020/09/open-the-cache-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Delete all the files and folders inside Origin**except for LocalContent** . Do not delete this folder.
 
  4) Open the**Run** box again. Type**%AppData%** and then click**OK** .
@@ -243,22 +236,21 @@ After that, you’ll see an icon on your desktop like the picture.
 ![access the appdata](https://images.drivereasy.com/wp-content/uploads/2020/09/access-the-appdata.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In the**Roaming** folder, delete the**Origin** folder.
 
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-Origin-folder-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) In the**address bar** , click on**AppData** .
 
 ![access the appdata](https://images.drivereasy.com/wp-content/uploads/2020/09/access-the-appdata-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  7) Double-click on the**Local** folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-origin-cache-1.png)
@@ -285,9 +277,6 @@ After that, restart your computer and log into Origin.
 
 ![how to  uninstall Origin; slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/how-to-uninstall-an-app-2-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After you finish uninstalling the app, navigate to[EA Origin](https://www.origin.com/hkg/en-us/store/download) to download the latest version. Till then, follow the on-screen instructions to install it.
 
 ---
@@ -314,8 +303,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +310,24 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-beyond-boundaries-recognizing-leading-women-in-digital-storytelling-for-2024/"><u>[Updated] Beyond Boundaries Recognizing Leading Women in Digital Storytelling for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-dive-into-high-end-slow-motion-filming-a-guide-for-aspiring-tiktok-stars/"><u>[Updated] Dive Into High-End Slow Motion Filming A Guide for Aspiring TikTok Stars</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-best-mac-speech-loggers-our-curated-5-pick-list/"><u>[Updated] In 2024, Best Mac Speech Loggers Our Curated 5-Pick List</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-corsair-icue-hurdles-in-windows-10-and-11-a-users-handbook/"><u>Bypassing Corsair iCUE Hurdles in Windows 10 and 11 - A User’s Handbook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/eliminating-problematic-code-0x00000001-a-guide-to-xbox-game-pass-fixes-on-windows-11/"><u>Eliminating Problematic Code 0X00000001: A Guide to Xbox Game Pass Fixes on Windows 11</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-complete-course-on-managing-and-editing-srt-on-mac/"><u>In 2024, A Complete Course on Managing and Editing SRT on Mac</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-perfecting-the-aesthetic-ootd-tiktok-on-a-mac/"><u>In 2024, Perfecting the Aesthetic OOTD TikTok on a Mac</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/innovative-iphone-macro-tactics-for-professional-results/"><u>Innovative iPhone Macro Tactics for Professional Results</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-quick-snapchat-lens-creation-two-simple-techniques-for-2024/"><u>Mastering Quick Snapchat Lens Creation Two Simple Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-arrival-of-diablo-immortal-on-pc-gaming-platforms-what-gamers-need-to-know/"><u>No Arrival of Diablo Immortal on PC Gaming Platforms: What Gamers Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-failed-connection-restore-communication-between-your-computer-and-steam-client/"><u>Overcome 'Failed Connection' – Restore Communication Between Your Computer and Steam Client</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-kodi-connection-woes-fixing-directory-retrieval-errors/"><u>Resolve Your Kodi Connection Woes: Fixing Directory Retrieval Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-unfreeze-pathfinder-conquering-the-pc-version-of-wrath-of-the-righteous-with-ease/"><u>Solved! Unfreeze Pathfinder: Conquering the PC Version of Wrath of the Righteous with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-palworlds-failure-to-load-swift-solutions-unveiled/"><u>Solving PalWorld's Failure to Load: Swift Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-installation-issues-solving-age-of-empires-iv-download-errors/"><u>Troubleshooting Installation Issues: Solving 'Age of Empires IV' Download Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-performance-hiccups-in-guilty-gear-strive/"><u>Troubleshooting Performance Hiccups in Guilty Gear -Strive-</u></a></li>
+</ul></div>
 

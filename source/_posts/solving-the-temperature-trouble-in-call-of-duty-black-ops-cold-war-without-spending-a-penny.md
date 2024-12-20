@@ -1,7 +1,7 @@
 ---
 title: "Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny"
-date: 2024-12-07T16:09:16.798Z
-updated: 2024-12-12T16:22:51.248Z
+date: 2024-12-13T17:17:35.983Z
+updated: 2024-12-19T19:05:13.935Z
 tags:
   - win11
   - win10
@@ -70,6 +70,10 @@ You can do it with only 2 steps:
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -84,15 +88,15 @@ You can do it with only 2 steps:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -104,10 +108,6 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -118,7 +118,7 @@ And it’s quite easy to update too:
  If this method doesn’t help your case, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
@@ -126,10 +126,6 @@ And it’s quite easy to update too:
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -141,22 +137,26 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -180,20 +180,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-enhance-engagement-mastering-template-based-video-description-writing/"><u>[New] 2024 Approved Enhance Engagement Mastering Template-Based Video Description Writing</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-top-5-alternative-editors-beyond-youtubes-limits/"><u>[New] In 2024, Top 5 Alternative Editors Beyond Youtube's Limits</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-30-powerful-bots-for-a-thriving-discord-hub/"><u>[Updated] 2024 Approved 30 Powerful Bots for a Thriving Discord Hub</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-newcomers-pathway-maximizing-money-on-periscope-platform/"><u>[Updated] Newcomer's Pathway Maximizing Money on Periscope Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-optimization-strategies-to-overcome-sudden-declines-in-frames-per-second-fps/"><u>Cyberpunk 2077 Optimization: Strategies to Overcome Sudden Declines in Frames Per Second (FPS)</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-constant-freezes-and-crashes-for-necromunda-hired-gun-on-windows-pcs/"><u>Fixing Constant Freezes and Crashes for Necromunda: Hired Gun on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fps-improvements-in-red-dead-redemption-2-overcoming-stuttering-issues-now-resolved/"><u>FPS Improvements in Red Dead Redemption 2: Overcoming Stuttering Issues - Now Resolved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-life-is-strange-true-colors-game-crashes-effectively/"><u>How To Resolve Life Is Strange: True Colors Game Crashes Effectively</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-itel-a60s-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Itel A60s Step-by-Step Solutions | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/reviving-a-broken-logitech-c920-a-guide-for-resolving-webcam-issues/"><u>Reviving a Broken Logitech C920: A Guide for Resolving Webcam Issues</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/test-ride-discover-the-simplified-controls-of-mods-latest-foldable-scooter-bike/"><u>Test Ride: Discover the Simplified Controls of Mod's Latest Foldable Scooter Bike</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-dev-error-5573-on-windows-playstation-and-xbox/"><u>Troubleshooting Steps for Resolving Dev Error 5573 on Windows, PlayStation, and Xbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/updating-your-amd-graphics-card-software-for-enhanced-compatibility-with-windows-117xp/"><u>Updating Your AMD Graphics Card Software for Enhanced Compatibility with Windows 11/7/XP</u></a></li>
-<li><a href="https://win-studio.techidaily.com/windows-11-startup-issues-resolved-on-clonelyzee-cloned-hard-drive/"><u>Windows 11 Startup Issues Resolved on Clonelyzee-Cloned Hard Drive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-no-price-tag-on-adventure-top-10-gratuitous-online-rpgs/"><u>[New] No Price Tag On Adventure Top 10 Gratuitous Online RPGs</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-omnipresent-overture-the-virtual-cinema/"><u>[New] Omnipresent Overture The Virtual Cinema</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-how-to-prevent-and-resolve-r-type-final-2-from-freezingcrashing-on-desktop-computers/"><u>[SOLUTION] How to Prevent and Resolve R-Type Final #2 From Freezing/Crashing on Desktop Computers</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-essential-criteria-in-searching-for-masterful-cinematographers/"><u>[Updated] Essential Criteria in Searching for Masterful Cinematographers</u></a></li>
+<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-game-stability-issues-on-pc-solved/"><u>Alien Fireteam Elite Game Stability Issues on PC - Solved!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/fix-guide-for-compatibility-issues-amd-rx-560-on-various-windows-os-versions/"><u>Fix Guide for Compatibility Issues: AMD RX 560 on Various Windows OS Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-dragon-quest-xi-adventure-from-halting-unexpectedly/"><u>How to Prevent Your Dragon Quest XI Adventure From Halting Unexpectedly</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-fake-gps-location-pro-and-is-it-good-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, What is Fake GPS Location Pro and Is It Good On Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-3s-gameplay-issues-understanding-the-notorious-fps-hiccups/"><u>Modern Warfare 3'S Gameplay Issues: Understanding the Notorious FPS Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-pc-to-stop-stuttering-during-fortnite-battles/"><u>Optimize Your PC to Stop Stuttering During Fortnite Battles</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-when-apex-legends-fails-to-launch/"><u>Quick Fixes for When Apex Legends Fails to Launch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rectifying-elusive-energy-duration-display-on-pcs-running-win-11/"><u>Rectifying Elusive Energy Duration Display on PCs Running Win 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/scriptwriting-secrets-penning-podcast-episodes-that-resonate-for-2024/"><u>Scriptwriting Secrets Penning Podcast Episodes That Resonate for 2024</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/transformation-guide-converting-azw-files-into-epub-format-for-universal-reading-on-tablets-and-e-readers/"><u>Transformation Guide: Converting AZW Files Into ePub Format for Universal Reading on Tablets and E-Readers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gimp-software-instability-and-crashes-on-desktop-pc/"><u>Troubleshooting GIMP Software Instability and Crashes on Desktop PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-cant-i-play-call-of-duty-black-ops-4/"><u>Troubleshooting: Why Can't I Play Call of Duty Black Ops 4?</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unlocking-the-magic-advanced-techniques-for-tiktok-videos/"><u>Unlocking the Magic Advanced Techniques for TikTok Videos</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solve the Issue of Internet Explorer Not Working - Easy Fixes to Try First
-date: 2024-08-23T11:31:32.095Z
-updated: 2024-08-24T11:31:32.095Z
+date: 2024-12-14T19:09:50.288Z
+updated: 2024-12-19T19:18:31.508Z
 tags:
   - win11
   - win10
@@ -40,18 +40,12 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -63,8 +57,9 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -77,9 +72,6 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -91,10 +83,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -106,8 +94,9 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
@@ -118,7 +107,15 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable firewall and antivirus software
 
@@ -130,6 +127,10 @@ Here’s how to update drivers with Driver Easy:
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
@@ -137,6 +138,10 @@ Here’s how to update drivers with Driver Easy:
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -154,8 +159,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,26 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtubes-revenue-model-for-video-clips-for-2024/"><u>[New] Decoding YouTube's Revenue Model for Video Clips for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unveiling-the-secrets-of-youtube-shorts-success-for-2024/"><u>[Updated] Unveiling the Secrets of YouTube Shorts Success for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/all-day-endurance-for-your-macbooks-battery-expert-strategies-featured-on-zdnet/"><u>All-Day Endurance for Your MacBook's Battery - Expert Strategies Featured on ZDNET</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-swift-fixes-for-a-non-functional-oculus-link/"><u>Banish the Darkness: Swift Fixes for a Non-Functional Oculus Link</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-valve-counter-strike-2-launch-problems/"><u>Diagnosing and Repairing Valve Counter-Strike 2 Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002259392-elden-ring-optimization-guide-6-rapid-remedies-to-resolve-fps-fluctuations-and-hitches/"><u>Elden Ring Optimization Guide: 6 Rapid Remedies to Resolve FPS Fluctuations & Hitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-world-of-warcraft-not-starting-on-pc/"><u>How to Fix 'World of Warcraft Not Starting on PC'</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-infinix-gt-10-promirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Infinix GT 10 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-meizu-21-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Meizu 21 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-v-purse-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor V Purse FRP</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-not-detecting-headphones-solved/"><u>Laptop Not Detecting Headphones [Solved]</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-popularity-pay-per-million-views/"><u>Monetizing Popularity Pay Per Million Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-resolving-lagging-and-connection-errors-in-the-new-game-universe/"><u>Quick Guide: Resolving Lagging & Connection Errors in the New Game Universe</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dragons-dogma-2-pc-crashes-easy-fix-guide/"><u>Troubleshooting Dragon's Dogma 2 PC Crashes - Easy Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-what-to-do-if-your-qbittorrent-freezes-or-stalls/"><u>Troubleshooting Steps: What to Do If Your qBittorrent Freezes or Stalls</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleashing-your-sales-potential-writing-winning-proposals-using-chatgpt-techniques/"><u>Unleashing Your Sales Potential: Writing Winning Proposals Using ChatGPT Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/valorant-performance-optimization-eliminate-stutters-and-increase-frame-rates/"><u>Valorant Performance Optimization: Eliminate Stutters & Increase Frame Rates</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-outlook-keep-closing-solutions-to-persistent-crashing-issues/"><u>Why Does My Outlook Keep Closing? Solutions to Persistent Crashing Issues</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-won-t-play-mp4-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi won’t play MP4 files</u></a></li>
+</ul></div>
 

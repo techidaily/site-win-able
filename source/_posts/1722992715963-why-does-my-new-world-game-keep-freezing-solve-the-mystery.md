@@ -1,7 +1,7 @@
 ---
 title: Why Does My 'New World' Game Keep Freezing? Solve the Mystery!
-date: 2024-08-23T11:31:12.777Z
-updated: 2024-08-24T11:31:12.777Z
+date: 2024-12-16T19:01:58.066Z
+updated: 2024-12-19T19:38:44.066Z
 tags:
   - win11
   - win10
@@ -40,6 +40,11 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
@@ -50,9 +55,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -62,9 +64,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 If the problem persists, take a look at the next fix below.
 
@@ -76,23 +75,28 @@ If the problem persists, take a look at the next fix below.
 2. Type**devmgmt.msc** and click the **OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Underclock your GPU core
 
  Many gamers overclock graphics cards for better performance. Usually, the higher you overclock your GPU, the more processing power you get. But for the New World freezing issue, underclocking your GPU core could be the solution.
@@ -118,15 +122,17 @@ If it’s still not working, try the next fix.
 1. Open New World. On the top right corner, click the **gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 6: Reset your system without losing data
 
  It’s always important to keep your Windows up to date. But if your system is up-to-date, you can try to reset the Windows system. We all know resetting your Windows system will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  
@@ -136,16 +142,19 @@ If it’s still not working, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -167,8 +176,6 @@ If you haven’t tried it, give it a go it might help.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +183,26 @@ If you haven’t tried it, give it a go it might help.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-harnessing-the-power-of-zooms-video-filter-options-for-2024/"><u>[New] Harnessing the Power of Zoom's Video Filter Options for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ow-to-transfer-video-from-youtube-to-dailymotion-for-2024/"><u>[New] How to Transfer Video From YouTube to Dailymotion for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nnovative-tactics-to-amplify-game-vids-via-hashtags/"><u>[New] Innovative Tactics to Amplify Game Vids via Hashtags</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-the-ultimate-guide-to-text-preset-mastery/"><u>[Updated] In 2024, The Ultimate Guide to Text Preset Mastery</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-comprehensive-steps-for-successfully-starting-overwatch-2-troubleshooting-guide-2e4/"><u>Beat the Bug: Comprehensive Steps for Successfully Starting Overwatch 2 (Troubleshooting Guide - 2E4)</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-strategies-for-addressing-the-crossbow-problem-in-your-minecraft-adventure/"><u>Comprehensive Strategies for Addressing the 'Crossbow' Problem in Your Minecraft Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/demystifying-assassins-creed-valhallas-delayed-release-announcement/"><u>Demystifying Assassin's Creed Valhalla's Delayed Release Announcement</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnose-and-fix-stuttering-problems-in-serious-sam-4-for-a-smooth-gaming-experience/"><u>Diagnose and Fix Stuttering Problems in Serious Sam 4 for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-launching-football-manager-2023-successfully/"><u>Easy Solutions for Launching Football Manager 2023 Successfully</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-achieve-professional-aesthetics-embedding-watermarks-and-branding-in-videos/"><u>In 2024, Achieve Professional Aesthetics Embedding Watermarks & Branding in Videos</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-top-100-earnest-creators-online/"><u>In 2024, Top 100 Earnest Creators Online</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/maximize-your-home-security-with-iseebells-video-doorbell-the-best-sub-50-options-reviewed/"><u>Maximize Your Home Security with iSeeBell's Video Doorbell - The Best Sub $50 Options Reviewed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-scavengers-crashing-on-pc-a-comprehensive-guide/"><u>Resolving Issues with Scavengers Crashing on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamping-visual-experience-improving-outriders-blurry-display-problems/"><u>Revamping Visual Experience: Improving Outriders' Blurry Display Problems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/taking-control-of-quality-edit-your-published-videos-on-youtube-for-2024/"><u>Taking Control of Quality Edit Your Published Videos on YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-for-your-nvidia-geforce-error-code-0x0003-a-comprehve-guide/"><u>The Ultimate Fix for Your NVIDIA GeForce Error Code 0X0003: A Comprehve Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-x-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone X Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-directdraw-compatibility-errors/"><u>Understanding and Resolving DirectDraw Compatibility Errors</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zigzag-zeal-spotlight-on-snowboard-cross-thrills-winter-olympics-22/"><u>Zigzag Zeal Spotlight on Snowboard Cross Thrills, Winter Olympics '22</u></a></li>
+</ul></div>
 

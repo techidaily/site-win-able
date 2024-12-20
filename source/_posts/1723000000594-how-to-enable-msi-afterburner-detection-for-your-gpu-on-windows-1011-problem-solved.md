@@ -1,7 +1,7 @@
 ---
 title: "How to Enable MSI Afterburner Detection for Your GPU on Windows 10/11: Problem Solved!"
-date: 2024-08-27T20:30:37.975Z
-updated: 2024-08-28T20:30:37.975Z
+date: 2024-12-18T19:25:28.015Z
+updated: 2024-12-19T17:46:43.314Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
  Many Windows 10 users are reporting this problem as well. But no worries, we’re here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Windows 10 Start Menu Not Working’
 
  The exact cause of this problem varies on different combinations of PC environments, but there are indeed solutions that are going to help you fix your not working Start menu problem before Microsoft rolls out a permanent solution.
@@ -39,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
  Before you go on with the following methods, you should[**create a system restore point**](https://tools.techidaily.com/drivereasy/download/) first, just in case any unwanted error happens.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1: Relog into your account
 
@@ -64,23 +72,14 @@ thumbnail: https://thmb.techidaily.com/e849b3433ae861a98a41e422ed19bb8502406c236
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
 
 net user newusername newpassword /add
@@ -96,8 +95,9 @@ net user newusername newpassword /add
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3: Reinstall video card and sound card drivers
 
  Many Windows users say that their video card driver and sound card driver are the culprit, especially after the latest Windows update, and quite a number of them got their Start menu back after they reinstall or update their video and sound card drivers to the recent correct version. Here is what you can do to get your Start menu working like a charm again:
@@ -116,9 +116,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b939274834.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  5) Restart your computer after the uninstall of both of your video card driver and your sound card driver.
 
  6) Going forward, you need to update your video and sound card driver.
@@ -133,9 +130,6 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
@@ -154,9 +148,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -168,11 +159,16 @@ net user newusername newpassword /add
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b98211438e.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) View by**Category** , then click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b984aa9035.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Find Dropbox, and click**Uninstall** to get it removed from your computer.
 
@@ -200,20 +196,22 @@ net user newusername newpassword /add
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c44015d6.png)
@@ -223,6 +221,10 @@ net user newusername newpassword /add
 DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9c8a8bb33.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) When these two tests finishes, check if your Start menu is back.
 
@@ -236,12 +238,13 @@ DISM /Online /Cleanup-Image /RestoreHealth
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8999a1831.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
@@ -254,15 +257,16 @@ de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this command is not working in your case, try the following command instead:
 
 Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
  4) There, your Cortana is reinstalled, and your Start menu should also be back now.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Last but not least: refresh your PC
 
  If you have tried all the above methods, but still you don’t see any promising signs, there is still one more solution left for you to have a try: perform a refresh on your Windows 10\.
@@ -277,8 +281,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -286,4 +288,20 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-convert-facebook-video-to-mp4-720p1080phd-online-and-free/"><u>[New] 2024 Approved 2023 | Convert Facebook Video to MP4 720P/1080p/HD Online and Free?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-loves-epic-tales-the-finest-9-weddings-on-youtube-and-vimeo/"><u>[New] In 2024, Love's Epic Tales The Finest 9 Weddings on YouTube & Vimeo</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-oppo-a2-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Oppo A2 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cant-find-doom-eternal-release-date-discover-how-to-access-it-now/"><u>Can't Find DOOM Eternal Release Date? Discover How To Access It Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726028698222-dvrmp4/"><u>DVRビデオファイルをMP4形式で簡単に変換する手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/hogwarts-legacy-wont-start-a-comprehensive-fix-guide-for-gamers-what-to-do/"><u>Hogwarts Legacy Won't Start? A Comprehensive Fix Guide for Gamers - What to Do</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/hp-0xc000021a/"><u>HPシステムの異常エラー診断: コード 0xC000021Aの理解</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-video-timing-what-you-need-to-know-for-2024/"><u>Instagram Video Timing What You Need To Know for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-optimal-performance-6-tweaks-for-lowering-zooms-cpu-usage/"><u>Mastering Optimal Performance: 6 Tweaks for Lowering Zoom's CPU Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-witcher-3-wild-hunt-launch-errors-for-a-smooth-gaming-experience/"><u>Overcoming 'Witcher 3: Wild Hunt' Launch Errors for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/scrutinizing-the-best-deals-on-modern-pet-cameras/"><u>Scrutinizing the Best Deals on Modern Pet Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-intel-pc-drivers-and-assistance-tools-that-wont-start-up-correctly/"><u>Troubleshooting Intel PC Drivers and Assistance Tools That Won’t Start Up Correctly</u></a></li>
+</ul></div>
 

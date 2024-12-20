@@ -1,7 +1,7 @@
 ---
 title: Resolve Connection Glitches in Apex Legends with These Tips
-date: 2024-08-27T20:33:55.792Z
-updated: 2024-08-28T20:33:55.792Z
+date: 2024-12-14T16:35:19.176Z
+updated: 2024-12-19T18:29:57.045Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 3. **[Verify game files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Edit registry](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update the graphics driver
 
  This Engine error may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0209829f51.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of_ALL_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
@@ -55,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/68fb059a648e909d234d3bab20298ad1bdfcbd57c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run Apex Legends as an administrator
 
  This engine error may happen if the game does not have administrative privileges. So you should make sure to run Apex Legends as an administrator to see if it fixes the issue.
@@ -72,8 +81,9 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
@@ -95,8 +105,9 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -105,9 +116,6 @@ Here is how to verify game files:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4: Edit Registry
 
  A missing command line from Registry may also lead to the engine error in Apex Legends. So you can add a command line to see if it solves the error.
@@ -120,6 +128,10 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -128,16 +140,10 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
@@ -159,8 +165,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +172,24 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-the-ultimate-list-of-free-vfx-websites/"><u>[New] 2024 Approved The Ultimate List of FREE VFX Websites</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-crafting-immersive-experiences-with-compelling-tiktok-captions-top-5-for-2024/"><u>[New] Crafting Immersive Experiences with Compelling TikTok Captions (Top 5) for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-customizing-ae-title-designs/"><u>[New] In 2024, Customizing AE Title Designs</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-battle-begins-tiktok-vs-snapchat-analysis/"><u>[New] The Battle Begins TikTok vs Snapchat Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-targeted-approach-carving-out-your-space-on-youtube/"><u>[Updated] Targeted Approach Carving Out Your Space on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/ark-the-island-escape-ultimate-guide-for-increasing-fps-on-pc-gaming-systems/"><u>ARK: The Island Escape – Ultimate Guide for Increasing FPS on PC Gaming Systems</u></a></li>
+<li><a href="https://fox-links.techidaily.com/crafting-humor-the-art-of-mememaking/"><u>Crafting Humor The Art of Mememaking</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-chrome-hiccups-swift-troubleshooting-for-windows-nx-users/"><u>Eliminate Chrome Hiccups: Swift Troubleshooting for Windows nX Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-gta-5-startup-failures/"><u>Expert Tips for Fixing 'GTA 5 Startup Failures'</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-your-gta-5-online-gameplay-experience-effectively/"><u>How to Restore Your GTA 5 Online Gameplay Experience Effectively</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ideal-timing-aids-the-best-clock-apps-for-your-big-day-for-2024/"><u>Ideal Timing Aids The Best Clock Apps For Your Big Day for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-pathways-to-windows-performance-reports/"><u>Quick Pathways to Windows Performance Reports</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-get-origin-browser-working-again-in-windows-n-version-11/"><u>Resolved: How to Get Origin Browser Working Again in Windows N Version 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-games-not-launching-on-windows-11/"><u>Solved: Steam Games Not Launching on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-valorant-from-crashing-effective-solutions-for-pc-gamers/"><u>Stop Valorant From Crashing - Effective Solutions for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-with-your-pathfinder-gamepad/"><u>Troubleshooting Tips: Resolving Issues with Your Pathfinder Gamepad</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-animation-enthusiasts-choice-top-8-downloaded-sound-effects-for-your-projects-for-2024/"><u>Updated Animation Enthusiasts Choice Top 8 Downloaded Sound Effects for Your Projects for 2024</u></a></li>
+</ul></div>
 

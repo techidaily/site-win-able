@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Resolving Continuous Crashes in Outlook Software"
-date: 2024-08-27T20:31:56.924Z
-updated: 2024-08-28T20:31:56.924Z
+date: 2024-12-16T16:33:08.714Z
+updated: 2024-12-19T17:28:13.022Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 **[How to Enter Safe Mode in Windows 8 & 8.1](https://tools.techidaily.com/drivereasy/download/)**
 **[How to Enter Safe Mode in Window 7, Vista & XP](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update Outlook
 
  Sometimes, an outdated version of Outlook may also be the cause of your issue. In this case, an update is very likely the solution to it. Here is how to do it:
@@ -49,23 +53,22 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 **3)** Click **Office Account** , and then click **Update Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-27-1024x620.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Click **Update Now.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-15-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Wait for the program to detect the latest version of Outlook, and then follow the on-screen instructions to update your Outlook.
 
  After the update, reopen Outlook to see if it can work correctly. If not, read on and check the fix below.
@@ -78,28 +81,25 @@ Outlook keeps crashing on your computer? This is quite annoying and you’re cer
  Run **Outlook** and click **File** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-30-58.jpg)
 2. **Click Account Settings, and then click Account Settings in the drop-down menu.**  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-32-45.jpg)
 3. **Select your account, then click Repair.**  
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Select**your account** , then click**Repair** .![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-28.jpg)
 4. **Click Next, then follow the on-screen instructions to repair your account.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  Click **Next,** then follow the on-screen instructions to repair your account.![](https://images.drivereasy.com/wp-content/uploads/2019/07/2019-12-31_10-33-54.jpg)
 5. **Reopen Outlook to check if it runs smoothly now.**  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  Reopen Outlook to check if it runs smoothly now.
 
 If your problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Remove unnecessary Outlook add-ins
 
@@ -111,10 +111,6 @@ If your problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **3)** Click **Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-48.jpg)
@@ -123,17 +119,10 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-13-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 **5)** Verify that the **Manage** option is set to **COM Add-ins** . Then, click **Go** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-12-59.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Uncheck the box next to the unessential add-ins to disable them. Then, click **OK.**
 
  Some add-ins may be essential for Outlook to work. So, please don’t uncheck any add-ins that you’re not familiar with.
@@ -152,17 +141,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-56.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Account Settings** , and then click **Account Settings** in the drop-down menu.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **Data Files tab** . Then, select **your account** and click **Open File Location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-11-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)**  If you find an **.ost file** in the current window, right-click **the file** , and then click **Rename** .
 
  If you see a **.pst file** instead, skip this fix and check **[fix 6](https://tools.techidaily.com/drivereasy/download/)**  below.
@@ -180,8 +174,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Reopen Outlook to see if this worked for you. If your problem still exists, check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Office 365
 
  If none of the above fixes helped, reinstalling Office 365 may be the solution for you. Here is how to do it:
@@ -194,13 +189,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click **Microsoft Office 365** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-10-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Go to[](https://www.office.com/) **[Office 365](https://www.office.com/)**  official website and click **Sign in** to sign in your account.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_15-09-40-1024x449.jpg)
@@ -227,8 +227,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -236,4 +234,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-ultimate-guide-to-non-time-restricted-recorders/"><u>[New] In 2024, Ultimate Guide to Non-Time Restricted Recorders</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-advanced-windows-based-editors-for-high-quality-videography/"><u>[Updated] Advanced Windows-Based Editors for High-Quality Videography</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-clockwise-conversions-transform-your-instagram-posts-through-rotation/"><u>2024 Approved Clockwise Conversions Transform Your Instagram Posts Through Rotation</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-efficient-screen-capture-devices-for-education/"><u>2024 Approved Efficient Screen Capture Devices for Education</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-precision-in-capturing-movie-moments/"><u>2024 Approved Precision in Capturing Movie Moments</u></a></li>
+<li><a href="https://win-able.techidaily.com/eight-proven-fixes-for-unresponsive-firefox-get-back-to-browsing-today/"><u>Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-steelseries-gg-controller-engine-failures-in-windows-environments/"><u>Expert Tips for Resolving SteelSeries GG Controller Engine Failures in Windows Environments</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-rust-program-from-continually-closing-troubleshooting-tips/"><u>How to Prevent Your Rust Program From Continually Closing - Troubleshooting Tips</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-any-xiaomi-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Xiaomi Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-performance-boost-eliminate-lag-issues-with-these-proven-tips/"><u>Outriders Performance Boost: Eliminate Lag Issues with These Proven Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-how-to-keep-samurai-warriors-5-running-smoothly-on-your-computer/"><u>Overcoming Stability Issues: How to Keep Samurai Warriors 5 Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-for-continuous-nox-player-crashes-on-windowsmac/"><u>Ultimate Troubleshooting Guide for Continuous Nox Player Crashes on Windows/Mac</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/workarounds-to-fix-static-sleepwake-modes-on-win11/"><u>Workarounds to Fix Static Sleep/Wake Modes on Win11</u></a></li>
+</ul></div>
 

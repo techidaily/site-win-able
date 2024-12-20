@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Resolve World of Warships Crash Issues on Windows/PC - Top 5 Tips!"
-date: 2024-08-27T20:31:48.620Z
-updated: 2024-08-28T20:31:48.620Z
+date: 2024-12-12T16:03:35.454Z
+updated: 2024-12-19T17:51:49.976Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -49,9 +53,6 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -62,11 +63,13 @@ System requirements of WRC 10 from Steam
 2. **Right-click** on **WRC 10 FIA World Rally Championship** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
@@ -74,8 +77,9 @@ System requirements of WRC 10 from Steam
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
@@ -96,9 +100,11 @@ System requirements of WRC 10 from Steam
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -122,8 +128,9 @@ System requirements of WRC 10 from Steam
  If the game crashing issue persists, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Perform a clean boot
 
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
@@ -137,19 +144,14 @@ System requirements of WRC 10 from Steam
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -175,8 +177,6 @@ System requirements of WRC 10 from Steam
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,17 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ltimate-video-editors-top-8-linux-picks/"><u>[New] Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-professional-windows-10-capture-tool/"><u>[Updated] In 2024, Professional Windows 10 Capture Tool</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-streamlined-approaches-to-documenting-whatsapp-discussions/"><u>[Updated] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-crashes-on-pc-solutions-to-get-you-playing-again/"><u>Dragon's Dogma 2 Crashes on PC: Solutions to Get You Playing Again</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-honor-80-pro-straight-screen-edition-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Honor 80 Pro Straight Screen Edition To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011102739-how-to-overcome-the-dark-panel-problem-in-epic-games-launcher-solution-found/"><u>How to Overcome the Dark Panel Problem in Epic Games Launcher - Solution Found</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-tap-into-the-funny-kapwing-for-meme-makers/"><u>In 2024, Tap Into the Funny Kapwing for Meme Makers</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/perfectly-suited-8-recommended-tools-for-subtitles-and-srts/"><u>Perfectly Suited 8 Recommended Tools for Subtitles & SRTs</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-intensive-resource-consumption-fixes-for-baldurs-gate-cuisine-usage/"><u>Resolve Intensive Resource Consumption: Fixes for Baldur's Gate Cuisine Usage</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-to-eliminate-ping-delays-and-smooth-out-gameplay-in-chivalry-2-new-strategies/"><u>Top Tips to Eliminate Ping Delays and Smooth Out Gameplay in Chivalry 2 [New Strategies]</u></a></li>
+</ul></div>
 

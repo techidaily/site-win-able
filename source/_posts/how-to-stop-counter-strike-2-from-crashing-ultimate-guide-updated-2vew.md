@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Counter-Strike 2 From Crashing: Ultimate Guide (Updated 2Vew)"
-date: 2024-12-09T16:40:55.822Z
-updated: 2024-12-12T17:15:18.848Z
+date: 2024-12-16T16:55:25.952Z
+updated: 2024-12-19T18:42:21.637Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -62,10 +66,6 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-92.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
@@ -73,6 +73,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
  Make sure your computer meets the minimum specs, then read on and check the fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run your game as an administrator
 
@@ -88,15 +92,15 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Relaunch Steam and_Arma 3_ to test your issue.
 
  You can hopefully play_Arma 3_ without crashing now. If the problem still exists, then go ahead with the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3:**End unnecessary program** s
 
@@ -115,6 +119,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -131,6 +139,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
@@ -140,6 +152,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try launching _Arma 3_  to see if it works properly now. If the crash error still happens, go ahead with the fix below.
 
@@ -201,6 +217,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
@@ -209,17 +229,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
@@ -231,10 +243,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
@@ -242,10 +250,6 @@ OR
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Remove any launch options currently shown.
 
@@ -255,10 +259,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **7)** Restart_Arma 3_ to see this helped.
 
  If this didn’t work for you, you’ll need to reopen the launch Options box and clear the launch option. Then, try the fix, below.
@@ -266,7 +266,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7:**Reinstall BattlEye service**
@@ -299,10 +299,6 @@ OR
 **7)**  Click **LIBRARY** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Right-click **Arma 3**  and select **Properties.**
 
@@ -349,13 +345,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
@@ -364,6 +360,10 @@ OR
 **4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-374.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
@@ -404,18 +404,24 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-leading-workspace-cloud-storage-hub/"><u>[Updated] 2024 Approved Leading Workspace Cloud Storage Hub</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-webinar-technology-hacks-with-no-financial-cost-for-2024/"><u>[Updated] Webinar Technology Hacks with No Financial Cost for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-samsung-galaxy-f54-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Samsung Galaxy F54 5G by Name | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/best-8-stream-modifiers-for-flawless-webcam-videos/"><u>Best 8 Stream Modifiers for Flawless Webcam Videos</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-experts-recommendations-for-image-watermarking/"><u>In 2024, Expert's Recommendations for Image Watermarking</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-cloud-data-platforms-ranked-your-guide-to-the-superior-options/"><u>Leading Cloud Data Platforms Ranked: Your Guide to the Superior Options</u></a></li>
-<li><a href="https://win-help.techidaily.com/premium-pizza-visuals-diverse-background-packs-creative-images-and-stunning-graphics-powered-by-yl-software/"><u>Premium Pizza Visuals: Diverse Background Packs, Creative Images, and Stunning Graphics Powered by YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/project-triumph-celebrating-the-successful-deployment-of-it-takes-two/"><u>Project Triumph: Celebrating the Successful Deployment of 'It Takes Two'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-origin-issues-now-fixed-regain-access/"><u>Resolved: Origin Issues Now Fixed - Regain Access</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-gaming-bliss-repairing-damaged-video-game-data/"><u>Restoring Gaming Bliss: Repairing Damaged Video Game Data</u></a></li>
-<li><a href="https://driver-download.techidaily.com/steelseries-driver-software-free-download-and-installation-guide-for-windows-users/"><u>SteelSeries Driver Software - Free Download and Installation Guide for Windows Users</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-x100-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo X100 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-fifa-22-keep-crashing-fix-and-prevention-strategies-for-pc-users/"><u>Why Does FIFA 22 Keep Crashing? Fix & Prevention Strategies for PC Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-game-changing-displays-the-creme-de-la-creme-of-4k-monitors/"><u>[New] Game-Changing Displays The Crème De La Crème of 4K Monitors</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-dynamic-lighting-elevating-video-aesthetics-for-2024/"><u>[Updated] Dynamic Lighting Elevating Video Aesthetics for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-11-pro-level-screen-recorders-for-mac-users/"><u>[Updated] In 2024, Top 11 Pro-Level Screen Recorders for Mac Users</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-seo-masterclass-unlocking-the-secrets-to-higher-podcast-visibility/"><u>[Updated] SEO Masterclass Unlocking the Secrets to Higher Podcast Visibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/division-2-wont-launch-comprehensive-fixes-and-workarounds-for-gamers/"><u>Division 2 Won't Launch? Comprehensive Fixes & Workarounds for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-for-continuous-steam-app-malfunctions/"><u>Easy Solutions for Continuous Steam App Malfunctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-resolving-non-loading-webpages-on-chrome-browser/"><u>Effective Solutions: Resolving Non-Loading Webpages on Chrome Browser</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/everlasting-capture-no-limit-savings-available/"><u>Everlasting Capture, No Limit Savings Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-beat-saber-from-constantly-crashing/"><u>Fixing the Issue: How to Stop Beat Saber From Constantly Crashing</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-infinix-smart-7-hd-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Infinix Smart 7 HD to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-strategies-for-purchasing-clear-visual-content/"><u>In 2024, Strategies for Purchasing Clear Visual Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-video-technology-of-2024-our-top-10-picks/"><u>Leading Video Technology of 2024 – Our Top 10 Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013063903-minecraft-network-troubles-heres-how-to-re-establish-connection/"><u>Minecraft Network Troubles? Here’s How to Re-Establish Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-system-performance-in-god-of-war-a-guide-on-cutting-down-cpu-usage/"><u>Optimizing System Performance in God of War – A Guide on Cutting Down CPU Usage</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pleasurable-stream-capture-evaluation/"><u>Pleasurable Stream Capture Evaluation</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-common-fixes-for-when-fifa-21-doesnt-open-on-your-pcconsole/"><u>Resolved: Common Fixes for When FIFA 21 Doesn't Open on Your PC/Console</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-three-essential-gadgets-to-maintain-your-iphone-13s-pristine-appearance-tips-from-zdnet/"><u>Top Three Essential Gadgets to Maintain Your iPhone 13'S Pristine Appearance - Tips From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-twitch-glitches-7-expert-tips-to-get-your-streams-up-and-running/"><u>Troubleshoot Twitch Glitches: 7 Expert Tips to Get Your Streams Up and Running</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-secrets-of-detroit-the-game-where-consciousness-awakens-smoothly-on-your-computer/"><u>Unlock the Secrets of Detroit: The Game Where Consciousness Awakens Smoothly on Your Computer</u></a></li>
 </ul></div>
 

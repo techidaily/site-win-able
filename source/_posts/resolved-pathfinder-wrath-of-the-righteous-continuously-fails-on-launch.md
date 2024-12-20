@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Pathfinder: Wrath of the Righteous Continuously Fails on Launch"
-date: 2024-12-07T17:11:28.639Z
-updated: 2024-12-12T16:07:14.433Z
+date: 2024-12-13T19:43:09.922Z
+updated: 2024-12-19T17:23:57.833Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
  If the game keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Verify integrity of game files
 
@@ -68,9 +76,17 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -86,10 +102,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
@@ -107,7 +119,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -125,7 +137,7 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
@@ -154,29 +166,17 @@ Here’s how to do it:
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -214,19 +214,20 @@ Here’s how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-the-art-of-making-youtube-thumbnails-on-the-go-mobile/"><u>[New] In 2024, The Art of Making YouTube Thumbnails on the Go (Mobile)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb/"><u>[Updated] Augmenting Visual Appeal Implementing Black Bar & Box on FB</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-asus-rog-phone-8-frp-bypass-by-drfone-android/"><u>About Asus ROG Phone 8 FRP Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-warzone-and-windows-11-how-to-ensure-your-gpu-is-fully-utilized/"><u>Call of Duty: Warzone and Windows 11 – How to Ensure Your GPU Is Fully Utilized</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-get-counter-strike-go-running-smoothly-again/"><u>Expert Tips to Get Counter-Strike Go Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-guide-how-to-regain-lost-connectivity-to-blizzard-entertainment-network/"><u>Fix Guide: How to Regain Lost Connectivity to Blizzard Entertainment Network</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-13-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 13 5G to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-motorola-edge-40-pro-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Motorola Edge 40 Pro To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/regular-inspections-by-the-atf-are-part-of-maintaining-an-explosives-license/"><u>Regular Inspections by the ATF Are Part of Maintaining an Explosives License.</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-next-chapter-in-gaming-meta-quest-3-reviewed/"><u>The Next Chapter in Gaming: Meta Quest 3 Reviewed</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-tips-for-selecting-an-ideal-surge-protector-for-home-and-office-gadgets/"><u>Top Tips for Selecting an Ideal Surge Protector for Home and Office Gadgets</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-prevent-thaumaturge-from-crashing-on-windowsmac/"><u>Troubleshooting Steps to Prevent Thaumaturge From Crashing on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-stable-wwe-2k22-experience-on-windows-platforms/"><u>Troubleshooting Tips for a Stable WWE 2K22 Experience on Windows Platforms</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-isnt-alan-wake-2-out-yet-unveiling-troubleshooting-steps/"><u>Why Isn't Alan Wake 2 Out Yet? Unveiling Troubleshooting Steps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-best-mac-video-editing-tools-reviewed-bandicam-vs-camtasia/"><u>[Updated] In 2024, Best Mac Video Editing Tools Reviewed Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-no-trouble-recorder-for-win10-desktop-for-2024/"><u>[Updated] No-Trouble Recorder for Win10 Desktop for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-the-economic-aspects-of-making-a-music-video-for-2024/"><u>[Updated] The Economic Aspects of Making a Music Video for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/behind-the-scenes-the-reasons-behind-guilty-gear-strive-postponement-explained/"><u>Behind the Scenes: The Reasons Behind 'Guilty Gear Strive' Postponement Explained</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciphering-the-benefits-of-wireless-network-mapping/"><u>Deciphering the Benefits of Wireless Network Mapping</u></a></li>
+<li><a href="https://win-able.techidaily.com/everlasting-voyages-in-sea-of-thieves-crash-errors-now-solved/"><u>Everlasting Voyages in Sea of Thieves: Crash Errors Now Solved!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/expert-advice-how-to-share-your-imovie-videos-on-vimeo/"><u>Expert Advice How to Share Your iMovie Videos on Vimeo</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-preventing-resident-evil-4-remastered-from-suddenly-shutting-down/"><u>Fixing the Issue: Preventing Resident Evil 4 Remastered From Suddenly Shutting Down</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-from-glitches-fixing-lag-in-call-of-duty-vanguard-effortlessly/"><u>Free From Glitches: Fixing Lag in Call of Duty: Vanguard Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-reconnecting-fallout-76-game-servers-on-pc/"><u>Guide: Reconnecting Fallout 76 Game Servers on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011857463-how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won’t Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-smooth-gameplay-effective-solutions-for-chivalry-2s-ping-and-latency-issues/"><u>Master Smooth Gameplay: Effective Solutions for Chivalry 2'S Ping and Latency Issues</u></a></li>
+<li><a href="https://media-tips.techidaily.com/navigating-the-shift-maximizing-visibility-with-ad-placement-on-amazon-prime-video-streaming-service/"><u>Navigating the Shift: Maximizing Visibility with Ad Placement on Amazon Prime Video Streaming Service</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-online-seminar-creation-assistant-for-2024/"><u>Ultimate Online Seminar Creation Assistant for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unlock-image-potential-10plus-lut-samples-some-at-zero-cost-for-2024/"><u>Unlock Image Potential 10+ LUT Samples, Some at Zero Cost for 2024</u></a></li>
 </ul></div>
 

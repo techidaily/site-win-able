@@ -1,7 +1,7 @@
 ---
 title: "Mastering Cross-Platform Play: A Complete Roller Champions How-To for PC Users"
-date: 2024-12-05T17:06:06.149Z
-updated: 2024-12-12T16:25:32.333Z
+date: 2024-12-16T17:21:05.474Z
+updated: 2024-12-19T16:31:33.126Z
 tags:
   - win11
   - win10
@@ -40,10 +40,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 
  The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify and repair game files
 
  The first quick fix you can try is to scan and repair missing or corrupted game files. You can easily get it done via the Steam client:
@@ -52,17 +48,13 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under**Installed Files** , click**Verify integrity of game files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 3. It may take a while for Steam to complete the scan. If any game files are found corrupted or missing, Steam will replace or add the new game files for you.
 
  If verifying and repairing the game files doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Close unnecessary background programs
@@ -72,10 +64,6 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 1. Press**Ctrl** and**Shift** and**Esc** at the same time to open the Task Manager.
 2. Under the**Processes** tab, look for the processes that are eating up the resources. Right-click the process and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  PS: there are some known**programs that may interfere with Steam games** . If you’re not sure which programs seem to have triggered the crashing issue, feel free to refer to the list below and check your PC.
 
@@ -88,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
 * IP filtering/blocking programs
 
  Launch Lost Ark to test if the crashing issue is fixed now. If the problem persists, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update your graphics driver
 
@@ -108,6 +100,10 @@ thumbnail: https://thmb.techidaily.com/528781abe64eff7e57733460b453c6895f2f9ec89
  Reboot your PC and launch Lost Ark to see if you still get random crashes.
 
 If this doesn’t help, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Make sure your system is up-to-date
 
@@ -135,13 +131,13 @@ If this doesn’t help, move on to the next fix.
 
 If the crashing issue persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 6: Turn off overlays
 
  Some players found that overlays have caused Lost Ark to crash randomly, and the issue didn’t return when they turned off the overlays. You can give it a try as well to see if it helps with your crashing issue. Here’s how:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steam
 
@@ -157,13 +153,17 @@ If the crashing issue persists, try the next fix.
 2. Under the **General tab** ,**toggle off Enable the Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/12/Steam-Disable-in-game-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Discord
@@ -172,16 +172,16 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-05_15-52-40.jpg)
 2. On the left panel, scroll down and find**Game Overlay** . Toggle off**Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay.jpg)
 3. Run Lost Ark and test the issue.
 
  You can also check other common overlays that gamers like to use, such as Twitch and NVIDIA GeForce, and turn them off.
 
  If disabling the overlays doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -201,8 +201,16 @@ If the crashing issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now launch Lost Ark to test if you still get errors and crashes. If the issue persists, jump to the[last fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -242,10 +250,6 @@ If the crashing issue persists, try the next fix.
 
  This could be triggered by corrupted character data on the server-side. Note that this bug has been existing and was acknowledged back in the beta stage, so we can expect an official patch that fixes this issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9: Repair corrupted system files
 
  If you’re experiencing performance issues like random crashes in Lost Ark and none of the fixes helped, chances are you’re looking at a system issue. In addition to game files, corrupted system files may also cause the game to crash. You can use the System File Checker tool (**sfc /scannow** ) to look for any critical system issues first, but most of the time, manual repair is required.
@@ -256,10 +260,6 @@ If the crashing issue persists, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -288,17 +288,20 @@ If the crashing issue persists, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-elite-5-youtube-channel-power-players/"><u>[New] The Elite 5 YouTube Channel Power Players</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-setting-up-your-youtube-standings-from-beginner-to-beneficial-businesses-for-2024/"><u>[Updated] Setting Up Your YouTube Standings From Beginner to Beneficial Businesses for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/bypassing-directx-hiccups-effective-fixes-for-fifa-20-players/"><u>Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/causes-and-solutions-for-intermittent-screen-breakup-in-warzone-gaming/"><u>Causes & Solutions for Intermittent Screen Breakup in Warzone Gaming</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/exploring-the-evolution-of-the-galaxy-watch-series-an-in-depth-guide-to-the-new-features-and-benefits-of-the-galaxy-watch-active-samsung-galaxy-watch-active139/"><u>Exploring the Evolution of the Galaxy Watch Series: An In-Depth Guide to the New Features and Benefits of the Galaxy Watch Active 지속성 Samsung의 Galaxy Watch Active 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-code-vein-stuttering-and-lock-ups-tips-and-tricks/"><u>Fixing Code Vein Stuttering and Lock-Ups - Tips & Tricks</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-xiaomi-13-ultra-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Xiaomi 13 Ultra for Free? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-detailed-guide-on-removing-iphone-x-activation-lock-without-previous-owner-by-drfone-ios/"><u>In 2024, Detailed Guide on Removing iPhone X Activation Lock without Previous Owner?</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722976699229-install-asus-bt50n-bluetooth-50-usb-stick-driver-on-windows-pcs-latest-version-available-now/"><u>Install Asus BT50n Bluetooth 5.0 USB Stick Driver on Windows PCs – Latest Version Available Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-resolving-qbittorrent-download-stalls/"><u>Troubleshooting Techniques for Resolving qBittorrent Download Stalls</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-stop-sf6-from-crashing-your-pc-updated/"><u>Ultimate Troubleshooting Guide: Stop SF6 From Crashing Your PC (Updated)</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/shing-potential-crafting-a-youtube-channel-brand-for-success-for-2024/"><u>Unleashing Potential Crafting a YouTube Channel Brand for Success for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-mastering-aspects-for-impactful-facebook-posts-and-videos-for-2024/"><u>[New] Mastering Aspects for Impactful Facebook Posts & Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-under-200-cameras-with-action-potential-at-your-fingertips/"><u>[Updated] Under $200 Cameras with Action Potential at Your Fingertips</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-how-to-use-the-blending-modes-to-composite-clips/"><u>2024 Approved How to Use The Blending Modes To Composite Clips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-nubia-red-magic-8s-pro-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-msi-mystic-light-working-again-a-guide-for-windows-users-with-troubled-lights/"><u>Get Your MSI Mystic Light Working Again: A Guide for Windows Users with Troubled Lights</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721469034211-how-to-resolve-iphone-icloud-backup-issues-easy-fixes-for-you/"><u>How to Resolve iPhone iCloud Backup Issues - Easy Fixes for You</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-code-vein-from-freezing-or-crashing/"><u>How to Stop Your Code Vein From Freezing or Crashing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-the-artisans-approach-integrating-typefaces-in-ae/"><u>In 2024, The Artisan's Approach Integrating Typefaces in AE</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-and-refine-graphics-quality-in-call-of-duty-warzone-pc-guide/"><u>Optimize and Refine Graphics Quality in Call of Duty: Warzone - PC Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-streaming-the-premier-6-zoom-webcam-picks/"><u>Professional Streaming The Premier #6 Zoom Webcam Picks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-black-screen-woes-in-fallout-4-a-step-by-step-guide/"><u>Solving Black Screen Woes in Fallout 4 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-constant-crashes-in-the-improved-pc-version-of-metro-exodus/"><u>Solving Constant Crashes in the Improved PC Version of Metro Exodus</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rating-and-economical-comprehensive-guide-to-the-tp-link-re200-ac750-range-extender/"><u>Top Rating and Economical: Comprehensive Guide to the TP-Link RE200 AC750 Range Extender</u></a></li>
+<li><a href="https://win-able.techidaily.com/youtube-playback-hiccups-how-to-make-sure-your-videos-keep-up-with-their-soundtracks-in-chrome-and-ff/"><u>Youtube Playback Hiccups: How to Make Sure Your Videos Keep Up With Their Soundtracks in Chrome and FF</u></a></li>
 </ul></div>
 

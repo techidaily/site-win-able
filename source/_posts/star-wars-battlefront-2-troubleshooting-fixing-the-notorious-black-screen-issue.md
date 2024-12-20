@@ -1,7 +1,7 @@
 ---
 title: Star Wars Battlefront 2 Troubleshooting - Fixing the Notorious Black Screen Issue
-date: 2024-08-27T20:30:02.913Z
-updated: 2024-08-28T20:30:02.913Z
+date: 2024-12-18T18:07:37.513Z
+updated: 2024-12-19T18:50:25.071Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/39056fd18de68ad167dab8918139616b0085a3cc7
 
 Keep getting the black screen when launching Overwatch? You’re not alone! Many players are reporting it. But the good news is that you can fix it. Here are 10 solutions to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 10 simple fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,6 +35,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 8. **[Install the latest Overwatch patch](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Uninstall Razer Synapse](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1:**Update your graphics driver**
 
@@ -58,9 +66,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run the game as an administrator
 
  One quick fix to**Overwatch black screen issue** is running the game as an administrator. This is because Overwatch sometimes can’t access certain game files on your computer under normal user mode, which could result in the black screen issue.
@@ -79,16 +84,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-680.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-726.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 **5)** Relaunch Overwatch to test your issue.
 
  You can hopefully run the game without errors now. If the black screen error still happens when you launch the game, then go ahead with the fix below.
@@ -107,13 +106,18 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-727.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch Overwatch to see if this has resolved your issue. If not, read on and try the fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Reset your in-game settings
 
  In some cases, improper in-game settings can also trigger the black screen issue when launching Overwatch. To see if that’s the problem for you, try resetting your in-game settings to default. Here is how to do it:
@@ -124,9 +128,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-683.png)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 **3)** Click the**Game Settings tab** \>**Reset in-Game Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-684.png)
@@ -140,15 +141,17 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-686.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Try launching Overwatch again. If your issue persists, check the fix below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: End unwanted background programs
 
  Some programs running on your computer may conflict with Overwatch or the game launcher, resulting in black screen error on launch.
@@ -175,9 +178,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -194,6 +194,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
@@ -205,8 +209,9 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Try launching Overwatch to see if it works properly now. If not, read on and check the next fix.
 
 ---
@@ -229,25 +234,20 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Right-click the**Blizzard Entertainment folder** and select **Delete** . Then delete the**Battle.net folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-709.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Relaunch Overwatch.
 
  Hopefully, Overwatch runs properly now. If the black screen issue still exists, unfortunately, move on to the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 7:**Repair the game**
 
  The black screen issue on Overwatch is sometimes caused by damaged or missing game files. If that’s the case for you, you need to verify the integrity of your game files. Here is how to do it:
@@ -262,9 +262,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-716.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait for the scans to be complete, then relaunch Overwatch to check if this fixed your issue. If not, read on and try the fix below.
 
 ---
@@ -285,6 +282,10 @@ To check if there is any update, follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9:**Check for Windows Updates**
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep Overwatch running correctly. Here is how to do it:
@@ -293,20 +294,10 @@ To check if there is any update, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-536.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **3)**  Restart your computer and your game after the update is complete.
 
 If your problem persists, check the fix 10, below.
@@ -321,9 +312,6 @@ If your problem persists, check the fix 10, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
@@ -338,16 +326,10 @@ If you’re prompted about permissions, select Continue
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-722.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-724-1024x640.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Relaunch Overwatch to test your issue.
 
  Hopefully, this article helped in resolving your issue. If you have any questions or suggestions, feel free to leave a comment below.
@@ -365,8 +347,6 @@ If you’re prompted about permissions, select Continue
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -374,4 +354,20 @@ If you’re prompted about permissions, select Continue
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters/"><u>[New] 2024 Approved Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-efficient-tricks-to-scramble-youtube-playlists-pcphonetv-for-2024/"><u>[Updated] Efficient Tricks to Scramble YouTube Playlists (PC/Phone/TV) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-voicing-freedom-how-to-modify-your-audio-on-instagram-posts/"><u>[Updated] Voicing Freedom How to Modify Your Audio on Instagram Posts</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-a05-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-mozillas-freezing-problems-your-go-to-fixes-for-a-seamless-experience/"><u>Eliminate Mozilla's Freezing Problems: Your Go-To Fixes for a Seamless Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999153632-enhancing-gaming-experience-combat-frame-rate-drop-issues-in-resident-evil-village-for-pc-gamers-resolved/"><u>Enhancing Gaming Experience: Combat Frame Rate Drop Issues in Resident Evil Village for PC Gamers - Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-sea-of-thieves-initialization-hitches/"><u>Expert Tips on Resolving Sea of Thieves Initialization Hitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-unveiling-the-first-person-shooter-experience-for-pc-gamers/"><u>God of War: Unveiling the First-Person Shooter Experience for PC Gamers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-stop-nvidia-graphic-boost-features/"><u>Guide to Stop NVIDIA Graphic Boost Features</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-motorola-edge-40-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Motorola Edge 40 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>In 2024, Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-poco-x5-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Poco X5 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-persistent-game-crashes-in-the-witcher-3-on-pc/"><u>Resolved: How to Fix Persistent Game Crashes in The Witcher 3 on PC</u></a></li>
+</ul></div>
 

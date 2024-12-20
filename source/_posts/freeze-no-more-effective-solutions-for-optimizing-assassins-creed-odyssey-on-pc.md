@@ -1,7 +1,7 @@
 ---
 title: "Freeze No More: Effective Solutions for Optimizing Assassin's Creed Odyssey on PC"
-date: 2024-08-27T20:31:57.964Z
-updated: 2024-08-28T20:31:57.964Z
+date: 2024-12-12T18:05:29.942Z
+updated: 2024-12-19T16:58:34.245Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/b9c4d5bef2d947c94d50dbffc9c7d28e5a0714e0e
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
@@ -44,8 +48,9 @@ thumbnail: https://thmb.techidaily.com/b9c4d5bef2d947c94d50dbffc9c7d28e5a0714e0e
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -71,9 +76,6 @@ thumbnail: https://thmb.techidaily.com/b9c4d5bef2d947c94d50dbffc9c7d28e5a0714e0e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -81,8 +83,9 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  Still no luck? Don’t give up hope. There is something else you can do.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -92,9 +95,9 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
@@ -110,6 +113,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -120,18 +127,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -150,16 +155,10 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Why is Assassin’s Creed Odyssey crashing?
 
  Usually, your game crashes on your computer due to a hardware issue, for example, your PC hardware doesn’t meet the minimum system requirements. So be sure your computer meets the system requirements to play Assassin’s Creed Odyssey.
@@ -178,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +184,16 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-youtubers-and-gaming-sessions/"><u>2024 Approved Navigating the World of YouTubers and Gaming Sessions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-spark-10-5g-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Spark 10 5G</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/cutting-edge-game-recording-for-league-of-legends-lol-players/"><u>Cutting-Edge Game Recording for League of Legends LoL Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-driver-not-supported-for-rainbow-six-extraction-players/"><u>How to Address 'Driver Not Supported' For Rainbow Six Extraction Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-launch-modern-warfare-2-tips-and-troubleshooting-guide/"><u>How to Successfully Launch Modern Warfare 2: Tips and Troubleshooting Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-is-your-apple-iphone-6s-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 6s in Security Lockout? Proper Ways To Unlock</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-service-disruption-determining-if-its-widespread-or-localized/"><u>Netflix Service Disruption: Determining If It's Widespread or Localized</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-windows-cant-find-ftd2xxdll/"><u>The Ultimate Fix for When Windows Can't Find ftd2XX.dll</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-help-overcoming-the-perpetual-loading-screen-in-football-manager-2021/"><u>Troubleshooting Help - Overcoming the Perpetual Loading Screen in Football Manager 2021</u></a></li>
+</ul></div>
 

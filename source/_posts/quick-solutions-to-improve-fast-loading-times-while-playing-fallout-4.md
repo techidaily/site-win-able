@@ -1,7 +1,7 @@
 ---
 title: Quick Solutions to Improve Fast-Loading Times While Playing Fallout 4
-date: 2024-08-27T20:32:10.792Z
-updated: 2024-08-28T20:32:10.792Z
+date: 2024-12-15T19:13:54.840Z
+updated: 2024-12-19T17:24:18.817Z
 tags:
   - win11
   - win10
@@ -64,13 +64,11 @@ To do so, follow these steps:
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be91f07309c9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated drivers in your computer can cause Fortnite won’t load, especially your graphics card driver and your network adapter driver. So you should verify that your graphics card drivers are up to date.
@@ -89,16 +87,12 @@ To do so, follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
@@ -113,16 +107,10 @@ Still no luck? Okay, there’s something else to try.
 2. Right click on the**Fortnite executable** and select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9213d5616f.jpg)
 3. Click**Yes** to verify the UAC. If you’re prompted to enter your admin account and password, enter the information.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Then you can run your Fortnite as admin.
 
 Check if your game can load properly.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Configure your computer settings
 
  Your PC settings problem can be one of the possible causes for Fortnite not loading. If your computer is not configured properly, you can’t make full use of your system sources and will have the Fortnite not loading issue.
@@ -137,16 +125,22 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2\. Adjust settings in System Properties
 
@@ -158,21 +152,25 @@ Below lists out some PC settings you can configure:
 3. Click**Advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
@@ -190,8 +188,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -199,4 +195,23 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-amazing.techidaily.com/download-geforce-rtx-3080-driver-for-windows-10-8-7/"><u>[Download] GeForce RTX 3080 Driver | For Windows 10 / 8 / 7</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth-for-2024/"><u>[New] Becoming an Insta Star in a Flash Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-superior-asmr-video-curation/"><u>[Updated] Superior ASMR Video Curation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-installation-instructions-for-snapchat-on-a-mac/"><u>2024 Approved Installation Instructions for Snapchat on a Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-common-problems-of-mir4-crashes-in-personal-computers/"><u>Bypassing the Common Problems of MIR4 Crashes in Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-fixes-getting-tekken-amoored-pc-version-up-and-running-again/"><u>Essential Fixes: Getting Tekken Amoored PC Version Up and Running Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-prevent-vlc-media-player-from-crashing-on-pcs-and-mobile-devices/"><u>How to Prevent VLC Media Player From Crashing on PCs and Mobile Devices</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-xiaomi-redmi-13c-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Xiaomi Redmi 13C 5G Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-vivo-v27-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Vivo V27 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-unlock-fcps-full-potential-expert-voice-over-recording-techniques/"><u>New 2024 Approved Unlock FCPs Full Potential Expert Voice Over Recording Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/rising-as-a-wealthy-dragon-looter-the-ultimate-pc-gaming-guide/"><u>Rising as a Wealthy Dragon Looter: The Ultimate PC Gaming Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-bugs-century-age-of-ashes-is-crash-free-on-pc-after-latest-update/"><u>Say Goodbye to Bugs – Century: Age of Ashes Is Crash-Free on PC After Latest Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-warzone-cant-locate-matches-a-comprehensive-guide-for-pc-players/"><u>Solving 'Warzone Can't Locate Matches': A Comprehensive Guide for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/terraria-troubles-2024-crash-solutions-that-actually-work/"><u>Terraria Troubles? 2024 Crash Solutions That Actually Work!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-solving-street-fighter-6-connectivity-issues-latency-ping-tuning-for-pc/"><u>Troubleshoot & Improve: Solving Street Fighter 6 Connectivity Issues - Latency, Ping Tuning for PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-minecraft-tips-how-to-efficiently-navigate-with-teleportation-spells/"><u>Ultimate Minecraft Tips: How to Efficiently Navigate with Teleportation Spells</u></a></li>
+</ul></div>
 

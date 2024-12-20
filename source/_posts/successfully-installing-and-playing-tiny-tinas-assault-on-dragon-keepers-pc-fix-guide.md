@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-12-06T17:04:09.427Z
-updated: 2024-12-12T17:12:46.913Z
+date: 2024-12-15T17:03:11.400Z
+updated: 2024-12-19T16:57:37.209Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -32,10 +36,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -63,6 +63,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -74,10 +78,6 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -85,7 +85,7 @@ Here’s how:
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -112,18 +112,22 @@ If this method doesn’t help, you can take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -136,10 +140,6 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -164,20 +164,18 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-gimbal-insights-7-best-in-market/"><u>[New] Gimbal Insights 7 Best in Market</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-elevate-engagement-posting-video-content-from-twitter-on-snapchat/"><u>[New] In 2024, Elevate Engagement Posting Video Content From Twitter on Snapchat</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-perfecting-the-closure-a-practical-guide-to-vimeos-end-credits/"><u>[Updated] In 2024, Perfecting the Closure A Practical Guide to Vimeo's End Credits</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-windows-desktop-recording-techniques-no-cost/"><u>2024 Approved Windows Desktop Recording Techniques - No Cost</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-gameplay-interruptions-solving-fortnites-performance-issues-on-windows/"><u>Eliminating Gameplay Interruptions: Solving Fortnite's Performance Issues on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-getting-the-most-out-of-among-us-voice-chat-on-your-computer/"><u>Expert Tips and Tricks for Getting the Most Out of Among Us Voice Chat on Your Computer</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/fixing-lenovo-onekey-rescue-drive-errors-following-a-system-update/"><u>Fixing Lenovo OneKey Rescue Drive Errors Following a System Update</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Infinix Hot 40i? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-oneplus-12-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from OnePlus 12 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-nvidia-control-panel-errors-a-comprehensive-guide-for-users/"><u>Overcoming NVIDIA Control Panel Errors: A Comprehensive Guide for Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-issues-with-pc-performance-in-red-dead-redemption-2/"><u>Resolving Issues with PC Performance in Red Dead Redemption 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/ring-of-elysium-performance-tips-skyrocket-your-games-fps/"><u>Ring of Elysium Performance Tips: Skyrocket Your Game's FPS!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/roblox-no-audio-dilemma-solved-for-windows-11-and-10-users/"><u>Roblox No Audio Dilemma Solved for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-ultimate-multifunctional-powerhouse-a-favorite-among-users-and-built-on-strong-foundations-insights-from-zdnet/"><u>The Ultimate Multifunctional Powerhouse: A Favorite Among Users & Built on Strong Foundations – Insights From ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-gta-5-stutters-and-fixes/"><u>Troubleshooting GTA 5 Stutters and Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-enhance-your-story-game-applying-fun-sticker-themes/"><u>[New] Enhance Your Story Game Applying Fun Sticker Themes</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-m-audio-fast-track-drivers-compatible-with-windows-11-7-8-and-81/"><u>Download the M-Audio Fast Track Drivers: Compatible with Windows 11, 7, 8, and 8.1</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effiziente-mp4-kompression-reduzierung-von-video-dateigrossen-ohne-qualitatsverlust-garantieren/"><u>Effiziente MP4 Kompression: Reduzierung Von Video-Dateigrößen Ohne Qualitätsverlust Garantieren</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-ds4-connectivity-and-driver-error-on-windows-devices/"><u>Expert Tips for Resolving DS4 Connectivity and Driver Error on Windows Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-discord-glitches-and-ensure-smooth-streaming-experiences/"><u>Expert Tips to Overcome Discord Glitches and Ensure Smooth Streaming Experiences</u></a></li>
+<li><a href="https://fox-links.techidaily.com/film-storage-computing-the-days-gb-footprint/"><u>Film Storage Computing the Day's GB Footprint</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-updated/"><u>How to Stop Dead by Daylight From Crashing (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-install-and-run-call-of-duty-modern-warfare-on-your-pc/"><u>How to Successfully Install and Run Call of Duty Modern Warfare on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/jurassic-world-evolution-game-crash-solutions-no-more-interruptions/"><u>Jurassic World Evolution Game Crash Solutions – No More Interruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-doom-eternal-release-issues-expert-tips-and-solutions/"><u>Resolving DOOM Eternal Release Issues: Expert Tips and Solutions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-7-free-educational-apps-perfect-for-students-school-year/"><u>Top 7 FREE Educational Apps Perfect for Students' School Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-kodis-couldnt-retrieve-directory-information/"><u>Troubleshooting Guide: Overcoming Kodi's 'Couldn't Retrieve Directory Information'</u></a></li>
+<li><a href="https://games-able.techidaily.com/trust-in-triviality-uncovering-hidden-biases-in-critiques/"><u>Trust in Triviality: Uncovering Hidden Biases in Critiques</u></a></li>
 </ul></div>
 

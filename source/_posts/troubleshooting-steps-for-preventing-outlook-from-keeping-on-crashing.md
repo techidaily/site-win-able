@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Preventing Outlook From Keeping on Crashing
-date: 2024-08-23T11:30:34.631Z
-updated: 2024-08-24T11:30:34.631Z
+date: 2024-12-14T17:16:42.894Z
+updated: 2024-12-19T17:27:03.663Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
  Many users are reporting the same issue and managed to solve it with the fixes below. If you run into a FIFA crashing or freezing problem, don’t worry, because it’s not hard to fix it at all.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are 8 fixes that have proved helpful for many users to solve the FIFA 19 crashing issues. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 7. **[Run System File Checker to repair your files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
@@ -48,8 +56,9 @@ If you still have the issue, you can try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
  The FIFA crashing issue can be caused by Discord settings. If you have Discord installed, you can turn off Discord Overlay and Hardware Acceleration.
@@ -65,8 +74,9 @@ If you still have the issue, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
@@ -110,8 +120,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -138,13 +149,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
  Then click**Add** and select your**FIFA 19** exe. program file.  
@@ -154,6 +158,10 @@ No advertising on the website.
  Click**Apply** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For AMD users:  
 
@@ -175,9 +183,6 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
@@ -250,26 +255,28 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -281,9 +288,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -294,16 +298,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Copy the following command and press**Enter** .
 
 cd config\systemprofile\AppData\Local
@@ -328,8 +326,6 @@ mkdir Database
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -337,4 +333,24 @@ mkdir Database
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-capture-and-replay-the-ultimate-guide-to-free-mac-screen-recording-apps-for-2024/"><u>[New] Capture & Replay The Ultimate Guide to Free Mac Screen Recording Apps for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-brainless-beats-celebrating-best-zombie-gaming/"><u>[Updated] 2024 Approved Brainless Beats Celebrating Best Zombie Gaming</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-pros-of-choosing-best-pc-video-grabbers-for-win11/"><u>2024 Approved Pros of Choosing Best PC Video Grabbers for Win11</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/a-step-by-step-guide-to-leveraging-the-whiteboard-feature-in-remote-tech-sessions-for-2024/"><u>A Step-by-Step Guide to Leveraging the Whiteboard Feature in Remote Tech Sessions for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-windows-11-taskbar-efficiency/"><u>Enhancing Windows 11 Taskbar Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/euro-truck-simulator-2-troubleshooting-pc-crashes-fixed-solutions/"><u>Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-ancient-epic-battles-with-new-god-of-war-fps-on-pc/"><u>Experience Ancient Epic Battles with New God of War FPS on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012384462-get-back-to-harvesting-in-stardew-valley-fixes-applied-no-more-launch-blues/"><u>Get Back to Harvesting in Stardew Valley – Fixes Applied, No More Launch Blues!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-v29-pro-phone-without-any-data-loss-by-drfone-android/"><u>In 2024, How to Unlock Vivo V29 Pro Phone without Any Data Loss</u></a></li>
+<li><a href="https://win-able.techidaily.com/outlook-crash-woes-addressed-proven-strategies-to-keep-it-running-smoothly/"><u>Outlook Crash Woes Addressed: Proven Strategies to Keep It Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-microsoft-flight-simulator-2020s-updates-stuck-dilemma-expert-advice-inside/"><u>Overcome Microsoft Flight Simulator 2020'S Updates Stuck Dilemma - Expert Advice Inside</u></a></li>
+<li><a href="https://fox-making.techidaily.com/step-by-screen-effortless-guide-on-syncing-your-iphone-with-a-haier-television/"><u>Step-by-Screen: Effortless Guide on Syncing Your iPhone with a Haier Television</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-the-complete-disk-occupancy-dilemma-on-your-computer-running-windows-10/"><u>Tackling the Complete Disk Occupancy Dilemma on Your Computer Running Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cannot-connect-to-the-server-in-lost-ark/"><u>Troubleshooting Steps: Resolving 'Cannot Connect to the Server' In Lost Ark</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-eliminating-black-display-errors-during-zoom-calls-on-your-computer-expert-guide-2024/"><u>Ultimate Troubleshooting Tips: Eliminating Black Display Errors During Zoom Calls on Your Computer - Expert Guide 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/unmasking-fake-deals-avoiding-phony-propositions-on-fb-marketplace/"><u>Unmasking Fake Deals: Avoiding Phony Propositions on FB Marketplace</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-puzzles-in-cyberpunk-2077-solving-pc-stability-issues-for-an-uninterrupted-experience/"><u>Unraveling Puzzles in Cyberpunk 2077: Solving PC Stability Issues for an Uninterrupted Experience</u></a></li>
+</ul></div>
 

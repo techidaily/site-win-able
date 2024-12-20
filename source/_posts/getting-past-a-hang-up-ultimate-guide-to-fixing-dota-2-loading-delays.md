@@ -1,7 +1,7 @@
 ---
 title: "Getting Past a Hang-Up: Ultimate Guide to Fixing Dota 2 Loading Delays"
-date: 2024-08-27T20:30:28.417Z
-updated: 2024-08-28T20:30:28.417Z
+date: 2024-12-16T17:00:15.249Z
+updated: 2024-12-19T19:43:43.061Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e937e68a5b9ec03875dd350ca4501bcb740dbcf76
 ## No More Lag: Ultimate Guide to Eliminating Stuttering in Halo Infinite
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,6 +45,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -56,14 +64,26 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Change in-game settings
 
@@ -75,39 +95,24 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -118,10 +123,6 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
@@ -140,8 +141,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +148,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-grid-mastery-in-photos-with-our-select-apps/"><u>[Updated] Grid Mastery in Photos with Our Select Apps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transforming-your-photos-into-timeless-slow-mo-artistry/"><u>[Updated] Transforming Your Photos Into Timeless Slow-Mo Artistry</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-10-best-practices-for-boosting-srt-on-pc-and-macos/"><u>2024 Approved 10 Best Practices for Boosting SRT on PC & macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-novice-to-expert-creating-your-avatar-with-confidence/"><u>2024 Approved From Novice to Expert Creating Your Avatar with Confidence</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-techniques-to-transfer-data-from-infinix-smart-8-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Techniques to Transfer Data from Infinix Smart 8 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/copernic-edition-selection-guide-identifying-your-perfect-match-among-various-options/"><u>Copernic Edition Selection Guide: Identifying Your Perfect Match Among Various Options</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-seamless-usage-solve-your-crashing-control-issues-fast-and-with-ease/"><u>Experience Seamless Usage: Solve Your Crashing Control Issues Fast & With Ease</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/getting-to-know-hannah-yang-author-biography/"><u>Getting to Know Hannah Yang: Author Biography</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-z-fold-5-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy Z Fold 5 Location by Number | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-copernic-tips-and-tricks-for-ultimate-customization-and-peak-performance/"><u>Mastering Copernic: Tips and Tricks for Ultimate Customization & Peak Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-is-my-audio-not-playing-during-discord-screen-broadcast/"><u>Resolved: Why Is My Audio Not Playing During Discord Screen Broadcast?</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/theme-that-stands-out-crafting-banners-for-gamers/"><u>Theme That Stands Out Crafting Banners for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/updating-your-current-copernic-membership-a-step-by-step-guide/"><u>Updating Your Current Copernic Membership: A Step-by-Step Guide</u></a></li>
+</ul></div>
 

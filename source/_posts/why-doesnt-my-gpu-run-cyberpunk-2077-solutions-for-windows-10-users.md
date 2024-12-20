@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-12-09T16:05:14.983Z
-updated: 2024-12-12T16:00:02.112Z
+date: 2024-12-18T17:23:31.756Z
+updated: 2024-12-19T17:34:38.355Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
  When Cyberpunk seems to not be using your GPU, first you need to make sure your**CPU has an integrated graphics card** . In the past few years, Intel rolled out the**F-series CPUs** , such as the i5-10400F and the i3-9100F, which are cheaper than the regular ones for not having integrated graphics. In addition, some**Intel Xeon E3 Processors** designed for servers might not have an integrated GPU. If you’re not sure about your CPU model, contact your supplier.
@@ -44,7 +40,7 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -77,7 +73,7 @@ To do so, first visit the website of your graphics card manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -99,26 +95,30 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -155,19 +155,21 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-2024-approved-mastering-iphones-mirror-images-in-photos/"><u>[New] 2024 Approved Mastering iPhone's Mirror Images in Photos</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-pushing-boundaries-advanced-strategies-to-elevate-youtube-video-visibility/"><u>[New] In 2024, Pushing Boundaries Advanced Strategies to Elevate YouTube Video Visibility</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-rhythm-revivers-guide-to-distorted-beats-for-2024/"><u>[New] The Rhythm Reviver's Guide to Distorted Beats for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-superior-ai-photo-cutting-master/"><u>[Updated] Superior AI Photo Cutting Master</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-picks-review-best-4k-capture-gadgets-and-apps/"><u>[Updated] Top Picks Review Best 4K Capture Gadgets and Apps</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/aiff-to-mp4-by-movavi/"><u>無償オンライン変換ツール：AIFF to MP4 by Movavi - 簡単操作</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-a-broken-windows-spotlight-on-windows-11-pcs/"><u>Effective Solutions for a Broken Windows Spotlight on Windows 11 PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-refresh-the-official-minecraft-launcher-on-your-pc/"><u>How to Successfully Refresh the Official Minecraft Launcher on Your PC</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-here-are-different-ways-to-find-pokemon-go-trainer-codes-to-add-to-your-account-on-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Here are Different Ways to Find Pokemon Go Trainer Codes to Add to Your Account On Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-sluggishness-enhancing-ubisofts-online-service-performance/"><u>Overcoming Sluggishness: Enhancing Ubisoft's Online Service Performance</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/quick-and-easy-elgato-software-installation-guide/"><u>Quick and Easy Elgato Software Installation Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-gameplay-restored-how-to-overcome-crashing-problems-in-dark-souls-iii/"><u>Smooth Gameplay Restored: How to Overcome Crashing Problems in Dark Souls III</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/snapping-back-up-a-comprehensive-guide-to-restoring-your-lost-snapchats-on-windows-iphone-and-android-systems/"><u>Snapping Back Up: A Comprehensive Guide to Restoring Your Lost Snapchats on Windows, iPhone & Android Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-madden-20-for-pc-stability-problems-fixed/"><u>Troubleshooting and Resolving Madden 20 for PC Stability Problems [FIXED]</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-10-key-steps-for-basic-photo-color-correction/"><u>[Updated] In 2024, 10 Key Steps for Basic Photo Color Correction</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-inside-the-metaverse-discovering-6-in-depth-models/"><u>[Updated] Inside the Metaverse Discovering 6 In-Depth Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-frame-rate-reductions-insights-into-fortnites-season-8-performance-tweaks/"><u>Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-enhance-rainbow-six-siege-playability-and-reduce-lag/"><u>Effective Solutions to Enhance Rainbow Six Siege Playability & Reduce Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-preventing-and-repairing-game-instability-for-slime-rancher-2-on-pc/"><u>Expert Guide: Preventing and Repairing Game Instability for Slime Rancher 2 on PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/going-off-grid-connect-online-without-cables-or-telephone-services/"><u>Going Off-Grid: Connect Online without Cables or Telephone Services</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-when-the-elder-scrolls-online-wont-start-properly/"><u>How to Fix When 'The Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-itel-a60-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Itel A60 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-8-plus-to-ipad-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 8 Plus to iPad? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-unleash-creativity-winning-animation-projects-using-movie-maker/"><u>In 2024, Unleash Creativity Winning Animation Projects Using Movie Maker</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-launch-problems-with-star-wars-the-old-republic-swtor/"><u>Resolving Launch Problems with Star Wars The Old Republic (SWTOR)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-7-must-see-sites-for-upcoming-film-previews/"><u>Top 7 Must-See Sites for Upcoming Film Previews</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-black-display-problems/"><u>Troubleshooting and Fixing Black Display Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-startup-problems-resolved-enjoy-uninterrupted-gaming/"><u>Warframe Startup Problems Resolved - Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-poco-m6-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco M6 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/why-chromebooks-should-be-your-first-choice-the-ultimate-guide-to-their-benefits/"><u>Why Chromebooks Should Be Your First Choice – The Ultimate Guide to Their Benefits</u></a></li>
 </ul></div>
 

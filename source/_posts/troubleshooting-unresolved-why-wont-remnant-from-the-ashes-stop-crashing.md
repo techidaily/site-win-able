@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Unresolved - Why Won't 'Remnant: From the Ashes' Stop Crashing?"
-date: 2024-08-27T20:32:24.283Z
-updated: 2024-08-28T20:32:24.283Z
+date: 2024-12-18T17:55:05.946Z
+updated: 2024-12-19T18:40:05.508Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/cceaece01aa4bcb3e2bd94d9a7dafd046bccc2616
 
 The Steam Remote Play is a feature that allows you to stream your games from your computer to other devices and share your local co-op games online with friends. But it might not always work as intended. Sometimes it’s just**stuck on the loading screen or not recognizing controller** . If this happened to you, don’t worry. With some tweaks, you definitely can fix the Steam Remote Play not working issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -27,6 +31,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 4. **[Disable hardware encoding](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable IPv6](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Use a static IP address](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check if your game supports Remote Play
 
@@ -40,18 +48,23 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your Steam client and games
 
  Before using the Remote Play feature, make sure your Steam client is updated. It can be a prerequisite to use the feature smoothly. Although most of the time, it will automatically download an update if there’s one available, you can always update it manually by selecting the**Steam** tab and click**Check for Steam Client Updates** .  
   
 ![check for Steam client updates](https://images.drivereasy.com/wp-content/uploads/2020/10/update-Steam-client.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve updated your Steam client, also make sure that you have your game updated. An update would most possibly fix some known bugs, which can guarantee a better gaming experience.
 
@@ -63,18 +76,12 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your drivers
 
  To update your drivers manually, you can go to the Device Manager, then manually update each driver by following the on-screen instructions.
 
  Or you can go to the device manufacturer’s driver download page. Then find the correct driver for your system, download and install it step by step.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Option 2 – Automatically update your drivers** (recommended)
 
  If you don’t have the time, patience, or computer skills to update drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -88,16 +95,14 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ![update video card drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/10/update-drivers-scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, try connecting to your remote computer to check if it works.
@@ -105,8 +110,9 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Disable hardware encoding
 
  Hardware encoding is that it reduces the load on your CPU by using a purpose-built piece of hardware. It’s enabled by default to give you the maximum performance. But there is a possibility that it hinders your Remote Play from functioning properly. So you and your friends should disable it from the Steam client. To do this, follow the instructions below:
@@ -115,9 +121,17 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
@@ -133,17 +147,15 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
@@ -157,9 +169,6 @@ Now try reconnecting your device to check if the issue persists.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Use a static IP address
 
  Most devices use _dynamic_ IP addresses, which are assigned by the network when they connect and change over time. While when a device is assigned a _static_ IP address, the address does not change. Despite the fact that most users don’t need static IP addresses, some remote access solutions only trust certain IPs for security purposes. So if you can’t use the Steam Remote Play feature, using a static IP address might be working.
@@ -168,9 +177,6 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -181,8 +187,9 @@ To set a static IP address, you can:
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
@@ -209,9 +216,6 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
@@ -230,8 +234,6 @@ To check them, you can:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +241,24 @@ To check them, you can:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-guide-to-swiftly-eliminate-unwanted-youtube-comments/"><u>[New] 2024 Approved Guide to Swiftly Eliminate Unwanted YouTube Comments</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-elite-race-sims-ultimate-selection-for-2024/"><u>[New] Elite Race Sims Ultimate Selection for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-tricks-for-high-quality-snapchat-recordings-on-phone/"><u>[New] In 2024, Tricks for High-Quality Snapchat Recordings on Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002041860-battlefield-5-wont-start-navigate-to-victory-with-these-simple-repair-steps-players/"><u>Battlefield 5 Won't Start? Navigate to Victory with These Simple Repair Steps Players!</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bugs-improve-your-cyberpunk-2077-experience-without-lag-or-stutter-issues/"><u>Beat the Bugs: Improve Your Cyberpunk 2077 Experience Without Lag or Stutter Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/best-8-filter-packs-for-dynamic-video-streaming-for-2024/"><u>Best 8 Filter Packs for Dynamic Video Streaming for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-whats-new-rainbow-six-siege-freezing-patch-of-2024-unveiled/"><u>Discover What's New: Rainbow Six Siege Freezing Patch of 2024 Unveiled!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/dive-into-chatgpt-gaming-world-unveiling-the-6-most-fun-and-interactive-games-you-can-enjoy-today/"><u>Dive Into ChatGPT Gaming World: Unveiling The 6 Most Fun and Interactive Games You Can Enjoy Today</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-s23-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from S23.</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-on-without-interruptions-fixes-for-cod-warzone-pacific-disconnects/"><u>Game On Without Interruptions: Fixes for Cod: Warzone Pacific Disconnects</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-pc-gaming-issues-and-crashes-solutions-inside/"><u>How to Stop PC Gaming Issues and Crashes - Solutions Inside</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-the-latest-hp-thunderbolt-dock-g2-drivers-for-optimal-performance-120w230w/"><u>Install the Latest HP Thunderbolt Dock G2 Drivers for Optimal Performance (120W/230W)</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimized-ie-driver-for-windows-xpvista7/"><u>Optimized IE Driver for Windows XP/Vista/7</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-repeated-freezes-in-ready-or-not-while-playing-on-your-pc/"><u>Resolving Repeated Freezes in 'Ready or Not' While Playing on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-csgo-2-launch-issue-a-step-by-step-guide/"><u>Solving the CS:GO 2 Launch Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995032587-troubleshooting-gta-5-freezing-issues-resolved/"><u>Troubleshooting GTA 5 Freezing Issues - Resolved</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/watch-over-instagrams-friendship-shifts-for-2024/"><u>Watch Over Instagram's Friendship Shifts for 2024</u></a></li>
+</ul></div>
 

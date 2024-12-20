@@ -1,7 +1,7 @@
 ---
 title: Anthem Endless Boot Loop Solution for Smooth Gaming Experience
-date: 2024-08-27T20:31:32.071Z
-updated: 2024-08-28T20:31:32.071Z
+date: 2024-12-16T18:51:13.077Z
+updated: 2024-12-19T18:49:54.067Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Looking for Football Manager 2023 won’t launch fixes? You’ve come to the rig
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable overlay and launch in Windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add an exception to your antivirus
 
  Many players have indicated their game files were blocked by antivirus software and caused the issue. Try this fix especially you’re an Avast or Avg user. They had virus definitions updated which mistakingly blocks steam/fm.exe.  
@@ -46,9 +50,6 @@ Take Avast as an example:
 
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -73,16 +74,18 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -92,21 +95,15 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -117,6 +114,10 @@ If this fix bring no luck, move to the next fix.
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
 
@@ -130,8 +131,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +138,24 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-engaging-youtube-thumbnails-a-step-by-step-guide/"><u>[New] In 2024, Crafting Engaging YouTube Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[Updated] Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-aces-top-10-list-choosing-superior-capture-cards/"><u>[Updated] In 2024, Ace's Top 10 List Choosing Superior Capture Cards</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-seo-the-path-to-more-audience-engagement/"><u>[Updated] YouTube SEO The Path to More Audience Engagement</u></a></li>
+<li><a href="https://win-able.techidaily.com/baldurs-gate-3-windows-common-issues-and-fixes-for-stability-improvements/"><u>Baldur's Gate 3 [Windows] - Common Issues & Fixes for Stability Improvements</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-for-addressing-farming-simulator-22-startup-problems/"><u>Effective Strategies for Addressing Farming Simulator 22 Startup Problems</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/elite-film-clips-anthology-for-2024/"><u>Elite Film Clips Anthology for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-honor-magic-6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-cod-ww-ii-error-code-4128-issue/"><u>How to Resolve the COD WW II Error Code 4128 Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-beyond-facetime-transformative-webcam-uses/"><u>In 2024, Beyond FaceTime Transformative Webcam Uses</u></a></li>
+<li><a href="https://win-able.techidaily.com/ready-to-dive-into-doom-eternal-but-it-wont-start-lets-solve-that-issue/"><u>Ready to Dive Into DOOM Eternal but It Won't Start? Let's Solve That Issue</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/real-time-unfollowers-detection-on-insta/"><u>Real-Time Unfollowers Detection on Insta</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-flickering-screens-with-these-easy-fixes/"><u>Say Goodbye to Flickering Screens with These Easy Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-resolving-stutter-in-counter-strike-global-offensive-games/"><u>Step-by-Step Guide to Resolving Stutter in Counter-Strike: Global Offensive Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-your-game-from-crashing-8-strategies-for-hogwarts-legacy/"><u>Troubleshoot and Prevent Your Game From Crashing - 8 Strategies for Hogwarts Legacy</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-constant-crashes-in-age-of-empires-4-on-pcs/"><u>Troubleshooting Tips: Preventing Constant Crashes in Age of Empires 4 on PCs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/d-dvd-dvd/"><u>ご利用いただける D DVD コピーガードを解除:市販・レンタルDVD全品でおすすめの最新ツール大公開</u></a></li>
+</ul></div>
 

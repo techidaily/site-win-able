@@ -1,7 +1,7 @@
 ---
 title: "Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues"
-date: 2024-12-08T16:35:47.189Z
-updated: 2024-12-12T16:46:38.293Z
+date: 2024-12-17T19:15:36.301Z
+updated: 2024-12-19T19:14:55.490Z
 tags:
   - win11
   - win10
@@ -38,7 +38,7 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Clear the Origin cache
@@ -52,8 +52,16 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![run-dialog %ProgramData%](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-ProgramData.png)
 3. In the pop-up window, double-click the **Origin**  folder to open it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![ProgramData Origin folder](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder.png)
 4. Delete all the files and folders in this folder **except for the LocalContent folder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/ProgramData-Origin-folder-2.png)
 5. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .  
@@ -73,19 +81,11 @@ thumbnail: https://thmb.techidaily.com/142f97e5dde3eaa8c469e7fcae52ffd9c48a3f3c6
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/AppData-Local-Origin-folder.png)
 10. Restart Windows.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 11. **Double-click** the shortcut of Origin on your desktop.
 
  See if Origin crashes after you cleared the cache. If this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Run Origin as administrator
 
@@ -114,8 +114,16 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
@@ -136,12 +144,12 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager-main-screen.png)
 2. Go to your Origin install folder (Normally the path should be**C:\\Program Files (x86)\\Origin** ) and delete the file “**OriginThinSetupInternal** “.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/origin-123.png)
 3. In your Origin install folder,**right-click** the file**Origin** and select**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Orgin-1234.png)
 4. In the**Origin Properties** window, navigate to the**Compatibility** tab and click**Run compatibility troubleshooter** .  
@@ -152,10 +160,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter.png)
 6. Click**Test the program…** to see if the new settings fix the problem.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/windows-compatibility-troubleshooter-2.png)
 7. If Origin can load normally, then click**Next** and Select**Yes, save these settings for this program** .  
 
@@ -164,12 +168,20 @@ If Origin crashes again, try the next fix to update your graphics driver.
 9. If it still doesn’t work, then run Program Compatibility Troubleshooter again and **select the second option**   **to choose compatibility settings based on problems you notice** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Program-compatibility-troubleshooter3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Adjust the following settings manually and select **OK** when you’re done.
 
 * **Compatibility mode:**  If Origin won’t open on your current Windows system, click the drop-down list to select a previous version of Windows system to test-run it.
 * **Disable fullscreen optimizations:**  Some games on Origin are particularly affected by the low FPS issue, and some of them even crash when the player enable fullscreen optimizations. **Just disable it**  to see whether Origin will open or not.
 * **Run this program as an administrator:**  If Origin is not given administrator privileges, it may not run properly. Try this setting to give the program the administrator privileges.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Origin-compatibility-troubleshooter-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re using 4K monitor, you can try the**Change high DPI settings** option:
 
@@ -195,17 +207,9 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch Origin again to see if it crashes. If not, congratulations! You’ve fixed this issue. If this issue reappears, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Add Origin as an exception to your third-party antivirus application
 
@@ -240,6 +244,10 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Restart** your PC and launch Origin to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
@@ -247,7 +255,7 @@ If Origin crashes again, try the next fix to update your graphics driver.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Origin
@@ -262,10 +270,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -273,10 +277,6 @@ If Origin crashes again, try the next fix to update your graphics driver.
  iii. Double-click**Origin** to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
 
@@ -305,24 +305,18 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-enriching-mp4-soundtracks-with-srt-a-compreomedium-guide/"><u>[New] Enriching MP4 Soundtracks with SRT – A Compreomedium Guide</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-essential-techniques-for-enhancing-your-instagram-videos/"><u>[New] Essential Techniques for Enhancing Your Instagram Videos</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-comprehensive-codes-of-conduct-for-the-yt-community/"><u>[Updated] Comprehensive Codes of Conduct for the Yt Community</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/s-unlimited-stock-photos-via-four-noteworthy-youtubes-for-2024/"><u>Access Unlimited Stock Photos via Four Noteworthy YouTubes for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/age-of-empires-iv-stability-guide-no-more-frustrating-crashes/"><u>Age of Empires IV Stability Guide – No More Frustrating Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-constant-stalls-in-god-of-war-for-your-computer-setup/"><u>Fixing Constant Stalls in God of War for Your Computer Setup</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-prevent-and-resolve-palworld-from-crashing-on-desktop-systems/"><u>Guide: Prevent and Resolve PalWorld From Crashing on Desktop Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-the-missing-msvcr110dll-file-in-helldivers-game/"><u>How to Address the Missing MSVCR110.dll File in Helldivers Game</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-overcome-the-permanent-blackout-problem-in-windows-based-fortnite-games/"><u>How to Overcome the Permanent Blackout Problem in Windows-Based Fortnite Games</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-leading-virtual-reality-enhancements-for-gamers/"><u>In 2024, Leading Virtual Reality Enhancements for Gamers</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-skyvaults-wallet-wise-plan-bulk-data-at-a-discount/"><u>In 2024, SkyVault's Wallet Wise Plan Bulk Data at a Discount</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/powerful-strategies-for-optimizing-gratuitous-timer-use/"><u>Powerful Strategies for Optimizing Gratuitous Timer Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-village-performance-optimized-overcoming-pc-gameplays-frame-rate-decreases/"><u>Resident Evil Village Performance Optimized: Overcoming PC Gameplay's Frame Rate Decreases</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-phoenix-point-crashes-with-these-effective-solutions/"><u>Say Goodbye to Phoenix Point Crashes with These Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/the-top-4-swf-media-plugins-for-cross-platform-compatibility-with-macos-and-windows-11-systems/"><u>The Top 4 SWF Media Plugins for Cross-Platform Compatibility with macOS and Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-metro-exodus-pc-game-crashes/"><u>Troubleshooting Guide: Resolving Metro Exodus PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-optimal-team-call-aesthetics-pre-call-and-post-call-tweaks/"><u>[New] 2024 Approved Optimal Team Call Aesthetics Pre-Call & Post-Call Tweaks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-thank-you-access-comprehensive-paidfree-templates/"><u>[Updated] Thank You! Access Comprehensive Paid/Free Templates</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/1-master-the-art-of-securing-your-digital-assets-a-step-by-step-guide-to-generating-your-own-crypto-wallet-address-techgenius/"><u>1. Master the Art of Securing Your Digital Assets: A Step-by-Step Guide to Generating Your Own Crypto Wallet Address - TechGenius</u></a></li>
+<li><a href="https://win-able.techidaily.com/bugfix-strategies-for-persistent-character-errors-in-pc-gaming/"><u>Bugfix Strategies for Persistent Character Errors in PC Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-bugs-ensure-uninterrupted-gameplay-in-latest-destiny-2-update-for-pc-gamers/"><u>Fixed Bugs Ensure Uninterrupted Gameplay in Latest Destiny 2 Update for PC Gamers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-fix-iphone-6-stuck-at-attempting-data-recovery-loop-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix iPhone 6 Stuck at attempting data recovery Loop | Stellar</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-apple-iphone-se-2020-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/master-the-art-of-smooth-gaming-tips-to-prevent-disco-elysium-from-crashing/"><u>Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-past-freezes-in-far-cry-5-expert-tips-for-getting-game-going/"><u>Navigating Past Freezes in Far Cry 5 - Expert Tips for Getting Game Going</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722988087660-pc-issues-resolved-navigate-the-fia-wrc-10-without-crashes/"><u>PC Issues Resolved: Navigate the FIA WRC 10 without Crashes!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-inside-how-to-unearth-the-model-number-of-your-macbook-with-precision/"><u>Step Inside: How to Unearth the Model Number of Your MacBook with Precision</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-restoring-function-to-the-battlenet-launcher-on-windows-pcs/"><u>Step-by-Step: Restoring Function to the Battlenet Launcher on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-for-tormented-souls-a-complete-guide/"><u>Troubleshooting PC Crashes for Tormented Souls - A Complete Guide</u></a></li>
 </ul></div>
 

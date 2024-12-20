@@ -1,7 +1,7 @@
 ---
 title: Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem
-date: 2024-12-11T17:15:56.449Z
-updated: 2024-12-12T16:45:40.178Z
+date: 2024-12-14T19:42:38.460Z
+updated: 2024-12-19T16:21:24.880Z
 tags:
   - win11
   - win10
@@ -67,6 +67,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics drivers
 
  Ashen may crash if the graphics drivers on your PC are outdated or corrupted. So you can try updating your graphics drivers to the latest version to see if it helps fix the the game crash issue.
@@ -84,11 +88,15 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -97,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair the game
 
  Ashen may crash if its game files are corrupted. In this case, you need to verify the integrity of the game files. You can follow the steps below to repair the game:
@@ -104,10 +116,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 1. In Epic Game Launcher, navigate to your **Library** . Click **the cog icon** on the lower-right corner of **Ashen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-49-47.png)
 2. Click **Verify** to start verifying the game files.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch Ashen when the verifying process completed.
@@ -124,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Perform a Windows Update
 
  You also need to make sure that Microsoft Visual C++ Redistributable and Microsoft .NET Framework are not missing or corrupted, because if some of the system files are missing or corrupted, you may also run into the Ashen crash issue.
@@ -139,6 +143,10 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and install them on your PC.
 
@@ -165,10 +173,6 @@ thumbnail: https://thmb.techidaily.com/89e14fb11e9e592fbd5c568e89cdfa2567dfefcd7
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Optimize your graphics card settings
 
  If the specs of your PC is not good enough, you can also try optimizing your graphics card settings. You can follow the steps below to modifying your graphics card settings.
@@ -186,11 +190,15 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
@@ -204,7 +212,7 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -220,7 +228,7 @@ Select your graphics card manufacturer first:
 2. View Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
@@ -232,29 +240,21 @@ Select your graphics card manufacturer first:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see on the screenshot below.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Ashen again to see if the game will crash. If not, congratulations! You’ve resolved this issue; if this issue persists, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Add Ashen as an exception to your 3rd party antivirus software
 
@@ -284,14 +284,17 @@ Select your graphics card manufacturer first:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-fortnite-freezes-pc-2024-tips/"><u>[Solved] Fortnite Freezes PC – 2024 Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/sovled-necromunda-troubleshooting-game-crashes-on-windows-and-mac/"><u>[SOVLED] Necromunda: Troubleshooting Game Crashes on Windows and Mac</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns/"><u>[Updated] In 2024, Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-editing-mastery-a-dive-into-filmoras-best-practices/"><u>In 2024, Expertise in Editing Mastery A Dive Into Filmora's Best Practices</u></a></li>
-<li><a href="https://some-skills.techidaily.com/mastering-flight-time-selecting-premium-uav-power-sources-for-2024/"><u>Mastering Flight Time Selecting Premium UAV Power Sources for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-insurgency-overcoming-frequent-sandstorm-crash-glitches/"><u>Mastering Insurgency: Overcoming Frequent Sandstorm Crash Glitches</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/premiere-cameras-to-document-the-next-wave-of-concert-videos/"><u>Premiere Cameras to Document the Next Wave of Concert Videos</u></a></li>
-<li><a href="https://common-error.techidaily.com/revive-your-corsair-hs50-mic-step-by-step-repair-guide-for-non-functional-microphone/"><u>Revive Your Corsair HS50 Mic - Step-by-Step Repair Guide for Non-Functional Microphone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-get-sound-back-in-your-discord-screenshare/"><u>Troubleshooting Guide: Get Sound Back in Your Discord Screenshare</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-step-by-step-download-and-personalize-whatsapp-ringtones-on-mobile-for-2024/"><u>[New] Step-by-Step Download & Personalize WhatsApp Ringtones on Mobile for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-transitioning-from-fbx-to-advanced-gametime-loggers/"><u>[Updated] Transitioning From FBX to Advanced Gametime Loggers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/average-gain-for-youtubers-per-ad-exposure-for-2024/"><u>Average Gain for YouTubers per Ad Exposure for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/bluestacks-stability-solutions-a-step-by-step-guide-for-swift-fixes-in-5-steps/"><u>BlueStacks Stability Solutions: A Step-by-Step Guide for Swift Fixes in 5 Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-video-projects-with-stable-sony-vegas-overcoming-frequent-crashes/"><u>Enhance Your Video Projects with Stable Sony Vegas: Overcoming Frequent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-overcoming-the-king-of-fighters-xvs-pc-performance-problems/"><u>Expert Solutions: Overcoming The King of Fighters XV's PC Performance Problems</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/expert-techniques-optimizing-obs-streams-for-your-fb-audience/"><u>Expert Techniques Optimizing OBS Streams for Your FB Audience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997692080-fix-outlook-wont-open/"><u>Fix: Outlook Won't Open</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-proofing-imessage-from-advanced-threats-apples-strategic-update-explained/"><u>Future-Proofing iMessage From Advanced Threats: Apple's Strategic Update Explained</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-spotify-location-after-moving-to-another-country-on-itel-a70-drfone-by-drfone-virtual-android/"><u>How to Change Spotify Location After Moving to Another Country On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-recover-and-fix-broken-game-files-on-a-windows-machine/"><u>How to Recover and Fix Broken Game Files on a Windows Machine</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-tutorial-on-creating-a-sony-playstation-online-id/"><u>The Ultimate Tutorial on Creating a Sony PlayStation Online ID</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve 'Amazon Prime Video Unresponsive' Errors
-date: 2024-08-23T11:31:33.311Z
-updated: 2024-08-24T11:31:33.311Z
+date: 2024-12-18T17:23:41.102Z
+updated: 2024-12-19T18:01:31.855Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -44,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Install all the game updates
 
  This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
@@ -64,18 +65,28 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -94,18 +105,15 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -115,14 +123,8 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -138,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +147,21 @@ thumbnail: https://thmb.techidaily.com/47c87681ac372431d1a474c8317d79b86d7b096b7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-capture-clarity-boost-photos-with-zero-cost/"><u>[New] Capture Clarity Boost Photos with Zero Cost</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-dive-into-instagram-live-without-hesitation/"><u>2024 Approved Dive Into Instagram Live Without Hesitation</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-itel-p55t-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-black-ops-cold-war-wont-boot-on-pc-discover-how-to-fix-it/"><u>Cod: Black Ops Cold War Won't Boot on PC? Discover How to Fix It!</u></a></li>
+<li><a href="https://facebook.techidaily.com/debating-meta-ais-role-in-future-of-social-media-realms/"><u>Debating Meta AI’s Role in Future of Social Media Realms</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-launch-problems-of-hitman-3-for-pc-gamers-solutions-found/"><u>Fixing the Launch Problems of Hitman 3 for PC Gamers - Solutions Found!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-developers-feel-ai-will-impact-their-workflow/"><u>How Developers Feel AI Will Impact Their Workflow</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-zero-30-5g-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Zero 30 5G Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/microsofts-official-guide-updating-and-downloading-bluetooth-drivers-for-windows-operating-systems/"><u>Microsoft's Official Guide: Updating and Downloading Bluetooth Drivers for Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-system-for-a-smooth-no-rest-for-the-wicked-gaming-session-avoid-frustrating-crashes/"><u>Optimizing Your System for a Smooth 'No Rest for the Wicked' Gaming Session: Avoid Frustrating Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnect-and-continue-your-adventure-6-reliable-fixes-for-terraria-connection-problems/"><u>Reconnect and Continue Your Adventure: 6 Reliable Fixes for Terraria Connection Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-prevent-call-of-duty-modern-warfare-from-freezing-on-windows-computers/"><u>Troubleshooting Guide: How to Prevent 'Call of Duty: Modern Warfare' From Freezing on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-nier-replicant-hd-remaster-a-step-by-step-guide-to-fix-initialization-problems/"><u>Unlocking NieR Replicant HD Remaster: A Step-by-Step Guide to Fix Initialization Problems</u></a></li>
+<li><a href="https://win-web3.techidaily.com/upgrade-your-ebook-cover-easy-techniques-for-converting-a-softcover-book-design-into-hardcover-format-using-flipbuilder/"><u>Upgrade Your eBook Cover: Easy Techniques for Converting a Softcover Book Design Into Hardcover Format Using FlipBuilder</u></a></li>
+</ul></div>
 

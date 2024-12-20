@@ -1,7 +1,7 @@
 ---
 title: "Crash-Free Playtime: Ultimate Troubleshooting Guide for Left 4 Dead 2 Stability"
-date: 2024-08-27T20:30:41.606Z
-updated: 2024-08-28T20:30:41.606Z
+date: 2024-12-15T19:38:12.304Z
+updated: 2024-12-19T18:03:34.681Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 ![diablo 2 resurrected crashing pc](https://images.drivereasy.com/wp-content/uploads/2021/08/diablo-2-resurrected-featured-image-1200x675.jpg)
 
  Got your Diablo 2 Resurrected but can’t play the game because it crashes with an unexpected error? You’re not alone. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,9 +47,6 @@ thumbnail: https://thmb.techidaily.com/23e666886afecfc048aeb4d50e179c98091d3b2c2
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -68,9 +69,6 @@ If this method doesn’t help, check out your graphics driver.
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -84,21 +82,20 @@ If this method doesn’t help, check out your graphics driver.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Scan and repair corrupt game files
 
  It’s possible that there are corrupted or missing game files stopping your Diablo 2 Resurrected from functioning correctly, which therefore triggers the crashes. To repair the corrupt files, follow the steps below:
@@ -107,10 +104,11 @@ If this method doesn’t help, check out your graphics driver.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
@@ -123,19 +121,22 @@ If this method doesn’t help, check out your graphics driver.
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -153,8 +154,6 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +161,21 @@ If this method doesn’t help, check out your graphics driver.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/bypassing-playback-errors-on-firefox-optimizing-your-viewing-experience/"><u>Bypassing Playback Errors on Firefox: Optimizing Your Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-implemented-accessing-origin-accounts-is-possible-again/"><u>Fix Implemented! Accessing Origin Accounts Is Possible Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-baldurs-gate-ebook-wont-start-a-step-by-step-solution/"><u>Fixing 'Baldur's Gate eBook Won't Start': A Step-by-Step Solution</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-on-apple-iphone-xs-max-smoothly-by-drfone-ios/"><u>How To Remove iCloud On Apple iPhone XS Max Smoothly</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-infinix-gt-10-pro-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Infinix GT 10 Pro to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-chatgpt-a-threat-to-your-career-understanding-job-security-in-an-ai-driven-world/"><u>Is ChatGPT a Threat to Your Career?: Understanding Job Security in an AI-Driven World</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-troubleshooting-tips-for-a-smooth-fifa-19-gaming-experience/"><u>No More Glitches: Troubleshooting Tips for a Smooth FIFA 19 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-installation-hurdles-solving-the-msfs2020-checking-for-updates-error/"><u>Overcoming Installation Hurdles - Solving the MSFS2020 'Checking for Updates' Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-fix-it-friends-fall-guys-initial-load-issues-and-avoid-unexpected-shutdowns/"><u>Solve Fix-It Friends (Fall Guys) Initial Load Issues & Avoid Unexpected Shutdowns</u></a></li>
+<li><a href="https://techtrends.techidaily.com/teslas-newest-automaton-unveiling-the-latest-updates-on-launch-dates-cost-forecasts-and-technical-specifications/"><u>Tesla's Newest Automaton: Unveiling the Latest Updates on Launch Dates, Cost Forecasts, and Technical Specifications</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722803147618-ultimate-guide-the-leading-exterior-discs-drives-of-236/"><u>Ultimate Guide: The Leading Exterior Discs Drives of 2#36;</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-techniques-for-common-doom-eternal-crashes/"><u>Ultimate Troubleshooting Techniques for Common DOOM Eternal Crashes</u></a></li>
+</ul></div>
 

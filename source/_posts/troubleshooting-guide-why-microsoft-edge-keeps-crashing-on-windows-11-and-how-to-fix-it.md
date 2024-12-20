@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It"
-date: 2024-12-09T16:02:57.221Z
-updated: 2024-12-12T16:24:06.332Z
+date: 2024-12-18T16:27:01.471Z
+updated: 2024-12-19T16:42:35.697Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -57,7 +61,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
@@ -74,21 +78,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -99,6 +103,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
@@ -106,14 +114,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. Reboot the browser to check the problem is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -124,7 +128,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
@@ -146,10 +150,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -194,24 +194,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-average-cost-vs-lowest-price-cloud-storage-shoutouts-2024/"><u>[New] Average Cost Vs. Lowest Price - Cloud Storage Shoutouts, 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-exclusive-roundup-the-top-5-iphone-compatible-podcasts/"><u>[New] Exclusive Roundup The Top 5 iPhone-Compatible Podcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-unearth-17-methods-a-complete-guide-to-tracking-internet-radio/"><u>[Updated] In 2024, Unearth 17 Methods A Complete Guide to Tracking Internet Radio</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-yakuza-like-a-dragon-with-these-essential-tips-and-strategies-for-playstation-4-and-pc/"><u>Conquer Yakuza: Like a Dragon with These Essential Tips and Strategies for PlayStation 4 & PC</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/efficiently-enhance-iphone-videos-dimensions-in-focus/"><u>Efficiently Enhance iPhone Videos Dimensions in Focus</u></a></li>
-<li><a href="https://extra-information.techidaily.com/experts-choice-best-vr-handh-written-by-assistant/"><u>Expert's Choice Best VR Handh Written by Assistant</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-unveiled-resolving-pc-issues-in-the-remastered-version-of-yakuza-3/"><u>Fixes Unveiled: Resolving PC Issues in the Remastered Version of Yakuza 3</u></a></li>
-<li><a href="https://win-able.techidaily.com/freezing-glitches-on-cod-vanguard-effective-solutions-and-tips-for-seamless-play/"><u>Freezing Glitches on COD: Vanguard – Effective Solutions and Tips for Seamless Play</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-xr21-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia XR21 Phone that is Locked?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-losing-cell-connection-discover-these-10-quick-fixes/"><u>IPhone Losing Cell Connection? Discover These 10 Quick Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/navigating-through-darkness-a-comprehensive-guide-to-resolve-league-of-legends-screen-issues/"><u>Navigating Through Darkness: A Comprehensive Guide to Resolve League of Legends' Screen Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011775252-obs-wasnt-capturing-learn-how-we-solved-the-screen-recording-glitches/"><u>OBS Wasn't Capturing? Learn How We Solved the Screen Recording Glitches!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-boost-utorrent-performance-for-faster-file-transfers/"><u>Resolved! Boost uTorrent Performance for Faster File Transfers</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/section-2-five-facts-to-remember/"><u>Section 지막2: Five Facts to Remember</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/solving-directx-directinput-dll-issues-a-comprehensive-guide/"><u>Solving DirectX DirectInput DLL Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-guide-5-must-try-pinterest-automation-tools/"><u>The Ultimate Guide: 5 Must-Try Pinterest Automation Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-essentials-fix-continuous-pc-gameplay-interruptions-in-horizon-forbidden-west-full-version/"><u>Troubleshooting Essentials: Fix Continuous PC Gameplay Interruptions in 'Horizon Forbidden West' Full Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-dota-underlords-from-frequent-crashing-issues/"><u>Troubleshooting Guide: Stop Dota Underlords From Frequent Crashing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-silent-skies-in-skyrim-quick-fix-for-audio-problems/"><u>Troubleshooting Silent Skies in Skyrim - Quick Fix for Audio Problems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-video-success-stories-maximizing-income-with-youtube-adsense/"><u>[New] In 2024, Video Success Stories Maximizing Income with YouTube AdSense</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-6-best-slideshow-making-apps-on-iphone-11xrxsx876/"><u>[Updated] 6 Best Slideshow-Making Apps on iPhone 11/XR/Xs/X/8/7/6</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-pc-boot-errors-fixing-valorant-not-starting-up-tips-players/"><u>Defeating PC Boot Errors: Fixing Valorant Not Starting Up (Tips Players)</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solution-for-nba-2k20-stability-issues-get-back-to-gaming/"><u>Effortless Solution for NBA 2K20 Stability Issues - Get Back to Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-fixes-to-stop-your-ps5-from-crashing-while-playing-warzone-2024-edition/"><u>Expert Fixes to Stop Your PS5 From Crashing While Playing Warzone: 2024 Edition</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/identifying-relevant-metaphors-and-analogies/"><u>Identifying Relevant Metaphors and Analogies</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-utorrent-writes-and-reads-errors-on-windows-os/"><u>Resolving uTorrent' Writes & Reads Errors on Windows OS</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-in-2024-in-this-case-you-would-prefer-to-rotate-3gp-videos-90-degrees-for-a-better-viewing-here-is-a-list-of-top-5-free-3gp-video-rotators/"><u>Updated In 2024, In This Case, You Would Prefer to Rotate 3GP Videos 90 Degrees for a Better Viewing. Here Is a List of Top 5 Free 3GP Video Rotators</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-was-there-a-hiccup-with-ascents-launch-weve-figured-it-out/"><u>Why Was There a Hiccup with Ascent's Launch? We've Figured It Out</u></a></li>
 </ul></div>
 

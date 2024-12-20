@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting PC Problems in Bloodhunt: Eliminating Freezes & Stutters"
-date: 2024-08-27T20:31:39.143Z
-updated: 2024-08-28T20:31:39.143Z
+date: 2024-12-14T17:34:08.101Z
+updated: 2024-12-19T19:30:38.598Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/92b37c07bddbdc531cfaf008b46137ba5e744b7d9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/genshin-impact-featured-image-1.jpg)
 
  Released on September 28, 2020, Genshin Impact is still one of the most popular role-playing games by now. However, many players complained that Genshin Impact won’t launch from time to time or the issue occurs after an update. If you run into the same issue, don’t worry. We’ve got some fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,17 +68,22 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
@@ -89,9 +98,9 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
 
 ### Fix 4 – Perform a clean boot
@@ -101,25 +110,25 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. In the Windows search box, type**system configuration** and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
  If the services are not the culprits, **open Task Manager to enable the startup items (4 or 5 in a group)** to rule out the problematic applications. Some players reported that the Faceit app might interfere with Genshin Impact.
@@ -131,19 +140,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Type**system configuration** in the Windows search box and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Repair the game files
 
  If you’ve attempted all the fixes above but to avail, the problem might be related to corrupted or missing game files. It’s simple to have a thorough check of the game files if you’re able to get into the launcher, and this trick has worked for a few players stuck in the same situation.
@@ -152,15 +161,8 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click the**gear icon** at the top right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait for the process to finish and restart the game, which should be working as expected.
 
 ---
@@ -175,8 +177,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-no-limit-story-saving-at-the-tap-of-a-button-for-2024/"><u>[New] No-Limit Story Saving at the Tap of a Button for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-seamless-streaming-smarter-storing-top-51-exclusive-android-mobile-video-trimming-software-for-2024/"><u>[New] Seamless Streaming, Smarter Storing Top 51 Exclusive Android Mobile Video Trimming Software for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pro-tips-to-perfectly-capture-your-mac-with-ease-and-speed/"><u>[Updated] Pro Tips to Perfectly Capture Your Mac with Ease and Speed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-achieving-stable-images-in-action-cams-unsteady-world/"><u>2024 Approved Achieving Stable Images in Action Cam's Unsteady World</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-how-to-edit-podcasts-in-garageband/"><u>2024 Approved How To Edit Podcasts in GarageBand</u></a></li>
+<li><a href="https://win-able.techidaily.com/anthem-game-fix-how-to-stop-that-persistent-loading-screen/"><u>Anthem Game Fix: How to Stop That Persistent Loading Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-the-startup-glitches-of-outriders-pc-version-with-proven-fixes/"><u>Bust the Startup Glitches of Outriders PC Version with Proven Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/deathloop-performance-hitches-solved-smooth-gaming-on-pc-guaranteed/"><u>Deathloop Performance Hitches Solved - Smooth Gaming on PC Guaranteed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006729733-fix-your-microsoft-edge-stability-issues-on-windows-10-easily/"><u>Fix Your Microsoft Edge Stability Issues on Windows 10 Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-crashes-and-stabilize-your-mordhau-gaming-experience/"><u>How to Overcome Crashes and Stabilize Your Mordhau Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-users-rejoice-sword-stories-volume-7-crash-issues-now-fixed-on-desktop-gaming/"><u>PC Users Rejoice: Sword Stories Volume 7 Crash Issues Now Fixed on Desktop Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011085197-resolve-oculus-link-problems-quickly-with-these-proven-6-fixes/"><u>Resolve Oculus Link Problems Quickly with These Proven 6 Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-the-persistent-error-0xc19001e1-in-your-windows-10-pc-expert-solutions/"><u>Resolve the Persistent Error 0xC19001E1 in Your Windows 10 PC: Expert Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/swift-systems-for-capturing-content/"><u>Swift Systems for Capturing Content</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/tackle-helldivers-amoeba-resolving-pc-game-crashes-with-proven-techniques/"><u>Tackle Helldivers Amoeba: Resolving PC Game Crashes with Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-the-cs-go-no-user-logon-issue/"><u>Top 5 Solutions for Resolving the CS: GO 'No User Logon' Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/where-to-buy-gopro-cameras-best-cheap-gopro-deals-for-2024/"><u>Where to Buy GoPro Cameras Best Cheap GoPro Deals for 2024</u></a></li>
+</ul></div>
 

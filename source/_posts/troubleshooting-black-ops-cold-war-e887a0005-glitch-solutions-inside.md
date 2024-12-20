@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting BLACK OPS COLD WAR E887A0005 Glitch – Solutions Inside
-date: 2024-08-27T20:29:26.788Z
-updated: 2024-08-28T20:29:26.788Z
+date: 2024-12-18T16:19:42.932Z
+updated: 2024-12-19T17:03:10.999Z
 tags:
   - win11
   - win10
@@ -40,6 +40,11 @@ Here’s a quick guide for that:
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 You can now launch Black Ops Cold War and see if it crashes again.
@@ -58,9 +63,11 @@ If this trick doesn’t help you, simply continue to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,10 +85,16 @@ And it’s fairly easy to update:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -100,21 +113,21 @@ Here’s how:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this method doesn’t fix your issue, simply check out the next one.
 
 ### Fix 5: Disable in-game Ray Tracing
@@ -127,9 +140,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -143,8 +153,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +160,21 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-ace-your-edits-pro-level-tips-for-lunapic-users/"><u>[New] 2024 Approved Ace Your Edits Pro-Level Tips for LunaPic Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-guidelines-to-frame-your-youtube-creation-flow/"><u>[New] In 2024, Guidelines to Frame Your YouTube Creation Flow</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-quick-windows-10-tutorial-for-simple-video-trimming-for-2024/"><u>[Updated] Quick Windows 10 Tutorial for Simple Video Trimming for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-10-tips-for-sound-fade-effects-in-premiere-pro/"><u>[Updated] Top 10 Tips for Sound Fade Effects in Premiere Pro</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-cut-color-and-compile-a-deep-dive-into-youtube-studio-video-editing/"><u>2024 Approved Cut, Color & Compile A Deep Dive Into YouTube Studio Video Editing</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-correcting-discords-audio-problem-during-screen-presentations/"><u>Diagnosing and Correcting Discord's Audio Problem During Screen Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-frame-drops-and-stutter-in-v-a-guide-for-pc-users/"><u>Eliminating Frame Drops and Stutter in V: A Guide for PC Users</u></a></li>
+<li><a href="https://win-hot.techidaily.com/expert-advice-on-fixing-your-graphics-hardware-glitches-with-yl-software-solutions/"><u>Expert Advice on Fixing Your Graphics Hardware Glitches with YL Software Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-npc-engine-optimization-how-i-overcame-the-frame-rate-drop-issue/"><u>Forza Horizon nPC Engine Optimization: How I Overcame the Frame Rate Drop Issue!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy F04 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/joint-design-is-crucial-for-distributing-loads-evenly-across-the-welded-structure/"><u>Joint Design Is Crucial for Distributing Loads Evenly Across the Welded Structure.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frostpunk-stability-issues-and-preventing-future-crashes/"><u>Resolving Frostpunk Stability Issues and Preventing Future Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zooms-failed-video-launch/"><u>Top 5 Solutions for Resolving Zoom's Failed Video Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-stable-valorant-experience-without-interruptive-pc-crashes/"><u>Troubleshooting Steps for a Stable Valorant Experience Without Interruptive PC Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Evil Genius 2 Troubleshooting: How to Successfully Start the Game"
-date: 2024-12-05T16:33:13.811Z
-updated: 2024-12-12T16:28:36.682Z
+date: 2024-12-12T19:44:09.908Z
+updated: 2024-12-19T17:47:52.306Z
 tags:
   - win11
   - win10
@@ -49,15 +49,15 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
  If Epic Games Launcher still won’t launcher, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
@@ -80,7 +80,7 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
@@ -106,7 +106,7 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
@@ -117,14 +117,14 @@ thumbnail: https://thmb.techidaily.com/e8d04162a361e101c6d5fe7cceb85fa9aae79c5e5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _You can do it for free if you like, but it’s partly manual._
 
  The Pro version of Driver Easy comes with full technical support.  
  If you need assistance, please contact**Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Change Epic Games Launcher Properties
 
@@ -149,7 +149,7 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
@@ -173,7 +173,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
@@ -181,7 +181,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
@@ -199,7 +199,7 @@ _You can do it for free if you like, but it’s partly manual._
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
@@ -234,24 +234,21 @@ Normally, after you reinstall Epic Games Launcher, it should open.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-surrender-to-serenity-top-10-game-guides/"><u>[New] 2024 Approved Surrender to Serenity Top 10 Game Guides</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-unlock-extra-space-premium-external-drives-for-ps5/"><u>[New] 2024 Approved Unlock Extra Space Premium External Drives for PS5</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-unveiling-the-secrets-of-combining-obs-with-zoom/"><u>[New] Unveiling the Secrets of Combining OBS with Zoom</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-virtual-voyage-unlimited-the-ultimate-selection-of-free-roleplayers/"><u>[New] Virtual Voyage Unlimited The Ultimate Selection of Free Roleplayers</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-brisk-tutorial-transforming-photos-into-youtube-desktop-thumbnails/"><u>[Updated] Brisk Tutorial Transforming Photos Into YouTube Desktop Thumbnails</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-earn-big-without-the-hustle-top-13-strategies-for-novices-on-reddit/"><u>[Updated] Earn Big Without the Hustle Top 13 Strategies for Novices on Reddit</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-professional-photogridding-services-to-polish-your-art/"><u>[Updated] Professional Photogridding Services to Polish Your Art</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harness-the-power-of-color-grading-a-guide-to-luts-in-photoshop-cs6/"><u>2024 Approved Harness the Power of Color Grading A Guide to LUTs in Photoshop CS6</u></a></li>
-<li><a href="https://win-able.techidaily.com/breaking-free-from-stasis-fixes-to-combat-among-us-unending-start-screen/"><u>Breaking Free From Stasis: Fixes to Combat 'Among Us' Unending Start Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-myth-effective-ways-to-eliminate-naraka-bladepoint-slowdowns/"><u>Busting the Myth: Effective Ways to Eliminate Naraka Bladepoint Slowdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-i-overcame-the-problem-of-google-chrome-failing-to-start/"><u>How I Overcame the Problem of Google Chrome Failing to Start</u></a></li>
-<li><a href="https://solve-help.techidaily.com/how-to-resolve-undetected-hardware-devices-in-your-pc-expert-tips-from-yl-computing/"><u>How to Resolve Undetected Hardware Devices in Your PC: Expert Tips From YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-delay-clarification-and-fixes-announced/"><u>Mafia: Definitive Edition Delay Clarification and Fixes Announced</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-low-frame-rate-problems-in-outriders-a-comprehensive-guide-for-gamers/"><u>Overcome Low Frame Rate Problems in Outriders: A Comprehensive Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/pro-tips-for-repairing-your-rainbow-six-siege-game-server-connection-glitches/"><u>Pro Tips for Repairing Your Rainbow Six Siege Game Server Connection Glitches</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/1722975081279-shear-failures-involve-sliding-along-a-plane-due-to-horizontal-forces-acting-on-the-structure-during-an-earthquake/"><u>Shear Failures Involve Sliding Along a Plane Due to Horizontal Forces Acting on the Structure During an Earthquake</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-cult-of-the-lamb-pc-game-crashes/"><u>Troubleshooting Steps: Resolving 'Cult of the Lamb' PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-repair-persistent-game-shutdowns/"><u>Troubleshooting Tips: How to Repair Persistent Game Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-addressing-game-crashes-in-star-citizen-for-pc-users/"><u>Understanding and Addressing Game Crashes in Star Citizen for PC Users</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-youtube-comment-settings-tips-and-tricks/"><u>[New] Navigating YouTube Comment Settings Tips and Tricks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/op-picks-for-zero-cost-film-and-photography-resources/"><u>[New] Top Picks for Zero-Cost Film and Photography Resources</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-video-make-for-facebook-how-to-make-facebook-video/"><u>[Updated] Video Make for Facebook How to Make Facebook Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/critical-startup-issues-here-are-proven-solutions-for-life-threatening-companies-unable-to-launch/"><u>Critical Startup Issues? Here Are Proven Solutions for Life-Threatening Companies Unable to Launch</u></a></li>
+<li><a href="https://win-answers.techidaily.com/easy-installation-tutorial-setting-up-autowidget-in-kodi-versions-20-and-19/"><u>Easy Installation Tutorial: Setting Up AutoWidget in Kodi Versions 20 and 19</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-the-kensun-tire-inflator-durability-dependability-and-mobility-evaluation/"><u>Expert Analysis of the Kensun Tire Inflator: Durability, Dependability & Mobility Evaluation</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-contacts-files-from-u23-by-fonelab-android-recover-contacts/"><u>How To Restore Missing Contacts Files from U23.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-your-digital-footprint-prime-2024-cloud-solutions/"><u>Mastering Your Digital Footprint Prime 2024 Cloud Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-interruptions-overcoming-metro-exodus-on-pc-crashes-for-smooth-gaming/"><u>No More Interruptions: Overcoming Metro Exodus on PC Crashes for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/remnant-mastered-seamless-gaming-without-interruptions/"><u>Remnant Mastered: Seamless Gaming Without Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-overcoming-adobes-startup-failure-error-code-0xc0000022/"><u>Resolving the Issue: Overcoming Adobe's Startup Failure Error Code 0xC0000022</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-repair-stabilizing-your-gameplay-of-nioh-kstv/"><u>Step-by-Step Repair: Stabilizing Your Gameplay of Nioh ˈɛkstɪv</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-advanced-techniques-to-improve-wow-fps-performance/"><u>The Ultimate Player's Handbook: Advanced Techniques to Improve WoW FPS Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-gaming-glitches-on-your-windows-computer-resolved/"><u>Troubleshooting Persistent Gaming Glitches on Your Windows Computer [Resolved]</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-list-of-premium-internet-recorders-2023/"><u>Ultimate List of Premium Internet Recorders 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-roller-champions-multiplayer-guide-navigating-the-best-of-2024-pc-edition/"><u>Ultimate Roller Champions Multiplayer Guide: Navigating the Best of 2024 PC Edition</u></a></li>
 </ul></div>
 

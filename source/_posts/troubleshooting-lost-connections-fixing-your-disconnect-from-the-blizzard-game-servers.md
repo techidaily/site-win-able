@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Lost Connections: Fixing Your Disconnect From the Blizzard Game Servers"
-date: 2024-12-08T16:41:20.094Z
-updated: 2024-12-12T17:01:34.235Z
+date: 2024-12-12T16:54:42.996Z
+updated: 2024-12-19T19:29:45.195Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
@@ -54,10 +58,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
  Before using the Remote Play feature, make sure your Steam client is updated. It can be a prerequisite to use the feature smoothly. Although most of the time, it will automatically download an update if there’s one available, you can always update it manually by selecting the**Steam** tab and click**Check for Steam Client Updates** .  
   
 ![check for Steam client updates](https://images.drivereasy.com/wp-content/uploads/2020/10/update-Steam-client.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you’ve updated your Steam client, also make sure that you have your game updated. An update would most possibly fix some known bugs, which can guarantee a better gaming experience.
 
@@ -98,10 +98,6 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable hardware encoding
 
  Hardware encoding is that it reduces the load on your CPU by using a purpose-built piece of hardware. It’s enabled by default to give you the maximum performance. But there is a possibility that it hinders your Remote Play from functioning properly. So you and your friends should disable it from the Steam client. To do this, follow the instructions below:
@@ -110,13 +106,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
@@ -127,7 +123,7 @@ Now try reconnecting your device to check if the issue persists.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable IPv6
@@ -136,19 +132,15 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
@@ -157,6 +149,10 @@ Now try reconnecting your device to check if the issue persists.
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
@@ -179,21 +175,21 @@ To set a static IP address, you can:
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-to-fix-Steam-Remote-Play-not-working-issue.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5) Select the**Use the following IP address** option. Then type in the**IP address** ,**Subnet mask,** and**Default Gateway** corresponding to your network setup.
 
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 To check them, you can:
 
@@ -201,15 +197,15 @@ To check them, you can:
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/10/open-command-prompt.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 * Copy and paste the following command line and press**Enter** .  
 
 **ipconfig /release**  
 
 ![how to check your ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Copy and paste the following command line and press**Enter** .  
 
@@ -217,12 +213,16 @@ To check them, you can:
 
 ![how to check my ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/check-my-ip-address-how-to.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Now you can see your**IPv4 Address, Subnet Mask and Default Gateway** .  
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve set a static IP address, try connecting to your devices to check if it works.
@@ -248,18 +248,15 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/approved-youtubes-hot-streaming-spotlight-top-10-now/"><u>2024 Approved Youtube’s Hot Streaming Spotlight Top 10 Now</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/addressing-brother-printer-no-print-errors-windows-style/"><u>Addressing Brother Printer No-Print Errors, Windows Style</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/asus-tuf-gaming-monitor-premium-24-165hz-ips-display-for-just-99-on-newegg/"><u>Asus TUF Gaming Monitor: Premium 24 165Hz, IPS Display for Just $99 on Newegg</u></a></li>
-<li><a href="https://win-able.techidaily.com/battling-the-waiting-game-solutions-for-lengthy-launch-sequences-in-fallout-4/"><u>Battling the Waiting Game: Solutions for Lengthy Launch Sequences in Fallout 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-gaming-fluidity-expert-strategies-for-addressing-and-resolving-frame-rate-dips/"><u>Improving Gaming Fluidity: Expert Strategies for Addressing and Resolving Frame Rate Dips</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y36-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-capturing-conversations-iphoneipad-tips-for-top-quality-interviews/"><u>In 2024, The Art of Capturing Conversations IPhone/iPad Tips for Top Quality Interviews</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-the-ultimate-list-of-8-real-world-youtube-boosters/"><u>In 2024, The Ultimate List of 8 Real-World YouTube Boosters</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-transform-your-webcam-footage-edit-and-export-tips/"><u>In 2024, Transform Your WebCam Footage Edit & Export Tips</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/1723262389474-save-700-on-your-new-aurora-r16-pc-with-the-ultimate-alienware-bundle-deal-plus-grab-a-stunning-34-oled-monitor/"><u>Save $700 on Your New Aurora R16 PC with the Ultimate Alienware Bundle Deal - Plus, Grab a Stunning 34 OLED Monitor!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-found-thick-haze-triggers-computer-crash-on-laptop/"><u>Solution Found: Thick Haze Triggers Computer Crash on Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-issues-when-playing-no-rest-for-the-wicked/"><u>Troubleshooting PC Issues When Playing 'No Rest for the Wicked'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-sudden-shutdowns-dealing-with-superpowered-account-issues-on-pc/"><u>Troubleshooting Sudden Shutdowns: Dealing with Superpowered Account Issues on PC</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-elevate-your-channel-hit-the-10000-view-mark-fast/"><u>[New] In 2024, Elevate Your Channel Hit the 10,000 View Mark Fast</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-discord-black-screen-when-screen-sharing/"><u>[SOLVED] Discord Black Screen when Screen Sharing</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-ultimate-digital-destinations-for-text-overlays-for-2024/"><u>[Updated] Ultimate Digital Destinations for Text Overlays for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-10-digital-landscape-replacers-for-videos/"><u>2024 Approved Best 10 Digital Landscape Replacers for Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-tricks-to-resolve-discord-crashing-problems-on-any-device/"><u>Master the Tricks to Resolve Discord Crashing Problems on Any Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-discord-installation-has-failed-issues/"><u>Quick Fixes: Resolving 'Discord Installation Has Failed' Issues</u></a></li>
+<li><a href="https://win11.techidaily.com/reactivating-silenced-headset-microphone-on-windows-pcs/"><u>Reactivating Silenced Headset Microphone on Windows PCs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/too-many-loud-and-intrusive-ads-a-plea-from-a-frustrated-user-to-microsoft/"><u>Too Many Loud and Intrusive Ads: A Plea From a Frustrated User to Microsoft</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-get-into-call-of-duty-warzone-solving-launch-problems/"><u>Why Can’t I Get Into Call of Duty: Warzone? Solving Launch Problems</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/1728469084307-usb/"><u>フォーマット不要で破損するUSBメモリを修正する自由ソフトウェアガイド</u></a></li>
 </ul></div>
 

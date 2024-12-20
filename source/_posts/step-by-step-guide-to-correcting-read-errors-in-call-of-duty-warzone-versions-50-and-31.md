@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide to Correcting Read Errors in Call of Duty: Warzone - Versions [5.0] and [3.1]"
-date: 2024-12-10T16:59:44.294Z
-updated: 2024-12-12T16:22:37.991Z
+date: 2024-12-16T16:37:05.308Z
+updated: 2024-12-19T18:34:59.155Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -46,10 +50,6 @@ Here’s how you can download and install Windows updates:
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -57,6 +57,10 @@ Here’s how you can download and install Windows updates:
  Once you’ve installed the latest Windows updates, launch Outriders and check if the stutters or freezes are still that noticeable during cutscenes or normal gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Roll back to your previous driver (for Nvidia users)
 
@@ -70,24 +74,28 @@ Here’s how you can download and install Windows updates:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click on the**Driver** tab. Then click**Roll Back Driver** and follow the on-screen instructions to finish the process.  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-driver.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, launch Outriders to check if it solves your issues.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 3\. Update your graphics driver
@@ -109,16 +117,12 @@ Here’s how you can download and install Windows updates:
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Switch to DX11
@@ -130,10 +134,6 @@ Here’s how you can do this:
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
   
@@ -153,23 +153,19 @@ To verify the integrity of game files, take these steps:
   
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
  Once finished, play Outriders and check if your game still stutters a lot. If it is, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
 
@@ -201,6 +197,10 @@ Now play Outriders to see if you can get better gaming performance.
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, play Outriders to check if it should look better.
 
 ---
@@ -222,18 +222,19 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-free-and-paid-video-game-opening-mastery-rank-the-best-of-yt-makers/"><u>[New] 2024 Approved Free & Paid Video Game Opening Mastery Rank the Best of YT Makers</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-conquering-instagrams-video-challenges-head-on/"><u>[Updated] Conquering Instagram's Video Challenges Head-On</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-video-storytelling-adding-music-to-instareels/"><u>[Updated] Elevate Video Storytelling Adding Music to InstaReels</u></a></li>
-<li><a href="https://program-issues.techidaily.com/addressing-the-launch-error-of-granblue-fantasys-link-replacement-feature/"><u>Addressing the Launch Error of Granblue Fantasy's Link Replacement Feature</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/apple-vision-pro-case-compact-efficient-storage-with-minimalistic-design-zdnet-insights/"><u>Apple Vision Pro Case: Compact, Efficient Storage with Minimalistic Design | ZDNet Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-live-server-connection-failure-issues-effectively/"><u>How to Overcome 'Live Server Connection Failure' Issues Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/persistent-problems-solved-stabilizing-genshin-impact-on-personal-computers/"><u>Persistent Problems Solved: Stabilizing Genshin Impact on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issue-fixing-the-eac-not-installed-error-during-easy-achievement-unlocker-eac-launch/"><u>Resolved Issue: Fixing the 'EAC Not Installed' Error During Easy Achievement Unlocker (EAC) Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-gaming-with-tiny-tinas-wonderlands-fixing-setup-issues-for-pc-users/"><u>Seamless Gaming with Tiny Tina's Wonderlands: Fixing Setup Issues for PC Users</u></a></li>
-<li><a href="https://driver-install.techidaily.com/secure-logitech-webcam-updater/"><u>Secure Logitech Webcam Updater</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-future-after-apples-departure-alternatives-to-the-discontinued-iphone-13-and-15-pro-tech-insights/"><u>The Future After Apple's Departure: Alternatives to the Discontinued iPhone 13 & 15 Pro | Tech Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-resolving-your-new-world-connection-problems/"><u>Troubleshooting Tips for Resolving Your New World Connection Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002631398-wolcen-lords-of-mayhem-pc-game-crash-fixed-issues/"><u>Wolcen: Lords of Mayhem PC Game Crash - Fixed Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-best-practices-for-designing-compelling-youtube-video-thumbnails/"><u>2024 Approved Best Practices for Designing Compelling YouTube Video Thumbnails</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oneplus-12r-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock OnePlus 12R Phone When You Forget the Password</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/artificial-intelligence-as-a-catalyst-for-mental-resilience/"><u>Artificial Intelligence as a Catalyst for Mental Resilience</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-ways-to-launch-cmd-from-your-targeted-folders/"><u>Easy Ways to Launch CMD From Your Targeted Folders</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/holographic-horizons-trendsetting-wallpapers-for-2024/"><u>Holographic Horizons Trendsetting Wallpapers for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-a14-4g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy A14 4G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro?</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-switching-between-row-and-column-formats-in-excel/"><u>Step-by-Step Guide on Switching Between Row and Column Formats in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-adding-page-x-out-of-y-text-to-excel-headerfooter/"><u>Step-by-Step Guide: Adding 'Page X Out of Y' Text to Excel Header/Footer</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-crafting-an-effective-combination-chart-using-microsoft-excel/"><u>Step-by-Step Guide: Crafting an Effective Combination Chart Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-effortlessly-converting-excel-formulas-across-languages/"><u>Step-by-Step Guide: Effortlessly Converting Excel Formulas Across Languages</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-organizing-your-data-chronologically-using-microsoft-excel/"><u>Step-by-Step Guide: Organizing Your Data Chronologically Using Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-removing-protection-from-your-ms-excel-file/"><u>Step-by-Step Guide: Removing Protection From Your MS Excel File</u></a></li>
 </ul></div>
 

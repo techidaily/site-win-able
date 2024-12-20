@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-12-07T17:00:18.689Z
-updated: 2024-12-12T16:33:45.758Z
+date: 2024-12-12T18:21:31.403Z
+updated: 2024-12-19T18:57:37.251Z
 tags:
   - win11
   - win10
@@ -61,7 +61,7 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -76,15 +76,15 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-phasmophobia-stuck-at-90-loading-screen/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -97,10 +97,6 @@ OR
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
@@ -121,10 +117,6 @@ OR
  1) Launch Steam client. From the**LIBRARY** section, right-click on**Phasmophobia** and select**Properties** from the menu.
 
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
@@ -152,6 +144,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Run Steam as an administrator
 
  Granting Steam administrative rights would probably let you play your game smoothly. So here, you can run Steam in Administrator mode.
@@ -160,25 +156,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the**Compatibility**  tab and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If this didn’t work, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -190,25 +186,29 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Yes** .
 
 ![reset network to fix phosmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Yes.jpg)
 
-Now restart your computer and your problem should be fixed.
-
----
-
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Now restart your computer and your problem should be fixed.
+
+---
 
 ## Fix 7: Uninstall and reinstall Phasmophobia
 
@@ -252,17 +252,18 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-comprehensive-examination-of-simple-hdr-methods/"><u>[New] A Comprehensive Examination of Simple HDR Methods</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-navigating-twitter-and-facebook-integration-for-2024/"><u>[New] Navigating Twitter & Facebook Integration for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-battlefield-2042-crashing-on-pc/"><u>[SOLVED] Battlefield 2042 Crashing on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-stutter-and-freezing-solutions-to-overcome-forza-horizon-5-performance-lags/"><u>Fixing Stutter and Freezing: Solutions to Overcome Forza Horizon 5 Performance Lags</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-y56-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>In 2024, How to Unlock Vivo Y56 5G PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-freezing-solving-praey-for-the-gods-pc-game-crash-problems/"><u>No More Freezing! Solving Praey for the Gods PC Game Crash Problems</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/revolutionizing-in-room-entertainment-choose-top-hotels-with-new-apple-airplay-feature-explained-zdnet/"><u>Revolutionizing In-Room Entertainment: Choose Top Hotels with New Apple AirPlay Feature Explained | ZDNET</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/the-ultimate-guide-to-kinemasters-android-gameplay/"><u>The Ultimate Guide to KineMaster's Android Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-stardew-valley-resolving-pc-game-crashes/"><u>Troubleshooting Stardew Valley: Resolving PC Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/valheim-initialization-issues-troubleshooting-guide-for-failed-launch-in-202n/"><u>Valheim Initialization Issues: Troubleshooting Guide for Failed Launch in 202N</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/web-development-hacks-embedding-youtubes-playlists-effortlessly/"><u>Web Development Hacks Embedding YouTube's Playlists Effortlessly</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-mastering-youtube-ad-removal-chrome-firefox-android-iphone-methods/"><u>[Updated] 2024 Approved Mastering YouTube Ad Removal Chrome, Firefox, Android, iPhone Methods</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/chuckles-and-cheers-top-tweets-saver-with-gif/"><u>Chuckles & Cheers Top Tweets Saver with GIF</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/display-no-graphics-gpu-error-detected/"><u>Display No Graphics: GPU Error Detected</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-techniques-to-customize-your-excel-tab-hues-and-shades/"><u>Easy Techniques to Customize Your Excel Tab Hues and Shades</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-techniques-for-integrating-data-tables-into-microsoft-excel-charts/"><u>Effective Techniques for Integrating Data Tables Into Microsoft Excel Charts</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-for-tallying-text-containing-cells-in-excel/"><u>Efficient Techniques for Tallying Text-Containing Cells in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-spreadsheets-with-top-5-unknown-excel-shortcuts-and-tricks/"><u>Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/excel-basics-unveiled-easy-techniques-for-incorporating-percentage-formulas-into-your-spreadsheets/"><u>Excel Basics Unveiled: Easy Techniques for Incorporating Percentage Formulas Into Your Spreadsheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/excels-powerful-lookup-function-mastering-vlookup-without-an-external-table/"><u>Excel's Powerful Lookup Function: Mastering VLOOKUP Without an External Table</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-internet-explorer-when-it-refuses-to-launch-solutions-inside/"><u>How to Fix Internet Explorer When It Refuses to Launch - Solutions Inside</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/masterclass-evaluation-how-djis-mavic-groove-set-new-standards-for-professionals/"><u>Masterclass Evaluation: How DJI's Mavic Groove-Set New Standards for Professionals</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-to-apples-102-ipad-7th-gen-how-ipados-boosts-work-efficiency/"><u>Ultimate Guide to Apple's 10.2 iPad (7Th Gen): How iPadOS Boosts Work Efficiency</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Poco X6 | Dr.fone</u></a></li>
 </ul></div>
 

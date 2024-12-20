@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2024-12-08T17:00:12.259Z
-updated: 2024-12-12T16:46:15.458Z
+date: 2024-12-18T16:34:30.197Z
+updated: 2024-12-19T19:07:14.610Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -58,7 +50,7 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
@@ -84,6 +76,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -96,10 +92,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -107,6 +99,10 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -128,6 +124,10 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -135,7 +135,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
@@ -171,18 +171,22 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-taking-your-reels-up-a-notch-with-these-top-editors/"><u>[New] In 2024, Taking Your Reels Up a Notch with These Top Editors</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-full-page-screen-capture-how-to-capture-screenshots-of-a-full-page-for-2024/"><u>[Updated] Full Page Screen Capture How to Capture Screenshots of a Full Page for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-quantum-hdr-techniques-for-professionals/"><u>[Updated] Mastering Quantum HDR Techniques for Professionals</u></a></li>
-<li><a href="https://win-able.techidaily.com/cracking-the-code-resolving-recurring-freeze-frames-in-new-world-gaming/"><u>Cracking The Code: Resolving Recurring Freeze Frames in New World Gaming</u></a></li>
-<li><a href="https://driver-error.techidaily.com/dvdcd-reader-invisibility-in-windows-11-resolved/"><u>DVD/CD Reader Invisibility in Windows 11 Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-overwatchs-graphic-glitches-for-a-smooth-gaming-experience/"><u>Eliminating Overwatch's Graphic Glitches for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/full-launch-of-god-of-war-action-shooter-game-on-pc-platforms-breaking-down-the-features/"><u>Full Launch of God of War Action Shooter Game on PC Platforms - Breaking Down the Features</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-lock-apps-on-lava-blaze-2-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Lava Blaze 2 5G to Protect Your Individual Information</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010088167-how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-photos-from-samsung-galaxy-f14-5g-by-fonelab-android-recover-photos/"><u>How to Rescue Lost Photos from Samsung Galaxy F14 5G?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-auditory-ambience-finder-for-film-and-video-sets/"><u>In 2024, Auditory Ambience Finder For Film and Video Sets</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/integrating-movie-capture-across-all-operating-systems/"><u>Integrating Movie Capture Across All Operating Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/nvidias-rtx-4070-super-apex-vs-titan-x-vs-4080-super/"><u>Nvidia's RTX 4070 Super - Apex Vs. Titan X Vs. 4080 Super</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-channeling-success-the-essential-elements-for-profitable-video-trailers-for-2024/"><u>[New] Channeling Success The Essential Elements for Profitable Video Trailers for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-dissecting-inshots-dominance-in-editing-apps/"><u>[New] Dissecting InShot's Dominance in Editing Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-net-laugh-builder/"><u>[New] Net Laugh Builder</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-beyond-binary-boundaries-unveiling-metaverse-vs-multiverse/"><u>[Updated] 2024 Approved Beyond Binary Boundaries Unveiling Metaverse V/S Multiverse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-beginners-guide-to-io-screen-video-for-2024/"><u>[Updated] Beginner's Guide to IO Screen Video for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-boot-bug-fix-hogwarts-legacy-from-crashing-on-pc-using-our-top-nights-fixes/"><u>Beat the Boot Bug: Fix Hogwarts Legacy From Crashing on PC Using Our Top Nights Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989705790-conquer-lag-troubles-in-fallout-4-with-these-proven-fix-methods/"><u>Conquer Lag Troubles in Fallout 4 with These Proven Fix Methods!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005590179-expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/exploring-artificebotics-in-computing-is-an-ai-pc-right-for-you-gadgetguide/"><u>Exploring Artificebotics in Computing: Is an AI PC Right for You? | GadgetGuide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-msi-afterburner-not-acknowledging-gpu-in-windows-11-environments/"><u>Fixing the Issue of MSI Afterburner Not Acknowledging GPU in Windows 11 Environments</u></a></li>
+<li><a href="https://win11.techidaily.com/get-the-strongest-passwords-wins-best-free-generators-guide/"><u>Get the Strongest Passwords: Win's Best Free Generators Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-vivo-s17-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Vivo S17 Is Unlocked</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-lava-agni-2-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Lava Agni 2 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-causes-of-phasmophobia-breaks-a-comprehensive-guide/"><u>Overcoming Common Causes of Phasmophobia Breaks: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-palworld-discover-immediate-launch-fixes-here/"><u>Trouble with Palworld? Discover Immediate Launch Fixes Here!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-steps-for-when-pacific-drive-fails-on-your-computer/"><u>Troubleshooting and Repair Steps for When Pacific Drive Fails on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-in-red-dead-redemption-ii-by-resolving-fps-drops-and-stuttering-issues/"><u>Unlock Seamless Gameplay in Red Dead Redemption II by Resolving FPS Drops & Stuttering Issues</u></a></li>
 </ul></div>
 

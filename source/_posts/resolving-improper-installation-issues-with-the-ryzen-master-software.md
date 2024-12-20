@@ -1,7 +1,7 @@
 ---
 title: Resolving Improper Installation Issues with the Ryzen Master Software
-date: 2024-08-23T11:31:13.902Z
-updated: 2024-08-24T11:31:13.902Z
+date: 2024-12-14T19:18:49.752Z
+updated: 2024-12-19T16:32:39.212Z
 tags:
   - win11
   - win10
@@ -53,8 +53,9 @@ thumbnail: https://thmb.techidaily.com/abd95b31cf1a96dd50fea72e4fad17faec8b6807e
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your driver
 
  Many PC issues are related to your drivers. Updating your drivers would improve your PC performance and avoid any potential issues. Some gamers have fixed the God of War memory leak issue after updating drivers.
@@ -69,6 +70,10 @@ There are mainly two ways you can update the driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
@@ -85,28 +90,29 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 **Disable integrated graphics through Device Manager** :
 
 1. Click the**Search** icon on the bottom of your screen.
 2. Type**device manager** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update God of War
 
  The game development team is working on this issue. Santa Monica Studios has just deployed God of War Update 1.0.1\. Although the new patch doesn’t fix the issue for everyone, the dev team may fix the memory leak issue in the future. So don’t forget to update the God of War when there are available patches.
@@ -116,14 +122,17 @@ There are mainly two ways you can update the driver:
 3. Right-click on God of War and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s3.jpg)
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -134,16 +143,14 @@ There are mainly two ways you can update the driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -163,8 +170,6 @@ There are mainly two ways you can update the driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +177,19 @@ There are mainly two ways you can update the driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-elevate-presentations-10-must-have-slide-show-designs-at-no-cost-for-2024/"><u>[New] Elevate Presentations 10 Must-Have Slide Show Designs at No Cost for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-the-ultimate-background-guide-for-online-video-calls/"><u>[New] The Ultimate Background Guide for Online Video Calls</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ime-taming-learn-youtube-video-length-cuts-for-2024/"><u>[New] Time Taming Learn YouTube Video Length Cuts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-decoding-the-secrets-behind-iconic-mukbang-videos-for-2024/"><u>[Updated] Decoding the Secrets Behind Iconic Mukbang Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-guide-to-rapid-or-slowdown-youtubes-playback-adjustments/"><u>[Updated] Guide to Rapid or Slowdown YouTube's Playback Adjustments</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-no-rest-for-the-wicked-pc-performance-problems-and-preventing-crashes/"><u>Fixing 'No Rest for the Wicked' PC Performance Problems and Preventing Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Oppo Find N3 Flip | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/solving-sound-card-incompatibility-issues-expert-tips-from-yl-computings-yl-software/"><u>Solving Sound Card Incompatibility Issues: Expert Tips From YL Computing's YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-warframe-stalling-issues-a-comprehensive-guide/"><u>Troubleshooting Warframe Stalling Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/twitch-buffering-blues-discover-the-ultimate-fixes-to-keep-your-streams-smooth/"><u>Twitch Buffering Blues? Discover the Ultimate Fixes to Keep Your Streams Smooth</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-troubleshooting-guide-stop-your-game-from-crashing/"><u>Valheim Troubleshooting Guide: Stop Your Game From Crashing</u></a></li>
+</ul></div>
 

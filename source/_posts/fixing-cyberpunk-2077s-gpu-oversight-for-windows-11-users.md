@@ -1,7 +1,7 @@
 ---
 title: Fixing Cyberpunk 2077'S GPU Oversight for Windows 11 Users
-date: 2024-08-27T20:32:42.761Z
-updated: 2024-08-28T20:32:42.761Z
+date: 2024-12-16T18:49:41.025Z
+updated: 2024-12-19T16:00:43.348Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -62,9 +66,11 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -74,9 +80,6 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -88,20 +91,23 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates include some security patches and sometimes, a performance booster. The important part is that these system updates could tackle compatibility issues, thus being a potential fix to your issue.
@@ -111,14 +117,12 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
 ---
@@ -133,8 +137,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +144,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/updated-cinematic-closeness-a-kinemaster-expertise-for-close-up-craft-for-2024/"><u>[Updated] Cinematic Closeness A Kinemaster Expertise for Close-Up Craft for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-crafting-success-the-premier-list-of-ai-namesmiths/"><u>2024 Approved Crafting Success The Premier List of AI Namesmiths</u></a></li>
+<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-gionee-f3-pro-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Gionee F3 Pro FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-preventing-gas-station-simulator-from-frequently-crashing-on-windows/"><u>Effective Solutions for Preventing Gas Station Simulator From Frequently Crashing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-rainbow-six-extraction-performance-fixing-your-games-frame-per-second-drops/"><u>Enhancing Rainbow Six Extraction Performance: Fixing Your Game's Frame Per Second Drops</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-a-step-by-step-guide-to-correcting-game-crashes/"><u>Football Manager 2020: A Step-by-Step Guide to Correcting Game Crashes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-does-a-smart-tv-with-internet-access-work/"><u>How Does a Smart TV with Internet Access Work?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995040674-how-to-fix-the-division-2-game-crashing-issue-simple-solutions/"><u>How to Fix the Division 2 Game Crashing Issue - Simple Solutions!</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-realme-c53-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme C53 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-8-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 8 Plus without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/journey-to-an-alien-planet-a-captivating-story-in-the-sci-fi-shooting-game-the-outer-worlds/"><u>Journey to an Alien Planet: A Captivating Story in the Sci-Fi Shooting Game The Outer Worlds</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-server-links-a-comprehensive-2024-manual-for-fixing-path-of-exile-connections/"><u>Mastering Server Links: A Comprehensive 2024 Manual for Fixing Path of Exile Connections</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/new-editing-functionality-added-to-dall-e-3-yet-refinement-is-essential/"><u>New Editing Functionality Added to DALL-E 3, Yet Refinement Is Essential</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-effective-fixes-for-dealing-with-deathloop-pc-freezes-and-crashes/"><u>No More Frustration: Effective Fixes for Dealing with Deathloop PC Freezes & Crashes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionary-health-tracker-how-apples-vision-pro-could-now-measure-breathing-reveals-zdnet/"><u>Revolutionary Health Tracker: How Apple's Vision Pro Could Now Measure Breathing, Reveals ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-why-cyberpunk-2077-ignores-gpus-on-windows-10-systems-fixed/"><u>Solution Guide: Why Cyberpunk 2077 Ignores GPUs on Windows 10 Systems - Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-overcoming-the-error-0xc19001e1-on-your-windows-11-device/"><u>Step-by-Step Solutions for Overcoming the 'Error 0xC19001E1' On Your Windows 11 Device</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Remedy for 'Assassin's Creed Odyssey' Stalling Issues on PC – Get Back to Adventure
-date: 2024-08-23T11:31:22.802Z
-updated: 2024-08-24T11:31:22.802Z
+date: 2024-12-15T18:14:50.898Z
+updated: 2024-12-19T18:04:23.922Z
 tags:
   - win11
   - win10
@@ -43,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -62,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/908abdf5786977a17c0b2ecf2fc693bdf5a10c054
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -74,9 +82,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4: Modify your in-game settings
 
  Many Assassin’s Creed Odyssey players have reported that configuring the settings in the game could help fix the crashing issue, such as switching to the other window mode or changing the graphics settings. So you can try this:
@@ -86,9 +91,9 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
@@ -100,9 +105,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
@@ -118,26 +120,15 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -149,22 +140,21 @@ Open Assassin’s Creed Odyssey and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
@@ -187,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +184,21 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/updated-shape-shifting-skills-a-comprehensive-pic-warping-manual/"><u>[Updated] Shape-Shifting Skills A Comprehensive Pic Warping Manual</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/choosing-your-viewing-experience-diving-into-the-perks-and-limitations-of-hulu-and-huluplus/"><u>Choosing Your Viewing Experience: Diving Into the Perks and Limitations of Hulu and Hulu+</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-cu6-pc-stability-issues-resolved-tips-to-avoid-in-game-crashes/"><u>Far Cry Cu6 PC Stability Issues Resolved: Tips to Avoid In-Game Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/freelancers-should-you-opt-for-bing-chat-or-go-with-chatgpt-a-closer-look-at-8-crucial-factors/"><u>Freelancers, Should You Opt for Bing Chat or Go with ChatGPT? A Closer Look at 8 Crucial Factors</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/high-definition-dominance-leading-monitors-for-ps5-hdmi-21/"><u>High-Definition Dominance Leading Monitors for PS5 (HDMI 2.1)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/is-the-samsung-galaxy-a20-a-smart-pick-for-thrifty-tech-enthusiasts-detailed-review-inside/"><u>Is the Samsung Galaxy A20 a Smart Pick for Thrifty Tech Enthusiasts? Detailed Review Inside</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/leading-voice-to-text-programs/"><u>Leading Voice to Text Programs</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-recurring-pc-freezes-in-lunar-client-software/"><u>Mastering Stability: Overcoming Recurring PC Freezes in Lunar Client Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/oculus-reports-detected-graphics-hardware-problems-solutions-inside/"><u>Oculus Reports Detected Graphics Hardware Problems - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-comprehensive-guide-to-eliminate-packet-loss-on-discord/"><u>Resolved: Comprehensive Guide to Eliminate Packet Loss on Discord</u></a></li>
+<li><a href="https://fox-that.techidaily.com/say-goodbye-to-fuzzy-memories-7-solutions-for-enhancing-your-iphones-camera-quality/"><u>Say Goodbye to Fuzzy Memories: 7 Solutions for Enhancing Your iPhone's Camera Quality</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-art-of-transformation-innovative-approaches-to-instagram-video-editing-for-2024/"><u>The Art of Transformation Innovative Approaches to Instagram Video Editing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-game-delays-in-overwatch-ultimate-guide/"><u>Troubleshooting Game Delays in Overwatch – Ultimate Guide!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-the-magic-of-capturing-youtube-content-the-no-cost-way-for-2024/"><u>Unlock the Magic of Capturing YouTube Content - The No-Cost Way for 2024</u></a></li>
+</ul></div>
 

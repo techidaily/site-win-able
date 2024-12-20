@@ -1,7 +1,7 @@
 ---
 title: "Banishing Shadows: Fixing the Ominous Black Screen Error on Your Star Wars Battlefront 2 Experience"
-date: 2024-08-27T20:32:36.277Z
-updated: 2024-08-28T20:32:36.277Z
+date: 2024-12-12T19:43:20.441Z
+updated: 2024-12-19T18:55:58.255Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/SOLVED-Lunar-Client-keeps-crashing-on-PC-1200x336.jpg)
 
  Lunar Client is a modpack for many versions of Minecraft. Recently, we’ve seen many Minecraft players report that**Lunar Client keeps crashing on their PC** . If you’re experiencing the exact same issue, you’ve come to the right place. Whether it crashes on startup or crashes in the middle of the game, after reading this article, you should be able to resolve this problem on your own easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,12 +43,12 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 ![Uninstall Java](https://images.drivereasy.com/wp-content/uploads/2021/05/Uninstall-Java.png)
 3. Go to[the official Java website](https://java.com/en/download/) to download the latest version to your computer. Double-clcik the installation file and follow the instructions on the screen to install it on your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Lunar Client and see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  Graphics driver is essential to the functioning of video games. If Lunar Client keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes Lunar Client crashing issues. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -57,13 +61,13 @@ thumbnail: https://thmb.techidaily.com/6029eec233aad0fb3c2ba7e54dc1e274f5e9fe224
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -71,8 +75,9 @@ The powerful video editing program for your Windows PC</a>
  Run Lunar Client and see if the latest graphics driver stops the crash. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Change launch directory
 
  Some gamers have fixed this issue by changing launch directory. If you didn’t try this fix, you can give it a shot.
@@ -85,9 +90,11 @@ The powerful video editing program for your Windows PC</a>
 3. **Double-click** on the**.minecraft** folder to open it. Then create a new folder and name it as_new launch directory_ (or whatever you like).  
 ![lunar client new launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/lunar-client-new-launch-directory.jpg)
 4. In Lunar Client, go to**Settings** and click**Change Directory** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Change launch directory](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory.jpg)
 5. Select the new folder you created in step 3) and click**Select Folder** to set it to the launch directory.  
 ![Change launch directory 1](https://images.drivereasy.com/wp-content/uploads/2021/05/Change-launch-directory-1.jpg)
@@ -109,22 +116,22 @@ To perform a clean boot, just follow the steps below:
 2. Under to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Lunar Client to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS for the changes to take effect.
 
@@ -132,9 +139,6 @@ To perform a clean boot, just follow the steps below:
 
  See if this fix works. If Lunar Client doesn’t crash, congratultions! You’ve fixed this issue. If not, you try the next fix below to reinstall Minecraft and Lunar.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall Minecraft and Lunar Client
 
  If none of the fixes above works, you may want to reinstall Minecraft and Lunar Client.
@@ -154,8 +158,6 @@ To perform a clean boot, just follow the steps below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +165,24 @@ To perform a clean boot, just follow the steps below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ey-elements-impacting-youtube-content-visibility-for-2024/"><u>[New] Key Elements Impacting YouTube Content Visibility for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016551536-bluetooth-sound-sync-problems-overcome-them-in-seconds/"><u>Bluetooth Sound Sync Problems? Overcome Them in Seconds!</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-iii-pc-malfunctions-solutions-and-fixes-you-can-try-today/"><u>Crusader Kings III PC Malfunctions: Solutions and Fixes You Can Try Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-back-in-the-game-handling-madden-22s-continuous-load-screens-troubleshooting/"><u>Get Back in the Game: Handling Madden 22'S Continuous Load Screens Troubleshooting</u></a></li>
+<li><a href="https://win-able.techidaily.com/god-of-war-crashes-due-to-low-memory-heres-how-you-can-fix-it/"><u>God of War Crashes Due to Low Memory? Here’s How You Can Fix It!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-samsung-galaxy-s8-changes-high-definition-viewing/"><u>How Samsung Galaxy S8 Changes High-Definition Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-repair-amd-radeon-software-startup-failures/"><u>How to Successfully Repair AMD Radeon Software Startup Failures</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ultimate-viral-click-title-genie/"><u>In 2024, Ultimate Viral Click Title Genie</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-nokia-g42-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Nokia G42 5G? Here Is the Answer | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/itunes-audio-problem-fixed-update-your-system-now/"><u>ITunes Audio Problem Fixed - Update Your System Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-roblox-launch-troubles-pro-tips-and-solutions-for-the-modern-player/"><u>Mastering Roblox Launch Troubles: Pro Tips and Solutions for the Modern Player</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-gameplay-solutions-for-code-veins-freezing-problems/"><u>Optimizing Gameplay: Solutions for Code Vein's Freezing Problems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/rhythmripper-software-overview-and-testing-for-2024/"><u>RhythmRipper Software Overview & Testing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/track-your-workout-progress-on-the-go-using-the-samsung-galaxy-fit2-wearable-device/"><u>Track Your Workout Progress on the Go Using the Samsung Galaxy Fit2 Wearable Device</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/transform-your-browsing-a-guide-to-agentgpts-ais/"><u>Transform Your Browsing - A Guide to AgentGPT's AIs</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-the-far-cry-6-black-screen-glitch/"><u>Ultimate Troubleshooting Tips for the Far Cry 6 Black Screen Glitch</u></a></li>
+<li><a href="https://facebook.techidaily.com/understanding-the-shadows-in-social-media-space/"><u>Understanding the Shadows in Social Media Space</u></a></li>
+</ul></div>
 

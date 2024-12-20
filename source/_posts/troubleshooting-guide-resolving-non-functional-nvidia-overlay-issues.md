@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues
-date: 2024-12-09T17:03:53.783Z
-updated: 2024-12-12T16:26:33.774Z
+date: 2024-12-16T17:12:21.905Z
+updated: 2024-12-19T18:27:23.404Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,9 +50,17 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-166-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%ProgramData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/005.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In the pop-up window, double-click the**Origin**  folder to open it.
 
@@ -75,12 +87,16 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Restart your PC and Double-click the shortcut of Origin on your desktop.
 
@@ -120,10 +136,6 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
@@ -132,7 +144,7 @@ Or
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
@@ -142,6 +154,10 @@ Or
  1) Right-click the shortcut to Origin on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
@@ -167,10 +183,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -195,33 +207,17 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) Click**Restart** to restart your PC.
 
@@ -241,6 +237,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
@@ -250,10 +250,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  If this fix works, Origin will open when you double-click its shortcut on the desktop. If not, try the next fix to reinstall Origin.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
 
@@ -267,6 +263,10 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -276,7 +276,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 iv. Restart your Windows system when it is completed.
@@ -305,18 +305,14 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-digging-into-the-data-top-10-twitvideos/"><u>[New] 2024 Approved Digging Into the Data Top 10 TwitVideos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-x-sound-engineer-desktop-suite/"><u>[New] X-Sound Engineer Desktop Suite</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-14-pro-max-and-ipad-securely-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 14 Pro Max and iPad Securely</u></a></li>
-<li><a href="https://win-able.techidaily.com/diy-troubleshooting-guide-for-fixing-slow-performance-in-recent-games/"><u>DIY Troubleshooting Guide for Fixing Slow Performance in Recent Games</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-picks-the-most-effective-cell-phone-signal-strengtheners-of-the-year/"><u>Expert Picks: The Most Effective Cell Phone Signal Strengtheners of the Year</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-crashes-due-to-insufficient-video-memory-heres-how-to-fix-it/"><u>Fortnite Crashes Due to Insufficient Video Memory? Here's How to Fix It!</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-itel-p55-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Itel P55 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-playback-problems-with-back-n-blood-troubleshooting-tips/"><u>Overcoming PC Playback Problems with 'Back N Blood': Troubleshooting Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-persistent-minecraft-pc-stutters-proven-techniques-for-2eet4/"><u>Resolve Persistent Minecraft PC Stutters - Proven Techniques for 2Eet4!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-eliminating-overwatchs-initial-full-blackscreen-problem/"><u>Troubleshooting Guide: Eliminating Overwatch's Initial Full Blackscreen Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstoppable-tf2-gaming-no-more-crashes-expert-hacks-revealed/"><u>Unstoppable TF2 Gaming: No More Crashes - Expert Hacks Revealed</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/why-the-apple-watch-stands-out-as-a-timeless-and-reusable-tech-inheritance-for-loved-ones/"><u>Why the Apple Watch Stands Out as a Timeless and Reusable Tech Inheritance for Loved Ones</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-unblock-mystery-solved-detecting-snapchat-shutout/"><u>[New] In 2024, Unblock Mystery Solved Detecting Snapchat Shutout</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-elevating-live-game-coverage-tips-and-tricks/"><u>[Updated] 2024 Approved Elevating Live Game Coverage Tips and Tricks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-low-cost-high-impact-spherical-videography-devices-for-2024/"><u>[Updated] Low Cost, High Impact Spherical Videography Devices for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-on-how-to-deal-with-the-rockaldlldll-not-found-problem/"><u>Expert Tips on How to Deal with the 'Rockaldll.dll Not Found' Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-thx-spatial-audio-malfunction-in-windows-11-and-10/"><u>Fixes for 'THX Spatial Audio' Malfunction in Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-fps-and-smoother-play-in-fortnite-season-8-release-notes/"><u>Improved FPS and Smoother Play in Fortnite Season 8 Release Notes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-windows-hdplus-guide-to-streaming-and-manipulating-hdr-videos/"><u>In 2024, Windows HD+ Guide to Streaming and Manipulating HDR Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-resolve-fall-guys-crashes-on-launch/"><u>Troubleshooting Steps: How to Resolve Fall Guys Crashes on Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-maplestory-keeps-crashing-on-your-windows-11-pc/"><u>Ultimate Fixes for When MapleStory Keeps Crashing on Your Windows 11 PC</u></a></li>
 </ul></div>
 

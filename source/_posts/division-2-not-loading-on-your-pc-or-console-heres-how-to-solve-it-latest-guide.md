@@ -1,7 +1,7 @@
 ---
 title: Division 2 Not Loading on Your PC or Console? Here's How to Solve It (Latest Guide)
-date: 2024-12-05T17:13:10.418Z
-updated: 2024-12-12T17:01:53.261Z
+date: 2024-12-13T17:41:03.804Z
+updated: 2024-12-19T17:06:14.390Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Recently many Fallout 76 players have been plagued by the**Fallout 76 disconnect
 7. **[Is Fallout 76 down?](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Reset Winsock**
@@ -47,10 +47,6 @@ Here is how to reset Winsock data:
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -109,7 +105,7 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart your network
@@ -122,13 +118,13 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _modem_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -140,10 +136,6 @@ _wireless router_
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -153,6 +145,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -165,6 +161,10 @@ _wireless router_
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
@@ -180,15 +180,15 @@ _wireless router_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Launch Fallout 76.
 
  Check to see if the Fallout 76 connecting issue still occurs. If it is still not fixed, please try**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch the DNS server
 
@@ -200,16 +200,12 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-611.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) In the pop-up window, click **Change adapter settings** .
@@ -220,17 +216,21 @@ Here is how to switch the DNS server to Google Public DNS:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-613.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-614.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7) Restart your computer for the changes to take effect.
 
@@ -267,19 +267,17 @@ Here is how to switch the DNS server to Google Public DNS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-leading-5-online-title-masters-revealed/"><u>[New] 2024 Approved Leading 5 Online Title Masters Revealed</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-prime-mp4-fb-file-shifter/"><u>[Updated] Prime MP4-FB File Shifter</u></a></li>
-<li><a href="https://win-able.techidaily.com/breeze-through-common-obstacles-in-discord-software-installation/"><u>Breeze Through Common Obstacles in Discord Software Installation</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/click-to-order-the-perfect-erasing-solution-for-your-iphone/"><u>Click to Order the Perfect Erasing Solution for Your iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/dirt-5-playing-woes-learn-how-to-prevent-crashes-and-boost-your-racing-performance-on-computer/"><u>Dirt 5 Playing Woes? Learn How to Prevent Crashes and Boost Your Racing Performance on Computer</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elevating-windows-script-policy-4-key-fixes-for-powershell-load-issues/"><u>Elevating Windows Script Policy: 4 Key Fixes for PowerShell Load Issues</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/iphone-unrecognized-by-itunes-on-windows-10-effective-fixes-and-explanations-issue-resolved/"><u>IPhone Unrecognized by iTunes on Windows 10: Effective Fixes & Explanations | Issue Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fixes-for-metro-exodus-crashes-on-personal-computers-a-step-by-step-guide/"><u>Mastering Fixes for Metro Exodus Crashes on Personal Computers: A Step-by-Step Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/settling-around-the-virtual-campfire-an-in-depth-look-at-minecrafts-storytelling-through-skins/"><u>Settling Around the Virtual Campfire: An In-Depth Look at Minecraft’s Storytelling Through Skins</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-dolby-atmos-sound-failure-on-windows-1110-expert-tips-and-fixes/"><u>Solve Dolby Atmos Sound Failure on Windows 11/10 – Expert Tips & Fixes</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-key-to-viral-posts-on-instagram-unveiled/"><u>The Key to Viral Posts on Instagram Unveiled</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/ultimate-guide-from-apple-iphone-13-icloud-activation-lock-bypass-by-drfone-ios/"><u>Ultimate Guide from Apple iPhone 13 iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-top-tier-iphone-functionality-that-apple-has-kept-under-wraps-revealed/"><u>Unveiling the Top-Tier iPhone Functionality That Apple Has Kept Under Wraps, Revealed</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-file-streamlining-top-strategies-for-smooth-pc-integration/"><u>[Updated] In 2024, File Streamlining Top Strategies for Smooth PC Integration</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-snapperview-4-review-synopsis/"><u>[Updated] SnapperView 4 Review Synopsis</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefront-ii-stability-issues-fixed-for-windows-users-top-solutions-explored/"><u>Battlefront II Stability Issues Fixed for Windows Users – Top Solutions Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-game-beat-nba-2k23-pc-lag-with-our-7-expert-tips/"><u>Fix Your Game: Beat NBA 2K23 PC Lag with Our 7 Expert Tips</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-vivo-y78-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Vivo Y78 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-tutorials-for-downgrading-macos-sierra-to-el-capitan/"><u>In 2024, Tutorials for Downgrading MacOS Sierra To El Capitan</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/journey-through-cinematic-universes-with-vr/"><u>Journey Through Cinematic Universes with VR</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-problems-death-stranding-pc-edition-now-running-smoothly/"><u>No More Problems! Death Stranding PC Edition Now Running Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-stuck-loading-error-on-discord-streams-a-comprehensive-guide/"><u>Overcoming the Stuck Loading Error on Discord Streams: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/speedy-visual-scan-of-your-pictures-on-win11/"><u>Speedy Visual Scan of Your Pictures on Win11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-iphone-vpn-apps-reviewed-by-experts-find-your-perfect-match/"><u>Top-Rated iPhone VPN Apps Reviewed by Experts - Find Your Perfect Match</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-nonfunctional-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Nonfunctional Paradox Launcher</u></a></li>
 </ul></div>
 

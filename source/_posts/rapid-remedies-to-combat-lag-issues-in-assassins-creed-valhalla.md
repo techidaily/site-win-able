@@ -1,7 +1,7 @@
 ---
 title: "Rapid Remedies to Combat Lag Issues in Assassin's Creed: Valhalla"
-date: 2024-08-27T20:32:49.816Z
-updated: 2024-08-28T20:32:49.816Z
+date: 2024-12-12T19:22:22.136Z
+updated: 2024-12-19T19:26:49.654Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 * [4 – Disable VRR and V-Sync/FreeSync](https://tools.techidaily.com/drivereasy/download/)
 * [5 – Change your DNS settings](https://tools.techidaily.com/drivereasy/download/)
 * [6 – Clean all your temp files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1 – Install the latest game patch
 
@@ -69,25 +73,24 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full suppor** t and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4 – Disable VRR and V-Sync/FreeSync
 
  Many players may turn on VRR (Variable Refresh Rate) or V-Sync (Vertical Synchronization) to reduce screen tearing. But this can introduce input lag. However, if you have terrible screen tearing when playing Assassin’s Creed Valhalla, you can skip this fix.
@@ -96,12 +99,13 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Toggle off the button under**Variable refresh rate** .
 
@@ -133,6 +137,10 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
@@ -141,21 +149,18 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/change-adapter.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click on your network adapter and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  6) Select**Use the following DNS server addresses** .
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
@@ -167,8 +172,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/CMD.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then click Yes if you’re prompted for permission.
 
  8) Type the following command, and press**Enter** .
@@ -178,13 +184,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/flush.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 6 – Clean all your temp files
 
  If you notice the game lagging lot but failed to reduce it with the fixes above, you should try clearing temporary and junk files on a regular basis. These files might slow down your PC. Here’s how:
@@ -194,10 +198,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-305.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
@@ -210,9 +213,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Continue** if prompted for permission.
 
  5) Select all the files and press**Delete** .
@@ -235,8 +235,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +242,16 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-new-best-facebook-story-savers-for-free-extensiononlinemobile-apps-for-2024/"><u>[New] NEW Best Facebook Story Savers for FREE [Extension/Online/Mobile Apps] for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-is-it-possible-to-quick-review-on-windows-heres-how/"><u>[Updated] Is It Possible to Quick Review on Windows? Here’s How</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-z-flip-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-errors-in-robocop-rogue-city-on-your-windows-computer/"><u>Fixing Launch Errors in 'RoboCop: Rogue City' On Your Windows Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-qbittorrent-stalling-problems-a-comprehvehicle-guide/"><u>Fixing qBittorrent Stalling Problems: A Comprehvehicle Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-copy-of-immortals-fenyx-rising-running-issue-resolved/"><u>Get Your Copy of Immortals Fenyx Rising Running - Issue Resolved</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-c300-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia C300 Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastery-of-city-building-overcoming-the-notorious-skycities-software-glitches-expert-fixes-for-2e4/"><u>Mastery of City Building: Overcoming the Notorious SkyCities Software Glitches [Expert Fixes for 2E4]</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/original-visual-storytelling-appraisal-and-substitutions-for-2024/"><u>Original Visual Storytelling Appraisal & Substitutions for 2024</u></a></li>
+</ul></div>
 

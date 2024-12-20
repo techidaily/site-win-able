@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Desperate PC Crashes in Necromunda: Hired Gun Gameplay – Fix Them Now!"
-date: 2024-08-23T11:31:59.440Z
-updated: 2024-08-24T11:31:59.440Z
+date: 2024-12-12T17:26:37.413Z
+updated: 2024-12-19T16:11:43.508Z
 tags:
   - win11
   - win10
@@ -41,9 +41,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 2:**Disable your antivirus temporarily**
 
  The_Remnant_ crash is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -54,18 +51,6 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run your game as an administrator
 
  Some players experience the_Remnant_ crash when running_Remnant_ under a standard user account. In this case, the quickest fix is granting your game launcher with admin credentials. Follow the instructions below to see how:
@@ -81,18 +66,15 @@ _Remnant: From the Ashes_ constantly crashes your PC? Don’t worry. After readi
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)**  Relaunch Steam and_Remnant_ to test your issue.
 
  You can hopefully run the game without errors now. If this didn’t work for you, try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 4:**Update your graphics driver**
 
  Game issues, such as freezing, lagging, crashing and low FPS, are likely to occur when your graphics driver is missing or corrupted. So you should update your graphics driver to see if it fixes your issue. There are two ways to do it:
@@ -134,8 +116,9 @@ If your problem persists, then move on to the next fix below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Verify the integrity of your game files
 
  This issue might happen when one or more outdated or corrupted game files are conflicting with the game. To fix it, follow the instructions below to validate your game files:
@@ -149,6 +132,10 @@ If your problem persists, then move on to the next fix below.
 **3)**  Right-click**Remnant: From the Ashes** and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-84.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -166,9 +153,6 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-585.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Paste**%LOCALAPPDATA%\\Remnant\\Saved\\Config\\WindowsNoEditor** on the address bar, then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-586.png)
@@ -176,6 +160,10 @@ If your problem persists, then move on to the next fix below.
 **3)** Right-click**Engine.ini** , select**Open With** , then click**Notepad** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-591.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Copy and paste the following text at the bottom.
 
@@ -190,15 +178,16 @@ If your problem persists, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-176.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Relaunch your game to test your issue.
 
 If the game is still unplayable, read on and try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 8: Run your game in compatibility mode
 
  This fix only applies to Windows 10 and 8\. If you’re on Window 7, check[**Fix 9**](https://tools.techidaily.com/drivereasy/download/) , below.
@@ -213,6 +202,10 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-607.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 7** , then click **OK** . (If you’re on Windows 10, you can also try running your game in Windows 8 mode.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-608.png)
@@ -223,9 +216,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall_Remnant_ and/or Steam
 
  If none of the fixes worked for you, reinstalling_Remnant_ and/or Steam is very likely the solution to your issue. To do so, follow the instructions below:
@@ -242,22 +232,17 @@ If the game is still unplayable, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Right-click**Remnant: From the Ashes** and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-246.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **4)** Click**DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-247.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Download and install**Remnant** again.
 
 **6)** Relaunch your game to check if this has fixed your issue.
@@ -270,9 +255,6 @@ If the game is still unplayable, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
@@ -286,29 +268,29 @@ If the game is still unplayable, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  **8)[](https://store.steampowered.com/about/) [Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click the **Steam icon**  and select **Open file location** .
@@ -335,8 +317,6 @@ If the game is still unplayable, read on and try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -344,4 +324,24 @@ If the game is still unplayable, read on and try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-tv-disable-guide-for-2024/"><u>[New] Instagram TV Disable Guide for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-viral-visuals-stories-of-success/"><u>[Updated] In 2024, Viral Visuals Stories of Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/bug-squashed-the-2024-patch-for-league-of-legends-reconnection-issue-explained/"><u>Bug Squashed: The 2024 Patch for League of Legends' Reconnection Issue Explained</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-historical-wisdom-the-ultimate-student-friendly-channel-list-1-10-for-2024/"><u>Curating Historical Wisdom The Ultimate Student-Friendly Channel List (#1-10) for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-resolution-issues-fixing-the-games-initial-black-screen/"><u>Elden Ring Resolution Issues: Fixing the Game's Initial Black Screen</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enhance-your-xbox-one-viewing-experience-with-vlc-support-hevc-mkv-flac-playback-and-more/"><u>Enhance Your Xbox One Viewing Experience with VLC - Support HEVC, MKV, FLAC Playback & More</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-on-with-no-delay-fixing-input-lag-for-a-smoother-valorant-experience-2024-edition/"><u>Game On with No Delay: Fixing Input Lag for a Smoother Valorant Experience, 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-content-warning-voice-chat-not-working/"><u>How to Fix Content Warning Voice Chat Not Working</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-sea-of-thieves-stability-issues-a-comprehensive-guide/"><u>How to Resolve Sea of Thieves Stability Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3-ways-to-change-location-on-facebook-marketplace-for-xiaomi-13t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Change Location on Facebook Marketplace for Xiaomi 13T | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/mastering-efficiency-with-the-fujitsu-scansnap-ix1600-a-detailed-overview-of-a-reliable-workstation-scanner/"><u>Mastering Efficiency with the Fujitsu ScanSnap iX1600: A Detailed Overview of a Reliable Workstation Scanner</u></a></li>
+<li><a href="https://fox-that.techidaily.com/perfecting-image-clarity-a-guide-to-correcting-blur-with-iphone-tricks/"><u>Perfecting Image Clarity: A Guide to Correcting Blur with iPhone Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-when-discords-camera-feature-stops-working/"><u>Quick Solutions for When Discord's Camera Feature Stops Working</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/render-your-social-media-footage/"><u>Render Your Social Media Footage</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixing-cannot-connect-to-server-mistakes-in-lost-ark-gameplay/"><u>Step-by-Step: Fixing 'Cannot Connect to Server' Mistakes in Lost Ark Gameplay</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-perils-of-pay-by-play-in-gaming-development-business-models/"><u>The Perils of Pay-by-Play in Gaming Development Business Models</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-resolve-issues-with-call-of-duty-modern-warfare-3-mw3-launch-failures/"><u>Troubleshooting Guide: How to Resolve Issues with Call of Duty: Modern Warfare 3 (MW3) - Launch Failures</u></a></li>
+</ul></div>
 

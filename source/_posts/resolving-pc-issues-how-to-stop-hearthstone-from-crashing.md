@@ -1,7 +1,7 @@
 ---
 title: Resolving PC Issues - How to Stop Hearthstone From Crashing
-date: 2024-12-05T17:06:06.282Z
-updated: 2024-12-12T16:26:50.755Z
+date: 2024-12-12T17:35:05.202Z
+updated: 2024-12-19T18:50:41.579Z
 tags:
   - win11
   - win10
@@ -22,10 +22,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -38,10 +46,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 5. [**Run a System File Checker**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
 
@@ -56,13 +60,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -77,10 +81,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
@@ -99,10 +99,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
@@ -120,7 +116,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
@@ -144,13 +140,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -167,7 +167,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
@@ -194,17 +194,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-fast-fortnite-icons-in-minutes/"><u>[New] 2024 Approved Crafting Fast Fortnite Icons in Minutes</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unearthed-echo-collectors-best-unnoticed-android-and-ios-recorders/"><u>[New] Unearthed Echo Collectors Best Unnoticed Android & iOS Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-exclusive-listing-the-top-10-places-to-snag-pristine-photos/"><u>2024 Approved Exclusive Listing The Top 10 Places to Snag Pristine Photos</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/6-effective-strategies-for-recovering-backing-up-or-deleting-unsaved-excel-files/"><u>6 Effective Strategies for Recovering, Backing Up, or Deleting Unsaved Excel Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-crashes-expert-advice-on-handling-the-fatal-error-ark/"><u>Avoiding Crashes: Expert Advice on Handling the 'Fatal Error Ark'</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-valheim-experience-by-eliminating-high-latency-on-windows-systems/"><u>Boost Your Valheim Experience by Eliminating High Latency on Windows Systems</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-insights-on-maintaining-engagement-after-algorithm-shifts/"><u>In 2024, Insights on Maintaining Engagement After Algorithm Shifts</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/laughter-is-free-access-to-top-meme-creations-for-2024/"><u>Laughter Is Free Access to Top Meme Creations for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-the-way-to-quick-and-efficient-editing-keyboard-shortcuts-in-filmora-for-2024/"><u>New The Way to Quick and Efficient Editing | Keyboard Shortcuts in Filmora for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-browser-blues-resolve-firefox-stalls-and-glitches-with-ease/"><u>Overcoming Browser Blues: Resolve Firefox Stalls & Glitches with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-steam-errors-getting-helldivers-2-up-and-running-again/"><u>Resolving Steam Errors: Getting Helldivers 2 Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-terraria-from-freezing-proven-troubleshooting-steps-for-gamers/"><u>Stop Terraria From Freezing: Proven Troubleshooting Steps for Gamers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-ensuring-earning-potential-on-youtubers/"><u>[New] 2024 Approved Ensuring Earning Potential on YouTubers</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-collective-chronicle-converter-for-2024/"><u>[New] Collective Chronicle Converter for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-expert-video-edits-how-to-masterly-modify-and-shorten-videos-on-vimeo-online/"><u>[New] In 2024, Expert Video Edits How to Masterly Modify and Shorten Videos on Vimeo Online</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-best-youtube-channel-name-ideas-for-aspiring-vloggers-and-film-makers-maximum-length-156-characters/"><u>[Updated] In 2024, Best Youtube Channel Name Ideas For Aspiring Vloggers & Film Makers (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-superior-plot-strategies-across-diverse-cinematic-fields/"><u>[Updated] Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-resolution-guide-for-smooth-gaming-experience/"><u>Apex Legends Error Resolution Guide for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-resolve-black-screen-problem-in-resident-evil-village-pc/"><u>Fixing the Issue: How to Resolve Black Screen Problem in Resident Evil Village (PC)</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-does-facebook-ensure-fair-payment-for-artists/"><u>How Does Facebook Ensure Fair Payment for Artists?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-your-cs2-experience-fixing-frame-rate-drops-and-gameplay-interruptions/"><u>Maximize Your CS2 Experience: Fixing Frame Rate Drops and Gameplay Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixes-for-the-initial-non-launch-problems-with-monster-hunter-stories-2/"><u>Solution Found! Fixes for the Initial Non-Launch Problems with Monster Hunter Stories 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-playback-problems-for-smooth-gaming-in-deathloop-on-pc-setups/"><u>Solving Playback Problems for Smooth Gaming in Deathloop on PC Setups</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-up-your-download-speeds-on-origin-in-the-year-2024/"><u>Ultimate Fixes to Up Your Download Speeds on Origin in the Year 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-the-ultimate-guide-to-video-resumes-4-best-makers-and-free-resources/"><u>Updated 2024 Approved The Ultimate Guide to Video Resumes 4 Best Makers and Free Resources</u></a></li>
+<li><a href="https://win-able.techidaily.com/what-to-do-if-your-game-of-rocket-league-just-wont-start/"><u>What To Do If Your Game of Rocket League Just Won't Start?</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-play-addressing-initial-launch-issues-with-diablo-ii-resurrected/"><u>Why Can't I Play? Addressing Initial Launch Issues with Diablo II: Resurrected</u></a></li>
+<li><a href="https://win-docs.techidaily.com/wie-legen-sie-post-it-notizen-in-microsoft-windows-11-speichern-schritt-fur-schritt-anleitung/"><u>Wie Legen Sie Post-It-Notizen in Microsoft Windows 11 Speichern | Schritt-Für-Schritt-Anleitung</u></a></li>
 </ul></div>
 

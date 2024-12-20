@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Fix Tutorial: Overcoming Crashes in 'Tribes of Midgard' Gaming Experience"
-date: 2024-08-27T20:30:35.547Z
-updated: 2024-08-28T20:30:35.547Z
+date: 2024-12-18T19:15:44.724Z
+updated: 2024-12-19T18:33:06.579Z
 tags:
   - win11
   - win10
@@ -53,6 +53,10 @@ _Arma 3_ keeps closing to the desktop unexpectedly? If you’re experiencing thi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Check your **Operating System, Processor, Memory** and**DirectX Version** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-92.png)
@@ -75,9 +79,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
@@ -89,8 +90,9 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3:**End unnecessary program** s
 
  Running multiple applications at the same time takes up resources and can make Arma 3 crash or freeze. So, you should turn off extraneous software while gaming. Here is how to do it:
@@ -107,6 +109,10 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 **2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
@@ -129,8 +135,9 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -141,9 +148,6 @@ _Arma 3_ crashing issues might occur when it fails to access critical game files
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  One of the most common causes of the_Arma 3_ crashing issue is an outdated graphics driver. To keep your game running correctly, it’s essential that you have the latest correct graphics driver at all times.
@@ -176,9 +180,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -190,8 +191,9 @@ OR
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change your PC power plan
 
  By default, the power plan on all computers is set to Balanced to save energy. So, your computer sometimes will slow down automatically and cause Arma 3 crashing issue.
@@ -202,9 +204,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select **Power Options.**
 
@@ -214,16 +224,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Restart your computer and_Arma 3_ to see if this worked for you. If your problem persists, try the fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### **Fix 6: Launch Arma 3 with the malloc=system** command
 
  Another solution to the crashing issue is to custom the Memory Allocator on Arma 3\. Many players fix their issue by launching Arma 3 with the malloc=system command. Here is how to do it:
@@ -234,16 +238,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 **3)**  Right-click **Arma 3**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-44.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-45.png)
@@ -252,25 +250,20 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-374.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Type**\-malloc=system** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-47.png)
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **7)** Restart_Arma 3_ to see this helped.
 
  If this didn’t work for you, you’ll need to reopen the launch Options box and clear the launch option. Then, try the fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7:**Reinstall BattlEye service**
 
  In some cases, the_Arma 3_ crash is related to the anti-cheat service BattlEye error. If that’s the problem for you, reinstalling BattlEye should be able to fix it. Follow the instructions below:
@@ -287,9 +280,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Delete the**BattlEye folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-43.png)
@@ -310,15 +300,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-36.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **9)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Wait for the scans to be complete, then relaunch_Arma 3_ to reinstall BattlEye. If the game still crashes, try the next fix.
 
 ---
@@ -356,13 +344,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-359.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-360.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-361.png)
@@ -375,18 +364,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon** and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-365.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)**  Move the backup **steamapps**  folder you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-366.png)
@@ -407,8 +390,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -416,4 +397,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-ultimate-list-of-mac-friendly-video-to-mp4-codecs/"><u>[New] 2024 Approved Ultimate List of Mac-Friendly Video to MP4 Codecs</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-video-to-song-instagrams-mp3-conversion-process/"><u>[New] From Video to Song Instagram's Mp3 Conversion Process</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-captivating-viewers-with-youtubes-visual-polishing/"><u>[Updated] Captivating Viewers with Youtube's Visual Polishing</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024-updates-how-to-stop-state-of-decay-2-from-crashing-on-your-pcconsole/"><u>2024 Updates: How to Stop State of Decay 2 From Crashing on Your PC/Console</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/best-websites-to-find-3d-gold-text-effects-for-2024/"><u>Best Websites to Find 3D Gold Text Effects for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bestselling-usb-sticks-of-2024-find-the-right-one-for-you/"><u>Bestselling USB Sticks of 2024: Find the Right One for You</u></a></li>
+<li><a href="https://win-latest.techidaily.com/boot-problem-solved-overcoming-startup-failures-on-lenovo-ideapad-duet-chromebook-cloned-system/"><u>Boot Problem Solved: Overcoming Startup Failures on Lenovo IdeaPad Duet Chromebook Cloned System</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-a-malfunctioning-msi-dragon-centre/"><u>Easy Fixes for a Malfunctioning MSI Dragon Centre</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensure-seamless-viewing-7-crucial-tweaks-for-a-flawless-twitch-experience/"><u>Ensure Seamless Viewing: 7 Crucial Tweaks for a Flawless Twitch Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-realme-c67-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Realme C67 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-realme-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Realme 11 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-stuttering-in-mass-effect-legendary-edition/"><u>Resolved: Troubleshooting Stuttering in Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-stability-problems-with-rainbow-six-extraction-on-pc/"><u>Troubleshooting Guide: Resolving Stability Problems with Rainbow Six Extraction on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-pc-gaming-files/"><u>Ultimate Guide: Repairing Damaged PC Gaming Files</u></a></li>
+</ul></div>
 

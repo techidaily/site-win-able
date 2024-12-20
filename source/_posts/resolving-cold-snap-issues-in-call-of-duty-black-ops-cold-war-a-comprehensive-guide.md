@@ -1,7 +1,7 @@
 ---
 title: "Resolving Cold Snap Issues in Call of Duty: Black Ops Cold War - A Comprehensive Guide"
-date: 2024-08-27T20:29:44.312Z
-updated: 2024-08-28T20:29:44.312Z
+date: 2024-12-15T17:46:04.162Z
+updated: 2024-12-19T19:12:44.560Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/2597cd92a0acd8548892430a7d1a31aad74db8100
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work through the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -52,9 +60,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -65,9 +70,6 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
@@ -91,8 +93,9 @@ You can do it with only 2 steps:
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -104,9 +107,6 @@ And it’s quite easy to update too:
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -114,9 +114,6 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
@@ -132,20 +129,28 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
 ---
@@ -158,8 +163,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +170,17 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-10-hidden-photoshop-photo-editing-tips-for-beginners/"><u>[Updated] 2024 Approved 10 Hidden Photoshop Photo Editing Tips for Beginners</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-virtual-reality-wars-which-tech-rules-the-gamers-world/"><u>2024 Approved Virtual Reality Wars Which Tech Rules the Gamer’s World</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-4-startup-troubles-heres-how-you-can-resolve-them/"><u>Age of Empires 4 Startup Troubles? Here's How You Can Resolve Them</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-freezingstuttering-in-your-pc-game/"><u>Fixes & Solutions: How to Stop Valheim From Freezing/Stuttering in Your PC Game</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-motorola-edge-40-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Motorola Edge 40 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-vivo-v27e-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Vivo V27e FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-stop-nioh-2-from-crashing-full-version-help-guide/"><u>Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-mechanics-behind-windows-operating-security/"><u>The Mechanics Behind Windows Operating Security</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-cant-start-the-game-check-your-game-files/"><u>Troubleshooting: Can't Start the Game? Check Your Game Files!</u></a></li>
+</ul></div>
 

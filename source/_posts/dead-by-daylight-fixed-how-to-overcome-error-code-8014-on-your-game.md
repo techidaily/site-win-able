@@ -1,7 +1,7 @@
 ---
 title: Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game
-date: 2024-12-08T16:02:00.485Z
-updated: 2024-12-12T16:49:37.269Z
+date: 2024-12-13T18:33:22.905Z
+updated: 2024-12-19T19:01:17.261Z
 tags:
   - win11
   - win10
@@ -128,6 +128,10 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If your issue persists, then move on and try the next fix.
@@ -142,6 +146,10 @@ If your issue persists, then move on and try the next fix.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
 3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-190.png)
 4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
@@ -163,6 +171,10 @@ If your issue persists, then move on and try the next fix.
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
 
@@ -178,10 +190,6 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 2. Under **View by,** click **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 3. Select **Power Options.**  
 
@@ -189,6 +197,10 @@ Follow the instructions below to see how to fix it:
 4. Select **High Performance** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart your computer and your game to see if this worked for you. If your problem persists, try the fix below.
 
@@ -220,11 +232,25 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 3. On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 4. Under **View by,** click **Large icons** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 5. Select **Uninstall a program** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 6. Right-click **Steam** , and then click **Uninstall** .  
 
@@ -234,24 +260,12 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 8. **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 9. Right-click your **Steam icon**  and select **Open file location** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 10. Move the backup **steamapps folder**  you create before to your current directory location.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 11. Restart_Dead by Daylight_ to see if this fixed your issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
 
@@ -296,10 +310,6 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Update console.**  
 
@@ -316,7 +326,7 @@ If this didn’t work for you, check the fix, below.
 2. Select **Settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
@@ -325,15 +335,15 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
@@ -347,6 +357,10 @@ If this didn’t work for you, check the fix, below.
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
@@ -354,10 +368,6 @@ If this didn’t work for you, check the fix, below.
 **3)**  Press the **A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
@@ -440,10 +450,6 @@ If this didn’t work for you, check the fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
@@ -455,10 +461,6 @@ If this didn’t work for you, check the fix, below.
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)**  Restart your game to see if this fix worked.
 
@@ -487,17 +489,14 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-seamless-integration-transferring-snapchat-images-directly/"><u>[Updated] In 2024, Seamless Integration Transferring Snapchat Images Directly</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-your-workflow-with-efficient-use-of-macs-preview-tool/"><u>2024 Approved Maximize Your Workflow with Efficient Use of Mac's Preview Tool</u></a></li>
-<li><a href="https://facebook.techidaily.com/facebook-and-instagram-witnessing-trumps-return/"><u>Facebook & Instagram, Witnessing Trump’s Return</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-black-screen-problem-in-halo-infinite-a-complete-guide/"><u>Fixing the 'Black Screen' Problem in Halo Infinite: A Complete Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2019-no-more-freezes-the-ultimate-guide-to-stable-gameplay/"><u>Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/hololens-by-microsoft-envisioning-the-augmented-tomorrow-for-2024/"><u>HoloLens By Microsoft Envisioning the Augmented Tomorrow for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-oneplus-open-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On OnePlus Open | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Life360 Circle Everything You Need to Know On Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resident-evil-5-starting-difficulties-on-pc-comprehensive-fix-guide-available-now/"><u>Resident Evil 5 Starting Difficulties on PC: Comprehensive Fix Guide Available Now</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/scivolosa-installazione-di-windows-11-con-file-iso-italiano-per-sistemi-a-64-bit-download-istantaneo/"><u>Scivolosa Installazione Di Windows 11 Con File ISO Italiano per Sistemi a 64 Bit – Download Istantaneo</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/spellbinding-tones-validity-of-the-vocal-transformation-app-questioned-check-out-more/"><u>Spellbinding Tones Validity of the Vocal Transformation App Questioned - Check Out More</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-directx-problems-in-battlefield-2042-tips-and-tricks/"><u>Troubleshooting DirectX Problems in Battlefield 2042 – Tips and Tricks</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-is-greyed-out-from-apple-iphone-xr-how-to-bypass-by-drfone-ios/"><u>Apple ID is Greyed Out From Apple iPhone XR How to Bypass?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-issue-of-the-elder-scrolls-online-failing-to-launch-expert-advice/"><u>How to Fix the Issue of The Elder Scrolls Online Failing to Launch – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-utorrent-not-downloadingconnecting-to-peers/"><u>How to Fix uTorrent Not Downloading/Connecting to Peers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96476482-9780880500210-hypnosis-in-the-service-of-meditation/"><u>Hypnosis in the Service of Meditation | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-androids-free-video-chat-alternatives-top-list/"><u>In 2024, Android's Free Video Chat Alternatives Top List</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/le-monde-interne-explique-anatomie-et-physiologie-des-parties-corporelles-en-francais/"><u>Le Monde Interne Expliqué: Anatomie Et Physiologie Des Parties Corporelles en Français</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cities-skylines-game-crashes-a-comprehensive-tips-list/"><u>Ultimate Fixes for Cities: Skylines Game Crashes - A Comprehensive Tips List</u></a></li>
+<li><a href="https://win-able.techidaily.com/waste-disposal/"><u>Waste Disposal</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/why-a-laser-engraver-is-a-must-have-5-essential-advantages-for-craftsmen-and-creatives/"><u>Why a Laser Engraver Is a Must-Have: 5 Essential Advantages for Craftsmen and Creatives</u></a></li>
 </ul></div>
 

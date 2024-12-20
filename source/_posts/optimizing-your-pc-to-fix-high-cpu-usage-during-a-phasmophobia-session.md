@@ -1,7 +1,7 @@
 ---
 title: Optimizing Your PC to Fix High CPU Usage During a Phasmophobia Session
-date: 2024-08-23T11:31:36.791Z
-updated: 2024-08-24T11:31:36.791Z
+date: 2024-12-12T16:29:16.477Z
+updated: 2024-12-19T17:43:31.380Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 1: Disable your microphone for your Forza Horizon 3**
 
  If you’ve enabled your microphone for Forza Horizon 3, it may be the cause of the crash issue. Just disable it to see whether the game will keep crashing or not. Here is how to do it:
@@ -43,6 +47,11 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open the**Windows Settings** , and then click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/123.png)
 2. **Toggle off** the microphone for Forza Horizon 3.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap14-1.png)
 3. Reboot your Windows system and run the game again.
 
@@ -57,16 +66,14 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open the**Windows Settings** , and then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap15-1.png)
 2. Select **Forza Horizon 3**  and click **Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap18.png)
 3. Click **Reset**  to reset your **Forza Horizon 3** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap20.png)
 4. Launch the game and play it again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If it won’t crash, you’ve already fixed this annoying issue! If not, there are more solutions below for you to try.
 
@@ -77,24 +84,25 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open the**Windows Settings** , and then click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap21.png)
 2. Select **Storage**  and click**This PC (C:)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap22.png)
 3. Click **Temporary files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap23.png)
 4. Make sure you’ve checked **Temporary files, Temporary Internet Files**  and **Delivery Optimization Files** . Then click **Remove files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap25.png)
 5. Restart your Windows system. Launch and play the game to see if it still keeps crash.
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If not, congratulations! You’ve resolve this issue. If this annoying issue persists, just try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### **Fix 4: Add your Forza Horizon 3 as an exception to your third-party antivirus application**
 
  This annoying issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with your game.
@@ -105,9 +113,6 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 
  If this fix doesn’t work for you, maybe this issue is caused by your outdated graphics driver  . Try the fix below to update your graphics drivers to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 5: Update your graphics driver to the latest version**
 
  Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** .
@@ -120,6 +125,11 @@ thumbnail: https://thmb.techidaily.com/30033eb1d439e3a5ccb9587805c5084ce6ce6344b
 2. Run Driver Easy and click **Scan Now**  . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-3.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of this driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click **Update All**  ).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap3-2.png)
 
  If you have any issue with**Driver Easy** , please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) for advice. You should attach the URL of this article so they can help you better.
@@ -131,21 +141,22 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press the **Windows logo key**  and **R**  at the same time to open the Run Dialog. Type **msconfig**  and press **Enter**  to open the   **System Configuration**  window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266.png)
 2. Select the **Services**  tab, check   **Hide all Microsoft services**  and then click **Disable all**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2.png)
 3. Select the **Startup**  tab and click **Open Task Manager**  .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8-4.jpg)
 4. On the **Startup**  tab in **Task Manager** , for **each**  startup item, select the item and then click   **Disabled**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap9.jpg)
 5. Go back to the **System Configuration**  window and click   **OK**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10.jpg)
 6. Click **Restart**  to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11.jpg)
@@ -155,8 +166,9 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall**  it in order to resolve this  issue.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 7: Update your Windows system to the latest version**
 
  Sometimes the crash issue may occur if your Windows system is not the latest version. Update your Windows system and this issue may get resolved. Here is how to do it:
@@ -164,15 +176,8 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 1. On your keyboard, press **the Windows logo key**  and type **update** . In the list of results, click **Check for updates**   to open **Windows Update** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1.png)
 2. Click the   **Check for updates**  button to update your Windows system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2q.png)
 3. Restart your PC when the Windows update process is completed.
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix works, your game won’t keep crashing again. If not, you may need to reinstall the game to resolve the problem.
 
@@ -185,11 +190,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click **Uninstall** to uninstall your Forza Horizon 3.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap29.png)
 3. Open the**Store** app. In the search bar, type**Forza Horizon 3**  and click the**Search** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap32.png)
 4. Select the game you purchased before to start installing the game. Launch the game to see if it will still keep crashing. Hopefully, you will be able to resolve this annoying issue by reinstalling the game.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 
  Now, you can enjoy the game! Please leave your comment below if you have any questions!
 
@@ -202,8 +209,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +216,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-how-to-survive-and-thrive-on-the-streak-frontier-for-2024/"><u>[New] How to Survive and Thrive on the Streak Frontier for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-screen-recording-showdown-go-with-obs-studio-or-bandicam/"><u>[New] In 2024, Screen Recording Showdown Go with OBS Studio or Bandicam</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-all-weather-action-cameras-ranking-top-7-summary/"><u>[Updated] 2024 Approved All-Weather Action Cameras Ranking, Top 7 Summary</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-quick-guide-personalized-youtube-shorts-images-without-hassle/"><u>2024 Approved Quick Guide Personalized YouTube Shorts Images Without Hassle</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996961875-assassins-creed-valhalla-resolved-pc-performance-hiccups-and-smooth-playback-tips/"><u>Assassin's Creed Valhalla - Resolved PC Performance Hiccups and Smooth Playback Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-guide-resolving-nioh-2-game-crashes/"><u>Complete Guide: Resolving Nioh 2 Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-free-adventure-fixed-problems-leading-to-constant-disruptions-in-the-new-world-pc-version/"><u>Crash-Free Adventure: Fixed Problems Leading to Constant Disruptions in the 'New World' PC Version</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-techniques-for-repairing-directx-malfunctions-in-cod-mw2/"><u>Expert Techniques for Repairing DirectX Malfunctions in CoD MW2</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-12r-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus 12R to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/how-to-preserve-your-preferences-for-future-flipbook-creations-on-flipbuildercom/"><u>How to Preserve Your Preferences for Future FlipBook Creations on FlipBuilder.com</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-grasping-the-essence-an-in-depth-guide-to-tiktok-filters/"><u>In 2024, Grasping the Essence An In-Depth Guide to TikTok Filters</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-unlock-apple-iphone-6-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6 With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/inside-the-postponement-of-immortals-fenyx-rising-the-untold-story/"><u>Inside the Postponement of Immortals: Fenyx Rising - The Untold Story</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-call-of-duty-wwiis-error-code-e-4128-a-step-by-step-correction-manual/"><u>Navigating Through Call of Duty WWII's Error Code E 4128: A Step-by-Step Correction Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-cyberpunk-2077-stutter-techniques-and-settings-for-smooth-gaming/"><u>Overcoming Cyberpunk 2077 Stutter: Techniques and Settings for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-heart-of-iron-iv-errors-and-glitches/"><u>Troubleshooting Common Heart of Iron IV Errors & Glitches</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-guide-to-the-best-top-race-rc-rock-crawler-conquering-any-terrain/"><u>Ultimate Guide to the Best Top Race RC Rock Crawler: Conquering Any Terrain</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-preventing-and-fixing-pc-crashes-in-forza-horizon-5-gameplay/"><u>Ultimate Guide: Preventing and Fixing PC Crashes in Forza Horizon 5 Gameplay</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unlocking-secure-browsing-with-less-cost-exploring-the-features-of-private-internet-access-as-an-elite-open-source-vpn-by-zdnet/"><u>Unlocking Secure Browsing with Less Cost: Exploring the Features of Private Internet Access as an Elite, Open-Source VPN by ZDNET</u></a></li>
+</ul></div>
 

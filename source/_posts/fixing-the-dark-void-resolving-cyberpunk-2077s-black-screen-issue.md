@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Dark Void: Resolving Cyberpunk 2077'S Black Screen Issue"
-date: 2024-08-27T20:34:03.385Z
-updated: 2024-08-28T20:34:03.385Z
+date: 2024-12-13T16:59:05.684Z
+updated: 2024-12-19T17:33:34.454Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Uncheck bonus content under DLC
 
  If your Cyberpunk download is stuck on 57.4 GB, it probably is extracting the game files. This happens with preloaded games on Steam. So you just need a little more patience and you’ll be in. However, if you can’t wait for any longer, disabling the DLC content download may help you.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
  1) Under the**LIBRARY** tab, navigate to your game**Cyberpunk 2077** . Right-click it and select**Properties** .  
   
 ![uncheck bonus content under DLC to fix Cyberpunk 2077 download stuck ](https://images.drivereasy.com/wp-content/uploads/2020/12/click-on-Properties-on-Steam.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the tab**DLC** . Then uncheck the box**Cyberpunk 2077 Bonus Content** . (If the DLC portion isn’t popping up for you, try restarting your computer and after that, try to log in to your Steam account.)  
   
@@ -53,16 +61,18 @@ thumbnail: https://thmb.techidaily.com/80e5cdef4afad3cdaa6f71026bfd555865de3d18d
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
 ![change Steam download server](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location-donwnload-region.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After applying the changes, resume your download to check if this boosts your download speed.
 
  You can also check[Steam Download Stats](https://store.steampowered.com/stats/content/) to avoid the high traffic.
@@ -82,23 +92,21 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
 ![set Steam's priority to high go to details](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-go-to-details.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Once done, your game’s unpacking speed should be boosted.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update network adapter driver
 
  Whether you have a slow download speed or you’re stuck at downloading, it could be an issue related to your network connection. And your outdated network adapter driver can be the culprit. To fix it, you’re supposed to update your network adapter driver, especially if you can’t remember when was the last time you updated it.
@@ -117,9 +125,6 @@ Here’s how it works:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -143,14 +148,15 @@ Here’s how it works:
   
 ![clear download cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/12/clear-download-cache.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select**OK** to confirm and acknowledge that you’ll need to login to Steam again.  
   
 ![confirm to clear download cache](https://images.drivereasy.com/wp-content/uploads/2020/12/confirm.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Set a bandwidth limit
 
@@ -164,9 +170,6 @@ Here’s how it works:
   
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 Now you should be able to download your game at a faster speed.
 
 ---
@@ -179,8 +182,6 @@ Now you should be able to download your game at a faster speed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +189,20 @@ Now you should be able to download your game at a faster speed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-starry-secrets-a-guide-to-capturing-the-perfect-night-portraits/"><u>[New] 2024 Approved Starry Secrets A Guide to Capturing the Perfect Night Portraits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/66794225-updated-2024-approved-how-to-become-a-youtube-partner-you-need-10000-views-now/"><u>[Updated] 2024 Approved How to Become a YouTube Partner - You Need 10,000 Views Now!</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-a-comprehensive-guide-to-the-finest-budget-friendly-webm-players/"><u>[Updated] A Comprehensive Guide to the Finest Budget-Friendly WebM Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-system-inadequate-cpu-specifications-for-running-vanguard-efficiently/"><u>Enhance Your System: Inadequate CPU Specifications for Running Vanguard Efficiently</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-freeing-up-system-ram-resolved/"><u>Fortnite Freeing Up System RAM - Resolved</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001656004-gta-not-working-heres-how-to-get-your-online-adventure-back-on-track/"><u>GTA nOt wOrkIng? Here's How to Get Your Online Adventure Back on Track!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-samsung-galaxy-a14-4g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Samsung Galaxy A14 4G To iPhone 15/14/13? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013314041-quick-fixes-for-gaming-glitch-stop-grand-theft-auto-5-from-freezing-now/"><u>Quick Fixes for Gaming Glitch: Stop Grand Theft Auto 5 From Freezing Now!</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-oppo-a78-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Oppo A78 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-controllers-not-detected-in-windows-here-are-the-solutions/"><u>Steam Controllers Not Detected in Windows? Here Are the Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-low-frames-per-second-fps-issues-in-titanfall-2-a-comprehensive-guide/"><u>Tackling Low Frames Per Second (FPS) Issues in Titanfall 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-5-professional-grade-photo-printers-recommended-models-tech-insights/"><u>Top 5 Professional-Grade Photo Printers : Recommended Models - Tech Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/x-planes-latest-update-an-in-depth-review-of-next-gen-visuals-and-gameplay-for-aspiring-pilots/"><u>X-Plane's Latest Update - An In-Depth Review of Next-Gen Visuals and Gameplay for Aspiring Pilots</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Guide to Overcome the Launch Error: Black Screen in Helldivers 2 Game"
-date: 2024-08-27T20:31:52.217Z
-updated: 2024-08-28T20:31:52.217Z
+date: 2024-12-12T16:43:09.839Z
+updated: 2024-12-19T16:21:37.523Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 
 **[Hitman 3](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793)**  has been out! But for some players, it only shows a black screen when loading. This is frustrating since it doesn’t allow you to even go past its opening scene. But the good news is, it’s fixable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -27,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/defd396607cd2975fa174c851525eeb9f0360235b
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Check that your PC is capable
 
@@ -54,9 +62,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Allow Hitman 3 through firewall
 
  Windows firewall and anti-virus software are intended to protect your computer from malware attacks. However, there’s a possibility that your game is perceived as viruses and they stop it from booting up. In this cause, you need to make sure the firewall is not blocking your game. Follow the steps to do this:
@@ -68,8 +73,9 @@ To play Hitman 3, you need a PC with the following minimum specs:
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
@@ -94,9 +100,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -118,14 +121,14 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -133,9 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Verify integrity of game files
 
  If Hitman 3 has missing or corrupted files, it may not boot up correctly. To check if this is the culprit, you’ll need to verify the game files.
@@ -150,18 +150,6 @@ Here’s how to do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -175,6 +163,10 @@ Here’s how:
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
 
 ![try a different display mode in HITMAN 3](https://images.drivereasy.com/wp-content/uploads/2021/01/try-a-different-display-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve tried the other display modes but the game still just shows you a black screen, try the next fix below.
 
@@ -193,8 +185,9 @@ Here’s how to disable programs in Task Manager:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
   
 ![check cpu usage and end the tasks that are using more cpu](https://images.drivereasy.com/wp-content/uploads/2020/10/check-cpu-usage-and-end-the-task.jpg)
@@ -204,8 +197,9 @@ Here’s how to disable programs in Task Manager:
 ![stop-programs-running-at-startup](https://images.drivereasy.com/wp-content/uploads/2020/10/stop-programs-running-at-startup-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve done these, try to launch Hitman 3 and you should be able to load into the game.
 
 ---
@@ -220,8 +214,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +221,21 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-seek-out-stimulating-youtube-snippets/"><u>[New] Seek Out Stimulating YouTube Snippets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-beginners-approach-to-adding-dates-to-photographs/"><u>2024 Approved A Beginner's Approach to Adding Dates to Photographs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/affordable-dual-functionality-of-lenovos-chromebook-duet-unveiled-in-review/"><u>Affordable Dual-Functionality of Lenovo's Chromebook Duet Unveiled in Review</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/tless-audio-downloads-these-24-tools-split-youtube-sounds/"><u>Effortless Audio Downloads These 24 Tools Split YouTube Sounds</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-frustration-resolving-constant-snowrunner-software-failures-on-windows-computers/"><u>End the Frustration: Resolving Constant SnowRunner Software Failures on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723006179733-escaping-frustration-a-comprehensive-fix-for-fortnite-error-84-party-connection-problems/"><u>Escaping Frustration: A Comprehensive Fix for Fortnite Error 84 - Party Connection Problems.</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-resolve-errgfxd3dinit-issues-in-grand-theft-auto-v/"><u>How to Correctly Address and Resolve ERR_GFX_D3D_INIT Issues in Grand Theft Auto V</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-after-deleting-from-recently-deleted-on-iphone-13-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to recover deleted photos after deleting from Recently Deleted on iPhone 13 | Stellar</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stalls-in-your-qbittorrent-downloads-a-comprehensive-guide/"><u>Overcoming Stalls in Your qBittorrent Downloads: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-when-your-iphone-is-unrecognized-by-itunes-on-pc-with-windows-10/"><u>Troubleshooting Steps for When Your iPhone Is Unrecognized by Itunes on PC with Windows 10</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-most-popular-android-watchface-and-app-picks/"><u>Ultimate Guide to the Most Popular Android Watchface and App Picks</u></a></li>
+<li><a href="https://extra-information.techidaily.com/upgraded-multitasking-with-microsofts-multi-display-feature-in-edge/"><u>Upgraded Multitasking with Microsoft's Multi-Display Feature in Edge</u></a></li>
+<li><a href="https://program-issues.techidaily.com/warzone-directx-troubles-fix-it-fast-using-these-easy-4-methods/"><u>Warzone DirectX Troubles? Fix It Fast Using These Easy 4 Methods</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-realme-gt-5-pro-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Realme GT 5 Pro | Dr.fone</u></a></li>
+</ul></div>
 

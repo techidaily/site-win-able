@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixes for Common Crashes in Chivalry II
-date: 2024-08-27T20:33:00.511Z
-updated: 2024-08-28T20:33:00.511Z
+date: 2024-12-14T17:27:48.992Z
+updated: 2024-12-19T18:37:11.526Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,6 +96,10 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -114,8 +119,9 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -130,21 +136,12 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -158,11 +155,16 @@ thumbnail: https://thmb.techidaily.com/7cdccda0c1b455cde02be352d145a5b4b55f977ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,22 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-elite-economical-countdown-companions/"><u>[New] 2024 Approved Elite Economical Countdown Companions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screenshot-savvy-free-high-quality-capturing-tools-for-both-oses/"><u>[New] 2024 Approved Screenshot Savvy Free, High-Quality Capturing Tools for Both OSes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-from-dissonance-to-harmony-kinemasters-transition-magic-for-2024/"><u>[Updated] From Dissonance to Harmony Kinemaster’s Transition Magic for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-glitches-eliminate-fifa-20-crashing-issues-on-pc-for-good/"><u>Conquer Game Glitches: Eliminate FIFA 20 Crashing Issues on PC for Good</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-guide-enabling-dolby-atmos-sound-on-your-pc-running-windows-11-or-10/"><u>DIY Guide: Enabling Dolby Atmos Sound on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/dji-drone-prospectus-phantom-3-edition-for-2024/"><u>DJI Drone Prospectus Phantom 3 Edition for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/eye-catching-images-windows-10s-screenshot-feature-for-2024/"><u>Eye-Catching Images Windows 10'S Screenshot Feature for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy A34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-your-outriders-game-keeps-crashing/"><u>Fixing the Issue: Why Your Outriders Game Keeps Crashing</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagram-hiatus-recommended-by-social-networking-giant/"><u>Instagram Hiatus Recommended by Social Networking Giant</u></a></li>
+<li><a href="https://win-able.techidaily.com/level-up-your-ark-survival-ascended-journey-in-depth-guide-for-optimal-frame-rates-and-enhanced-visuals-on-pc/"><u>Level Up Your ARK Survival Ascended Journey: In-Depth Guide for Optimal Frame Rates and Enhanced Visuals on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001367628-no-more-freezing-controllers-easy-fixes-inside/"><u>No More Freezing Controllers - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-configuration-server-connection-failure-effortlessly-today/"><u>Solve ‘Configuration Server Connection Failure’ Effortlessly Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-fix-a-non-functional-discord-webcam/"><u>Troubleshooting Steps: How to Fix a Non-Functional Discord Webcam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-to-resolve-slime-rancher-amidst-pc-system-crashes/"><u>Ultimate Troubleshooting Tips to Resolve Slime Rancher Amidst PC System Crashes</u></a></li>
+</ul></div>
 

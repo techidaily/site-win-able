@@ -1,7 +1,7 @@
 ---
 title: No More Crashes in Samurai Warriors 5 on PC - Optimizing Performance and Fixes
-date: 2024-08-23T11:31:23.766Z
-updated: 2024-08-24T11:31:23.766Z
+date: 2024-12-14T18:30:24.835Z
+updated: 2024-12-19T18:40:56.527Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4a4e8f7773cbb7ba2441b2203815dab13dab20d5c
 ## Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium
 
 Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5 methods to try
 
@@ -47,6 +51,14 @@ You may not have to try them all. Just choose the one you need.
 **4)** Click**Apply** , then relaunch your game.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update your graphics driver
 
@@ -86,16 +98,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
@@ -113,9 +123,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
@@ -123,8 +133,9 @@ DbSchema database designer for all databases, schema design in the team, schema 
  Restart your computer, and then relaunch your game to see if this worked for you.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Configure your graphics settings
 
  Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
@@ -139,19 +150,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-37.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
@@ -160,25 +173,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 **2)** Click**Gaming** , then**Global Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-45.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
@@ -203,8 +207,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +214,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-animatedworld-comprehensive-review-2024/"><u>[New] AnimatedWorld Comprehensive Review 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-harnessing-the-power-of-real-time-social-interaction-on-fb-stories/"><u>[New] Harnessing the Power of Real-Time Social Interaction on FB Stories</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-innovative-techniques-in-digital-display-recording-for-2024/"><u>[New] Innovative Techniques in Digital Display Recording for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-strategic-message-management-expert-tips-for-discord-pinning/"><u>[Updated] In 2024, Strategic Message Management Expert Tips for Discord Pinning</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-list-of-leading-sites-for-buying-youtube-tones/"><u>[Updated] List of Leading Sites for Buying YouTube Tones</u></a></li>
+<li><a href="https://win-able.techidaily.com/are-you-experiencing-connectivity-issues-on-xbox-live-find-server-updates-here/"><u>Are You Experiencing Connectivity Issues on Xbox Live? Find Server Updates Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/cs2-2024-edition-ultimate-troubleshooting-tips-to-prevent-game-crashes-on-pc/"><u>CS2 2024 Edition - Ultimate Troubleshooting Tips to Prevent Game Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-on-pc-solved-crashing-problems-and-how-to-prevent-them-in-the-future/"><u>Cyberpunk 2077 on PC: Solved Crashing Problems and How to Prevent Them in the Future</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-classics-to-full-hd-perfection-with-windows-and-scummvm-expertise/"><u>Elevate Classics to Full HD Perfection with Windows & ScummVM Expertise</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-how-to-resolve-the-persistent-problem-of-windows-error-code-19/"><u>Expert Advice: How to Resolve the Persistent Problem of Windows Error Code 19</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-ready-for-smooth-gaming-call-of-duty-modern-warfares-fps-problem-solved-in-latest-release/"><u>Get Ready for Smooth Gaming: Call of Duty: Modern Warfare's FPS Problem Solved in Latest Release</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-optimized-overcoming-deathloops-previous-frame-rate-problems/"><u>PC Performance Optimized - Overcoming Deathloop's Previous Frame Rate Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/perfect-gameplay-soundtrack-fixing-starfields-cutout-and-jitter-issues/"><u>Perfect Gameplay Soundtrack: Fixing Starfield's Cutout and Jitter Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/razer-synapse-opening-problem-solved-tips-for-users-experiencing-difficulties/"><u>Razer Synapse Opening Problem Solved: Tips for Users Experiencing Difficulties</u></a></li>
+<li><a href="https://video-capture.techidaily.com/secrets-to-effortless-obs-broadcasts-on-fb/"><u>Secrets to Effortless OBS Broadcasts on FB</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/ssd-vs-hdd-fur-die-datensicherung-welches-externe-laufwerk-eignet-sich-besser/"><u>SSD vs HDD Für Die Datensicherung: Welches Externe Laufwerk Eignet Sich Besser?</u></a></li>
+</ul></div>
 

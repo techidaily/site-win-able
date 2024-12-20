@@ -1,7 +1,7 @@
 ---
 title: Solving Cyberpunk 2077'S Graphics Driver Problem on Windows 10 for Enhanced Gaming Experience
-date: 2024-08-27T20:32:18.438Z
-updated: 2024-08-28T20:32:18.438Z
+date: 2024-12-15T18:59:59.717Z
+updated: 2024-12-19T18:16:57.039Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -62,15 +66,9 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -86,26 +84,27 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
@@ -119,9 +118,11 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -138,8 +139,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/updated-high-fidelity-footage-face-off-hero5-black-vs-hero4-silver/"><u>[Updated] High Fidelity Footage Face-Off Hero5 Black vs Hero4 Silver</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-how-to-record-a-movie-on-pc-mac-and-smartphones/"><u>[Updated] In 2024, How to Record a Movie on PC, Mac, and Smartphones?</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-saber-stability-issues-resolved-no-more-unexpected-shutdowns/"><u>Beat Saber Stability Issues Resolved – No More Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-zoom-glitches-on-your-pc-with-these-pro-tips-for-windows-1110-updated-guide/"><u>Beat Zoom Glitches on Your PC with These Pro Tips for Windows 11/10 - Updated Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/clearing-up-distorted-visuals-a-guide-to-sharpening-graphics-in-call-of-duty-warzone-pc/"><u>Clearing Up Distorted Visuals: A Guide to Sharpening Graphics in Call of Duty: Warzone (PC)</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/duplicate-file-removal-guide-simplified-steps-on-windows-yl-computing/"><u>Duplicate File Removal Guide: Simplified Steps on Windows - YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-eliminating-the-annoying-black-screen-troubles-youve-encountered/"><u>Expert Advice On Eliminating The Annoying Black Screen Troubles You've Encountered</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-windows-11s-capabilities-the-basics-of-system-restore/"><u>Exploring Windows 11'S Capabilities: The Basics of System Restore</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-solving-stability-problems-with-psychonauts-2-on-windows-computers/"><u>Guide: Solving Stability Problems with Psychonauts 2 on Windows Computers</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-7-pro-tips-to-enhance-your-foodie-filmography/"><u>In 2024, 7 Pro Tips to Enhance Your Foodie Filmography</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-insightful-rank-trackers-unlock-your-videos-potential/"><u>In 2024, Insightful Rank Trackers - Unlock Your Video's Potential</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-unbiased-review-of-avs-video-editor-features-pricing-and-more/"><u>In 2024, Unbiased Review of AVS Video Editor Features, Pricing, and More</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/misinterpretation-of-gram-staining-results-can-lead-to-incorrect-identification-affecting-treatment-decisions-in-clinical-settings/"><u>Misinterpretation of Gram Staining Results Can Lead to Incorrect Identification, Affecting Treatment Decisions in Clinical Settings.</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-warframes-recurring-stalling-performance-bottlenecks/"><u>Resolving Warframe's Recurring Stalling Performance Bottlenecks</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-stuck-dilemma-easy-fixes-for-madden-nfl-22-loading-issues/"><u>Solving the 'Stuck' Dilemma: Easy Fixes for Madden NFL 22 Loading Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-fixing-internet-explorer-error-page-wont-load/"><u>Troubleshooting: Fixing 'Internet Explorer' Error - Page Won't Load</u></a></li>
+</ul></div>
 

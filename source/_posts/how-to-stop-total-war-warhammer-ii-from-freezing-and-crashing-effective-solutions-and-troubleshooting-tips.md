@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-12-06T17:11:05.621Z
-updated: 2024-12-12T16:35:29.191Z
+date: 2024-12-13T16:41:23.638Z
+updated: 2024-12-19T19:09:07.586Z
 tags:
   - win11
   - win10
@@ -42,19 +42,11 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 4. [**Lower in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Check your home network
 
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -72,14 +64,14 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -87,6 +79,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch the game to test your issue. If it’s still occurring, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Verify Warframe cache files
 
@@ -100,11 +96,19 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-35-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  After the process is complete, click**Optimize** .
 
 **4)** Launch the game to test your issue.
 
 Your game still freezes? Try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
 
@@ -116,23 +120,19 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
 
 If your issue persists, then move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Turn off unnecessary programs
 
@@ -171,18 +171,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-inside-the-world-of-screencasts-understanding-fundamental-principles/"><u>[New] 2024 Approved Inside the World of Screencasts Understanding Fundamental Principles</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-unmatched-8-visual-effects-for-smooth-live-videos/"><u>[Updated] Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-fast-tracked-fine-arts-edits-made-easy-with-windows-10-paint-application/"><u>2024 Approved Fast-Tracked Fine Arts Edits Made Easy with Windows 10 Paint Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-gods-eliminating-crash-problems-for-god-of-war-on-personal-computers/"><u>Conquer the Gods: Eliminating Crash Problems for God of War on Personal Computers</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/earn-on-the-go-snapchats-money-tips-for-2024/"><u>Earn on the Go Snapchat's Money Tips for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-access-denied-bypass-the-hassle-with-these-tips/"><u>Fortnite Access Denied? Bypass the Hassle with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-hogwarts-legacy-from-freezing-at-boot-a-step-by-step-guide/"><u>How to Stop 'Hogwarts Legacy' From Freezing at Boot: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/hp-drivers-for-windows-10-download-easily/"><u>HP Drivers for Windows 10. Download Easily</u></a></li>
-<li><a href="https://win-info.techidaily.com/il-metodo-migliore-per-ripristinare-windows-10-senza-perdita-di-dati-una-guida-completa/"><u>Il Metodo Migliore per Ripristinare Windows 10 Senza Perdita Di Dati: Una Guida Completa</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/premier-programs-designing-animated-3d-worlds/"><u>Premier Programs Designing Animated 3D Worlds</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009910449-rocket-league-not-working-heres-how-you-can-fix-it/"><u>Rocket League Not Working? Here's How You Can Fix It</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-halo-infinites-persistent-display-errors/"><u>Troubleshooting Tips for Halo Infinite's Persistent Display Errors</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-essential-free-mcb-theme-templates/"><u>[Updated] 2024 Approved Essential Free MCB Theme Templates</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-essential-tips-for-hosting-a-successful-facebook-live-event/"><u>[Updated] Essential Tips for Hosting a Successful Facebook Live Event</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-match-your-mentality-unveil-your-youtuber-type-through-6-quizzes/"><u>[Updated] Match Your Mentality Unveil Your YouTuber Type Through 6 Quizzes</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-elite-speedy-window-image-reader-tool/"><u>2024 Approved Elite Speedy Window Image Reader Tool</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-vivo-y02t-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-prey-the-starsign-descending-continuously-failing-on-windows/"><u>Fixes for Prey: The Starsign Descending Continuously Failing on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996354120-getting-elden-ring-online-play-up-and-running-again-expert-advice/"><u>Getting Elden Ring Online Play Up & Running Again – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-pc-version-diagnosing-and-fixing-continuous-crashes-for-smoother-gameplay/"><u>Guilty Gear Strive PC Version: Diagnosing and Fixing Continuous Crashes for Smoother Gameplay</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-razr-40withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Razr 40with/without a PC</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-microsoft-flight-simulator-x-gold-edition-the-premier-avatar-pilot-experience/"><u>In-Depth Look at Microsoft Flight Simulator X (Gold Edition): The Premier Avatar Pilot Experience</u></a></li>
+<li><a href="https://win-answers.techidaily.com/outriders-and-the-triumph-over-low-frames-per-second-dilemma/"><u>Outriders and the Triumph Over Low Frames Per Second Dilemma</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-troubleshooting-tips-preventing-granblue-fantasy-relinks-from-crashing/"><u>PC Troubleshooting Tips: Preventing Granblue Fantasy Relinks From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/proven-solutions-for-keeping-fortnite-running-smoothly-on-your-pc-this-year/"><u>Proven Solutions for Keeping Fortnite Running Smoothly on Your PC This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-trouble-heres-how-to-get-rid-of-that-annoying-black-screen/"><u>Rainbow Six Siege Trouble? Here's How to Get Rid of That Annoying Black Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-to-prevent-fifa-21-from-exiting-unexpectedly-on-pc/"><u>Step-by-Step Strategies to Prevent FIFA 21 From Exiting Unexpectedly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-abcs-airway-breathing-circulation-are-the-first-priority-in-managing-any-patient-with-suspected-poisoning/"><u>The ABCs (Airway, Breathing, Circulation) Are the First Priority in Managing Any Patient with Suspected Poisoning</u></a></li>
+<li><a href="https://win-able.techidaily.com/tormented-souls-game-stability-issues-how-to-fix-crashes-on-windows/"><u>Tormented Souls Game Stability Issues: How to Fix Crashes on Windows</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-admin-managed-feature-issues-in-windows-11/"><u>Troubleshooting Admin-Managed Feature Issues in Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Solution for Incessant Loading Error When Hosting a Discord Stream
-date: 2024-08-27T20:31:49.808Z
-updated: 2024-08-28T20:31:49.808Z
+date: 2024-12-12T17:57:20.453Z
+updated: 2024-12-19T17:07:17.055Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/836491e2-f2a7-4294-a8d1-cc548b0de76f-1200x675.jpg)
 
  The most anticipated racer of the year, Forza Horizon 5, was premiered on November 5th and officially released on the 9th. Like any new title, you can expect that it comes with bugs and glitches. Many players are actually reporting**severe lags and connection issues** while playing Forza Horizon 5\. If you’re in the same boat, no worries! We’ve prepared a few working fixes for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -46,6 +50,11 @@ thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75
 1. Right-click your taskbar, then click **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. In the **Network**  column, select the bandwidth-hogging program(s), then click **End Task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/close-bandwidth-hogging-program.jpg)
 
  Hopefully the lagging issue doesn’t return after you close the bandwidth-hogging programs. If that’s the case, we’d suggest you play FH5 with the least programs running in the background according to your internet service capacity. Or, consult your internet service provider and consider upgrading your plan.
@@ -63,9 +72,6 @@ If the lagging issue persists, try the next fix.
 
  If your internet connection is just fine and you still encounter lags while playing Forza Horizon 5, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your network driver
 
  In-game lags may indicate a driver issue. If your network adapter driver is outdated or faulty, it could cause random connection issues and thus trigger the lagging issue in Forza Horizon 5\. You may want to make sure your network driver is up-to-date and functioning properly.
@@ -85,16 +91,18 @@ If the lagging issue persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the network driver doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Allow Forza Horizon 5 through the firewall
 
  Your firewall may block Forza Horizon 5’s connection to the server, and thus trigger the in-game lags. You can check if the game is allowed through the firewall, and configure the settings if needed. Here’s how:
@@ -105,9 +113,11 @@ If the lagging issue persists, try the next fix.
 2. Type **control panel** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-control-panel.jpg)
 3. Switch to **View by: small icons** , then click **Windows Defender Firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-09-27.jpg)
 4. Click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-14_13-10-08.jpg)
@@ -118,20 +128,14 @@ If the lagging issue persists, try the next fix.
 1. Click**Change settings** , then click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14.jpg)
 2. Click **Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-09-14_13-11-21.jpg)
 3. Navigate to Forza Horizon 5 game folders and add the game executable to the list.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Find Forza Horizon 5 on the list,**tick the checkbox of Private network** , and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-25-14-1.jpg)  
  This will ensure your firewall won’t block Forza Horizon 5 when you’re using a private network, for example, your home Wi-Fi. For safety reasons, we recommend you only select the private network, but you’re welcome to allow the game through all types of networks if needed.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the lagging issue persists, try the next fix.
@@ -145,13 +149,11 @@ If the lagging issue persists, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-12_16-49-09.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If this fix doesn’t help with your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Configure your DNS settings
 
  Corrupted DNS caches may cause random connection issues. If you’ve tried the above fixes and nothing worked, you may want to give this fix a try and configure your DNS settings. To fix the lag issues, there are two things you can do:
@@ -160,9 +162,6 @@ If this fix doesn’t help with your problem, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the data from the DNS server every time it needs to access a new website. This may solve the lagging issue in Forza Horizon 5 if it’s triggered by invalid or corrupt DNS cache data
@@ -175,11 +174,13 @@ Here’s how to do it:
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example. Below are the steps:
@@ -200,9 +201,14 @@ Here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this fix doesn’t solve your problem, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Lower in-game settings
 
@@ -223,8 +229,6 @@ Here’s how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +236,20 @@ Here’s how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-enhancing-reddit-discussions-a-methodical-approach-to-posting-for-2024/"><u>[New] Enhancing Reddit Discussions A Methodical Approach to Posting for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-v30-lite-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo V30 Lite 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/1722898713803-expert-review-of-the-toshiba-55-inch-fire-tv-edition-why-its-a-prime-asset-to-any-home/"><u>Expert Review of the Toshiba 55-Inch Fire TV Edition - Why It's a Prime Asset to Any Home!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-for-cod-warzones-troublesome-pacific-map-crashing/"><u>Fixes Implemented for COD: Warzone's Troublesome Pacific Map Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-launch-problems-with-far-cry-6-on-pc-solutions-unveiled/"><u>Fixing Launch Problems with Far Cry 6 on PC – Solutions Unveiled</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-apple-became-the-pioneer-of-ultimate-viewing-experiences-with-vision-pro-insights/"><u>How Apple Became the Pioneer of Ultimate Viewing Experiences with Vision Pro – Insights</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-poco-x5-pro-easily-by-drfone-android/"><u>How To Unlock a Poco X5 Pro Easily?</u></a></li>
+<li><a href="https://win-able.techidaily.com/netflix-fixes-streaming-issues-on-xbox-one/"><u>Netflix Fixes Streaming Issues on Xbox One</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-detectability-challenges-for-astros-a50-in-command-center-setup/"><u>Overcoming Detectability Challenges for Astro’s A50 in Command Center Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-installation-hurdles-minecraft-setup-woes-on-windows-11-resolved/"><u>Overcoming Installation Hurdles: Minecraft Setup Woes on Windows 11 Resolved</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-marketers-best-friend-20-words-that-work-wonders-for-2024/"><u>The Marketer's Best Friend - 20 Words That Work Wonders for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-persistent-ready-or-not-game-crashes-on-windows/"><u>Troubleshooting Steps for Persistent 'Ready Or Not' Game Crashes on Windows</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgrade-required-insufficient-cpu-power-for-optimal-vanguard-experience/"><u>Upgrade Required: Insufficient CPU Power for Optimal Vanguard Experience</u></a></li>
+</ul></div>
 

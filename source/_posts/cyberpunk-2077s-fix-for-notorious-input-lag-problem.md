@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077'S Fix for Notorious Input Lag Problem
-date: 2024-12-08T16:21:40.857Z
-updated: 2024-12-12T16:09:11.589Z
+date: 2024-12-17T16:27:41.439Z
+updated: 2024-12-19T18:30:19.638Z
 tags:
   - win11
   - win10
@@ -31,10 +31,6 @@ These days, players have reported the issue of black screen when loading a save 
 3. **[Update Windows 10 to version 20H2](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Allow your game through firewall
 
  The Windows Firewall is designed to help keep unauthorized users from accessing files and resources on your computer. But there are circumstances that it fails to trust your applications. In this case, you need to manually add your game to the list of allowing apps through Windows Defender Firewall. Here’s how you can do this:
@@ -47,10 +43,6 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/allow-an-app-through-windows-defender-firewall.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click **Change settings > Allow another app…** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-allow-another-app.jpg)
@@ -58,6 +50,10 @@ These days, players have reported the issue of black screen when loading a save 
  4) Click**Browse** .  
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/click-Browse.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Navigate to the drive on which you installed the game. Then open the folder **Program Files > Steam > steamapps > common > Cyberpunk 2077> bin > x64** . In the**x64** folder, select the**Cyberpunk 2077 Application** and then click**Open** .
 
@@ -67,12 +63,16 @@ These days, players have reported the issue of black screen when loading a save 
   
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/add-Cyberpunk-2077-to-the-list.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Now your game should be on the list. Also make sure it’s ticked for Private and Public. This will allow you to exclude the application from being blocked by the firewall.
 
 ![allow Cyberpunk 2077 through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/12/Cyberpunk-2077-is-ticked-for-private-and-public.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once done, simply click**OK** to save your changes. Then you can play your game to check if it does the trick. If the issue persists, proceed to the next fix.
@@ -88,7 +88,7 @@ These days, players have reported the issue of black screen when loading a save 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and [automatically](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
@@ -99,10 +99,6 @@ These days, players have reported the issue of black screen when loading a save 
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it. For NVIDIA graphics card users, you can also use the Geforce Experience application to update your driver.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -139,12 +135,16 @@ Here’s how it works:
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-Windows.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left panel, select**About** . Then scroll down to the**Windows specifications** section. From there, you’ll know your Windows version.  
   
 ![how to check your windows version](https://images.drivereasy.com/wp-content/uploads/2020/12/check-your-windows-version.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you’re told you’re up to date but still not getting version 20H2, you can further update your Windows by running[Windows 10 Update Assistant](https://www.microsoft.com/en-us/software-download/windows10) . Once you’re in the page, click**Update now** and the application will be downloading.
@@ -160,7 +160,7 @@ Here’s how it works:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Verify integrity of game files
@@ -182,7 +182,7 @@ Here’s how it works:
 ![verify integrity of game files Cyberpunk 2077](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### GOG GALAXY 2.0
@@ -204,7 +204,7 @@ Here’s how it works:
 ![Cyberpunk 2077 verify integrity of game files Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/12/verify-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  It may take several minutes to finish the process. Simply wait for it. Once done, try to load your game to check if it does the trick.
@@ -230,14 +230,24 @@ Here’s how it works:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-unveiling-simplicity-in-ipad-screen-saving-tactics/"><u>[New] In 2024, Unveiling Simplicity in iPad Screen Saving Tactics</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-elevated-viewership-status-symbolized-by-buttons/"><u>[Updated] Elevated Viewership Status Symbolized by Buttons</u></a></li>
-<li><a href="https://win-dash.techidaily.com/fixing-intel-graphics-drivers-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Fixing Intel Graphics Drivers on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-unstoppable-freezing-and-crashing-issues-with-nox-player-pc-version/"><u>Fixing Unstoppable Freezing and Crashing Issues with Nox Player PC Version</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-free-online-editors-the-essential-guide/"><u>In 2024, Free Online Editors The Essential Guide</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi 12</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000891408-quick-solutions-overcome-fortnite-sign-in-failures-now/"><u>Quick Solutions: Overcome Fortnite Sign-In Failures Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-no-sound-in-lost-ark-learn-how-to-get-audio-functionality-back/"><u>Trouble With No Sound in Lost Ark? Learn How to Get Audio Functionality Back</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secrets-understanding-the-release-roadblocks-for-guilty-gear-strive/"><u>Unlock the Secrets: Understanding the Release Roadblocks for Guilty Gear Strive</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-guide-icloud-drives-desktop-anddocuments-access-in-sierra-for-2024/"><u>[Complete Guide] iCloud Drive’s Desktop &Documents Access in Sierra for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-step-by-step-incorporating-new-fonts-into-after-effects/"><u>[New] 2024 Approved Step-by-Step Incorporating New Fonts Into After Effects</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-basic-scan-capture-program-windows-10/"><u>[New] In 2024, Basic Scan-Capture Program - Windows 10</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-quick-and-easy-gif-to-video-transition-tools-listed/"><u>[Updated] 2024 Approved Quick & Easy GIF-to-Video Transition Tools Listed</u></a></li>
+<li><a href="https://win-able.techidaily.com/behind-the-delays-unveiling-the-truth-about-guilty-gear-strives-release-status/"><u>Behind the Delays: Unveiling the Truth About Guilty Gear Strive's Release Status</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/breaking-down-the-latest-advancements-in-dji-mavic-3-photo-drones/"><u>Breaking Down the Latest Advancements in DJI Mavic 3 Photo Drones</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-fortnite-log-in-errors-with-these-swift-steps-now-playing/"><u>Bypass Fortnite Log-In Errors with These Swift Steps - Now Playing!</u></a></li>
+<li><a href="https://facebook.techidaily.com/choosing-a-trusted-virtual-gathering-place/"><u>Choosing a Trusted Virtual Gathering Place</u></a></li>
+<li><a href="https://win-answers.techidaily.com/complete-guide-resolving-full-game-crashes-in-horizon-forbidden-west-pc-tips/"><u>Complete Guide: Resolving Full Game Crashes in Horizon Forbidden West - PC Tips</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/diagnosing-and-fixing-clicking-hdd-issues-expert-advice-from-yl-software-professionals/"><u>Diagnosing and Fixing Clicking HDD Issues: Expert Advice From YL Software Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-when-your-wallpaper-engine-keeps-crashing-in-windows-1110/"><u>Effective Fixes When Your Wallpaper Engine Keeps Crashing in Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-amazon-prime-video-glitches-expert-tips-for-uninterrupted-viewing/"><u>Fixing Amazon Prime Video Glitches: Expert Tips for Uninterrupted Viewing</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-age-of-empires-iv-from-frequent-pc-crashes/"><u>Fixing the Issue: How to Stop Age of Empires IV From Frequent PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-phoenix-point-stutter-and-crash-problems-effectively/"><u>How to Repair Phoenix Point Stutter & Crash Problems Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-mapleworld-advanced-techniques-to-fix-game-crashes-in-windows-11-insights/"><u>Mastering MapleWorld: Advanced Techniques to Fix Game Crashes in Windows 11 - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-ensuring-a-smooth-run-of-back-blood-without-any-more-pc-crashes/"><u>Solved: Ensuring a Smooth Run of Back ^Blood Without Any More PC Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-ubisoft-connects-lagging-downloads-a-step-by-step-guide/"><u>Solving Ubisoft Connect's Lagging Downloads: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-tecno-spark-go-2023-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unveiling-the-future-of-image-preservation-stellar-launches-revolutionary-photo-recovery-and-repair-tool/"><u>Unveiling the Future of Image Preservation: Stellar Launches Revolutionary Photo Recovery & Repair Tool</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "'Days Gone': Play the Epic Open World PS4 Game Exclusively on PC"
-date: 2024-08-23T11:31:16.128Z
-updated: 2024-08-24T11:31:16.128Z
+date: 2024-12-12T16:55:12.460Z
+updated: 2024-12-19T18:20:16.367Z
 tags:
   - win11
   - win10
@@ -36,9 +36,17 @@ The PC version of Days Gone is a solid port of a great game. But performance iss
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the GENERAL tab, uncheck the box**Enable the Steam Overlay while in-game** .  
   
 ![Days Gone disable overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this didn’t work, move on to the next fix.
 
@@ -49,6 +57,10 @@ If this didn’t work, move on to the next fix.
  1) Open your Steam client. Under LIBRARY, right-click your game title and select**Properties** .  
   
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-disable-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select**LOCAL FILES** . Then click**Verify integrity of game files…** . This will take several minutes to complete.  
   
@@ -75,6 +87,10 @@ However, if this didn’t help, proceed to the next fix.
 
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/disaply-tab.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**CONFIRM** .  
   
 ![Days Gone adjust in-game settings](https://images.drivereasy.com/wp-content/uploads/2021/05/confirm-changes.jpg)
@@ -95,9 +111,6 @@ However, if this didn’t help, proceed to the next fix.
 
  Then save the changes and test your gameplay. If this didn’t give you any luck, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 4\. Update your graphics driver
 
  Low FPS, lagging gameplay, or poor graphics aren’t always caused by an old graphics card. Sometimes, updating your graphics driver can fix performance bottlenecks and introduce improvements that make your game significantly run smoother. Moreover, updating your graphics can ensure that you always have the newest features. Therefore, if you can’t remember when was the last time you updated your drivers, do it right now as it can make a big difference.
@@ -105,10 +118,9 @@ However, if this didn’t help, proceed to the next fix.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by heading to the manufacturer’s driver download page:
@@ -118,9 +130,6 @@ The powerful video editing program for your Windows PC</a>
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  As described above, updating drivers manually does require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -142,9 +151,6 @@ Here’s how to update drivers with Driver Easy:
 
  After updating your drivers, restart your PC and test the gameplay. If you can’t get a performance boost, don’t worry. Below are some other methods.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Disable fullscreen optimizations
 
  Many gamers found that there are certain CPU demanding games that are particularly affected by low FPS issues when enabling fullscreen optimizations. Although Days Gone might not be one of them, you can actually attempt to disable fullscreen optimizations to check if this helps improve your gaming experience:
@@ -157,9 +163,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-fullscreen-optimization.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  3) Check the box**Override high DPI scaling behavior** . Then click**OK** .  
   
 ![Days Gone disable fullscreen optimization](https://images.drivereasy.com/wp-content/uploads/2021/05/override-DPI-scaling.jpg)
@@ -170,6 +173,10 @@ Here’s how to update drivers with Driver Easy:
 
 If this didn’t make a difference, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Customize graphics performance preference
 
  Windows 10 allows users to assign graphics performance preference to specific programs. When you’re playing a PC game which is resource intensive, assigning the high performance preference can have a positive impact on your gameplay. Here’s how you can do this:
@@ -178,9 +185,6 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference ](https://images.drivereasy.com/wp-content/uploads/2021/05/display-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Scroll down and find**Graphics settings** and click on it.  
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-from-display.jpg)
@@ -189,29 +193,32 @@ If this didn’t make a difference, move on to the next fix.
   
 ![customize graphics performance preference](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-apps.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Then open your game’s installation folder. (Usually in C:Days goneDays GoneBendGameBinariesWin64) Click on**DaysGone.exe** and click**Add** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Options** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-options.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Select**High performance** and click**Save** .  
   
 ![customize graphics performance preference high performance Days gone](https://images.drivereasy.com/wp-content/uploads/2021/05/high-performance-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 After saving the changes, launch Days Gone and check if it helped.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Disable background apps
 
  You may not know that many apps run in the background at all times – even the ones you never use! They use a portion of your system resources, making your machine run a little bit slower. And this may result in poorer programs performance. To get rid of this, you can attempt to disable background apps:
@@ -226,15 +233,8 @@ After saving the changes, launch Days Gone and check if it helped.
   
 ![turn off background apps](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-off-background-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now launch Days Gone and check it can help fix the low frame rate.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 8\. Disable Windows 10 Game Mode
 
  Game Mode is a feature introduced to Windows 10 to make gaming a much better experience. But many PC gamers have noticed that with Game Mode enabled, performance issues such as poorer frame rates, stutters and freezes would arise. To prevent these from happening, you can follow the steps below to turn off Game Mode:
@@ -245,16 +245,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming-1200x674.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select**Game Mode** . Then click the toggle to turn Game Mode**Off** .  
   
 ![disable Windows 10 game mode](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-game-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve done this, you should be able to get a noticeable improvement.
 
 ---
@@ -267,8 +265,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +272,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-enhancing-your-discord-experience-with-recordings/"><u>[New] Enhancing Your Discord Experience with Recordings</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-mastering-cinematography-the-aspect-ratio-formula/"><u>[New] Mastering Cinematography The Aspect Ratio Formula</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-dissecting-youtube-copyright-vs-creative-commons-ethos/"><u>[Updated] In 2024, Dissecting YouTube Copyright Vs. Creative Commons Ethos</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-likes-and-videos-fast-track-to-insta-dominance-guide/"><u>[Updated] In 2024, Likes & Videos Fast Track to Insta Dominance Guide</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-unlocking-the-secrets-quickly-change-your-characters-vocal-tone-pubg-for-2024/"><u>[Updated] Unlocking the Secrets Quickly Change Your Character's Vocal Tone (PUBG) for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-a-beginners-pathway-to-innovative-snapchat-expressions/"><u>2024 Approved A Beginner's Pathway to Innovative Snapchat Expressions</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-rethinking-social-media-presence-in-light-of-instagrams-new-algorithm/"><u>2024 Approved Rethinking Social Media Presence in Light of Instagram's New Algorithm</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-solving-amazon-prime-video-connectivity-problems/"><u>Comprehensive Guide: Solving Amazon Prime Video Connectivity Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-resolving-discords-continuous-loading-problem-during-streaming/"><u>Effective Solutions for Resolving Discord's Continuous Loading Problem During Streaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-overwatch-from-crashing-due-to-graphics-drivers/"><u>How to Stop Overwatch From Crashing Due to Graphics Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-setup-eliminate-stutter-and-improve-divisions-2s-fps/"><u>Master Your Gaming Setup: Eliminate Stutter & Improve Divisions 2'S FPS</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-voice-control-integrating-chatgpt-in-android-via-voicegpt-platform/"><u>Mastering the Art of Voice Control: Integrating ChatGPT in Android via VoiceGPT Platform</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/quick-guide-the-most-effective-ways-to-save-fb-story-videos/"><u>Quick Guide The Most Effective Ways to Save FB Story Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-vrchat-loading-and-functionality-problems/"><u>Solution Steps for Overcoming VRChat Loading and Functionality Problems</u></a></li>
+</ul></div>
 

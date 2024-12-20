@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Address the 'Graphics Driver Crashed' Hurdle in Valorant Gaming
-date: 2024-08-27T20:30:53.322Z
-updated: 2024-08-28T20:30:53.322Z
+date: 2024-12-18T18:16:04.763Z
+updated: 2024-12-19T17:45:40.198Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8fe3e4daa8d42d226ab99d6ad95d4825a0edf9f54
 
 These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=c6e54ebd92da4ee8819c1c0956cebdc4)**  has seen a thriving surge among gamers. Overall, it is a game that players are enjoying. But the performance issues such as the game stutters and freezes during cutscenes or normal gameplay are plaguing them. These definitely will affect the gaming experience. But you can fix it on your own.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before taking any troubleshooting steps listed below, we recommend you switch to mouse and keyboard if you’re playing Outriders with a controller. Although it seems there’s nothing to do with your controller, many players did report on Reddit that switching to mouse and keyboard helped them mitigate their problems. So it’s worth a shot.
@@ -30,6 +34,10 @@ These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic
 5. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Install all Windows updates
 
@@ -62,8 +70,9 @@ Here’s how you can download and install Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click on the arrow next to**Display adapters** . Right-click your device and select**Properties** .  
   
 ![how to roll back NVIDIA driver](https://images.drivereasy.com/wp-content/uploads/2021/04/roll-back-your-drivers.png)
@@ -76,9 +85,6 @@ Here’s how you can download and install Windows updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. When you have performance issues on your game, your outdated or faulty graphics driver can be the culprit. To fix it, you need to update your graphics driver. This is pretty necessary, especially if you can’t remember when was the last time you updated it.
@@ -94,23 +100,18 @@ Here’s how you can download and install Windows updates:
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -125,12 +126,13 @@ Here’s how you can do this:
   
 ![switch to DX11 mode Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/DX11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
  After switching to DX11, play Outriders to check if it helps alleviate some stutters during your gameplay.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Verify integrity of game files
 
@@ -146,11 +148,19 @@ To verify the integrity of game files, take these steps:
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
  Once finished, play Outriders and check if your game still stutters a lot. If it is, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
 
@@ -164,9 +174,6 @@ To verify the integrity of game files, take these steps:
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Now play Outriders to see if you can get better gaming performance.
 
 ---
@@ -182,15 +189,13 @@ Now play Outriders to see if you can get better gaming performance.
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
  After you’ve done these, play Outriders to check if it should look better.
 
 ---
@@ -203,8 +208,6 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +215,20 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-funimate-pro-activation-guide-for-android-users/"><u>[Updated] 2024 Approved Funimate Pro Activation Guide for Android Users</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlocking-the-chest-of-free-fcp/"><u>[Updated] Unlocking the Chest of Free FCP</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-stability-improvements-for-risk-of-rain-2/"><u>Expert Guide: Stability Improvements for Risk of Rain 2</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-camerasection-breakdown-analysis/"><u>In 2024, CameraSection Breakdown Analysis</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lifecast-your-show-a-basic-podcast-streaming-strategy/"><u>In 2024, Lifecast Your Show A Basic Podcast Streaming Strategy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-oppo-reno-8t-5g-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Oppo Reno 8T 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-the-top-10-timing-apps-for-weddings-on-smartphones/"><u>In 2024, Unveiling the Top 10 Timing Apps for Weddings on Smartphones</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-for-correcting-the-directdraw-error-in-windows-systems/"><u>Solution Tips for Correcting the DirectDraw Error in Windows Systems</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-easy-way-out-windows-11s-silencing-methods/"><u>The Easy Way Out: Windows 11'S Silencing Methods</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-tier-audio-picks-for-gamers-comprehensive-reviews-by-tech-aficionados/"><u>Top-Tier Audio Picks for Gamers : Comprehensive Reviews by Tech Aficionados</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lag-problems-on-the-platformer-game-avatar-frontiers-of-pandora/"><u>Troubleshooting Lag Problems on the Platformer Game - Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-ark-fixes-for-smoother-graphics-and-speed/"><u>Troubleshooting Lost Ark – Fixes for Smoother Graphics and Speed</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/unbelievably-powerful-the-compact-8-in-1-adapter-that-exceeds-value-expectations-featured-on-zdnet/"><u>Unbelievably Powerful: The Compact 8-in-1 Adapter That Exceeds Value Expectations - Featured on ZDNet</u></a></li>
+</ul></div>
 

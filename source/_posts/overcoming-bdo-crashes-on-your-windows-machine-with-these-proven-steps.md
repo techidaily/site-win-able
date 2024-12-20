@@ -1,7 +1,7 @@
 ---
 title: Overcoming BDO Crashes on Your Windows Machine with These Proven Steps
-date: 2024-08-27T20:33:15.406Z
-updated: 2024-08-28T20:33:15.406Z
+date: 2024-12-18T17:43:27.384Z
+updated: 2024-12-19T18:37:24.361Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/05031c348e3a8b265ca81d9de600b6d3876929f77
 ## Comprehensive Guide to Fixing Microsoft Edge Crashes on Windows 10
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Common methods
 
@@ -35,8 +39,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -48,16 +53,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -74,13 +73,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -89,14 +89,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
@@ -111,8 +110,9 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -132,6 +132,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -145,14 +150,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
@@ -170,8 +173,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +180,26 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-instagrammable-vs-trendy-will-likebeat-tiktok/"><u>[New] 2024 Approved Instagrammable Vs. Trendy Will LikeBeat TikTok?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-stepwise-approach-to-mastering-vimeo-recording/"><u>[New] In 2024, Stepwise Approach to Mastering Vimeo Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-turning-tape-backwards-instagrams-video-trickery/"><u>[Updated] 2024 Approved Turning Tape Backwards Instagram's Video Trickery</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/a-deep-dive-into-gpts-security-landscape/"><u>A Deep Dive Into GPT’s Security Landscape</u></a></li>
+<li><a href="https://blog-min.techidaily.com/android-to-apple-how-to-transfer-photos-from-realme-v30-to-ipad-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Android to Apple How To Transfer Photos From Realme V30 to iPad Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-pc-lag-and-crashes-in-cyberpunk-2077-proven-strategies-for-smooth-gaming/"><u>Banish PC Lag and Crashes in Cyberpunk 2077: Proven Strategies for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/circuit-breaker-seven-hacks-to-restart-your-game-when-forza-horizon-5-freezes-on-startup/"><u>Circuit Breaker: Seven Hacks to Restart Your Game When Forza Horizon 5 Freezes on Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/configuring-hyper-v-environment-a-users-manual-for-windows-10-operating-systems/"><u>Configuring Hyper-V Environment: A User's Manual for Windows 10 Operating Systems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-honor-100-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Honor 100</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/how-to-stabilize-your-video-for-better-impressions-in-fcpx-in-2024/"><u>How to Stabilize Your Video for Better Impressions in FCPX, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-startup-problems-resolved-how-to-get-the-game-running-smoothly-again/"><u>MapleStory Startup Problems Resolved - How To Get The Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-boosted-eliminating-the-concurrent-2-fps-slump-now-solved/"><u>PC Gaming Boosted: Eliminating the Concurrent 2-FPS Slump - Now Solved</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/remedying-windows-unable-to-manage-default-audio-device/"><u>Remedying 'Windows Unable to Manage Default Audio Device'</u></a></li>
+<li><a href="https://win-able.techidaily.com/revamped-adventure-awaits-overcoming-issues-with-avatar-in-the-frontiers-of-pandora-on-your-computer/"><u>Revamped Adventure Awaits - Overcoming Issues with Avatar in the Frontiers of Pandora on Your Computer</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/safeguarding-data-exchange-expert-strategies-to-shield-from-wpa2-krack-exploits/"><u>Safeguarding Data Exchange: Expert Strategies to Shield From WPA2 KRACK Exploits</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-crashes-in-v-rising-game-on-pc-with-these-simple-steps/"><u>Solve Crashes in V-Rising Game on PC with These Simple Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-problem-overcome-the-nba-2k21-black-screen-glitch/"><u>Solve Your Problem: Overcome the NBA 2K21 Black Screen Glitch</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/top-10-no-cost-video-cutting-apps/"><u>Top 10 No-Cost Video Cutting Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-utorrent-issues-top-7-remedies-for-non-responsiveness/"><u>Troubleshooting Utorrent Issues - Top 7 Remedies for Non-Responsiveness</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steam Social Circle Problems? Here Are the Fixes You Need
-date: 2024-08-23T11:31:24.748Z
-updated: 2024-08-24T11:31:24.748Z
+date: 2024-12-14T16:40:57.084Z
+updated: 2024-12-19T19:01:30.002Z
 tags:
   - win11
   - win10
@@ -42,11 +42,17 @@ To clear Steam cache:
 3. Select**Web Browser** , then click**DELETE WEB BROWSER CACHE** and**DELETE ALL BROWSER COOKIES** respectively. Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1234.png)
 4. Exit Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Re-launch into Steam, then click if your friends list loads up fine. If yes, then great! If the**Friends Network Unreachable** error still pops up, please move on to**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Join or exit Steam Beta programs
 
  Steam Beta is a program/mode players can opt into and try out game updates and client updates before they officially go live. Since it is a program for testing, it could be prone to bugs causing the friends list loading problem. But in other cases, it is the offical version where the glitch exists.
@@ -61,17 +67,20 @@ Here’s how to join or exit Steam Beta programs:
 3. Select**Account** , then in Beta participation section, click**Change…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
-5. Exit Steam.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
+5. Exit Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
+
 ### Fix 3: Update your network adapter driver
 
  A network adapter driver is a piece of software that’s pivotal to the communication between your network adapter and your computer system. If the network adapter driver is wrong, outdated or corrupt, you may have unstable or poor internet, which potentially causes the Steam**Friends Network Unreachable** error. So you should update your network adapter driver to see if it solves the problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -86,15 +95,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Sign into Steam to see if your friends list loads up properly. If yes, you’ve resolved the issue. If it’s no joy, please try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Revert Steam to an older version
 
 **Friends Network Unreachable** error could be a bug in the current version. As a workaround, you could modify the properties and revert the client to an older version to see if it is the case.
@@ -110,9 +113,6 @@ The steps are as below:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/456.png)
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Power cycle your modem & router
 
  The**Friends Network Unreachable** error may result from an overflooded router&modem in your local network. To clear out the old memory, you can perform a power cycle for your modem router. Power cycling, which involves the turn-off-turn-on tricks, allows your network devices to cool off and get a new IP.
@@ -122,15 +122,21 @@ The steps are pretty easy:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
-2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+2. Wait **60 seconds**  for your modem (and your router) to cool off.
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Launch Steam and check if your friends list is available.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Is it a server issue?
 
@@ -148,8 +154,6 @@ The steps are pretty easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +161,26 @@ The steps are pretty easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-taking-over-ig-monthly-strategies-to-hit-the-1k-follower-goal/"><u>[New] 2024 Approved Taking Over IG Monthly Strategies to Hit the 1K Follower Goal</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-pixels-to-power-top-photo-editing-strategies-unlocked-for-2024/"><u>[New] Pixels to Power Top Photo Editing Strategies Unlocked for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-guide-top-9-tools-for-making-gifs/"><u>[Updated] The Ultimate Guide Top 9 Tools for Making GIFs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1-adquiera-la-licencia-total-de-winxvideo-ai-nuevo-paquete-con-actualizacion-gratuita/"><u>1. Adquiera La Licencia Total De Winxvideo AI: Nuevo Paquete Con Actualización Gratuita</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/a-step-by-step-guide-to-amplifying-content-and-ideas-with-chatgpt-technology/"><u>A Step-by-Step Guide to Amplifying Content & Ideas with ChatGPT Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-to-eliminate-the-dark-mode-dilemma-in-rainbow-six-siege-for-pc-gamers/"><u>Expert Advice to Eliminate the Dark Mode Dilemma in Rainbow Six Siege for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-vanguard-overcoming-error-code-0x00001338-n-on-windows-complete-guide/"><u>Fixing Call of Duty Vanguard: Overcoming Error Code 0X00001338 (N) on Windows - Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-warzone-black-screen-2024-tips/"><u>How to Fix Warzone Black Screen – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013898465-how-to-repair-your-windows-11-start-menu-problem-solved/"><u>How to Repair Your Windows 11 Start Menu – Problem Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edge-application-errors-on-windows-systems/"><u>How to Resolve Microsoft Edge Application Errors on Windows Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-solve-google-meets-camera-problem-a-complete-fix-guide/"><u>How to Successfully Solve Google Meet's Camera Problem - A Complete Fix Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-70-lite-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 70 Lite 5G Device SIM</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-creative-expression-adding-video-filters-in-zoom/"><u>In 2024, Mastering Creative Expression Adding Video Filters in Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/level-up-your-game-effective-methods-to-fix-battlefield-5-stuttering-and-delays/"><u>Level Up Your Game: Effective Methods to Fix Battlefield 5 Stuttering and Delays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-diablo-4-preventative-steps-for-a-smooth-gaming-experience/"><u>Mastering Diablo 4: Preventative Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-learn-the-best-6-alternative-streaming-platforms/"><u>New Learn The Best 6 Alternative Streaming Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-non-loading-twitch-broadcasts-with-these-7-tips/"><u>Troubleshoot Non-Loading Twitch Broadcasts with These 7 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-stop-halo-infinite-from-crashing-on-your-gaming-pc/"><u>Troubleshooting Guide: Stop Halo Infinite From Crashing on Your Gaming PC</u></a></li>
+<li><a href="https://techidaily.com/will-mov-files-play-on-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>Will MOV files play on Motorola ?</u></a></li>
+</ul></div>
 

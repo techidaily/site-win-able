@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Minecraft Performance Issues on Your PC"
-date: 2024-12-09T16:45:22.284Z
-updated: 2024-12-12T17:04:13.022Z
+date: 2024-12-12T19:44:40.644Z
+updated: 2024-12-19T18:15:13.879Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 
  Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System requirements
 
 | **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
@@ -68,7 +72,7 @@ thumbnail: https://thmb.techidaily.com/85dce2e7a62329814e9e3c20d7b6e75c4ef84f34c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the next fix.
@@ -94,7 +98,7 @@ If this doesn’t solve your problem, try the next fix.
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify your game files
@@ -106,10 +110,6 @@ If this doesn’t solve your problem, try the next fix.
 1. Open your Steam library and find Naraka: Bladepoint. Right-click the game then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
@@ -137,6 +137,10 @@ If this doesn’t solve your problem, try the next fix.
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Increase the virtual memory on your PC
 
  The developer suggests that insufficient virtual memory could interfere with the game’s performance, and lead to the crashing issue. You can check your virtual memory (paging file size) first, then configure the settings if needed.
@@ -155,13 +159,13 @@ If this doesn’t solve your problem, try the next fix.
 5. Now you’ll see the paging file size on your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
@@ -172,6 +176,10 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
 _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
@@ -181,10 +189,6 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your game still crashes, try the next fix.
 
@@ -197,19 +201,15 @@ If your game still crashes, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -235,6 +235,10 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
 **Here’s how to find out which one(s):**
@@ -242,10 +246,6 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
@@ -261,12 +261,12 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
@@ -299,22 +299,24 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-superior-psd-filters-galore/"><u>[New] In 2024, Superior PSD Filters Galore</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-aurora-hdr-reviews-is-aurora-hdr-a-good-choice/"><u>[Updated] In 2024, Aurora HDR Reviews Is Aurora HDR a Good Choice ?</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-oppo-reno-8t-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Oppo Reno 8T 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/1724766120166-2024/"><u>2024年注目のベスト! クリスマス期間限定 子ども達向けおすすめアニメ映画ランキング</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-nokia-c12-pro-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Nokia C12 Pro Without Volume Buttons | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/decode-the-culprit-expert-tips-on-fixing-persistent-phoenix-point-game-crash-issues/"><u>Decode the Culprit: Expert Tips on Fixing Persistent Phoenix Point Game Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-now-running-smoothly-on-your-pc-say-goodbye-to-troublesome-crashes/"><u>Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fifa-22-troubleshooting-guide-stop-your-game-from-crashing/"><u>FIFA 22 Troubleshooting Guide - Stop Your Game From Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-unresponsive-overwatch-on-your-pc-or-console/"><u>How to Fix Unresponsive Overwatch on Your PC or Console</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-precision-disabling-mouse-acceleration-on-a-mac-os/"><u>Mastering Precision: Disabling Mouse Acceleration on a Mac OS</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/mpow-microphone-trouble-heres-how-to-make-it-work-on-your-pc/"><u>MPOW Microphone Trouble? Here's How to Make It Work on Your PC</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/proven-methods-for-logging-digital-audio-data-for-2024/"><u>Proven Methods for Logging Digital Audio Data for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-2024-compatibility-issues-successfully-starting-modern-warfare-on-pc/"><u>Resolving 2024 Compatibility Issues - Successfully Starting Modern Warfare on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-team-fortress-2-keeps-crashing/"><u>Solved: Team Fortress 2 Keeps Crashing</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-kodi-errors-successfully-overcoming-the-directory-retrieval-hurdle/"><u>Troubleshooting Kodi Errors: Successfully Overcoming the Directory Retrieval Hurdle</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-stabilizing-slime-rancher-2-performance-on-windows-computers/"><u>Troubleshooting Steps for Stabilizing Slime Rancher 2 Performance on Windows Computers</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/zdnet-exposes-the-next-gen-ai-processor-from-microsoft-that-could-eclipse-apple-macbook-dominance-see-it-in-action/"><u>ZDNet Exposes the Next-Gen AI Processor From Microsoft That Could Eclipse Apple MacBook Dominance | See It in Action!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-the-ultimate-list-of-coolest-mc-homes-designed/"><u>[New] 2024 Approved The Ultimate List of Coolest MC Homes Designed</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes/"><u>[New] Simplifying Meeting Execution Combining Slack's Ease With Filmora' Writes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/authoritative-resource-streamlining-screencasts-on-the-go-with-mobizen/"><u>Authoritative Resource Streamlining Screencasts on the Go With Mobizen</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/effiziente-einrichtungshinweise-komplettieren-sie-ihr-pc-mit-der-winxdvd-programmierung/"><u>Effiziente Einrichtungshinweise: Komplettieren Sie Ihr PC Mit Der WinXDVD Programmierung</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fixing-crashes-and-hitches-in-your-gta-5-gameplay-experience/"><u>Expert Advice: Fixing Crashes and Hitches in Your GTA 5 Gameplay Experience</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-vivo-y100t-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Vivo Y100t Devices | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a05s-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A05s to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/iosandroid-leading-photo-writing-app-list/"><u>IOS/Android Leading Photo-Writing App List</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-puzzle-of-pc-performance-understanding-a-twin-decline-in-frames-per-second-fps/"><u>Solving the Puzzle of PC Performance: Understanding a Twin Decline in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://win-able.techidaily.com/team-fortress-not-launching-heres-how-you-can-get-it-running-again/"><u>Team Fortress Not Launching? Here's How You Can Get It Running Again!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-oneplus-ace-2-by-drfone-android/"><u>Three Ways to Sim Unlock OnePlus Ace 2</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-5-slick-online-apps-for-direct-gif-to-video-updates-for-2024/"><u>Top 5 Slick Online Apps for Direct GIF to Video Updates for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixes-for-common-crashes-in-chivalry-ii/"><u>Troubleshooting and Fixes for Common Crashes in Chivalry II</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-corrupted-disks-on-steam-platform-with-ease/"><u>Troubleshooting and Repairing Corrupted Disks on Steam Platform with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-helldivers-ii-wont-start-on-steam-and-solutions/"><u>Troubleshooting Guide: Why Helldivers II Won't Start on Steam & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-how-to-boost-fps-and-overcome-lag-in-resident-evil-village-pc-version/"><u>Ultimate Guide: How to Boost FPS and Overcome Lag in Resident Evil Village (PC Version)</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-to-fixing-alan-wake-2-game-crashes/"><u>Ultimate Troubleshooting Guide to Fixing Alan Wake 2 Game Crashes</u></a></li>
 </ul></div>
 

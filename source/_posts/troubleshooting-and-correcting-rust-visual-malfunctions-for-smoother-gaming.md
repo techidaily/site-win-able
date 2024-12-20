@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2024-12-11T17:02:43.238Z
-updated: 2024-12-12T16:02:17.263Z
+date: 2024-12-13T19:12:59.537Z
+updated: 2024-12-19T19:00:30.169Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix CoD Vanguard Crashing
 
@@ -54,6 +58,10 @@ Here’s how to use Fortect to run a Windows repair:
 3. Once finished, Fortectwill generate a detailed report of your computer health, which includes all issues detected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
@@ -90,6 +98,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -97,7 +109,7 @@ Here’s how to use Fortect to run a Windows repair:
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
@@ -122,21 +134,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -150,7 +158,7 @@ To check the specs of your PC:
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
@@ -162,7 +170,7 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -178,10 +186,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -191,10 +195,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -222,20 +222,24 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlining-the-capture-process-in-competitive-rl-gaming/"><u>[New] Streamlining the Capture Process in Competitive RL Gaming</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-meme-mastery-top-ten-designs-to-share-scream-and-chortle/"><u>[Updated] 2024 Approved Meme Mastery Top Ten Designs to Share, Scream & Chortle</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-step-by-step-approach-to-podcast-naming-and-50plus-dynamic-name-options-for-2024/"><u>[Updated] Step-by-Step Approach to Podcast Naming & 50+ Dynamic Name Options for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-overcoming-directx-compatibility-problems-in-battlefield-2042/"><u>Comprehensive Guide: Overcoming DirectX Compatibility Problems in Battlefield 2042</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-resolve-rainbow-six-extraction-stalling-and-freezing-on-windows-pcs/"><u>Effective Solutions to Resolve Rainbow Six Extraction Stalling and Freezing on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-access-to-gpt-4-achieved-but-dont-discard-chatgpt-plus-just-yet-here-are-six-reasons-why/"><u>Free Access to GPT-4 Achieved, but Don't Discard ChatGPT Plus Just Yet – Here Are Six Reasons Why</u></a></li>
-<li><a href="https://win-able.techidaily.com/half-life-alyx-performance-issues-addressed-resolving-pc-lags-and-stutters/"><u>Half-Life: Alyx Performance Issues Addressed – Resolving PC Lags and Stutters</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-get-the-latest-drivers-for-your-logiteeck-mk710-keyboard-downloaded/"><u>How to Get the Latest Drivers for Your Logiteeck MK710 Keyboard Downloaded</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-wondering-the-best-alternative-to-hola-on-vivo-v29e-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>In 2024, Wondering the Best Alternative to Hola On Vivo V29e? Here Is the Answer | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-launch-hurdle-baldurs-gate-3-is-finally-available/"><u>Overcoming the Launch Hurdle: Baldur's Gate 3 Is Finally Available</u></a></li>
-<li><a href="https://howto.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-samsung-galaxy-s24-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Samsung Galaxy S24 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-preventing-immortals-fenyx-rising-from-releasing-corrected/"><u>Resolved: Issues Preventing Immortals Fenyx Rising From Releasing Corrected</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-how-to-restore-sounds-and-fix-audio-issues-in-your-minecraft-game-on-desktop/"><u>Solved! How to Restore Sounds and Fix Audio Issues in Your Minecraft Game on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005398019-steam-remote-play-malfunction-discover-effective-solutions-here/"><u>Steam Remote Play Malfunction? Discover Effective Solutions Here</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-details-below-can-help-you-make-color-correction-simply-in-final-cut-pro/"><u>The Details Below Can Help You Make Color Correction Simply in Final Cut Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-broadcast-brilliance-transforming-fb-live-for-tv/"><u>[New] 2024 Approved Broadcast Brilliance Transforming FB Live for TV</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-vimeo-vips-engaging-on-snapchat/"><u>[New] Vimeo VIPs Engaging on Snapchat</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-unleashing-creativity-the-essential-guide-to-desktop-video-posts-on-instagram/"><u>[Updated] In 2024, Unleashing Creativity The Essential Guide to Desktop Video Posts on Instagram</u></a></li>
+<li><a href="https://fox-where.techidaily.com/achieve-peak-efficiency-for-your-pc-with-expert-advice-by-yl-software-specialists/"><u>Achieve Peak Efficiency for Your PC with Expert Advice by YL Software Specialists</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-back-your-preferred-dark-interface-on-facebook-easily/"><u>Bringing Back Your Preferred Dark Interface on Facebook Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expand-your-play-a-comprehensive-guide-to-setting-up-extra-storage-for-xbox-one-games/"><u>Expand Your Play: A Comprehensive Guide to Setting Up Extra Storage for Xbox One Games</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-lenovo-thinkphone-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Lenovo ThinkPhone? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/installing-windows-11-on-incompatible-cpus-a-step-by-step-solution-with-revouninstaller/"><u>Installing Windows 11 on Incompatible CPUs: A Step-by-Step Solution with Revouninstaller</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/spanish-verb-conjugation-regular-and-irregular-verbs/"><u>Spanish Verb Conjugation: Regular and Irregular Verbs</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-replicating-conditional-formatting-rules-in-excel/"><u>Step-by-Step Guide: Replicating Conditional Formatting Rules in Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-process-bypassing-alert-messages-in-ms-office-suite/"><u>Step-by-Step Process: Bypassing Alert Messages in MS Office Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-accessing-the-developer-toolbar-within-the-microsoft-office-interface/"><u>Step-by-Step Tutorial on Accessing the Developer Toolbar Within the Microsoft Office Interface</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-clearing-extraneous-space-characters-in-ms-excel-cells/"><u>Step-by-Step Tutorial on Clearing Extraneous Space Characters in MS Excel Cells</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-event-planning-using-microsoft-excel-template-solutions/"><u>Streamline Your Event Planning Using Microsoft Excel Template Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/streamline-your-workflow-create-multiple-folders-fast-using-excel-techniques/"><u>Streamline Your Workflow: Create Multiple Folders Fast Using Excel Techniques.</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-essential-android-applications-for-optimal-chromebook-experience/"><u>Top Essential Android Applications for Optimal Chromebook Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/transforming-your-microsoft-office-aesthetics-an-easy-guide-to-altering-color-schemes/"><u>Transforming Your Microsoft Office Aesthetics: An Easy Guide to Altering Color Schemes</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-compatibility-mode-in-ms-office-a-detailed-overview/"><u>Understanding Compatibility Mode in MS Office: A Detailed Overview</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/verizon-and-the-evolving-world-of-5g-technology-today/"><u>Verizon and the Evolving World of 5G Technology Today</u></a></li>
 </ul></div>
 

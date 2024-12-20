@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-12-08T16:21:54.910Z
-updated: 2024-12-12T16:49:19.874Z
+date: 2024-12-14T16:27:56.531Z
+updated: 2024-12-19T16:43:13.941Z
 tags:
   - win11
   - win10
@@ -65,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -106,7 +98,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -117,19 +109,23 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -145,11 +141,19 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -166,10 +170,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,16 +193,21 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-chuckle-chest-premium-selection-of-gratuitous-gags/"><u>[New] In 2024, Chuckle Chest Premium Selection of Gratuitous Gags</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-bloodhunt-keeps-hiccuping-or-crashing-during-gameplay/"><u>Easy Fixes for When Bloodhunt Keeps Hiccuping or Crashing During Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-maplestory-issues-on-windows-10-top-strategies/"><u>Fixing Persistent MapleStory Issues on Windows 10 (Top Strategies )</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-get-a-grip-on-your-footage-fcpx-video-stabilization-made-easy/"><u>In 2024, Get a Grip on Your Footage FCPX Video Stabilization Made Easy</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quick-clicks-big-smiles-crafting-memes-easily-for-2024/"><u>Quick Clicks, Big Smiles Crafting Memes Easily for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/triumph-through-film-the-top-10-motivating-titles-for-2024/"><u>Triumph Through Film The Top 10 Motivating Titles for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-oxygen-not-included-crashes-effective-solutions-inside/"><u>Troubleshooting 'Oxygen Not Included' Crashes: Effective Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-days-gone-game-crashes-a-step-by-step-guide/"><u>Troubleshooting the 'Days Gone' Game Crashes : A Step-by-Step Guide</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/ultimate-guide-to-the-premier-magsafe-power-packs-of-2nndie-in-depth-analysis-and-ratings/"><u>Ultimate Guide to the Premier MagSafe Power Packs of 2Nndie: In-Depth Analysis and Ratings</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-peaceful-pc-game-list/"><u>[New] 2024 Approved Essential Peaceful PC Game List</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-creating-an-auditory-ambiance-choosing-background-music-for-trailers-for-2024/"><u>[New] Creating an Auditory Ambiance Choosing Background Music for Trailers for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-theory-to-canvas-color-essentials/"><u>[New] From Theory to Canvas Color Essentials</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-essential-guide-to-aspect-ratios-for-effective-youtube-engagement/"><u>[Updated] In 2024, Essential Guide to Aspect Ratios for Effective YouTube Engagement</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-unlocking-value-for-vendors-and-viewers-through-youtuber-sponsorship-for-2024/"><u>[Updated] Unlocking Value for Vendors and Viewers Through YouTuber Sponsorship for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/earphone-showdown-galaxy-buds-2-pro-pixel-buds-pro-and-airpods-pro-compared-find-your-perfect-fit/"><u>Earphone Showdown: Galaxy Buds 2 Pro, Pixel Buds Pro & AirPods Pro Compared - Find Your Perfect Fit!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/easy-methods-to-cancel-and-clear-out-your-chatgpt-account/"><u>Easy Methods to Cancel and Clear Out Your ChatGPT Account</u></a></li>
+<li><a href="https://win-able.techidaily.com/evil-genius-2-issue-fixing-the-silent-game-with-easy-solutions/"><u>Evil Genius 2 Issue: Fixing the Silent Game with Easy Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-troubleshoot-alienware-command-center-issues/"><u>Fixes & Solutions: How To Troubleshoot Alienware Command Center Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000959618-halo-infinite-smoother-than-ever-fix-for-graphics-glitches-unveiled/"><u>Halo Infinite Smoother Than Ever! Fix for Graphics Glitches Unveiled.</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-sim-unlock-code-generators-unlock-your-samsung-galaxy-s21-fe-5g-2023-phone-hassle-free-by-drfone-android/"><u>In 2024, The Best Android SIM Unlock Code Generators Unlock Your Samsung Galaxy S21 FE 5G (2023) Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007106041-outlook-wont-connect-fix-it-now-with-these-expert-tips/"><u>Outlook Won't Connect? Fix It Now with These Expert Tips</u></a></li>
+<li><a href="https://win-hot.techidaily.com/top-rated-photoshop-tools-for-effortless-removal-of-unwanted-elements-from-images/"><u>Top Rated Photoshop Tools for Effortless Removal of Unwanted Elements From Images</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-constant-dayz-game-crashing-issues/"><u>Troubleshoot and Resolve Constant DayZ Game Crashing Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-in-bloodhunt-eliminating-freezes-and-stutters/"><u>Troubleshooting PC Problems in Bloodhunt: Eliminating Freezes & Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-solving-naraka-point-aeons-game-latency-problems/"><u>Troubleshooting Techniques: Solving Naraka Point Aeon's Game Latency Problems</u></a></li>
 </ul></div>
 

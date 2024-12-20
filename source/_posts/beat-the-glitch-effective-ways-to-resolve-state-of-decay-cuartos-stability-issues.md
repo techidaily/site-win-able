@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: Effective Ways to Resolve State of Decay Cuarto's Stability Issues"
-date: 2024-12-10T16:00:00.992Z
-updated: 2024-12-12T16:23:42.725Z
+date: 2024-12-18T18:39:35.595Z
+updated: 2024-12-19T17:28:04.367Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -39,7 +39,7 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 7. **[Disable in-game V-Sync](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/8873a1de6b737b1bdaf613e6b23cabb06e207ebbc
 | **OS:**           | Windows 10 (64 bit only)                             |
 
  If Watch Dogs: Legion crashes on your high-end gaming PC, you can continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of game files
 
@@ -74,6 +78,10 @@ Now you can launch Watch Dogs: Legion and see if it crashes again.
 
  If Watch Dogs: Legion crashes after verifying your game files, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, one tackles security issues and another offers a periodic performance boost. In most cases,**keeping your system up-to-date** can avoid lots of strange issues.
@@ -91,10 +99,6 @@ Here’s a quick guide:
  Once you’ve installed all the system updates, restart your computer and test your gameplay in Watch Dogs: Legion.
 
  If this method doesn’t give you luck, simply move on to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -120,16 +124,8 @@ Here’s a quick guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -150,25 +146,21 @@ So here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-02.jpg)
 3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
 
 Now you can launch Watch Dogs: Legion and check if the crash stops.
 
  If this trick doesn’t help your case, simply**undo the changes** and continue to the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Stop overclocking your hardware
 
  As we all know that**overclocking** is basically a zero-cost performance booster, be advised that it could also trigger**instability** of your game or system. So if you’re running overclocking software like**MSI Afterburner** and**Intel Extreme Tuning Utility (Intel XTU)** , or you’re overclocking using**BIOS settings** , try disabling them and check if Watch Dogs: Legion crashes again.
 
  If you’re not overclocking your hardware, simply check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 7: Disable in-game V-Sync
 
@@ -183,7 +175,15 @@ To do so, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-2.jpg)
 3. Set V-Sync to**Off** . Then on your keyboard, press the**space bar** to apply the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can test your gameplay in Watch Dogs: Legion.
 
@@ -208,17 +208,20 @@ Now you can test your gameplay in Watch Dogs: Legion.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-straightening-drone-shake-a-video-guide/"><u>[New] Straightening Drone Shake A Video Guide</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-learn-to-cropping-and-composition-the-audio-visual-balance-in-canvas/"><u>[Updated] Learn to Cropping & Composition The Audio-Visual Balance in Canvas</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-days-gone-freezing-problems-in-your-2024-gameplay/"><u>Expert Tips to Overcome 'Days Gone' Freezing Problems in Your 2024 Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-helldivers-ii-troubleshooting-the-black-screen-at-game-start/"><u>Fixing Helldivers II: Troubleshooting the Black Screen at Game Start</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/get-anthems-game-sounds-working-again-on-your-new-windows-11-pc/"><u>Get Anthem's Game Sounds Working Again on Your New Windows 11 PC</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/how-to-diagnose-and-fix-error-code-0xc0000185-in-your-computer-system/"><u>How to Diagnose and Fix Error Code 0Xc0000185 in Your Computer System</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-fix-it-motorola-moto-g23-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Motorola Moto G23 Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-iiis-successor-delayed-is-the-definitive-edition-cancelled/"><u>Mafia III's Successor Delayed: Is the Definitive Edition Cancelled?</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-keeping-pc-fall-guys-running-smoothly/"><u>Resolving Performance Hiccups: Keeping [PC] Fall Guys Running Smoothly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/revive-your-windows-10-search-feature-with-these-proven-solutions/"><u>Revive Your Windows 10 Search Feature with These Proven Solutions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/the-impact-of-unmatched-ftdi-drivers-on-maintaining-memory-system-reliability-and-integrity/"><u>The Impact of Unmatched FTDI Drivers on Maintaining Memory System Reliability and Integrity</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-solutions-how-to-fix-forza-horizon-4-not-starting/"><u>Top Solutions: How To Fix Forza Horizon 4 Not Starting</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-intova-edge-x-a-deep-dive-into-video-capture/"><u>[New] In 2024, Intova Edge X A Deep Dive Into Video Capture</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-ranking-the-top-5-instant-frame-recorder-apps/"><u>[Updated] 2024 Approved Ranking the Top 5 Instant Frame Recorder Apps</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-banner-design-rules-for-top-youtube-channels/"><u>[Updated] In 2024, Essential Banner Design Rules for Top YouTube Channels</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-social-media-live-showdown-facebook-vs-youtube-and-twitter-periscope/"><u>[Updated] In 2024, Social Media Live Showdown Facebook Vs. YouTube & Twitter Periscope</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-beyond-illusions-examining-vrs-disadvantages/"><u>2024 Approved Beyond Illusions Examining VR's Disadvantages</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-tailor-your-vocal-expression-masterful-techniques-for-snapchat-voices/"><u>2024 Approved Tailor Your Vocal Expression Masterful Techniques for Snapchat Voices</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-desert-on-pc-overcoming-persistent-gameplay-crashes-successfully/"><u>Black Desert on PC - Overcoming Persistent Gameplay Crashes Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/dayz-low-fps-woes-learn-swift-techniques-for-smooth-gaming-now/"><u>DayZ Low FPS Woes? Learn Swift Techniques for Smooth Gaming Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-solutions-for-resolving-freezing-issues-in-playstation-4-systems/"><u>DIY Solutions for Resolving Freezing Issues in PlayStation 4 Systems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-zte-axon-40-lite-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do ZTE Axon 40 Lite Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/nighttime-iphone-photography-secrets-revealed-for-2024/"><u>Nighttime iPhone Photography Secrets Revealed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-guide-fixing-pc-issues-for-a-smooth-cult-of-the-lamb-gaming-experience/"><u>Optimized Guide: Fixing PC Issues for a Smooth 'Cult of the Lamb' Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-crashes-troubleshooting-guide-for-uninterrupted-gameplay-in-thunder-tier-one/"><u>Overcome Crashes: Troubleshooting Guide for Uninterrupted Gameplay in Thunder Tier One</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-disruptions-in-mass-effect-legendary-edition-fixes-for-pc-and-xbox-users/"><u>Preventing Disruptions in Mass Effect Legendary Edition - Fixes for PC & Xbox Users</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-faulty-volume-shadows-in-win/"><u>Troubleshooting Faulty Volume Shadows in Win</u></a></li>
 </ul></div>
 

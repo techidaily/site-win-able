@@ -1,7 +1,7 @@
 ---
 title: "Fixes & Solutions: Overcoming the [SOLVED] 'The Ascent' Game Crash Issues on Windows"
-date: 2024-08-23T11:30:32.269Z
-updated: 2024-08-24T11:30:32.269Z
+date: 2024-12-14T18:58:14.338Z
+updated: 2024-12-19T17:56:56.031Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Here’s how:
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, restart Halo Infinite and check if the issue persists.
 
 If this doesn’t stop the crash, take a look at the next fix.
@@ -58,14 +62,13 @@ Here’s how to disable Steam Overlay:
 2. Right click **Halo Infinite** and select **Properties..** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. Uncheck the box before**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-overlay-2.jpg)
+
 Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
@@ -88,34 +91,22 @@ Now check if you can play Halo Infinite normally.
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and check if Halo Infinite crashes again.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Check for conflicting programs
 
  According to some players, Halo Infinite doesn’t get along well with some hardware-monitoring tools. So you can check if your PC is running programs like**MSI Afterburner** and**Razer Synapse** . If you do, close them and check if that fixes the problem. Also, check if the game runs better without controllers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable fullscreen optimizations
 
  Windows 10 comes with a built-in feature called fullscreen optimizations, which should theoretically improve performance of fullscreen apps. But some players have reported that this would sometimes crash the game. So you can try to turn it off and see if this is the issue.
@@ -126,28 +117,22 @@ MSI Afterburner
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now restart your game and check the gameplay.
 
 If this trick doesn’t give you luck, simply try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Check for system updates
 
  Windows 10/11 offers system updates regularly, which usually improves system stability and sometimes in-game performance. Normally it’s an automated process, but you can also check to make sure you have all the patches:
@@ -162,8 +147,9 @@ If this trick doesn’t give you luck, simply try the next one.
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Windows 11
 
 1. On your keyboard, hit the**Windows** key, then type**check for update** s, then click C**heck for updates** .  
@@ -172,18 +158,16 @@ If this trick doesn’t give you luck, simply try the next one.
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
 
 If the latest updates don’t work for you, try the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Check your DLC
 
  Halo Infinite is a big title that comes with multiple DLCs, but some of them might not work so well in the beta. Halo fans have discovered a potential fix to the crash, which is to disable a specific DLC named**Multiplayer High-Res Textures** . Some players reported this pack is causing performance issues, so you can try to toggle it on/off and see how things go.
@@ -193,6 +177,14 @@ Here’s how:
 1. Open your Steam client and go to **LIBRARY** . Right-click **Halo Infinite** and select **Properties..** .
 2. In the left pane, select**DLC** . Uncheck the box before**Multiplayer High-Res Textures** . Then restart your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Scan and repair Windows
 
@@ -204,10 +196,16 @@ Here’s how:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -223,8 +221,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +228,17 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-skew-it-right-a-step-by-step-guide-for-photo-warping/"><u>[New] Skew It Right A Step-by-Step Guide for Photo Warping</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-step-by-step-guide-adding-tracks-to-premiere-pro-projects/"><u>2024 Approved Step-by-Step Guide Adding Tracks to Premiere Pro Projects</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini, Apples New iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multi-fps-reduction-insights-for-enhanced-pc-game-performance/"><u>Mastering Multi-FPS Reduction: Insights for Enhanced PC Game Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-road-uninterrupted-solutions-to-forza-horizon-3-pc-glitches/"><u>Mastering the Road, Uninterrupted: Solutions to Forza Horizon 3 PC Glitches</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professionalizing-your-youtube-income-with-universal-tech-tips-for-2024/"><u>Professionalizing Your YouTube Income with Universal Tech Tips for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-resolving-the-0xc000012f-glitch-on-your-pc/"><u>Simple Solutions: Resolving the 0xC000012F Glitch on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-final-era-not-starting-issue-comprehensive-solutions/"><u>Solving the 'Final Era Not Starting' Issue: Comprehensive Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/street-fighter-6-tweaks-to-get-you-the-lowest-possible-ping-on-pc-gaming-rigs/"><u>Street Fighter 6 Tweaks to Get You the Lowest Possible Ping on PC Gaming Rigs</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Oppo Find N3? | Dr.fone</u></a></li>
+</ul></div>
 

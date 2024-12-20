@@ -1,7 +1,7 @@
 ---
 title: DIY Fixes for Overcoming the DirectX Error in FIFA 19 Gameplay
-date: 2024-08-23T11:30:48.571Z
-updated: 2024-08-24T11:30:48.571Z
+date: 2024-12-12T19:25:20.100Z
+updated: 2024-12-19T19:25:56.365Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 4. **[Update network adapter drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Swap Wifi to Ethernet connection](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Stop other bandwidth-intensive activities
 
  Bandwidth hogging applications will slow down your network speed and trigger latency issues. Make sure you shut down all the other resource-hungry programs before streaming with OBS; if it’s your family members or friends who are doing bandwidth-intensive activities, just pick another time to stream or ask them politely to give way to you.
@@ -43,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. Type in **resmon** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive understanding of what process is now using the most of your bandwidth.
 
@@ -56,15 +64,16 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
  If you find no luck getting closer to the solution, you should proceed to Fix 2.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Use “flushdns” command
 
  This command is pretty useful to solve network-related issues. When you’re having major lag spikes in games or just feel that your network connection is unstable/stops working, you should always give this fix a try.
@@ -73,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Click **Yes** if you’re prompted about permission.
 
 2) In your command prompt window, enter the following command:
@@ -114,13 +120,14 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-596.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 wireless router
 
 2) Wait at least 30 seconds to let the two machines cool down a bit.
@@ -153,17 +160,11 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
@@ -171,9 +172,9 @@ wireless router
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Swap Wifi to Ethernet connection
 
  If none of the fixes above work out for you, then maybe you should shift your focus to the Wi-Fi signals around (only if you’re a Wi-Fi user). Admittedly, the wireless network is not as stable as a wired network so you’ll get more interruptions for having your computer connected to Wi-Fi. Say, when you’re streaming videos or playing games far away from your router, the Wi-Fi signals you receive can be rather weak and hence the reason for latency.
@@ -227,26 +228,29 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now check to see whether your lag issue with OBS has been mitigated or resolved.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4\. Lower in-game graphics settings
 
  To free up some resources on your GPU, you should turn down the graphics settings of any games running in the meantime. (Surely there’s no need to do that if you’re not streaming a game.) Then, wait to see if you’re still experiencing lag issues with OBS.
@@ -265,8 +269,6 @@ wireless router
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -274,4 +276,22 @@ wireless router
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/-compre-written-in-code-deciphering-youtube-backlink-building-techniques/"><u>[New] A Compre Written in Code Deciphering YouTube Backlink Building Techniques</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-essential-tips-recording-every-moment-of-skype-on-obs/"><u>2024 Approved Essential Tips Recording Every Moment of Skype on OBS</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-seamless-zooms-check-out-our-top-10-video-editors/"><u>2024 Approved Seamless Zooms? Check Out Our Top 10 Video Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-solved-game-stability-for-windows-11-operating-system/"><u>Dragon Age: Origins - Solved Game Stability for Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-dangerous-pc-version-stability-improvements-no-more-crashes/"><u>Elite Dangerous PC Version Stability Improvements – No More Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-racing-adventure-updating-gpu-driver-in-forza-horizon-5/"><u>Enhance Your Racing Adventure: Updating GPU Driver in Forza Horizon 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-errors-what-to-do-when-qbittorrent-performance-drops/"><u>Fixing Errors: What to Do When qBittorrent Performance Drops</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-realme-c67-4g-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Realme C67 4G Pattern Lock Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
+<li><a href="https://os-tips.techidaily.com/four-proven-methods-to-fix-iphone-software-update-issues-averting-the-update-unsuccessful-message/"><u>Four Proven Methods to Fix iPhone Software Update Issues: Averting the 'Update Unsuccessful' Message</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-critical-error-ntdlldll-failed-to-load-on-pc/"><u>How to Resolve Window's Critical Error: ntdll.dll Failed To Load on PC</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-vivo-x90s-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Vivo X90S | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-srt-revisited-direct-conversion-to-subcap/"><u>In 2024, SRT Revisited Direct Conversion to SUBCAP</u></a></li>
+<li><a href="https://techidaily.com/is-your-honor-90-gt-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Honor 90 GT working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Your Mass Effect Legendary Edition Won't Start"
-date: 2024-08-27T20:29:33.807Z
-updated: 2024-08-28T20:29:33.807Z
+date: 2024-12-12T17:37:14.151Z
+updated: 2024-12-19T18:34:57.690Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Clear game cache](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the server status
 
  The best way to check the server status is through the official channels. The[Apex Legends Twitter](https://twitter.com/PlayApex) account and the[EA Help](https://twitter.com/EAHelp?lang=en) account offer support for Apex Legends. Also, there’re third-party sites that keeping updating server status.
@@ -44,8 +48,9 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 If it’s not the server, please move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -58,24 +63,30 @@ If it’s not the server, please move to the next method.
 1. Type**Control Panel** on the search bar and click to open.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-02-47.jpg)
 2. Set Control Panel**View by Category** , then click**Network and Internet** .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-08.jpg)
 3. Click**Network and Sharing Center >** **Change adapter settings** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-03-28.jpg)
 4. Select the connection you want to configure Google Public DNS, right-click it, and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Reboot the game and check.
 
 ### Method 3: Run as administrator
@@ -87,15 +98,9 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Update your drivers
 
  Check your PC network adapter driver is also important. This driver would affect your internet connection when it’s outdated or broken. Updating the driver would simply fix this issue and improve your PC performance.
@@ -153,8 +158,6 @@ If this method doesn’t help, please move to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +165,20 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/biomutant-game-crash-solutions-comprehensive-troubleshooting-guide/"><u>Biomutant Game Crash Solutions - Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://apple-account.techidaily.com/can-i-remove-the-apple-watch-activation-lock-by-apple-iphone-14-without-the-previous-owner-by-drfone-ios/"><u>Can I Remove the Apple Watch Activation Lock By Apple iPhone 14 without the Previous Owner?</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-conquer-the-2022-leaf-bug-your-step-by-step-apex-legends-error-fix/"><u>Decode and Conquer the 2022 Leaf Bug: Your Step-by-Step Apex Legends Error Fix</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-your-media-essential-flv-to-youtube-applications-ranked/"><u>Direct Your Media Essential Flv-to-YouTube Applications Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/expertly-tested-strategies-ending-vrchat-pc-malfunctions-in-8-steps/"><u>Expertly Tested Strategies: Ending VRChat PC Malfunctions in 8 Steps</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-poco-x5-pro-by-drfone-android/"><u>How to Bypass FRP on Poco X5 Pro?</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-lava-blaze-curve-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Lava Blaze Curve 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hyperfast-picture-explorer-on-windows-11-for-2024/"><u>Hyperfast Picture Explorer on Windows 11 for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/master-your-system-settings-a-step-by-step-tutorial-on-editing-registry-entries-via-revo-uninstaller/"><u>Master Your System Settings: A Step-by-Step Tutorial on Editing Registry Entries via Revo Uninstaller</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-overcoming-frequent-pc-shutdowns-while-playing-alien-fireteam-elite/"><u>Mastering Stability: Overcoming Frequent PC Shutdowns While Playing Alien: Fireteam Elite</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010787943-modern-warfare-woes-no-more-your-ultimate-guide-to-overcoming-dev-error-6034-on-ps-xbox-and-pc/"><u>Modern Warfare Woes No More: Your Ultimate Guide to Overcoming Dev Error 6034 on PS, Xbox & PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/rogue-company-stabilization-effective-solutions-for-windows-users/"><u>Rogue Company Stabilization: Effective Solutions for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

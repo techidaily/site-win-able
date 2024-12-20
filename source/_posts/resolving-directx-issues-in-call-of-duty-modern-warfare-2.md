@@ -1,7 +1,7 @@
 ---
 title: "Resolving DirectX Issues in Call of Duty: Modern Warfare 2"
-date: 2024-08-27T20:32:13.449Z
-updated: 2024-08-28T20:32:13.449Z
+date: 2024-12-12T17:36:13.914Z
+updated: 2024-12-19T16:37:29.846Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/4f442cf2fb2227aedd89e7821028b21747d22144c
 ## Resolved Problems in Call of Duty: Modern Warfare FPS - Enjoy the Fixes and Features
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -63,6 +67,10 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 ### Fix 3: Update your graphics driver
@@ -75,21 +83,20 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -99,10 +106,16 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
@@ -111,9 +124,6 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
@@ -121,8 +131,9 @@ And it’s quite easy to update too:
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -134,16 +145,8 @@ Here’s how to enable this power plan:
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
@@ -160,8 +163,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +170,23 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-diving-into-the-world-of-instagrams-reels-and-stories/"><u>[Updated] In 2024, Diving Into the World of Instagram's Reels & Stories</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-disruptions-in-virtual-reality-gaming-eight-strategies-to-fix-vrchat-pc-problems/"><u>Avoid Disruptions in Virtual Reality Gaming: Eight Strategies to Fix VRChat PC Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-practices-to-prevent-and-fix-recurring-outlook-program-crashes/"><u>Best Practices to Prevent and Fix Recurring Outlook Program Crashes</u></a></li>
+<li><a href="https://driver-install.techidaily.com/bridge-the-gap-usbasp-compatibility-across-versions/"><u>Bridge the Gap: USBasp Compatibility Across Versions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/cant-find-your-flv-file-expert-tips-on-retrieving-deleted-video-formats-successfully/"><u>Can't Find Your FLV File? Expert Tips on Retrieving Deleted Video Formats Successfully</u></a></li>
+<li><a href="https://win-web.techidaily.com/complete-instructions-for-disablinguninstalling-scanner-apps-on-windows-yls-computing-experts/"><u>Complete Instructions for Disabling/Uninstalling Scanner Apps on Windows – YL's Computing Experts</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/easy-tutorial-how-to-enjoy-multimedia-content-on-amazons-kindle-fire-devices/"><u>Easy Tutorial: How to Enjoy Multimedia Content on Amazon's Kindle Fire Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-call-of-duty-warzone-wont-start/"><u>Effective Solutions When Call of Duty Warzone Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/endless-game-interruptions-learn-how-to-stop-dread-hunger-from-freezing-your-pc/"><u>Endless Game Interruptions? Learn How to Stop Dread Hunger From Freezing Your PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/illuminating-imagery-mastering-three-key-insta-hits/"><u>Illuminating Imagery Mastering Three Key Insta Hits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/inside-look-at-instagrams-subtle-yet-powerful-features-for-2024/"><u>Inside Look at Instagram's Subtle Yet Powerful Features for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-fast-and-free-dailymotion-to-mp3-converter-online/"><u>New 2024 Approved Fast and Free Dailymotion to MP3 Converter Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-system-to-combat-high-cpu-usage-while-playing-phasmophobia/"><u>Optimizing Your System to Combat High CPU Usage While Playing Phasmophobia</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenges-of-launching-a-nier-replicant-remaster-game/"><u>Overcoming the Challenges of Launching a NieR Replicant Remaster Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-during-spellbreak-gameplay/"><u>Troubleshooting PC Problems During Spellbreak Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/undoing-sending-mistakes-easily-retrieve-deleted-emails-on-outlook-with-these-simple-steps/"><u>Undoing Sending Mistakes: Easily Retrieve Deleted Emails on Outlook with These Simple Steps</u></a></li>
+</ul></div>
 

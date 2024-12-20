@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fixes for Unstable Dota 2 Gameplay and Preventing Crashes
-date: 2024-08-27T20:31:20.248Z
-updated: 2024-08-28T20:31:20.248Z
+date: 2024-12-18T18:44:10.233Z
+updated: 2024-12-19T16:43:47.036Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9677cfb407c0d837c9cc1690f7cf05a933d33e50f
 ## The Ultimate Fixes for Low Frame Rates: Elevate Your War Thunder Gameplay Now
 
 Lately, many players have been complaining about War Thunder low FPS after the new update. If you’re also troubled by this annoying problem, don’t worry. Read this guide to see how you can fix it easily & quickly!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -38,6 +42,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
@@ -45,6 +53,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-5-1-1200x873.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have an AMD dedicated graphics card and hope War Thunder to run with it, please refer to the official guide here: **[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017)**  .
 
@@ -78,9 +90,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
@@ -96,9 +105,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Shut down unnecessary applications
 
  While you may not be aware, applications running in the background will consume much of your system resource and render War Thunder in low FPS. So, to let your game work without interruption, you can close all unneeded applications before you start a game.
@@ -117,9 +123,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -133,15 +136,24 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**High performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Adjust the in-game graphics settings
 
@@ -155,20 +167,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  After those tweaks, play War Thunder again and see if the FPS improves. If yes, you could lift the settings a bit until you find the best combination that works. If not, turn to the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
@@ -177,16 +179,14 @@ No advertising on the website.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click**Delete** to confirm.
 
  After the uninstallation completes, exit Steam. Also, you need to remove the remaining game files.
@@ -194,6 +194,10 @@ No advertising on the website.
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer. Then, Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Click the**War Thunder folder** and press**Delete** .
 
@@ -212,8 +216,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +223,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-nextgen-flawless-frame-processor-windowsmac/"><u>[New] In 2024, NextGen Flawless Frame Processor (Windows/Mac)</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktoks-take-jujutsu-kaisen-challenges-and-laughs/"><u>[New] TikTok's Take Jujutsu Kaisen Challenges and Laughs</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-bugs-comprehensive-guide-to-overcoming-the-sims-4s-video-card-mistake/"><u>Banish the Bugs: Comprehensive Guide to Overcoming The Sims 4'S Video Card Mistake</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/comprehensive-tutorial-using-an-ereader-app-to-open-and-consume-epub-files-on-a-desktop-device/"><u>Comprehensive Tutorial: Using an eReader App to Open and Consume EPUB Files on a Desktop Device</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easycap-driver-download-fast-reliable-updates-at-your-fingertips/"><u>EasyCAP Driver Download - Fast, Reliable Updates at Your Fingertips</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-valorant-experience-by-resolving-fps-drops-updated-techniques-gamers/"><u>Elevate Your Valorant Experience by Resolving FPS Drops: Updated Techniques Gamers</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-advice-handling-opengl-format-issues-during-context-initialization/"><u>Expert Advice: Handling OpenGL Format Issues During Context Initialization</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-mortal-kombat-11-crashes-fast-and-simple-solutions/"><u>Fixing Mortal Kombat 11 Crashes: Fast and Simple Solutions</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-tecno-pova-5-pro-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Tecno Pova 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994248698-master-the-art-of-troubleshooting-fixing-your-witcher-n-3-pc-gaming-woes-today/"><u>Master the Art of Troubleshooting: Fixing Your Witcher N 3 PC Gaming Woes Today!</u></a></li>
+<li><a href="https://techidaily.com/optimize-your-sites-analytics-with-cookiebot-power-solutions/"><u>Optimize Your Site's Analytics with Cookiebot Power Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-pc-performance-to-prevent-a-total-war-saga-troy-from-crashing-during-battle-scenes/"><u>Optimizing PC Performance to Prevent A Total War Saga: Troy From Crashing During Battle Scenes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-overcome-the-persistent-loading-issue-in-fortnite-gameplay/"><u>Resolved! How to Overcome the Persistent Loading Issue in Fortnite Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-game-halt-issues-with-fallout-n-on-modern-pcs-win-10-edition/"><u>Resolving Game Halt Issues with Fallout N on Modern PCs - Win 10 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-cure-pc-specific-bugs-in-the-spellbreak-game/"><u>Ultimate Fixes to Cure PC-Specific Bugs in the Spellbreak Game</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-best-6-video-dubbing-software-for-pc-free-download/"><u>Updated 2024 Approved Best 6 Video Dubbing Software for PC - Free Download</u></a></li>
+</ul></div>
 

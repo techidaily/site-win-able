@@ -1,7 +1,7 @@
 ---
 title: "Solve Fortnite Video Memory Crash: Effective Fixes & Workarounds"
-date: 2024-08-27T20:33:32.611Z
-updated: 2024-08-28T20:33:32.611Z
+date: 2024-12-14T17:04:01.598Z
+updated: 2024-12-19T16:45:05.855Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
 **Why won’t Fortnite load?** It’s likely that there are buggy issues in your game that stop your game from loading. Meanwhile your graphics card issue can also cause the Fortnite freezes on loading screen. Sometimes it’s hard to identify the reason, but there’s something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are some solutions you can try. You don’t have to try them all; just work you way down the list until your Fortnite is running again.
@@ -33,6 +37,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
 
  Note: the screenshots below come from Windows 10, and fixes also work on Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Reinstall Fortnite in your computer
 
  Since many technical problems can be resolved by restarting, it never hurts to**restart your device** , then open Fortnite again to see if it fixes the Fortnite not loading problem.
@@ -44,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/5cce1c00c454a1f4ada87360e66f8d07572afee6c
  Note: Be sure to meet the **[system requirements](https://tools.techidaily.com/drivereasy/download/)**  to install and play Fortnite in your computer, as the insufficient system resources will fail to load your Fortnite.
 
  If your problem still persists, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Set your graphics settings to Low
 
@@ -65,9 +77,6 @@ To do so, follow these steps:
 
  Save your game settings, and restart your computer to see if your Fortnite loads properly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  The missing or outdated drivers in your computer can cause Fortnite won’t load, especially your graphics card driver and your network adapter driver. So you should verify that your graphics card drivers are up to date.
@@ -86,19 +95,17 @@ To do so, follow these steps:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920abeeb8a.jpg)
 3. Click the**Update** button next to your device to automatically download the latest drivers (you can do this with the**FREE** version). Then install the drivers in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click**Update All** the automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be920cf0d891.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Then launch Fortnite in your computer and see if it fixes your Fortnite not loading issues.
 
 Still no luck? Okay, there’s something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Fortnite as administrator
 
@@ -126,21 +133,17 @@ Below lists out some PC settings you can configure:
 2. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921926a881.jpg)
 3. Click the**Boot** tab, select your**Windows system** , and click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921b2b791d.jpg)
 4. Check the box next to**Number of processors** , and select the**highest number** available. In my case I have the highest number of 4, so I select**4** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921cace95b.jpg)
 5. Click**OK** to save. Then click**Apply** and**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921e101920.jpg)
 6. You’ll be prompted a dialog to ask you to restart, select**Exist without restart** because you’ll have a restart after configuring the settings below.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be921fa6ef14.png)
 
 #### 2\. Adjust settings in System Properties
@@ -151,23 +154,24 @@ Below lists out some PC settings you can configure:
 2. Click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922528c0d3.jpg)
 3. Click**Advanced system settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9228805808.jpg)
 4. The**System Properties** pane will pop up. Under the**Advanced** tab, click the**Settings** button in the**Performance** section.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be922bfef5f6.jpg)
 5. Click the**Advanced** tab, and make sure to select**Adjust for best performance of Programs** . Then click**Apply** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9237d987ca.jpg)
 6. Click**Data Execution Prevention** , and make sure to choose **Turn on DEP for essential Windows programs and services only** . Then Click**Apply** and**OK** to save.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be9234f416dc.jpg)
 7. Save your changes and restart your computer.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 Launch your Fortnite and see if it will load properly.
 
@@ -184,8 +188,6 @@ Launch your Fortnite and see if it will load properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -193,4 +195,20 @@ Launch your Fortnite and see if it will load properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-the-roadmap-to-thriving-in-digital-advertising/"><u>[New] In 2024, The Roadmap to Thriving in Digital Advertising</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-worldwide-rich-list-top-earning-youtubers/"><u>[New] In 2024, Worldwide Rich List Top Earning YouTubers</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-getting-saints-row-running-smoothly-on-windowsmac-platforms/"><u>Beat the Blues: Getting Saints Row Running Smoothly on Windows/Mac Platforms</u></a></li>
+<li><a href="https://windows11.techidaily.com/customize-your-pcs-idle-lock-time/"><u>Customize Your PC's Idle Lock Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-wwii-display-problems-complete-guide-for-windows-users/"><u>Fixing Call of Duty: WWII Display Problems - Complete Guide for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/gratis-conversione-di-file-swf-in-mp4-con-movavi-strumento-di-riformattazione-on-line/"><u>Gratis Conversione Di File SWF in MP4 Con Movavi: Strumento Di Riformattazione On-Line</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-cyberpunk-2ebdnuyqkjvhznhgf897cyr654wopmsolved-fixing-game-crashes-on-pc/"><u>How to Resolve Cyberpunk 2Ebdnuyqkjvhz,nhgf897cyr654wopm[SOLVED] - Fixing Game Crashes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multiversus-essential-fixes-for-successful-pc-launch/"><u>Mastering MultiVersus: Essential Fixes for Successful PC Launch</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/top-tiktok-patterns-you-cant-miss-this-year-for-2024/"><u>Top TikTok Patterns You Can’t Miss This Year for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/top-value-gear-affordable-cameras-for-dynamic-sports/"><u>Top Value Gear Affordable Cameras for Dynamic Sports</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-arma-3-game-advanced-crash-fixes-revealed-2024-insights/"><u>Troubleshooting Your Arma 3 Game - Advanced Crash Fixes Revealed [2024 Insights]</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-gpu-non-utilization-by-warzone-in-the-windows-10-environment/"><u>Understanding and Resolving GPU Non-Utilization by Warzone in the Windows 10 Environment</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-no-cost-video-watermark-solutions-top-5-downloads/"><u>Updated 2024 Approved No-Cost Video Watermark Solutions Top 5 Downloads</u></a></li>
+</ul></div>
 

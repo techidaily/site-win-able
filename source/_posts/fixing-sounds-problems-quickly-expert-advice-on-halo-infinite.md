@@ -1,7 +1,7 @@
 ---
 title: "Fixing Sounds Problems Quickly: Expert Advice on Halo Infinite"
-date: 2024-08-27T20:30:36.762Z
-updated: 2024-08-28T20:30:36.762Z
+date: 2024-12-12T19:39:24.965Z
+updated: 2024-12-19T18:12:19.624Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/e7e8dd516afa1923591eaf41c5af1b183e6c455af
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -69,8 +73,9 @@ Here is how to grant administrative privileges to Apex Legends:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Compatibility**  tab. Then check the box next to **Run this program as an administrator** , and click **Apply** .
 
  3) After granting APex Legends administrative privileges, you can run the game again to see if Apex Legends Engine Error still occurs. If it doesn’t, then great! If the issue remains, please move on to**Fix 2** , below.
@@ -87,29 +92,29 @@ Here is how to verify game files:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-439-1024x522.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click on**Apex Legends** and click**Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Once done, run Apex Legends and check if the engine error is fixed. If yes, then great! If the issue persists, please move on to**Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Edit Registry
 
@@ -123,9 +128,6 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -134,23 +136,18 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Yes** once you’re prompted about the message.
 
  6) Run Apex Legends again to see if the Engine error has been fixed.
@@ -168,8 +165,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +172,22 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-comprehensively-tackling-the-sony-fdr-x1000-action-gear-for-2024/"><u>[New] Comprehensively Tackling the Sony FDR-X1000 Action Gear for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/92195913-new-dazzle-and-stand-out-50-free-youtube-branding-pieces/"><u>[New] Dazzle and Stand Out 50 FREE YouTube Branding Pieces!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-sj7-unveils-its-ultimate-4k-action-camera-a-comprehensive-report/"><u>[New] SJ7 Unveils Its Ultimate 4K Action Camera - A Comprehensive Report</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unraveling-the-imovie-video-edge-policy/"><u>[New] Unraveling the iMovie Video Edge Policy</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-tickling-titles-top-10-comedy-centric-youtube-short-ideas/"><u>[Updated] Tickling Titles Top 10 Comedy-Centric YouTube Short Ideas</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-prevent-and-repair-pc-crashes-while-playing-minecraft-dungeons/"><u>Easy Steps to Prevent and Repair PC Crashes While Playing Minecraft Dungeons</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-hero5-black-vs-yis-new-tech-action-cam-showdown-update/"><u>In 2024, Hero5 Black Vs. Yi's New Tech Action Cam Showdown Update</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y100i-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y100i Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008734801-netflix-access-restored-for-xbox-one-users-bid-goodbye-to-buffering-and-start-watching/"><u>Netflix Access Restored for Xbox One Users – Bid Goodbye to Buffering and Start Watching!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-black-ops-cold-war-error-0xc00e-effective-strategies-unveiled/"><u>Overcoming the Black Ops Cold War Error 0xC00e – Effective Strategies Unveiled</u></a></li>
+<li><a href="https://win-data.techidaily.com/property-giant-country-garden-strategizes-extended-domestic-bond-maturity-to-prevent-first-ever-payment-default/"><u>Property Giant Country Garden Strategizes Extended Domestic Bond Maturity to Prevent First-Ever Payment Default</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011121972-quick-tricks-to-prevent-and-repair-league-of-legends-crashes-easily/"><u>Quick Tricks to Prevent and Repair League of Legends Crashes Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-cyberpunk-2077-performance-issues-no-more-lag-or-stutters/"><u>Resolved: Cyberpunk 2077 Performance Issues - No More Lag or Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-arks-frame-rate-issues-a-comprehensive-guide/"><u>Troubleshooting Lost Ark's Frame Rate Issues - A Comprehensive Guide</u></a></li>
+</ul></div>
 

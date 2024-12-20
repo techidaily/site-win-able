@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Diablo 2 Resurrected Crashing"
-date: 2024-12-05T17:15:51.402Z
-updated: 2024-12-12T16:24:54.253Z
+date: 2024-12-18T19:05:45.746Z
+updated: 2024-12-19T19:29:25.248Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/443fa3d21137649dff0319f1c3c3070702e32a7b2
 
 If this method doesn’t help, check out your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Update your graphics driver
 
  The graphics driver is essential to a smooth gaming experience. If your graphics driver is faulty or outdated, Diablo 2 Resurrected crashing is more likely to occur. To fix it, you should update your graphics driver to the latest.
@@ -67,10 +75,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
@@ -78,6 +82,10 @@ If this method doesn’t help, check out your graphics driver.
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Run the game as an administrator
 
@@ -89,19 +97,19 @@ If this method doesn’t help, check out your graphics driver.
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -112,17 +120,9 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
 
@@ -134,10 +134,6 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 **On GeForce Experience**
@@ -147,6 +143,10 @@ If this method doesn’t help, check out your graphics driver.
 2. Toggle off**In-game overlay** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
 
@@ -172,22 +172,17 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-how-to-make-a-gif-meme/"><u>[New] 2024 Approved How to Make A GIF Meme</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-after-effects-crashes-on-windows-11-and-10/"><u>[SOLVED] After Effects Crashes on Windows 11 & 10</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-winning-the-game-of-social-media-handc-marketing-strategies/"><u>[Updated] 2024 Approved Winning the Game of Social Media H&C Marketing Strategies</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-female-gamers-faction-yts-10-stars/"><u>[Updated] Female Gamers Faction YT's #10 Stars</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-ultimate-guide-prime-video-stabilizers/"><u>2024 Approved Ultimate Guide Prime Video Stabilizers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/episode-excellence-optimal-launch-windows/"><u>Episode Excellence Optimal Launch Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-death-stranding-pc-crash-issue-a-step-by-step-solution/"><u>Fixing the Death Stranding PC Crash Issue - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-inability-to-open-counter-strike-2-game/"><u>Fixing the Inability to Open Counter-Strike 2 Game</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/from-past-to-present-the-evolution-of-ratchet-and-clank-in-its-new-incarnation/"><u>From Past to Present – The Evolution of Ratchet & Clank in Its New Incarnation</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-dying-light-amo-performance-combatting-stuttering-and-frame-rate-reduction-for-a-seamless-pc-gaming-experience/"><u>Improve Your Dying Light Amo Performance: Combatting Stuttering & Frame Rate Reduction for a Seamless PC Gaming Experience</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-14-pro-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 14 Pro to Samsung Galaxy S20? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-s17-pro-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo S17 Pro to iOS not Working Problems | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-minecraft-console-correcting-error-code-crossbow-issues/"><u>Mastering the Minecraft Console: Correcting Error Code: Crossbow Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013493862-overcoming-star-wars-squadrons-freezing-problems-solutions-inside/"><u>Overcoming STAR WARS Squadrons Freezing Problems: Solutions Inside!</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/1728465341710-pc/"><u>PC異常発生時にデータを安全に回復する方法</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-players-unable-to-boot-up-pathfinder-wrath-of-the-righteeous/"><u>Step-by-Step Solution for Players Unable to Boot up Pathfinder: Wrath of the Righteeous</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-netflix-confirming-current-streaming-service-outage/"><u>Trouble with Netflix? Confirming Current Streaming Service Outage</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-keep-your-shorts-viewer-friendly-fixing-image-absence/"><u>[Updated] Keep Your Shorts Viewer-Friendly Fixing Image Absence</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-glimmering-glides-of-2022s-speed-skaters/"><u>2024 Approved Glimmering Glides of 2022'S Speed Skaters</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-tecno-camon-20-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Tecno Camon 20</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-prevent-cult-of-the-lamb-from-crashing-on-your-desktop-computer/"><u>Effective Solutions to Prevent Cult of the Lamb From Crashing on Your Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-solving-elite-dangerous-pc-game-crashes/"><u>Fixing the Issue: Solving Elite Dangerous PC Game Crashes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-14-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 14 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-motorola-edge-40-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/setting-the-stage-for-seamless-video-playback-in-facebook-network-for-2024/"><u>Setting the Stage for Seamless Video Playback in Facebook Network for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-overcoming-constant-freezing-in-ghostwire-tokyo-for-pc-users/"><u>Solution Guide: Overcoming Constant Freezing in Ghostwire: Tokyo for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-audio-issues-how-to-get-your-minecraft-sounds-working-again-on-windowspc/"><u>Troubleshooting Audio Issues: How to Get Your Minecraft Sounds Working Again on Windows/PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-strategies-for-boosting-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Strategies for Boosting FPS in 'Tainted Grail: Conquest'</u></a></li>
 </ul></div>
 

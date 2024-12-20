@@ -1,7 +1,7 @@
 ---
 title: Overcoming Connectivity Problems in Path of Exile – Essential Tips and Solutions
-date: 2024-08-23T11:30:56.365Z
-updated: 2024-08-24T11:30:56.365Z
+date: 2024-12-13T19:45:03.616Z
+updated: 2024-12-19T18:42:54.464Z
 tags:
   - win11
   - win10
@@ -56,15 +56,12 @@ Many players have reported that the Elden Ring multiplayer can not work. Even af
 3. Click**Launch Setting** and then click the pointing arrow behind**Launch Setting** to select**Play Online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_14-39-232222.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  After you optimize the Elden Ring’s network settings, you can check if it works. If not, move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Update your network drivers
 
  Through network drivers, your PC can connect to the network. If your network driver is outdated, your network connection may become poor and therefore influencing your gaming experience. Once you find your Elden Ring multiplayer can not work, you can try to update your network drivers to the latest version.
@@ -87,14 +84,24 @@ Here are two ways to update your network drivers.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any drivers that need to update.  
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 1. You can choose to update the driver with a FREE version. Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After updating your network drivers, see if your Elden Ring multiplayer works. If not, move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Enable auto-updates of Elden Ring
 
  Elden Ring updates can optimize game performance and deliver better gaming experience. Many players have reported that updating the game is a fix to solve the Elden Ring error. So you can just try to update your Elden Ring when it does not work.
@@ -104,21 +111,16 @@ Here are two ways to update your network drivers.
 2. Right-click**ELDEN RING** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**UPDATES** tab on the left panel.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-14-13-update-1.jpg)
 4. Click**Always keep this game updated** under AUTOMATIC UPDATES. Whenever there is an available update, Steam will update the game automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-11_14-12-34update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
  After enabling auto-dates of Elden Ring, you can check if your Elden Ring multiplayer works. If not, move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 4: Verify integrity of game files
 
  If the Elden Ring game files are missing or corrupted, the game may show random errors and even cannot work. To fix this problem, you can try to verify the integrity of the Elden Ring game files on Steam.
@@ -128,14 +130,8 @@ Here are two ways to update your network drivers.
 2. Right-click**ELDEN RING** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-10_18-05-493333.jpg)
 3. Click the**Installed Files** and select**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
 4. Steam will verify the game files. It may take a few minutes. Once the process is complete, click the**Close** button.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. After validating Steam files, check if your Elden Ring multiplayer works normally. If not, move to the next method.
 
 ### Method 5: Run Fortect to repair system files
@@ -148,22 +144,24 @@ Here are two ways to update your network drivers.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  After repairing the system files, you can check if the Elden Ring multiplayer works normally.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 6: Update your Windows system
 
  An outdated operating system can cause underlying errors, including your Elden Ring multiplayer not working. If you have tried the above methods, it still does not work. You can try to update your Windows system.
@@ -174,21 +172,23 @@ Here are two ways to update your network drivers.
 2. Click the**Update & Security** from the menu options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-07_19-50-12-5.jpg)
 3. Click**Check for updates** under Windows Update. Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/2022-05-08_19-48-21-1.jpg)
 4. After you’ve installed the updates, restart your PC and launch Elden Ring multiplayer. Then check if the Elden Ring multiplayer problem has been solved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### on Windows 11
 
 1. On your keyboard, press the **Windows logo key** . Type **check for updates** . Then click **Check for updates**  from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the **Check for updates**  button.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
@@ -205,8 +205,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +212,21 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-cultivating-excellence-the-top-7-stardew-mods-ranked-7-14-for-2024/"><u>[New] Cultivating Excellence - The Top 7 Stardew Mods (Ranked #7-14) for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-frameworks-producing-uplifting-life-journey-broadcasts/"><u>[New] In 2024, Frameworks Producing Uplifting Life Journey Broadcasts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-ultimate-online-seminar-title-crafter-for-2024/"><u>[New] Ultimate Online Seminar Title Crafter for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-foundation-for-success-equipping-new-channels/"><u>2024 Approved The Foundation for Success Equipping New Channels</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-v27e-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo V27e by Name | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/access-androids-gaming-joy-on-pc-from-phone-to-window-11-via-google-linkup/"><u>Access Android's Gaming Joy on PC: From Phone to Window 11 via Google Linkup</u></a></li>
+<li><a href="https://win-answers.techidaily.com/diagnosing-and-repairing-the-pc-launch-glitch-in-robocop-rogue-city-video-game/"><u>Diagnosing and Repairing the PC Launch Glitch in RoboCop: Rogue City Video Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-resolve-city-skylines-2-not-starting-issue/"><u>Fix Guide: How to Resolve City Skylines 2 Not Starting Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-call-of-duty-black-ops-cold-war-error-code-0xc0000005-successfully/"><u>Fixing Call of Duty: Black Ops Cold War Error Code 0xC0000005 Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-on-without-stutters-troubleshooting-fallout-76-performance-problems/"><u>Game On Without Stutters: Troubleshooting Fallout 76 Performance Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Smart 8 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-resolving-relink-issues-within-the-granblue-fantasy-game-on-pc/"><u>Step-by-Step Fix: Resolving Relink Issues Within the Granblue Fantasy Game on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-audio-glitches-in-dying-light-solutions-unveiled/"><u>Troubleshooting Audio Glitches in Dying Light: Solutions Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-the-error-when-ubisoft-connect-fails/"><u>Troubleshooting Steps: Fixing the Error When Ubisoft Connect Fails</u></a></li>
+</ul></div>
 

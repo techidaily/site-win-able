@@ -1,7 +1,7 @@
 ---
 title: "Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play"
-date: 2024-12-07T16:43:09.643Z
-updated: 2024-12-12T17:08:05.320Z
+date: 2024-12-18T19:00:54.840Z
+updated: 2024-12-19T19:26:27.610Z
 tags:
   - win11
   - win10
@@ -53,10 +53,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-620.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) **Right-click** on the application that’s eating up your bandwidth and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
@@ -65,15 +61,15 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-622.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** Make sure you know what sort of applications you’re closing. **DO NOT** stop any programs that you’re not familiar with in case you mistakenly end the crucial ones (often related to your system) such as sychost.exe.
 
  If you find no luck getting closer to the solution, you should proceed to Fix 2.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Use “flushdns” command
 
@@ -82,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/cf39f69dc8e53bbf12e067db4360c2c57f8f63b26
  1) On your taskbar, type **command** into the search box. Then right-click on the **Command Prompt** result and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-137.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Click **Yes** if you’re prompted about permission.
 
@@ -117,6 +109,10 @@ ipconfig /flushdns
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Restart modem & router
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -124,10 +120,6 @@ ipconfig /flushdns
 1) Unplug both your router and modem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-597.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 modem
 
@@ -166,7 +158,7 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -174,15 +166,15 @@ wireless router
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-629.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you have any problems using **Driver Easy Pro**  to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  After updating your drivers, check to see whether the latency issues still remain. If they do, try out the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Swap Wifi to Ethernet connection
 
@@ -193,6 +185,10 @@ wireless router
  Also, you should avoid possible wireless interference that weakens your Wi-Fi signals such as cordless phones and microwave ovens. Place them far away from your router, or simply move your laptop to a new location with stronger Wi-Fi signals.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## OBS lags when recording
 
@@ -220,6 +216,10 @@ wireless router
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Update graphics card drivers
 
  Updating drivers is the solution to various issues, including graphics lag. You can update your GPU driver from either Windows Device Manager or the manufacturer’s website. But if you don’t have the time, skills, and patience to do that, simply use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  – a reliable and powerful driver updater tool – to help you manage all the driver updates.
@@ -227,10 +227,6 @@ wireless router
  If you’re interested in the benefits of Driver Easy, please take a look at **[Fix 4](https://tools.techidaily.com/drivereasy/download/)**  . The steps to perform driver updates using Driver Easy are exactly the same.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3\. Shut down unnecessary programs
 
@@ -241,12 +237,16 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) In the pop-up window, toggle off **Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-451.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Game bar** tab and turn off the toggle button below **Record game clips, screenshots, and broadcast using Game bar** .
 
@@ -283,16 +283,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/2024-approved-foremost-companies-pioneering-vr-technology/"><u>2024 Approved Foremost Companies Pioneering VR Technology</u></a></li>
-<li><a href="https://discover-able.techidaily.com/converting-crystallographic-structures-a-comprehensive-tutorial-on-pdb-to-pdf-conversion-for-scientists-and-researchers/"><u>Converting Crystallographic Structures: A Comprehensive Tutorial on PDB to PDF Conversion for Scientists and Researchers</u></a></li>
-<li><a href="https://win-able.techidaily.com/improve-your-playthrough-tips-to-eliminate-stuttering-in-fallout-76/"><u>Improve Your Playthrough: Tips to Eliminate Stuttering in Fallout 76</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-flipping-filmmaking-on-your-android-device/"><u>In 2024, Flipping Filmmaking on Your Android Device</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-y36-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo Y36? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-selecting-the-leading-5-virtual-title-experts-for-2024/"><u>In-Depth Analysis Selecting the Leading 5 Virtual Title Experts for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/stardew-valley-launching-problems-heres-how-to-fix-them/"><u>Stardew Valley Launching Problems? Here's How to Fix Them</u></a></li>
-<li><a href="https://win-able.techidaily.com/terraria-continuously-crashes-top-fixes-and-solutions/"><u>Terraria Continuously Crashes? - Top Fixes & Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-lost-web-browser-of-ps5/"><u>The Lost Web Browser of PS5</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-the-notorious-black-screen-issue/"><u>Troubleshooting and Repairing the Notorious Black Screen Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-msvcr1ebdll-file-missing-on-helldivers-2-game/"><u>Troubleshooting Steps: MSVCR1eb.dll File Missing on HellDivers 2 Game</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-discovering-8-honestly-endorsed-promotional-strategies/"><u>[New] 2024 Approved Discovering 8 Honestly-Endorsed Promotional Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/birdie-ballet-bounce-for-2024/"><u>Birdie Ballet Bounce for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/complete-tutorial-on-how-to-erase-user-profiles-on-windows-10-with-revo-uninstaller/"><u>Complete Tutorial on How to Erase User Profiles on Windows 10 with Revo Uninstaller</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/examining-the-efficacy-of-dji-mavic-mini-fpv-technology/"><u>Examining the Efficacy of DJi Mavic Mini FPV Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/fenyxs-quest-unleashed-fixing-the-delay-immortals-is-now-available/"><u>Fenyx's Quest Unleashed: Fixing the Delay, Immortals Is Now Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-can-you-tell-if-xbox-live-is-experiencing-downtime-or-issues/"><u>How Can You Tell if Xbox Live Is Experiencing Downtime or Issues?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-fps-drop-in-dying-light-game-a-comprehensive-guide/"><u>How To Overcome The FPS Drop in Dying Light Game - A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-your-apple-iphone-11-display-drfone-by-drfone-ios/"><u>How to Screen Mirror your Apple iPhone 11 Display? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mastering-channels-on-the-fly-tubebuddy-essentials/"><u>In 2024, Mastering Channels on the Fly - TubeBuddy Essentials</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-tier-technical-tips-to-secure-flawless-broadcasting/"><u>In 2024, Top-Tier Technical Tips to Secure Flawless Broadcasting</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-multiple-languages-at-once/"><u>Learn Multiple Languages At Once</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726028781961-premiere-pro/"><u>Premiere Proで作成したビデオファイルサイズを小さくする簡単な手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-windows-11-error-code-0xc19001e1-step-by-step-fix/"><u>Resolving Windows 11 Error Code 0xC19001E1 - Step by Step Fix</u></a></li>
 </ul></div>
 

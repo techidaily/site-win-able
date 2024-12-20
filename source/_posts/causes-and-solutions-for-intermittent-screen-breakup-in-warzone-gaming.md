@@ -1,7 +1,7 @@
 ---
 title: Causes & Solutions for Intermittent Screen Breakup in Warzone Gaming
-date: 2024-12-06T17:07:39.662Z
-updated: 2024-12-12T16:48:34.253Z
+date: 2024-12-15T16:53:22.019Z
+updated: 2024-12-19T16:32:23.479Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 6. **[Use a static IP address](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check if your game supports Remote Play
@@ -49,6 +49,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check if a game supports Steam Remote Play or not](https://images.drivereasy.com/wp-content/uploads/2020/10/check-if-a-game-supports-Steam-Remote-Play-or-not.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve made sure that your game supports Remote Play, you can perform the troubleshooting steps below to fix the issue.
 
 ---
@@ -59,23 +63,19 @@ The Steam Remote Play is a feature that allows you to stream your games from you
   
 ![check for Steam client updates](https://images.drivereasy.com/wp-content/uploads/2020/10/update-Steam-client.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  After you’ve updated your Steam client, also make sure that you have your game updated. An update would most possibly fix some known bugs, which can guarantee a better gaming experience.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Update your device drivers
 
  A number of bugs can be fixed by performing a dirver update. If Remote Play isn’t working for you or you are getting poor performance, graphical glitches or black screens, make sure you have the latest drivers installed. driver updates can **give you a speed boost, fix problems, and sometimes even provide you with completely new features** , all for free.
 
  There are two ways you can update your drivers:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your drivers
 
@@ -100,6 +100,10 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-video-card-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, try connecting to your remote computer to check if it works.
@@ -114,13 +118,13 @@ The Steam Remote Play is a feature that allows you to stream your games from you
 
 ![disable hardware encoding Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the left pane of the window, select**Remote Play** . Then click**ADVANCED CLIENT OPTIONS** .  
   
 ![disable hardware encoding Steam Steam Remote Play not working](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-hardware-encoding-Steam-Remote-Play.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Uncheck the option**Enable hardware decoding** and then click**OK** .
 
@@ -136,38 +140,30 @@ Now try reconnecting your device to check if the issue persists.
 
  1) On the bottom right hand side of your screen, right-click on the network![network icon](https://images.drivereasy.com/wp-content/uploads/2020/10/network-icon.png) or Wi-Fi![wifi icon](https://images.drivereasy.com/wp-content/uploads/2020/10/wifi-icon.png) icon. Then select**Open Network & Internet settings** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-IPv6-select-open-network-settings.jpg)
 
  2) In the**Change your network settings** section, click**Change adapter options** .  
   
 ![how to disable IPv6](https://images.drivereasy.com/wp-content/uploads/2020/10/change-adapter-options-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .  
   
 ![disable IPv6 right-click on the active network adapter](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) In the**Properties** window, scroll down until you see**Internet Protocol Version 6 (TCP /IPv6)** . Uncheck the **Internet Protocol Version 6 (TCP/IPv6)** checkbox and click on **OK** to save the changes.
 
 ![uncheck the checkbox Internet Protocol Version 6](https://images.drivereasy.com/wp-content/uploads/2020/10/uncheck-the-checkbox-Internet-Protocol-Version-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Now restart your computer for the settings to take effect.
 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Use a static IP address
@@ -178,10 +174,6 @@ To set a static IP address, you can:
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **R**  at the same time to invoke the Run box.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Type**ncpa.cpl** and press**Enter** .
 
 ![open network connections window to set a static ip address
@@ -190,6 +182,10 @@ To set a static IP address, you can:
  3) Right-click on your**active network adapter** , whether it’s Ethernet or Wi-Fi. Then select**Properties** .
 
 ![set a static ip address to fix Steam Remote Play not working issue](https://images.drivereasy.com/wp-content/uploads/2020/10/right-click-on-active-network-adapter-and-select-Properties.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the**Properties** window for the adapter, select**Internet Protocol Version 4 (TCP/IPv4)** and then click the**Properties** .
 
@@ -200,7 +196,7 @@ To set a static IP address, you can:
 ![set a static ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/set-a-static-ip-address-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 To check them, you can:
@@ -225,6 +221,10 @@ To check them, you can:
 
 ![my own ip address](https://images.drivereasy.com/wp-content/uploads/2020/10/my-own-ip-address.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve set a static IP address, try connecting to your devices to check if it works.
 
 ---
@@ -248,21 +248,15 @@ To check them, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-live-to-legacy-preserving-facebook-events/"><u>[Updated] 2024 Approved From Live to Legacy Preserving Facebook Events</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-art-of-aural-storytelling-on-instagram-reels/"><u>2024 Approved The Art of Aural Storytelling on Instagram Reels</u></a></li>
-<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-nubia-z50s-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Nubia Z50S Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/closure-the-league-of-legends-2024-connectivity-error-correction-explained/"><u>Closure: The League of Legends 2024 Connectivity Error Correction Explained</u></a></li>
-<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-lava-blaze-curve-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Lava Blaze Curve 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-fixing-the-infamous-crossbow-error-on-minecraft-servers/"><u>Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers</u></a></li>
-<li><a href="https://win-able.techidaily.com/horizon-zero-dawn-pc-version-how-to-prevent-and-fix-the-crashing-problem/"><u>Horizon Zero Dawn PC Version - How to Prevent and Fix the Crashing Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-unexpected-shutdown-issue-in-minecraft-exit-code-0-explained/"><u>How to Overcome the Unexpected Shutdown Issue in Minecraft - Exit Code 0 Explained</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-se-2022-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone SE (2022) To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-nokia-xr21-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Nokia XR21 Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-poco-c50-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Poco C50 – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/raising-the-bar-for-gamers-a-detailed-review-of-the-revolutionary-pixio-px277-oled-max-monitor/"><u>Raising the Bar for Gamers: A Detailed Review of the Revolutionary Pixio PX277 OLED MAX Monitor</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-nvidia-control-panel-unresponsiveness-and-startup-failures/"><u>Step-by-Step Guide: Resolving NVIDIA Control Panel Unresponsiveness and Startup Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-outriders-eliminating-pc-glitches-and-hiccups/"><u>Troubleshooting Tips for Outriders: Eliminating PC Glitches and Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-wow-solutions-when-your-blizzard-game-wont-start/"><u>Troubleshooting WoW: Solutions When Your Blizzard Game Won't Start</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-lava-yuva-3-pro-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Lava Yuva 3 Pro IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-inverted-illusions-the-art-of-rotating-visuals-for-social-media-success-for-2024/"><u>[New] Inverted Illusions The Art of Rotating Visuals for Social Media Success for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-understanding-ios-video-recording/"><u>[Updated] 2024 Approved Understanding iOS Video Recording</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquering-desktop-issues-in-pubg-fix-stutters-and-lags-for-seamless-gaming/"><u>Conquering Desktop Issues in PUBG – Fix Stutters & Lags for Seamless Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-understanding-the-delayed-pc-launch/"><u>Diablo Immortal: Understanding the Delayed PC Launch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/explore-new-reading-with-our-list-of-5-innovative-ai-book-recommenders/"><u>Explore New Reading with Our List of 5 Innovative AI Book Recommenders</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-parse-errors-in-your-android-app-8-essential-tips/"><u>Fixing Parse Errors in Your Android App: 8 Essential Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-dark-void-resolving-cyberpunk-2077s-black-screen-issue/"><u>Fixing the Dark Void: Resolving Cyberpunk 2077'S Black Screen Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo K11 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-vivo-v30-pro-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Vivo V30 Pro to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011507797-mastering-frostpunk-stability-end-crashes-for-good/"><u>Mastering Frostpunk Stability: End Crashes for Good!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Fix for Football Manager 2021 Sudden Shutdowns and Hangs on Personal Computers
-date: 2024-12-08T16:16:52.354Z
-updated: 2024-12-12T16:51:31.817Z
+date: 2024-12-12T19:46:32.885Z
+updated: 2024-12-19T19:31:31.132Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 4. **[Delete the Preferences and/or Caches Folder](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Updating your graphics driver should always be your go-to option when something goes wrong with your games or multimedia programs.
@@ -46,19 +50,11 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-53-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -67,7 +63,7 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
  If your issue persists after updating your graphics driver, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Verify the integrity of your game files
@@ -83,6 +79,10 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -100,17 +100,21 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the program you want to close and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-55-26.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now, relaunch _**FM20**_ to see if this has resolved your issue. If your game crashes again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Delete the Preferences and/or Caches folder**
 
@@ -126,21 +130,17 @@ If your game still crashes, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Delete the **Preferences** and **Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Reinstall _FM20_  and/or Steam
 
@@ -161,10 +161,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)** Restart Steam to download and install _Football Manager 2020_ .
 
 **5)** Relaunch your game to test your issue.
@@ -177,10 +173,6 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
@@ -190,7 +182,7 @@ If your game is still unplayable, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
@@ -201,11 +193,19 @@ If your game is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
@@ -236,18 +236,18 @@ If your game is still unplayable, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-elite-portables-cutting-edge-4k-video-creation-machines/"><u>[Updated] In 2024, Elite Portables Cutting-Edge 4K Video Creation Machines</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-srt-to-txt-mastery-the-2023-guide-for-rapid-changeover/"><u>[Updated] SRT to TXT Mastery The 2023 Guide for Rapid Changeover</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-2042-tips-to-eliminate-frame-rate-drops-and-stutters-for-optimal-pc-gaming-performance/"><u>Battlefield 2042 - Tips to Eliminate Frame Rate Drops & Stutters for Optimal PC Gaming Performance</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722865442440-discover-the-leading-iphone-email-solutions-weve-rated-them/"><u>Discover the Leading iPhone Email Solutions - We've Rated Them</u></a></li>
-<li><a href="https://some-skills.techidaily.com/discover-the-overlooked-youtube-function-both-you-and-i-miss/"><u>Discover the Overlooked YouTube Function Both You & I Miss</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-bottlenecks-in-halo-infinite-to-eliminate-frame-skipping-issues/"><u>Fix Bottlenecks in Halo Infinite to Eliminate Frame Skipping Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correct-problems-with-your-itunes-audio-configuration/"><u>How To Correct Problems With Your iTunes Audio Configuration</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-maximizing-mobile-profits-enabling-youtubers-revenue/"><u>In 2024, Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/mastering-components-a-deep-dive-into-hardware-by-tom/"><u>Mastering Components: A Deep Dive Into Hardware by Tom</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-freezes-how-to-prevent-spellbreak-from-crashing-on-desktops/"><u>No More Freezes: How to Prevent Spellbreak From Crashing on Desktops</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-online-play-a-comprehensive-guide-to-address-high-latency-in-back-n-blood/"><u>Optimizing Online Play: A Comprehensive Guide to Address High Latency in 'Back N Blood'</u></a></li>
-<li><a href="https://common-error.techidaily.com/solve-the-problem-steps-for-pairing-a-faulty-xbox-one-gamepad/"><u>Solve the Problem: Steps for Pairing a Faulty Xbox One Gamepad</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-on-customizing-display-preferences-in-microsofts-latest-operating-system/"><u>Step-by-Step Tutorial on Customizing Display Preferences in Microsoft's Latest Operating System</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-master-8-android-video-call-apps-for-collaborative-sessions/"><u>[New] In 2024, Master 8 Android Video Call Apps for Collaborative Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-facetime-audibility-capturing-clear-audio-calls-for-2024/"><u>[Updated] FaceTime Audibility Capturing Clear Audio Calls for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/5asx44kp44km44gf5oof5acx44gu5zue5ypluso5pa55rov77ya5p2x6iqd44ow44op44oz44oj44gu5asw6yoo44op44o844oj44oj44op44kk44ow44gl44kj/"><u>失われた情報の回収方法：東芝ブランドの外部ハードドライブから</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-realme-narzo-60-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Realme Narzo 60 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-assessment-of-the-lg-gram-156-inch-notebook-201n-stunning-durability-meets-extended-playtime/"><u>Comprehensive Assessment of the LG Gram 15.6-Inch Notebook (201N) - Stunning Durability Meets Extended Playtime</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ideal-video-snapper-for-your-chromebook-for-2024/"><u>Ideal Video Snapper For Your Chromebook for 2024</u></a></li>
+<li><a href="https://win-cheats.techidaily.com/identifying-defective-ram-a-step-by-step-guide-from-yl-computing/"><u>Identifying Defective RAM: A Step-by-Step Guide From YL Computing</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-download-and-audit-voice-recordings/"><u>In 2024, Download & Audit Voice Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-mastering-the-art-of-summing-up-entire-columns-in-ms-excel/"><u>Step-by-Step Guide: Mastering the Art of Summing Up Entire Columns in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-on-revealing-all-custom-cell-references-across-an-excel-file/"><u>Step-by-Step Tutorial on Revealing All Custom Cell References Across an Excel File</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-enabling-macs-quick-look-on-your-windows-pc/"><u>Step-by-Step Tutorial: Enabling Mac's Quick Look on Your Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-formula-easily-computing-your-or-someones-age-using-excel/"><u>The Ultimate Formula: Easily Computing Your or Someone's Age Using Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/transform-your-photos-into-masterpieces-with-office-2010s-design-tools/"><u>Transform Your Photos Into Masterpieces with Office 2010'S Design Tools</u></a></li>
 </ul></div>
 

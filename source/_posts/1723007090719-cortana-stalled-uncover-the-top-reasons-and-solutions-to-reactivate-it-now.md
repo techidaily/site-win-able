@@ -1,7 +1,7 @@
 ---
 title: Cortana Stalled? Uncover the Top Reasons & Solutions to Reactivate It Now!
-date: 2024-08-27T20:32:47.492Z
-updated: 2024-08-28T20:32:47.492Z
+date: 2024-12-14T16:55:25.805Z
+updated: 2024-12-19T18:44:28.421Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/9986a0298b6ed41baf9ff52abd2373f4874f20858
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -41,35 +45,28 @@ Check your region and language settings on your computer:
 
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -82,16 +79,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -118,6 +109,10 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
 ## Method 5: Reset your Cortana
@@ -132,9 +127,17 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Try Cortana again to see if it works.
 
@@ -147,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,20 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-dissecting-splitcam-a-video-recorder-standout-analysis-for-2024/"><u>[New] Dissecting SplitCam A Video Recorder Standout Analysis for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-exploring-the-void-of-originality-in-vr-content-for-2024/"><u>[New] Exploring the Void of Originality in VR Content for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-above-the-mainstage-significant-youtube-meetings/"><u>[New] In 2024, Above the Mainstage Significant YouTube Meetings</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>[Updated] Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/a-step-by-step-breakdown-for-ending-your-linkedin-presence-for-2024/"><u>A Step-by-Step Breakdown for Ending Your LinkedIn Presence for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-fixing-persistent-pc-crashes-in-dreamlight-valley-gameplay/"><u>Expert Advice: Fixing Persistent PC Crashes in Dreamlight Valley Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-preventing-gtfo-application-from-crashing/"><u>Expert Tips for Preventing GTFO Application From Crashing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-itel-a70-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Itel A70 Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-core-asmr-platforms-explored/"><u>In 2024, Core ASMR Platforms Explored</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-setting-up-easy-anti-cheat-properly/"><u>Overcoming Launch Hurdles: Setting Up Easy Anti-Cheat Properly</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-dell-xps-15-vs-razer-blade-15-battle-of-high-performance-laptops/"><u>The Dell XPS 15 vs Razer Blade 15: Battle of High-Performance Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-fix-pc-game-crashing-problem-in-elite-dangerous-enhancing-playtime-stability/"><u>Troubleshooting Tips to Fix PC Game-Crashing Problem in Elite Dangerous, Enhancing Playtime Stability</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-vivo-y27s-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Vivo Y27s? | Dr.fone</u></a></li>
+</ul></div>
 

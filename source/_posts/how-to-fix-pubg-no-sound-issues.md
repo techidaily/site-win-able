@@ -1,7 +1,7 @@
 ---
 title: How to Fix PUBG No Sound Issues
-date: 2024-08-23T11:30:58.610Z
-updated: 2024-08-24T11:30:58.610Z
+date: 2024-12-17T16:57:41.061Z
+updated: 2024-12-19T18:21:35.419Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7b61f24c759b4bb707c98e4d5ba6ea429d7484a4e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/HaloInfinite_Multiplayer-1200x675.jpg)
 
  Halo Infinite multiplayer beta is now available. However, many players are reporting that they cannot launch the game and get a black screen with a little circle in the bottom left corner. Then the game crashes after a few seconds. If you’re facing the same issue, don’t worry. Here are some quick fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before you start
 
@@ -52,6 +56,10 @@ Recommended
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Hallo Infinite](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  If there are any missing or corrupted game files, you may encounter the black screen issue in Halo Infinite. To rule out the issue, you can verify the integrity of game files via Steam. Here’s how:
@@ -60,6 +68,11 @@ Recommended
 2. Right-click**Halo Infinite** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-properties.jpg)
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -67,9 +80,6 @@ Recommended
 
 If the issue remains, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  A faulty or outdated graphics driver could impact your game performance and cause the black screen issue. To ensure Halo Infinite works properly on your device, you need to keep your graphics driver up to date.
@@ -82,20 +92,19 @@ If the issue remains, check out the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Halo Infinite again to see if your problem is resolved.
 
 If the issue persists, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Check for Windows updates
 
  Much like cell phone updates, Windows updates are intended to give you new functionality, security improvement and bug fixes, helping your device run smoothly and efficiently. If you can’t remember the last time you ran Windows Update, you should give it a try now. To do so:
@@ -103,9 +112,11 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
@@ -113,8 +124,9 @@ If the issue persists, take a look at the next fix.
  If your system is up to date and you still get a black screen, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Allow the game through Windows Firewall
 
  Windows Firewall may block the normal operation of your game and cause the black screen issue. To fix the potential problem, you need to add Halo Infinite to the exception list of Windows Firewall. Here’s how:
@@ -122,14 +134,8 @@ If the issue persists, take a look at the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
 5. Click**OK** .
@@ -147,17 +153,15 @@ If the issue persists, take a look at the next fix.
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
@@ -174,10 +178,11 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Reinstall Halo Infinite.
 
 Now you should be able to run the game without any problems.
@@ -195,8 +200,6 @@ Now you should be able to run the game without any problems.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -204,4 +207,19 @@ Now you should be able to run the game without any problems.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-maximizing-view-quality-on-team-meetings-in-ms-teams/"><u>[New] In 2024, Maximizing View Quality on Team Meetings in MS Teams</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-essential-fbx-techniques-for-capturing-games/"><u>[Updated] 2024 Approved Essential FBX Techniques for Capturing Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-pioneering-image-editing-with-toolwiz-a-compre-written-review/"><u>[Updated] Pioneering Image Editing with Toolwiz – A Compre Written Review</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-complete-guide-to-eradicating-youtube-keep-queue-for-2024/"><u>[Updated] The Complete Guide to Eradicating YouTube Keep Queue for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-instagram-and-soundtracks-demystifying-legalities/"><u>2024 Approved Instagram & Soundtracks Demystifying Legalities</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-pc-application-errors-discover-6-dependable-fixes-for-stray-crashing-issues/"><u>Eliminate PC Application Errors: Discover 6 Dependable Fixes for 'Stray Crashing' Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-steam-game-data-syncs-with-the-cloud-a-comprehebate-guide/"><u>Ensuring Steam Game Data Syncs with the Cloud - A Comprehebate Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-launch-issues-with-the-thaumaturge-software-on-desktop-systems/"><u>Expert Tips for Repairing Launch Issues with the Thaumaturge Software on Desktop Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-connection-failed-bug-for-game-cheaters-on-eft/"><u>How to Fix the Persistent 'Connection Failed' Bug for Game Cheaters on EFT</u></a></li>
+<li><a href="https://win-able.techidaily.com/mlb-the-show-21-online-play-troubleshooting-guide-for-smooth-gaming/"><u>MLB The Show 21 Online Play Troubleshooting Guide for Smooth Gaming</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-transform-into-a-cartoon-16-essential-apps-for-mobile/"><u>New In 2024, Transform Into a Cartoon 16 Essential Apps for Mobile</u></a></li>
+<li><a href="https://win-online.techidaily.com/1728510070950-windows-115/"><u>Windows 11更新後の消えたファイルを取り戻す手順：上位5選</u></a></li>
+</ul></div>
 

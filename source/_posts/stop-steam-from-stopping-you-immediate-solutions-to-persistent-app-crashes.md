@@ -1,7 +1,7 @@
 ---
 title: "Stop Steam From Stopping You: Immediate Solutions to Persistent App Crashes"
-date: 2024-12-09T17:07:16.329Z
-updated: 2024-12-12T16:19:49.648Z
+date: 2024-12-12T18:08:56.967Z
+updated: 2024-12-19T16:39:44.168Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **Graphics**  | AMD Radeon™ HD 7850 2GB NVIDIA GeForce® GTX 660 2GB | AMD Radeon™ RX 480 4GB NVIDIA GeForce® GTX 1060 3GB |
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -69,10 +73,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Wait for the process to complete.
 
  Restart Origin and play your game to see if the crashing issue persists. If the game keeps crashing randomly, move on to the next fix.
@@ -85,6 +85,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
@@ -94,7 +98,7 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
@@ -115,10 +119,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -133,7 +133,7 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 4) Restart your PC for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reset Battlefront 2
@@ -147,10 +147,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 3) Play Battlefront 2 again to test the issue.
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Revert back to DX11
 
@@ -176,19 +172,11 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Apply** \>**OK** .
 
  4) Go to your game installation folder and run your game exe file as administrator too.
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable antivirus software temporarily
 
@@ -209,6 +197,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 If the game keeps crashing, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -219,13 +211,13 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
@@ -235,9 +227,17 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
 
@@ -297,17 +297,19 @@ If the game keeps crashing, you can try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-a-filmmakers-guide-seamless-editing-and-uploading-360-degree-footage-for-youtube-for-2024/"><u>[New] A Filmmaker's Guide Seamless Editing & Uploading 360-Degree Footage for YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimal-android-apps-for-clear-screen-recordings/"><u>[Updated] 2024 Approved Optimal Android Apps for Clear Screen Recordings</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-instant-insight-into-colour-difference-filming-methods-for-2024/"><u>[Updated] Instant Insight Into Colour Difference Filming Methods for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blunders-fixing-directx-glitches-in-your-fifa-20-installation/"><u>Beat the Blunders: Fixing DirectX Glitches in Your FIFA 20 Installation</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996849488-dayz-stability-revealed-how-to-prevent-game-crashes-easily-and-fast/"><u>DayZ Stability Revealed! How to Prevent Game Crashes Easily and Fast!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-perfect-match-zebra-gk420d-printed-circuit-board-pcb-drivers-instantly/"><u>Download the Perfect Match: Zebra GK420D Printed Circuit Board (PCB) Drivers Instantly!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-how-to-stop-street-fighter-6-crashes-on-pc-essential-fixes/"><u>Expert Guide: How to Stop Street Fighter 6 Crashes on PC - Essential Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-pc-games-from-crashing-solving-halo-grovered-issues/"><u>How To Stop PC Games From Crashing - Solving Halo Grovered Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/hp-visual-output-issues-heres-how-you-can-resolve-them/"><u>HP Visual Output Issues? Here's How You Can Resolve Them!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-nokia-g22-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Nokia G22 Fingerprint Lock</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/splice-video-editor-on-mac-download-guide-and-best-alternative/"><u>Splice Video Editor on Mac Download Guide and Best Alternative</u></a></li>
-<li><a href="https://fox-sys.techidaily.com/windows-11aomei/"><u>Windows 11硬碟拷貝大全：智者所用AOMEI备份</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-complete-review-for-hero4-black-for-2024/"><u>[New] Complete Review for Hero4 Black for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-showcasing-self-with-instagram-a-collection-of-100-captions/"><u>[New] In 2024, Showcasing Self with Instagram A Collection of 100 Captions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-boost-your-content-with-top-notch-tiktok-video-edit-tricks/"><u>[Updated] Boost Your Content with Top-Notch TikTok Video Edit Tricks</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-elevate-your-channels-optimal-use-of-templated-content-in-yt-descs/"><u>[Updated] Elevate Your Channels Optimal Use of Templated Content in YT Descs</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-virtual-venue-vaults-users/"><u>2024 Approved Virtual Venue Vaults Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/batman-arkham-knight-how-to-prevent-frequent-crashes-and-errors/"><u>Batman Arkham Knight - How to Prevent Frequent Crashes and Errors</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/diagnosing-audiovideo-card-issues-a-step-by-step-guide-yl-technologies/"><u>Diagnosing Audio/Video Card Issues: A Step-by-Step Guide - YL Technologies</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-crashes-effective-fixes-for-persistent-issues-with-nox-player-pc-edition/"><u>Eliminating Crashes: Effective Fixes for Persistent Issues with Nox Player PC Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/engineering-peak-canon-sequential-films-for-2024/"><u>Engineering Peak Canon Sequential Films for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/five-expert-strategies-for-addressing-the-start-without-video-glitch-in-zoom/"><u>Five Expert Strategies for Addressing the 'Start Without Video' Glitch in Zoom</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-your-valve-game-from-vanishing-tf2-solutions/"><u>How to Prevent Your Valve Game From Vanishing - TF2 Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nokia-g310-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nokia G310? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-through-star-wars-squadrons-crash-mysteries-now-resolved/"><u>Navigating Through Star Wars Squadrons Crash Mysteries - Now Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-persistent-discord-performance-issues/"><u>Troubleshooting Tips for Persistent Discord Performance Issues</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving the Issue of Non-Launching Far Cry 6 for Windows Users
-date: 2024-08-27T20:32:31.469Z
-updated: 2024-08-28T20:32:31.469Z
+date: 2024-12-14T17:20:58.999Z
+updated: 2024-12-19T18:23:43.491Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 
 Follow the steps below to fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: Check the requirements
 
  Make sure your PC has meet the minimum requirements of Yakuza 6: The Song of Life.
@@ -57,33 +54,19 @@ Follow the steps below to fix the crashing issue.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 3: Install beta patch
 
  The SEGA Team released a new patch to fix the crashes. Follow the steps below to solve the issues with the latest patch.
@@ -93,6 +76,11 @@ Restart your computer for the changes to take effect.
 2. Go to the**BETAS** tab and enter the beta access code**yakuza6patch** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
@@ -105,18 +93,21 @@ Restart your computer for the changes to take effect.
 2. In the Compatibility tab, click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
-4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
-5. Save the changes and relaunch the game.
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
+4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
+5. Save the changes and relaunch the game.
+
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Edit Settings
 
@@ -125,29 +116,35 @@ Restart your computer for the changes to take effect.
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -159,8 +156,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +163,17 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-nailing-your-live-on-facebook-a-recorders-manual/"><u>[Updated] In 2024, Nailing Your Live on Facebook A Recorder's Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-strengthen-your-footage-using-a-tripod-in-vlogging/"><u>[Updated] Strengthen Your Footage Using a Tripod in Vlogging</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-your-csgo-user-cannot-log-in-problem-with-these-5-troubleshooting-steps/"><u>Cure Your CS:GO 'User Cannot Log In' Problem with These 5 Troubleshooting Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-the-battle-of-not-starting-mastering-civilization-vi-on-your-pc/"><u>Defeat the Battle of Not Starting: Mastering Civilization VI on Your PC</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-guide-creating-stunning-presentations-using-vlc-media-players-slideshow-feature/"><u>Easy Guide: Creating Stunning Presentations Using VLC Media Player's Slideshow Feature</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-call-of-duty-black-ops-4-not-loading-issue/"><u>Fix: Call of Duty Black Ops 4 Not Loading Issue</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-do-you-get-sun-stone-evolutions-in-pokemon-for-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How Do You Get Sun Stone Evolutions in Pokémon For Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-system-crashes-on-your-computer-top-6-tips/"><u>How to Fix Persistent System Crashes on Your Computer – Top 6 Tips</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-vivo-t2-pro-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Vivo T2 Pro 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>In 2024, Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
+</ul></div>
 

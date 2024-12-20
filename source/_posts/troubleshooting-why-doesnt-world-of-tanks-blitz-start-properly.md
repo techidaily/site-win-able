@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Doesn't 'World of Tanks Blitz' Start Properly?"
-date: 2024-12-09T16:21:45.635Z
-updated: 2024-12-12T16:58:41.803Z
+date: 2024-12-13T16:41:25.527Z
+updated: 2024-12-19T17:23:10.877Z
 tags:
   - win11
   - win10
@@ -75,6 +75,10 @@ To do so, you can:
 
 ![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-security-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select **Virus & threat protection**  from the left pane. Scroll down and under the **Ransomware protection**  section, click **Manage ransomware protection** .
 
 ![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/manage-ransomware-protection-1200x684.png)
@@ -88,10 +92,6 @@ To do so, you can:
 
 ![allow  an app through controlled folder access FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/09/allow-an-app-through-controlled-folder-access-2-1-1200x684.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Then navigate to the game’s installation folder and select**FIFA 21.exe** , also**FIFA 21 trial.exe & FIFAconfig.exe** (only if you have them).
 
  Also, if you’re using any antivirus software like Avast, AVG, you’re supposed to disable them before you launch your game. Because there is a possibility that this antivirus software is in conflict with your game launching.
@@ -99,7 +99,7 @@ To do so, you can:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
@@ -113,10 +113,6 @@ There are two ways you can update your graphics driver:
 OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-fifa-21-not-launching/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Option 1 – Manually update your graphics drivers
 
@@ -140,10 +136,6 @@ Here’s how you can update your drivers with Driver Easy:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
 ![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -181,6 +173,10 @@ Here’s how you can update your drivers with Driver Easy:
 
 ![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/click-My-Game-Library-on-Origin.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on**FIFA 21** . Scroll down and click on**Settings** (the gear icon), then select**Game Properties** .
 
 ![disable in-game overlay on Origin FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-settings-and-then-select-Game-Properties.jpg)
@@ -204,16 +200,12 @@ Here’s how you can update your drivers with Driver Easy:
 ![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/select-Properties-on-Steam-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select the **LOCAL FILES**  tab and click the **VERIFY INTEGRITY OF GAME FILES…** button.
 
 ![verify integrity of game files on Steam FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Steam will verify the game’s files and this process may take several minutes. After it’s finished, launch your game to check if it works for you. If not, move on to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -274,6 +266,10 @@ To make sure you’ve completely quit Origin, you can:
 
 ![Run FIFA 21 in compatibility mode for Windows 8 FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2\. Select the**Compatibility** tab and check the box**Run this program in compatibility mode for:** (make sure that you select**Windows 8** ). Then click**Apply > OK** .
 
 ![Run FIFA 21 in compatibility mode for Windows 8 FIFA 21 not launching](https://images.drivereasy.com/wp-content/uploads/2020/10/run-FIFA-21-in-compatibility-mode-2.jpg)
@@ -281,6 +277,10 @@ To make sure you’ve completely quit Origin, you can:
  After applying the changes, launch your game again and check if the game not launching issue persists. If it does, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Change DIRECTX\_SELECT value
 
@@ -293,6 +293,10 @@ To make sure you’ve completely quit Origin, you can:
  2) If the**DIRECTX\_SELECT** value is**0** . You can change it to**1** . If it’s**1** , change it to**0** .
 
 ![Change DIRECTX_SELECT value](https://images.drivereasy.com/wp-content/uploads/2020/10/if-the-directselect-value-is-0.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) After applying the changes, click**File > Save** .
 
@@ -310,10 +314,6 @@ To make sure you’ve completely quit Origin, you can:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/set-the-settings-to-default-in-FIFA-21-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) When you’re guided to the**Game Settings** window, click**Restore Default** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Restore-Default.jpg)
@@ -321,6 +321,10 @@ To make sure you’ve completely quit Origin, you can:
 3) Now try to relaunch your game.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 9: Launch FIFA 21 in Windowed or Windowed borderless mode
 
@@ -338,10 +342,6 @@ To make sure you’ve completely quit Origin, you can:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 10: Delete files from ProgramData (Origin)
 
  There’re some files that are corrupted, which would probably stop the game from launching. So you need to delete them.
@@ -357,7 +357,7 @@ To make sure you’ve completely quit Origin, you can:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/do-not-delete-this-file-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 11: Delete files from AppData (Origin)
@@ -403,21 +403,24 @@ To make sure you’ve completely quit Origin, you can:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-key-insights-fifa-content-on-youtube-charted/"><u>2024 Approved Key Insights FIFA Content on YouTube Charted</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/a-guide-honor-magic5-ultimate-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor Magic5 Ultimate Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-stop-garrys-mod-from-crashing-gamers-guide/"><u>Effective Solutions to Stop Garry's Mod From Crashing: Gamer's Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013607895-eradicate-your-pc-playthrough-problems-elite-strategies-to-resolve-troy-total-war-issues/"><u>Eradicate Your PC Playthrough Problems: Elite Strategies to Resolve 'Troy' Total War Issues</u></a></li>
-<li><a href="https://common-error.techidaily.com/fix-your-non-functional-laptop-trackpad-on-windows-10-8-and-7-step-by-step-solutions/"><u>Fix Your Non-Functional Laptop Trackpad on Windows 10, 8 & 7: Step by Step Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-when-your-voice-chat-strikes-a-content-warning/"><u>How to Restore Functionality when Your Voice Chat Strikes a Content Warning</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/how-to-spot-and-diagnose-memory-defects-in-windows-expert-picks-from-yl-software-solutions/"><u>How to Spot and Diagnose Memory Defects in Windows: Expert Picks From YL Software Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>In 2024, Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007329785-optimized-cyberpunk-2077-gameplay-bid-farewell-to-lag-and-glitches-today/"><u>Optimized Cyberpunk 2077 Gameplay - Bid Farewell to Lag & Glitches Today</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ering-video-structuring-methods-on-youtube-for-2024/"><u>Pioneering Video Structuring Methods on YouTube for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-voice-chat-functionality-in-among-us-on-your-desktop-computer/"><u>Restoring Voice Chat Functionality in Among Us on Your Desktop Computer</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-9-tecno-spark-20-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Tecno Spark 20 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-mw3-stability-issues-quick-fixes-to-prevent-game-crashes-on-windows-computers/"><u>Troubleshooting Common MW3 Stability Issues – Quick Fixes to Prevent Game Crashes on Windows Computers</u></a></li>
-<li><a href="https://win-forum.techidaily.com/unleash-your-windows-potential-a-comprehensive-guide-on-registry-keys-via-revo-uninstaller/"><u>Unleash Your Windows Potential: A Comprehensive Guide on Registry Keys via Revo Uninstaller</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-add-a-sense-of-urgency-3-quick-steps-to-create-a-countdown-in-fcpx-for-2024/"><u>Updated Add a Sense of Urgency 3 Quick Steps to Create a Countdown in FCPX for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/zoom-stability-enhancements-for-windows-11-and-10-users/"><u>Zoom Stability Enhancements for Windows 11 & 10 Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-underwater-cinematography-made-simple-top-7-tips/"><u>[New] 2024 Approved Underwater Cinematography Made Simple Top 7 Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-minecraft-ultimate-recording-techniques-for-2024/"><u>[New] Mastering Minecraft Ultimate Recording Techniques for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-twitters-peak-moments-highest-viewed-videos/"><u>[Updated] In 2024, Twitter's Peak Moments Highest-Viewed Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-5-methods-for-capturing-roblox-games-on-macos-for-2024/"><u>[Updated] Top 5 Methods for Capturing Roblox Games on macOS for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-and-resolving-the-elden-ring-multiplayer-connection-glitches/"><u>Addressing and Resolving the Elden Ring Multiplayer Connection Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/bust-the-glitch-7-effective-solutions-for-smoothing-out-freezes-in-halo-infinite-on-pc/"><u>Bust the Glitch: 7 Effective Solutions for Smoothing Out Freezes in Halo Infinite on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome-flicker-no-more-master-the-fixes-on-windows-os-comprehensive-manual-for-202n-a-step-by-step-process/"><u>Chrome Flicker No More: Master the Fixes on Windows OS (Comprehensive Manual for 202N) - A Step-by-Step Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013684860-get-unstuck-in-no-time-resolve-your-madden-22-load-screen-problems-instantly/"><u>Get Unstuck in No Time: Resolve Your Madden 22 Load Screen Problems Instantly</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-dfu-mode-on-iphone-8-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of DFU Mode on iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-shadow-flight-new-camera-frontier/"><u>In 2024, Shadow Flight New Camera Frontier</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-warcraft-n3-reforged-game-crashes-for-windows-users/"><u>Resolving Warcraft N3 Reforged Game Crashes for Windows Users</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solving-pc-issues-a-step-by-step-walkthrough-for-stable-cyberpunk-2077-gameplay/"><u>Solving PC Issues: A Step-by-Step Walkthrough for Stable Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-helldivers-2-bsod-blue-screen-of-death-a-comprehensive-guide/"><u>Solving the 'Helldivers 2' BSOD (Blue Screen Of Death) - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-running-crusader-kings-ii-solutions-to-game-not-launching-problems/"><u>Successfully Running Crusader Kings II: Solutions to Game Not Launching Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gzw-crashes-a-comprehensive-guide-for-smooth-pc-gaming-experience/"><u>Troubleshooting GZW Crashes: A Comprehensive Guide for Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-freezing-issues-in-call-of-duty-vanguard/"><u>Troubleshooting Tips: Resolving Freezing Issues in Call of Duty: Vanguard</u></a></li>
 </ul></div>
 

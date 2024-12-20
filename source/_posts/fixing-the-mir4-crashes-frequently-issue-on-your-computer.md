@@ -1,7 +1,7 @@
 ---
 title: Fixing the 'MIR4 Crashes Frequently' Issue on Your Computer
-date: 2024-08-27T20:30:56.541Z
-updated: 2024-08-28T20:30:56.541Z
+date: 2024-12-12T17:42:23.789Z
+updated: 2024-12-19T19:01:16.787Z
 tags:
   - win11
   - win10
@@ -40,13 +40,18 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -75,8 +80,9 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -85,9 +91,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -95,6 +98,10 @@ Here is how to verify the integrity of Dauntless:
  Hopefully your Dauntless crashing issue is resolved by now. If it’s still no joy, please move on to**Fix 5** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus program
 
@@ -118,29 +125,24 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
 ---
@@ -155,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,26 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhanced-reality-gaming-top-10-pc-vr-players-for-virtual-adventures/"><u>[Updated] 2024 Approved Enhanced Reality Gaming Top 10 PC VR Players for Virtual Adventures</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-distinguishing-designs-effective-podcast-brand-identity/"><u>[Updated] Distinguishing Designs Effective Podcast Brand Identity</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-essential-apps-best-10-software-to-capture-your-screens/"><u>[Updated] Essential Apps Best 10 Software to Capture Your Screens</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-prime-strategies-for-high-quality-youtube-mp3mpeg/"><u>[Updated] In 2024, Prime Strategies for High-Quality YouTube MP3/MPEG</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-social-syncopation-the-rhythm-of-sharing-media-on-facebook-for-2024/"><u>[Updated] Social Syncopation The Rhythm of Sharing Media on Facebook for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-analysis-of-srt-unpacking-its-significance/"><u>2024 Approved Expert Analysis of SRT Unpacking Its Significance</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/1728473805634-aomei-backupper/"><u>AOMEI Backupper - ただ一度のダウンロードで安心サポート: 無料システム復元ツール</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-step-by-step-tutorial-resolving-teardown-application-crashes/"><u>Complete Step-by-Step Tutorial: Resolving Teardown Application Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009321382-discord-struggle-no-more-proven-tips-for-dealing-with-unresponsive-launches-and-quick-fixes/"><u>Discord Struggle No More: Proven Tips for Dealing with Unresponsive Launches and Quick Fixes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-blue-screen-of-doom-solutions-for-msedgeexe-error-on-pc/"><u>Fixing the Blue Screen of Doom: Solutions for Msedge.exe Error on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-discord-from-crashing-during-live-streams/"><u>Fixing the Issue: How to Stop Discord From Crashing During Live Streams</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/increasing-frame-rate-and-smoothing-gameplay-a-guide-to-enhancing-performance-in-the-ascent/"><u>Increasing Frame Rate & Smoothing Gameplay: A Guide to Enhancing Performance in 'The Ascent'</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-wont-start-heres-how-you-can-fix-it-easily/"><u>Minecraft Won't Start? Here's How You Can Fix It Easily!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-problems-six-ways-to-enhance-your-playtime-with-call-of-duty-modern-warfare-2-on-pc/"><u>Overcoming Stability Problems – Six Ways to Enhance Your Playtime with Call of Duty Modern Warfare 2 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/pixel-perfect-performance-fixing-unclear-visuals-in-the-console-game-call-of-duty-warzone-for-pc-players/"><u>Pixel Perfect Performance: Fixing Unclear Visuals in the Console Game, Call of Duty: Warzone (for PC Players)</u></a></li>
+<li><a href="https://fox-place.techidaily.com/recuperacion-efectiva-de-imagenes-eliminadas-en-iphone-pasos-claros-incluso-tras-30-dias/"><u>Recuperación Efectiva De Imágenes Eliminadas en iPhone: Pasos Claros Incluso Tras 30 Días</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/speedy-elgato-driver-setup-for-optimal-performance/"><u>Speedy Elgato Driver Setup for Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-preventing-gtfo-malfunctions/"><u>Troubleshooting Tips for Preventing GTFO Malfunctions</u></a></li>
+</ul></div>
 

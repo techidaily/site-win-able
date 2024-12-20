@@ -1,7 +1,7 @@
 ---
 title: No More Crashes in Sea of Thieves – Your Complete Solution
-date: 2024-08-23T11:31:03.192Z
-updated: 2024-08-24T11:31:03.192Z
+date: 2024-12-14T19:25:47.021Z
+updated: 2024-12-19T16:10:25.570Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Do an App reset
 
  Reset the Sea of Thieves is a good option to try. This method will revert the game to its default settings which may fix the won’t launch issue.
@@ -67,15 +71,14 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 3. Type “**wsreset.exe** ” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
@@ -88,24 +91,20 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 1. Press the **Windows Key** \+ I and click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click **Region** and check your region is corrected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4: Run Powershell
 
  Besides these basic fixes, you can use Powershell to enforce the application to launch.
@@ -114,8 +113,17 @@ It is really upset when you want to play**Sea of Thieves but it won’t launch**
 2. Type “powershell” and hit**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)\\AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Update your drivers and programs
 
@@ -145,11 +153,16 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your PC and run Sea of Thieves to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable incompatible apps
 
@@ -157,9 +170,6 @@ OR
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall your game
 
  If the above fixes don’t work, reinstall your game may be the only choice. The clean uninstall can delete every file, then redownload and install it from Microsoft store. This can make sure there’s no corruption or wrongly installed files which should make the game work again.
@@ -176,8 +186,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +193,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-elevate-your-instagram-aesthetic-with-new-and-old-filters/"><u>[New] In 2024, Elevate Your Instagram Aesthetic with New and Old Filters</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-the-essential-guide-instagram-optimization-through-final-cut-pro-x/"><u>[New] The Essential Guide Instagram Optimization Through Final Cut Pro X</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-deciphering-the-mechanics-of-whatsapp-calls/"><u>[Updated] In 2024, Deciphering the Mechanics of WhatsApp Calls</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-the-complete-blueprint-for-optimizing-data-in-adobes-cloud-realm/"><u>[Updated] In 2024, The Complete Blueprint for Optimizing Data in Adobe's Cloud Realm</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tune-tracker-audio-for-visual-creations/"><u>[Updated] Tune Tracker Audio for Visual Creations</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005547552-audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/breaking-into-solos-creating-popular-podcasts-for-2024/"><u>Breaking Into Solos Creating Popular Podcasts for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/convert-flash-videos-swf-to-mp4-format-for-free-with-movavis-web-based-tool/"><u>Convert Flash Videos (SWF) to MP4 Format for Free with Movavi's Web-Based Tool</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-guide-updating-your-broadcom-bluetooth-driver-for-windows-1087-systems/"><u>Easy Guide: Updating Your Broadcom Bluetooth Driver for Windows 10/8/7 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-ways-to-fix-a-malfunctioning-battlenet-launcher-on-your-pc/"><u>Effective Ways to Fix a Malfunctioning Battle.net Launcher on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/increase-your-gameplay-smoothness-with-these-6-essential-fixes-for-escape-from-tarkov-fps/"><u>Increase Your Gameplay Smoothness with These ^6 Essential Fixes for Escape From Tarkov FPS</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/mastering-instagram-video-streaming-quickness/"><u>Mastering Instagram Video Streaming Quickness</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-opening-problems-heres-how-you-can-fix-it/"><u>Resident Evil Village Opening Problems? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issues-with-insurgency-sandstorm-frequent-system-failures/"><u>Resolved Issues with 'Insurgency: Sandstorm' Frequent System Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-nier-automata-remastered-initialization-errors-effectively/"><u>Resolving NieR: Automata Remastered Initialization Errors Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/successful-troubleshooting-for-pathfinder-wrath-of-the-righteous-stability-issues/"><u>Successful Troubleshooting for 'Pathfinder: Wrath of the Righteous' Stability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-complete-guide-to-eliminating-discord-lags-advanced-troubleshooting-techniques-2024-edition/"><u>The Complete Guide to Eliminating Discord Lags: Advanced Troubleshooting Techniques, 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-prevent-hitman-3-from-crashing-on-your-pc-essential-tips-players/"><u>Troubleshoot and Prevent Hitman 3 From Crashing on Your PC - Essential Tips Players</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/iuodjeodgplusodioodrplusodvoocrplusodieodqeocpoodluobqpluswvvuobmeociplusodleocoeocpoodqplusodkoodgplusocrplusocouodgplusodlzrmnidmlrdjgqzjgqtjg4njgajoh6rli341/"><u>ネットワークドライブに対するファイルバックアップ:最新ガイドと自動化技術</u></a></li>
+</ul></div>
 

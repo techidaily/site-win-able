@@ -1,7 +1,7 @@
 ---
 title: How to Fix League of Legends Won’t Open – 2024 Tips
-date: 2024-08-27T20:33:07.224Z
-updated: 2024-08-28T20:33:07.224Z
+date: 2024-12-14T17:10:13.296Z
+updated: 2024-12-19T19:10:25.092Z
 tags:
   - win11
   - win10
@@ -83,17 +83,15 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -111,8 +109,9 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -129,6 +128,10 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -137,14 +140,8 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -157,14 +154,18 @@ thumbnail: https://thmb.techidaily.com/7c14c2521c5a7d6f2586dc7cce48c3b4142cae653
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -178,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-game-on-the-ultimate-guide-to-superior-offline-ios-fun/"><u>[New] 2024 Approved Game On The Ultimate Guide to Superior Offline iOS Fun</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-maximizing-youtube-income-universal-studio-insights/"><u>[Updated] Maximizing YouTube Income Universal Studio Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/10plus-best-photo-to-cartoon-softwares-for-2024/"><u>10+ Best Photo to Cartoon Softwares for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-record-breaking-reddit-threads-ranked-1-10/"><u>2024 Approved Record-Breaking Reddit Threads Ranked 1-10</u></a></li>
+<li><a href="https://win-able.techidaily.com/busting-bugs-how-to-keep-house-flipper-2-running-stable-on-windows-or-mac/"><u>Busting Bugs: How to Keep House Flipper 2 Running Stable on Windows or Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-visuals-error-troubleshooting-guide-fixed-issue/"><u>Destiny 2 Visuals Error: Troubleshooting Guide - Fixed Issue</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/easy-steps-to-overcome-android-device-wireless-security-verification-troubles/"><u>Easy Steps to Overcome Android Device Wireless Security Verification Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crash-point-errors-a-guide-to-stable-ue4-arise-creation/"><u>Fixing Crash Point Errors: A Guide to Stable UE4 Arise Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-cannot-connect-to-nvidia-problem-successfully/"><u>How to Overcome the 'Cannot Connect to NVIDIA' Problem Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-elden-ring-launch-eradicating-the-annoying-initial-blackout-with-these-tips/"><u>Mastering Elden Ring Launch - Eradicating the Annoying Initial Blackout with These Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-league-of-legends-network-problems/"><u>Resolved: Fixing League of Legends Network Problems</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1124198-9781619400450-the-astral-world/"><u>The Astral World | Free Book</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-supreme-joy-con-and-controller-compendium-nintendo-switch-2024/"><u>The Supreme Joy-Con & Controller Compendium (Nintendo Switch, 2024)</u></a></li>
+</ul></div>
 

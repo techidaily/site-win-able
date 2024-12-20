@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Instructions: Eliminating Steam Error Code 130 Once and For All!"
-date: 2024-08-23T11:31:11.671Z
-updated: 2024-08-24T11:31:11.671Z
+date: 2024-12-13T17:45:29.865Z
+updated: 2024-12-19T16:18:32.236Z
 tags:
   - win11
   - win10
@@ -41,6 +41,11 @@ Here’s how to do it on the Epic Games client:
 1. Open your Epic Games client and go to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 Now you can try again and see if Civ 6 launches.
@@ -48,8 +53,9 @@ Now you can try again and see if Civ 6 launches.
 If this doesn’t help, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  It’s very likely that your game won’t run when you’re using**a broken or outdated graphics driver** . If you’re an avid gamer, you should always keep your drivers up to date so as to avoid compatibility and performance issues.
@@ -60,9 +66,11 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -81,14 +89,15 @@ If this doesn’t help, you can take a look at the next fix below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -101,16 +110,20 @@ If this solution doesn’t help, you can continue to the next one.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -123,24 +136,19 @@ If a clean boot doesn’t help, you can check out the next fix.
 1. Go to the support page of Microsoft. Under the**Visual Studio 2015, 2017 and 2019 section** , click**vc\_redist.x64.exe** and download the installer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully, you’ve fixed the issue and can get your game working as expected. If you have any problems, simply leave a comment and we’ll get back to you.
@@ -153,8 +161,6 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +168,19 @@ If a clean boot doesn’t help, you can check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-how-to-make-a-video-meme-for-facebook-and-instagram/"><u>[New] 2024 Approved How to Make a Video Meme for Facebook and Instagram</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-tech-for-home-screenings-for-2024/"><u>[New] Premium Tech for Home Screenings for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamline-your-skype-talks-using-obs-effectively/"><u>[New] Streamline Your Skype Talks Using OBS Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-premium-selection-top-5-budget-friendly-vecto-portals/"><u>2024 Approved Premium Selection – Top 5 Budget-Friendly Vecto Portals</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011732097-cult-of-the-lamb-stability-hacks-no-more-pc-disruptions/"><u>Cult of the Lamb Stability Hacks - No More PC Disruptions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989888853-god-of-war-leaps-to-life-as-a-first-person-shooter-now-playable-on-your-computer/"><u>God of War Leaps to Life as a First-Person Shooter – Now Playable on Your Computer</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-2023-online-facebook-video-to-mp3-converters/"><u>In 2024, 2023 Online Facebook Video to MP3 Converters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/joining-jpegs-effortlessly-on-your-pc/"><u>Joining JPEGs Effortlessly on Your PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/revolutionizing-diy-fabrication-an-insightful-evaluation-of-the-elegoo-neptune-4-pros-capabilities/"><u>Revolutionizing DIY Fabrication – An Insightful Evaluation of the Elegoo Neptune 4 Pro's Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-issue-nier-replicante-game-no-longer-experiences-crashes/"><u>Solved Issue: NieR: Replicante Game No Longer Experiences Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-fixing-persistent-zoom-issues-in-windows-operating-systems-windows-1011/"><u>Ultimate Guide: Fixing Persistent Zoom Issues in Windows Operating Systems (Windows 10/11)</u></a></li>
+</ul></div>
 

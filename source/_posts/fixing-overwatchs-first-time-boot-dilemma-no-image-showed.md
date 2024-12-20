@@ -1,7 +1,7 @@
 ---
 title: Fixing Overwatch's First-Time Boot Dilemma – No Image Showed
-date: 2024-12-05T16:06:55.127Z
-updated: 2024-12-12T16:11:57.877Z
+date: 2024-12-14T16:39:15.667Z
+updated: 2024-12-19T16:54:26.512Z
 tags:
   - win11
   - win10
@@ -25,10 +25,6 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,7 +58,7 @@ thumbnail: https://thmb.techidaily.com/6504740a985b93f1ab7ddf2a2493507fc4e1a65d7
  If the latest GPU driver doesn’t give you luck, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
@@ -79,14 +75,14 @@ Here’s how you can check for updates manually:
 3. Click**Windows Update** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -96,6 +92,10 @@ Here’s how you can check for updates manually:
 Once done, restart your PC and see if Warzone is using your GPU.
 
  If updating your system doesn’t help, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change settings in your graphics control panel
 
@@ -107,6 +107,10 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
@@ -128,15 +132,11 @@ Once done, restart your PC and see if Warzone is using your GPU.
 4. Click**Options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
@@ -144,7 +144,7 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If this setting doesn’t help, take a look at the next solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
@@ -175,18 +175,24 @@ Once done, restart your PC and see if Warzone is using your GPU.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-how-to-make-a-great-educational-video-for-youtube/"><u>[New] 2024 Approved How to Make a Great Educational Video for YouTube?</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-when-worlds-crumble-premium-guide-to-top-zombie-games-for-2024/"><u>[New] When Worlds Crumble Premium Guide to Top Zombie Games for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-fps-drops-on-pc/"><u>[SOLVED] Resident Evil Village Fps Drops on PC</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-transform-your-ig-story-with-melodic-elements-without/"><u>[Updated] Transform Your IG Story with Melodic Elements (Without)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/benefits-and-drawbacks-unveiling-the-truth-about-pidgin-messenger/"><u>Benefits and Drawbacks - Unveiling the Truth About Pidgin Messenger</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/comprehensively-understanding-youtubes-aspect-ratio-ecosystem/"><u>Comprehensively Understanding YouTube's Aspect Ratio Ecosystem</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009430607-epic-games-launcher-troubleshooting-fix-not-opening-issues-fast/"><u>Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-msi-backlight-not-functioning-correctly-in-windows-solutions-and-tips/"><u>Fixing MSI Backlight Not Functioning Correctly in Windows - Solutions and Tips</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-ios-system-of-apple-iphone-xs-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-rectify-outlook-not-connected-problems/"><u>How to Successfully Rectify 'Outlook Not Connected' Problems</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-best-mc-housing-plans-for-vibrant-villages/"><u>In 2024, Best MC Housing Plans for Vibrant Villages</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-record-and-share-moments-instantly-using-vlcs-webcam-recorder/"><u>In 2024, Record & Share Moments Instantly Using VLC's Webcam Recorder</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-and-fixing-cod-mw-dev-error-6034-on-windows-and-xbox-consoles/"><u>Ultimate Guide: Troubleshooting and Fixing CoD: MW Dev Error 6034 on Windows and Xbox Consoles</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unveiling-similarities-and-divergences-in-triller-and-tiktok-max-156-chars/"><u>[Updated] 2024 Approved Unveiling Similarities & Divergences in Triller and TikTok (Max 156 Chars)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-7-simple-methods-for-capturing-youtube-content-for-2024/"><u>[Updated] 7 Simple Methods for Capturing YouTube Content for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/2-mastering-the-switch-free-conversion-of-mpc-tracks-to-wav-audio-quality/"><u>2. Mastering the Switch: Free Conversion of MPC Tracks to WAV Audio Quality!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/addressing-and-fixing-invalid-inf-installation-sections/"><u>Addressing and Fixing Invalid INF Installation Sections</u></a></li>
+<li><a href="https://win11.techidaily.com/averting-interruptions-with-solid-connections-in-windows/"><u>Averting Interruptions with Solid Connections in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blunder-effective-strategies-to-repair-your-steam-connection-errors-today/"><u>Beat the Blunder: Effective Strategies to Repair Your Steam Connection Errors Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-performance-issues-resolved-overcoming-fps-drops-and-crashes/"><u>Cyberpunk 2077 Performance Issues Resolved – Overcoming FPS Drops and Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-samsung-galaxy-a25-5g-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Samsung Galaxy A25 5G in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-resident-evil-village-performance-problems-on-pc-a-complete-guide/"><u>Fixing Resident Evil Village Performance Problems on PC: A Complete Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992888057-how-do-you-upgrade-old-minecraft-video-card-drivers-heres-the-solution/"><u>How Do You Upgrade Old Minecraft Video Card Drivers? Here's the Solution!</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-cutting-edge-professional-guide-to-youtube-editing/"><u>In 2024, Cutting Edge Professional Guide to YouTube Editing</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/investing-in-wi-fi-mesh-networking-pros-and-cons/"><u>Investing in Wi-Fi Mesh Networking: Pros and Cons</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-to-fix-high-cpu-usage-during-a-phasmophobia-session/"><u>Optimizing Your PC to Fix High CPU Usage During a Phasmophobia Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-issues-with-star-wars-squadrons-crashing-problems-a-detailed-fix-list/"><u>Overcome Issues with Star Wars: Squadrons Crashing Problems – A Detailed Fix List</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-to-rectify-error-0x800700e1-on-windows-11-pcs/"><u>Quick Fixes to Rectify Error 0X800700E1 on Windows 11 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-techniques-for-a-smooth-hogwarts-legacy-experience-preventing-initial-crashes/"><u>Top Techniques for a Smooth Hogwarts Legacy Experience: Preventing Initial Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-overcoming-apex-legends-engine-problems-easily/"><u>Top Tips for Overcoming Apex Legends Engine Problems Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dota-2s-decreased-fps-on-the-latest-microsoft-operating-system/"><u>Troubleshooting Dota 2'S Decreased FPS on the Latest Microsoft Operating System</u></a></li>
+<li><a href="https://apple-account.techidaily.com/troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-13-by-drfone-ios/"><u>Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 13</u></a></li>
 </ul></div>
 

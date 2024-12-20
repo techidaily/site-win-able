@@ -1,7 +1,7 @@
 ---
 title: "No More Lag in Street Fighter 6: Top Solutions to Combat High Latency for PC Players"
-date: 2024-12-05T16:16:30.422Z
-updated: 2024-12-12T16:22:43.774Z
+date: 2024-12-18T16:04:28.439Z
+updated: 2024-12-19T18:26:16.795Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
  If you’ve already done these, you can move on to the advanced troubleshooting below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -54,6 +54,10 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 8. **[Release Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Valorant](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Change your computer resolution
 
  Manufacturers will**stop updating drivers** for some GPUs after a period of time, that way they can phase out outdated graphics cards. Therefore some graphics cards might not have decent support for high resolution gaming.
@@ -66,10 +70,6 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-47-42.jpg)
 3. Choose a**lower** resolution.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_14-51-18.jpg)
 
@@ -91,6 +91,10 @@ Being the second game from Riot after its blockbuster League of Legends, Valoran
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver,**launch Valorant** and see if the issue persists.
@@ -104,6 +108,10 @@ If this trick doesn’t work for you, simply try the next one.
 1. On your desktop,**right click** the Valorant icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
 2. Select the**Compatibility** tab. Under**Compatibility mode** section,**check** the box before**Run this program in compatibility mode for** . If you’re on Windows 10, set it to**Windows 8** . If you’re on Windows 8, set it to Windows 7\. Click**OK** to finish.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-21-11.jpg)
 3. **Restart** your computer and**launch Valorant** .
@@ -121,10 +129,6 @@ If this trick doesn’t work for you, simply try the next one.
 2. On your desktop,**right click** the Valorant icon and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-16-07-1.jpg)
 3. Select the**Compatibility** tab. Under**Settings** section,**check** the box before**Run this program as an Administrator** . Click**OK** to finish.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_16-44-49-1.jpg)
 4. Launch Valorant and see if you can log in.
@@ -154,8 +158,16 @@ Here’s an example of how to disable Windows Security:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. In the left pane, click**Windows Security** . Then select**Virus & threat protection** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-1.png)
 3. Scroll to the**Virus & threat protection settings**  section and click **Manage settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-windows-defender-2.png)
 4. Under the **Real-time protection**  section, click the toggle button and turn it to **Off** .  
@@ -169,15 +181,15 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/game-not-available.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Recently we received reports of a Valorant startup error that reads “**This game is not available on your operating system** “. This error doesn’t seem to be system-related, since players are getting it even on Windows 10\. If you’re seeing this error, there’s one fix you can try before reinstalling.
 
 1. On your keyboard, press**Ctrl+Shift+Esc** to open**Task Manager** . Then right-click**VALORANT** and select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/end-valorant-task-mgr.jpg)
 2. Press**Win+R** to invoke the Run box, then type or paste**%localappdata%\\VALORANT\\Saved** and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/valorant-purge-config-1.jpg)
 3. Delete all the files in the**Config** and**Logs** folder. Then restart your PC and check if Valorant launches now.
@@ -189,14 +201,6 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
  First, download[**EmptyStandbyList**](https://wj32.org/wp/software/empty-standby-list) . This is a command line tool that can help you empty standby memory.
@@ -214,7 +218,7 @@ Here’s an example of how to disable Windows Security:
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
@@ -223,22 +227,18 @@ Here’s an example of how to disable Windows Security:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
 5. In the**Name** section, type or paste**Empty Standby Memory** . Then click**Change User or Group.** …  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-3.jpg)
 6. In the pop-up window, click**Advanced…** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-4.jpg)
 7. Click**Find Now** . In the search results, select**SYSTEM** . Then click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
@@ -256,10 +256,6 @@ Here’s an example of how to disable Windows Security:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 9: Reinstall Valorant
 
  So this is the final solution for you: reinstalling Valorant. This is only necessary when you have inconsistent game files, which often happens when you have an**unstable network connection** . To uninstall Valorant, try these steps:
@@ -267,6 +263,10 @@ Here’s an example of how to disable Windows Security:
 1. On your keyboard, press the**windows logo key** and**R** at the same time to invoke the**Run** box. Type “**control** ” and click**OK** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-07_17-45-57.jpg)
 2. Select**Programs and Features** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-10_10-03-56.jpg)
 3. One at a time,**double click** **Valorant and Riot Vanguard** to uninstall them.  
@@ -293,15 +293,20 @@ Here’s an example of how to disable Windows Security:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/oining-the-elite-your-roadmap-to-2024-ytp-benefits/"><u>[New] Joining the Elite Your Roadmap to 2024 YTP Benefits</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-cutting-edge-content-tips-for-excelling-in-facebook-video-sharing/"><u>[Updated] In 2024, Cutting-Edge Content Tips for Excelling in Facebook Video Sharing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/discover-every-thing-you-need-to-know-about-samsung-galaxy-watch-7-release-dates-costs-and-features-explained/"><u>Discover Every Thing You Need To Know About Samsung Galaxy Watch 7 - Release Dates, Costs & Features Explained!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-methods-for-improving-windows-video-clarity-and-resolution/"><u>Effortless Methods for Improving Windows Video Clarity and Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhanced-cyberpunk-2077-experience-solutions-for-eliminating-game-lags-and-hitches/"><u>Enhanced Cyberpunk 2077 Experience: Solutions for Eliminating Game Lags and Hitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-stuttering-and-crashing-in-starfield-for-pc-players/"><u>How to Fix Stuttering & Crashing in Starfield for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-fortnite-login-hiccups-effective-and-easy-strategies-unveiled/"><u>Mastering Fortnite Login Hiccups: Effective & Easy Strategies Unveiled!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/solve-your-logitech-configuration-problems-on-pc-with-these-steps/"><u>Solve Your Logitech Configuration Problems on PC with These Steps</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/step-by-step-guide-to-reconnecting-disrupted-media-devices-on-windows-systems/"><u>Step-by-Step Guide to Reconnecting Disrupted Media Devices on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-frustration-now-proven-fixes-for-persistent-state-of-decay-2-crashes/"><u>Stop Frustration Now: Proven Fixes for Persistent State of Decay 2 Crashes</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-how-to-seamlessly-convert-vimeo-media-to-mp3/"><u>[New] 2024 Approved How to Seamlessly Convert Vimeo Media to MP3</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-build-and-launch-youtube-video-ads-on-budget/"><u>[New] In 2024, Build & Launch YouTube Video Ads on Budget</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-the-quick-zoomers-guide-to-clearer-instagram-narratives-for-2024/"><u>[New] The Quick-Zoomer's Guide to Clearer Instagram Narratives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-be-selective-stop-instagram-suggested-updates/"><u>[Updated] Be Selective Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-digital-duel-how-jake-paul-triumphed-on-youtube/"><u>[Updated] The Digital Duel How Jake Paul Triumphed on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/automating-excel-file-backup-on-onedrive-simple-guide/"><u>Automating Excel File Backup on OneDrive - Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/calculating-percentage-variance-a-step-by-step-guide-using-excel/"><u>Calculating Percentage Variance: A Step-by-Step Guide Using Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/cut-costs-and-boost-efficiency-my-top-tips-for-using-excel-in-managing-projects/"><u>Cut Costs and Boost Efficiency: My Top Tips for Using Excel in Managing Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/demystifying-excel-the-key-differences-between-functions-and-formulas/"><u>Demystifying Excel: The Key Differences Between Functions and Formulas</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-determine-means-in-data-sets-using-microsoft-excel-tutorials/"><u>Easy Steps to Determine Means in Data Sets Using Microsoft Excel Tutorials</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/eliminate-pdf-drm-protection-unlocking-secure-files-with-easy-drm-extraction-tools/"><u>Eliminate PDF DRM Protection: Unlocking Secure Files with Easy DRM Extraction Tools</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-samsung-galaxy-m14-4g-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, iSpoofer is not working On Samsung Galaxy M14 4G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-full-potential-of-zoom-meetings-for-win10-users/"><u>In 2024, Unlock the Full Potential of Zoom Meetings for WIN10 Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/leveraging-gpt-for-effective-note-taking-techniques/"><u>Leveraging GPT for Effective Note-Taking Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-excel-efficiency-a-comprehensive-tutorial-on-freezingthawing-rows-and-columns/"><u>Unlock Excel Efficiency: A Comprehensive Tutorial on Freezing/Thawing Rows & Columns</u></a></li>
 </ul></div>
 

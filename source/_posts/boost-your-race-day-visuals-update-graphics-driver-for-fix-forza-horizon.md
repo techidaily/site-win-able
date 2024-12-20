@@ -1,7 +1,7 @@
 ---
 title: Boost Your Race Day Visuals - Update Graphics Driver for Fix Forza Horizon
-date: 2024-12-09T16:19:23.612Z
-updated: 2024-12-12T17:02:58.238Z
+date: 2024-12-12T17:01:02.779Z
+updated: 2024-12-19T16:41:22.298Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that gives you luck.
@@ -38,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 4. **[Check your default GPU](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using the latest drivers
@@ -54,16 +50,8 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -72,7 +60,7 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 If the update message pops up again, check out the next method.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check the versions of Minecraft and your system
@@ -89,13 +77,25 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Java edition
 
 1. Open or restart your Minecraft launcher.
 2. If you’re not seeing an update prompt, to the right of the Play button, click the arrow and select Latest release.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Make sure you’re on the latest Windows
 
@@ -128,6 +128,10 @@ If you’re still seeing the message, continue to the next fix.
 
 Once done, restart Windows and try again in Minecraft.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Check your default GPU
 
  If your computer comes with dual graphics cards, for example an Intel integrated graphics and a dedicated NVIDIA/AMD graphics card, you can check if you’re**running Minecraft on the desired GPU** . The update message might appear if you’re running Minecraft on the wrong GPU.
@@ -140,10 +144,6 @@ Here’s how you can check the preferred GPU of Minecraft:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
 
@@ -154,7 +154,7 @@ Here’s how you can check the preferred GPU of Minecraft:
 5. Click**High performance** and then**Save** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
@@ -182,18 +182,24 @@ Now you can restart Minecraft and check if the message is still there.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-reimagining-action-filming-the-complete-review-of-sj7s-star-cam/"><u>[Updated] 2024 Approved Reimagining Action Filming The Complete Review of SJ7's Star Cam</u></a></li>
-<li><a href="https://win-able.techidaily.com/arkham-knight-crash-fixes-get-your-game-back-on-track/"><u>Arkham Knight Crash Fixes – Get Your Game Back on Track!</u></a></li>
-<li><a href="https://win-able.techidaily.com/ensuring-smooth-gameplay-top-fixes-for-starting-warzone-20-on-your-pc-this-year/"><u>Ensuring Smooth Gameplay: Top Fixes for Starting Warzone 2.0 on Your PC This Year</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-mastering-spotifys-marketplace-for-ultimate-ad-success/"><u>In 2024, Mastering Spotify's Marketplace for Ultimate Ad Success</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-unveiling-the-basics-an-approachable-hdr-review/"><u>In 2024, Unveiling the Basics An Approachable HDR Review</u></a></li>
-<li><a href="https://article-posts.techidaily.com/iphone-picture-perfection-mastering-resolution-shifts/"><u>IPhone Picture Perfection Mastering Resolution Shifts</u></a></li>
-<li><a href="https://win-able.techidaily.com/launching-with-precision-how-team-collaboration-fuels-market-debuts/"><u>Launching with Precision: How Team Collaboration Fuels Market Debuts</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-the-world-of-haul-videography-tips-and-tricks-for-2024/"><u>Navigating the World of Haul Videography Tips and Tricks for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-stagnation-how-to-get-call-of-duty-modern-warfare-running/"><u>Overcoming the Stagnation: How to Get Call of Duty: Modern Warfare Running</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-the-rainbow-six-siege-connection-problem/"><u>Step-by-Step Solution: Overcoming the Rainbow Six Siege Connection Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-10-herramientas-exitosas-para-optimizar-la-claridad-y-el-rendimiento-de-tu-video/"><u>Top 10 Herramientas Exitosas Para Optimizar La Claridad Y El Rendimiento De Tu Vídeo</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steam-remote-play-issues-effective-solutions-and-tips/"><u>Troubleshooting Steam Remote Play Issues: Effective Solutions and Tips</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-mastering-mix-a-comprehensive-look-at-top-audio-editing-tools-for-2024/"><u>Updated Mastering Mix A Comprehensive Look at Top Audio Editing Tools for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-narrative-wordsmithing-weaving-a-story-through-speech/"><u>[New] Narrative Wordsmithing Weaving a Story Through Speech</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimizing-your-youtube-music-selection-for-2024/"><u>[New] Optimizing Your YouTube Music Selection for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-illuminati-the-top-25-visionaries-you-need-to-see/"><u>[Updated] In 2024, Instagram Illuminati The Top 25 Visionaries You Need to See</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-laugh-out-loud-and-weepy-instagrams-best-meme-communities/"><u>2024 Approved Laugh Out Loud & Weepy Instagram's Best Meme Communities</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-oneplus-nord-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On OnePlus Nord 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-eliminating-flicker-glitches-in-battle-royale-game/"><u>Effective Solutions for Eliminating Flicker Glitches in Battle Royale Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhanced-performance-in-naraka-bladepoint-game-crashes-fixed-now/"><u>Enhanced Performance in Naraka: Bladepoint - Game Crashes Fixed Now</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-agni-2-5g-by-fonelab-android-recover-call-logs/"><u>How To Restore Missing Call Logs from Agni 2 5G</u></a></li>
+<li><a href="https://win-superb.techidaily.com/identifying-frequent-scanning-mistakes-insights-from-yl-computings-expertise/"><u>Identifying Frequent Scanning Mistakes: Insights From YL Computing's Expertise</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-v27e-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo V27e</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-frame-rates-in-rainbow-six-extraction-proven-solutions-to-combat-fps-drops/"><u>Maximizing Frame Rates in Rainbow Six Extraction: Proven Solutions to Combat FPS Drops</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/no-errors-detected-during-printer-setup/"><u>No Errors Detected During Printer Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-stop-freezes-while-gaming-with-fallout-3-on-windows-11/"><u>Resolved: How to Stop Freezes While Gaming with Fallout 3 on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-fix-csgo-frame-rate-drop-problems/"><u>Solved! How to Fix CS:GO Frame Rate Drop Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-cs2-crashing-problems-on-pc-updated-solutions-for-202/"><u>Solving CS2 Crashing Problems on PC: Updated Solutions for 202^</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-manor-lords-game-crashes-steps-for-stable-pc-gaming/"><u>Solving Manor Lords Game Crashes: Steps for Stable PC Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-addressing-stability-issues-with-final-fantasy-xv-on-pcs/"><u>Troubleshooting Guide: Addressing Stability Issues with Final Fantasy XV on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-warzone-20-pc-game-crashes/"><u>Troubleshooting Guide: Fixing 'Warzone 2.0' PC Game Crashes</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-fcp-essentials-creating-engaging-picture-in-picture-effects-for-your-videos-for-2024/"><u>Updated FCP Essentials Creating Engaging Picture-in-Picture Effects for Your Videos for 2024</u></a></li>
 </ul></div>
 

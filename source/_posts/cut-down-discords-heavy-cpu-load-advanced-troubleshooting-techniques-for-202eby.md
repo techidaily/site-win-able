@@ -1,7 +1,7 @@
 ---
 title: "Cut Down Discord's Heavy CPU Load: Advanced Troubleshooting Techniques for 202Eby"
-date: 2024-08-27T20:33:59.741Z
-updated: 2024-08-28T20:33:59.741Z
+date: 2024-12-17T16:24:13.719Z
+updated: 2024-12-19T19:08:58.923Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
  If your**Discord overlay** is not working while you’re playing games, you’re not alone! Many players are reporting this issue. But don’t worry! The good news is you can fix it easily using the fixes we listed below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Fixes to try:**
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 7. [**Bonus tip: How to fix Discord connection errors?**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
@@ -55,12 +63,13 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -69,13 +78,18 @@ thumbnail: https://thmb.techidaily.com/267e58ed8e657bec227e46ab620be1c2e14c4f8b5
 See if this issue reappears. If not, you have fixed this issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Add Discord to the whitelist of your third-party antivirus application
 
  If you’re using a third-party antivirus application on your PC, you may encounter the**Discord overlay** not working issue. Your third-party antivirus application may interfere with**Discord** , so your **Discord overlay** may not run as expected. You can try   **adding your Discord to the whitelist of your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
 
@@ -97,14 +111,8 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  Run your game again to see if this issue persists. If not, you have resolved this problem!
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Discord
 
  If you’ve tried all the fixes above but this issue persists, try**reinstalling Discord** . Here is how to do it:
@@ -115,20 +123,22 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View the Control Panel by **Category** . Click **Uninstall a program** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  iii.**Double-click** **Discord** to uninstall it.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap12-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 iv. Restart your PC.
 
  2) Download**Discord** from its **[official website](https://discordapp.com/)**  and then install it on your PC.
@@ -157,13 +167,6 @@ See if this issue reappears. If not, you have fixed this issue!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
@@ -181,8 +184,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +191,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-pushing-boundaries-the-innovations-of-magix-vpx-for-2024/"><u>[New] Pushing Boundaries The Innovations of Magix VPX for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-cutting-edge-video-edits-without-spending-navigate-through-the-8-tools/"><u>[Updated] Cutting-Edge Video Edits Without Spending Navigate Through The 8 Tools</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/comprehensive-step-by-step-tutorial-how-to-perform-a-full-reset-of-your-hard-drive-in-windows-10-beginner-and-expert-edition/"><u>Comprehensive Step-by-Step Tutorial: How to Perform a Full Reset of Your Hard Drive in Windows 10 - Beginner and Expert Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-directx-errors-in-battlefield-2cyb42/"><u>Effective Solutions for Overcoming DirectX Errors in Battlefield 2CYB42</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012570698-enhance-your-dying-light-2-gaming-resolve-frame-rate-drops-stop-the-stutters/"><u>Enhance Your Dying Light 2 Gaming: Resolve Frame Rate Drops, Stop the Stutters!</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-a-new-level-with-the-apple-homepod-mini-review-exceptional-audio-performance-and-siri-integration/"><u>Experience a New Level with the Apple HomePod Mini Review - Exceptional Audio Performance and Siri Integration</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-why-does-your-moonlight-user-interface-continuously-fail-on-desktop/"><u>Fix: Why Does Your Moonlight User Interface Continuously Fail on Desktop?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-rainbow-six-extraction-no-compatible-driverhardware-found/"><u>How to Fix Rainbow Six Extraction No Compatible Driver/Hardware Found</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-xiaomi-redmi-note-13-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Xiaomi Redmi Note 13 5G to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/piloting-progress-from-copilot-to-proco-innovation/"><u>Piloting Progress: From Copilot to Proco Innovation</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-why-does-tormented-souls-keep-freezing-or-closing-on-windowsmac/"><u>Resolved: Why Does Tormented Souls Keep Freezing or Closing on Windows/Mac?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-gaming-woes-rectifying-bloodhunts-stuttering-on-desktop-systems/"><u>Solve Your Gaming Woes: Rectifying Bloodhunt's Stuttering on Desktop Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/step-by-step-tutorial-on-integrating-a-subwoofer-into-your-samsung-home-theater-system/"><u>Step-by-Step Tutorial on Integrating a Subwoofer Into Your Samsung Home Theater System</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-art-of-communication-via-facebooks-symbol-language/"><u>The Art of Communication via Facebook's Symbol Language</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-destiny-2-broccoli-collision-glitch-what-you-need-to-know/"><u>Ultimate Fix for Destiny 2 Broccoli Collision Glitch - What You Need to Know</u></a></li>
+</ul></div>
 

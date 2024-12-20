@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2024-12-05T16:57:52.013Z
-updated: 2024-12-12T16:27:41.934Z
+date: 2024-12-13T17:49:21.233Z
+updated: 2024-12-19T19:29:56.740Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -71,22 +67,18 @@ Recommended
 3. Navigate to the**LOCAL FILE** S tab and select**Verify integrity of game files…** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
@@ -102,10 +94,6 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -113,6 +101,10 @@ If the issue remains, check out the next fix.
  After updating your graphics driver, restart your PC and launch Halo Infinite again to see if your problem is resolved.
 
 If the issue persists, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
 
@@ -125,7 +117,7 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
@@ -143,6 +135,10 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
 
@@ -153,7 +149,7 @@ If the issue persists, take a look at the next fix.
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
@@ -171,7 +167,7 @@ If the issue persists, take a look at the next fix.
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
@@ -194,6 +190,10 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -221,18 +221,24 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flash-video-insights-guide-for-2024/"><u>[New] Flash Video Insights Guide for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-why-is-my-instagram-video-rotated-unnaturally/"><u>[New] Why Is My Instagram Video Rotated Unnaturally?</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ngs-expansion-on-glamour-channels/"><u>Earnings Expansion on Glamour Channels</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-firefox-freeze-frustration-with-these-8-effective-fixes/"><u>End Firefox Freeze Frustration with These 8 Effective Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/google-meet-camera-malfunction-follow-these-steps-to-get-it-fixed-now/"><u>Google Meet Camera Malfunction? Follow These Steps to Get It Fixed Now</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-you-when-your-infinix-smart-8-pro-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Infinix Smart 8 Pro is off? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-step-into-the-realm-of-3d-graffiti-a-guide-to-10-exceptional-websites/"><u>In 2024, Step Into the Realm of 3D Graffiti A Guide to 10 Exceptional Websites</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-honor-magic-5-pro-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Honor Magic 5 Pro FRP Bypass</u></a></li>
-<li><a href="https://video-capture.techidaily.com/insiders-look-at-advanced-streamlabs-obs-techniques/"><u>Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013267652-instantly-improve-your-slow-chrome-browser-with-simple-tweaks/"><u>Instantly Improve Your Slow Chrome Browser with Simple Tweaks!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-developer-issue-no-5573-in-call-of-duty-warzone-a-complete-tutorial-for-pc-and-console-players/"><u>Troubleshooting Developer Issue No. 5573 in Call of Duty: Warzone – A Complete Tutorial for PC and Console Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-severe-glitches-in-activisions-modern-warfare-franchise/"><u>Troubleshooting Tips for Overcoming Severe Glitches in Activision's Modern Warfare Franchise</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-alternative-high-quality-gaming-video-recording-solutions/"><u>[New] 2024 Approved Alternative High-Quality Gaming Video Recording Solutions</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-subtitle-converters-win-and-mac-edition-leading-8-sbt-to-srtr-tools/"><u>2024 Approved Best Subtitle Converters Win & Mac Edition, Leading 8 SBT to SRTR Tools</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96316914-9781401932060-a-spiritual-philosophy-for-the-new-world/"><u>A Spiritual Philosophy for the New World | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/beating-the-frozen-curse-in-rocket-league-expert-tips-for-a-fluid-gameplay-session/"><u>Beating the Frozen Curse in Rocket League: Expert Tips for a Fluid Gameplay Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2-fps-optimization-techniques-get-smooth-gameplay-on-your-pc-without-the-hiccups/"><u>Dying Light 2 FPS Optimization Techniques - Get Smooth Gameplay on Your PC Without the Hiccups!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-install-canon-imageclass-mf4800-driver-download-guide/"><u>Easy Install: Canon ImageCLASS MF4800 Driver Download Guide</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-driver-downloads-for-lenovo-x1-carbon-users-guide-for-windows-10-and-7-systems/"><u>Effortless Driver Downloads for Lenovo X1 Carbon Users: Guide for Windows 10 & 7 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-and-crashes-in-lost-ark-on-pc-top-tips-and-tricks/"><u>Eliminate Lag and Crashes in Lost Ark on PC - Top Tips & Tricks</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enhancing-memory-retention-organized-photo-albums-and-icloud-coordination/"><u>Enhancing Memory Retention Organized Photo Albums and iCloud Coordination</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ghost-recon-breakpoint-resolving-game-crashes-fast-and-simple/"><u>Fixing Ghost Recon Breakpoint: Resolving Game Crashes Fast and Simple</u></a></li>
+<li><a href="https://games-able.techidaily.com/free-games-that-dont-cost-a-dime-our-top-6/"><u>Free Games That Don't Cost a Dime: Our Top 6</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ios-app-store-vs-google-play-store-which-is-better-for-app-developers/"><u>IOS App Store Vs. Google Play Store: Which Is Better for App Developers?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-apex-legends-load-time-solutions-easy-and-swift-methods-inside/"><u>Mastering Apex Legends Load Time Solutions – Easy & Swift Methods Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-qbittorrent-problems-fix-stuck-torrents-immediately/"><u>Overcoming Common qBittorrent Problems: Fix Stuck Torrents Immediately</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-a-guide-to-getting-your-phasmophobia-vr-game-running-smoothly-again/"><u>Overcoming Technical Glitches - A Guide to Getting Your Phasmophobia VR Game Running Smoothly Again</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-video-editing-on-chromebook/"><u>The Ultimate Guide to Video Editing on Chromebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-overcoming-cult-of-the-lamb-pc-freezes-and-errors/"><u>Troubleshooting Guide: Overcoming Cult of the Lamb PC Freezes and Errors</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/troubleshooting-your-audio-setup-expert-tips-to-fix-sound-card-errors-with-help-from-yl-software/"><u>Troubleshooting Your Audio Setup: Expert Tips to Fix Sound Card Errors with Help From YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/war-thunder-stability-woes-master-the-tricks-to-prevent-frequent-crashes-latest-fixes/"><u>War Thunder Stability Woes? Master the Tricks to Prevent Frequent Crashes (Latest Fixes)</u></a></li>
 </ul></div>
 

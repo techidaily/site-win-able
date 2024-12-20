@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Non-Responsive HP Displays Successfully
-date: 2024-08-27T20:30:51.781Z
-updated: 2024-08-28T20:30:51.781Z
+date: 2024-12-12T17:35:35.176Z
+updated: 2024-12-19T16:43:40.787Z
 tags:
   - win11
   - win10
@@ -38,19 +38,29 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 2. Right-click**Elden Ring** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-steam-properties.jpg)
 3. On the**General** tab, you’ll find the**Launch Options** section. Then enter the following parameters to open the game in windowed mode:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **\-windowed**  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-windowed-mode.jpg)
 4. Close the**Properties** window and launch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If the black screen occurs again, don’t worry. There are still other fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Restart your graphics driver
 
  When you get a black screen on your Windows PC, you can try using the keyboard shortcut**Windows logo key + Ctrl + Shift + B** to restart your graphics driver. If Windows is responsive, your screen will flash and then the game should work fine. But if not, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To see if that’s the case, you should update your graphics driver to the latest version. This may not only fix the potential problem but also improve your game performance.
@@ -65,32 +75,19 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  Some new games may not work properly on an out-of-date operating system. To make sure there are no compatibility issues, you should keep your operating system up-to-date. To do so:
@@ -100,10 +97,16 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
@@ -115,12 +118,13 @@ If the issue persists, move on to the next fix.
 1. On your keyboard, press the**Windows logo key** . Type**check for updates** . Then click**Check for updates** from the list of results.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Click on the**Check for updates** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![win11 - Download & install Windows Update](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button.jpg)
 
  When updates are available, follow the on-screen instructions to download and install them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify the integrity of game files
 
@@ -147,9 +151,6 @@ If the issue remains, take a look at the next fix.
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -167,8 +168,6 @@ Now check if the black screen issue has gone away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +175,24 @@ Now check if the black screen issue has gone away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-complete-analysis-of-theta-ss-advanced-tech/"><u>[New] Complete Analysis of Theta S's Advanced Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won’t Open | Quickly & Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-new-world-keeps-crashing-on-pc/"><u>[SOLVED] New World Keeps Crashing on PC</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-automate-playlist-retrieval-from-youtube-directly-for-2024/"><u>[Updated] Automate Playlist Retrieval From YouTube Directly for 2024</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/adjusting-your-image-previews-changing-thumbnail-hues-on-flipbuilder/"><u>Adjusting Your Image Previews: Changing Thumbnail Hues on FlipBuilder</u></a></li>
+<li><a href="https://win-able.techidaily.com/arise-crash-problems-a-comprehensive-guide-to-resolution/"><u>Arise Crash Problems – A Comprehensive Guide to Resolution</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ing-revenue-from-a-million-watches-on-youtube/"><u>Decoding Revenue From A Million Watches on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-lag-top-techniques-for-a-seamless-minecraft-experience-on-pc-2023-update/"><u>Eliminating Lag: Top Techniques for a Seamless Minecraft Experience on PC - 2023 Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-resolving-zoom-compatibility-issues-with-new-updates-for-windows-1011-2024-edition/"><u>Expert Advice: Resolving Zoom Compatibility Issues with New Updates for Windows 10/11 - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-when-your-gpu-isnt-detected-by-cyberpunk-2077-on-windows-10/"><u>Fixing the Issue When Your GPU Isn’t Detected by Cyberpunk 2077 on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-game-error-expert-guide-to-fixing-and-preventing-sudden-shutdowns/"><u>Football Manager 2020 Game Error: Expert Guide to Fixing and Preventing Sudden Shutdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-address-and-prevent-game-integrity-threats-a-comprehensive-solution/"><u>How to Address & Prevent Game Integrity Threats – A Comprehensive Solution</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-manage-spotlight-images-on-your-pcs-lock-screen/"><u>How to Manage Spotlight Images on Your PC's Lock Screen</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-all-must-knows-to-use-fake-gps-go-location-spoofer-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, All Must-Knows to Use Fake GPS GO Location Spoofer On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-your-roadmap-to-acquiring-facebooks-esteemed-verification/"><u>In 2024, Your Roadmap to Acquiring Facebook’s Esteemed Verification</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721476752444-stuck-with-an-uninstalling-issue-here-are-5-quick-fixes-for-iphone-app-downloads/"><u>Stuck with an Uninstalling Issue? Here Are 5 Quick Fixes for iPhone App Downloads</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-9-essential-360-degree-recording-techniques-for-2024/"><u>Ultimate Guide 9 Essential 360-Degree Recording Techniques for 2024</u></a></li>
+</ul></div>
 

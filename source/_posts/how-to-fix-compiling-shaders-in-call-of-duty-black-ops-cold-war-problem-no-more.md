@@ -1,7 +1,7 @@
 ---
 title: How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More
-date: 2024-08-27T20:32:30.284Z
-updated: 2024-08-28T20:32:30.284Z
+date: 2024-12-18T16:53:50.651Z
+updated: 2024-12-19T16:46:26.710Z
 tags:
   - win11
   - win10
@@ -54,15 +54,13 @@ Here’s how to restart the shaders installation:
 2. Navigate to the**GRAPHICS** tab. Scroll down to the bottom and click**Restart Shaders Compilation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cold-war-reinstall-shaders-1.jpg)
 3. Wait for the reinstallation to complete.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Shaders issues in COD titles could mean that you’re using**a broken or outdated graphics driver** . We always recommend gamers to keep their GPU drivers up to date so as to avoid compatibility issues. If you don’t know when was the last time you updated your drivers, definitely do it now.
@@ -73,15 +71,18 @@ Here’s how to restart the shaders installation:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the GPU driver, restart your PC for the changes to apply. Then start your game and check if you can now complete the compilation.
@@ -99,8 +100,9 @@ Here’s how to restart the shaders installation:
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -108,11 +110,12 @@ Here’s how to restart the shaders installation:
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,8 +127,6 @@ Here’s how to restart the shaders installation:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,20 @@ Here’s how to restart the shaders installation:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-your-guide-to-the-best-budget-friendly-editors/"><u>[Updated] Your Guide to the Best Budget-Friendly Editors</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210792711-9781616406240-astrology-and-the-art-of-healing/"><u>Astrology and the Art of Healing | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/battlefield-2042-stability-solutions-for-pc-users-experiencing-game-crashes/"><u>Battlefield 2042 Stability Solutions for PC Users Experiencing Game Crashes</u></a></li>
+<li><a href="https://facebook.techidaily.com/behavior-tracked-data-sold-the-new-trend/"><u>Behavior Tracked, Data Sold: The New Trend</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/cmdusb4/"><u>CMD指令下如何成功撤销USB中的数据丢失——4个方法</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/determining-if-windows-defender-restricts-your-app-tips-and-tricks-from-yl-computing/"><u>Determining If Windows Defender Restricts Your App - Tips & Tricks From YL Computing</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-strategies-to-reduce-god-of-wars-impact-on-your-pcs-processor-load/"><u>Effective Strategies to Reduce God of War's Impact on Your PC's Processor Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-for-the-initial-launch-problems-in-age-of-empires-4/"><u>Fixes and Solutions for the Initial Launch Problems in Age of Empires 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-resolve-gta-v-wont-start-issues/"><u>Fixes and Solutions: How to Resolve 'GTA V Won't Start' Issues</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/guide-how-to-properly-set-your-bookmarks-on-flipbuildercom/"><u>Guide: How To Properly Set Your Bookmarks on FlipBuilder.com</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-most-effective-7-apps-for-blocking-android-web-ads-for-2024/"><u>The Most Effective 7 Apps for Blocking Android Web Ads for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-d3d-initialization-error-errgfx-in-grand-theft-auto-v/"><u>Troubleshooting the D3D Initialization Error (ERR_GFX) in Grand Theft Auto V</u></a></li>
+</ul></div>
 

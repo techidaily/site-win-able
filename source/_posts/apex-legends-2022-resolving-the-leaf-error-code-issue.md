@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends 2022: Resolving the 'Leaf' Error Code Issue"
-date: 2024-12-06T16:58:40.580Z
-updated: 2024-12-12T16:59:50.903Z
+date: 2024-12-14T16:58:27.644Z
+updated: 2024-12-19T17:28:41.780Z
 tags:
   - win11
   - win10
@@ -66,14 +66,14 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 2. Click**Change adapter options** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -82,18 +82,10 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
@@ -118,7 +110,11 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
@@ -157,17 +157,24 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024-approved-mastering-the-art-of-self-care-with-asmr-sounds/"><u>[New] 2024 Approved Mastering the Art of Self-Care with ASMR Sounds</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android/"><u>[Updated] The Complete Handbook for Saving Movies on Desktop, Laptop & Android</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/crafting-stealth-network-safeguarding-in-windows-settings/"><u>Crafting Stealth Network Safeguarding in Windows Settings</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011342095-fix-a-sluggish-chrome-browser-fast-simple-solutions/"><u>Fix a Sluggish Chrome Browser Fast: Simple Solutions!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-overwatchs-first-time-boot-dilemma-no-image-showed/"><u>Fixing Overwatch's First-Time Boot Dilemma – No Image Showed</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-terraria-from-crashing-expert-guidance-and-tips/"><u>How to Stop Terraria From Crashing : Expert Guidance and Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-static-to-spectaculous-the-yi-hero-video-journey/"><u>In 2024, From Static to Spectaculous The Yi Hero Video Journey</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Oppo A1 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/proven-solutions-to-helldivers-2-pc-crash-issues/"><u>Proven Solutions to Helldivers 2 PC Crash Issues</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209881602-9781916242654-stardust/"><u>Stardust | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-doom-eternal-why-it-wont-launch-and-how-to-fix-it/"><u>Troubleshooting DOOM Eternal - Why It Won't Launch and How to Fix It</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/updated-how-to-auto-translate-youtube-videos-into-different-languages/"><u>Updated How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-bridging-gaps-in-dialogue-techniques-for-smooth-editing-with-garageband-for-2024/"><u>[New] Bridging Gaps in Dialogue Techniques for Smooth Editing with GarageBand for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-current-and-future-drone-use-cases-unveiled/"><u>[New] In 2024, Current & Future Drone Use Cases Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-essential-enhancements-for-a-superstar-stardew-fan-for-2024/"><u>[Updated] The Essential Enhancements for a Superstar Stardew Fan for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-implementing-azure-transcript-api-in-software/"><u>2024 Approved Implementing Azure Transcript API in Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-loaded-far-cry-5-boot-loop-with-easy-fixes/"><u>Bypassing the Loaded Far Cry 5 Boot Loop with Easy Fixes</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/compact-and-powerful-360-degree-camera-theta-sc2-tested/"><u>Compact & Powerful 360-Degree Camera – Theta SC2 Tested</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-graphics-driver-crashed-issue-in-valorant-quick-solutions-guide/"><u>Fixing the 'Graphics Driver Crashed' Issue in Valorant - Quick Solutions Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-on-with-these-11-tips-to-fix-borderlands-3-startup-troubles/"><u>Get Your Game On with These 11 Tips to Fix Borderlands 3 Startup Troubles</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-latest-chivalry-ii-game-crashing-issue-solutions-proven-effective/"><u>How to Fix the Latest Chivalry II Game Crashing Issue - Solutions Proven Effective</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>In 2024, From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-narzo-60x-5g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme Narzo 60x 5G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-sizzling-shots-capturing-culinary-magic/"><u>In 2024, Sizzling Shots Capturing Culinary Magic</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-visual-storytelling-excellence-10-tactics-for-captivating-instagram-ads/"><u>In 2024, Visual Storytelling Excellence 10 Tactics for Captivating Instagram Ads</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722993625152-microsoft-edge-crashes-on-windows-11-heres-how-you-can-fix-it/"><u>Microsoft Edge Crashes on Windows 11? Here's How You Can Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-lag-and-glitches-in-diablo-4-expert-tips-to-optimize-your-gaming-experience-across-devices/"><u>Overcome Lag & Glitches in Diablo 4: Expert Tips to Optimize Your Gaming Experience Across Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-fallout-4-pc-crashes-and-stutters/"><u>Resolved: Fixing Fallout 4 PC Crashes and Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-blackout-fixing-overwatchs-initial-load-failure/"><u>Resolving the Blackout: Fixing Overwatch's Initial Load Failure</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-why-football-manager-2022-release-delayed/"><u>Solved: Why Football Manager 2022 Release Delayed</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/the-ultimate-comparison-top-screen-recorders-focusing-on-recmeister-for-2024/"><u>The Ultimate Comparison Top Screen Recorders, Focusing on Recmeister for 2024</u></a></li>
 </ul></div>
 

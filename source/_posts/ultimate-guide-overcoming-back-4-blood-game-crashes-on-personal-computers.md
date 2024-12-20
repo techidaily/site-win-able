@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers"
-date: 2024-12-07T16:13:57.992Z
-updated: 2024-12-12T17:05:39.962Z
+date: 2024-12-15T16:52:59.675Z
+updated: 2024-12-19T19:37:07.858Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I run Scavengers?
 
  The Scavenger game requires a certain amount of specifications in order to be played properly and smoothly. So before diving into the hows, it helps to check if your PC meets the minimum requirements for Scavengers.
@@ -41,19 +45,20 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -69,6 +74,10 @@ To check the specs of your PC:
 * **[Fix 4: Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -90,7 +99,7 @@ To check the specs of your PC:
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust your graphics settings
@@ -110,10 +119,6 @@ To check the specs of your PC:
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
  If Scavengers crashes while you’re on Unreal Engine, it is possible that the current version of Unreal Engine on your launcher is faulty or corrupt, causing Scavenger to crash. In this case, you can check for a newer Unreal Engine, install it to see if it solves your woe.
@@ -128,7 +133,7 @@ Here is how to do it:
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update DirectX
@@ -146,10 +151,6 @@ Here is how to do it:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
@@ -198,20 +199,22 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-ultimate-guide-ipad-voice-capture-strategies/"><u>[New] 2024 Approved Ultimate Guide IPad Voice Capture Strategies</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-aural-aesthetics-in-whatsapp-statues/"><u>[New] Aural Aesthetics in WhatsApp Statues</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-mp4webm-clip-conversion/"><u>[New] Twitter MP4/WebM Clip Conversion</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-dive-into-crossfade-excellence-with-audacitys-comprehensive-tutorials/"><u>[Updated] 2024 Approved Dive Into Crossfade Excellence with Audacity's Comprehensive Tutorials</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-the-metaverse-unraveled-explore-these-6-vivid-models/"><u>[Updated] The Metaverse Unraveled Explore These 6 Vivid Models</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-vivo-y17s-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Vivo Y17s?</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-step-by-step-instructions-for-hyper-v-enablement-and-installation-on-windows-11/"><u>Complete Step-by-Step Instructions for Hyper-V Enablement & Installation on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-0xc19001e1-boot-failure-on-windows-nk-pcs/"><u>Expert Tips for Fixing '0Xc19001e1' Boot Failure on Windows Nk PCs</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-ultimate-toolkit-capture-windows-11-displays/"><u>In 2024, Ultimate Toolkit Capture Windows 11 Displays</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximizing-your-gaming-experience-with-enhanced-performance-tips-optimize-frame-rates-and-reduce-lag-in-watch-dogs-legion/"><u>Maximizing Your Gaming Experience with Enhanced Performance Tips: Optimize Frame Rates & Reduce Lag in Watch Dogs: Legion</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-pure-sound-practices-eliminating-unwanted-elements-from-internet-audios/"><u>New 2024 Approved Pure Sound Practices Eliminating Unwanted Elements From Internet Audios</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782326-9781591438670-prayers-and-meditations-of-the-quero-apache/"><u>Prayers and Meditations of the Quero Apache | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-for-adobe-error-code-0xc0000022-application-launch-issues-resolved/"><u>Troubleshooting Fixes for Adobe Error Code 0xC0000022 – Application Launch Issues Resolved</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-stop-yakuza-6-on-your-computer-from-freezing-up/"><u>Ultimate Solution: Stop Yakuza 6 on Your Computer From Freezing Up</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-resolving-lag-in-naraka-bladesports/"><u>Ultimate Troubleshooting Guide: Resolving Lag in Naraka Bladesports</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-by-step-augmenting-youtube-video-space/"><u>[New] Step-by-Step Augmenting YouTube Video Space</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-cultivating-commerce-on-instagram-partnering-with-profitable-brands/"><u>[Updated] 2024 Approved Cultivating Commerce on Instagram Partnering with Profitable Brands</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ghostly-glimpses-innovation-highlights/"><u>[Updated] 2024 Approved Ghostly Glimpses Innovation Highlights</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-ultimate-ratio-reference-for-youtube-videos-and-ads/"><u>[Updated] 2024 Approved The Ultimate Ratio Reference for YouTube Videos & Ads</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-facebooks-pathway-to-viral-stardom-explained/"><u>[Updated] Facebook's Pathway to Viral Stardom Explained</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-social-media-videos-for-maximum-reach/"><u>[Updated] Mastering the Art of Social Media Videos for Maximum Reach</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-frozen-seas-strategies-for-overcoming-sea-of-thieves-loading-stalls/"><u>Bypassing the Frozen Seas: Strategies for Overcoming Sea of Thieves Loading Stalls</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvdvob3/"><u>DVD化するためのVOBファイル無料コピー3方法詳しく見せます</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-for-when-your-phasmophobia-experience-isnt-working-as-expected/"><u>Easy Fixes for When Your Phasmophobia Experience Isn't Working as Expected</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-endless-loading-screen-in-minecraft-and-get-back-to-gaming/"><u>How to Overcome the Endless Loading Screen in Minecraft & Get Back to Gaming</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Poco X6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-directdraw-fixes-a-step-by-nstep-approach-to-eliminating-common-mishaps/"><u>Mastering DirectDraw Fixes – A Step-by-nStep Approach to Eliminating Common Mishaps</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-exception-handling-obstacles-insights-into-case-civ-6-for-the-upcoming-year/"><u>Overcoming Exception Handling Obstacles: Insights Into Case #CIV-6 for the Upcoming Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-graphics-driver-issue-identified-by-oculus-system/"><u>Resolved: Graphics Driver Issue Identified by Oculus System</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010708835-say-goodbye-to-crashes-in-diablo-ii-resurrected-solutions-revealed/"><u>Say Goodbye to Crashes in Diablo II: Resurrected - Solutions Revealed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-essential-framework-for-adding-media-to-youtube-compilations-for-2024/"><u>The Essential Framework for Adding Media to YouTube Compilations for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-your-steamvr-in-no-time/"><u>Troubleshoot and Repair Your SteamVR in No Time!</u></a></li>
 </ul></div>
 

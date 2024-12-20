@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why NieR Replicant Remaster May Not Start Up"
-date: 2024-08-27T20:31:55.815Z
-updated: 2024-08-28T20:31:55.815Z
+date: 2024-12-17T18:24:23.493Z
+updated: 2024-12-19T17:13:25.077Z
 tags:
   - win11
   - win10
@@ -61,18 +61,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  You may need to**upgrade your hardware** if your PC fails to meet the minimum system requirements of the game.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 2: Install the latest patch**
 
  The developers of Fortnite release regular game patches to fix bugs. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it. You can follow the instructions below to check for the latest Fortnite patch:
@@ -83,12 +71,18 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 3. **Turn on**   the toggle next to **Auto update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap912.png)
 4. Restart the Epic Games Launcher.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap898.png)
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run Fortnite again to check if you fixed this issue. If this issue persists, or there was no new game patch available, move on to the next fix, below.
 
 ### **Fix 3: Update your graphics driver**
@@ -111,9 +105,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap53.jpg)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap54.jpg)
 
@@ -128,16 +119,14 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 1. In Fortnite, click**the menu button** in the upper-right corner, then click **the gear icon** to open the game settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap944.png)
 2. Modify the video settings of the game following the screenshot below to gain the maximum performance. Then click**Apply** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap945.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Fortnite again to see if the Fortnite stuttering issue persists. If not, then you’ve resolved this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Fix 5: Turn off Windows 10 Game Mode**
 
  If you’ve turned on**Windows 10 Game Mode** , it will consume lots of resources in the background when you’re playing Fortnite. So try turning off this feature to see if you can resolve this issue. Here is how to do it:
@@ -149,9 +138,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 
  Run Fortnite again to see if it will keep stuttering. If the stuttering issue reappears, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### **Fix 6: Set Fortnite to High priority**
 
 **Try setting Fortnite to High priority in Task Manager** to see the Fortnite stuttering issue persists. Follow the instructions below to set Fortnite to the High priority:
@@ -171,6 +157,10 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. Select other applications and programs that take up a large amount of**CPU** ,**memory** and**network** and then click**End task**  to close it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap52.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run your Fortnite again to see if the stuttering issue persists. If the issue persists, trying updating your graphics driver.
 
 ### **Fix 8: Change the power plan of your PC and adjust your Windows system for the best performance**
@@ -182,18 +172,17 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap70.jpg)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap71.jpg)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap72.jpg)
 5. Select **Adjust for best performance** and click **OK**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap73.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  Run your Fortnite to see if the game will keep stuttering. If not, you’ve fixed this issue.
 
 ### **Fix 9: Modify your graphics card settings**
@@ -209,66 +198,62 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap55.jpg)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap56.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap57.jpg)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **If you’re using AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap59.jpg)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap60.jpg)
 3. Select your **AMD Radeon Settings**   to open it.
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap74.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### **If you’re using Intel graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap61.jpg)
 2. View the Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap62.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap63.jpg)
 4. Click **3D**  to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap64.jpg)
 5. Click **Scan**  to add your **Fortnite**  to the application list.  
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap65.jpg)
 6. Modify the settings the same way you see on the screenshot below.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap67-1.jpg)
 7. Click **Apply**  to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap68.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run Fortnite again to see if the stuttering issue persists. If not, then you’ve fixed this annoying issue.
 
  Hopefully one of the fixes above can help you resolve the Fortnite stuttering issue. Please leave your comment below if you have any questions.
@@ -284,8 +269,6 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +276,17 @@ Are you feeling upset when playing **Fortnite**  with your friends but the game 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/outube-playlists-reconfigured-step-by-step-instructions-for-2024/"><u>[New] YouTube Playlists Reconfigured Step-by-Step Instructions for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-delving-into-sns-hdr-pros-merits-and-peer-comparisons-for-2024/"><u>[Updated] Delving Into SNS HDR Pro's Merits & Peer Comparisons for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-cloud-storage-vendors-a-comparative-pricing-analysis/"><u>2024 Approved Leading Cloud Storage Vendors A Comparative Pricing Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-game-running-resolving-monster-hunter-rise-start-up-glitches/"><u>Get Your Game Running: Resolving Monster Hunter Rise Start-Up Glitches</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-install-and-update-hardware-device-drivers-manually-on-windows-10-by-drivereasy-guide/"><u>How to install and update hardware device drivers manually on Windows 10</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-tecno-pova-6-pro-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Tecno Pova 6 Pro 5G Device SIM</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-pc-crash-issues-with-our-guide-to-stabilizing-final-fantasy-xiv/"><u>Overcome PC Crash Issues with Our Guide to Stabilizing Final Fantasy XIV</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-persistent-issue-stop-content-warning-from-crashing-your-pc/"><u>Solving the Persistent Issue: Stop 'Content Warning' From Crashing Your PC!</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-resolve-non-launch-problem-in-farming-simulator-2022-game/"><u>Steps to Resolve Non-Launch Problem in Farming Simulator 2022 Game</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-htc-u23-pro-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from HTC U23 Pro to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

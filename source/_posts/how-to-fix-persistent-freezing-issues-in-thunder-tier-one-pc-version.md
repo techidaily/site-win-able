@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Freezing Issues in Thunder Tier One PC Version
-date: 2024-08-27T20:29:18.630Z
-updated: 2024-08-28T20:29:18.630Z
+date: 2024-12-17T17:43:11.849Z
+updated: 2024-12-19T17:10:31.569Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-380.png)
 
  Running into an**Apex Legends Engine error** ? Don’t worry. It’s often not hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fixes for Apex Legends Engine Error
 
@@ -46,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/4ce44fa7b8a9c69e95f42f702280ebfd0bb16df8b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0204fe6005.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also click Update to do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -64,6 +72,10 @@ Here is how to grant administrative privileges to Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-564.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In File Explorer, right click on **Apex Legends .exe**  and click **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-565.png)
@@ -75,8 +87,9 @@ Here is how to grant administrative privileges to Apex Legends:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify game files
 
  You should also check the integrity of the game files to see if any of them are corrupt or missing.
@@ -92,8 +105,9 @@ Here is how to verify game files:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-561.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until the repair process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
@@ -102,9 +116,6 @@ Here is how to verify game files:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Edit Registry
 
  A missing command line from Registry may also lead to the engine error in Apex Legends. So you can add a command line to see if it solves the error.
@@ -117,9 +128,6 @@ Here are the steps to add the command line:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-474.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 2) Add the following command to the text document.
 
 Windows Registry Editor Version 5.00
@@ -128,20 +136,18 @@ Windows Registry Editor Version 5.00
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-475.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
  3) Click**File** \>**Save as…**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-476.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Save the file name as**fix.reg** and select the type as**All files** . then click Save.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-477.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  5) Click**Yes** once you’re prompted about the message.
 
  6) Run Apex Legends again to see if the Engine error has been fixed.
@@ -159,8 +165,6 @@ Windows Registry Editor Version 5.00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +172,26 @@ Windows Registry Editor Version 5.00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-expand-your-horizon-best-15-online-science-platforms-for-2024/"><u>[New] Expand Your Horizon Best 15 Online Science Platforms for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-mystery-behind-missing-facebook-video-suggests/"><u>[Updated] 2024 Approved Mystery Behind Missing Facebook Video Suggests</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-instagrams-hidden-treasure-securely-download-igtv-videos-on-pcmacos/"><u>[Updated] Instagram's Hidden Treasure Securely Download IGTV Videos on PC/MacOS</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/accelerate-your-pc-boot-speed-essential-tips-from-yl-computings-expert-guide/"><u>Accelerate Your PC Boot Speed: Essential Tips From YL Computing's Expert Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-failed-to-start-dilemma-on-rocket-league/"><u>Effective Solutions for the Failed To Start Dilemma on Rocket League</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012035382-ensure-your-virtual-reality-journey-starts-smoothly-addressing-non-detection-of-steam-vr-headsets/"><u>Ensure Your Virtual Reality Journey Starts Smoothly: Addressing Non-Detection of Steam VR Headsets</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-track-to-success-immediate-steps-to-rectify-steamvr-malfunctions/"><u>Fast Track to Success: Immediate Steps to Rectify SteamVR Malfunctions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-fantasy-xv-stability-troubles-top-fixes-for-pc-performance-and-no-more-crashes/"><u>Final Fantasy XV Stability Troubles? Top Fixes for PC Performance and No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-workarounds-for-minecraft-not-loading-correctly/"><u>Fixes and Workarounds for Minecraft Not Loading Correctly</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-xiaomi-redmi-13c-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Xiaomi Redmi 13C Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-and-fix-a-dota-n-2-vac-bannning-issue-tips-players/"><u>How to Overcome and Fix a Dota N 2 VAC Bannning Issue - Tips Players</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-samsung-galaxy-a14-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Samsung Galaxy A14 5G Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-increase-fb-engagement-and-sales-the-15-most-effective-analyzers/"><u>In 2024, Increase FB Engagement & Sales The 15 Most Effective Analyzers</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-glitches-7-simple-tricks-for-a-smoother-halo-infinite-experience-on-your-desktop/"><u>No More Glitches: 7 Simple Tricks for a Smoother Halo Infinite Experience on Your Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quickcharge-tech-esr-releases-enhanced-qi2-magsafe-charger-for-iphone-14-and-up-supercharge-without-overheating-per-zdnet/"><u>QuickCharge Tech: ESR Releases Enhanced Qi2 MagSafe Charger for iPhone 14 & Up - Supercharge Without Overheating, Per ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010838266-rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-issues-with-robocop-rogue-city-game-crashes-on-windows-pc-troubleshooting-guide/"><u>Solving Issues with RoboCop: Rogue City Game Crashes on Windows - PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-guide-to-resolving-mw-series-dev-error-6068-for-uninterrupted-play/"><u>Ultimate Guide to Resolving MW Series Dev Error 6068 for Uninterrupted Play</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-vlog-like-a-pro-14-essential-video-editing-software-solutions/"><u>Updated Vlog Like a Pro 14 Essential Video Editing Software Solutions</u></a></li>
+</ul></div>
 

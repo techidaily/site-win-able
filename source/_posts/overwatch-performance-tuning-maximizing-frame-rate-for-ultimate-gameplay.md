@@ -1,7 +1,7 @@
 ---
 title: "Overwatch Performance Tuning: Maximizing Frame Rate for Ultimate Gameplay"
-date: 2024-08-27T20:29:13.865Z
-updated: 2024-08-28T20:29:13.865Z
+date: 2024-12-15T19:12:08.636Z
+updated: 2024-12-19T16:32:39.161Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -63,15 +60,13 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -89,14 +84,13 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -123,9 +117,6 @@ The powerful video editing program for your Windows PC</a>
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -137,17 +128,19 @@ The powerful video editing program for your Windows PC</a>
 1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -160,7 +153,16 @@ The powerful video editing program for your Windows PC</a>
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch GTFO to see you can play it smoothly.
 
@@ -178,8 +180,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +187,21 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-art-of-profit-from-20-second-videography-a-guide-for-creators/"><u>[New] 2024 Approved The Art of Profit From 20-Second Videography A Guide for Creators</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlock-8-youtube-fitness-ideas-for-viewers-active-participation/"><u>[New] 2024 Approved Unlock 8 YouTube Fitness Ideas for Viewers' Active Participation</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-ultimate-vlog-stability-devices-for-smooth-screensavers/"><u>2024 Approved Ultimate Vlog Stability Devices for Smooth Screensavers</u></a></li>
+<li><a href="https://win-able.techidaily.com/compression-utilize-elastic-bandages-or-compression-wraps-to-apply-gentle-pressure-around-the-injured-area-this-can-help-control-swelling-and-provide-suppor565/"><u>Compression: Utilize Elastic Bandages or Compression Wraps to Apply Gentle Pressure Around the Injured Area. This Can Help Control Swelling and Provide Support.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-7-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 7 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/expert-advice-on-archiving-sports-from-live-feeds-for-2024/"><u>Expert Advice on Archiving Sports From Live Feeds for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-techniques-for-high-dynamic-range-image-creation-with-lightroom-for-2024/"><u>Expert Techniques for High Dynamic Range Image Creation with Lightroom for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-stutter-and-crashes-in-fall-guys-on-your-computer/"><u>Guide to Fixing Stutter and Crashes in Fall Guys on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-non-launch-problem-of-alan-wake-2-game/"><u>How To Resolve The Non-Launch Problem Of Alan Wake 2 Game?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo Reno 11 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-load-speed-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Optimizing Load Speed in Star Wars: Battlefront II for PC Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-why-your-current-cpu-may-not-support-vanguard-software/"><u>Optimizing Performance: Why Your Current CPU May Not Support Vanguard Software</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/trailblazers-in-virtual-reality-content-crafting-for-2024/"><u>Trailblazers in Virtual Reality Content Crafting for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/unparalleled-clarity-in-speech-interpretation-via-google-platform/"><u>Unparalleled Clarity in Speech Interpretation via Google Platform</u></a></li>
+</ul></div>
 

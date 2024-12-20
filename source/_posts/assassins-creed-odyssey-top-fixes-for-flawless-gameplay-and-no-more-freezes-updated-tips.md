@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Odyssey - Top Fixes for Flawless Gameplay and No More Freezes (Updated Tips)
-date: 2024-08-27T20:32:52.179Z
-updated: 2024-08-28T20:32:52.179Z
+date: 2024-12-16T19:41:14.319Z
+updated: 2024-12-19T17:31:47.582Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -65,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
@@ -72,8 +77,9 @@ thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca3
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -88,13 +94,14 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -102,16 +109,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -122,18 +123,16 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -148,9 +147,6 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
@@ -158,6 +154,10 @@ Open Assassin’s Creed Odyssey and see if it works.
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam and open Assassin’s Creed Odyssey and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Why is Assassin’s Creed Odyssey crashing?
 
@@ -177,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +184,19 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-demystifying-advanced-video-coding-techniques/"><u>[New] 2024 Approved Demystifying Advanced Video Coding Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-master-the-art-of-live-streaming-obs-tips-for-youtube-and-twitch/"><u>[Updated] 2024 Approved Master the Art of Live Streaming OBS Tips for YouTube & Twitch</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-tips-for-timely-termination-of-social-media-screenshots/"><u>[Updated] In 2024, Tips for Timely Termination of Social Media Screenshots</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/activating-windows-defender-a-step-by-step-guide-tips-from-yl-computing-experts/"><u>Activating Windows Defender: A Step-by-Step Guide - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/comprehensive-guide-to-garmin-vivosmart-4-a-deep-dive-into-its-capabilities-for-energy-tracking-stress-monitoring-and-additional-functions/"><u>Comprehensive Guide to Garmin Vivosmart 4: A Deep Dive Into Its Capabilities for Energy Tracking, Stress Monitoring & Additional Functions</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-5-optimization-overcoming-latency-issues-once-and-for-all/"><u>Forza Horizon 5 Optimization: Overcoming Latency Issues Once and For All</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-fix-and-enhance-your-experience-with-the-updated-untitled-chapter-text-game-for-pc/"><u>Guide: Fix and Enhance Your Experience with the Updated 'Untitled - Chapter Text' Game for PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-samsung-galaxy-s23-tactical-edition-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Samsung Galaxy S23 Tactical Edition Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-2022-apex-legends-leaf-error-code-comprehensive-guide-and-tips/"><u>How to Resolve 2022 Apex Legends 'Leaf' Error Code – Comprehensive Guide & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/poison-control-centers-can-provide-valuable-guidance-on-the-management-of-various-poisoning-scenarios/"><u>Poison Control Centers Can Provide Valuable Guidance on the Management of Various Poisoning Scenarios.</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-crashes-in-palworld-for-windows-users/"><u>Troubleshooting Continuous Crashes in PalWorld for Windows Users</u></a></li>
+<li><a href="https://fox-access.techidaily.com/visual-storytelling-explore-the-top-15-luts-enhancing-gopro-clips/"><u>Visual Storytelling Explore the Top 15 LUTs Enhancing GOPRO Clips</u></a></li>
+</ul></div>
 

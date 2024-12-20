@@ -1,7 +1,7 @@
 ---
 title: The 2024 Playbook for Overcoming Rust Program Freeze Scenarios - Expert Tips & Tricks
-date: 2024-08-27T20:32:07.145Z
-updated: 2024-08-28T20:32:07.145Z
+date: 2024-12-16T18:23:40.603Z
+updated: 2024-12-19T17:04:18.303Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/29d02750ad0cb057d82cf1dca19da27d5429074e0
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall State of Decay 2](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check your Apps
 
  In order to function properly on a Windows 10 PC, State of Decay 2 requires three supporting apps:**Xbox** ,**Xbox Game Bar** ,**Xbox Live** .
@@ -52,18 +56,12 @@ After that, restart your computer and see if that helps.
 
 If State of Decay 2 still crashes, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Check your antivirus settings
 
  Your antivirus software could block the normal operation of State of Decay 2 and cause the game to keep crashing. To ensure that State of Decay 2 works properly, you should add it as an exception to your antivirus software. This will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  If you’re using a faulty or outdated graphics driver, you will possibly encounter this crashing issue in State of Decay 2\. To fix the potential problems and ensure the game functions properly, you should install the latest graphics driver on your computer.
@@ -76,24 +74,15 @@ If State of Decay 2 still crashes, go ahead with the next fix below.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and check if State of Decay 2 is working properly.
 
  If updating your graphics driver fails to stop the crash, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  By updating your system, you’ll get the latest fixes and security improvements, which may help your device run smoothly and fix the game crashing issue. If you don’t remember the last time you updated your system, you should give it a shot. Here’s how:
@@ -115,6 +104,11 @@ If this method doesn’t help, check out the next solution.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-options.jpg)
 3. Scroll down the page, then click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset-app.jpg)
@@ -122,13 +116,14 @@ If this method doesn’t help, check out the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/reset.jpg)
 5. Once the process is complete, restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch State of Decay 2 to see if the problem is resolved.
 
 If the crashing issue occurs again, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 6: Move State of Decay 2 to a different drive
 
  Sometimes low disk space may prevent your game from working properly and causes many problems, like the crashing issue in State of Decay 2\. To fix it, you’ll need to free up space by moving the program to another drive. Here’s how:
@@ -138,18 +133,21 @@ If the crashing issue occurs again, continue to the next fix.
 2. Under Apps & features, click**State of Decay 2** , then select**Move** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move-app.jpg)
 3. In the pop-up window,**select a new drive** from the drop-down menu, then click**Move** again.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/move2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After doing that, launch State of Decay 2 and check if the problem has gone away.
 
 If this method doesn’t do the trick, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Set English (United States) as the default language
 
  Some gamers have reported that they fixed the State of Decay 2 crashing issue by setting English (United States) as the default language. You can give it a try. To do so:
@@ -159,25 +157,29 @@ If this method doesn’t do the trick, try the next fix.
 2. In the left panel, select**Language** . Under the Preferred languages section, click**Add a language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-a-language.jpg)
 3. Select**English (United States)** , then click**Next** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/next.jpg)
 4. Click**Install** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/install-language.jpg)
 5. After the language is fully installed, drag it to the first position in the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/set-as-default.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now restart your PC and test if State of Decay 2 still crashes.
 
 If this solution doesn’t work for you, continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Perform a clean boot
 
  Some background applications or services may cause State of Decay 2 crashes on your PC. So you can perform a clean boot to see if there are any conflicts between the game and another program. Here’s how:
@@ -185,22 +187,12 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
 6. Restart your computer.
 
@@ -210,9 +202,6 @@ If this solution doesn’t work for you, continue to the next fix.
 
  If the game still crashes after you disabled all the programs and services, try the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall State of Decay 2
 
  If none of the fixes above solve your problem, try reinstalling State of Decay 2 as a last resort. This might help you get rid of the crashing issue. To do so:
@@ -220,8 +209,18 @@ If this solution doesn’t work for you, continue to the next fix.
 1. On your keyboard, press the**Windows logo key** and**X** together to open the Quick Link menu. Then select**Apps and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/apps-features.jpg)
 2. Under Apps & features, click**State of Decay 2** , then select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-app.jpg)
 3. Click**Uninstall** again.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall.jpg)
 4. Restart your computer and reinstall the game.
 
@@ -237,8 +236,6 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +243,20 @@ If this solution doesn’t work for you, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-revolutionize-gaming-sounds-ps5ps4-edition/"><u>[New] Revolutionize Gaming Sounds PS5/PS4 Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sky-high-adventures-the-gopro-karma-experience/"><u>[New] Sky-High Adventures The GoPro Karma Experience</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-directly-infuse-youtube-music-into-any-imovie-project/"><u>[Updated] 2024 Approved Directly Infuse YouTube Music Into Any iMovie Project</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-pinpointing-perfect-workplace-messengers-is-slack-surpassing-discord/"><u>[Updated] 2024 Approved Pinpointing Perfect Workplace Messengers Is Slack Surpassing Discord?</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-instant-time-stamping-techniques-for-youtube-videos/"><u>[Updated] Instant Time-Stamping Techniques for YouTube Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-twitch-stream-buffer-unlock-7-proven-methods-to-load-your-content-faster/"><u>Bypass Twitch Stream Buffer: Unlock 7 Proven Methods to Load Your Content Faster</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/die-einfache-methode-zur-ubertragung-von-iphone-kontakten-auf-einen-computer-uber-itunes/"><u>Die Einfache Methode Zur Übertragung Von iPhone-Kontakten Auf Einen Computer Über iTunes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fix-for-continuous-control-errors-and-crashing-problems/"><u>Effortless Fix for Continuous Control Errors & Crashing Problems.</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-wow-bug-comprehensive-guide-to-resolving-error-code-132-crash/"><u>Fixing WoW Bug: Comprehensive Guide to Resolving Error Code 132 Crash</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gameplay-cyberpunk-2nk77-overcomes-previous-fps-lag-problems/"><u>Improved Gameplay: Cyberpunk 2Nk77 Overcomes Previous FPS Lag Problems</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-vr-accessories-unleashed-in-depth-reviews/"><u>In 2024, VR Accessories Unleashed In-Depth Reviews</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-glitches-solutions-to-stop-the-continuous-freezing/"><u>New World Glitches: Solutions to Stop the Continuous Freezing</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-solutions-to-overcome-low-fps-challenges-in-escape-from-tarkov/"><u>Top 6 Solutions to Overcome Low-FPS Challenges in Escape From Tarkov</u></a></li>
+</ul></div>
 
