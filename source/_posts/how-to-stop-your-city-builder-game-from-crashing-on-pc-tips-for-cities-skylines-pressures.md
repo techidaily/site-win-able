@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Your City Builder Game From Crashing on PC: Tips for Cities: Skylines Pressures"
-date: 2024-12-13T18:43:32.005Z
-updated: 2024-12-20T06:09:49.057Z
+date: 2024-12-18T20:35:34.927Z
+updated: 2024-12-21T21:19:36.690Z
 tags:
   - win11
   - win10
@@ -34,10 +34,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -51,6 +47,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
@@ -66,18 +66,22 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics card driver
@@ -108,6 +112,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
@@ -129,13 +137,13 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Launch World of Warships in safe mode
 
@@ -161,17 +169,9 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-2-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**World of Warships** from the list, and click**Uninstall** . Then, follow the on-screen instructions to complete the process.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
@@ -203,24 +203,15 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-building-a-solid-base-for-higher-instagram-video-view-counts/"><u>[New] 2024 Approved Building a Solid Base for Higher Instagram Video View Counts</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-exclusive-strategies-for-photovideo-importers-in-win11/"><u>[New] In 2024, Exclusive Strategies for Photo/Video Importers in Win11</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-supercharging-instagram-videos-on-the-go-mobile/"><u>[New] In 2024, Supercharging Instagram Videos on the Go (Mobile)</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-max-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro Max</u></a></li>
-<li><a href="https://win-able.techidaily.com/cod-modern-warfare-3-performance-issues-and-latency-drops-expected-for-players/"><u>COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-computer-lags-advanced-solutions-for-enhancing-your-sims-4-gameplay-pro-advice-2024/"><u>Conquering Computer Lags: Advanced Solutions for Enhancing Your Sims 4 Gameplay (Pro Advice, 2024)</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-the-features-of-line-chat-an-expert-review/"><u>Discovering the Features of Line Chat: An Expert Review</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-steps-to-solve-printer-scan-failures/"><u>Easy Steps to Solve Printer Scan Failures</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/from-basic-to-breathtaking-storytelling-through-smart-bokeh-use/"><u>From Basic to Breathtaking Storytelling Through Smart Bokeh Use</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-pc-version-fixes-and-solutions-for-persistent-crashing-issues/"><u>God of War PC Version: Fixes & Solutions for Persistent Crashing Issues</u></a></li>
-<li><a href="https://article-helps.techidaily.com/in-2024-fastest-iphoneandroid-apps-for-enhanced-music/"><u>In 2024, Fastest iPhone/Android Apps for Enhanced Music</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-mac-screenshot-file-type-changes-for-2024/"><u>Navigating Mac Screenshot File Type Changes for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unpredictable-pc-malfunctions-when-running-gas-station-simulator-on-windows-1011/"><u>Resolving Unpredictable PC Malfunctions When Running Gas Station Simulator on Windows 10/11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/sequential-watchlist-for-dragon-ball-fans-the-right-way-to-enjoy-gokus-journey/"><u>Sequential Watchlist for Dragon Ball Fans: The Right Way to Enjoy Goku's Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-black-screen-dilemma-nba-2k21-troubleshooting-guide-release/"><u>Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-story-how-we-overcame-the-game-security-infringement-noticed-issue/"><u>Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-assault-on-dragon-keepers-pc-fix-guide/"><u>Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide</u></a></li>
-<li><a href="https://some-tips.techidaily.com/the-ultimate-guide-to-clean-image-borders-on-canva-for-2024/"><u>The Ultimate Guide to Clean Image Borders on Canva for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-overcoming-back-4-blood-game-crashes-on-personal-computers/"><u>Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeos-revenue-revolution-strategies-for-successful-advertising-earning/"><u>[New] 2024 Approved Vimeo's Revenue Revolution Strategies for Successful Advertising Earning</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unlock-your-potential-with-these-leading-cost-free-editions/"><u>[Updated] Unlock Your Potential with These Leading Cost-Free Editions</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-transform-your-fb-advertising-simplify-with-a-free-toolkit/"><u>2024 Approved Transform Your FB Advertising Simplify with a Free Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-troubleshooting-steps-for-persistent-pc-game-crashes/"><u>Assassin's Creed Valhalla - Troubleshooting Steps for Persistent PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-resolving-csgo-gameplay-lag/"><u>Effortless Solutions for Resolving CS:GO Gameplay Lag</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-realme-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Realme Device</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/inside-scoop-on-the-latest-google-pixel-watch-edition-prices-release-info-and-in-depth-feature-analysis/"><u>Inside Scoop on the Latest Google Pixel Watch Edition - Prices, Release Info & In-Depth Feature Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-errors-successfully-launched-star-wars-jedi-fallen-order-after-initial-failures/"><u>No More Errors! Successfully Launched Star Wars Jedi: Fallen Order After Initial Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/reconnecting-to-the-game-fixing-your-rainbow-six-siege-network-hiccups/"><u>Reconnecting to the Game: Fixing Your Rainbow Six Siege Network Hiccups</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-chatgpt-installation-guide/"><u>Step-by-Step ChatGPT Installation Guide</u></a></li>
 </ul></div>
 

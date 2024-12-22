@@ -1,7 +1,7 @@
 ---
 title: "Solving the Black Screen Dilemma: NBA 2K21 Troubleshooting Guide Release"
-date: 2024-12-18T08:03:56.468Z
-updated: 2024-12-20T09:45:16.169Z
+date: 2024-12-17T21:00:15.333Z
+updated: 2024-12-21T17:58:01.225Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ Recommended
 
  After confirming that your PC is powerful enough to run the game, go ahead with the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that does the trick.
@@ -69,10 +73,6 @@ Recommended
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-verify-game-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once the process is completed, try launching the game again to see if you can get past the black screen.
 
 If the issue remains, check out the next fix.
@@ -90,11 +90,11 @@ If the issue remains, check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -103,7 +103,7 @@ If the issue remains, check out the next fix.
 If the issue persists, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Check for Windows updates
@@ -115,6 +115,10 @@ If the issue persists, take a look at the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your computer and launch Halo Infinite again to see if the black screen issue has gone away.
 
@@ -132,14 +136,14 @@ If the issue persists, take a look at the next fix.
 3. Locate**HaloInfinite.exe** from the list of apps. If not listed, click**Change settings > Allow another app…** , then locate**HaloInfinite.exe** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. Checkmark both**Private** and**Public** settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Click**OK** .
@@ -147,10 +151,6 @@ If the issue persists, take a look at the next fix.
  If you’re also running any third-party antivirus program, you should temporarily disable it before launching the game.
 
  Check if you still get a black screen when launching Halo Infinite. If the issue persists, continue with the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Perform a clean boot
 
@@ -176,10 +176,6 @@ If the issue persists, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer and try launching Halo Infinite again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you won’t see a black screen again, then try enabling services one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
 
  Once you find out the problematic program that causes the black screen issue, you may need to uninstall it to avoid running into the same issue in the future.
@@ -194,6 +190,10 @@ If the issue persists, take a look at the next fix.
 2. Right-click**Halo Infinite** and select**Manage > Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-infinite-steam-uninstall.jpg)
 3. Follow the on-screen instructions to uninstall the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Reinstall Halo Infinite.
 
@@ -221,16 +221,19 @@ Now you should be able to run the game without any problems.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-pro-filmmakers-guide-to-speedy-shot-techniques/"><u>[New] Pro Filmmaker's Guide to Speedy Shot Techniques</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-top-10-web-based-subtitle-editor-tools-for-2024/"><u>[New] Top 10 Web-Based Subtitle Editor Tools for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/1-crafting-personalized-borders-in-excel-a-step-by-step-guide/"><u>1. Crafting Personalized Borders in Excel: A Step-by-Step Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/1-discover-the-apple-studio-monitor-comprehensive-guide-on-specifications-design-highlights-and-key-insights/"><u>1. Discover the Apple Studio Monitor: Comprehensive Guide on Specifications, Design Highlights & Key Insights</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-dota-2s-latest-vac-error-effective-strategies-for-account-revival/"><u>Addressing Dota 2'S Latest VAC Error: Effective Strategies for Account Revival</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-resolving-black-screen-problems-in-epic-games-launcher/"><u>Fixing the Issue: Resolving Black Screen Problems in Epic Games Launcher</u></a></li>
-<li><a href="https://win-able.techidaily.com/insufficient-system-specs-detected-boosting-your-pc-for-smooth-vanguard-experience/"><u>Insufficient System Specs Detected - Boosting Your PC for Smooth Vanguard Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-fifa-20-game-crashing-due-to-a-directx-issue/"><u>Resolved: How to Fix the FIFA 20 Game Crashing Due to a DirectX Issue</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-connectivity-problems-for-a-smooth-gta-5-online-experience/"><u>Resolving Connectivity Problems for a Smooth GTA 5 Online Experience</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/unveiling-six-highly-effective-dietary-journaling-apps/"><u>Unveiling Six Highly Effective Dietary Journaling Apps</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-free-video-editing-gems-top-picks-for-online-creators/"><u>Updated In 2024, Free Video Editing Gems Top Picks for Online Creators</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/elf-filmed-brilliance-secrets-for-youtube-success-for-2024/"><u>[New] Self-Filmed Brilliance Secrets for YouTube Success for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-exploring-effective-financial-gains-through-youtube-shorts/"><u>2024 Approved Exploring Effective Financial Gains Through YouTube Shorts</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-the-ultimate-guide-to-iphone-video-editing-top-5-apps/"><u>2024 Approved The Ultimate Guide to iPhone Video Editing Top 5 Apps</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-desert-on-pc-overcoming-persistent-gameplay-crashes-successfully/"><u>Black Desert on PC - Overcoming Persistent Gameplay Crashes Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/dayz-low-fps-woes-learn-swift-techniques-for-smooth-gaming-now/"><u>DayZ Low FPS Woes? Learn Swift Techniques for Smooth Gaming Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-solutions-for-resolving-freezing-issues-in-playstation-4-systems/"><u>DIY Solutions for Resolving Freezing Issues in PlayStation 4 Systems</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-lava-blaze-curve-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Lava Blaze Curve 5G Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-samsung-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Samsung</u></a></li>
+<li><a href="https://win-dash.techidaily.com/intel-wireless-wifi-6-ax200-driver-download-plus-upgrade-guide-for-windows-1110/"><u>Intel Wireless WiFi 6 AX200 Driver Download + Upgrade Guide for Windows 11/10</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/is-m1-suitability-for-professional-editing-confirmed-in-2024/"><u>Is M1 Suitability for Professional Editing Confirmed, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-guide-fixing-pc-issues-for-a-smooth-cult-of-the-lamb-gaming-experience/"><u>Optimized Guide: Fixing PC Issues for a Smooth 'Cult of the Lamb' Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-crashes-troubleshooting-guide-for-uninterrupted-gameplay-in-thunder-tier-one/"><u>Overcome Crashes: Troubleshooting Guide for Uninterrupted Gameplay in Thunder Tier One</u></a></li>
+<li><a href="https://win-able.techidaily.com/preventing-disruptions-in-mass-effect-legendary-edition-fixes-for-pc-and-xbox-users/"><u>Preventing Disruptions in Mass Effect Legendary Edition - Fixes for PC & Xbox Users</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-how-to-fix-the-non-functioning-aoc-monitor-compatible-with-windows-10/"><u>Troubleshooting Guide: How to Fix the Non-Functioning AOC Monitor Compatible with Windows 10</u></a></li>
 </ul></div>
 

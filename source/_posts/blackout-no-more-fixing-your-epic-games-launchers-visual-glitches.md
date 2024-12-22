@@ -1,7 +1,7 @@
 ---
 title: "Blackout No More: Fixing Your Epic Games Launcher's Visual Glitches"
-date: 2024-12-17T17:33:50.151Z
-updated: 2024-12-20T04:01:16.479Z
+date: 2024-12-16T23:15:23.798Z
+updated: 2024-12-21T23:20:15.436Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ The Epic Games Launcher is such a wonderful platform that you can play your favo
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,16 +56,12 @@ Here’s how you can do this:
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Scroll down to**Display resolution** and click on the**down arrow** button.
 
 ![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Scroll down and choose**1280×768** .
 
@@ -70,6 +70,10 @@ Here’s how you can do this:
  After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Run the launcher as an administrator
 
@@ -95,10 +99,6 @@ Here’s how you can do this:
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
  Manually updating drivers can be a challenge. You’ll need to identify your system specs, find the drivers, and then download and install them. If that sounds a lot, consider doing it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -116,6 +116,10 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for them to take effect.
@@ -123,7 +127,7 @@ Here’s how you can do this:
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Adjust compatibility mode
@@ -159,24 +163,16 @@ Here’s how you can do this:
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
 
@@ -203,10 +199,6 @@ Here’s how you can do this:
  11) Click**Yes, save these settings for this program** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 12) Now, the issue is fixed.
 
@@ -251,7 +243,7 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Network and Sharing Center** .
@@ -277,10 +269,6 @@ Here’s how you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
 
 ## Fix 8: Flush the DNS cache
@@ -303,11 +291,19 @@ To do this, simply follow the instructions below:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9: Change high DPI settings
 
  1) Right-click on the launcher’s shortcut and select**Properties** .
 
 ![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Select the**Compatibility** tab and click**Change high DPI settings** .
 
@@ -340,6 +336,10 @@ Below is the VPN we would like to recommend:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * [black screen](https://tools.techidaily.com/drivereasy/download/)
 * [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
 
@@ -358,22 +358,19 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-boost-visibility-with-customized-channel-names/"><u>[New] 2024 Approved Boost Visibility with Customized Channel Names!</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dominating-viewership-tips-for-your-video-to-be-a-staff-choice/"><u>[New] In 2024, Dominating Viewership Tips for Your Video to Be a Staff Choice</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-accelerating-your-creative-process-with-mac-dvd-authoring-for-2024/"><u>[Updated] Accelerating Your Creative Process with Mac DVD Authoring for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-lightning-fast-windowed-image-viewer/"><u>2024 Approved Lightning-Fast Windowed Image Viewer</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/affordable-excellence-a-budget-friendly-laptop-with-stunning-display-performance-reviews-by-zdnet/"><u>Affordable Excellence: A Budget-Friendly Laptop with Stunning Display Performance, Reviews by ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminating-call-of-duty-warzone-vers-5031-disc-read-glitches-for-an-uninterrupted-gaming-experience/"><u>Eliminating Call of Duty: Warzone [Vers. 5.0/3.1] Disc Read Glitches for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-the-silence-a-guide-to-resolving-your-lenovos-audio-troubles/"><u>Fixing the Silence: A Guide to Resolving Your Lenovo's Audio Troubles</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-intense-close-ups-in-minecraft-five-simple-steps/"><u>In 2024, Intense Close-Ups in Minecraft Five Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-stability-a-step-by-step-solution-to-prevent-ntdlldll-errors-in-windows-11-and-10-environments/"><u>Mastering Stability: A Step-by-Step Solution to Prevent ntdll.dll Errors in Windows 11 and 10 Environments</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-and-fix-interruptions-in-fortnites-playback-quality-on-pc-systems/"><u>Optimize and Fix Interruptions in Fortnite's Playback Quality on PC Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-nvidia-control-panel-errors-and-crashes-effectively/"><u>Overcoming NVIDIA Control Panel Errors and Crashes Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/phantom-problem-solved-beating-the-90-load-screen-hurdle-in-phasmophobias-newest-patch/"><u>Phantom Problem Solved? Beating the 90% Load Screen Hurdle in Phasmophobia's Newest Patch</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/seamless-communication-the-best-5-webcams-with-inbuilt-microphones-for-2024/"><u>Seamless Communication The Best 5 Webcams with Inbuilt Microphones for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-the-mystery-stop-halo-infinite-from-crashing-on-your-pc-with-these-7-simple-solutions/"><u>Solve the Mystery: Stop Halo Infinite From Crashing on Your PC with These 7 Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-mute-mystery-restoring-sounds-in-roblox-for-windows-1110-users/"><u>Solving the Mute Mystery: Restoring Sounds in Roblox for Windows 11/10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-solutions-how-to-resolve-your-steam-vr-headset-going-unseen/"><u>Top Solutions: How to Resolve Your Steam VR Headset Going Unseen</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/updated-premier-digital-audio-editor-for-2024/"><u>Updated Premier Digital Audio Editor for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-streamlining-your-instagram-storytelling-with-size-tweaks/"><u>[New] In 2024, Streamlining Your Instagram Storytelling with Size Tweaks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-y36i-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo Y36i without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-maintain-stable-fps-in-dota-2-while-playing-under-windows-11-environments/"><u>How to Maintain Stable FPS in Dota 2 While Playing Under Windows 11 Environments</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-accelerated-record-functionality-and-narrator-support/"><u>In 2024, Accelerated Record Functionality & Narrator Support</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-from-recordings-to-live-streams-instagram-via-obs-explained/"><u>In 2024, From Recordings to Live Streams Instagram via OBS Explained</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-unleash-the-potential-of-youtube-videos-through-strategic-chapters-and-segments/"><u>In 2024, Unleash the Potential of YouTube Videos Through Strategic Chapters and Segments</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ating-sustainable-communities-within-the-concrete-jungle-for-2024/"><u>Innovating Sustainable Communities Within the Concrete Jungle for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ios-175-beta-2-update-allows-eu-apple-device-owners-web-based-app-downloads-detailed-guide/"><u>IOS 17.5 Beta 2 Update Allows EU Apple Device Owners Web-Based App Downloads - Detailed Guide</u></a></li>
+<li><a href="https://fox-that.techidaily.com/solving-the-issue-unsupported-accessory-troubleshooting-for-iphones/"><u>Solving the Issue: Unsupported Accessory Troubleshooting for iPhones</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-fix-fps-lag-while-racing-in-forza-horizon-5-on-pc/"><u>Tips & Tricks to Fix FPS Lag While Racing in Forza Horizon 5 on PC</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-external-hdd-drives-and-ssd-encasements/"><u>Top Rated External HDD Drives & SSD Encasements</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-for-launching-modern-warfare-on-your-pc/"><u>Troubleshooting Guide for Launching Modern Warfare on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-steam-friends-network-unavailable-error/"><u>Troubleshooting Guide: Fixing 'Steam Friends Network Unavailable' Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/win-over-gamepad-woes-fixing-the-steelseries-gg-engine-compatibility-issues-on-windows-1011/"><u>Win Over Gamepad Woes: Fixing the SteelSeries GG (Engine) Compatibility Issues on Windows 10/11</u></a></li>
 </ul></div>
 

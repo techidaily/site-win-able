@@ -1,7 +1,7 @@
 ---
 title: "Sony Vegas Stability Solutions: How To Prevent Unexpected Software Shutdowns"
-date: 2024-08-23T11:18:16.647Z
-updated: 2024-08-24T11:18:16.647Z
+date: 2024-12-15T20:56:37.705Z
+updated: 2024-12-21T21:47:45.171Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
@@ -45,8 +42,9 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
  If, unfortunately, you can’t access the game options, try modify the settings in the GraphicsConfig file.
@@ -56,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
  2) Type**_%appdata%_** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Open**DarkSouls3** folder.
 
@@ -68,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
  Your problem still persists, don’t worry. There are other solutions.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your video driver
 
  Many players have reported that the graphics card driver may be the culprit to the crashing issue, and updating the graphics driver helps resolve the problem. So you should update your graphics card driver to the latest version.
@@ -95,12 +94,13 @@ thumbnail: https://thmb.techidaily.com/b58731ef522e71a2b18dd9c60ce59d1b021be466a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Set game options to LOW
 
@@ -111,8 +111,9 @@ Now launch Dark Souls 3 and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -136,8 +137,9 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -148,13 +150,14 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
@@ -175,8 +178,6 @@ Then play your game to see if it works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +185,24 @@ Then play your game to see if it works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-comparing-apples-with-oranges-not-when-it-comes-to-m1-pro-and-m1-max-for-2024/"><u>[New] Comparing Apples with Oranges? Not When It Comes to M1 Pro & M1 Max for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-best-free-downloaders-download-youtube-thumbnail-for-free/"><u>[New] In 2024, Best Free Downloaders Download YouTube Thumbnail for Free</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-symphonic-syncopation-perfecting-audio-transitions-for-2024/"><u>[Updated] Symphonic Syncopation Perfecting Audio Transitions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-game-glitches-eliminate-fifa-20-crashing-issues-on-pc-for-good/"><u>Conquer Game Glitches: Eliminate FIFA 20 Crashing Issues on PC for Good</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-guide-enabling-dolby-atmos-sound-on-your-pc-running-windows-11-or-10/"><u>DIY Guide: Enabling Dolby Atmos Sound on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-why-your-outriders-game-keeps-crashing/"><u>Fixing the Issue: Why Your Outriders Game Keeps Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2022-wont-start-heres-how-to-get-past-the-launch-blockade-fixed/"><u>Football Manager 2022 Won't Start? Here’s How to Get Past the Launch Blockade - Fixed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/from-niche-to-mainstream-amassing-a-million-view-channel/"><u>From Niche to Mainstream Amassing a Million-View Channel</u></a></li>
+<li><a href="https://win-superb.techidaily.com/gouden-regels-voor-dataverdeling-wieletalen-opheffing-zonder-toepassingsprogrammas/"><u>Gouden Regels Voor Dataverdeling: Wieletalen Opheffing Zonder Toepassingsprogramma's</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-motorola-moto-g73-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Motorola Moto G73 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-well-does-chatgpt-master-the-art-of-cocktail-making/"><u>How Well Does ChatGPT Master the Art of Cocktail Making?</u></a></li>
+<li><a href="https://win-able.techidaily.com/level-up-your-ark-survival-ascended-journey-in-depth-guide-for-optimal-frame-rates-and-enhanced-visuals-on-pc/"><u>Level Up Your ARK Survival Ascended Journey: In-Depth Guide for Optimal Frame Rates and Enhanced Visuals on PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/never-be-without-chatgpt-a-step-by-step-tutorial-for-using-chatgpt-everywhere/"><u>Never Be Without ChatGPT: A Step-by-Step Tutorial for Using ChatGPT Everywhere</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001367628-no-more-freezing-controllers-easy-fixes-inside/"><u>No More Freezing Controllers - Easy Fixes Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-fix-a-non-functional-discord-webcam/"><u>Troubleshooting Steps: How to Fix a Non-Functional Discord Webcam</u></a></li>
+<li><a href="https://win-able.techidaily.com/twitch-streaming-issue-overcoming-mute-challenges-successfully/"><u>Twitch Streaming Issue - Overcoming Mute Challenges Successfully</u></a></li>
+<li><a href="https://driver-install.techidaily.com/uncompromising-webcam-software-for-windows/"><u>Uncompromising Webcam Software for Windows</u></a></li>
+</ul></div>
 

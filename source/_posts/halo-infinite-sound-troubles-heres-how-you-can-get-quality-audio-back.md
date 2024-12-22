@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-12-14T20:20:34.989Z
-updated: 2024-12-19T20:56:53.721Z
+date: 2024-12-14T19:28:24.259Z
+updated: 2024-12-21T20:36:09.967Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You don’t have to try them all, just work your way down the list until you find the one that does the trick!
@@ -44,18 +48,14 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_12-37-42.jpg)
 2. Go to the**Audio** tab, and set the**Dynamic Range** setting to**Compressed mode** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_12-37-13.jpg)
 3. Play a game to test the issue.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this fix doesn’t solve your problem, try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -82,13 +82,13 @@ If this fix doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new drivers to take effect. If the audio problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Configure Windows sound settings
 
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Configure the output device settings
 
@@ -99,10 +99,14 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Make sure you select the**Stereo** audio. Hands-Free audio allows you to use your device as both the output and input device, but your audio quality will be very low.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Turn on loudness equalization
 
@@ -112,21 +116,13 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-44.jpg)
 2. Go to the**Playback** tab, select your output device, and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-11.jpg)
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
@@ -145,6 +141,10 @@ If this fix doesn’t solve your problem, try the next fix.
 1. On your taskbar, right-click the**speaker icon** and click**Sounds** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-27-44.jpg)
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
 
@@ -169,20 +169,18 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-picsart-shield-invisible-smile-vanished-gaze/"><u>[New] 2024 Approved Picsart Shield Invisible Smile, Vanished Gaze</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-innovative-strategies-for-combining-obs-with-zoom-platform/"><u>2024 Approved Innovative Strategies for Combining OBS with Zoom Platform</u></a></li>
-<li><a href="https://change-location.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/beyond-the-keys-exploring-the-top-features-of-an-exceptional-iphone-case-a-closer-look/"><u>Beyond the Keys: Exploring the Top Features of an Exceptional iPhone Case - A Closer Look</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-for-recurring-freezing-and-crashes-on-world-of-tanks-blitz/"><u>Expert Solutions for Recurring Freezing and Crashes on World of Tanks Blitz</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-change-htc-u23-pro-lock-screen-password-by-drfone-android/"><u>How To Change HTC U23 Pro Lock Screen Password?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-constant-pc-freezes-in-euro-truck-simulator-2-game/"><u>How to Fix Constant PC Freezes in Euro Truck Simulator 2 Game</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-windows-11-error-0xc19001e1-for-smooth-operations/"><u>How to Fix Windows 11 Error 0xC19001E1 for Smooth Operations</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-13-pro-max-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 13 Pro Max? Heres the Best Fixes</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oneplus-12-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of OnePlus 12 Through Google Earth?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-vivo-s17-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Vivo S17 to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/online-account-login-restored-on-origin-platform/"><u>Online Account Login Restored on Origin Platform</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-tips-for-a-smooth-uninterrupted-diablo-iii-playthrough/"><u>Resolved: Tips for a Smooth, Uninterrupted Diablo III Playthrough</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-unwanted-superhero-characters-appearing-on-your-game-screen/"><u>Resolving Unwanted Superhero Characters Appearing on Your Game Screen</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transferring-films-effortlessly-steps-for-migrating-videos-from-pc-directly-to-your-ipad-avoiding-syncingitunes/"><u>Transferring Films Effortlessly: Steps for Migrating Videos From PC Directly to Your iPad Avoiding Syncing/iTunes</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-secrets-to-effective-vr-game-playback/"><u>[New] Secrets to Effective VR Game Playback</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-approach-record-movies-everywhere-you-go/"><u>[New] Streamlined Approach Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-picks-ultimate-tools-for-efficient-scheduling-screen-captures-for-2024/"><u>[Updated] Top Picks Ultimate Tools for Efficient Scheduling Screen Captures for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-authorship-workshop/"><u>2024 Approved Prime Authorship Workshop</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid/"><u>2024 Approved Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-repair-steams-steamuidll-loading-error/"><u>Comprehensive Guide to Repair Steam's steamui.dll Loading Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007238934-doom-eternal-wont-launch-yet-here-are-quick-fixes-you-need-to-know-about/"><u>DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-dragon-quest-xis-unexpected-shutdown-bug-a-complete-guide/"><u>How to Fix Dragon Quest XI's Unexpected Shutdown Bug - A Complete Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78+ to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-overcome-the-preparations-screen-problem-in-granblue-fantasy/"><u>Troubleshooting Tips to Overcome the Preparations Screen Problem in Granblue Fantasy</u></a></li>
+<li><a href="https://win-workspace.techidaily.com/ultimate-guide-to-permanently-removing-temp-files-by-yl-software-experts/"><u>Ultimate Guide to Permanently Removing Temp Files by YL Software Experts</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/understanding-the-impact-of-circular-videography/"><u>Understanding the Impact of Circular Videography</u></a></li>
 </ul></div>
 

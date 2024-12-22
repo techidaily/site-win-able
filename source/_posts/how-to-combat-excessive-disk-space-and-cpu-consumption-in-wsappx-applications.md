@@ -1,7 +1,7 @@
 ---
 title: How to Combat Excessive Disk Space & CPU Consumption in WSAPPX Applications
-date: 2024-08-23T11:16:13.301Z
-updated: 2024-08-24T11:16:13.301Z
+date: 2024-12-19T20:45:41.173Z
+updated: 2024-12-21T23:01:43.279Z
 tags:
   - win11
   - win10
@@ -39,16 +39,14 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
 #### If you’re on GOG
@@ -57,10 +55,11 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -87,17 +86,18 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -112,9 +112,11 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
@@ -134,8 +136,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,21 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-a-treasury-of-thought-provoking-youtube-content/"><u>[New] 2024 Approved A Treasury of Thought-Provoking YouTube Content</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-optimize-logitech-footage-background-free-method/"><u>[Updated] 2024 Approved Optimize Logitech Footage - Background-Free Method</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-action-packed-comparisons-gopro-vs-star-sj7-for-2024/"><u>[Updated] Action-Packed Comparisons GoPro Vs Star SJ7 for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-optimizing-youtube-presentations-with-precise-times/"><u>[Updated] Optimizing YouTube Presentations with Precise Times</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-blur-selection-for-digital-imagery-for-2024/"><u>Advanced Blur Selection for Digital Imagery for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-darkness-correcting-helldivers-2s-black-outage-on-start-up/"><u>Banish the Darkness: Correcting Helldivers 2'S Black Outage on Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-fallout-76-performance-top-techniques-to-eliminate-lag/"><u>Boost Your Fallout 76 Performance: Top Techniques to Eliminate Lag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/experience-hassle-free-pc-cooling-the-upcoming-tim-applying-solution-by-x-apply-no-more-mistakes-guaranteed/"><u>Experience Hassle-Free PC Cooling: The Upcoming TIM Applying Solution by X-Apply – No More Mistakes Guaranteed</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-recurring-shutdowns-in-your-moonlight-user-interface/"><u>How To Stop Recurring Shutdowns in Your Moonlight User Interface</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ios-adoption-unleashing-chatgpt-app/"><u>IOS Adoption: Unleashing ChatGPT App</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012802785-overcome-your-phasmophobia-game-glitch-fix-the-endless-load-screen-of-90/"><u>Overcome Your Phasmophobia Game Glitch - Fix the Endless Load Screen of 90%</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-re5-startup-difficulties-effective-fixes-for-personal-computers/"><u>Overcoming RE5 Startup Difficulties: Effective Fixes for Personal Computers</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-ai-for-stunning-photo-creation-for-2024/"><u>Premier AI for Stunning Photo Creation for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722903861223-setting-up-two-factor-authentication-on-twitch-a-step-by-step-guide/"><u>Setting Up Two-Factor Authentication on Twitch – A Step-by-Step Guide</u></a></li>
+</ul></div>
 

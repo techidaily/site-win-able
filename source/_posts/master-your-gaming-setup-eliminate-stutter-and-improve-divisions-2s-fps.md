@@ -1,7 +1,7 @@
 ---
 title: "Master Your Gaming Setup: Eliminate Stutter & Improve Divisions 2'S FPS"
-date: 2024-08-23T11:17:29.195Z
-updated: 2024-08-24T11:17:29.195Z
+date: 2024-12-20T18:28:18.797Z
+updated: 2024-12-22T01:04:22.754Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d7731692b.jpg)
 
  Are you suffering**Fallout 4 stuttering** issue? It’s really frustrating and annoying. But there’s no need to panic. Certainly you’re not the only one having the problem. We’ve seen many PC gamers are reporting it. Luckily, it’s usually easy to fix. Read on and see how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 fixes for Fallout 4 stuttering
 
@@ -64,6 +68,10 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -83,21 +91,16 @@ You can update your video driver either manually or automatically.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -117,13 +120,18 @@ Launch Fallout 4 to see if it runs smoothly.
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
  If the Fix 3 fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -146,9 +154,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will**slow down** .**58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -167,9 +172,6 @@ Run Fallout 4 to see if it goes smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.
@@ -198,8 +200,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +207,20 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-achieve-uninterrupted-youtube-experience-across-os-platforms/"><u>[Updated] Achieve Uninterrupted YouTube Experience Across OS Platforms</u></a></li>
+<li><a href="https://discover-help.techidaily.com/1-athhakaraka-sahamata-sa-ghata-haii-aaikanalka-ka-panaraparapata-karana-ka-thashhatakashhanae-sacalna-ma-tarataya-ka-khatara/"><u>1. अधिकारिक सहमति से घटी हुई आइकन/लिंक को पुनर्प्राप्त करने का दृष्टिक्षण: संचालन में त्रुटियों का खतरा</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-unraveling-windows-10-complexities-simplified/"><u>2024 Approved Unraveling Windows 10 Complexities Simplified</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/crafting-commanding-audio-deepening-your-vocal-expressiveness-with-filmora/"><u>Crafting Commanding Audio Deepening Your Vocal Expressiveness with Filmora</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-preventing-malfunctions-during-total-war-troy-gaming-sessions-on-desktop-systems/"><u>Expert Advice on Preventing Malfunctions During 'Total War: Troy' Gaming Sessions on Desktop Systems</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/how-to-resolve-assassins-creed-odyssey-continuous-pc-game-crashes-with-simple-solutions/"><u>How to Resolve Assassin's Creed Odyssey Continuous PC Game Crashes with Simple Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-gameplay-cyberpunk-2nk77-overcomes-previous-fps-lag-problems/"><u>Improved Gameplay: Cyberpunk 2Nk77 Overcomes Previous FPS Lag Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-world-glitches-solutions-to-stop-the-continuous-freezing/"><u>New World Glitches: Solutions to Stop the Continuous Freezing</u></a></li>
+<li><a href="https://fox-where.techidaily.com/perfekt-laden-von-bildert-auf-das-ios-gerat/"><u>Perfekt Laden Von Bildert Auf Das iOS-Gerät</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reverberation-artisan-collection/"><u>Reverberation Artisan Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-solutions-to-overcome-low-fps-challenges-in-escape-from-tarkov/"><u>Top 6 Solutions to Overcome Low-FPS Challenges in Escape From Tarkov</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-mfplatdll-file-not-found-issue/"><u>Troubleshooting the Mfplat.dll File Not Found Issue</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/usb-c-compatibility-download-optimized-drivers-for-windows-11-today/"><u>USB-C Compatibility: Download Optimized Drivers for Windows 11 Today!</u></a></li>
+</ul></div>
 

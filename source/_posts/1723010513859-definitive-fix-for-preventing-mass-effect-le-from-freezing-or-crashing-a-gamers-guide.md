@@ -1,7 +1,7 @@
 ---
 title: "Definitive Fix for Preventing Mass Effect LE From Freezing or Crashing: A Gamer's Guide."
-date: 2024-12-16T06:07:06.513Z
-updated: 2024-12-20T00:17:20.045Z
+date: 2024-12-14T17:06:27.938Z
+updated: 2024-12-21T17:06:45.777Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -83,7 +91,7 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
@@ -124,10 +132,6 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Select**Verify files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
@@ -142,6 +146,10 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Epic Game Launcher
 
  1) In Epic Game Launcher, navigate to your**Library** .
@@ -150,18 +158,18 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-119.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Verify** to start verifying the game files.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
@@ -186,21 +194,17 @@ thumbnail: https://thmb.techidaily.com/e64ba1588493794efe1f30713a2c1b387c63e2ee1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-128.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
 
@@ -218,21 +222,17 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Under**the Advanced tab** , click**Change…** in the**Virtual memory** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
 
@@ -262,10 +262,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
@@ -278,13 +274,13 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
@@ -293,6 +289,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -317,22 +317,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/oost-channels-and-views-through-savvy-youtube-analysis-for-2024/"><u>[New] Boost Channels and Views Through Savvy YouTube Analysis for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-art-of-online-podcast-filming/"><u>[New] The Art of Online Podcast Filming</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-image-clarity-reignited-exclusive-guide-to-top-10-photo-tools/"><u>[Updated] Image Clarity Reignited Exclusive Guide to Top 10 Photo Tools</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-innovative-thumbnail-techniques-to-boost-your-youtube-visibility/"><u>[Updated] In 2024, Innovative Thumbnail Techniques to Boost Your YouTube Visibility</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-webcam-mastery-creating-videos-on-macbook/"><u>2024 Approved Webcam Mastery Creating Videos on MacBook</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-get-your-counter-strike-2-up-and-running-again/"><u>Expert Tips to Get Your Counter-Strike 2 Up and Running Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-tribes-of-midgard-freezing-issues-expert-tips-and-tricks/"><u>How to Prevent and Resolve 'Tribes of Midgard' Freezing Issues - Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002465846-hp-monitor-troubles-discover-proven-strategies-for-a-swift-resolution/"><u>HP Monitor Troubles? Discover Proven Strategies for a Swift Resolution!</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-taking-control-mastering-the-art-of-background-removal/"><u>In 2024, Taking Control Mastering the Art of Background Removal</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/intel-raid-driver-software-update-compatible-with-windows-11-10-8-and-7-download-here/"><u>Intel RAID Driver Software Update: Compatible with Windows 11, 10, 8, and 7 - Download Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-crashing-enjoy-a-bug-free-experience-in-remnant-from-the-ashes/"><u>No More Crashing: Enjoy a Bug-Free Experience in Remnant: From the Ashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-boot-errors-for-a-perfect-persona-3-reload-gaming-experience/"><u>Overcoming Boot Errors for a Perfect Persona 3 Reload Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-your-game-crash-issues-in-fm2019-with-these-simple-fixes/"><u>Resolve Your Game Crash Issues in FM2019 with These Simple Fixes!</u></a></li>
-<li><a href="https://facebook.techidaily.com/solutions-for-non-receipt-of-facebook-login-code/"><u>Solutions for Non-Receipt of Facebook Login Code</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-eradicating-helldivers-2-bsod-blue-screen-issue/"><u>Step-by-Step Guide: Eradicating 'Helldivers 2' BSOD (Blue Screen) Issue</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-ultimate-list-of-top-tier-cameras-for-2024/"><u>The Ultimate List of Top-Tier Cameras for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-the-yakuza-6-pc-game-crash-issues/"><u>Troubleshooting Guide: How to Fix the Yakuza 6 PC Game Crash Issues</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-capture-the-essence-extracting-youtube-audio-directly/"><u>[New] In 2024, Capture the Essence Extracting YouTube Audio Directly</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-mastering-the-art-of-incremental-volume-decrease-with-lumafusion/"><u>[New] In 2024, Mastering the Art of Incremental Volume Decrease with Lumafusion</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-an-android-enthusiasts-dream-customizing-your-phone-alerts-with-style-and-personality/"><u>[Updated] An Android Enthusiast’s Dream Customizing Your Phone Alerts with Style and Personality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-choose-from-the-finest-7-android-browsers-without-ads/"><u>[Updated] In 2024, Choose From the Finest 7 Android Browsers Without Ads</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-expert-techniques-for-capturing-and-recording-streamed-content/"><u>2024 Approved Expert Techniques for Capturing & Recording Streamed Content</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-four-pillars-of-mobile-video-acquisition-igtv-edition/"><u>2024 Approved Four Pillars of Mobile Video Acquisition IGTV Edition</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-top-15-creative-ways-to-use-filters-on-snapchat/"><u>2024 Approved Top 15 Creative Ways to Use Filters on Snapchat</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/digitalscreen-app-assessment-review/"><u>DigitalScreen App Assessment Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-kodi-connection-issues-retrieving-directory-info-successfully/"><u>Fixing Kodi Connection Issues: Retrieving Directory Info Successfully</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/optimizing-meditative-moments-with-chatgpt/"><u>Optimizing Meditative Moments with ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/play-and-conquer-a-comprehensive-walkthrough-of-roller-champions-crossplayer-feature-for-pc/"><u>Play and Conquer: A Comprehensive Walkthrough of Roller Champions' Crossplayer Feature for PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-how-to-resolve-the-persistent-black-screen-issue-in-magic-the-gathering-online/"><u>Solution Guide: How To Resolve The Persistent Black Screen Issue in Magic: The Gathering Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-acrocefexe-crashing-issue-troubleshooting-guide/"><u>Solve Your AcroCEF.exe Crashing Issue - Troubleshooting Guide 🚀</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-pc-issues-how-to-prevent-no-rest-for-the-wicked-from-crashing/"><u>Solving PC Issues: How to Prevent 'No Rest for the Wicked' From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-causes-of-mir4-pc-malfunctions-and-crashes/"><u>Troubleshooting Common Causes of Mir4 PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-stop-doom-eternal-from-freezing/"><u>Troubleshooting Steps to Stop DOOM Eternal From Freezing</u></a></li>
 </ul></div>
 

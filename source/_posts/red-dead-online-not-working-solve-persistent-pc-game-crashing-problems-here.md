@@ -1,7 +1,7 @@
 ---
 title: Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here!
-date: 2024-08-23T11:19:34.941Z
-updated: 2024-08-24T11:19:34.941Z
+date: 2024-12-20T00:34:38.742Z
+updated: 2024-12-21T18:32:11.522Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c60589952f8c878c66c4d03c2dc7430570638a52b
 Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,11 +57,16 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -69,9 +78,6 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -80,18 +86,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -101,11 +95,16 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -114,16 +113,10 @@ The outdated or broken graphics driver often crashes the game.
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -145,8 +138,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +145,22 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-voice-logging-made-simple-with-ipad-apps/"><u>[Updated] 2024 Approved Voice Logging Made Simple with iPad Apps</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-from-video-to-gif-seamless-process-for-vimeo-content/"><u>[Updated] In 2024, From Video to GIF Seamless Process for Vimeo Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-recapturing-moments-top-notch-free-cam-screens-and-alternatives/"><u>[Updated] In 2024, Recapturing Moments Top-Notch Free Cam Screens & Alternatives</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iview-harmony-ios-and-macos-slideshow-tool/"><u>[Updated] IView Harmony IOS & macOS Slideshow Tool</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-best-yoga-series-online-stay-active-and-healthy/"><u>In 2024, Best Yoga Series Online - Stay Active & Healthy</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/maximize-your-ipads-capacity-how-to-remove-tracks-and-reclaim-memory-space/"><u>Maximize Your iPad's Capacity: How to Remove Tracks and Reclaim Memory Space</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-resolve-your-genshin-impact-start-up-problems-today/"><u>Quick Solutions: Resolve Your Genshin Impact Start-Up Problems Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/roblox-not-working-heres-how-you-can-fix-it-with-these-proven-techniques-2022-edition/"><u>Roblox Not Working? Here's How You Can Fix It with These Proven Techniques - 2022 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-troubleshooting-high-risk-business-launch-failures-tips-and-advice/"><u>Solutions for Troubleshooting High-Risk Business Launch Failures - Tips & Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-solutions-for-fixing-city-skylines-stability-issues-latest-2024-tips/"><u>Top Solutions for Fixing City Skylines' Stability Issues [Latest 2024 Tips]</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-eliminating-lag-in-battlefield-5/"><u>Top Strategies for Eliminating Lag in Battlefield 5</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphone-display-lag-quick-solutions-to-speed-up-shutdown/"><u>Troubleshooting iPhone Display Lag: Quick Solutions to Speed Up Shutdown</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-resolving-the-blue-screen-error-in-helldivers-2-game/"><u>Troubleshooting Steps for Resolving the Blue Screen Error in Helldivers 2 Game</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/troubleshooting-the-chatgpt-body-stream-error-top-7-fixes-you-need-to-know-about/"><u>Troubleshooting the ChatGPT Body Stream Error: Top 7 Fixes You Need to Know About</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-the-eight-most-effective-fixes-for-persistent-multiversus-crashes/"><u>Ultimate Guide: The Eight Most Effective Fixes for Persistent MultiVersus Crashes</u></a></li>
+</ul></div>
 

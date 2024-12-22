@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Troubleshooting: Overcoming Minecraft Not Opening Hurdles"
-date: 2024-12-17T10:58:48.554Z
-updated: 2024-12-19T21:53:09.972Z
+date: 2024-12-16T19:58:16.420Z
+updated: 2024-12-21T19:20:15.849Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Turn off the preview window
@@ -41,10 +41,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  According to many users, a simple workaround to OBS not recording screen is to disable the preview window. What you need to do is to launch OBS and untick the**Studio Mode** at the bottom right corner of the main screen. Then the preview window should be closed and you could check if the problem goes away. If the problem occurs while you’re recording a game, try to**minimize OBS** to the system tray.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
@@ -60,6 +56,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
@@ -68,18 +68,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -89,12 +81,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
@@ -103,6 +103,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -117,14 +121,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -153,24 +153,24 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-2023s-social-media-video-extractor-for-all-platforms/"><u>[New] In 2024, 2023'S Social Media Video Extractor for All Platforms</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-mp3-recording-guide-exclusive-to-free-skype-calls-for-2024/"><u>[New] MP3 Recording Guide Exclusive to Free Skype Calls for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-top-webcam-and-cam-tech-on-the-windows-11-market/"><u>[Updated] 2024 Approved Top Webcam & Cam Tech on the Windows 11 Market</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-starfield-applications-soaring-cpu-use-with-these-cutting-edge-techniques/"><u>Conquer Starfield Application's Soaring CPU Use with These Cutting-Edge Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-the-challenge-of-error-code-2024-solutions-inside/"><u>Cyberpunk 2077 and the Challenge of Error Code 2024 - Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-error-code-84-in-fortnite-a-comprehensive-solution-for-smooth-multiplayer-gaming/"><u>Eliminate Error Code 84 in Fortnite: A Comprehensive Solution for Smooth Multiplayer Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-the-persistent-roblox-error-277-on-your-computer/"><u>How to Fix the Persistent Roblox Error 277 on Your Computer</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-exclusive-insiders-take-on-best-3d-blu-ray-players/"><u>In 2024, Exclusive Insider's Take on Best 3D Blu-Ray Players</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-mastering-wide-angle-postings-integrating-360-photos-on-mobile-apps/"><u>In 2024, Mastering Wide Angle Postings Integrating 360 Photos on Mobile Apps</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-podcast-vs-youtube-the-ideal-medium-explored/"><u>In 2024, Podcast vs YouTube The Ideal Medium Explored</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-most-followed-fashionistas-and-cosmetic-experts/"><u>In 2024, YouTube's Most-Followed Fashionistas & Cosmetic Experts</u></a></li>
-<li><a href="https://some-tips.techidaily.com/leveraging-cookiebot-technology-for-efficient-user-tracking-and-conversion-optimization/"><u>Leveraging Cookiebot Technology for Efficient User Tracking and Conversion Optimization</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-solution-steps-to-successfully-overcome-csgo-not-opening-issues/"><u>Master the Solution: Steps to Successfully Overcome CSGO Not Opening Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-and-xbox-gamers-rejoice-fixing-the-crash-issues-in-mass-effect-legendary-edition/"><u>PC and Xbox Gamers Rejoice: Fixing the Crash Issues in Mass Effect Legendary Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/stable-playthrough-of-madden-nfl-21-for-windows-overcoming-common-breakdowns/"><u>Stable Playthrough of Madden NFL 21 for Windows - Overcoming Common Breakdowns</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/the-ultimate-how-to-article-for-keeping-your-lcdled-tv-spotless-and-clear/"><u>The Ultimate How-To Article for Keeping Your LCD/LED TV Spotless and Clear</u></a></li>
-<li><a href="https://fox-sure.techidaily.com/top-gratuit-logique-de-sauvegarde-hors-serie-pour-disques-durs-toshiba-guide-complet/"><u>Top Gratuit Logique De Sauvegarde Hors-Serie Pour Disques Durs Toshiba: Guide Complet</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-vanguards-failed-start-up-problems-in-valorant-solutions-inside/"><u>Troubleshooting Vanguard's Failed Start-Up Problems in Valorant – Solutions Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/winning-the-fight-against-nioh-2-complete-edition-crashes-no-more/"><u>Winning the Fight Against Nioh 2 Complete Edition: Crashes No More</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-crop-companions-best-farming-games-to-gather-with-buddies/"><u>[New] 2024 Approved Crop Companions Best Farming Games to Gather with Buddies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superb-cyber-shops-for-handcrafted-gift-enclosures/"><u>[Updated] Superb Cyber Shops for Handcrafted Gift Enclosures</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-dark-side-of-digital-escapism/"><u>[Updated] The Dark Side of Digital Escapism</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-ultimate-strategies-for-stunning-iphone-nature-photography/"><u>[Updated] Ultimate Strategies for Stunning iPhone Nature Photography</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme GT Neo 5 SE | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/can-i-use-mp4-files-with-windows-movie-maker-comprehensive-guide/"><u>Can I Use MP4 Files with Windows Movie Maker? Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-innovative-computer-components-with-toms-hardware-insights/"><u>Discover Innovative Computer Components with Tom's Hardware Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-multiplayer-connectivity-problems-solutions-inside/"><u>Elden Ring Multiplayer Connectivity Problems - Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/freeze-no-more-effective-solutions-for-optimizing-assassins-creed-odyssey-on-pc/"><u>Freeze No More: Effective Solutions for Optimizing Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/get-your-surface-pro-4-pen-working-a-step-by-step-troubleshooting-guide/"><u>Get Your Surface Pro 4 Pen Working: A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-overcome-the-launch-error-black-screen-in-helldivers-2-game/"><u>Guide to Overcome the Launch Error: Black Screen in Helldivers 2 Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-ensure-optimal-minecraft-performance-by-updating-your-device-drivers/"><u>How to Ensure Optimal Minecraft Performance by Updating Your Device Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-error-code-0xc19001e1-in-windows-11-detailed-solutions-and-tips/"><u>How to Fix Error Code 0XC19001E1 in Windows 11 - Detailed Solutions and Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-startup-problems-with-amd-radeon-graphics-driver-software/"><u>How to Overcome Startup Problems With AMD Radeon Graphics Driver Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-xs-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone XS Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-desktop-and-browser-based-tools-for-adding-subtitles-to-videos-resolve-your-captioning-needs/"><u>Top Desktop & Browser-Based Tools for Adding Subtitles to Videos - Resolve Your Captioning Needs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-nier-replicant-remaster-may-not-start-up/"><u>Troubleshooting Guide: Why NieR Replicant Remaster May Not Start Up</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-continuous-crashes-in-outlook-software/"><u>Troubleshooting Tips: Resolving Continuous Crashes in Outlook Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-starfield-games-excessive-cpu-drain-problem/"><u>Ultimate Guide: Resolving the Starfield Game's Excessive CPU Drain Problem</u></a></li>
 </ul></div>
 

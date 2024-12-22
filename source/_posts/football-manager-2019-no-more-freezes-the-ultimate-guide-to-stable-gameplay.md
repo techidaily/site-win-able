@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2019 No More Freezes - The Ultimate Guide to Stable Gameplay
-date: 2024-12-18T20:55:26.064Z
-updated: 2024-12-20T09:46:49.405Z
+date: 2024-12-17T22:29:22.029Z
+updated: 2024-12-22T00:40:29.563Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Football Manager 2022 launch issues?
 
  Here are a few fixes that have helped other users resolve their Football Manager 2022 not launching problem. You may not need to try them all; just work your way down the list until you find the one that works for you.”
@@ -46,7 +42,7 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
  Make sure you’re playing Football Manager 2022 in a 64-bit processor and operating system. If you’re on a 32-bit system, it’s recommended to upgrade your system and perhaps your device.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2\. Add an exception to your antivirus
@@ -61,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -73,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/0ddbdaf176d9d1aa91166240cfd03bf943a91fbfa
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
@@ -95,15 +91,11 @@ After updating your drivers, restart your PC and test the gameplay.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Go to **LOCAL FILES** and click **Verify integrity of game files…**
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Once complete, launch the game to check if your game is working again.
 
@@ -118,14 +110,10 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-8-1200x758.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Navigate to **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** and then delete the**Caches** and**Preferences** folder.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6\. Run the game executable file as admin
 
@@ -135,11 +123,19 @@ Once complete, launch the game to check if your game is working again.
 
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select **Local Files** and then**Browse local files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
  3) Locate the game’s executable and run the game as an administrator.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7\. Open the game in windowed mode
 
@@ -180,7 +176,7 @@ Once complete, launch the game to check if your game is working again.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
@@ -208,6 +204,10 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -266,22 +266,24 @@ Feel free to drop us a line if you have any suggestions or questions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-frameflick-recorder-reflection/"><u>[New] FrameFlick Recorder Reflection</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-jest-jacket-picture-fabricator/"><u>[New] Jest Jacket Picture Fabricator</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-the-8-step-formula-for-captivating-your-instagram-audience-with-reels/"><u>[New] The 8-Step Formula for Captivating Your Instagram Audience with Reels</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-resident-evil-village-fps-drops-on-pc/"><u>[SOLVED] Resident Evil Village Fps Drops on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-best-practice-for-incorporating-gopro-clips-into-360-video-tapestries/"><u>2024 Approved Best Practice for Incorporating GoPro Clips Into 360 Video Tapestries</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/crossing-the-black-screen-barrier-in-win11/"><u>Crossing the Black Screen Barrier in Win11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009430607-epic-games-launcher-troubleshooting-fix-not-opening-issues-fast/"><u>Epic Games Launcher Troubleshooting: Fix Not Opening Issues Fast!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-msi-backlight-not-functioning-correctly-in-windows-solutions-and-tips/"><u>Fixing MSI Backlight Not Functioning Correctly in Windows - Solutions and Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-rectify-outlook-not-connected-problems/"><u>How to Successfully Rectify 'Outlook Not Connected' Problems</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/identifying-the-source-of-static-noise-in-your-electronic-device-insights-from-yl-computing-and-yl-software/"><u>Identifying the Source of Static Noise in Your Electronic Device - Insights From YL Computing and YL Software</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-following-review-innovative-outlooks/"><u>In 2024, Following Review Innovative Outlooks</u></a></li>
-<li><a href="https://techtrends.techidaily.com/macwinx-hd100/"><u>Mac用WinX HDビデオコンバータの正規販売ページで100%安全なショッピング経験をお楽しみください！</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-solutions-for-seamless-start-up-of-the-elder-scrolls-online/"><u>Mastering the Solutions for Seamless Start-Up of The Elder Scrolls Online</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011235151-resolving-yakuza-6-for-pc-instability-top-solutions-discovered/"><u>Resolving Yakuza 6 for PC Instability: Top Solutions Discovered</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-unveiled-endless-crashes-plaguing-pathfinder-the-wrath-of-the-righteous-edition/"><u>Solution Unveiled: Endless Crashes Plaguing Pathfinder - The Wrath of the Righteous Edition</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/to-upgrade-or-not-to-upgrade-the-iphone-16-debate-on-zdnet/"><u>To Upgrade or Not to Upgrade: The iPhone 16 Debate on ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-and-fixing-cod-mw-dev-error-6034-on-windows-and-xbox-consoles/"><u>Ultimate Guide: Troubleshooting and Fixing CoD: MW Dev Error 6034 on Windows and Xbox Consoles</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-boosting-virtual-engagement-how-to-incorporate-filters-in-zoom/"><u>[New] Boosting Virtual Engagement How to Incorporate Filters in Zoom</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas/"><u>[Updated] 2024 Approved Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas)</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-youtube-earning-masterclass-taking-your-streaming-business-to-new-heights/"><u>[Updated] In 2024, YouTube Earning Masterclass Taking Your Streaming Business to New Heights</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-sleeper-coupons-in-instagram-the-underrated-tips-and-tricks/"><u>[Updated] Sleeper Coupons in Instagram The Underrated Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/adobe-launch-failure-solved-tackling-error-0xc0000022-with-ease/"><u>Adobe Launch Failure Solved: Tackling Error 0xC0000022 with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-evolutionary-strategies-for-eliminating-game-crashes-updates/"><u>Arma Evolutionary Strategies for Eliminating Game Crashes Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambia-archivos-de-audio-iff-a-formato-aac-de-forma-gratuita-guia-paso-a-paso-con-movavi/"><u>Cambia Archivos De Audio IFF a Formato AAC De Forma Gratuita: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win-help.techidaily.com/comment-configurer-un-sauvegarde-complete-de-windows-10-avec-facilite/"><u>Comment Configurer Un Sauvegarde Complète De Windows 10 Avec Facilité</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-n4-ultimate-solution-to-the-troublesome-black-screen-error/"><u>Fallout N4: Ultimate Solution to the Troublesome Black Screen Error</u></a></li>
+<li><a href="https://win-hacks.techidaily.com/guia-paso-a-paso-para-actualizar-configuracion-de-sincronizacion-automatica-y-realizar-copias-de-seguridad-en-respuesta-a-eventos/"><u>Guía Paso a Paso Para Actualizar Configuración De Sincronización Automática Y Realizar Copias De Seguridad en Respuesta a Eventos</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-poco-m6-pro-4g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Poco M6 Pro 4G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-frontier-from-crashing-during-play-on-your-computer-system/"><u>How to Stop Frontier From Crashing During Play on Your Computer System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-oneplus-ace-2v-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass OnePlus Ace 2V FRP Without Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/post-crash-factors-the-conditions-after-an-accident-such-as-fire-or-secondary-impacts-also-contribute-to-the-severity-of-outcomes-for-those-involved/"><u>Post-Crash Factors - The Conditions After an Accident, Such as Fire or Secondary Impacts, Also Contribute to the Severity of Outcomes for Those Involved.</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-sluggish-downloads-tips-for-speeding-up-your-ubisoft-connect-experience/"><u>Solving Sluggish Downloads: Tips for Speeding up Your Ubisoft Connect Experience</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/toms-tech-reviews-in-depth-analysis-of-newest-gadgets/"><u>Tom's Tech Reviews: In-Depth Analysis of Newest Gadgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-improve-outriders-freezing-problems-on-desktop-computers/"><u>Troubleshoot and Improve Outriders' Freezing Problems on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-success-resident-evil-5-playing-perfectly-on-your-computer/"><u>Troubleshooting Success! Resident Evil 5 Playing Perfectly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solving-hogwarts-legacy-game-crashes-on-your-launchpad/"><u>Ultimate Guide: Solving 'Hogwarts Legacy' Game Crashes on Your Launchpad</u></a></li>
 </ul></div>
 

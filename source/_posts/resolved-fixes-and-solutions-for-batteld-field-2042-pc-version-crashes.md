@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixes and Solutions for Batteld Field 2042 PC Version Crashes"
-date: 2024-08-23T11:19:51.683Z
-updated: 2024-08-24T11:19:51.683Z
+date: 2024-12-14T20:10:36.624Z
+updated: 2024-12-21T17:12:33.698Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
  The long-anticipated Battlefield 2042 Early Access is already out and the full release will be on November 19th. However, the hype seems to have brought some disappointment. Many players are encountering different DirectX errors and can’t play the game. The most common ones are**DXGI\_ERROR\_DEVICE\_HUNG** and**DXGI\_ERROR\_DEVICE\_REMOVED** errors.
 
  The developers are investigating the issues, and hopefully, we will get a definitive fix when they roll out the new updates. Before that, we have gathered some fixes that have solved the errors for some players for you to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Battlefield 2042 system requirements
 
@@ -61,20 +65,26 @@ thumbnail: https://thmb.techidaily.com/d156dc661c6f6baa9eb3b5c3ab4152f8f8f4fcdc0
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Repair game files
 
@@ -97,14 +107,8 @@ If this doesn’t solve your problem, try the next fix.
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
@@ -134,22 +138,18 @@ If this doesn’t solve your problem, try the next fix.
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 8. Reboot your PC and run Battlefield 2042 via Origin.
 
 #### EA desktop app
@@ -159,11 +159,17 @@ If this doesn’t solve your problem, try the next fix.
 2. Click**Clear Cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions.
@@ -174,8 +180,6 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +187,26 @@ If this doesn’t solve your problem, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-nighttime-portrait-etiquette-dos-and-donts-for-2024/"><u>[New] Nighttime Portrait Etiquette Do's and Don'ts for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-retro-revelry-on-snapchat-camera-roll-insights/"><u>[New] Retro Revelry on Snapchat Camera Roll Insights</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-revolutionary-techniques-to-elevate-vhs-photos-on-pcs/"><u>[Updated] In 2024, Revolutionary Techniques to Elevate VHS Photos on PCs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-unlocking-full-scale-success-for-your-fb-videos-this-year/"><u>2024 Approved Unlocking Full Scale Success for Your FB Videos This Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-news-elden-ring-delay-clarified-fans-await-answers/"><u>Breaking News: Elden Ring Delay Clarified – Fans Await Answers</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-network-problems-addressing-our-data-centers-ping-failure-in-halo-infinite/"><u>How to Overcome Network Problems - Addressing Our Data Centers Ping Failure in Halo Infinite</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-androids-top-gaming-app-kinemaster-unveiled/"><u>In 2024, Android's Top Gaming App KineMaster Unveiled</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-technology-a-deep-dive-into-toms-computer-analysis/"><u>Mastering Technology: A Deep Dive Into Tom's Computer Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-preventing-assassins-creed-odyssey-from-freezing-updated-2er-tips/"><u>Mastering the Fix: Preventing Assassin's Creed Odyssey From Freezing - Updated 2Er Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-settings-to-eliminate-stuttering-during-assassins-creed-valhalla-sessions/"><u>Optimizing Your PC Settings to Eliminate Stuttering During Assassin's Creed Valhalla Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-call-of-duty-black-ops-4-fixes-for-laggy-gameplay-and-lowered-frames-per-second/"><u>Overcoming Call of Duty: Black Ops 4 - Fixes for Laggy Gameplay & Lowered Frames per Second</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-steps-to-fix-no-rest-for-the-wicked-freezing-on-pc/"><u>Overcoming Technical Glitches: Steps to Fix 'No Rest for the Wicked' Freezing on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premium-choice-top-12-apps-with-no-time-limit-feature/"><u>Premium Choice Top 12 Apps with No Time Limit Feature</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-frp-lock-on-infinix-hot-30i-by-drfone-android-unlock-remove-google-frp/"><u>Remove FRP Lock on Infinix Hot 30i</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-itunes-audio-setup-errors/"><u>Resolved: Fixing iTunes' Audio Setup Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-dota-2-startup-issues-and-persistent-loading-interfaces/"><u>Resolving Dota 2 Startup Issues and Persistent Loading Interfaces</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-blueprint-for-on-screen-dialogues-for-2024/"><u>The Blueprint for On-Screen Dialogues for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-12-photo-viewer-apps-compared-best-choices-for-windows-11-and-macos/"><u>Top 12 Photo Viewer Apps Compared: Best Choices for Windows 11 & macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-stop-fifa-21-from-crashing-on-your-computer/"><u>Ultimate Troubleshooting: Stop FIFA 21 From Crashing on Your Computer</u></a></li>
+</ul></div>
 

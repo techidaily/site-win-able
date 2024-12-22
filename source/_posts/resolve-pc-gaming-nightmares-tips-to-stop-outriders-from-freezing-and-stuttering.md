@@ -1,7 +1,7 @@
 ---
 title: "Resolve PC Gaming Nightmares: Tips to Stop Outriders From Freezing and Stuttering"
-date: 2024-12-14T09:05:42.293Z
-updated: 2024-12-20T09:52:02.188Z
+date: 2024-12-15T23:06:44.099Z
+updated: 2024-12-21T18:10:49.871Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Metro Exodus crashing
 
  Here are the fixes for Metro Exodus crashing. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -47,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/3bbc4ff17b35bac37e3335e5a66057aab2f13c2b0
  So check for updates for Metro Exodus and install any available updates. Then restart your computer and see if the game stops crashing or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking your CPU
 
@@ -86,6 +86,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
@@ -119,7 +123,7 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Restart the game and see if it works this time.
@@ -132,6 +136,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
@@ -140,17 +148,9 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
 
@@ -159,7 +159,7 @@ Launch Metro Exodus and see if it works now.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Lower the in-game video settings
@@ -193,20 +193,21 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/oosting-youtube-descriptions-with-expert-templates-for-2024/"><u>[New] Boosting YouTube Descriptions with Expert Templates for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-tips-for-easily-accessing-videos-on-facebook/"><u>[New] Tips for Easily Accessing Videos on Facebook</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-innovative-ways-to-generate-money-on-snapchat-channels/"><u>[Updated] 2024 Approved Innovative Ways to Generate Money on Snapchat Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/basic-equipment-for-travel-video-creators/"><u>Basic Equipment for Travel Video Creators</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/el-conversion-guide-yt-to-igtv-strategies/"><u>Channel Conversion Guide YT to IGTV Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/dual-collision-dilemma-deciphering-it-takes-two-hits-for-pc-issues/"><u>Dual Collision Dilemma: Deciphering 'It Takes Two Hits' For PC Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-gaming-eliminating-fps-drops-and-smoothing-out-stutter-in-your-play/"><u>Fixes for Gaming: Eliminating FPS Drops and Smoothing Out Stutter in Your Play</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/get-the-best-value-petcubes-low-cost-high-definition-cam/"><u>Get the Best Value: Petcube’s Low-Cost High Definition Cam</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-microsoft-edge-stability-issues-in-windows-10/"><u>How to Fix Microsoft Edge Stability Issues in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/necromunda-hired-gun-continuously-freezing-and-crashing-on-pc-solutions/"><u>Necromunda: Hired Gun Continuously Freezing & Crashing on PC | Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-rainbow-six-siege-stuttering-with-these-expert-solutions/"><u>Say Goodbye to Rainbow Six Siege Stuttering with These Expert Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-fall-guys-starter-problems-a-comprehensive-troubleshooting-tutorial/"><u>Solving Fall Guys Starter Problems – A Comprehensive Troubleshooting Tutorial</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/the-ultimate-guide-to-the-best-10-screen-recorders-for-windows-10-users/"><u>The Ultimate Guide to the Best 10 Screen Recorders for Windows 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-the-secrets-of-call-of-dutys-pacific-battlefield-complete-guide/"><u>Unlock the Secrets of Call of Duty's Pacific Battlefield - Complete Guide</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-boses-sports-sound-features-solid-reputation/"><u>Unveiling Bose's Sports Sound Features - Solid Reputation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-beyond-the-screen-metaverse-vs-omniverse-dissected-for-2024/"><u>[Updated] Beyond the Screen Metaverse Vs. Omniverse Dissected for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-comprehensive-guide-to-acquiring-instagram-ringtones-and-creating-noteworthy-chimes/"><u>[Updated] The Comprehensive Guide to Acquiring Instagram Ringtones & Creating Noteworthy Chimes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-recurring-crashes-of-ghostwire-tokyo-in-windows-gaming/"><u>Effective Solutions for Recurring Crashes of Ghostwire: Tokyo in Windows Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998377263-how-to-get-past-the-resident-evil-village-wont-open-glitch-fixed/"><u>How to Get Past the 'Resident Evil Village Won't Open' Glitch - Fixed</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-asus-rog-phone-7-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Asus ROG Phone 7 FRP</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-choosing-youtube-premium-what-makes-it-worth-the-price/"><u>In 2024, Choosing YouTube Premium What Makes It Worth the Price?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-poco-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Poco Lock Screen Password</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Motorola Razr 40? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-the-ultimate-guide-to-lava-storm-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Lava Storm 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-for-jurassic-world-evolutions-crash-problems-tips-and-tricks/"><u>Mastering the Fix for Jurassic World Evolution's Crash Problems: Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-your-scanning-problems-with-these-expert-fixing-strategies/"><u>Overcome Your Scanning Problems with These Expert Fixing Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guidelines-for-webpage-not-displayed-in-ie-browser/"><u>Solution Guidelines for 'Webpage Not Displayed' In IE Browser</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-online-tools-for-premium-gif-creation/"><u>Top 3 Online Tools for Premium GIF Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/tribes-of-midgard-crash-fix-a-comprehensive-guide-to-smooth-gaming/"><u>Tribes of Midgard Crash Fix - A Comprehensive Guide to Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-black-ops-cold-war-e887a0005-glitch-solutions-inside/"><u>Troubleshooting BLACK OPS COLD WAR E887A0005 Glitch – Solutions Inside</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-creativity-in-youtube-video-splitting/"><u>Unlocking Creativity in YouTube Video Splitting</u></a></li>
 </ul></div>
 

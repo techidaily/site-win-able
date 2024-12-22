@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Troubleshooting for League of Legends' Persistent Black Screen Problem
-date: 2024-08-23T11:16:14.971Z
-updated: 2024-08-24T11:16:14.971Z
+date: 2024-12-17T00:55:58.378Z
+updated: 2024-12-21T23:08:55.276Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Fallout 4 as Compatibility mode
 
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -40,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 3. Click **OK** then run Fallout 4 to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update Graphics Card Drivers
 
@@ -54,15 +62,17 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -79,9 +89,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -90,20 +97,15 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -122,8 +124,6 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +131,26 @@ thumbnail: https://thmb.techidaily.com/94f8101d81239e6d6c9b37987bd7d1eee4d5fe65d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-iii-pc-stability-now-restored-no-more-unwanted-shutdowns-during-battles/"><u>'Total War: Warhammer III' PC Stability Now Restored - No More Unwanted Shutdowns During Battles</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-analyzing-instagram-de-followings-for-2024/"><u>[New] Analyzing Instagram De-Followings for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-a-detailed-analysis-of-movavi-pro-video-editor-2024plus/"><u>[Updated] A Detailed Analysis of Movavi Pro Video Editor 2024+</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-enhancing-video-quality-editing-tips-for-published-content/"><u>[Updated] In 2024, Enhancing Video Quality Editing Tips for Published Content</u></a></li>
+<li><a href="https://win11.techidaily.com/1726030191811-mp4/"><u>「プロモーションビデオ作成後にMP4ファイルが正常に再生されない場合の解決法」</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-winxvideo-ai-advanced-video-and-image-improvement-solutions-upgrade-quality-with-smoothing-conversion-editing-and-recording-features/"><u>1. WinxVideo AI: Advanced Video and Image Improvement Solutions – Upgrade Quality with Smoothing, Conversion, Editing, and Recording Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-tips-and-solutions-for-when-your-warframe-wont-open/"><u>Effective Tips & Solutions For When Your Warframe Won't Open</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/from-zero-to-zoom-expert-launching-successful-webinars/"><u>From Zero to Zoom Expert Launching Successful Webinars</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-wallpaper-engine-from-crashing-on-windows-11-and-10-systems/"><u>How to Stop Wallpaper Engine From Crashing on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo G2? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-solutions-for-your-kernelbasedll-file-malfunctions-get-started-here/"><u>Immediate Solutions for Your KernelBase.dll File Malfunctions - Get Started Here!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-hacking-the-meme-game-master-kinemaster-skills/"><u>In 2024, Hacking the Meme Game Master KineMaster Skills</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-excessive-cpu-use-in-phasmophobia-effective-strategies/"><u>Overcoming Excessive CPU Use in Phasmophobia: Effective Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-freezing-issue-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>Solving the 'Freezing' Issue in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-atandt-cell-phone-offers-in-may-2024-exclusive-insights-from-zdnet/"><u>Top AT&T Cell Phone Offers in May 2024: Exclusive Insights From ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-fix-fallout-3-crashes-in-windows-10/"><u>Troubleshooting Guide: How to Fix Fallout 3 Crashes in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-your-paradox-launcher-fails-to-start/"><u>Troubleshooting Steps When Your Paradox Launcher Fails to Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-better-frame-rates-for-an-optimal-experience-in-tainted-grail-conquest/"><u>Unlock Better Frame Rates for an Optimal Experience in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://solve-news.techidaily.com/1726028551442-pciphoneandroid/"><u>スタンプを自由給付でPC、iPhone、Android動画へ追加する究極ガイド</u></a></li>
+</ul></div>
 

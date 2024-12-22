@@ -1,7 +1,7 @@
 ---
 title: Ready to Fix? Detailed Tips for Restoring 'DS4 Failed to Load' On Your PC
-date: 2024-12-13T04:51:35.961Z
-updated: 2024-12-19T21:43:30.576Z
+date: 2024-12-18T21:01:21.591Z
+updated: 2024-12-21T20:25:10.831Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions to fix Discord installation problem. Just follow the steps and you’ll get Discord working again.
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step 1: Disable Discord in Task Manager
 
  Before getting started, you’ll need to end tasks running Discord in your computer, so you can delete Discord’s folders in your computer in Step 2.
@@ -45,24 +53,16 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 2: Delete Discord folders
 
@@ -71,12 +71,12 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
@@ -85,13 +85,13 @@ thumbnail: https://thmb.techidaily.com/07877b725aebcc26ce626860ff1aa31b598ca62f4
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Bonus Tip: Update available device drivers
 
@@ -135,24 +135,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-gag-galore-a-treasury-of-no-cost-memes-for-2024/"><u>[New] Gag Galore A Treasury of No-Cost Memes for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-one-minute-color-concealment/"><u>[Updated] One-Minute Color Concealment</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-unmissable-virtual-realms-for-gamers/"><u>[Updated] Unmissable Virtual Realms for Gamers</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-crafting-the-ideal-backdrop-for-windows-11/"><u>2024 Approved Crafting the Ideal Backdrop for Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-3-crash-no-more-discover-the-ultimate-troubleshooting-guide-and-patch-notes-of-2n4/"><u>Arma 3 Crash No More: Discover the Ultimate Troubleshooting Guide and Patch Notes of 2N4</u></a></li>
-<li><a href="https://program-issues.techidaily.com/deal-with-outdated-minecraft-drivers-learn-the-simple-trick-to-upgrade-and-enjoy-smooth-gameplay/"><u>Deal with 'Outdated' Minecraft Drivers? Learn the Simple Trick to Upgrade and Enjoy Smooth Gameplay</u></a></li>
-<li><a href="https://win-reviews.techidaily.com/ensuring-your-graphics-card-works-with-windows-update-tips-from-yl-software/"><u>Ensuring Your Graphics Card Works with Windows Update - Tips From YL Software</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/essential-strategies-to-tackle-life-threatening-obstacles-for-your-companys-2024-debut/"><u>Essential Strategies to Tackle Life-Threatening Obstacles for Your Company's 2024 Debut</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-undetected-astro-a50-headset-in-astro-commander-gameplay/"><u>How to Resolve Undetected Astro A50 Headset in Astro Commander Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-crash-solution-and-optimization-tips-for-windows-users/"><u>Lego Star Wars: The Skywalker Saga Crash Solution & Optimization Tips for Windows Users</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/maximizing-mobile-coverage-with-unlimited-wireless-and-metro-by-t-mobile/"><u>Maximizing Mobile Coverage with Unlimited Wireless and Metro by T-Mobile</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-ghost-recon-breakpoints-stability-issues-quickly-and-easily-uncovered-here/"><u>Overcome Ghost Recon: Breakpoint's Stability Issues Quickly & Easily Uncovered Here</u></a></li>
-<li><a href="https://network-issues.techidaily.com/resolving-image-clarity-issues-in-ubisofts-new-island/"><u>Resolving Image Clarity Issues in Ubisoft's New Island</u></a></li>
-<li><a href="https://win-able.techidaily.com/revived-solutions-for-overcoming-steam-login-issues/"><u>Revived: Solutions for Overcoming Steam Login Issues</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/samsung-galaxy-a51-5g-top-rated-affordable-5g-smartphone-with-impressive-specs/"><u>Samsung Galaxy A51 5G - Top-Rated Affordable 5G Smartphone with Impressive Specs!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-when-deathloop-game-crashes-or-stops-responding/"><u>Solving the Issue: When Deathloop Game Crashes or Stops Responding</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-solving-pathfinder-wrath-of-the-righteous-startup-issues/"><u>Troubleshooting Guide: Solving 'Pathfinder: Wrath of the Righteous' Startup Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-end-battlefront-iis-crashing-problem-on-windows/"><u>Ultimate Troubleshooting Guide: End Battlefront II's Crashing Problem on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/what-to-do-if-your-amd-graphics-driver-app-cant-open/"><u>What to Do If Your AMD Graphics Driver App Can't Open</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-top-handheld-tech-to-eliminate-shaky-screenshot-videos/"><u>[New] In 2024, Top Handheld Tech to Eliminate Shaky Screenshot Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-3-effective-steps-to-brighten-your-photos/"><u>[Updated] 3 Effective Steps to Brighten Your Photos</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-upgrade-iphone-photographyfilm-expertise-with-essential-gear/"><u>[Updated] In 2024, Upgrade iPhone Photography/Film Expertise With Essential Gear</u></a></li>
+<li><a href="https://extra-information.techidaily.com/building-brand-authority-top-tips-for-novice-marketers-on-reddit/"><u>Building Brand Authority Top Tips for Novice Marketers on Reddit</u></a></li>
+<li><a href="https://app-tips.techidaily.com/choosing-the-ideal-search-engine-indexing-strategy-a-guide-tailored-for-you/"><u>Choosing the Ideal Search Engine Indexing Strategy: A Guide Tailored for You</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-thx-spatial-audio-malfunction-in-windows-11-and-10/"><u>Fixes for 'THX Spatial Audio' Malfunction in Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994139816-genshin-impact-boot-up-problems-here-are-5-simple-remedies/"><u>Genshin Impact Boot-Up Problems? Here Are 5 Simple Remedies!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/gratis-omzetten-van-pbm-archieven-online-met-movavi-helaas-ons-vertrouwen-niet/"><u>Gratis Omzetten Van PBM Archieven Online Met Movavi - Helaas Ons Vertrouwen Niet</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-fps-and-smoother-play-in-fortnite-season-8-release-notes/"><u>Improved FPS and Smoother Play in Fortnite Season 8 Release Notes</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-lol-gameplay-solving-your-frame-rate-drop-problems-easily/"><u>Mastering LoL Gameplay: Solving Your Frame Rate Drop Problems Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-level-solutions-for-a-seamless-sims-4-on-pc-lag-troubleshooting-guide-updated/"><u>Pro-Level Solutions for a Seamless Sims #4 on PC – Lag Troubleshooting Guide (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-how-to-resolve-fall-guys-crashes-on-launch/"><u>Troubleshooting Steps: How to Resolve Fall Guys Crashes on Launch</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-chatbots-undermine-se-keywords-strategy/"><u>Will Chatbots Undermine SE Keywords Strategy?</u></a></li>
 </ul></div>
 

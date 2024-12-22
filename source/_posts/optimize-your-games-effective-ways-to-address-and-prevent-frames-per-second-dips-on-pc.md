@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Games: Effective Ways to Address and Prevent Frames Per Second Dips on PC"
-date: 2024-12-14T07:58:48.916Z
-updated: 2024-12-20T11:02:05.071Z
+date: 2024-12-19T16:06:20.802Z
+updated: 2024-12-21T21:24:18.668Z
 tags:
   - win11
   - win10
@@ -55,13 +55,13 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -72,7 +72,7 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-119.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
@@ -98,16 +98,12 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -127,6 +123,10 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run WWE 2K20 on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -139,13 +139,13 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
@@ -155,13 +155,13 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-11.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -186,20 +186,18 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-cutting-edge-imaging-top-8k-cameras-unveiled/"><u>[Updated] 2024 Approved Cutting-Edge Imaging Top 8K Cameras Unveiled</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/10-excellent-4k-televisions-ranked/"><u>10 Excellent 4K Televisions Ranked</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-guide-to-youtubes-latest-income-strategies/"><u>2024 Approved Guide to YouTube's Latest Income Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/end-your-battle-with-the-unstable-lunar-client-a-complete-solution-for-windows/"><u>End Your Battle with the Unstable Lunar Client: A Complete Solution for Windows</u></a></li>
-<li><a href="https://win-forum.techidaily.com/exploring-social-media-landscapes-contrast-between-facebook-twitter-instagram-and-youtube/"><u>Exploring Social Media Landscapes: Contrast Between Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-a-fiery-launch-overcoming-the-challenge-of-an-atomic-heart-crash-during-startup/"><u>Fixing a Fiery Launch: Overcoming the Challenge of an Atomic Heart Crash During Startup</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-a-frozen-startup-for-armored-core-vi-a-comprehensive-guide/"><u>Fixing a Frozen Startup for Armored Core VI: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-unearthing-the-top-10-sleeper-social-media-stars/"><u>In 2024, Unearthing the Top 10 Sleeper Social Media Stars</u></a></li>
-<li><a href="https://win-able.techidaily.com/join-kratos-for-an-action-packed-journey-the-god-of-war-fps-is-now-available-on-pc/"><u>Join Kratos for an Action-Packed Journey: The God of War FPS Is Now Available on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-resolved-pc-issues-for-a-smooth-experience/"><u>Lego Star Wars: The Skywalker Saga - Resolved PC Issues for a Smooth Experience</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-find-x6-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo Find X6? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-performance-issues-in-avatar-pandoras-edge-a-step-by-step-guide/"><u>Solving Performance Issues in Avatar: Pandora's Edge - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-launch-starfield-successfully-on-your-console-or-pc/"><u>Step-by-Step Solutions to Launch Starfield Successfully on Your Console or PC</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-essential-websites-to-drive-youtube-engagement/"><u>[New] Essential Websites to Drive YouTube Engagement</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-a-guide-to-finding-hidden-youtube-treasures/"><u>[New] In 2024, A Guide to Finding Hidden YouTube Treasures</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-mastering-audio-adjustment-on-youtube-devices/"><u>2024 Approved Mastering Audio Adjustment on YouTube Devices</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On ZTE Axon 40 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-crystal-clear-visuals-resolving-graphic-blurriness-in-call-of-duty-warzone-for-pc/"><u>Achieve Crystal-Clear Visuals: Resolving Graphic Blurriness in Call of Duty: Warzone for PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/counterclockwise-chronicles-iphones-video-tutorial-for-2024/"><u>Counterclockwise Chronicles IPhone's Video Tutorial for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tial-editing-techniques-for-yt-channel-summaries/"><u>Essential Editing Techniques for YT Channel Summaries</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gratuit-migrateereen-van-pcx-naar-jpeg-virtuaal-movavi/"><u>Gratuit Migrateereen Van PCX Naar JPEG Virtuaal - MOVAVI</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashing-problems-in-discord-app/"><u>How To Fix Persistent Crashing Problems in Discord App</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-no-more-crashes-in-assassins-creed-odyssey-smooth-gaming-experience-for-pc/"><u>Resolved: No More Crashes in Assassin's Creed Odyssey - Smooth Gaming Experience for PC</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-a-non-functional-front-panel-audio-jack/"><u>Troubleshooting Guide: Fixing a Non-Functional Front Panel Audio Jack</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-star-wars-battlefront-ii-error-327-corrected/"><u>Troubleshooting Guide: Star Wars Battlefront II Error 327 Corrected</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-speedy-recovery-from-valorants-crashing-driver-problem/"><u>Troubleshooting Tips for a Speedy Recovery From Valorant's Crashing Driver Problem</u></a></li>
 </ul></div>
 

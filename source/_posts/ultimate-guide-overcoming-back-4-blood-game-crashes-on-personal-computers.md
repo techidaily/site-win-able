@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Overcoming Back 4 Blood Game Crashes on Personal Computers"
-date: 2024-12-14T04:27:22.668Z
-updated: 2024-12-20T10:13:23.485Z
+date: 2024-12-18T23:00:50.208Z
+updated: 2024-12-21T17:43:01.147Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/e2b3e6d5f3444ca9eb9fe2e05133bcedc239a2116
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Can I run Scavengers?
 
  The Scavenger game requires a certain amount of specifications in order to be played properly and smoothly. So before diving into the hows, it helps to check if your PC meets the minimum requirements for Scavengers.
@@ -42,19 +46,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
@@ -85,14 +85,14 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer for the changes to take effect.
@@ -138,6 +138,10 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
@@ -150,7 +154,7 @@ Here is how to do it:
 With the latest DirectX, check to see if Scavengers still crashes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Close background apps
@@ -165,10 +169,6 @@ Here’s how to close background apps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
@@ -199,18 +199,22 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-influence-of-seo-on-youtube-video-popularity/"><u>[Updated] 2024 Approved Influence of SEO on YouTube Video Popularity</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-analysis-the-essence-of-the-google-podcast-application/"><u>2024 Approved In-Depth Analysis The Essence of the Google Podcast Application</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-redefine-creativity-the-ultimate-selection-of-best-android-drawing-apps/"><u>2024 Approved Redefine Creativity The Ultimate Selection of Best Android Drawing Apps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/comprehensive-guide-to-podcast-rss-feed-crafting/"><u>Comprehensive Guide to Podcast RSS Feed Crafting</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-the-kof-xv-crash-glitch-when-playing-on-a-desktop-computer/"><u>Expert Tips to Overcome the KOF XV Crash Glitch When Playing on a Desktop Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-eac-error-message-steps-to-install-easy-anti-cheat/"><u>Fixing the EAC Error Message: Steps to Install Easy Anti-Cheat</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-palworld-how-to-fix-recurring-launch-and-performance-errors-on-pc/"><u>Mastering Palworld: How to Fix Recurring Launch and Performance Errors on PC</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-transformations-in-anime-how-localization-brings-characters-home/"><u>New In 2024, Transformations in Anime How Localization Brings Characters Home</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/neweggs-ultimate-holiday-bargains-a-comprehensive-list-of-top-savings-spotted/"><u>Newegg's Ultimate Holiday Bargains : A Comprehensive List of Top Savings | Spotted</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/outstanding-graphic-revisions-for-2024/"><u>Outstanding Graphic Revisions for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-with-phasmophobia-game-in-virtual-reality/"><u>Troubleshooting Steps: Resolving Issues with Phasmophobia Game in Virtual Reality</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-call-of-duty-world-war-ii-error-code-4128/"><u>Troubleshooting Tips for Overcoming Call of Duty World War II Error Code 4128</u></a></li>
-<li><a href="https://win-able.techidaily.com/warzone-20-performance-boosting-tips-how-to-optimize-connection-speed-and-lower-ping/"><u>Warzone 2.0 Performance Boosting Tips: How to Optimize Connection Speed and Lower Ping</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-effective-strategies-to-document-competitive-play/"><u>[New] Effective Strategies to Document Competitive Play</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unending-suspension-how-to-erase-youtube-shorts/"><u>[Updated] Unending Suspension How to Erase YouTube Shorts</u></a></li>
+<li><a href="https://fox-links.techidaily.com/androidios-essentials-cutting-edge-video-montage-software-for-2024/"><u>Android/iOS Essentials Cutting-Edge Video Montage Software for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/effective-remedies-to-address-missing-msstdfmtdll-file-alerts-on-your-computer/"><u>Effective Remedies to Address Missing msstdfmt.dll File Alerts on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-preventing-and-correcting-frequent-breakdowns-in-ffxiv-on-windows-machines/"><u>Expert Advice: Preventing and Correcting Frequent Breakdowns in FFXIV on Windows Machines</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-f1-202n-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Stop F1 202N From Crashing on Your Computer</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-oppo-reno-10-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Oppo Reno 10 Pro 5G Phones with/without a PC</u></a></li>
+<li><a href="https://techtrends.techidaily.com/make-your-inbox-more-personal-adding-custom-sounds-to-gmail-messages/"><u>Make Your Inbox More Personal: Adding Custom Sounds to Gmail Messages</u></a></li>
+<li><a href="https://extra-information.techidaily.com/naming-your-podcast-a-complete-guide-plus-list-of-over-50-creative-ideas/"><u>Naming Your Podcast A Complete Guide + List of Over 50 Creative Ideas</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-chrome-performance-reducing-high-cpu-usage-issues/"><u>Optimizing Chrome Performance: Reducing High CPU Usage Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-total-war-three-kingdoms-gameplay-interruptions-with-these-hacks/"><u>Solve Your Total War: Three Kingdoms Gameplay Interruptions with These Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-successfully-start-team-fortress-2-after-a-glitch/"><u>Steps to Successfully Start Team Fortress 2 After a Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-dev-error-6034-on-pc-and-xbox-in-call-of-duty-modern-warfare/"><u>Troubleshooting Guide: Resolving Dev Error 6034 on PC and Xbox in Call of Duty: Modern Warfare</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-restore-your-outlook-internet-links/"><u>Troubleshooting Steps to Restore Your Outlook Internet Links</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-modern-warfare-3-mw3-game-doesnt-open-error-fixes/"><u>Troubleshooting Steps: 'Modern Warfare 3 (MW3)' Game Doesn't Open Error Fixes</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-tips-to-fix-devices-improper-configuration-error-1/"><u>Troubleshooting Tips to Fix Device's Improper Configuration (Error 1)</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/updating-your-razer-blackwidow-drivers-step-by-step-guide/"><u>Updating Your Razer BlackWidow Drivers: Step-by-Step Guide</u></a></li>
 </ul></div>
 

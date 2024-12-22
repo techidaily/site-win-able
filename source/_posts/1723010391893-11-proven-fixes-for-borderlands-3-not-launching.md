@@ -1,7 +1,7 @@
 ---
 title: 11 Proven Fixes for 'Borderlands 3 Not Launching'
-date: 2024-12-13T09:34:24.899Z
-updated: 2024-12-20T02:32:22.820Z
+date: 2024-12-18T18:13:30.596Z
+updated: 2024-12-21T23:26:56.746Z
 tags:
   - win11
   - win10
@@ -50,15 +50,19 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -80,10 +84,6 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
@@ -91,10 +91,6 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -104,18 +100,18 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Unlink your Apex Legends account from your Steam account
@@ -141,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -155,15 +147,19 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -189,12 +185,16 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -228,14 +228,20 @@ thumbnail: https://thmb.techidaily.com/4e9a1c940b50724444178a8ca1ea00629e8b0a1b5
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-supreme-10-royale-face-offs/"><u>[New] In 2024, Supreme 10 Royale Face-Offs</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-clearview-studio-windows-1011-edition-for-2024/"><u>[Updated] ClearView Studio Windows 10/11 Edition for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-transform-your-work-from-home-experience-with-skype-screen-sharing-techniques/"><u>[Updated] In 2024, Transform Your Work-From-Home Experience with Skype Screen Sharing Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-streaming-problems-with-firefox-a-step-by-step-guide/"><u>How to Resolve Streaming Problems with Firefox: A Step-by-Step Guide</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pro-tips-for-transforming-mundane-into-epic-with-gopro-timelapse/"><u>In 2024, Pro Tips for Transforming Mundane Into Epic with GoPro Timelapse</u></a></li>
-<li><a href="https://win-studio.techidaily.com/sauvegarde-et-restauration-facile-pour-windows-avec-le-technicien-de-sauvegarde-aomei-et-lespace-en-nuage-illimitee/"><u>Sauvegarde Et Restauration Facile Pour Windows Avec Le Technicien De Sauvegarde AOMEI Et L'espace en Nuage Illimitée</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722996299548-solve-your-sea-of-thieves-stuck-on-launch-dilemma-today/"><u>Solve Your Sea of Thieves Stuck on Launch Dilemma Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-football-manager-2019-from-crashing-with-these-effective-troubleshooting-tips/"><u>Stop Football Manager 2019 From Crashing with These Effective Troubleshooting Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/success-story-fixing-the-graphic-driver-bug-that-was-bringing-down-overwatch/"><u>Success Story: Fixing the Graphic Driver Bug That Was Bringing Down Overwatch</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-melodious-feed-infusing-ig-stories-with-music/"><u>[Updated] In 2024, Melodious Feed Infusing IG Stories With Music</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-morning-tweets-essential-rules-and-prohibitions-for-2024/"><u>[Updated] Mastering Morning Tweets Essential Rules & Prohibitions for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-fast-navigation-mastering-menu-searches-across-microsoft-office-suite/"><u>1. Fast Navigation: Mastering Menu Searches Across Microsoft Office Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-mastering-dual-axis-charts-adding-and-removing-secondary-axes-in-excel/"><u>1. Mastering Dual-Axis Charts: Adding & Removing Secondary Axes in Excel</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-review-prime-drone-gimbals/"><u>2024 Approved Professional Review Prime Drone Gimbals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unraveling-the-complexities-of-whatsapp-communication/"><u>2024 Approved Unraveling the Complexities of WhatsApp Communication</u></a></li>
+<li><a href="https://win-able.techidaily.com/automate-with-microsoft-excel-access-the-new-automation-tab-across-macos-and-windows/"><u>Automate with Microsoft Excel: Access the New Automation Tab Across macOS & Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/comparative-cost-analysis-owning-a-desktop-printer-vs-utilizing-external-print-services/"><u>Comparative Cost Analysis: Owning a Desktop Printer vs Utilizing External Print Services</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/cookiebot-enabled-personalization-boosting-your-websites-seo-performance/"><u>Cookiebot-Enabled Personalization: Boosting Your Website's SEO Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-methods-to-identify-and-tally-active-worksheets-in-your-excel-spreadsheets/"><u>Easy Methods to Identify and Tally Active Worksheets in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tricks-to-show-all-concealed-rows-in-microsoft-excel/"><u>Easy Tricks to Show All Concealed Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-strategies-for-crafting-excel-based-financial-tracker-sheets-incomes-and-expenses/"><u>Efficient Strategies for Crafting Excel-Based Financial Tracker Sheets: Incomes & Expenses</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-fixes-overcoming-challenges-with-icloud-data-consistency/"><u>Step-by-Step Fixes: Overcoming Challenges with iCloud Data Consistency</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-ultimate-viewing-experience-insights-on-eizos-4kcg318-for-2024/"><u>The Ultimate Viewing Experience – Insights on EIZO’s 4KCG318 for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/top-rated-crowd-favorite-a-versatile-powerhouse-notebook-excels-in-performance-and-build-quality-insights/"><u>Top Rated Crowd Favorite: A Versatile Powerhouse Notebook Excels in Performance and Build Quality - Insights</u></a></li>
 </ul></div>
 

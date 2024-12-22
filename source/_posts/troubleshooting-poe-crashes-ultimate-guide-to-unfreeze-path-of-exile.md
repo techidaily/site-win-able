@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile"
-date: 2024-12-16T20:02:17.383Z
-updated: 2024-12-19T20:24:26.208Z
+date: 2024-12-17T22:50:53.142Z
+updated: 2024-12-21T20:53:50.072Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
  If your FIFA 19 keeps giving you the crashing error, the first method you can try is running both Origin and FIFA 19 as Administrator, which allows you to get full access to the game files.
@@ -53,7 +57,7 @@ If you still have the issue, you can try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
@@ -70,13 +74,13 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
@@ -85,6 +89,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -108,10 +116,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to a flagged driver to automatically download the correct version of this driver, and then you can manually install it (you can do this with the FREE version).
 
 OR
@@ -120,10 +124,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 4) Restart your computer for the changes to take effect.
@@ -131,10 +131,6 @@ OR
  If updating drivers fails to solve your FIFA 19 crashing issue, there might be some configuration problems. You can go on and try the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 Rollback to DirectX11
 
@@ -153,10 +149,6 @@ OR
 2) Right-click on your desktop and select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
@@ -189,12 +181,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -251,6 +247,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.  
 
 ---
@@ -268,7 +268,7 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
@@ -289,10 +289,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 9 Create TileDatalayer and Database folder
 
  Some users find creating TileDatalayer and Database folders in Appdata/Local helps solve Fifa 19 crashing issues. Here’s how you can do it by running a single command:
@@ -302,6 +298,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  2) Select**Windows Powershell(Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
@@ -340,24 +340,22 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-guidance.techidaily.com/new-unseen-horizons-hot-list-of-vr-peripherals-top-10/"><u>[New] Unseen Horizons Hot List of VR Peripherals (Top 10)</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-fifa-19-crashing-on-pc/"><u>[SOLVED] FIFA 19 Crashing on PC</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-breaking-down-youtube-revenue-per-million-views/"><u>[Updated] In 2024, Breaking Down YouTube Revenue per Million Views</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-superior-satire-picture-styler/"><u>[Updated] Superior Satire Picture Styler</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-worlds-best-5-streaming-videography-tools/"><u>2024 Approved World's Best 5 Streaming Videography Tools</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/craftsmanship-hub-top-after-effects-template-deals-for-2024/"><u>Craftsmanship Hub Top After Effects Template Deals for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/experience-unparalleled-reality-top-10-pc-headsets-for-in-depth-vr-video/"><u>Experience Unparalleled Reality Top 10 PC Headsets for In-Depth VR Video</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-problems-with-content-warnings-in-voice-chatting-platforms/"><u>How To Overcome Problems with Content Warnings in Voice Chatting Platforms</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-cheerful-footage-extractor-analysis/"><u>In 2024, Cheerful Footage Extractor Analysis</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-crafting-a-harmonic-narrative-adding-youtube-music-to-vids/"><u>In 2024, Crafting a Harmonic Narrative Adding YouTube Music to Vids</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Motorola Moto G34 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/life-is-strange-true-colors-crash-fixed-comprehensive-guide/"><u>Life Is Strange: True Colors - Crash Fixed Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/modern-warfare-2-wont-start-troubleshooting-steps-and-solutions/"><u>Modern Warfare 2 Won't Start: Troubleshooting Steps & Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-simultaneous-collision-errors-on-personal-computers-a-comprehamatic-guide/"><u>Resolving Simultaneous Collision Errors on Personal Computers - A Comprehamatic Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-audio-issues-in-fallout-4-a-step-by-step-tutorial/"><u>Troubleshooting PC Audio Issues in Fallout 4 - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-in-how-to-build-a-better-city-latest-fixes/"><u>Troubleshooting Skyfall in How to Build a Better City: Latest Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-back-4-blood-on-unreal-engine-4-overcoming-the-gobi-glitch/"><u>Troubleshooting Tips for 'Back 4 Blood on Unreal Engine 4: Overcoming the Gobi Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-minecraft-stuttering-proven-techniques/"><u>Ultimate Guide: Stop Minecraft Stuttering - Proven Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-unlock-instagram-speed-mastering-video-and-likes/"><u>[New] 2024 Approved Unlock Instagram Speed - Mastering Video and Likes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-anonymous-surveillance-methods-hiding-private-data-effectively/"><u>[New] Anonymous Surveillance Methods Hiding Private Data Effectively</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ow-to-edit-youtube-channel-description-for-2024/"><u>[New] How to Edit YouTube Channel Description for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-propel-innovative-expression-ultimate-guide-to-best-android-drawing-tools-for-2024/"><u>[New] Propel Innovative Expression Ultimate Guide to Best Android Drawing Tools for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-eliminating-in-game-input-delay-issues/"><u>Cyberpunk 2077 Resolved: Eliminating In-Game Input Delay Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-stabilizing-your-pc-during-vr-gaming-sessions/"><u>Expert Tips for Stabilizing Your PC During VR Gaming Sessions</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-basics-of-effective-vlogging-for-2024/"><u>Exploring the Basics of Effective Vlogging for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-and-resolve-frequent-halo-3-shutdowns-on-computer-systems/"><u>How to Prevent and Resolve Frequent Halo 3 Shutdowns on Computer Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-infinix-note-30-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Infinix Note 30? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-best-vivo-y200-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Vivo Y200 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-tips-to-prevent-frame-skipping-in-obs-studio/"><u>In 2024, Tips to Prevent Frame Skipping in OBS Studio</u></a></li>
+<li><a href="https://win-able.techidaily.com/key-techniques-for-fixing-lethal-company-launch-failures-insights-for-202n4/"><u>Key Techniques for Fixing Lethal Company Launch Failures - Insights for 202N4</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-resolving-the-problems-preventing-sea-of-thieves-from-launching/"><u>Solution Found! Resolving the Problems Preventing Sea of Thieves From Launching</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-ii-crashing-problems-now-fixed/"><u>Total War: Warhammer II Crashing Problems - Now Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-logitech-g-hub-fails-to-start-in-windows/"><u>Troubleshooting Steps When Logitech G Hub Fails to Start in Windows</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/understanding-pixel-slate-flaws-a-deep-dive-into-its-chromeos-problems/"><u>Understanding Pixel Slate Flaws: A Deep Dive Into Its ChromeOS Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-blackout-on-desktop-computers-proven-tips-to-restore-video-feed/"><u>Zoom Blackout on Desktop Computers? - Proven Tips to Restore Video Feed</u></a></li>
 </ul></div>
 

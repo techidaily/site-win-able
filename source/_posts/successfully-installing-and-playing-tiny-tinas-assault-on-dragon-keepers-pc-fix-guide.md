@@ -1,7 +1,7 @@
 ---
 title: Successfully Installing and Playing Tiny Tina's Assault on Dragon Keepers - PC Fix Guide
-date: 2024-12-18T20:46:51.236Z
-updated: 2024-12-19T18:45:11.061Z
+date: 2024-12-20T22:02:08.751Z
+updated: 2024-12-21T22:14:20.943Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -63,10 +63,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -83,6 +79,10 @@ Here’s how:
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -111,10 +111,6 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -122,7 +118,7 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -135,10 +131,14 @@ And here’s how you can make sure your system is the latest:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -164,20 +164,19 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-the-dynamics-of-home-security-manycam-vs-single-camera-tech-for-2024/"><u>[New] The Dynamics of Home Security ManyCam Vs. Single-Camera Tech for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/apple-iphone-15-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>Apple iPhone 15 Pro iCloud Activation Lock Bypass</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-rectify-failed-downloadspeer-connections-on-utorrent/"><u>Effective Ways to Rectify Failed Downloads/Peer Connections on uTorrent</u></a></li>
-<li><a href="https://fox-ssl.techidaily.com/expert-guide-mastering-the-connection-tools-of-apowerpdf-document-editing/"><u>Expert Guide: Mastering the Connection Tools of ApowerPDF Document Editing</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/expert-review-of-the-urban-armor-defender-for-macbook-pro-resilient-design-meets-practicality/"><u>Expert Review of the Urban Armor Defender for MacBook Pro: Resilient Design Meets Practicality</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-samsung-galaxy-s23plus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Samsung Galaxy S23+ Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/loud-solutions-addressing-the-no-sound-glitch-in-evil-genius-2/"><u>Loud Solutions: Addressing the No-Sound Glitch in Evil Genius 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-tribes-landscape-solutions-to-cataclysm-game-crashes/"><u>Mastering the Tribe's Landscape: Solutions to Cataclysm Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009749032-overcome-gaming-lags-and-frame-drops-with-our-pro-tips/"><u>Overcome Gaming Lags & Frame Drops with Our Pro Tips!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/premium-pages-on-mobile-best-ig-covers-app/"><u>Premium Pages on Mobile Best IG Covers App</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-playback-issues-when-does-minecraft-freeze-on-windows/"><u>Resolving Playback Issues: When Does Minecraft Freeze on Windows?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-recording-problems-top-6-strategies-for-a-fixed-obs-microphone/"><u>Solve Your Recording Problems: Top 6 Strategies for a Fixed OBS Microphone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/tecnicas-clave-para-elevar-el-detalle-de-imagenes-en-el-ano-que-viene-aprende-los-5-principales/"><u>Técnicas Clave Para Elevar El Detalle De Imágenes en El Año Que Viene: ¡Aprende Los 5 Principales!</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-overcoming-lag-and-boosting-fps-in-valorant-2024-edition/"><u>The Ultimate Player's Handbook: Overcoming Lag and Boosting FPS in Valorant - 2024 Edition</u></a></li>
-<li><a href="https://win-rankings.techidaily.com/understanding-system-alerts-how-to-detect-and-diagnose-scan-malfunctions-with-yl-software-guidance/"><u>Understanding System Alerts: How to Detect and Diagnose Scan Malfunctions with YL Software Guidance</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-combat-starfield-games-excessive-cpu-consumption/"><u>Effective Solutions to Combat Starfield Game's Excessive CPU Consumption</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensure-seamless-compatibility-obtain-the-newest-logitech-g403-drivers-and-software-updates-for-your-computer/"><u>Ensure Seamless Compatibility - Obtain the Newest Logitech G403 Drivers and Software Updates for Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-discord-webcam-back-online-quick-solutions/"><u>Get Your Discord Webcam Back Online - Quick Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-a-frozen-minecraft-game-for-smooth-playback/"><u>How to Fix a Frozen Minecraft Game for Smooth Playback</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-ios-of-apple-iphone-11-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS of Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Tecno Pova 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-tecno-pop-8-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Tecno Pop 8 Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/instantly-restore-audio-expert-tips-for-repairing-computer-sound-failures/"><u>Instantly Restore Audio: Expert Tips for Repairing Computer Sound Failures</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mac-users-unite-master-the-process-of-changing-dvd-regions-and-drives/"><u>Mac Users Unite: Master the Process of Changing DVD Regions and Drives</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-crash-and-jitter-issues-in-bloodhunt-optimizing-your-gameplay-experience-on-pc/"><u>Overcoming Crash and Jitter Issues in Bloodhunt - Optimizing Your Gameplay Experience on PC</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/step-by-step-guide-personalizing-your-mouse-preferences-with-yl-computings-solutions/"><u>Step-by-Step Guide: Personalizing Your Mouse Preferences with YL Computing's Solutions</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210177123-9781401956172-think-indigenous/"><u>Think Indigenous | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-why-wont-my-vrchat-launch-or-function/"><u>Troubleshooting: Why Won't My VRChat Launch or Function?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-solution-to-stop-xcom-angs-on-your-windows-pc-now/"><u>Ultimate Solution to Stop XCOM Angs on Your Window's PC - Now</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming Initialization Hurdles for Players of Armored Core VI - Fires of Rubicon
-date: 2024-12-13T01:08:07.924Z
-updated: 2024-12-20T04:38:55.984Z
+date: 2024-12-18T17:01:24.822Z
+updated: 2024-12-22T01:03:06.871Z
 tags:
   - win11
   - win10
@@ -47,11 +47,11 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 Now you can try again and see if Civ 6 launches.
 
@@ -72,7 +72,7 @@ If this doesn’t help, you can take a look at the next fix below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -80,10 +80,6 @@ If this doesn’t help, you can take a look at the next fix below.
  After updating your graphics driver, restart your computer and check if Civ 6 works now.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -95,19 +91,11 @@ If this doesn’t help, you can take a look at the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -117,8 +105,16 @@ If this solution doesn’t help, you can continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
@@ -127,7 +123,7 @@ If this solution doesn’t help, you can continue to the next one.
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
@@ -145,17 +141,21 @@ If a clean boot doesn’t help, you can check out the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/latest-c.jpg)
 2. Open the installer and follow the on-screen instructions to install.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -178,16 +178,18 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-master-the-art-of-video-crafting-integrating-storyremix-with-windows-11-photos-for-2024/"><u>[New] Master the Art of Video Crafting Integrating StoryRemix with Windows 11 Photos for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-transform-and-edit-videos-like-a-pro-with-these-iphonepc-tools/"><u>[New] Transform and Edit Videos Like a Pro With These iPhone/PC Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/banishing-blue-screens-a-guide-for-stable-fallout-3-gameplay-on-windows-11-systems/"><u>Banishing Blue Screens: A Guide for Stable Fallout 3 Gameplay on Windows 11 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fix-for-star-citizens-windows-operating-system-crashes/"><u>Comprehensive Fix for Star Citizen's Windows Operating System Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-common-problems-with-steams-remote-play-a-step-by-nstep-guide/"><u>Fixing Common Problems With Steam's Remote Play: A Step-by-nStep Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-instagrams-roadmap-to-fame-unlocking-the-power-of-9-tactics/"><u>In 2024, Instagram's Roadmap to Fame Unlocking the Power of #9 Tactics</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/revamped-look-at-sonys-s6500-bdp-for-2024/"><u>Revamped Look at Sony's S6500 BDP for 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/the-2024-handbook-of-efficient-seagate-backup-plus-drives-management-and-optimization-techniques/"><u>The 2024 Handbook of Efficient Seagate Backup Plus Drives Management and Optimization Techniques</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-fixing-discords-screen-sharing-audio-issues/"><u>Troubleshooting Steps: Fixing Discord's Screen Sharing Audio Issues</u></a></li>
-<li><a href="https://discover-extraordinary.techidaily.com/winxvideo-ai-recording-solution-capture-screenshots-video-calls-and-audio-live/"><u>WinxVideo AI Recording Solution: Capture Screenshots, Video Calls & Audio Live!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-4-best-full-screen-recorder-for-pc-and-mac/"><u>[Updated] In 2024, 4 Best Full Screen Recorder for PC and Mac</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-ultimate-handbook-for-morphvox-transformers/"><u>[Updated] Ultimate Handbook for MorphVOX Transformers</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-tips-eliminating-game-crashes-in-house-flipper-2-for-windows-users/"><u>Comprehensive Troubleshooting Tips: Eliminating Game Crashes in House Flipper 2 for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-pc-errors-for-an-uninterrupted-dive-into-the-tower-of-fantasy-game/"><u>Defeat PC Errors for an Uninterrupted Dive Into the 'Tower of Fantasy' Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-resolving-the-elder-scrolls-online-initialization-issues/"><u>Expert Tips on Resolving The Elder Scrolls Online Initialization Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-rainbow-six-extraction-pc-game-crashes/"><u>Resolved: Fixing Rainbow Six Extraction PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-mordhau-game-crash-problem-a-step-by-step-guide/"><u>Resolving the Mordhau Game Crash Problem: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-eliminating-stuttering-and-enhancing-flow-in-mass-effect-series/"><u>Solved: Eliminating Stuttering and Enhancing Flow in Mass Effect Series</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-best-of-the-year-top-10-playlists/"><u>The Best of the Year Top 10 Playlists</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-tutorial-for-lut-use-in-after-effects-for-2024/"><u>The Ultimate Tutorial for LUT Use in After Effects for 2024</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/top-imovie-alternatives-para-androide-lo-mejor-que-aparece-en-2024/"><u>Top iMovie Alternatives Para Androide: Lo Mejor Que Aparece en 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/ultimate-speech-logging-for-mac-our-top-5-list-unveiled-for-2024/"><u>Ultimate Speech Logging for Mac Our Top 5 List Unveiled for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unveiling-27-authentic-french-phrases-for-fluency/"><u>Unveiling 27 Authentic French Phrases for Fluency</u></a></li>
 </ul></div>
 

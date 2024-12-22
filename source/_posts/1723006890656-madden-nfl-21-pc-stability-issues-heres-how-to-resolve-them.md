@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-12-17T00:38:40.911Z
-updated: 2024-12-19T18:19:03.261Z
+date: 2024-12-18T00:54:06.192Z
+updated: 2024-12-21T21:36:44.434Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that scores.
@@ -49,14 +45,22 @@ Here’s how to do that on Origin:
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,12 +73,12 @@ If the fix doesn’t stop the crash, you can try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,10 +94,6 @@ To minimize conflicts, you also need to install all the system patches:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -108,19 +108,19 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
@@ -160,16 +160,20 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-explore-the-8-premier-zero-cost-video-editors-for-social-media-pros-for-2024/"><u>[New] Explore the 8 Premier Zero-Cost Video Editors for Social Media Pros for 2024</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/byb-e430-enlightened-experience-superior-led-swing-arm-lamp-critique-for-brighter-spaces/"><u>BYB E430 Enlightened Experience: Superior LED Swing Arm Lamp Critique for Brighter Spaces</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/video-views-to-vault-closure-income-insights-for-youtubers-for-2024/"><u>From Video Views to Vault Closure Income Insights for Youtubers for 2024</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-6s-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 6s To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-financial-gains-the-youtube-money-flow-from-1m-views/"><u>In 2024, Financial Gains The Youtube Money Flow From 1M Views</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-graphics-tackling-the-sims-4s-video-card-malfunctions-with-ease/"><u>Mastering Graphics: Tackling The Sims 4'S Video Card Malfunctions with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-crash-troubles-solve-them-with-these-6-easy-fixes/"><u>Minecraft Crash Troubles? Solve Them with These 6 Easy Fixes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-tips-for-a-fluid-fall-guys-adventure-boosting-frame-rates-lowering-latency/"><u>Quick Tips for a Fluid Fall Guys Adventure: Boosting Frame Rates, Lowering Latency</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-manual-for-instagram-selfies-for-2024/"><u>The Complete Manual for Instagram Selfies for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/ultimate-image-transformation-with-polarr-editors-power-for-2024/"><u>Ultimate Image Transformation with Polarr Editor's Power for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-cyberpunk-2nk7s-pc-stability-issues-fixed/"><u>Ultimate Troubleshooting Tips for Cyberpunk 2Nk7's PC Stability Issues - Fixed!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-peak-performance-fps-in-deliberate-movements/"><u>[New] Peak Performance FPS in Deliberate Movements</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-palettes-journey-learning-the-science-of-colors/"><u>A Palette's Journey Learning the Science of Colors</u></a></li>
+<li><a href="https://win-able.techidaily.com/arma-n3-comprehensive-solutions-to-avoid-game-crashing-scenarios/"><u>Arma N3: Comprehensive Solutions to Avoid Game Crashing Scenarios</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-eliminating-the-crossbow-malfunction-in-minecraft/"><u>Comprehensive Tutorial: Eliminating the Crossbow Malfunction in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/dota-underlords-troubleshooting-putting-an-end-to-persistent-app-crashes/"><u>Dota Underlords Troubleshooting: Putting an End to Persistent App Crashes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/effective-strategies-for-reducing-apple-watch-power-consumption-a-comprehensive-guide/"><u>Effective Strategies for Reducing Apple Watch Power Consumption: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-repairing-a-frozen-discord-application-that-wont-open/"><u>Guide to Repairing a Frozen Discord Application That Won't Open</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-remove-subtitle-feature-from-amazon-prime-video-playback/"><u>How To Remove Subtitle Feature From Amazon Prime Video Playback</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>In 2024, Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/island-innovators-handbook-a-new-era-of-habitat-happiness/"><u>Island Innovators' Handbook: A New Era of Habitat Happiness</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solution-eliminate-warzone-20-game-crashes-for-a-smooth-pc-gaming-experience/"><u>Mastering the Solution: Eliminate Warzone 2.0 Game Crashes for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quickly-save-your-screen-in-windows-systems/"><u>Quickly Save Your Screen in Windows Systems</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/revolutionize-your-photos-pro-level-pixlr-techniques/"><u>Revolutionize Your Photos Pro-Level Pixlr Techniques</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-evolution-of-ai-creativity-with-dall-e-3s-integrated-editing-features-is-it-time-for-a-refine/"><u>The Evolution of AI Creativity with DALL-E 3'S Integrated Editing Features - Is It Time for a Refine?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-qbittorrent-halts-unexpectedly/"><u>Troubleshooting Steps When qBittorrent Halts Unexpectedly</u></a></li>
 </ul></div>
 

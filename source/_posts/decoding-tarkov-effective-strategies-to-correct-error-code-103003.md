@@ -1,7 +1,7 @@
 ---
 title: "Decoding Tarkov: Effective Strategies to Correct Error Code 103003"
-date: 2024-12-15T18:59:40.173Z
-updated: 2024-12-20T09:58:23.594Z
+date: 2024-12-14T18:52:57.884Z
+updated: 2024-12-21T16:25:33.759Z
 tags:
   - win11
   - win10
@@ -50,20 +50,20 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 ![Fix 1 step 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-1-step-2.png)
 3. **Turn on** the toggle next to **Auto update** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Reboot your network
 
@@ -72,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/c6867ae9c4f4e3df3c9379b15f4163ebd35319a50
 1. **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .  
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
@@ -90,11 +86,11 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
- If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
 ### Fix 4: Reset Winsock data
 
@@ -105,13 +101,17 @@ See if you can log in or not. if not, try the next fix, below.
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -122,6 +122,10 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -136,6 +140,10 @@ See if you can log in or not. if not, try the next fix, below.
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -168,7 +176,7 @@ See if you can log in or not. if not, try the next fix, below.
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Avoid wireless interference
@@ -179,6 +187,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Move wireless devices such as **cordless phones** or **microwave ovens** away from your router; or turn off those devices.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
 
@@ -192,7 +204,7 @@ See if you can log in or not. if not, try the next fix, below.
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
@@ -211,29 +223,17 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -270,20 +270,24 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-live-stream-to-facebook-with-wirecast/"><u>[New] In 2024, How to Live Stream to Facebook with Wirecast</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unraveling-the-mysteries-of-stardew-valley-with-an-insiders-look-at-its-most-hidden-gem-ginger-isle/"><u>[Updated] In 2024, Unraveling the Mysteries of Stardew Valley with an Insider's Look at Its Most Hidden Gem – Ginger Isle</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-viewpoint-validation-digest-for-2024/"><u>[Updated] Viewpoint Validation Digest for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-opening-doors-to-collective-listening-on-youtube/"><u>2024 Approved Opening Doors to Collective Listening on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-glitches-the-ultimate-fix-guide-for-preventing-vrchat-crashes-on-pc/"><u>Beat the Glitches: The Ultimate Fix Guide for Preventing VRChat Crashes on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-resolve-the-never-ending-crash-loop/"><u>Call of Duty: Modern Warfare - Resolve the Never-Ending Crash Loop</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/collaborative-listening-made-simple-on-youtube/"><u>Collaborative Listening Made Simple on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-multiple-caped-crusaders-collide-during-pc-play/"><u>Effective Solutions for When Multiple Caped Crusaders Collide During PC Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-endless-loop-solve-your-anthem-games-unending-load-screens/"><u>Fixing the Endless Loop: Solve Your Anthem Game's Unending Load Screens</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-use-ispoofer-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Vivo G2? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-itel-p40-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Itel P40 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-which-is-the-best-fake-gps-joystick-app-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Which is the Best Fake GPS Joystick App On Vivo Y27 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-fixing-your-ps4s-unresponsive-moments/"><u>Step-by-Step Solutions: Fixing Your PS4's Unresponsive Moments</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-the-block-ensuring-seamless-minecraft-setup-on-your-windows-11-machine/"><u>Troubleshooting the Block: Ensuring Seamless Minecraft Setup on Your Windows 11 Machine</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-subscriber-awards-the-play-button-awards-for-creators-for-2024/"><u>YouTube Subscriber Awards The Play Button Awards for Creators for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-masters-of-illusion-top-vr-producers/"><u>[New] In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-increasing-brilliance-on-your-android-videos/"><u>[New] Increasing Brilliance on Your Android Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unveiling-top-5-easy-to-use-cost-effective-zoom-transcription-tools-for-2024/"><u>[Updated] Unveiling Top 5 Easy-to-Use, Cost-Effective Zoom Transcription Tools for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-leveraging-vocal-charisma-to-enrich-ppt-storytelling/"><u>2024 Approved Leveraging Vocal Charisma to Enrich PPT Storytelling</u></a></li>
+<li><a href="https://win-able.techidaily.com/8-effective-remedies-for-stabilizing-vrchat-performance-on-personal-computers/"><u>8 Effective Remedies for Stabilizing VRChat Performance on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lag-and-stability-issues-for-pc-players-of-escape-from-tarkov/"><u>Eliminate Lag and Stability Issues for PC Players of Escape From Tarkov</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985499621-final-fantasy-xv-stability-troubles-top-fixes-for-pc-performance-and-no-more-crashes/"><u>Final Fantasy XV Stability Troubles? Top Fixes for PC Performance and No More Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/glion-dolly-electric-scooter-review/"><u>Glion Dolly Electric Scooter Review</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/hisense-40h5590f-television-reviewed-excellent-features-for-the-price-conscious-consumer/"><u>Hisense 40H5590F Television Reviewed: Excellent Features for the Price-Conscious Consumer</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-watch-hulu-outside-us-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-10t-5g-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 10T 5G to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-steam-stagnation-effective-solutions-for-gamers-in-2e24/"><u>Overcoming Steam Stagnation: Effective Solutions for Gamers in 2E24</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/saving-on-cellular-data-smart-texting-strategies-inside/"><u>Saving on Cellular Data: Smart Texting Strategies Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-handling-nvidia-geforce-experience-error-code-0x0003-successfully/"><u>Step-by-Step Solution for Handling NVIDIA Geforce Experience Error Code 0X0003 Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-pc-crashes-in-final-fantasy-xiv/"><u>Troubleshooting Guide: Fixing PC Crashes in Final Fantasy XIV</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-increase-frame-rate-and-cut-down-latency-in-fall-guys/"><u>Ultimate Guide: Increase Frame Rate & Cut Down Latency in Fall Guys</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-completed-getting-rid-of-the-outdated-drivers-alert-in-minecraft/"><u>Update Completed: Getting Rid of the 'Outdated Drivers' Alert in Minecraft</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/vocal-mastery-back-button-to-speech-improvement/"><u>Vocal Mastery: Back Button to Speech Improvement</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-and-pc-quick-solutions-to-stop-the-freezing/"><u>WWE 2K20 and PC: Quick Solutions to Stop the Freezing</u></a></li>
 </ul></div>
 

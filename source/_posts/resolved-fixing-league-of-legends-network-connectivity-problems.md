@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing League of Legends Network Connectivity Problems"
-date: 2024-08-23T11:21:01.378Z
-updated: 2024-08-24T11:21:01.378Z
+date: 2024-12-17T18:26:19.635Z
+updated: 2024-12-21T19:00:04.005Z
 tags:
   - win11
   - win10
@@ -83,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -95,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -106,12 +104,13 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -119,9 +118,6 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -136,9 +132,17 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -154,16 +158,14 @@ thumbnail: https://thmb.techidaily.com/681aed17cbdddeac0350ff3fe9a9a1770d531416a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-picture-perfect-viewing-the-best-8k-monitors-uncovered/"><u>[New] Picture Perfect Viewing The Best 8K Monitors Uncovered</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-pixelpartition-review/"><u>[Updated] 2024 Approved PixelPartition Review</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-giggle-gallery-exploring-the-best-15-hilarious-video-picks/"><u>[Updated] In 2024, Giggle Gallery Exploring the Best 15 Hilarious Video Picks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-say-no-to-latency-turn-on-av1-in-youtube-settings/"><u>[Updated] In 2024, Say No to Latency Turn On AV1 in YouTube Settings</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-navigate-network-needs-skilled-approaches-to-file-movement-on-computer/"><u>2024 Approved Navigate Network Needs Skilled Approaches to File Movement on Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-errgfxd3dinit-complication-to-enhance-your-grand-theft-auto-v-experience/"><u>Bypassing ERR_GFX_D3D_INIT Complication to Enhance Your Grand Theft Auto V Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-no-battery-detected-fast-and-simple-steps-to-get-you-back-online/"><u>Fixing 'No Battery Detected': Fast & Simple Steps to Get You Back Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-smooth-and-stunning-visuals-a-guide-to-updating-your-graphics-driver-for-forza-horizon-5/"><u>Get Smooth and Stunning Visuals: A Guide to Updating Your Graphics Driver for Forza Horizon 5</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-x90s-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo X90S Location by Number | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-online-retrobing-navigating-youtubes-deleted-content/"><u>In 2024, Online Retrobing Navigating YouTube’s Deleted Content</u></a></li>
+<li><a href="https://games-able.techidaily.com/innovative-ways-to-fire-up-your-ps5-6/"><u>Innovative Ways to Fire Up Your PS5 (6)</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-fixes-for-the-mass-effect-legendary-edition-console-and-computer-players-guide-to-crash-free-playtime/"><u>Mastering Stability Fixes for The Mass Effect Legendary Edition: Console & Computer Player's Guide to Crash-Free Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-dying-lights-audio-malfunction-a-comprehve-solutions-guide/"><u>Overcoming Dying Light's Audio Malfunction – A Comprehve Solutions Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-challenge-of-improved-gameplay-boosting-fps-in-formula-one-2021-for-windows-users/"><u>Overcoming the Challenge of Improved Gameplay: Boosting FPS in Formula One 2021 for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-with-total-war-warhammer-ii-addressing-crash-dilemmas/"><u>Seamless Gaming with Total War: WARHAMMER II - Addressing Crash Dilemmas</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-hp-display-malfunctions-successfully/"><u>Troubleshooting Guide: Resolving HP Display Malfunctions Successfully</u></a></li>
+</ul></div>
 

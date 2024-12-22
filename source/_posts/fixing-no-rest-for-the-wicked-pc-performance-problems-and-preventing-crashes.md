@@ -1,7 +1,7 @@
 ---
 title: Fixing 'No Rest for the Wicked' PC Performance Problems and Preventing Crashes
-date: 2024-08-23T11:17:35.961Z
-updated: 2024-08-24T11:17:35.961Z
+date: 2024-12-20T16:40:06.507Z
+updated: 2024-12-21T17:25:30.318Z
 tags:
   - win11
   - win10
@@ -55,6 +55,10 @@ Recently we have seen a lot of Gears 5 players reporting that**Gears Of War cras
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: **Disable gaming overlay**
 
  Game bar is a gaming overlay built into Windows that allows you to take sceenshots and record your gameplay in the background. Sometimes this feature may be in conflict with Gears 5 and cause it to crash. You can try disabling Game bar to see if this is the case.
@@ -73,6 +77,10 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-138.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click Broadcasting, then toggle **off** the switch for **Record audio when I broadcast** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-139.png)
@@ -85,10 +93,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 3:   **Reset the Microsoft Store cache**
 
  Overtime, Windows caches downloads made through Windows Store. This can take up a lot of space and cause problems when downloads come to a halt. So you can reset the Microsoft Store cache to fix problems like this and see if it solves the Gear 5 crashes issue.
@@ -97,32 +101,29 @@ Here is how to reset the Microsoft Store cache:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and type **R** at the same time, then type **wsreset.exe** and press **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-127.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2) Wait until the whole Windows store cache reset process finishes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-128.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 3) Once completed, Windows Store will pop open.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-129-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Check to see if the Gears of War 4 crashes issues have been fixed. If yes, then great! If it still persists, please try **Fix 4** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: **Check for Windows Updates**
 
@@ -139,8 +140,9 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-140.png)
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Wait for the system to check online for available updates for the game.
 
 * **If yes** , it will automatically download the update and install it. Once completed, restart your computer for the changes to take effect. After that, don’t forget to check if the Gears of War 5 PC crash issue is fixed. If yes, then great! If it’s still no joy, please move on to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -149,8 +151,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update DirectX
 
  DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. If you’re running an old version of DirectX, it’s possible that it won’t be able to handle the graphics rendering and processing task, which might cause the Gears of War to crash. So you should update DirectX to the latest version to see if it fixes the issue.
@@ -163,9 +166,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall the game
 
  If the above steps didn’t , then it’s time to reinstall the game to see if it works. To do so, simply uninstall the game from your PC, then head to Microsoft Store, search the game, download and install it.
@@ -175,8 +175,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Disable your X-Fi sound card (If you have an X-Fi sound card)
 
  According to game forums, many players reported that disabling their X-Fi sound card helped them fix the problem. So if you are also having an X-Fi sound card, you should also give it a try to see if it does the trick.
@@ -193,8 +194,6 @@ Here is how to do it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +201,24 @@ Here is how to do it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-vital-tips-to-preserve-lol-competitions/"><u>[New] 2024 Approved Vital Tips to Preserve LOL Competitions</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-thorough-examination-easy-hdr-techniques-guide-for-2024/"><u>[New] Thorough Examination Easy HDR Techniques Guide for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-balancing-iphone-hd-video-with-premiere-pros-exposure-control-for-2024/"><u>[Updated] Balancing iPhone HD Video with Premiere Pro’s Exposure Control for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-crafting-captivating-edu-vids-on-youtube-a-step-by-step-guide-for-2024/"><u>[Updated] Crafting Captivating Edu-Vids on YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-love-in-full-view-discovering-youtube-and-vimeos-top-7-wedding-movies-for-2024/"><u>[Updated] Love in Full View Discovering Youtube & Vimeo's Top 7 Wedding Movies for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-the-ultimate-guide-to-vimeo-record-features/"><u>2024 Approved The Ultimate Guide to Vimeo Record Features</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-tickle-tycoon-picture-builder/"><u>2024 Approved Tickle Tycoon Picture Builder</u></a></li>
+<li><a href="https://win-able.techidaily.com/back-4-blood-pc-stability-issues-troubleshooting-and-fixes/"><u>Back 4 Blood PC Stability Issues: Troubleshooting and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-performance-fixes-for-low-frames-per-second-fps-and-hiccups-in-splitgate/"><u>Enhancing Performance: Fixes for Low Frames Per Second (FPS) and Hiccups in Splitgate</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/exploring-the-top-4-substitutes-for-r-studios-data-restoration-capabilities/"><u>Exploring the Top 4 Substitutes for R-Studio's Data Restoration Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-corsair-icue-compatibility-problems-with-windows-11-a-step-by-step-guide/"><u>Fixing the Corsair iCUE Compatibility Problems with Windows 11 – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fortnite-performance-fix-overcoming-lag-and-enhancing-play/"><u>Fortnite Performance Fix: Overcoming Lag and Enhancing Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998546024-getting-unstuck-from-fortnites-load-screen-dilemma-solutions-inside/"><u>Getting Unstuck From Fortnite's Load Screen Dilemma - Solutions Inside!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-graphics-initialization-failure-in-destiny-2-solution-steps/"><u>How To Fix 'Graphics Initialization Failure' In Destiny 2 – Solution Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-starfield-from-freezing-or-crashing-during-playtime-on-your-computer/"><u>How to Stop Starfield From Freezing or Crashing During Playtime on Your Computer</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-exclusive-snap-chronicles-an-in-depth-walkthrough/"><u>In 2024, Exclusive Snap Chronicles An In-Depth Walkthrough</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-discord-camera-failures-a-step-by-step-solution-guide/"><u>Overcoming Discord Camera Failures: A Step-by-Step Solution Guide</u></a></li>
+</ul></div>
 

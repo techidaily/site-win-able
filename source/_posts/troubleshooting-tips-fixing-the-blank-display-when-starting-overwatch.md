@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Fixing the Blank Display when Starting Overwatch"
-date: 2024-12-13T21:18:19.748Z
-updated: 2024-12-20T01:24:57.839Z
+date: 2024-12-16T18:09:22.843Z
+updated: 2024-12-22T00:53:14.469Z
 tags:
   - win11
   - win10
@@ -46,11 +46,19 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/drivereasyrun-as-administrator.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Relaunch your Origin and FIFA to check if the crashing issue still persists.
 
 If you still have the issue, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
@@ -62,9 +70,17 @@ If you still have the issue, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
@@ -77,6 +93,10 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 Update your device drivers
 
@@ -109,7 +129,7 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -128,6 +148,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 Force Vertical Sync and Triple Buffering on
 
  Vertical Sync helps you avoid screen tearing, but it can also cause problems such as frequent game crashing and freezing. To avoid it, you can leave V-Sync off in-game settings, then force Vertical Sync and Triple Buffering on in the NVIDIA Control Panel to use the drivers to control V-Sync instead.
@@ -137,10 +161,6 @@ OR
 2) Right-click on your desktop and select**NVIDIA Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
   
@@ -162,10 +182,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7**Run System File Checker** to repair corrupt files
 
  Corrupt system files might be the cause of the FIFA crashing issue. To check if this is your problem and repair it, here is how:
@@ -176,17 +192,9 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -260,16 +268,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
@@ -295,16 +299,12 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/power-shell.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re on Windows 11, it will be**Terminal (Admin)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Copy the following command and press**Enter** .
@@ -340,21 +340,20 @@ mkdir Database
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-mastering-access-free-picturing-content-streams/"><u>[New] In 2024, Mastering Access Free Picturing Content Streams</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-ranking-9-premier-video-call-and-meeting-apps-ios-vs-android-reviewed/"><u>[Updated] In 2024, Ranking 9 Premier Video Call & Meeting Apps iOS vs Android Reviewed</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-screencapturepro-review-expert-insights-and-comparisons/"><u>[Updated] In 2024, ScreenCapturePro Review Expert Insights and Comparisons</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-mastering-photo-color-reversal-techniques-for-2024/"><u>[Updated] Mastering Photo Color Reversal Techniques for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-optimizing-youtube-audio-speed-desktop-and-mobile-way-for-2024/"><u>[Updated] Optimizing YouTube Audio Speed - Desktop & Mobile Way for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722995313451-bypassing-fortnite-login-errors-easy-tips-for-uninterrupted-gaming/"><u>Bypassing Fortnite Login Errors: Easy Tips for Uninterrupted Gaming!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-best-features-of-the-withings-move-classic-design-meets-modern-tech/"><u>Exploring the Best Features of the Withings Move - Classic Design Meets Modern Tech</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722993616296-fixing-compiling-shaders-errors-for-call-of-duty-black-ops-cold-war-now-solved/"><u>Fixing 'Compiling Shaders' Errors for Call of Duty Black Ops Cold War - Now Solved</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-boot-up-blues-heres-how-to-fix-a-frozen-loading-screen/"><u>Fortnite Boot-Up Blues? Here’s How to Fix a Frozen Loading Screen</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/from-screen-to-paper-expert-ways-to-ensure-quality-prints-via-photoshop/"><u>From Screen to Paper: Expert Ways to Ensure Quality Prints via Photoshop</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-game-capture-with-nvidias-shadowplay-overcoming-recording-hurdles-on-windows-pcs/"><u>Mastering Game Capture with Nvidia's ShadowPlay: Overcoming Recording Hurdles on Windows PCs</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-identifying-sources-for-authentic-canine-symphony-sounds/"><u>New Identifying Sources for Authentic Canine Symphony Sounds</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-the-ghostrunner-breakdown-problems-in-windows-10-with-ease/"><u>Overcome the Ghostrunner Breakdown Problems in Windows 10 with Ease</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-woes-no-more-resolving-elite-dangerous-crash-problems-for-players/"><u>PC Woes No More: Resolving Elite Dangerous Crash Problems for Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-hardwaredriver-not-compatible-in-rainbow-six-extraction-expert-solutions/"><u>Troubleshoot 'Hardware/Driver Not Compatible' In Rainbow Six Extraction - Expert Solutions</u></a></li>
-<li><a href="https://games-able.techidaily.com/zeroize-xboxs-loud-noises-effortlessly/"><u>Zeroize Xbox's Loud Noises Effortlessly</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-navigating-advanced-sound-switching-techniques-for-2024/"><u>[Updated] Navigating Advanced Sound-Switching Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-conversations-that-captivate-google-meet-edition/"><u>2024 Approved Crafting Conversations that Captivate Google Meet Edition</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-smart-8-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-uninterrupted-fun-solving-steam-and-pc-problems-to-enjoy-psychonauts-2-seamlessly/"><u>Ensuring Uninterrupted Fun: Solving Steam and PC Problems to Enjoy 'Psychonauts 2' Seamlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/faster-frame-rates-ahead-how-to-tackle-wows-lag-issues-in-2n24/"><u>Faster Frame Rates Ahead! How to Tackle WoW's Lag Issues in 2N24</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-leverage-ez-grabber-for-peak-performance/"><u>In 2024, How to Leverage EZ Grabber for Peak Performance</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-meizu-21-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Meizu 21 Through Google Earth?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-vivo-v27e-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Vivo V27e Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/navigating-driver-changes-in-windows-soundscape/"><u>Navigating Driver Changes in Windows Soundscape</u></a></li>
+<li><a href="https://win-able.techidaily.com/newspaper-cardboard-or-a-dedicated-tile-painting-tray/"><u>Newspaper, Cardboard, or a Dedicated Tile Painting Tray</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-top-6-tips-for-enhancing-your-fps-on-apex-legends/"><u>Quick Fixes: Top 6 Tips for Enhancing Your FPS on Apex Legends</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-gionee-f3-pro-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Gionee F3 Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/silence-breakers-how-to-fix-audio-problems-in-roblox-on-both-windows-10-and-11-computers/"><u>Silence Breakers: How To Fix Audio Problems in Roblox on Both Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-resolving-league-of-legends-black-screens-updated-tips/"><u>The Ultimate Guide to Resolving League of Legends Black Screens - Updated Tips</u></a></li>
 </ul></div>
 

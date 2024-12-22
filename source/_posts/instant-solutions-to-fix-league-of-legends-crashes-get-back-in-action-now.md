@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-12-13T04:38:22.121Z
-updated: 2024-12-20T09:57:29.370Z
+date: 2024-12-15T18:37:16.182Z
+updated: 2024-12-21T18:09:59.711Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -97,6 +101,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -105,23 +113,19 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -134,7 +138,7 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Initiate Full Repair** .
@@ -146,14 +150,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -193,18 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-superior-5-sites-matching-twitters-features/"><u>[Updated] 2024 Approved Superior 5 Sites Matching Twitter's Features</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-comprehensive-guide-to-using-luts-in-video-editing/"><u>2024 Approved The Comprehensive Guide to Using LUTs in Video Editing</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoiding-crashes-on-your-assassins-creed-valhalla-adventure-top-fixes-players/"><u>Avoiding Crashes on Your Assassin's Creed Valhalla Adventure: Top Fixes Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-dev-error-6068-with-these-pro-tips-and-keep-your-battlefield-experience-uninterrupted/"><u>Beat Dev Error 6068 with These Pro Tips and Keep Your Battlefield Experience Uninterrupted</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/comprehensive-atomic-lead-harvesting-guide-master-phone-and-email-extraction-with-massmail-tool/"><u>Comprehensive Atomic Lead Harvesting Guide: Master Phone & Email Extraction with MassMail Tool</u></a></li>
-<li><a href="https://driver-install.techidaily.com/direct-paths-for-driver-updates-on-windows-xp-pcs/"><u>Direct Paths for Driver Updates on Windows XP PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/god-of-war-performance-issues-heres-how-to-lower-cpu-usage-effectively/"><u>God of War Performance Issues? Here's How to Lower CPU Usage Effectively!</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-handheld-happiness-advanced-mounting-solutions/"><u>In 2024, Handheld Happiness Advanced Mounting Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-resolving-assassins-creed-valhalla-start-up-issues/"><u>Quick Fixes: Resolving 'Assassin's Creed Valhalla' Start-Up Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/seamless-playtime-awaits-in-total-war-saga-troy-following-recent-pc-bug-resolution/"><u>Seamless Playtime Awaits in Total War Saga: Troy Following Recent PC Bug Resolution</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/solving-the-mystery-what-to-do-when-d3dx928dll-is-nowhere-to-be-found/"><u>Solving the Mystery: What to Do When d3dx9_28.dll Is Nowhere to Be Found</u></a></li>
-<li><a href="https://win-able.techidaily.com/starfield-pc-stability-issues-heres-how-you-can-prevent-and-solve-them/"><u>Starfield PC Stability Issues? Here's How You Can Prevent and Solve Them!</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/448203-9780307569479-the-edgar-cayce-primer/"><u>The Edgar Cayce Primer | Free Book</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-slowly-fading-the-beat-a-pro-guide-for-audio-easing-for-2024/"><u>[New] Slowly Fading the Beat A Pro Guide for Audio Easing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-no-user-can-login-hurdle-in-cs-go-using-our-top-five-fix-techniques/"><u>Beat the ‘No User Can Login’ Hurdle in CS: GO Using Our Top Five Fix Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-remedies-for-when-the-msi-mystic-light-wont-work-on-pcs-running-windows/"><u>Effective Remedies for When the MSI Mystic Light Won't Work on PCs Running Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/euro-truck-simulator-2-troubleshooting-pc-crashes-fixed-solutions/"><u>Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-ancient-epic-battles-with-new-god-of-war-fps-on-pc/"><u>Experience Ancient Epic Battles with New God of War FPS on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-keeping-halo-3-running-smoothly-and-avoiding-pc-crashes/"><u>Expert Advice on Keeping Halo 3 Running Smoothly and Avoiding PC Crashes</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/first-timers-review-kid-approved-waterproof-cameras/"><u>First Timer's Review: Kid-Approved Waterproof Cameras</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-graphics-card-detected-in-msi-afterburner-under-windows-11/"><u>How to Get Your Graphics Card Detected in MSI Afterburner Under Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Moto G 5G (2023) Bootloader Easily</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-ultimate-mini-portable-charger-power-up-your-laptops-tablets-and-phones-with-ease-review/"><u>Introducing the Ultimate Mini Portable Charger: Power up Your Laptops, Tablets & Phones with Ease Review</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/navigating-the-perils-of-geek-squad-frauds-a-comprehensive-guide-for-email-security/"><u>Navigating the Perils of Geek Squad Frauds: A Comprehensive Guide for Email Security</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/optimize-your-system-fixing-svchostexes-extreme-cpu-usage-on-windows-11/"><u>Optimize Your System: Fixing Svchost.exe's Extreme CPU Usage on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-microsoft-flight-simulator-2020s-updates-stuck-dilemma-expert-advice-inside/"><u>Overcome Microsoft Flight Simulator 2020'S Updates Stuck Dilemma - Expert Advice Inside</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-update-problem-how-to-fix-error-0x80070490/"><u>Troubleshooting Guide for Windows Update Problem: How to Fix Error '0X80070490'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719363856500-unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key</u></a></li>
 </ul></div>
 

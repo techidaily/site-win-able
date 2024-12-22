@@ -1,7 +1,7 @@
 ---
 title: Solving Performance Hiccups in Mass Effect Legendary Edition for Both PC Gamers and Xbox Users
-date: 2024-08-23T11:21:23.493Z
-updated: 2024-08-24T11:21:23.493Z
+date: 2024-12-19T16:44:11.944Z
+updated: 2024-12-21T22:14:54.645Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 ## Marvel's Avengers for PC: Solutions for Ending Game Crashes Once and For All
 
 The PC port of**Marvel’s Avengers** is finally here, but many gamers start complaining about the crashing issue, which shatters their super hero dreams. So if you happen to be one of them, don’t worry. Here’re some useful tips that could help you fix the crash quickly & easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -35,6 +39,11 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
 1. Go to your**Steam Library** . Right-click**Marvel’s Avengers** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-1.jpg)
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** , then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/marvel-avengers-verify-game-files-2.jpg)
 
  Once you’ve completed this process, launch Marvel’s Avengers and check if the crash reappears.
@@ -42,8 +51,9 @@ The PC port of**Marvel’s Avengers** is finally here, but many gamers start com
  If this method doesn’t solve your crashing issue, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Install all the Windows updates
 
  Windows 10 includes 2 types of updates, one is**quality updates** , which provides security and reliability fixes, another one is**feature updates** , which add new functionalities twice per year. If you can’t remember the last time you installed any updates, definitely do it now as it could be a potential fix to your problem.
@@ -53,14 +63,8 @@ You can install system updates with just a few clicks:
 1. On your keyboard, press the **Windows logo key** and **R**  at the same time to invoke the Run box. Type or paste **control /name Microsoft.WindowsUpdate** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-update-run-box.jpg)
 2. Click**Check for updates** . This might take a while for Windows to search and install the updates.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed all the updates, restart your computer for it to take full effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  To make sure you’ve installed_all_ the system updates,**repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -69,8 +73,9 @@ You can install system updates with just a few clicks:
  If this fix doesn’t work for your case, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  In most cases, crashing issues tend to be driver-related, which means you’re probably using a**faulty** or**outdated graphics driver** . So updating your driver could very well tackle your problem right away.
@@ -96,10 +101,6 @@ You can install system updates with just a few clicks:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 **The Pro version of Driver Easy** comes with_full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,17 +118,22 @@ The ultimate burning program for all your needs!</a>
 1. On the top left corner of your Steam client, click**Steam** and select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab,**uncheck** these boxes and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Marvel’s Avengers and see if it crashes again.
 
  If this fix doesn’t do the trick for you, please continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Close all the background programs
 
  Some AAA titles require all the resources of your rig, and sometimes they crash because you have other programs eating up your RAM or CPU resources. So check if you’re running large programs such as**Chrome** ,**Discord** or**Skype** . If you do, close them before launching Marvel’s Avengers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Turn off VSync
 
@@ -151,8 +157,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +164,19 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/aptivating-content-the-basics-of-removing-background-from-videos-for-2024/"><u>[New] Captivating Content The Basics of Removing Background From Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-bandicam-reviewed-the-latest-tech-enhancements-and-tips-for-2024/"><u>[Updated] Bandicam Reviewed The Latest Tech Enhancements and Tips for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/artistic-modifications-pic-editing-masterclass/"><u>Artistic Modifications Pic Editing Masterclass</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/easy-guide-to-blur-background-in-google-meet-laptop-and-mobile/"><u>Easy Guide to Blur Background in Google Meet [Laptop and Mobile]</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/elevate-video-quality-with-vlcs-high-resolution-webcam-recording-for-2024/"><u>Elevate Video Quality with VLC's High-Resolution Webcam Recording for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-is-the-current-performance-of-xbox-live-servers/"><u>How Is the Current Performance of Xbox Live Servers?</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/mastering-crossfade-techniques-in-adobe-premiere/"><u>Mastering Crossfade Techniques in Adobe Premiere</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximizing-your-macos-desktop-real-estate-a-guide-to-automatically-hiding-recently-used-applications-with-stage-manager/"><u>Maximizing Your MacOS Desktop Real Estate: A Guide to Automatically Hiding Recently Used Applications with Stage Manager</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722990003065-navigating-assassins-creed-valhallas-unlaunched-status-solutions-for-impatient-gamers/"><u>Navigating Assassin's Creed Valhalla's Unlaunched Status: Solutions for Impatient Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-obstacle-unlock-steps-to-successfully-launch-last-epoch-on-pc/"><u>Overcome the Obstacle: Unlock Steps to Successfully Launch 'Last Epoch' On PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-the-darkness-ultimate-guide-to-resolving-2024s-minecraft-black-screen-glitches/"><u>Overcoming the Darkness: Ultimate Guide to Resolving 2024'S Minecraft Black Screen Glitches</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-fixing-game-crashes-in-minecraft-dungeons-on-desktop/"><u>Troubleshooting Tips for Fixing Game-Crashes in Minecraft Dungeons on Desktop</u></a></li>
+</ul></div>
 

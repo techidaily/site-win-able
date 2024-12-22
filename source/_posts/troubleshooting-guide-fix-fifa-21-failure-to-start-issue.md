@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fix FIFA 21 Failure to Start Issue"
-date: 2024-08-23T11:20:30.269Z
-updated: 2024-08-24T11:20:30.269Z
+date: 2024-12-17T00:32:19.878Z
+updated: 2024-12-21T23:18:41.638Z
 tags:
   - win11
   - win10
@@ -68,16 +68,17 @@ thumbnail: https://thmb.techidaily.com/9d3857853f9f78dd8e108c028d0a318d22b529786
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU and memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you still get the Cyberpunk has flatlined error after closing all the background programs, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Directly run the game executable
 
@@ -85,9 +86,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  If running the game from its executable file doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fix 4: Verify the integrity of your game files
 
  A previous interrupted installation or corrupted game files could lead to the Cyberpunk 2077 has flatlined error. You may need to scan and repair your game files through the Steam client to solve the problem. Here’s how:
@@ -95,14 +93,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 1. Open your Steam library, find Cyberpunk 2077, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-Properties.png)
 2. Select the**Installed Files** tab and click the**Verify integrity of game files** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-1.png)
 3. Steam will scan your local game files and compare them to the files on the server. If there’s anything missing or damaged, Steam will add or replace them in your game folder.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
  If verifying and repairing your game files doesn’t solve your problem, try the next fix.
 
@@ -123,16 +120,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -146,11 +137,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Type**appwiz.cpl** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-appwiz-cpl.png)
 3. In the pop-up window, scroll down to find the Microsoft Visual C++ redistributable files. You’ll see two redistributable files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click the first redistributable file, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change.png)
 5. Click**Repair** . If prompted for permission, click **Yes.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair.png)**
 6. Repeat Steps 4-5 to repair the second redistributable file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once the repair is complete, restart your PC to let the changes take effect.
 
 ---
@@ -167,8 +173,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +180,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-screen-spectacular-sj6-vs-yi-4k-edition/"><u>[New] 2024 Approved Screen Spectacular SJ6 Vs. Yi 4K Edition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-boosting-clarity-in-web-exhibits-and-presentations/"><u>[New] Boosting Clarity in Web Exhibits and Presentations</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-boosting-your-content-a-guide-to-instagram-video-fame-for-2024/"><u>[New] Boosting Your Content A Guide to Instagram Video Fame for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-cutting-edge-cameras-for-extreme-enthusiasts/"><u>[New] In 2024, Cutting-Edge Cameras for Extreme Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-nba-2k20-crash-issue-quickly-and-easily/"><u>[SOLVED] NBA 2K20 Crash Issue | Quickly & Easily</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-direct-conversion-convert-and-upload-mp3-songs-on-youtube/"><u>[Updated] In 2024, Direct Conversion Convert & Upload MP3 Songs on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-mituting-overworked-processor-in-the-newest-cyrodiil-encounter/"><u>Diagnosing and Mituting Overworked Processor in the Newest Cyrodiil Encounter</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/exclusive-insta-stories-for-private-eyes-for-2024/"><u>Exclusive Insta Stories for Private Eyes for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-fortnite-sign-in-issues-fast-a-simple-guide/"><u>Fix Your Fortnite Sign-In Issues Fast: A Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-launch-problems-heres-how-to-fix-the-initial-black-screen/"><u>Helldivers 2 Launch Problems? Here's How to Fix the Initial Black Screen!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-it-honor-magic-6-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Honor Magic 6 Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-steams-cloud-synchronization-issues-expert-tips-and-tricks/"><u>How to Resolve Steam's Cloud Synchronization Issues: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-dolby-atmos-functionality-on-windows-operating-systems/"><u>How to Restore Dolby Atmos Functionality on Windows Operating Systems</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-dual-screening-made-simple-navigating-through-floating-window-functionality-in-netflix/"><u>In 2024, Dual Screening Made Simple Navigating Through Floating Window Functionality in Netflix</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-constant-disruptions-madden-nfl-21-running-smoothly-on-desktop/"><u>Resolve Constant Disruptions – Madden NFL 21 Running Smoothly on Desktop</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g34-5g-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G34 5G</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/top-10-password-cracking-tools-for-motorola-g24-power-by-drfone-android/"><u>Top 10 Password Cracking Tools For Motorola G24 Power</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-directx-errors-on-fifa-20-expert-tips-and-fixes/"><u>Troubleshooting DirectX Errors on FIFA 20 – Expert Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-solving-constant-game-crashes-in-watch-dogs-legion-on-windows/"><u>Troubleshooting Tips for Solving Constant Game Crashes in Watch Dogs Legion on Windows</u></a></li>
+</ul></div>
 

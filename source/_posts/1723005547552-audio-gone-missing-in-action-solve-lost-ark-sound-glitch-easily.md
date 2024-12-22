@@ -1,7 +1,7 @@
 ---
 title: Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily
-date: 2024-08-23T11:18:38.875Z
-updated: 2024-08-24T11:18:38.875Z
+date: 2024-12-15T21:11:12.971Z
+updated: 2024-12-21T17:46:34.051Z
 tags:
   - win11
   - win10
@@ -32,17 +32,28 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Check the in-game volume by hitting the**Esc** button to open the**Setting** menu. Then select**Audio** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/settings.jpg)
 2. Confirm the volume sliders are not set to 0, then you can set it to your personal preference.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Right-click on the sound icon in your taskbar.
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update Windows Media Feature pack
 
  This is a proven fix that has helped many gamers. Give it a try and it may solve your issue.
@@ -52,10 +63,6 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 1. Press the**Windows logo key + I** together to open**Settings** , then click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 2. Click**Apps and Features > Optional features > Add a feature** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. Search or select**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the sound.
 
@@ -66,9 +73,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click**View features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 4. Relaunch the game and check the audio.
 
 ### Fix 3: Update your audio driver
@@ -83,14 +87,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
@@ -107,8 +115,9 @@ Then, reboot your PC and relaunch the game to check.
 5. Relaunch the game and check you have sound or not.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify game files
 
  Verify your game files would scan and repair the game files to make sure the game won’t crash or cause trouble. It’s a quick and easy fix when you encounter game issues.
@@ -116,10 +125,6 @@ Then, reboot your PC and relaunch the game to check.
 1. Launch Steam and find Lost Ark in your library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties.jpg)
 2. Under **Local files** , click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
 
@@ -131,8 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +143,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-the-witcher-3-pc-crash/"><u>[FIXED] The Witcher 3 PC Crash</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-video-recording-decisions-optimal-fps-is-it-30-or-60-in-2024/"><u>[New] Video Recording Decisions Optimal FPS – Is It 30 or 60, In 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-discontinuing-instant-recording-on-quicktime/"><u>[Updated] 2024 Approved Discontinuing Instant Recording on QuickTime</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-essential-mac-tips-unlocking-your-srt-files/"><u>2024 Approved Essential Mac Tips Unlocking Your SRT Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/farewell-to-frustration-expert-strategies-for-solving-state-of-decay-2s-crashing-problem/"><u>Farewell to Frustration: Expert Strategies for Solving State of Decay 2'S Crashing Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-frame-rates-in-tainted-grail-conquest-a-comprehensive-guide/"><u>Improving Frame Rates in Tainted Grail: Conquest - A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-picks-for-the-modern-buyer-advanced-360cams/"><u>In 2024, Top Picks for the Modern Buyer Advanced 360Cams</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/overcoming-discord-disruptions-effective-remedies-for-persistent-crashes/"><u>Overcoming Discord Disruptions: Effective Remedies for Persistent Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezing-problems-with-fallout-4-tips-and-tweaks-for-a-smooth-gaming-experience/"><u>Overcoming Freezing Problems with Fallout 4 - Tips & Tweaks for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-persistent-lag-issues-in-call-of-duty-vanguard-for-windows-users-2024-insights/"><u>Overcoming Persistent Lag Issues in Call of Duty: Vanguard for Windows Users (2024 Insights)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/spread-smiles-through-adobe-memes/"><u>Spread Smiles Through Adobe Memes</u></a></li>
+<li><a href="https://extra-information.techidaily.com/srt-file-handling-on-cross-platform-operating-systems/"><u>SRT File Handling on Cross-Platform Operating Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-experts-techniques-for-clearing-figma-backdrops/"><u>The Expert's Techniques for Clearing Figma Backdrops</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-cant-i-launch-outlook/"><u>Troubleshooting Tips: Why Can't I Launch Outlook?</u></a></li>
+</ul></div>
 

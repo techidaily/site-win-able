@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-12-19T02:11:30.094Z
-updated: 2024-12-19T19:34:59.989Z
+date: 2024-12-17T17:45:21.034Z
+updated: 2024-12-21T16:24:47.880Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -42,10 +38,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,6 +68,10 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -84,10 +80,6 @@ To do so, first visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -109,12 +101,20 @@ Here’s how:
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -126,11 +126,11 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -155,19 +155,18 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-insightful-review-the-comprehensive-theta-s-experience/"><u>[New] 2024 Approved Insightful Review The Comprehensive Theta S Experience</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-expert-ai-visualization-toolset/"><u>[Updated] Expert AI Visualization Toolset</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/2024-approved-essential-11-zero-cost-youtube-moniker-makers/"><u>2024 Approved Essential 11 Zero-Cost YouTube Moniker Makers</u></a></li>
-<li><a href="https://win-able.techidaily.com/all-awaited-questions-answered-how-and-when-will-you-be-playing-la-noire-on-your-computer/"><u>All Awaited Questions Answered: How and When Will You Be Playing L.A. Noire on Your Computer?</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/androidiphone-instruction-adding-music-files-to-fb-profile/"><u>Android/iPhone Instruction Adding Music Files to FB Profile</u></a></li>
-<li><a href="https://win11.techidaily.com/effortlessly-enable-and-customize-window-sandbox/"><u>Effortlessly Enable and Customize Window Sandbox</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-overcoming-pc-freezes-and-crashes-while-playing-call-of-duty-mw2/"><u>Expert Tips: Overcoming PC Freezes & Crashes While Playing Call of Duty: MW2</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-realme-narzo-60x-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme Narzo 60x 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-are-product-assessments-online-content-sold/"><u>In 2024, Are Product Assessments Online Content Sold?</u></a></li>
-<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-infinix-smart-8-pro-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Infinix Smart 8 Pro – What Can I Do? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-not-working-discover-the-6-fastest-fixes-to-get-back-into-gaming-updated/"><u>Roblox Not Working? Discover the 6 Fastest Fixes to Get Back Into Gaming (Updated )</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-lost-connections-fixing-your-disconnect-from-the-blizzard-game-servers/"><u>Troubleshooting Lost Connections: Fixing Your Disconnect From the Blizzard Game Servers</u></a></li>
-<li><a href="https://win-able.techidaily.com/unfreeze-and-stop-starfield-from-crashing-essential-troubleshooting-steps-for-your-pc/"><u>Unfreeze and Stop 'Starfield' From Crashing: Essential Troubleshooting Steps for Your PC</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-funimate-unraveled-your-path-to-mastery-for-2024/"><u>[New] Funimate Unraveled Your Path to Mastery for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-detectors-under-the-lens-zerogpt-and-friends-a-closer-look-at-their-trustworthiness/"><u>AI Detectors Under the Lens - ZeroGPT and Friends: A Closer Look at Their Trustworthiness.</u></a></li>
+<li><a href="https://win-awesome.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>In 2024, Gaming on the Green Comprehenive Review of Vegas Pro 2021</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-stop-motion-creations-15-greatest-of-all-time/"><u>In 2024, Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y78t-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y78t Phone? Unlock It Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/mass-effect-ultimate-collection-bug-fixes-now-include-stutteringstutter-free-experience-guarantee/"><u>Mass Effect Ultimate Collection Bug Fixes Now Include Stuttering/Stutter-Free Experience Guarantee</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-the-sound-heres-how-you-can-resolve-audio-problems-in-minecraft-for-windowsmac/"><u>Trouble with the Sound? Here's How You Can Resolve Audio Problems in Minecraft for Windows/Mac</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-madden-nfl-21-pc-instability-issues/"><u>Troubleshooting Guide: Fixing Madden NFL 21 PC Instability Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-eliminating-valorants-pc-crashes-for-good/"><u>Ultimate Troubleshooting Guide: Eliminating Valorant's PC Crashes for Good</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-resolving-frame-rate-drops-in-pc-versions-of-farming-simulator-cuaderno-de-laboratorio-22/"><u>Understanding and Resolving Frame Rate Drops in PC Versions of Farming Simulator Cuaderno De Laboratorio 22</u></a></li>
 </ul></div>
 

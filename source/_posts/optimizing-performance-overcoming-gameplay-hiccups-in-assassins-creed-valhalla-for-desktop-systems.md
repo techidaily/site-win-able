@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance: Overcoming Gameplay Hiccups in Assassin's Creed Valhalla for Desktop Systems"
-date: 2024-12-16T05:15:30.796Z
-updated: 2024-12-19T16:11:36.682Z
+date: 2024-12-14T19:45:26.110Z
+updated: 2024-12-21T20:59:50.857Z
 tags:
   - win11
   - win10
@@ -25,7 +25,7 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fixes to try
@@ -76,15 +76,19 @@ thumbnail: https://thmb.techidaily.com/2b0e79e191f0ed82f151a5598b1f3bbb7dbdcce94
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -95,6 +99,10 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -130,18 +138,22 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -156,27 +168,15 @@ If the crash happens again, you can take a look at the next fix.
 
  If this trick failed to solve your problem, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -201,22 +201,19 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-how-to-take-long-exposure-shots-with-iphone/"><u>[New] 2024 Approved How to Take Long Exposure Shots with iPhone</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-access-exclusive-stock-images-through-vital-4-youtube-sources/"><u>[New] In 2024, Access Exclusive Stock Images Through Vital 4 YouTube Sources</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011345628-solved-cod-warzone-dev-error-6328-2024-tips/"><u>[SOLVED] COD Warzone Dev Error 6328 - 2024 Tips</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-artistic-arrangement-adopting-the-best-photo-frame-apps/"><u>[Updated] Artistic Arrangement Adopting the Best Photo Frame Apps</u></a></li>
-<li><a href="https://windows11.techidaily.com/accelerate-taskbar-interaction-with-bings-ai/"><u>Accelerate Taskbar Interaction with Bing's AI</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/diy-tech-guide-advanced-upgrades-for-intel-intel-imac-units/"><u>DIY Tech Guide: Advanced Upgrades for Intel Intel iMac Units</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-days-gone-freezing-problems-in-your-2024-gameplay/"><u>Expert Tips to Overcome 'Days Gone' Freezing Problems in Your 2024 Gameplay</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-xiaomi-redmi-note-13-proplus-5g-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Xiaomi Redmi Note 13 Pro+ 5G</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/increase-your-urdu-proficiency-in-short-spurts/"><u>Increase Your Urdu Proficiency in Short Spurts</u></a></li>
-<li><a href="https://win-able.techidaily.com/mafia-iiis-successor-delayed-is-the-definitive-edition-cancelled/"><u>Mafia III's Successor Delayed: Is the Definitive Edition Cancelled?</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-fixing-the-frequent-freezes-of-call-of-duty-modern-warfare-3/"><u>No More Frustration: Fixing the Frequent Freezes of Call of Duty Modern Warfare 3</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-black-ops-cold-war-issues-with-shader-compilation/"><u>Resolved: Fixing Black Ops Cold War - Issues with Shader Compilation</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-performance-hiccups-keeping-pc-fall-guys-running-smoothly/"><u>Resolving Performance Hiccups: Keeping [PC] Fall Guys Running Smoothly</u></a></li>
-<li><a href="https://network-issues.techidaily.com/righted-view-laptop-screenset-corrected/"><u>Righted View: Laptop Screenset Corrected</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/step-by-step-guide-accessing-disk-management-on-windows-11/"><u>Step-by-Step Guide: Accessing Disk Management on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-solutions-how-to-fix-forza-horizon-4-not-starting/"><u>Top Solutions: How To Fix Forza Horizon 4 Not Starting</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-preventing-ready-or-not-from-crashing-windows/"><u>Troubleshooting Tips for Preventing 'Ready or Not' From Crashing Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-easy-guide-unearthing-your-youtube-compliments-and-critiques/"><u>[New] 2024 Approved Easy Guide Unearthing Your YouTube Compliments & Critiques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-seeking-access-to-all-mutually-shared-media-in-chats/"><u>[New] 2024 Approved Seeking Access to All Mutually-Shared Media in Chats</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-the-full-picture-a-review-of-dji-inspire-1/"><u>[Updated] The Full Picture A Review of DJI Inspire 1</u></a></li>
+<li><a href="https://win-able.techidaily.com/banishing-shadows-fixing-the-ominous-black-screen-error-on-your-star-wars-battlefront-2-experience/"><u>Banishing Shadows: Fixing the Ominous Black Screen Error on Your Star Wars Battlefront 2 Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/close-up-conferencing-secrets-for-microsoft-teams-users/"><u>Close-Up Conferencing Secrets for Microsoft Teams Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/hitman-3-pc-stability-issues-solutions-and-fixes-for-a-smooth-gameplay-latest-update/"><u>Hitman 3 PC Stability Issues: Solutions & Fixes for a Smooth Gameplay (Latest Update)</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-baldurs-gate-3-from-freezing-or-crashing-on-windows-computers/"><u>How to Stop Baldur's Gate 3 From Freezing or Crashing on Windows Computers</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-vivo-y02t-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Vivo Y02T Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-your-ultimate-guide-to-choosing-vr-headsets-opt-for-easy-steps-with-mobile-or-connected-devices/"><u>In 2024, Your Ultimate Guide to Choosing VR Headsets Opt for Easy Steps with Mobile or Connected Devices?</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gaming-with-fixed-dark-souls-iii-crash-fixes/"><u>Smooth Gaming with Fixed Dark Souls III Crash Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-overcoming-common-problems-in-phasmophobia-vr/"><u>Step-by-Step Solution: Overcoming Common Problems in Phasmophobia VR</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-constant-crashes-in-valorant-on-your-computer/"><u>Troubleshooting: How to Fix Constant Crashes in Valorant on Your Computer</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-unresponsive-gameplay-tips-for-stabilizing-pubg-on-pc/"><u>Winning the Battle Against Unresponsive Gameplay: Tips for Stabilizing PUBG on PC</u></a></li>
 </ul></div>
 

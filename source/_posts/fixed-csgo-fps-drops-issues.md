@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] CS:GO FPS Drops Issues"
-date: 2024-12-14T21:37:32.060Z
-updated: 2024-12-20T05:55:50.922Z
+date: 2024-12-19T00:42:55.748Z
+updated: 2024-12-21T23:52:30.919Z
 tags:
   - win11
   - win10
@@ -65,11 +65,11 @@ thumbnail: https://thmb.techidaily.com/26e5a5bed3537105229e89d2df536f43cfadace1d
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
@@ -100,13 +100,17 @@ See if you can log in or not. if not, try the next fix, below.
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Flush your DNS and Renew your IP
 
@@ -117,6 +121,10 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
@@ -130,11 +138,15 @@ See if you can log in or not. if not, try the next fix, below.
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
@@ -176,7 +188,7 @@ See if you can log in or not. if not, try the next fix, below.
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Disable the proxy server
@@ -207,22 +219,14 @@ See if you can log in or not. if not, try the next fix, below.
 3. In the pop-up window, click**Change adapter settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
@@ -241,10 +245,6 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -269,21 +269,18 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-artisans-nexus-reports-in-depth-studio-scrutiny-2023-edition-for-2024/"><u>[New] Artisan's Nexus Reports In-Depth Studio Scrutiny, 2023 Edition for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-revolutionize-your-post-processing-with-advanced-3d-lut-techniques/"><u>[New] Revolutionize Your Post-Processing with Advanced 3D LUT Techniques</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-top-5-gaming-monitors-tailored-for-playstation-and-xbox/"><u>[New] Top 5 Gaming Monitors Tailored for PlayStation & Xbox</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-9-tips-to-become-an-instagram-star/"><u>[Updated] In 2024, 9 Tips to Become an Instagram Star</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-best-editors-on-smartphones-for-dji-footage-excellence/"><u>[Updated] In 2024, Best Editors on Smartphones for DJi Footage Excellence</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y100 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-troubleshooting-tips-for-rapid-fixes-of-fortnite-not-loading-issues/"><u>Easy Troubleshooting Tips for Rapid Fixes of Fortnite Not Loading Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-resolve-call-of-duty-wwiis-black-display-glitch-on-windows-pcs/"><u>Expert Tips to Resolve Call of Duty: WWII's Black Display Glitch on Windows PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-roblox-crashes-in-a-flash-6-essential-tips-for-pc-users-new-guide/"><u>Fix Roblox Crashes in a Flash: 6 Essential Tips for PC Users - New Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005983936-football-manager-2020-stops-responding-heres-how-you-can-unfreeze-it/"><u>Football Manager 2020 Stops Responding? Here's How You Can Unfreeze It!</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/how-to-update-and-install-display-drivers-on-your-windows-pc/"><u>How to Update and Install Display Drivers on Your Windows PC</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-from-lurkers-to-leaders-top-30-strategies-for-facebook-pros/"><u>In 2024, From Lurkers to Leaders Top 30 Strategies for Facebook Pros</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-art-of-seamless-play-optimize-your-system-for-high-framerate-bliss/"><u>Master the Art of Seamless Play: Optimize Your System for High-Framerate Bliss</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixes-for-preventing-left-4-dead-2-game-crashes/"><u>Resolved: Fixes for Preventing Left 4 Dead 2 Game Crashes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/samsung-960-evo-m2-driver-download-and-install-in-windows/"><u>Samsung 960 EVO M.2 Driver Download and Install in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-hub-how-to-combat-constant-disconnections-in-risk-of-rain-2/"><u>Solution Hub: How to Combat Constant Disconnections in Risk of Rain 2</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-streamlining-the-recording-process-in-virtual-gatherings-for-2024/"><u>[New] Streamlining the Recording Process in Virtual Gatherings for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-expert-recommended-apps-and-sites-for-photo-frames/"><u>[Updated] 2024 Approved Expert-Recommended Apps & Sites for Photo Frames</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-meme-crafting-undead-androids/"><u>[Updated] 2024 Approved Meme Crafting Undead Androids</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-5-pinterest-planning-apps-of-the-year/"><u>Discover the Best 5 Pinterest Planning Apps of the Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/fenty-mysteries-solved-immortals-fenyx-rising-ready-to-roll-out/"><u>Fenty Mysteries Solved - Immortals Fenyx Rising Ready to Roll Out</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpts-potential-in-revolutionizing-medical-services/"><u>GPT's Potential in Revolutionizing Medical Services</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/next-level-smartphones-unveiling-apples-cutting-edge-artificial-intelligence-for-smarter-home-screen-insights-and-supercharged-siri/"><u>Next-Level Smartphones: Unveiling Apple's Cutting-Edge Artificial Intelligence for Smarter Home Screen Insights and Supercharged Siri</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-stutters-and-lag-in-video-games-a-comprehensive-fix-for-pc-users/"><u>Resolve Stutters and Lag in Video Games: A Comprehensive Fix for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-cloud-update-troubles-heres-how-to-restore-synchronization-successfully/"><u>Steam Cloud Update Troubles? Here's How to Restore Synchronization Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-house-flipper-2-heres-how-to-resolve-pc-malfunctions-and-enjoy-gaming/"><u>Trouble with House Flipper 2? Here's How to Resolve PC Malfunctions and Enjoy Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-how-to-stop-your-kodi-from-crashing-continuously/"><u>Troubleshooting and Repair: How to Stop Your Kodi From Crashing Continuously</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-unable-to-join-a-party-issue-in-fortnite-error-code-84/"><u>Troubleshooting the 'Unable to Join a Party' Issue in Fortnite (Error Code #84)</u></a></li>
+<li><a href="https://win-webster.techidaily.com/1728470192493-windows-10/"><u>Windows 10上的批量文件自动备份：两种有效方法</u></a></li>
 </ul></div>
 

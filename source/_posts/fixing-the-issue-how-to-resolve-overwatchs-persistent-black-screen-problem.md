@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Resolve Overwatch's Persistent Black Screen Problem"
-date: 2024-12-17T01:42:28.827Z
-updated: 2024-12-20T08:28:41.796Z
+date: 2024-12-19T23:28:38.088Z
+updated: 2024-12-21T23:29:20.531Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -40,10 +40,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -57,16 +53,16 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -77,6 +73,10 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
@@ -92,24 +92,20 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 
 6. Restart your computer and check to see if the problem resolves.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -119,6 +115,10 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and check to see if the problem still persists.
 
@@ -141,14 +141,18 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[New] In 2024, Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-profit-from-publishing-shopping-reviews/"><u>[New] In 2024, Profit From Publishing Shopping Reviews?</u></a></li>
-<li><a href="https://win-able.techidaily.com/complete-step-by-step-guide-how-to-resolve-tear-down-app-freezing-issues/"><u>Complete Step-by-Step Guide: How to Resolve Tear Down App Freezing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/maplestory-performance-troubleshooting-for-windows-10-users/"><u>MapleStory Performance Troubleshooting for Windows 10 Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/mastering-boot-time-fixes-for-windows-audiovisual-issues/"><u>Mastering Boot-Time Fixes for Windows Audiovisual Issues</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/strategies-for-acquiring-flawless-photos-on-the-internet-for-2024/"><u>Strategies for Acquiring Flawless Photos on the Internet for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/stunning-mac-os-yosemite-wallpapers-and-backgrounds-by-yl-computing-the-ultimate-collection/"><u>Stunning Mac OS Yosemite Wallpapers & Backgrounds by YL Computing - The Ultimate Collection</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-frostpunks-persistent-crashing-problem/"><u>Troubleshooting Guide: Resolving Frostpunk's Persistent Crashing Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-mute-problems-in-evil-genius-2-game/"><u>Troubleshooting Steps for Mute Problems in Evil Genius 2 Game</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-optimizing-video-output-the-adobe-presenter-way-for-2024/"><u>[New] Optimizing Video Output The Adobe Presenter Way for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-quick-guide-capturing-moments-with-snap-in-real-time-conferencing/"><u>[New] Quick Guide Capturing Moments with Snap in Real-Time Conferencing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-5-youtube-tag-generators-and-tips-to-tag-videos-properly-for-2024/"><u>[Updated] Best 5 YouTube Tag Generators & Tips to Tag Videos Properly for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-master-the-art-of-screenshot-and-video-edits-top-8-mobile-choices-for-2024/"><u>[Updated] Master the Art of Screenshot and Video Edits – Top 8 Mobile Choices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-madden-nfl-20-solve-common-pc-compatibility-crashes-now/"><u>Beat the Blues with Madden NFL '20 - Solve Common PC Compatibility Crashes Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-s23-ultra-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy S23 Ultra Phone Pattern Lock without Factory Reset</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-for-2024/"><u>New Top 10 Robotic Voice Generators for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-image-crisis-solved-sharper-graphics-unveiled-for-players/"><u>Outriders Image Crisis Solved: Sharper Graphics Unveiled for Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/rapid-fixes-overcome-slowdown-problems-in-assassins-creed-valhalla-easily/"><u>Rapid Fixes: Overcome Slowdown Problems in Assassin's Creed: Valhalla Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-prevent-recurring-glitches-and-crashes-in-valorant-on-desktop-computers/"><u>Steps to Prevent Recurring Glitches and Crashes in Valorant on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-real-time-lag-issues-when-using-obs-for-livestreamingrecording/"><u>Troubleshooting Real-Time Lag Issues When Using OBS for Livestreaming/Recording</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-tips-repairing-your-nonfunctional-samsung-soundbar/"><u>Troubleshooting Tips: Repairing Your Nonfunctional Samsung Soundbar</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-poco-x6-pro-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Poco X6 Pro</u></a></li>
 </ul></div>
 

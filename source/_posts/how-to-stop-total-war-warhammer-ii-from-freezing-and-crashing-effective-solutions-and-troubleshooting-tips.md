@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Total War: WARHAMMER II From Freezing and Crashing: Effective Solutions & Troubleshooting Tips"
-date: 2024-12-16T08:41:15.031Z
-updated: 2024-12-19T18:37:04.348Z
+date: 2024-12-19T17:23:48.360Z
+updated: 2024-12-21T18:15:06.285Z
 tags:
   - win11
   - win10
@@ -32,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Warframe Freezing
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,7 +43,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 5. [**Turn off unnecessary programs**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Check your home network
@@ -55,6 +51,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  A bad network connection can often cause your game to freeze, lag or even crash, so you may want to**restart your network** by turning off your modem and router for at least 20 seconds then turning them back on.
 
  If you’re using a Wi-Fi connection, try using an ethernet cable. An ethernet cable can provide a more stable internet connection. If that’s not an option, you can instead, move your computer closer to your router as the distance between your PC and the Router could also affect your Wi-Fi connection and your gaming performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -76,6 +76,10 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -103,7 +107,7 @@ thumbnail: https://thmb.techidaily.com/12e88707f59d2cf337816f66e57d39a5f3c787beb
 Your game still freezes? Try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Lower in-game graphics settings
@@ -116,21 +120,17 @@ Your game still freezes? Try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-39-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Under the DISPLAY tab, go to**Graphics Quality > Preset** to **Medium** or **Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-31-55.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Confirm** on the bottom-right corner of your screen to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_16-41-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If your issue persists, then move on to the next fix below.
 
@@ -171,19 +171,24 @@ If your issue persists, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-a-comprehensible-guide-to-saving-hulu-programs-on-multiple-devices-for-2024/"><u>[New] A Comprehensible Guide to Saving Hulu Programs on Multiple Devices for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-top-choice-video-capture-apps-iphone-for-2024/"><u>[New] Top Choice Video Capture Apps iPhone for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-expedient-techniques-to-spot-and-expel-deceptive-insta-connections-for-2024/"><u>[Updated] Expedient Techniques to Spot and Expel Deceptive Insta Connections for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/common-issues-and-solutions-for-logitech-g733-non-functional-mic/"><u>Common Issues and Solutions for Logitech G733 Non-Functional Mic</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-persistent-diablo-iii-shutdowns/"><u>Diagnosing and Repairing Persistent Diablo III Shutdowns</u></a></li>
-<li><a href="https://win-able.techidaily.com/football-manager-2021-what-to-do-when-youre-stuck-on-the-start-screen/"><u>Football Manager 2021: What To Do When You're Stuck on the Start Screen?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723006237914-how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More!</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-samsung-galaxy-a23-5g-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Samsung Galaxy A23 5G Location by Number | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-infinix-note-30-vip-racing-edition-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Infinix Note 30 VIP Racing Edition Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-things-that-make-fcp-one-of-the-best-tools-for-video-editing-needs-are-discussed-as-below/"><u>New In 2024, Things that Make FCP One of the Best Tools for Video Editing Needs Are Discussed as Below</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimizing-cyberpunk-2077-for-gpu-in-windows-11-a-comprehensive-fix-guide/"><u>Optimizing Cyberpunk 2077 for GPU in Windows 11: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-latency-problems-in-rainbow-six-siege-comprehensive-guide/"><u>Resolving Latency Problems in Rainbow Six Siege - Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/top-2024-range-extenders-the-ultimate-selection-for-wide-area-coverage/"><u>Top 2024 Range Extenders: The Ultimate Selection for Wide Area Coverage</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-best-tools-to-download-your-favorite-fb-videos-on-firefox-updated-for-2024/"><u>Unveiling the Best Tools to Download Your Favorite FB Videos on FireFox, Updated for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-capturing-conversations-on-messenger-a-comprehensive-how-to/"><u>[New] Capturing Conversations on Messenger A Comprehensive How-To</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-excellent-multimedia-collaboration-apps/"><u>[New] Excellent Multimedia Collaboration Apps</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-dynamics-of-youtubes-creator-payments/"><u>[New] In 2024, The Dynamics of YouTube's Creator Payments</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-pinnacle-of-plot-construction-the-worlds-best-8-academies/"><u>[New] Pinnacle of Plot Construction – The World's Best 8 Academies</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-maximizing-mobile-profits-enabling-youtubers-revenue/"><u>In 2024, Maximizing Mobile Profits Enabling YouTubers' Revenue</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-your-journey-to-curating-an-impressive-youtube-collection/"><u>In 2024, Your Journey to Curating an Impressive YouTube Collection</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multi-fps-reduction-insights-for-enhanced-pc-game-performance/"><u>Mastering Multi-FPS Reduction: Insights for Enhanced PC Game Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-overcoming-gtfo-system-breakdowns/"><u>Mastering the Art of Overcoming GTFO System Breakdowns</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-road-uninterrupted-solutions-to-forza-horizon-3-pc-glitches/"><u>Mastering the Road, Uninterrupted: Solutions to Forza Horizon 3 PC Glitches</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/navigating-apex-legends-gameplay-on-single-platforms-only-for-2024/"><u>Navigating Apex Legends Gameplay on Single Platforms Only for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/protecting-your-privacy-how-to-remove-apple-id-from-iphone-14-pro-max-by-drfone-ios/"><u>Protecting Your Privacy How To Remove Apple ID From iPhone 14 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-overcome-fortnite-login-issues-instantly-and-simply/"><u>Resolved: Overcome Fortnite Login Issues Instantly and Simply</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-final-era-not-starting-issue-comprehensive-solutions/"><u>Solving the 'Final Era Not Starting' Issue: Comprehensive Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/street-fighter-6-tweaks-to-get-you-the-lowest-possible-ping-on-pc-gaming-rigs/"><u>Street Fighter 6 Tweaks to Get You the Lowest Possible Ping on PC Gaming Rigs</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-ranking-video-formats-compatible-with-android-devices/"><u>Top-Ranking Video Formats Compatible with Android Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-msi-afterburner-doesnt-recognize-your-gpu-on-windows-1011/"><u>Troubleshooting Steps When MSI Afterburner Doesn't Recognize Your GPU on Windows 10/11</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redgfxerror-in-red-dead-redemption-2/"><u>Troubleshooting the RED_GFX_ERROR in Red Dead Redemption 2</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-mystery-of-truthgpt-law-enforcements-take-down-at-mullvad-vpn-ultimate-list-of-best-gratis-pc-games-and-decoding-mechanical-keyboard-tech/"><u>Unraveling the Mystery of TruthGPT, Law Enforcement's Take-Down at Mullvad VPN, Ultimate List of Best Gratis PC Games, and Decoding Mechanical Keyboard Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-gamers-rejoice-as-star-citizen-overcomes-previous-crash-issues/"><u>Windows Gamers Rejoice as Star Citizen Overcomes Previous Crash Issues</u></a></li>
 </ul></div>
 

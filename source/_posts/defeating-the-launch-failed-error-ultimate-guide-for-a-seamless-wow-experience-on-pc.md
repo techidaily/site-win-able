@@ -1,7 +1,7 @@
 ---
 title: "Defeating the 'Launch Failed' Error: Ultimate Guide for a Seamless WoW Experience on PC"
-date: 2024-08-23T11:22:24.908Z
-updated: 2024-08-24T11:22:24.908Z
+date: 2024-12-14T20:08:40.904Z
+updated: 2024-12-21T22:11:51.458Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Psychonauts-2.jpg)
 
  With Psychonauts 2 released recently, some players have reported that the game keeps crashing on their PC while in-game or at launch. If you’re facing the same issue, don’t worry. In this post, you’ll learn how to fix Psychonauts 2 crashing issues easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
  After confirming your PC is good enough for Psychonauts 2, you can move on to the advanced troubleshooting below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  The graphics driver, also called a video card driver, is essential to the functioning of video games. If you’re using a faulty or outdated graphics driver, you’re likely to encounter the crashing issue in Psychonauts 2\. To fix the potential problem and get the best performance out of your hardware, you should make sure your computer’s graphics driver is up to date.
@@ -57,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/c2d843fc2e375187b2194dd914e4e340539dd6293
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -75,10 +84,11 @@ If the issue persists, go ahead with the next fix.
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -100,6 +110,10 @@ If the crashing issue remains, continue to the next fix.
 
 If this fix doesn’t do the trick, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -109,37 +123,28 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
-3. In the new window, click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
-4. Click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
-5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
-6. Click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
+3. In the new window, click**Change settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
+4. Click**Allow another app…** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
+5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
+6. Click**OK** to save changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
+
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
 
@@ -157,8 +162,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +169,26 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-the-perfect-guide-to-assembling-a-top-tier-4k-video-editor-pc-for-2024/"><u>[Updated] The Perfect Guide to Assembling a Top-Tier 4K Video Editor PC for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-expertly-curated-facebooks-1-10-plays/"><u>2024 Approved Expertly Curated Facebook's #1-#10 Plays</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/corsair-unveils-upgraded-2022-series-experience-the-next-gen-hxi-1000w-and-1500w-psus/"><u>Corsair Unveils Upgraded 2022 Series - Experience the Next-Gen HXi 1000W and 1500W PSUs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-overcome-black-screen-error-in-mtg-arena-platform/"><u>Expert Solutions to Overcome Black Screen Error in MTG Arena Platform</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-15-pro-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock From Apple iPhone 15 Pro Online</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/intelligent-escort-ix-radar-detector-assessment-a-smart-device-adapting-with-your-driving-habits/"><u>Intelligent Escort iX Radar Detector Assessment: A Smart Device Adapting With Your Driving Habits</u></a></li>
+<li><a href="https://fox-that.techidaily.com/quick-fixes-for-when-your-iphone-wont-sync-with-your-computer/"><u>Quick FIXES for When Your iPhone Won't Sync with Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/resolve-mobile-streaming-hiccups-how-to-fix-movietube-malfunctioning-on-smartphones-and-tablets/"><u>Resolve Mobile Streaming Hiccups: How to Fix MovieTube Malfunctioning on Smartphones & Tablets</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-star-wars-jedi-fallen-order-pc-stability-problems-and-crashing/"><u>Solving Star Wars Jedi: Fallen Order PC Stability Problems and Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/stable-playtime-awaits-solutions-for-preventing-far-cry-6-pc-game-crashes/"><u>Stable Playtime Awaits: Solutions for Preventing Far Cry 6 PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013877151-stardew-valley-wont-start-on-your-console-heres-what-you-need-to-know/"><u>Stardew Valley Won’t Start on Your Console? Here’s What You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002610637-stardew-valley-wont-start-here-are-solutions-that-worked-for-players/"><u>Stardew Valley Won't Start? Here Are Solutions That Worked for Players</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-dark-side-of-digital-content-profitability/"><u>The Dark Side of Digital Content Profitability</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-ii-addressing-and-solving-system-crash-issues-effectively/"><u>Total War: WARHAMMER II - Addressing and Solving System Crash Issues Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-wallpaper-engine-from-crashing-in-windows-operating-systems/"><u>Troubleshooting Guide: How to Stop Wallpaper Engine From Crashing in Windows Operating Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-applications-stuck-or-crashing-master-fixes-and-techniques-guide-of-2024/"><u>Troubleshooting PC Applications Stuck or Crashing? Master Fixes & Techniques (Guide of 2024)</u></a></li>
+<li><a href="https://win-able.techidaily.com/understanding-and-solving-the-snap-camera-connection-issue-on-your-device/"><u>Understanding and Solving the Snap Camera Connection Issue on Your Device</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unpacking-the-reasons-for-elden-rings-postponement/"><u>Unpacking the Reasons for Elden Ring's Postponement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/usb-peripherals-failure-in-windows-7-heres-how-you-can-repair-them/"><u>USB Peripherals Failure in Windows 7? Here's How You Can Repair Them!</u></a></li>
+</ul></div>
 

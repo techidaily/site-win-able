@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Sniper Rounds and Weaponry Now Available in Cod: MW FPS Drop!"
-date: 2024-12-13T22:50:30.192Z
-updated: 2024-12-20T06:11:28.236Z
+date: 2024-12-15T01:04:30.392Z
+updated: 2024-12-21T21:50:17.062Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -59,7 +59,7 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Disable overclocking
@@ -75,7 +75,7 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your drivers
@@ -107,15 +107,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable firewall/ antivirus software
 
@@ -127,10 +131,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
@@ -158,24 +158,17 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-xsplit-archive-detailed-video-game-analyses/"><u>[Updated] 2024 Approved XSplit Archive Detailed Video Game Analyses</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-from-still-image-to-live-feed-going-live-on-tiktok-via-computer/"><u>[Updated] In 2024, From Still Image to Live Feed Going Live on TikTok Via Computer</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-secret-to-love-in-video-editing-filmoras-best-aspects-for-2024/"><u>[Updated] The Secret to Love in Video Editing Filmora's Best Aspects for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/5-essential-tips-to-overcome-dev-error-n-6634-in-call-of-duty-warzone-latest-solutions-2022/"><u>5 Essential Tips to Overcome Dev Error N 6634 in Call of Duty: Warzone (Latest Solutions 2022)</u></a></li>
-<li><a href="https://win-able.techidaily.com/arcadegeddon-troubleshooting-steps-to-fix-continuous-pc-crashes/"><u>Arcadegeddon: Troubleshooting Steps to Fix Continuous PC Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-path-of-exile-connection-failures-an-authoritative-guide-to-overcoming-server-issues/"><u>Beat Path of Exile Connection Failures: An Authoritative Guide to Overcoming Server Issues</u></a></li>
-<li><a href="https://fox-access.techidaily.com/expert-tips-for-navigating-youtubes-comprehensive-comments-section/"><u>Expert Tips for Navigating YouTube's Comprehensive Comments Section</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-microsoft-flight-simulator-2020-updates-pending-error/"><u>Fix Your Microsoft Flight Simulator 2020 'Updates Pending' Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-black-ops-cold-war-episode-8-8-7-a0005-bug-resolution/"><u>Fixing Black Ops: Cold War Episode 8-8-7 A0005 Bug Resolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-account-access-difficulties-heres-how-you-can-fix-them-now/"><u>Fortnite Account Access Difficulties? Here's How You Can Fix Them Now!</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-free-location-spoofers-to-fake-gps-location-on-your-xiaomi-redmi-12-drfone-by-drfone-virtual/"><u>In 2024, 10 Free Location Spoofers to Fake GPS Location on your Xiaomi Redmi 12 | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-expert-strategies-for-fbx-filming-in-video-games/"><u>In 2024, Expert Strategies for FBX Filming in Video Games</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-unveiling-clarity-overcoming-gopro-haze-challenges/"><u>In 2024, Unveiling Clarity Overcoming GoPro Haze Challenges</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/in-depth-evaluation-of-the-corsair-cx750m-psu/"><u>In-Depth Evaluation of the Corsair CX750M PSU</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-xiaomi-14-pro-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Xiaomi 14 Pro Phone Now with These Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-keyboard-malfunctions-in-pathfinders-wrath-of-the-righteous-a-step-by-step-tutorial/"><u>Solving Keyboard Malfunctions in Pathfinder's Wrath of the Righteous - A Step-by-Step Tutorial</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/supernatural-time-freeze-manual-for-2024/"><u>Supernatural Time-Freeze Manual for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-zoom-disruptions-on-pcs-latest-solutions/"><u>Troubleshoot and Stop Zoom Disruptions on PCs - Latest Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-cyberpunk-2077s-latency-and-performance-hiccups/"><u>Ultimate Fixes for Cyberpunk 2077'S Latency and Performance Hiccups</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-taking-control-importing-snapchat-snaps-to-your-phones-gallery/"><u>[New] 2024 Approved Taking Control Importing Snapchat Snaps to Your Phone's Gallery</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweet-to-facebook-video-sharing-a-2023-perspective/"><u>[New] In 2024, Tweet-to-Facebook Video Sharing A 2023 Perspective</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-masterclass-constructing-mc-village-houses/"><u>[Updated] 2024 Approved Masterclass Constructing MC Village Houses</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/canons-sx620-hs-bridging-convenience-with-photography-power/"><u>Canon's SX620 HS: Bridging Convenience with Photography Power</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complete-guide-capturing-screen-images-on-your-lenovo-laptop/"><u>Complete Guide: Capturing Screen Images on Your Lenovo Laptop</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/guide-to-updating-a-google-pixel-device-via-sideload-no-ota-required/"><u>Guide to Updating a Google Pixel Device via Sideload - No OTA Required</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-motorola-moto-g73-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Motorola Moto G73 5G</u></a></li>
+<li><a href="https://win-able.techidaily.com/r-type-final-solved-diagnosing-and-repairing-pc-malfunctions-during-play/"><u>R-Type Final [SOLVED]: Diagnosing and Repairing PC Malfunctions During Play</u></a></li>
+<li><a href="https://techtrends.techidaily.com/safeguard-your-system-with-these-15-fantastic-free-antivirus-bootables/"><u>Safeguard Your System with These 15 Fantastic Free Antivirus Bootables</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-bgiii-start-up-woes-ready-to-begin-your-epic-journey/"><u>Solving BGIII Start-Up Woes - Ready to Begin Your Epic Journey?</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010996234-total-war-warhammer-ii-crashes-top-5-solutions-to-try-now/"><u>Total War: Warhammer II Crashes – Top 5 Solutions to Try Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-far-cry-6-not-launching-issue-for-pc-gamers/"><u>Troubleshoot and Resolve Far Cry 6 Not Launching Issue for PC Gamers</u></a></li>
 </ul></div>
 

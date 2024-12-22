@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2024-12-18T01:35:24.920Z
-updated: 2024-12-19T20:06:32.228Z
+date: 2024-12-18T20:22:12.959Z
+updated: 2024-12-21T23:36:02.012Z
 tags:
   - win11
   - win10
@@ -57,7 +57,7 @@ Passive Adapter (DP to HDMI)
  If you’re confident about your cable and adapter, simply move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
@@ -70,12 +70,12 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/personalize-01.jpg)
 2. From the left menu, select**Colors** . Under the**Choose your accent color** section, make sure you’ve**unchecked** the box next to**Automatically pick an accent color** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method doesn’t help your case, you can take a look at the next one.
 
@@ -99,15 +99,11 @@ Passive Adapter (DP to HDMI)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -130,7 +126,7 @@ If you don’t know how, simply follow these steps:
  If this trick doesn’t give you luck, take a look at the next one below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Update Chrome
@@ -142,11 +138,15 @@ If you don’t know how, simply follow these steps:
 2. In the resulting drop-down menu, select **Help** \> **About Google Chrome** . Opening this page will initiate the update process.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’re already using the latest version of Chrome, please continue to the next fix.
 
@@ -172,10 +172,6 @@ If this fix doesn’t work for you, go ahead and try the last one.
 
  According to some users, the flickering issue appears to only happen on some certain builds. If you’ve tried all the methods above and none works, you might want to try**downgrading your Chrome version** . To do this, simply go to the[Slimjet download page](https://www.slimjet.com/chrome/google-chrome-old-version.php) and select the previous version of your choice. Once you’ve installed an old version of Chrome, don’t forget to turn off auto-update.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 10: Modify your Registry
 
  Some users reported that the flickering might be caused by dwm.exe (Desktop Window Manager) and is fixed in Windows 11\. And there’s also a Windows 10 workaround. To check if this applies to your case, you can modify your registry and see if this works for you.
@@ -184,27 +180,23 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-2.jpg)
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the issue lingers on, you can try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 11: Check for system issues
 
@@ -215,7 +207,15 @@ If the issue lingers on, you can try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -240,19 +240,20 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/like-a-dragon-yakuza-series-transforms-to-hit-pixel-platforms-in-an-unmatched-way/"><u>'Like a Dragon': Yakuza Series Transforms to Hit Pixel Platforms in an Unmatched Way</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-benq-bl2711u-elevating-professional-monitors-to-new-heights-in-4k-realms-for-2024/"><u>[New] BenQ BL2711U Elevating Professional Monitors to New Heights in 4K Realms for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-ignite-interest-captivate-views-elevate-likes-on-your-unboxings/"><u>[New] Ignite Interest, Captivate Views Elevate Likes on Your Unboxings</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-in-2024-quickening-realities-with-hyperlapse-methods/"><u>[New] In 2024, Quickening Realities with Hyperlapse Methods</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-unlocking-visual-potential-a-step-by-step-guide-to-video-enhancer-22/"><u>[Updated] 2024 Approved Unlocking Visual Potential A Step-by-Step Guide to Video Enhancer 2.2</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-capturing-horizon-views-for-successful-drone-livestreams/"><u>[Updated] In 2024, Capturing Horizon Views for Successful Drone Livestreams</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-vanguard-error-code-5573-comprehensive-debugging-guide/"><u>Call of Duty Vanguard Error Code 5573: Comprehensive Debugging Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-launch-failures-in-cs-go-a-comprehensive-fix-guide/"><u>Expert Tips to Overcome Launch Failures in CS: GO – A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-nubia-red-magic-9-pro-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Nubia Red Magic 9 Pro to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/jumpstart-your-photo-editing-skills-with-these-must-have-pixlr-tips/"><u>Jumpstart Your Photo-Editing Skills with These Must-Have Pixlr Tips</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-origin-issues-now-fixed-regain-access/"><u>Resolved: Origin Issues Now Fixed - Regain Access</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/solving-power-on-without-monitor-display-in-computers-expert-advice/"><u>Solving Power On Without Monitor Display in Computers: Expert Advice</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-temperature-trouble-in-call-of-duty-black-ops-cold-war-without-spending-a-penny/"><u>Solving the Temperature Trouble in Call of Duty: Black Ops Cold War Without Spending a Penny</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/streamlined-processes-for-exporting-video-assets-as-mp3-on-pinterest-for-2024/"><u>Streamlined Processes for Exporting Video Assets as MP3 on Pinterest for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-making-sounds-count-windows-10-audio-guide/"><u>[New] Making Sounds Count Windows 10 Audio Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-leading-video-ranking-tools-for-youtube-success-for-2024/"><u>[Updated] Discover Leading Video Ranking Tools for YouTube Success for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/addressing-saturated-chatgpt-windows-error/"><u>Addressing Saturated ChatGPT Windows Error</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/breathing-life-into-degraded-m4v-videos-steps-included/"><u>Breathing Life Into Degraded M4V Videos: Steps Included</u></a></li>
+<li><a href="https://win-able.techidaily.com/compliance/"><u>Compliance</u></a></li>
+<li><a href="https://win-dash.techidaily.com/discover-the-key-features-of-sony-xperia-z-ultra-a-rapid-insight-into-its-best-qualities/"><u>Discover the Key Features of Sony Xperia Z Ultra: A Rapid Insight Into Its Best Qualities</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-asrock-ab350-pro4-drivers-at-no-cost-compatible-with-windows-systems/"><u>Download ASRock AB350 Pro4 Drivers at No Cost – Compatible with Windows Systems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-huawei-p20-pro-superior-camera-and-solid-smartphone-functions-combined/"><u>Expert Review of the Huawei P20 Pro: Superior Camera and Solid Smartphone Functions Combined</u></a></li>
+<li><a href="https://win-able.techidaily.com/hearthstone-troubleshooting-guide-solving-game-crashes-on-windowsmac-pcs/"><u>Hearthstone Troubleshooting Guide - Solving Game Crashes on Windows/Mac PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-issues-with-launching-tiny-tinas-fantastic-journey-on-windows/"><u>How to Fix Issues with Launching Tiny Tina's Fantastic Journey on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-your-ubisoft-connect-experience-strategies-to-speed-up-downloads/"><u>Improving Your Ubisoft Connect Experience: Strategies to Speed Up Downloads</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ushering-bliss-in-unboxing-7-strategies/"><u>In 2024, Ushering Bliss in Unboxing 7 Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-steps-to-regain-access-after-losing-connection-to-the-destiny-2-servers-what-works/"><u>Resolved: Steps to Regain Access After Losing Connection to the Destiny 2 Servers - What Works?</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-rainbow-six-siege-pc-black-screen-issue-a-comprehensive-guide/"><u>Solving the Rainbow Six Siege PC Black Screen Issue: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-techniques-to-eliminate-dota-2-lag-expert-advice-from-2024/"><u>Ultimate Troubleshooting Techniques to Eliminate Dota 2 Lag - Expert Advice From 2024</u></a></li>
 </ul></div>
 

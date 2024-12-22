@@ -1,7 +1,7 @@
 ---
 title: "Stop the Game From Quitting: Resolve Your Issues with Assassin's Creed Valhalla"
-date: 2024-12-15T08:36:10.787Z
-updated: 2024-12-19T19:54:14.719Z
+date: 2024-12-15T01:20:49.572Z
+updated: 2024-12-21T19:50:41.540Z
 tags:
   - win11
   - win10
@@ -63,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -78,13 +74,13 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -95,6 +91,10 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -134,7 +134,7 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -142,6 +142,10 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -154,10 +158,14 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Disable peripherals
@@ -166,17 +174,9 @@ If the crash happens again, you can take a look at the next fix.
 
  If disabling peripherals doesn’t work for you, or you’re not using any at the first place, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Check the launcher log
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
@@ -201,19 +201,24 @@ If the crash happens again, you can take a look at the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-capture-unrooted-sounds-in-android-4-methods-for-2024/"><u>[New] Capture Unrooted Sounds in Android [4 Methods] for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-rhythmic-reels-how-to-pick-beats-for-ig-content/"><u>[New] Rhythmic Reels How to Pick Beats for IG Content</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/he-power-of-persuasion-hire-success-stories-1-10/"><u>[New] The Power of Persuasion Hire Success Stories #1-10</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-mobile-streamers-guide-post-photos-and-videos-not-twits-for-2024/"><u>[Updated] Mobile Streamers' Guide Post Photos & Videos, Not Twits for 2024</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-vidoetwitter-fetcher-gather-twitter-videos-effortlessly-for-2024/"><u>[Updated] VidoeTwitter Fetcher Gather Twitter Videos Effortlessly for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fcp-download-hack-get-it-for-free/"><u>2024 Approved FCP Download Hack Get It for Free?</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-samsung-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Samsung</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-best-out-of-your-lenovo-legion-5-pro-i7-10870h-driver-update-guide/"><u>Get the Best Out of Your Lenovo Legion 5 Pro (I7-10870H): Driver Update Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/improved-performance-solutions-for-unstable-starfield-game-sounds-and-effects/"><u>Improved Performance: Solutions for Unstable Starfield Game Sounds and Effects</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/mi-11-tech-specs-unveiled-with-advanced-screen-capture-for-2024/"><u>Mi 11 Tech Specs Unveiled with Advanced Screen Capture for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-for-players-experiencing-wowpc-startup-difficulties-on-windows-pc/"><u>Solution Steps for Players Experiencing WoWPC Startup Difficulties on Windows PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-a-nonfunctional-vrchat-experience/"><u>Step-by-Step Solutions for a Nonfunctional VRChat Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-battlefield-5-from-freezing-fixes-that-work/"><u>Stop Battlefield 5 From Freezing: Fixes That Work</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-minecraft-drivers-effectively-overcome-the-common-issue/"><u>Update Minecraft Drivers Effectively – Overcome the Common Issue</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-document-the-drive-on-your-galaxy-screen-for-2024/"><u>[New] Document the Drive on Your Galaxy Screen for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-how-to-disable-igtv-feature/"><u>[New] How to Disable IGTV Feature</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/our-gateway-to-greatness-making-your-mark-with-mac-made-vids-for-2024/"><u>[New] Your Gateway to Greatness Making Your Mark with Mac-Made Vids for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/delayed-drops-not-just-a-setback/"><u>Delayed Drops - Not Just a Setback?</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-nba-2k24s-error-code-727e66ac-a-comprehensive-guide/"><u>Fixing NBA 2K24's Error Code 727E66AC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-non-responsive-pacific-drive-devices/"><u>Guide to Fixing Non-Responsive Pacific Drive Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-assassins-creed-odyssey-stuttering-issue-a-step-by-step-guide-for-pc-users/"><u>How to Fix Assassin's Creed Odyssey Stuttering Issue : A Step-by-Step Guide for PC Users</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-14-pro-max-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 14 Pro Max without Security Questions?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-nokia-c12-plus-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Nokia C12 Plus Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Samsung Galaxy XCover 7?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-oppo-a58-4g-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Oppo A58 4G For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-multiplayer-how-to-resolve-error-code-84-in-fortnite-and-reconnect-with-your-squad/"><u>Mastering Multiplayer: How to Resolve Error Code 84 in Fortnite & Reconnect with Your Squad</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-compatibility-issues-successfully-playing-modern-warfare/"><u>Overcoming PC Compatibility Issues: Successfully Playing Modern Warfare</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/sculpting-soundscapes-advanced-techniques-for-flawless-transition-sequences-audacity-for-2024/"><u>Sculpting Soundscapes Advanced Techniques for Flawless Transition Sequences (Audacity) for 2024</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/seamlessly-switch-platforms-shifting-data-between-android-and-iphone-without-a-wireless-connection/"><u>Seamlessly Switch Platforms: Shifting Data Between Android and iPhone without a Wireless Connection</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-your-call-of-duty-warzone-match-finding-problem-on-pc/"><u>Troubleshoot Your Call of Duty Warzone Match-Finding Problem on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-hitman-3-solutions-for-overcoming-the-elusive-connection-issue/"><u>Troubleshooting Hitman 3 - Solutions for Overcoming the Elusive Connection Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-smoother-gameplay-advanced-methods-to-boost-fps-in-tainted-grail-conquest/"><u>Unlocking Smoother Gameplay: Advanced Methods to Boost FPS in Tainted Grail: Conquest</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlocking-the-secrets-a-step-by-step-guide-to-getting-doom-eternal-running-smoothly/"><u>Unlocking the Secrets: A Step-by-Step Guide to Getting DOOM Eternal Running Smoothly</u></a></li>
 </ul></div>
 

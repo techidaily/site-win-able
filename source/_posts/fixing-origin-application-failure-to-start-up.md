@@ -1,7 +1,7 @@
 ---
 title: Fixing Origin Application Failure to Start Up
-date: 2024-12-14T19:08:08.020Z
-updated: 2024-12-19T18:28:51.626Z
+date: 2024-12-15T17:38:37.023Z
+updated: 2024-12-21T20:30:41.212Z
 tags:
   - win11
   - win10
@@ -30,15 +30,15 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -52,10 +52,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -74,15 +70,15 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
 
 7. Check the issue is persist or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -96,14 +92,14 @@ Restart your computer for the changes to take effect.
 3. Click **Display adapter properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
@@ -119,6 +115,10 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Restart your computer and check to see if the problem still persists.
 
@@ -141,22 +141,22 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-call-capturing-on-devices/"><u>[New] 2024 Approved The Ultimate Guide to Video Call Capturing on Devices</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-personal-snap-chronicles-how-to-create-your-120plus-distinctive-story-titles/"><u>[New] In 2024, Personal Snap Chronicles How to Create Your 120+ Distinctive Story Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-soundcheck-evaluation/"><u>[New] SoundCheck Evaluation</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-whatsapp-status-now-with-symphony-for-2024/"><u>[Updated] WhatsApp Status, Now with Symphony for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-integrated-marketing-campaigns-for-brand-and-video-platforms/"><u>2024 Approved Integrated Marketing Campaigns for Brand and Video Platforms</u></a></li>
-<li><a href="https://games-able.techidaily.com/best-5-gamers-buys-old-school-handheld-delights/"><u>Best 5 Gamers' Buys: Old-School Handheld Delights</u></a></li>
-<li><a href="https://win-able.techidaily.com/busting-the-launch-blockers-ensuring-a-smooth-run-for-robocop-rogue-city-in-windows-environment/"><u>Busting the Launch Blockers: Ensuring a Smooth Run for 'RoboCop: Rogue City' In Windows Environment</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquering-new-world-lag-expert-tips-for-seamless-gameplay-and-stable-connections/"><u>Conquering 'New World' Lag: Expert Tips for Seamless Gameplay and Stable Connections</u></a></li>
-<li><a href="https://win-able.techidaily.com/doom-eternal-game-crashes-diagnosis-and-repair-strategies-for-smooth-gaming-experience/"><u>DOOM Eternal Game Crashes - Diagnosis and Repair Strategies for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009648652-elden-ring-starts-with-a-black-screen-solutions-unveiled/"><u>Elden Ring Starts with a Black Screen: Solutions Unveiled!</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/fixing-your-logitech-g-pro-x-mic-issues-a-comprehensive-guide/"><u>Fixing Your Logitech G Pro X Mic Issues: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/minecraft-launcher-upgrade-problems-solved-a-comprehensive-fix-for-outdated-versions/"><u>Minecraft Launcher Upgrade Problems Solved: A Comprehensive Fix for Outdated Versions</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/overcoming-night-light-glitches-effective-fixes-for-windows-11-users/"><u>Overcoming Night Light Glitches: Effective Fixes for Windows 11 Users</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-ultimate-hitchhikers-guide-to-early-starfield/"><u>The Ultimate Hitchhiker's Guide to Early Starfield</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-common-issues-in-naraka-bladepoint-overcoming-stutter-and-low-fps/"><u>Troubleshooting Common Issues in Naraka: Bladepoint – Overcoming Stutter and Low FPS</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-fixes-why-sovled-warno-app-continuously-fails-on-desktop/"><u>Troubleshooting Fixes: Why SOVLED Warno App Continuously Fails on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-civilization-vi-crashes-on-windows-11/"><u>Troubleshooting: How to Fix Civilization VI Crashes on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/improved-overcoming-frequent-r-type-final-2-game-crashes-on-personal-computers-a-detailed-guide/"><u>[IMPROVED] Overcoming Frequent R-Type Final #2 Game Crashes on Personal Computers - A Detailed Guide</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-combatting-iphones-difficulty-in-autofocusing/"><u>[New] In 2024, Combatting iPhone's Difficulty in Autofocusing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-the-craft-of-digital-cinematography-with-ipad-for-2024/"><u>[New] Mastering the Craft of Digital Cinematography with iPad for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/he-essential-guide-to-early-success-on-youtube-steer-clear-of-these-top-8-pitfalls-in-2024/"><u>[New] The Essential Guide to Early Success on YouTube Steer Clear of These Top 8 Pitfalls, In 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-fostering-flourishing-visuals-with-after-effects-fonts-for-2024/"><u>[Updated] Fostering Flourishing Visuals with After Effects Fonts for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-how-to-create-impactful-valorant-thumbnails-a-compreayers-guide-for-2024/"><u>[Updated] How to Create Impactful Valorant Thumbnails A Compreayer's Guide for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-secure-approach-verifying-your-youtube-login-details/"><u>2024 Approved Secure Approach Verifying Your YouTube Login Details</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/a-step-by-step-guide-to-overcoming-cannot-find-gpeditmsc/"><u>A Step-by-Step Guide to Overcoming Cannot Find Gpedit.msc</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/beginners-blueprint-for-ipad-time-lapse-videos-for-2024/"><u>Beginner's Blueprint for iPad Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-resolving-warno-issues-on-your-windows-pc/"><u>Fixing Persistent Errors: Resolving WARNO Issues on Your Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-cyberpunk-2077-game-installation-problems-on-steam/"><u>Fixing Your Cyberpunk 2077 Game Installation Problems on Steam</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fps-gaming-solving-valorants-pc-input-delay-problem-insights-and-solutions/"><u>Mastering FPS Gaming: Solving Valorant's PC Input Delay Problem - Insights & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-kodi-connection-problems-finding-your-media-content-easily/"><u>Overcoming Kodi Connection Problems - Finding Your Media Content Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/pacific-crash-update-fixed-in-call-of-duty-warzone/"><u>Pacific Crash Update Fixed in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/remedying-freezing-and-latency-problems-for-smoother-gameplay-in-pubg-on-pc/"><u>Remedying Freezing & Latency Problems for Smoother Gameplay in PUBG on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-when-the-witcher-s-3-game-doesnt-start/"><u>Solving the Issue When The Witcher S 3 Game Doesn't Start</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unity-unveils-exclusive-alpha-testing-for-innovative-apple-vision-pro-embrace-augmented-and-virtual-reality-gaming-adventure-with-open-arms/"><u>Unity Unveils Exclusive Alpha Testing for Innovative Apple Vision Pro: Embrace Augmented & Virtual Reality Gaming Adventure with Open Arms!</u></a></li>
 </ul></div>
 

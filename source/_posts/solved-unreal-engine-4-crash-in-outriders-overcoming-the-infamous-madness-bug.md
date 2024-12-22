@@ -1,7 +1,7 @@
 ---
 title: Solved! Unreal Engine 4 Crash in Outriders – Overcoming the Infamous Madness Bug
-date: 2024-08-23T11:21:31.407Z
-updated: 2024-08-24T11:21:31.407Z
+date: 2024-12-15T00:43:47.207Z
+updated: 2024-12-21T23:01:44.349Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -27,6 +31,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -55,9 +63,9 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
  If your rig is powerful enough for the game, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -68,14 +76,8 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
 If this method doesn’t help, you can take a look at the next one.
@@ -103,9 +105,11 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -116,8 +120,9 @@ If this method doesn’t help, you can take a look at the next one.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -129,9 +134,6 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -146,8 +148,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +155,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-monetizing-carryminati-journey-to-2023-income/"><u>[New] In 2024, Monetizing CarryMinati Journey to 2023 Income</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-dissecting-ustream-with-comparative-views/"><u>[Updated] 2024 Approved Dissecting Ustream with Comparative Views</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-quintessential-guide-to-music-and-voiceovers-in-reels/"><u>[Updated] The Quintessential Guide to Music & Voiceovers in Reels</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-retro-playback-inverting-your-youtube-content/"><u>2024 Approved Retro Playback Inverting Your YouTube Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-vi-wont-start-on-windows-10-fixes-and-solutions/"><u>Civilization VI Wont Start on Windows 10 – Fixes & Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/clear-your-photoshop-cache-solutions-for-scratch-disk-full-alerts/"><u>Clear Your Photoshop Cache: Solutions for 'Scratch Disk Full' Alerts</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ng-potential-unveiled-youtube-adsense-earning-per-thousand-video-observations/"><u>Earning Potential Unveiled YouTube AdSense Earning per Thousand Video Observations</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-2-and-msvcr110dll-troubleshooting-a-dll-file-not-found-issue/"><u>Helldivers 2 and MSVCR110.dll - Troubleshooting a DLL File Not Found Issue</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-best-film-clips-for-aspiring-video-editors/"><u>In 2024, Best Film Clips for Aspiring Video Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/lego-star-wars-the-skywalker-saga-troubleshooting-pc-instability-before-launch/"><u>Lego Star Wars The Skywalker Saga - Troubleshooting PC Instability Before Launch</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-persistent-ghost-recon-breakpoint-crashes/"><u>Quick Solutions for Persistent Ghost Recon Breakpoint Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-endless-launches-solutions-for-a-constant-loading-fiasco-in-minecraft/"><u>Resolving Endless Launches: Solutions for a Constant 'Loading' Fiasco in Minecraft</u></a></li>
+<li><a href="https://win-able.techidaily.com/stabilizing-your-gameplay-overcoming-pc-collapses-in-formula-one-2021/"><u>Stabilizing Your Gameplay: Overcoming PC Collapses in Formula One 2021</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-ultimate-playbook-capturing-ps3-game-highlights/"><u>The Ultimate Playbook Capturing PS3 Game Highlights</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tips-for-eliminating-latency-and-lag-in-rainbow-six-siege/"><u>Top Tips for Eliminating Latency and Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-full-potential-of-seo-powered-by-advanced-cookiebot-techniques/"><u>Unlock the Full Potential of SEO: Powered by Advanced Cookiebot Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-technical-glitches-how-to-correctly-diagnose-and-repair-your-desktops-thaumaturge-problem/"><u>Untangling Technical Glitches: How to Correctly Diagnose and Repair Your Desktop's Thaumaturge Problem</u></a></li>
+</ul></div>
 

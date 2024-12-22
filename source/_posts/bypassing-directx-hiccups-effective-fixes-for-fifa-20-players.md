@@ -1,7 +1,7 @@
 ---
 title: "Bypassing DirectX Hiccups: Effective Fixes for FIFA 20 Players"
-date: 2024-12-17T04:53:11.454Z
-updated: 2024-12-20T07:41:30.196Z
+date: 2024-12-20T17:42:35.619Z
+updated: 2024-12-22T00:19:51.971Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  We’ve prepared fixes for both PC and Xbox players. You might not need to try them all. Simply work your way down until you land on the one that does the trick.
@@ -35,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/0a7e98a47c507ce4d17e40879eab668bc44ad83b0
 5. [**Turn off VSync**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable extra peripherals at launch (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-mass-effect-legendary-edition-crashing-pc-xbox/#fix6)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Verify integrity of game files
 
  First you need to verify the integrity of your game files. In some cases, your game will keep crashing when certain game files are corrupted or missing. This could happen due to network fluctuation.
@@ -49,12 +49,12 @@ You can use these steps to scan and repair your game:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If this doesn’t help, check out the next fix below.
 
@@ -68,10 +68,6 @@ If this doesn’t help, check out the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -90,7 +86,7 @@ If this doesn’t help, check out the next fix below.
  If you’re not running any monitors nor overclocking, simply check out the next tips below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable all overlays
@@ -100,6 +96,10 @@ If this doesn’t help, check out the next fix below.
 Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -112,7 +112,7 @@ Here’s how to disable VSync with NVIDIA graphics card:
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
@@ -150,21 +150,19 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-instagram-for-podcast-promotion/"><u>[New] In 2024, Navigating Instagram for Podcast Promotion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-photoshop-insider-tips-for-novice-editors/"><u>[New] Photoshop Insider Tips for Novice Editors</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-youtube-shorts-solutions-to-frequent-problems/"><u>[Updated] In 2024, YouTube Shorts Solutions to Frequent Problems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-infinix-hot-30i-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Infinix Hot 30i</u></a></li>
-<li><a href="https://win-able.techidaily.com/avoid-frustration-solve-persistent-garrys-mod-crashing/"><u>Avoid Frustration - Solve Persistent Garry's Mod Crashing !</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/expert-tips-for-getting-apple-tv-running-on-your-firestick-device/"><u>Expert Tips for Getting Apple TV Running on Your Firestick Device</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Google Pixel Fold? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-oxygen-a-real-time-space-colony-simulator-stability-problems/"><u>Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-art-of-visual-storytelling-made-simple-with-windows-10s-tools/"><u>The Art of Visual Storytelling Made Simple with Windows 10'S Tools</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-making-steam-acknowledge-your-controller-on-a-pc/"><u>Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/unauthorized-capture-techniques-for-webex-meetings-on-multiple-devices/"><u>Unauthorized Capture Techniques for Webex Meetings on Multiple Devices</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-in-2024-exploring-key-components-and-creation-process-of-ai-face-generators/"><u>Updated In 2024, Exploring Key Components and Creation Process of AI Face Generators</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-doesnt-my-gpu-run-cyberpunk-2077-solutions-for-windows-10-users/"><u>Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/days-gone-play-the-epic-open-world-ps4-game-exclusively-on-pc/"><u>'Days Gone': Play the Epic Open World PS4 Game Exclusively on PC</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unlocking-fast-track-on-friend-finding-in-facebook-land/"><u>[New] 2024 Approved Unlocking Fast Track on Friend-Finding in Facebook Land</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-genuine-appraisal-of-recordcast-features/"><u>[New] The Genuine Appraisal of RecordCast Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/usbtv/"><u>「家電製品間でのデジタルコンテンツ共有：USBからTVへの動画再生障害を克服する方法」</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-apples-visionos-update-a-closer-look-at-persona-improvements-and-new-innovations-on-your-devices-zdnet/"><u>Exploring Apple's VisionOS Update: A Closer Look at Persona Improvements & New Innovations on Your Devices | ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-computers-bug-with-gray-zone-warfare-crash-fixes-on-pc/"><u>Fixing Your Computer's Bug with Gray Zone Warfare Crash Fixes on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-suddenly-closes-discover-top-strategies-for-fixes-in-2e4/"><u>Garry's Mod Suddenly Closes? Discover Top Strategies for Fixes in 2E4</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Xiaomi Redmi Note 12T Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007791355-is-your-xbox-live-experience-interrupted-today-heres-the-latest-status-report/"><u>Is Your Xbox Live Experience Interrupted Today? Here's the Latest Status Report</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-mpow-bluetooth-driver-updates-for-windows-11-8-and-7-free-download/"><u>Latest MPOW Bluetooth Driver Updates for Windows 11, 8 & 7 - Free Download</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-in-making-sense-top-6-persuasive-video-types-for-2024/"><u>Mastery in Making Sense Top 6 Persuasive Video Types for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-preventing-unexpected-shutdowns-in-genshin-impact-for-pc-users/"><u>Troubleshooting Tips: Preventing Unexpected Shutdowns in Genshin Impact for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723000754751-ultimate-fixes-to-stop-cyberpunk-2077-from-freezing-lag-and-stutter-no-more/"><u>Ultimate Fixes to Stop Cyberpunk #2077 From Freezing: Lag & Stutter No More!</u></a></li>
 </ul></div>
 

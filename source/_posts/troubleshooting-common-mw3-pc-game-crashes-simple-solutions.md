@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Common MW3 PC Game Crashes: Simple Solutions"
-date: 2024-12-15T23:57:09.792Z
-updated: 2024-12-19T18:10:13.269Z
+date: 2024-12-21T01:04:07.620Z
+updated: 2024-12-21T21:59:30.034Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -34,10 +38,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 1: Update your graphics driver
 
@@ -58,13 +58,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -78,10 +78,6 @@ The outdated or broken graphics driver often crashes the game.
 
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -93,7 +89,7 @@ The outdated or broken graphics driver often crashes the game.
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Disable Steam Overlay
@@ -108,6 +104,10 @@ The outdated or broken graphics driver often crashes the game.
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -118,7 +118,7 @@ The outdated or broken graphics driver often crashes the game.
 3. Copy and paste the commands below and click **OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 `-useallavailablecores -high`
@@ -155,19 +155,22 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-streamline-your-sound-key-audio-interfaces-for-podcasters/"><u>[New] Streamline Your Sound Key Audio Interfaces for Podcasters</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-5-pro-photoshop-tricks-that-newbies-must-know/"><u>[Updated] In 2024, 5 Pro Photoshop Tricks That Newbies Must Know</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-uncovering-snapchats-hidden-symbolism/"><u>[Updated] In 2024, Uncovering Snapchat's Hidden Symbolism</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-unveil-prodigious-profits-with-our-12-top-tycoon-gaming-selection/"><u>[Updated] Unveil Prodigious Profits with Our #12 Top Tycoon Gaming Selection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-prime-picks-experts-choice-of-4k-dslr-rigs/"><u>2024 Approved Prime Picks Expert's Choice of 4K DSLR Rigs</u></a></li>
-<li><a href="https://win-answers.techidaily.com/bypass-steam-login-errors-for-good-a-step-by-step-guide/"><u>Bypass Steam Login Errors for Good - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-fifa-22-crashes-solutions-for-your-gaming-computer/"><u>Dealing with FIFA 22 Crashes - Solutions for Your Gaming Computer</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/fixing-photo-booth-lags-for-smoother-playbacks-for-2024/"><u>Fixing Photo Booth Lags for Smoother Playbacks for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-pc-playback-problems-with-back-n-blood-troubleshooting-tips/"><u>Overcoming PC Playback Problems with 'Back N Blood': Troubleshooting Tips</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/printer-networked-windows-7-success/"><u>Printer Networked: Windows 7 Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-persistent-minecraft-pc-stutters-proven-techniques-for-2eet4/"><u>Resolve Persistent Minecraft PC Stutters - Proven Techniques for 2Eet4!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-with-starting-nier-automata-remake-edition/"><u>Resolved: Issues with Starting NieR Automata Remake Edition</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-non-downloading-steam-software-updates-efficiently/"><u>Troubleshooting Non-Downloading Steam Software Updates Efficiently</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstoppable-tf2-gaming-no-more-crashes-expert-hacks-revealed/"><u>Unstoppable TF2 Gaming: No More Crashes - Expert Hacks Revealed</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-conquering-instagrams-video-challenges-head-on/"><u>[New] In 2024, Conquering Instagram's Video Challenges Head-On</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-affordable-video-editing-solutions-mac-os-on-tiktok/"><u>[Updated] 2024 Approved Affordable Video Editing Solutions (Mac OS) on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-turn-off-suggested-posts-on-instagram/"><u>[Updated] How to Turn Off Suggested Posts on Instagram?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-snap-worthy-success-logging-galaxy-gaming-stories-for-2024/"><u>[Updated] Snap-Worthy Success Logging Galaxy Gaming Stories for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-peak-business-sky-storage-for-firms/"><u>2024 Approved Peak Business Sky-Storage for Firms</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982461729-back-4-blood-performance-boosted-say-no-more-pc-freezes-and-errors/"><u>Back 4 Blood Performance Boosted - Say No More PC Freezes and Errors!</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypass-the-breakdown-expert-tips-for-running-slime-rancher-2-smoothly-on-desktop/"><u>Bypass the Breakdown: Expert Tips for Running Slime Rancher 2 Smoothly on Desktop</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-steps-for-correcting-the-player-login-glitch-in-csgo-gameplay/"><u>Essential Steps for Correcting the Player Login Glitch in CSGO Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-multiversus-crashes-discover-the-8-most-effective-solutions/"><u>Expert Tips for Fixing MultiVersus Crashes - Discover the 8 Most Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-play-getting-world-of-warcraft-to-boot-on-your-desktop-pc-successfully/"><u>Fix and Play: Getting 'World of Warcraft' To Boot on Your Desktop PC Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crashes-in-your-nvidia-control-panel-for-smooth-graphics-performance/"><u>Fixing Crashes in Your NVIDIA Control Panel for Smooth Graphics Performance</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-lava-blaze-curve-5g-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Lava Blaze Curve 5G FRP Locks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-avchd-mts-files-on-xiaomi-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to play AVCHD MTS files on Xiaomi ?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-pushing-boundaries-with-dells-revolutionary-p2715q-monitor-review/"><u>In 2024, Pushing Boundaries with Dell's Revolutionary P2715Q Monitor Review</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/skyrim-on-nintendo-switch-a-detailed-critique-of-bethesdas-epic-rpg-adventure/"><u>Skyrim on Nintendo Switch: A Detailed Critique of Bethesda's Epic RPG Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/star-wars-squadrons-troubleshooting-step-by-step-solution-for-game-stability/"><u>Star Wars Squadrons Troubleshooting: Step-by-Step Solution for Game Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-the-ghost-runner-critical-failure-during-windows-11-gaming-sessions/"><u>Troubleshoot the 'Ghost Runner' Critical Failure During Windows 11 Gaming Sessions</u></a></li>
 </ul></div>
 

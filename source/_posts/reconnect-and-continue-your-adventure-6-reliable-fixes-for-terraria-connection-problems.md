@@ -1,7 +1,7 @@
 ---
 title: "Reconnect and Continue Your Adventure: 6 Reliable Fixes for Terraria Connection Problems"
-date: 2024-08-23T11:15:32.345Z
-updated: 2024-08-24T11:15:32.345Z
+date: 2024-12-15T16:48:26.519Z
+updated: 2024-12-21T18:36:38.651Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
 5. **[Join friends using the](https://tools.techidaily.com/drivereasy/download/)** [Epic Games list](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check the status of Epic Games server
 
  Sometimes you run into error codes because the servers are down. This can be a temporary situation so you can check the status of servers before you try any of these workarounds below.
@@ -40,9 +44,9 @@ Many Fortnite players are reporting that they get the error code 84, therefore t
  The downtime always begins a few days before a major update. If the services for**Parties, Friends and Messaging** are under maintenance, you can just wait for the new release, or follow their[Twitter account](https://twitter.com/FortniteStatus) to get the live status of Fortnite.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Submit a support ticket
 
  You may find this error code 84 annoying and want to join your friends as quickly as possible in Fortnite. If that’s your case, the quickest solution is to submit a support ticket to Epic Games.
@@ -56,9 +60,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  They may help you delete the client settings file and you can join a party again. If it’s too long for the customer service to respond, you can try these workarounds below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3\. Change the skin
 
  Though it seems absurd to you, changing the skin has indeed fixed the error code 84 for some players when they can’t join their friends’ party.
@@ -70,9 +71,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  You can join a game and wait until you are in the lobby. Accept the invite to join the party and test if the error code 84 persists.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Change the lobby to Public
 
  Another workaround you can try is to set your lobby to Public and then you can join without an invite.
@@ -82,13 +80,15 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/Screen-Shot-2021-04-13-at-4.59.16-PM-1200x521.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 You can always kick unwanted guests from your lobby.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5\. Join friends using the Epic Games list
 
  If the invite system is down, you can bypass it by adding them to your friends’ list. This will help you get around this issue.
@@ -96,8 +96,9 @@ You can always kick unwanted guests from your lobby.
  But if the host of the lobby you’re trying to join is already on your friends’ list, you can skip this fix.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6\. Reinstall the game
 
  No matter where you play the game, reinstalling the game always does the trick for a few players. Consoles and mobile devices are closed systems, meaning there aren’t many troubleshooting options to fix issues you’re having. The most common fix is to reinstall Fortnite.
@@ -116,8 +117,6 @@ You can always kick unwanted guests from your lobby.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +124,20 @@ You can always kick unwanted guests from your lobby.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-youth-voices-channeling-lifes-milestinasubscriber-channel-for-impactful-personal-storytelling/"><u>[New] In 2024, Youth Voices Channeling Life's Milestinasubscriber Channel for Impactful Personal Storytelling.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-canva-expertise-10-sneak-peek-tips-for-photo-editors/"><u>[Updated] Canva Expertise 10 Sneak Peek Tips for Photo Editors</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-unlocking-speed-edit-photos-in-windows-11/"><u>[Updated] In 2024, Unlocking Speed Edit Photos in Windows 11</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-secrets-to-stunning-nightscape-shots-for-2024/"><u>[Updated] Secrets to Stunning Nightscape Shots for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/amplify-your-minecraft-experience-five-simple-techniques-for-2024/"><u>Amplify Your Minecraft Experience Five Simple Techniques for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlock-your-honor-magic5-ultimates-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Honor Magic5 Ultimates Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-beyond-premiere-top-10-video-editing-software-alternatives-for-beginners-and-pros/"><u>New Beyond Premiere Top 10 Video Editing Software Alternatives for Beginners and Pros</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-in-persona-4-golden-a-solution-guide/"><u>Overcoming Performance Hiccups in Persona 4 Golden: A Solution Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028111-9781591433040-reign-of-the-anunnaki/"><u>Reign of the Anunnaki | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-playing-tiny-tinas-wonderlands-on-your-pc-a-troubleshooting-guide/"><u>Successfully Installing and Playing Tiny Tina's Wonderlands on Your PC: A Troubleshooting Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1566457-9781782792321-the-end-of-death/"><u>The End of Death | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-microsoft-flight-simulator-2020-fixes-for-persistent-pc-crashes/"><u>Troubleshooting Microsoft Flight Simulator 2020: Fixes for Persistent PC Crashes</u></a></li>
+</ul></div>
 

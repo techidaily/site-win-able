@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance"
-date: 2024-12-15T08:05:19.942Z
-updated: 2024-12-20T05:39:44.012Z
+date: 2024-12-19T23:13:41.936Z
+updated: 2024-12-21T22:00:27.995Z
 tags:
   - win11
   - win10
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/ebb571a11006b3db096e6619ba143df435922f1ac
 8. **[Enable HAGS (GeForce 10 series or later/Radeon 5600 or 5700 series)](https://www.drivereasy.com/knowledge/solved-horizon-zero-dawn-crashing-on-pc/#fix8)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -102,10 +102,6 @@ Once done, launch Horizon Zero Dawn and check if it crashes again.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Horizon Zero Dawn crashes again.
@@ -123,7 +119,7 @@ And here’s a quick guide to disable Steam overlay:
 2. From the left menu, select**In-Game** . Under the**Steam Overlay** section, uncheck these boxes. Then click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
@@ -133,7 +129,7 @@ Now you can start Horizon Zero Dawn and see if it crashes again.
  If this method doesn’t give you luck, simply check out the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
@@ -146,15 +142,15 @@ So here’s how to check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  If this trick doesn’t work for you, simply move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Change in-game display mode
 
@@ -166,12 +162,12 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-1.jpg)
 2. Navigate to the**DISPLAY** tab and set**Display mode** to**Borderless** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hzd-display-mode-2.jpg)
 3. Restart your game and test the gameplay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this solution doesn’t help, you can continue to the next one below.
 
@@ -185,21 +181,29 @@ You can use this guide to increase your virtual memory:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** . Then select **Customize size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Reboot your PC and check if Horizon Zero Dawn crashes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the crash reoccurs, you can take a look at the next fix.
 
@@ -221,15 +225,11 @@ And here’s how to enable HAGS:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC and launch**Horizon Zero Dawn** .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -251,18 +251,16 @@ And here’s how to enable HAGS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-converting-your-cinematics-from-standard-definition-to-dynamic-range-dynamism/"><u>[New] Converting Your Cinematics From Standard Definition to Dynamic Range Dynamism</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-how-to-live-stream-360-videos-on-facebook-for-2024/"><u>[New] How to Live Stream 360 Videos on Facebook for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-recording-movies-best-practices-with-windows-11/"><u>[New] Recording Movies Best Practices with Windows 11</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-charting-new-territory-strategies-for-youtube-keyword-research/"><u>[Updated] 2024 Approved Charting New Territory Strategies for YouTube Keyword Research</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-the-content-delivery-spectrum-vimeo-and-youtube-reviewed/"><u>[Updated] The Content Delivery Spectrum Vimeo & YouTube Reviewed</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-how-to-fix-pc-version-crashing-problems-for-smooth-play/"><u>Destiny 2 Beyond Light - How to Fix PC Version Crashing Problems for Smooth Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-and-repair-acrocefexe-errors-in-windows/"><u>How To Correctly Address and Repair acroCEF.exe Errors in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-diablo-immortal-solutions-to-pc-crashes-and-game-stability/"><u>Mastering Diablo Immortal: Solutions to PC Crashes and Game Stability</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/premier-mp4-converter-for-smooth-fb-integration-for-2024/"><u>Premier MP4 Converter for Smooth FB Integration for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/reinventing-the-right-click-experience-for-update-tracking/"><u>Reinventing the Right-Click Experience for Update Tracking</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-madden-nfl-22-glitches-quickly-and-efficiently/"><u>Solving Madden NFL 22 Glitches Quickly and Efficiently</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-minecraft-from-freezing-quick-fix-guide-in-6-steps/"><u>Stop Minecraft From Freezing: Quick Fix Guide in 6 Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-pc-issues-in-assassins-creed-odyssey-no-sweat/"><u>Troubleshoot and Resolve PC Issues in Assassin's Creed Odyssey - No Sweat</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/spect-ratios-unveiled-your-guide-to-stellar-yt-images-for-2024/"><u>[New] Aspect Ratios Unveiled Your Guide to Stellar YT Images for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-navigating-zoom-setup-for-virtual-gatherings/"><u>[New] In 2024, Navigating Zoom Setup for Virtual Gatherings</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-innovating-your-reality-essential-vr-peripherals-guide/"><u>[New] Innovating Your Reality Essential VR Peripherals Guide</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-embedding-audio-in-instant-storytelling-platforms/"><u>[Updated] 2024 Approved Embedding Audio in Instant Storytelling Platforms</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-downloadinstall-problems-with-age-of-empires-iv-on-microsofts-platform/"><u>Guide to Fixing Download/Install Problems with Age of Empires IV on Microsoft's Platform</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-nokia-150-2023-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Nokia 150 (2023) Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-maximizing-your-content-instagrams-video-time-restrictions/"><u>In 2024, Maximizing Your Content Instagram's Video Time Restrictions</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k21-pc-stability-issues-resolved-no-more-game-crashes/"><u>NBA 2K21 PC Stability Issues Resolved - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-startup-hurdles-with-valorant-comprehensive-fixes-and-advice-for-gamers/"><u>Overcoming PC Startup Hurdles with Valorant: Comprehensive Fixes and Advice for Gamers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-steamvr-e-308-a-step-by-step-guide/"><u>Resolving SteamVR E-308: A Step-by-Step Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-itel-p55-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Itel P55? | Dr.fone</u></a></li>
 </ul></div>
 

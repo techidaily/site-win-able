@@ -1,7 +1,7 @@
 ---
 title: "Cod: Black Ops Cold War PC Launch Fix - A Complete Guide for Gamers"
-date: 2024-12-12T21:19:54.710Z
-updated: 2024-12-20T09:02:08.564Z
+date: 2024-12-15T21:50:40.476Z
+updated: 2024-12-21T21:20:59.665Z
 tags:
   - win11
   - win10
@@ -42,23 +42,15 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
@@ -88,17 +80,13 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the in-game settings
 
@@ -109,16 +97,16 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
 **FPS Limit** : Set the value to_between 30 and 60_
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Enforce DX12
 
@@ -128,19 +116,23 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -150,8 +142,16 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
@@ -180,24 +180,18 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-pixels-in-perfection-tweeting-at-full-hd-quality/"><u>[New] In 2024, Pixels in Perfection Tweeting at Full HD Quality</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-unlock-the-secret-to-youtube-success-reaching-a-milestone-of-500plus-views-for-2024/"><u>[Updated] Unlock the Secret to YouTube Success Reaching a Milestone of 500+ Views for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/blackout-no-more-solving-cyberpunk-2077s-persistent-display-dilemma/"><u>Blackout No More: Solving Cyberpunk 2077'S Persistent Display Dilemma</u></a></li>
-<li><a href="https://win-able.techidaily.com/crash-no-more-solutions-for-lego-star-wars-the-skywalker-saga-on-pc/"><u>Crash No More! Solutions for 'Lego Star Wars: The Skywalker Saga' On PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-when-the-thaumaturge-app-keeps-failing-to-open-on-windows-1011/"><u>Effective Fixes When The Thaumaturge App Keeps Failing to Open on Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-to-overcome-session-problems-in-palworlds-search-feature/"><u>Efficient Techniques to Overcome Session Problems in Palworld's Search Feature</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-free-gaming-how-to-overcome-lost-ark-network-problems/"><u>Error-Free Gaming: How To Overcome Lost Ark Network Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-performance-problems-optimize-your-resident-evil-village-game-on-pc/"><u>Fixing Performance Problems: Optimize Your Resident Evil Village Game on PC</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-tecno-pova-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Pova 5 Pro without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-assassins-creed-valhalla-from-crashing-proven-solutions-for-a-smooth-gaming-experience-2er-2024/"><u>How to Stop Assassin's Creed Valhalla From Crashing: Proven Solutions for a Smooth Gaming Experience, 2Er 2024</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Motorola Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-11-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone 11 Without iTunes? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/mp3-conversion-masterclass-transforming-flv-files-into-audio-on-macos-systems/"><u>MP3 Conversion Masterclass: Transforming FLV Files Into Audio on macOS Systems</u></a></li>
-<li><a href="https://win-webster.techidaily.com/sauvegardez-avec-assurance-guide-complet-a-trois-etapes-pour-disque-dur-externe/"><u>Sauvegardez Avec Assurance : Guide Complet À Trois Étapes Pour Disque Dur Externe</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723012968925-say-goodbye-to-rogue-companys-pc-crashes-problem-solved/"><u>Say Goodbye to Rogue Company's PC Crashes - Problem Solved!</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-11-pro-max-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 11 Pro Max without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/update-the-google-app-ensure-that-you-have-the-latest-version-of-the-google-app-installed-on-your-device-go-to-the-play-store-search-for-google-and-update-i435/"><u>Update the Google App: Ensure that You Have the Latest Version of the Google App Installed on Your Device. Go to the Play Store, Search for Google, and Update if Necessary</u></a></li>
-<li><a href="https://howto.techidaily.com/vivo-v29-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29 Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-androids-leading-downloader-choice-the-ultimate-top-10-list-of-fb-video-tools/"><u>[New] Android's Leading Downloader Choice The Ultimate Top 10 List of FB Video Tools</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-10-online-photo-editing-tools-to-unblur-photos/"><u>[Updated] 10 Online Photo Editing Tools to Unblur Photos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-clock-companion-for-wedding-planners-and-couples/"><u>[Updated] The Ultimate Clock Companion for Wedding Planners & Couples</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-transformative-techniques-to-enhance-your-powerpoint-recordings-for-2024/"><u>[Updated] Transformative Techniques to Enhance Your PowerPoint Recordings for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2023s-premier-tale-spinners-on-yt-for-2024/"><u>2023’S Premier Tale Spinners on YT for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-premiere-pro-full-screen-magic/"><u>2024 Approved Unlocking Premiere Pro Full-Screen Magic</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-reactivating-audio-for-connected-external-speakers-in-windows-system/"><u>Guide: Reactivating Audio for Connected External Speakers in Windows System</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Vivo V30 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/modern-warfare-deverror-solutions-fixing-critical-bugs-effectively/"><u>Modern Warfare DevError Solutions: Fixing Critical Bugs Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-effective-solutions-to-keep-your-warframe-play-uninterrupted/"><u>Overcoming Lag: Effective Solutions to Keep Your Warframe Play Uninterrupted</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-apex-legends-network-issues-effective-strategies/"><u>Resolving Apex Legends Network Issues: Effective Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-overcoming-controller-detection-hurdles-with-steam-on-windows-computers/"><u>Solution: Overcoming Controller Detection Hurdles with Steam on Windows Computers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/streaming-first-look-7-key-sites-for-upcoming-film-preview-galore/"><u>Streaming First Look: 7 Key Sites for Upcoming Film Preview Galore</u></a></li>
 </ul></div>
 

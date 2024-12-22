@@ -1,7 +1,7 @@
 ---
 title: "Solved: Team Fortress 2 Keeps Crashing"
-date: 2024-12-15T16:02:37.093Z
-updated: 2024-12-20T10:18:15.392Z
+date: 2024-12-16T20:25:02.675Z
+updated: 2024-12-21T18:15:48.266Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,10 +54,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -70,16 +70,16 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
@@ -95,6 +95,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -105,13 +109,17 @@ If this method doesn’t help, go ahead with the next fix below.
 3. Navigate to the following locations:  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -124,18 +132,10 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -164,21 +164,18 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-rev-voice-recorder-download-and-review/"><u>[New] Rev Voice Recorder Download and Review</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-visualize-success-with-these-three-insta-video-caption-approaches-for-2024/"><u>[New] Visualize Success with These Three Insta Video Caption Approaches for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-all-in-one-screen-capture-az-insights-and-alternatives/"><u>[Updated] In 2024, All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-enhancing-chats-adding-tunes-via-whatsapp-status/"><u>[Updated] In 2024, Enhancing Chats Adding Tunes via WhatsApp Status</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/cookiebot-enhancing-user-experience-with-personalization-technology/"><u>Cookiebot: Enhancing User Experience with Personalization Technology</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-fix-for-the-division-2-performance-hiccups-expert-tips-inside/"><u>Effortless Fix for The Division 2 Performance Hiccups – Expert Tips Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-elden-ring-lag-6-rapid-fixes-for-fps-drops-and-stutters/"><u>Fix Your 'Elden Ring' Lag: 6 Rapid Fixes for FPS Drops & Stutters</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-apple-iphone-15-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update Apple iPhone 15 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/new-quality-of-life-features-in-android-automotive-now-with-improved-bluetooth-audio-support-gadget-reviews-zdnet/"><u>New Quality of Life Features in Android Automotive, Now with Improved Bluetooth Audio Support | Gadget Reviews - ZDNet</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-extended-launch-delays-in-fallout-4-with-these-easy-solutions/"><u>Overcome Extended Launch Delays in Fallout 4 with These Easy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-lost-ark-launch-problems-effective-solutions-updated-for-2025-mastering-the-fixes-for-when-lost-ark-wont-open-tips-and-tricks/"><u>Overcoming 'Lost Ark' Launch Problems: Effective Solutions Updated for 202#5 Mastering the Fixes for When Lost Ark Won't Open - Tips and Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-glitches-a-guide-to-repairing-your-clownfish-audio-alteration-gadget/"><u>Overcoming Glitches: A Guide to Repairing Your Clownfish Audio Alteration Gadget</u></a></li>
-<li><a href="https://windows11.techidaily.com/stealth-mode-for-windows-11-search-bar-on-taskbar/"><u>Stealth Mode for Windows 11 Search Bar on Taskbar</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-restoring-corrupt-video-game-data-for-your-computer/"><u>Step-by-Step Tutorial: Restoring Corrupt Video Game Data for Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-game-crashing-in-life-is-strange-true-colors-a-proven-fix-that-works/"><u>Stop Game Crashing in Life Is Strange: True Colors - A Proven Fix That Works</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/1726030068921-youtubeitunes/"><u>YouTubeのミュージックビデオがiTunesフォルダに保存する方法</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715860836621-updated-exploring-screen-capture-with-apowersoft-no-cost-involved/"><u>[Updated] Exploring Screen Capture with Apowersoft, No Cost Involved!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/2-ways-to-transfer-text-messages-from-xiaomi-civi-3-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>2 Ways to Transfer Text Messages from Xiaomi Civi 3 to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/diy-techniques-to-stabilize-and-optimize-thaumaturge-performance-on-personal-computers/"><u>DIY Techniques to Stabilize and Optimize Thaumaturge Performance on Personal Computers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/exceptional-savings-on-a-large-screen-upgrade-swapping-out-your-tv-for-a-high-quality-cost-effective-projector-at-20-off-zdnet/"><u>Exceptional Savings on a Large Screen Upgrade: Swapping Out Your TV for a High-Quality, Cost-Effective Projector at 20% Off! [ZDNet]</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-pc-crashes-in-cult-of-the-lamb-game/"><u>Expert Advice: Addressing and Correcting PC Crashes in Cult of the Lamb Game</u></a></li>
+<li><a href="https://win11.techidaily.com/free-unlimited-online-conversion-transforming-flv-files-into-mp4-format/"><u>Free Unlimited Online Conversion: Transforming FLV Files Into MP4 Format</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-vivo-x-flip-by-fonelab-android-recover-music/"><u>How to recover old music from your Vivo X Flip</u></a></li>
+<li><a href="https://win-able.techidaily.com/shadowplay-not-capturing-gameplay-solve-the-issue-on-windows-now/"><u>ShadowPlay Not Capturing Gameplay? Solve the Issue on Windows Now</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/snap-away-the-best-cams-for-novice-photographers/"><u>Snap Away The Best Cams for Novice Photographers</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-tips-eliminating-elden-rings-initial-black-startup-problem/"><u>Solution Tips - Eliminating Elden Ring's Initial Black Startup Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-correcting-final-examination-issue-tfla00ab345689/"><u>Step-by-Step Solutions for Correcting Final Examination Issue - TFLA00ab345689</u></a></li>
+<li><a href="https://article-helps.techidaily.com/ultimate-techniques-for-youtube-video-format-switching/"><u>Ultimate Techniques for YouTube Video Format Switching</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010670037-wrc-10-overcome-the-crash-issue-and-enjoy-the-fia-world-rally-championship-gaming-experience/"><u>WRC 10 - Overcome the Crash Issue & Enjoy the FIA World Rally Championship Gaming Experience</u></a></li>
 </ul></div>
 

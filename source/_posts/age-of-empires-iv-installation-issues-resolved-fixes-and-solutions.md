@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-12-16T07:11:41.768Z
-updated: 2024-12-19T22:25:23.431Z
+date: 2024-12-19T23:57:55.158Z
+updated: 2024-12-21T16:35:32.771Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,22 +95,22 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -120,10 +124,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -152,7 +152,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
@@ -193,19 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/days-gone-ps4-fps-hits-computers-unleash-the-wild-bandit-in-epic-open-world/"><u>'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-4-secrets-for-adding-online-vids-seamlessly-in-ppt/"><u>[New] In 2024, 4 Secrets for Adding Online Vids Seamlessly in PPT</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-a-complete-overview-of-polarr-photo-editor/"><u>2024 Approved A Complete Overview of Polarr Photo Editor</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-the-right-time-to-invest-in-your-next-4k-lens/"><u>2024 Approved The Right Time to Invest in Your Next 4K Lens</u></a></li>
-<li><a href="https://win-able.techidaily.com/definitive-fix-stop-code-vein-from-halting-with-these-simple-steps/"><u>Definitive Fix: Stop 'Code Vein' From Halting with These Simple Steps</u></a></li>
-<li><a href="https://win-able.techidaily.com/evil-genius-2-troubleshooting-how-to-successfully-start-the-game/"><u>Evil Genius 2 Troubleshooting: How to Successfully Start the Game</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-boost-your-visual-language-with-premium-affects-extensions/"><u>In 2024, Boost Your Visual Language with Premium Affects Extensions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-reno-10-5g-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Reno 10 5G</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-pro-max-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 Pro Max Properly</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-prime-choice-of-low-cost-hd-action-recorders/"><u>In 2024, Prime Choice of Low-Cost HD Action Recorders</u></a></li>
-<li><a href="https://win-able.techidaily.com/lost-ark-quiet-problems-heres-what-you-need-to-know-about-troubleshooting-sound/"><u>Lost Ark Quiet Problems? Here's What You Need To Know About Troubleshooting Sound!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-resolving-century-age-of-ashes-constant-crashing-problems-for-windows-users/"><u>Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-reducing-discords-cpu-drain/"><u>Ultimate Solution: Reducing Discord's CPU Drain</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/witwhackers-smilesnapz-hub/"><u>WitWhackers SmileSnapz Hub</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-convenient-procedures-for-recording-screen-chats/"><u>[New] In 2024, Convenient Procedures for Recording Screen Chats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-pro-android-image-correction-apps/"><u>[New] Pro Android Image Correction Apps</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-simple-solutions-for-capturing-playthroughs/"><u>[New] Simple Solutions for Capturing Playthroughs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[Updated] Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-cinemagraphic-cameras-a-guide-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 Cinemagraphic Cameras A Guide From Novices to Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-techniques-for-connectivity-hiccups-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Techniques for Connectivity Hiccups in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-your-red-dead-online-woes-effective-troubleshooting-for-seamless-gaming-on-pc/"><u>Cure Your Red Dead Online Woes: Effective Troubleshooting for Seamless Gaming on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-official-logitech-g29-control-wheel-software-for-windows-11-pcs/"><u>Download the Official Logitech G29 Control Wheel Software for Windows 11 PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-handling-the-nvidia-geforce-error-0x0003/"><u>Expert Tips and Tricks for Handling the NVIDIA GeForce Error 0X0003</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/gaming-earnings-dive-for-amd-at-59-while-data-center-income-skyrockets-with-a-115-boost/"><u>Gaming Earnings Dive for AMD at -59%, While Data Center Income Skyrockets with a 115% Boost</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashes-on-windows-11-expert-tips-and-solutions/"><u>How to Fix Fallout 3 Crashes on Windows 11: Expert Tips and Solutions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/light-shadow-and-subtlety-in-film-coloring-for-2024/"><u>Light, Shadow & Subtlety in Film Coloring for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion/"><u>MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-graphic-drivers-for-enhanced-gameplay-in-forza-horizon-5/"><u>Optimize Graphic Drivers for Enhanced Gameplay in Forza Horizon 5</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-into-the-world-of-detroit-become-human-a-compelling-decision-driven-adventure-for-pc-players/"><u>Step Into the World of 'Detroit: Become Human' - A Compelling Decision-Driven Adventure for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-combat-lag-issues-during-naraka-bladepoint-sessions/"><u>Step-by-Step Fixes to Combat Lag Issues During Naraka Bladepoint Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-truth-behind-halving-frame-rates-a-deep-dive-into-pc-performance-issues/"><u>The Truth Behind Halving Frame Rates: A Deep-Dive Into PC Performance Issues</u></a></li>
 </ul></div>
 

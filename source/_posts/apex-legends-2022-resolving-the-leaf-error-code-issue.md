@@ -1,7 +1,7 @@
 ---
 title: "Apex Legends 2022: Resolving the 'Leaf' Error Code Issue"
-date: 2024-12-16T09:54:00.145Z
-updated: 2024-12-19T20:14:20.213Z
+date: 2024-12-19T18:16:40.196Z
+updated: 2024-12-21T22:12:56.484Z
 tags:
   - win11
   - win10
@@ -50,7 +50,7 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
  If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 2: Install all the game updates
@@ -69,32 +69,36 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Update your network driver
@@ -110,10 +114,6 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -157,15 +157,19 @@ thumbnail: https://thmb.techidaily.com/5c86eead36fe273b4ffc3fa6b58927f405a2b86a9
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-investing-successfully-with-a-makeup-channel/"><u>[New] Investing Successfully with a Makeup Channel</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-the-sims-4-crashing-on-pc/"><u>[Solved] The Sims 4 Crashing on PC</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-secure-and-simple-step-by-step-for-google-meet-recordings/"><u>[Updated] 2024 Approved Secure and Simple Step-by-Step for Google Meet Recordings</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/adobe-premiere-vs-sony-vegas-which-video-editor-reigns-supreme-for-2024/"><u>Adobe Premiere vs Sony Vegas Which Video Editor Reigns Supreme for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-erp-overcoming-pc-performance-glitches-including-fps-hiccups-and-interruptions/"><u>Battlefield Erp: Overcoming PC Performance Glitches, Including FPS Hiccups & Interruptions</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/free-movavi-pro-konverter-professioneel-videokonvertor/"><u>Free Movavi Pro Konverter - Professioneel Videokonvertor</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-the-dark-monitor-problem-with-hitman-n-pc-version/"><u>How to Resolve the Dark Monitor Problem with Hitman N PC Version</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/mastering-video-cropping-and-export-for-instagram-posts/"><u>Mastering Video Cropping & Export for Instagram Posts</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/prime-your-digital-footprint-efficient-channels-monikers-for-2024/"><u>Prime Your Digital Footprint Efficient Channels' Monikers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-stop-warcraft-3-reforged-from-freezing-and-crashing/"><u>Ultimate Guide: Stop Warcraft 3 Reforged From Freezing & Crashing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-elevate-your-social-strategy-with-these-top-8-apps-phones-included-for-2024/"><u>[New] Elevate Your Social Strategy with These Top 8 Apps, Phones Included for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-reviving-camera-victory-over-obs-glitches/"><u>2024 Approved Reviving Camera Victory Over OBS Glitches</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726028220094-pc-2024/"><u>高性能動画取り込みツール集 - PCスクリーンキャプチャ | 2024年の選び方</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-hell-let-loose-game-from-crashing-on-windows-pc/"><u>Fix & Prevent Hell Let Loose Game From Crashing on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop Valheim From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-definitiva-para-convertir-tu-musica-en-mp4-con-sonido-impecable-a-partir-de-archivos-mod/"><u>Guía Definitiva Para Convertir Tu Música en MP4 Con Sonido Impecable a Partir De Archivos MOD</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-elder-scrolls-online-when-it-wont-load-a-comprehensive-guide/"><u>How to Fix 'The Elder Scrolls Online' When It Won’t Load: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-iconic-stop-motion-animations-15-best-ever/"><u>In 2024, Iconic Stop-Motion Animations - #15 Best Ever</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/in-2024-perfecting-live-social-media-facebook-livestream-tutorials-for-tech/"><u>In 2024, Perfecting Live Social Media Facebook Livestream Tutorials for Tech</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fluid-gaming-tips-and-tricks-for-fixing-stutter-lags-and-drops-in-fps/"><u>Mastering Fluid Gaming: Tips and Tricks for Fixing Stutter, Lags, & Drops in FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-2024-playbook-for-overcoming-rust-program-freeze-scenarios-expert-tips-and-tricks/"><u>The 2024 Playbook for Overcoming Rust Program Freeze Scenarios - Expert Tips & Tricks</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-dvd-ripping-tools-best-non-dvd-decrypter-options-compatible-with-windows-11/"><u>Top DVD Ripping Tools: Best Non-DVD Decrypter Options Compatible with Windows 11</u></a></li>
+<li><a href="https://article-tips.techidaily.com/top-tier-aerial-vehicles-sold-here/"><u>Top-Tier Aerial Vehicles Sold Here</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
 </ul></div>
 

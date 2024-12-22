@@ -1,7 +1,7 @@
 ---
 title: "Adobe Launch Failure Explained: Understanding and Solving Error 0xC00amo0022"
-date: 2024-12-14T09:15:00.934Z
-updated: 2024-12-20T04:51:36.643Z
+date: 2024-12-17T20:54:44.984Z
+updated: 2024-12-21T19:02:42.747Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
@@ -75,6 +75,10 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Turn off Steam Overlay
 
  Many games still don’t work well with Steam Overlay. If you turned on Steam Overlay in the past, and you notice that the FPS drops while playing It Takes Two, just try disabling Steam Overlay for It Takes Two to see the in-game FPS increases. Here is how to do it:
@@ -85,15 +89,15 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: modify your graphics settings
 
@@ -108,23 +112,15 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
@@ -139,19 +135,15 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -160,6 +152,10 @@ To optimize the graphics settings, follow the steps below:
  Normally, the in-game PFS will increase after you lower some in-game graphics settings.
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Disable background recording and Xbox Game Bar
 
@@ -171,12 +167,24 @@ To optimize the graphics settings, follow the steps below:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
 
@@ -185,10 +193,6 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
@@ -203,10 +207,6 @@ To optimize the graphics settings, follow the steps below:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch It Takes Two to see if you would get a better FPS.
 
@@ -232,19 +232,20 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-boosting-views-with-customized-thumbnail-sizes-on-youtube/"><u>[New] Boosting Views with Customized Thumbnail Sizes on YouTube</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-assembling-an-eye-catching-movie-miniature/"><u>[Updated] Assembling an Eye-Catching Movie Miniature</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-beam-your-best-achieving-hd-quality-with-fb-live-for-2024/"><u>[Updated] Beam Your Best Achieving HD Quality with FB Live for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-elevating-your-youtube-presence-with-ideal-video-formats-for-2024/"><u>[Updated] Elevating Your YouTube Presence with Ideal Video Formats for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-glitch-bustling-techniques-to-mend-your-devices-fluttering-image-issues/"><u>Conquer the Glitch: Bustling Techniques to Mend Your Device's Fluttering Image Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004157379-elden-ring-boot-up-blues-heres-the-solution-for-a-seamless-start/"><u>Elden Ring Boot-Up Blues? Here's the Solution for a Seamless Start!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-address-the-detected-no-ping-problem-on-your-halo-infinite-setup/"><u>How to Address the Detected No Ping Problem on Your Halo Infinite Setup</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-x8b-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor X8b to New Phone | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-red-eye-vanquished-swiftly-enhance-your-iphone-images-without-spending/"><u>In 2024, Red Eye Vanquished Swiftly Enhance Your iPhone Images Without Spending</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-fixing-the-eac-laaunch-issue-with-proper-installation-of-easy-anti-cheat/"><u>Resolved: Fixing the EAC Laaunch Issue with Proper Installation of Easy Anti-Cheat</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-billing-systems-with-zero-manual-input-how-abbyys-intelligent-document-technology-powers-the-e-invoice-revolution/"><u>Revolutionizing Billing Systems with Zero Manual Input: How ABBYY's Intelligent Document Technology Powers the E-Invoice Revolution</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-steps-overcome-football-manager-202n1s-persistent-startup-problems/"><u>Solution Steps: Overcome Football Manager 202N1's Persistent Startup Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/world-of-warcraft-performance-tweaks-and-fixes-expert-advice-for-eliminating-lag-and-improving-frame-rate/"><u>World of Warcraft Performance Tweaks & Fixes: Expert Advice for Eliminating Lag and Improving Frame Rate !</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-and-easy-creating-beautifully-detailed-slow-motion-videos-in-mobile-apps/"><u>[New] Quick and Easy Creating Beautifully Detailed Slow Motion Videos in Mobile Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-from-silent-screens-to-captivating-media-instantly-create-captions-on-fb/"><u>[Updated] In 2024, From Silent Screens to Captivating Media Instantly Create Captions on FB</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-abletons-soften-sound-strategies/"><u>2024 Approved Ableton's Soften Sound Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-game-server-disconnection-problems-in-popular-titles-from-blizzard-inc/"><u>Addressing Game Server Disconnection Problems in Popular Titles From Blizzard Inc</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/audiovisual-creators-top-5-app-picks-of-the-era-for-2024/"><u>Audiovisual Creators' Top 5 App Picks of the Era for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/customizing-lock-on-windows-settings/"><u>Customizing Lock-On Windows Settings</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/dynamic-duels-ranking-the-top-street-fighter-titles/"><u>Dynamic Duels Ranking the Top Street Fighter Titles</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-driver-update-mastering-the-portable-app-for-windows-and-macos/"><u>Effortless Driver Update: Mastering the Portable App for Windows and MacOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-of-troubles-how-to-stop-diablo-3-from-crashing-completely/"><u>End of Troubles? How to Stop Diablo 3 From Crashing Completely</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-tips-resolving-microsoft-thx-spatial-sound-issues-in-windows-11-and-10/"><u>Fixes & Tips: Resolving Microsoft Thx Spatial Sound Issues in Windows 11 & 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-continuous-crashes-of-total-war-warhammer-iii-on-desktop-computers/"><u>Guide to Fixing Continuous Crashes of Total War: Warhammer III on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-gameplay-glitches-in-yakuza-6-the-life-song-a-comprehensive-guide/"><u>Overcoming PC Gameplay Glitches in 'Yakuza 6 - The Life Song': A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-scavengers-resolved-issues-and-troubleshooting-tips/"><u>PC Scavengers: Resolved Issues & Troubleshooting Tips</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/snapshot-preservation-android-and-mac-techniques-for-2024/"><u>Snapshot Preservation Android & Mac Techniques for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-rated-free-tools-convert-avi-videos-into-3gp-format-fast-guide/"><u>Top Rated FREE Tools: Convert AVI Videos Into 3GP Format - Fast Guide</u></a></li>
 </ul></div>
 

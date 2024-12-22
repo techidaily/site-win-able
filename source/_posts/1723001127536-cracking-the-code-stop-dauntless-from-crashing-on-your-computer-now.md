@@ -1,7 +1,7 @@
 ---
 title: "Cracking the Code: Stop Dauntless From Crashing on Your Computer Now"
-date: 2024-12-14T03:24:33.477Z
-updated: 2024-12-19T23:05:18.631Z
+date: 2024-12-19T22:33:16.113Z
+updated: 2024-12-21T18:38:45.663Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Elite Dangerous Crashing
 
  Before going any further, it’s critical that you restart your computer first. A restart can clean away the current state of the software, which includes any issues that have occurred.
@@ -35,6 +39,10 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 5. **[Close unnecessary software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1 – Ran the game as administrator
 
@@ -52,17 +60,9 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Right-click **Elite Dangerous**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -105,7 +105,7 @@ This could take several minutes. Wait for the process to be complete.
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5 – Disable unnecessary programs
@@ -119,10 +119,6 @@ This could take several minutes. Wait for the process to be complete.
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -145,7 +141,7 @@ Your game still won’t work correctly? Read on and try Fix 5.
 If the crashing still happens, continue with the next solution below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 7 – Run the game in Windowed mode
@@ -155,6 +151,10 @@ If the crashing still happens, continue with the next solution below.
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
@@ -187,18 +187,21 @@ If the crashing still happens, continue with the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-starters-kit-establishing-yourself-on-youtube-profitably/"><u>[New] In 2024, Starter's Kit Establishing Yourself on YouTube Profitably</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-a-guide-to-crafting-engaging-videos-in-adobe-premiere-for-2024/"><u>[Updated] A Guide to Crafting Engaging Videos in Adobe Premiere for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-low-cost-footage-source-directory/"><u>[Updated] In 2024, Essential Low-Cost Footage Source Directory</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-apowersofts-role-in-screen-capture-analysis-and-comparisons/"><u>2024 Approved Apowersoft's Role in Screen Capture Analysis & Comparisons</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-future-cinema-at-your-fingertips-top-10-players/"><u>2024 Approved Future Cinema at Your Fingertips - Top 10 Players</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/beat-the-blue-screen-bane-11-tricks-for-windows-11/"><u>Beat the Blue Screen Bane: 11 Tricks for Windows 11</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/canons-flash-lighting-revolution-test-the-430ex-iii-rt/"><u>Canon's Flash Lighting Revolution - Test the 430EX III-RT</u></a></li>
-<li><a href="https://win-able.techidaily.com/debugging-woes-heres-how-to-keep-halo-infinite-running-without-interruptions-on-pc/"><u>Debugging Woes? Here's How to Keep Halo Infinite Running Without Interruptions on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994188556-expert-guide-to-overcoming-discord-live-stream-buffering-problems-now-solved/"><u>Expert Guide to Overcoming Discord Live Stream Buffering Problems – Now Solved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stabilize-your-play-experience-with-immortals-fenyx-rising-crash-fixes/"><u>How To Stabilize Your Play Experience with Immortals: Fenyx Rising Crash Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/practical-solutions-for-the-non-starting-tekken-8-game-on-personal-computers/"><u>Practical Solutions for the Non-Starting Tekken 8 Game on Personal Computers</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-continuous-failures-of-thunder-tier-one-game-on-your-computer/"><u>Troubleshooting Continuous Failures of Thunder Tier One Game on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-restoring-audio-in-fallout-4-on-your-computer/"><u>Troubleshooting Steps for Restoring Audio in Fallout 4 on Your Computer</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-building-interest-with-budget-friendly-youtube-video-intros/"><u>[New] In 2024, Building Interest with Budget-Friendly YouTube Video Intros</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-pc-gaming-capturing-your-adventures-on-win10/"><u>[Updated] 2024 Approved Mastering PC Gaming Capturing Your Adventures on Win10</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-capturing-sims-4-adventures-a-guide/"><u>[Updated] Capturing Sims 4 Adventures A Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-chromebook-shutter-mastery-in-four-steps-only/"><u>[Updated] Chromebook Shutter Mastery in Four Steps Only</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-beginners-blueprint-to-free-youtube-audio-to-text/"><u>[Updated] The Beginner's Blueprint to Free YouTube Audio to Text</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-directx-errors-in-fifa-20-a-comprehensive-guide-to-uninterrupted-gaming-fun/"><u>Bypassing DirectX Errors in FIFA 20: A Comprehensive Guide to Uninterrupted Gaming Fun</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/crafting-personalized-screen-time-with-ai-support/"><u>Crafting Personalized Screen Time with AI Support</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-327-in-star-wars-battlefront-ii-no-more-detailed-correction-guide/"><u>Error Code 327 in Star Wars Battlefront II No More - Detailed Correction Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/garrys-mod-stability-issues-top-strategies-for-a-smooth-gaming-experience/"><u>Garry's Mod Stability Issues? Top Strategies for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-reinstall-and-configure-your-amd-ryzen-master-software/"><u>How to Successfully Reinstall and Configure Your AMD Ryzen Master Software</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-a-complete-blueprint-for-effortless-recording-of-live-hulu-on-various-systems/"><u>In 2024, A Complete Blueprint for Effortless Recording of Live Hulu on Various Systems</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-analyzing-brightness-boost-in-hd-and-its-hdr-impact/"><u>In 2024, Analyzing Brightness Boost in HD and Its HDR Impact</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-your-chrome-in-no-time-expert-tips-and-tricks/"><u>Speeding Up Your Chrome in No Time - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-eradicating-minecraft-error-message-exit-code-solved/"><u>Ultimate Solution: Eradicating Minecraft Error Message 'Exit Code [SOLVED]'</u></a></li>
+<li><a href="https://driver-install.techidaily.com/usbasp-operations-smoothed-across-different-windows-generations/"><u>USBasp Operations Smoothed Across Different Windows Generations</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-cant-i-launch-origin-comprehensive-solutions-for-windows-1011-playstation-gamers/"><u>Why Can't I Launch Origin? Comprehensive Solutions for Windows 10/11 PlayStation Gamers</u></a></li>
 </ul></div>
 

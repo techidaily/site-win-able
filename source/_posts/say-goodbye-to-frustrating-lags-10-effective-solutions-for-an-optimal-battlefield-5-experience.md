@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Frustrating Lags: 10 Effective Solutions for an Optimal Battlefield 5 Experience"
-date: 2024-12-19T08:53:09.523Z
-updated: 2024-12-19T23:10:30.074Z
+date: 2024-12-15T23:21:54.222Z
+updated: 2024-12-21T22:18:32.139Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -30,19 +34,11 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -61,7 +57,7 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -79,7 +75,7 @@ Restart your computer for the changes to take effect.
 4. Click**Display adapters** and right-click on your GPU.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
@@ -88,6 +84,10 @@ Restart your computer for the changes to take effect.
 
 7. Check the issue is persist or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -95,10 +95,6 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
@@ -110,6 +106,10 @@ Restart your computer for the changes to take effect.
 5. Click **Apply** \> **OK** to save the changes.
 
 6. Restart your computer and check to see if the problem resolves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Use windowed mode
 
@@ -141,18 +141,24 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expertly-crafted-the-best-8-convertor-list-for-sub-to-srt/"><u>[New] Expertly Crafted The Best 8 Convertor List for Sub to Srt</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-the-newbies-roadmap-to-understanding-av1/"><u>[New] The Newbie’s Roadmap to Understanding AV1</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-translate-compressed-files-into-subtitle-format-srt/"><u>[Updated] 2024 Approved Translate Compressed Files Into Subtitle Format (SRT)</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-everything-you-need-to-know-about-the-youtube-shorts-fund/"><u>2024 Approved Everything You Need to Know About the YouTube Shorts Fund</u></a></li>
-<li><a href="https://media-tips.techidaily.com/a-closer-look-at-youtubes-improved-video-quality-through-enhanced-bitrates/"><u>A Closer Look at YouTube's Improved Video Quality Through Enhanced Bitrates</u></a></li>
-<li><a href="https://win-able.techidaily.com/dealing-with-call-of-duty-modern-warfare-3s-frustrating-fps-drop-glitch/"><u>Dealing with Call of Duty: Modern Warfare 3'S Frustrating FPS Drop Glitch</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/effortless-screen-capturing-with-your-iphone-7/"><u>Effortless Screen Capturing with Your iPhone 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/epic-games-launcher-issues-here-are-quick-solutions-for-it-refusing-to-open/"><u>Epic Games Launcher Issues? Here Are Quick Solutions for It Refusing to Open</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/grab-the-best-prime-day-bargain-in-vr-meta-launches-an-amazing-deal-on-the-new-512gb-quest-3-recommended-choice-for-october/"><u>Grab the Best Prime Day Bargain in VR: Meta Launches an Amazing Deal on the New 512GB Quest 3 Recommended Choice for October!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723002983052-how-to-stop-the-aggravating-screen-flicker-on-your-device-once-and-for-all/"><u>How to Stop the Aggravating Screen Flicker on Your Device Once and For All</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-samsung-galaxy-z-fold-5-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Samsung Galaxy Z Fold 5 to iPod | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-road-to-releasing-immortals-fenyx-rising-cleared-details-inside/"><u>The Road to Releasing Immortals Fenyx Rising Cleared - Details Inside</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/be-studio-validating-earnings-flow/"><u>YouTube Studio Validating Earnings Flow</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-master-class-selecting-the-top-10-4k-shoulder-rigs-for-2024/"><u>[New] Master Class Selecting the Top 10 4K Shoulder Rigs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/echniques-for-successfully-incorporating-a-streaming-youtube-playlist/"><u>[New] Techniques for Successfully Incorporating a Streaming YouTube Playlist</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-youtube-shorts-revenue-sharing-how-much-do-creators-get-paid/"><u>[New] YouTube Shorts Revenue Sharing How Much Do Creators Get Paid?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-soundsnatcher-free-toolkit-insights-and-usage/"><u>[Updated] 2024 Approved SoundSnatcher Free Toolkit Insights & Usage</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>[Updated] Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
+<li><a href="https://win-able.techidaily.com/beyond-light-for-pc-now-stable-overcome-previous-crashes-with-latest-patch/"><u>Beyond Light for PC Now Stable – Overcome Previous Crashes with Latest Patch</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/bouncie-track-and-trace-revealed-budget-friendly-gps-monitoring-unveiled/"><u>Bouncie Track & Trace Revealed: Budget-Friendly GPS Monitoring Unveiled</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-to-overcome-the-dangerous-fatal-error-ark-issue/"><u>Comprehensive Solutions to Overcome the Dangerous 'Fatal Error Ark' Issue</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-poco-c50-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Poco C50 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-the-your-hardware-is-not-supported-error-0xc19001e1-in-windows-10/"><u>Effective Solutions for the 'Your Hardware Is Not Supported' Error (0xC19001E1) in Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010505543-effortlessly-enhance-your-dayz-gameplay-increased-fps-now/"><u>Effortlessly Enhance Your DayZ Gameplay – Increased FPS Now!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-rectifying-back-astopper-for-back-4-bloods-ue4-gobi-error-challenge/"><u>Expert Tips on Rectifying Back Astopper for Back 4 Blood's UE4-Gobi Error Challenge</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-motorola-moto-g23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Motorola Moto G23 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-restarting-your-pc-with-a-hard-reboot-on-windows-11/"><u>Guide to Restarting Your PC with a Hard Reboot on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-unfreeze-techniques-mozilla-firefox-tips-to-optimize-your-browsing/"><u>Mastering Unfreeze Techniques: Mozilla Firefox Tips to Optimize Your Browsing</u></a></li>
+<li><a href="https://win-able.techidaily.com/microsoft-edge-stability-issues-in-windows-10-fixes-and-preventative-measures/"><u>Microsoft Edge Stability Issues in Windows 10 – Fixes and Preventative Measures</u></a></li>
+<li><a href="https://win11.techidaily.com/transform-windows-tasks-admin-cmd-mode/"><u>Transform Windows Tasks: Admin CMD Mode</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-dropping-frames-in-call-of-duty-modern-warfare-3-tips-for-smooth-gameplay/"><u>Troubleshooting Dropping Frames in Call of Duty: Modern Warfare 3 - Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001048160-troubleshooting-steps-when-cortana-stops-responding-solutions-inside/"><u>Troubleshooting Steps When Cortana Stops Responding - Solutions Inside</u></a></li>
 </ul></div>
 

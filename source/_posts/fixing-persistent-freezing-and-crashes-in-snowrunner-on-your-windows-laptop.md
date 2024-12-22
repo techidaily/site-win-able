@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-12-18T04:42:35.173Z
-updated: 2024-12-20T04:45:45.499Z
+date: 2024-12-20T18:25:30.665Z
+updated: 2024-12-21T16:18:58.619Z
 tags:
   - win11
   - win10
@@ -32,16 +32,12 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Official Fix
 
 Follow the steps below to fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Step 1: Check the requirements
 
@@ -55,10 +51,6 @@ Follow the steps below to fix the crashing issue.
 | **DirectX**   | Version 11                                               |
 | **Storage**   | 40 GB available space                                    |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Step 2: Update your drivers
 
  Make sure your drivers are updated. You might think you’ve updated your graphic driver, but that’s not enough. **Many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.** The outdated or corrupted driver could be the culprit for crashing or black screen issues.
@@ -71,10 +63,6 @@ Follow the steps below to fix the crashing issue.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
@@ -99,6 +87,10 @@ Restart your computer for the changes to take effect.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Lower your graphics settings
 
  Some players have reported that dropping their graphics to the lowest as they can go and running the game in windowed mode would fix the issue.
@@ -108,15 +100,19 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-45-48.jpg)
 3. In the pop-up window, check**Override high DPI scaling behavior** , choose**Application** in the drop-down menu.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -132,11 +128,15 @@ Restart your computer for the changes to take effect.
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
@@ -146,14 +146,14 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-49-11.jpg)
 8. Restart your PC and your problem should be fixed.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -174,20 +174,24 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-mastery-of-instagram-video-marketing-the-ultimate-plan-crafted-here-for-2024/"><u>[New] Mastery of Instagram Video Marketing The Ultimate Plan Crafted Here for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-2024-28-practical-tips-for-streaming-online-courses-on-a-budget/"><u>[Updated] In 2024, 28 Practical Tips for Streaming Online Courses on a Budget</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-navigating-chapter-inclusion-in-youtube-videos-professional-edition/"><u>[Updated] Navigating Chapter Inclusion in YouTube Videos Professional Edition</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-silent-scribes-unveiling-the-best-speech-to-text-tools/"><u>[Updated] Silent Scribes Unveiling the Best Speech-to-Text Tools</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-superior-practices-for-mute-videography/"><u>[Updated] Superior Practices for Mute Videography</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011206653-how-to-get-your-obs-to-resume-screen-recording-problem-solved/"><u>How to Get Your OBS to Resume Screen Recording: Problem Solved!</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-samsung-galaxy-a34-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change GPS Location on Samsung Galaxy A34 5G Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/insurgency-sandstorm-no-more-fixing-the-perpetual-game-breaking-glitch/"><u>Insurgency: Sandstorm No More! Fixing the Perpetual Game-Breaking Glitch</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-the-fast-lane-to-gopro-video-editing-a-beginners-roadmap-for-2024/"><u>New The Fast Lane to GoPro Video Editing A Beginners Roadmap for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/premier-2024-selection-cloud-saving-apps-for-android-users/"><u>Premier 2024 Selection Cloud Saving Apps for Android Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-debugging-overcoming-unexpected-graphical-hiccups-successfully/"><u>Rust Debugging: Overcoming Unexpected Graphical Hiccups Successfully</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/verage-income-derived-from-each-video-watcher/"><u>The Average Income Derived From Each Video Watcher</u></a></li>
-<li><a href="https://win-able.techidaily.com/ubisoft-connect-troubleshooting-techniques-to-restore-connection-2nvoice-guide-2024/"><u>Ubisoft Connect Troubleshooting Techniques to Restore Connection - 2nVoice Guide 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-debugging-cities-skylines-bugs-2024-edition/"><u>Ultimate Guide to Debugging Cities: Skylines Bugs - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlocking-secrets-to-solve-steams-blocked-file-problem/"><u>Unlocking Secrets to Solve Steam’s Blocked File Problem</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-video-synchronization-with-obs/"><u>[New] 2024 Approved Mastering Video Synchronization with OBS</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-from-farm-to-feast-shooting-gourmet-films-with-grace/"><u>[New] From Farm to Feast Shooting Gourmet Films with Grace</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-subscribers-count-in-real-time/"><u>[New] Subscribers Count in Real-Time</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-fading-sound-tracks-with-logic-pro/"><u>[Updated] 2024 Approved Fading Sound Tracks with Logic Pro</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-warping-letters-in-photographyvideo-for-2024/"><u>[Updated] Warping Letters in Photography/Video for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-the-latest-tp-link-ub400-bluetooth-adapter-drivers-free-updates-available/"><u>Download the Latest TP-Link UB400 Bluetooth Adapter Drivers - Free Updates Available</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-resident-evil-village-not-loading-errors/"><u>Expert Advice on Fixing Resident Evil Village Not Loading Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-4-screen-issue-fixed-a-step-by-step-troubleshooting-guide/"><u>Fallout 4 Screen Issue Fixed - A Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-s23-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel S23 FRP In 3 Different Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011845344-launching-struggles-beat-the-forza-horizon-4-boot-problems-now/"><u>Launching Struggles? Beat the Forza Horizon 4 Boot Problems Now!</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/navigating-the-world-of-android-video-snapshots/"><u>Navigating the World of Android Video Snapshots</u></a></li>
+<li><a href="https://win-able.techidaily.com/rolling-into-victory-the-definitive-2024-roller-champions-pc-playbook-and-tactics-manual/"><u>Rolling Into Victory: The Definitive 2024 Roller Champions PC Playbook and Tactics Manual</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-fifa-21-from-crashing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop FIFA 21 From Crashing: Expert Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-bugs-for-a-smooth-grounded-gaming-experience-tips-and-guides/"><u>Troubleshooting PC Bugs for a Smooth 'Grounded' Gaming Experience : Tips and Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011469641-troubleshooting-tips-for-preventing-pc-disruptions-in-fifa-19-play-now-fixed/"><u>Troubleshooting Tips for Preventing PC Disruptions in FIFA 19 Play – Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-armored-core-vi-doesnt-load-a-comprehensive-solution-to-the-fires-of-rubicon-not-launching-problem/"><u>Ultimate Fixes for When Armored Core VI Doesn't Load: A Comprehensive Solution to the 'Fires of Rubicon Not Launching' Problem</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/windows-11-compatible-top-bitlocker-recovery-tools/"><u>Windows 11-Compatible Top BitLocker Recovery Tools</u></a></li>
 </ul></div>
 

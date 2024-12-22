@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Resolving Delays During OBS Streaming & Video Capture
-date: 2024-12-16T05:23:00.331Z
-updated: 2024-12-19T21:39:09.131Z
+date: 2024-12-18T23:21:48.594Z
+updated: 2024-12-21T18:03:27.144Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check if you enabled in-game overlay in Discord
 
  Before trying other fixes, open**Discord** to check if you enabled in-game overlay. Here is how to do it:
@@ -50,11 +54,11 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-enable-in-game-overlay-1-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game to see if your **Discord overlay** shows up. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Run Discord as administrator
 
@@ -64,9 +68,17 @@ thumbnail: https://thmb.techidaily.com/c3ba901f926249b24c063d003163e0cc5d148f077
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the pop-up window, navigate to the**Compatibility** tab. Check the box next to **Run this program as an administrator** and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On your desktop, double-click the shortcut of**Discord** to open it.
 
@@ -81,7 +93,7 @@ See if this issue reappears. If not, you have fixed this issue.
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Check for software interruption
@@ -100,23 +112,11 @@ See if this issue reappears. If not, you have fixed this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) On the left panel, click**Voice & Video**  and then **turn off** the toggle next to **Hardware Acceleration** if you turned it on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-disable-hardware-acceleration-1200x714.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run your game again to see if this issue persists. If not, you have resolved this problem!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Discord
 
@@ -133,7 +133,7 @@ See if this issue reappears. If not, you have fixed this issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap11.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  iii.**Double-click** **Discord** to uninstall it.  
@@ -169,7 +169,7 @@ See if this issue reappears. If not, you have fixed this issue!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel or click on the country pin on the map.
@@ -198,22 +198,24 @@ See if this issue reappears. If not, you have fixed this issue!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-filming-for-tweet-sharing-content-without-retweeting/"><u>[New] 2024 Approved Filming for Tweet Sharing Content without Retweeting</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-boosting-vimeo-playback-speed/"><u>[Updated] 2024 Approved Boosting Vimeo Playback Speed</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-talking-head-techniques-diy-filming-made-simple/"><u>[Updated] Talking Head Techniques DIY Filming Made Simple</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-the-essentials-of-sims-4-gameplay-recording/"><u>[Updated] The Essentials of Sims 4 Gameplay Recording</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-your-call-of-duty-woes-solved-ending-game-crashes-on-pc-with-the-latest-2024-patch/"><u>Cure Your Call of Duty Woes: [SOLVED] Ending Game Crashes on PC with the Latest 2024 Patch</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/digital-artistry-precise-picture-softening/"><u>Digital Artistry Precise Picture Softening</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/get-the-videos-you-love-from-pinterest-for-free/"><u>Get the Videos You Love From Pinterest for Free</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-playstation-4-modern-warfare-3-mw3-not-working-problems/"><u>How to Resolve PlayStation 4 Modern Warfare 3 MW3 Not Working Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-14-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 14 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
-<li><a href="https://win-online.techidaily.com/mpeg-video-compression-techniques/"><u>MPEG Video Compression Techniques</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/navigating-the-search-for-master-video-artists/"><u>Navigating the Search for Master Video Artists</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-far-cry-6s-darkness-tips-to-address-black-screen-issues/"><u>Overcoming Far Cry 6'S Darkness: Tips to Address Black Screen Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/say-goodbye-to-lags-in-elden-ring-six-speedy-tweaks-for-ultimate-frame-rate-and-playability/"><u>Say Goodbye to Lags in Elden Ring: Six Speedy Tweaks for Ultimate Frame Rate & Playability</u></a></li>
-<li><a href="https://win-able.techidaily.com/solutions-for-team-fortress-2-not-launching-properly/"><u>Solutions for 'Team Fortress 2 Not Launching Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-complete-blackout-on-your-far-cry-6-gameplay/"><u>Troubleshooting Complete Blackout on Your Far Cry 6 Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smooth-csgo-gameplay-performance/"><u>Troubleshooting Techniques for Smooth CS:GO Gameplay Performance</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-minecraft-freezes-or-doesnt-respond/"><u>Troubleshooting Tips for When Minecraft Freezes or Doesn’t Respond</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-uncompromised-zoom-audio-two-key-techniques-revealed-for-2024/"><u>[New] Uncompromised Zoom Audio Two Key Techniques Revealed for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-elevate-your-channels-youtubes-partner-program/"><u>[Updated] In 2024, Elevate Your Channels - YouTube's Partner Program</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-raw-to-radiant-youtubes-art-of-visual-aesthetic/"><u>2024 Approved From Raw to Radiant Youtube's Art of Visual Aesthetic</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>2024 Approved Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/an-insider-look-at-vegaspro-2019/"><u>An Insider Look at VegasPro 2019</u></a></li>
+<li><a href="https://win-able.techidaily.com/banish-the-blues-with-these-techniques-solving-fatal-errors-of-ghostrunner-on-windows-11/"><u>Banish the Blues with These Techniques: Solving Fatal Errors of Ghostrunner on Windows 11</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/digital-distinction-design-molding-an-animated-profile/"><u>Digital Distinction Design Molding an Animated Profile</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragon-age-origins-troubleshooting-solving-the-crash-problems-for-windows-10-users/"><u>Dragon Age: Origins Troubleshooting - Solving the Crash Problems for Windows 10 Users</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/exploring-alternatives-discover-the-ovi-and-app-stores/"><u>Exploring Alternatives: Discover the Ovi and App Stores</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994219048-fallout-3-freezing-woes-heres-how-you-can-smoothly-play-it-on-your-windows-10-machine/"><u>Fallout 3 Freezing Woes? Here's How You Can Smoothly Play It on Your Windows 10 Machine!</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-a-smooth-playthrough-overcoming-frequent-pc-crashes-in-valheim/"><u>Get a Smooth Playthrough: Overcoming Frequent PC Crashes in Valheim</u></a></li>
+<li><a href="https://win-able.techidaily.com/immortals-fenyx-rising-not-out-yet/"><u>Immortals Fenyx Rising Not Out Yet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-depth-motion-assessment-2023/"><u>In-Depth Motion Assessment 2023</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-fix-eliminating-directx-glitches-in-battlefield-2042/"><u>Mastering the Fix: Eliminating DirectX Glitches in Battlefield 2042</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-strategies-for-smoother-gaming-experience-on-watch-dogs-legion/"><u>Step-by-Step Strategies for Smoother Gaming Experience on Watch Dogs: Legion</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-oppo-reno-11-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Oppo Reno 11 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-10-tips-to-make-your-podcast-teasers-stand-out-for-2024/"><u>Top 10 Tips to Make Your Podcast Teasers Stand Out for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-launch-issues-in-armored-core-vi-solving-fires-of-rubicon-startup-problems/"><u>Troubleshooting Launch Issues in Armored Core VI: Solving 'Fires of Rubicon' Startup Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-tips-for-a-smooth-rocket-league-experience-in-2-groovy-2024/"><u>Winning Tips for a Smooth Rocket League Experience in 2 Groovy 2024</u></a></li>
 </ul></div>
 

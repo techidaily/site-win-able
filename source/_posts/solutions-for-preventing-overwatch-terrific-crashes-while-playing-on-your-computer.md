@@ -1,7 +1,7 @@
 ---
 title: Solutions for Preventing Overwatch Terrific Crashes While Playing on Your Computer
-date: 2024-12-14T08:34:44.919Z
-updated: 2024-12-19T18:29:38.657Z
+date: 2024-12-18T23:28:57.142Z
+updated: 2024-12-21T20:36:38.021Z
 tags:
   - win11
   - win10
@@ -36,10 +36,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 8. **[Install the latest Overwatch patch](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 10. **[Uninstall Razer Synapse](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1:**Update your graphics driver**
 
@@ -86,7 +82,7 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-680.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Click the**Compatibility tab** and check the box next to**Run this program as an administrator** . Then, click**OK** .
@@ -106,6 +102,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **1)** Right-click the**Overwatch icon** on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-676.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Click the**Compatibility tab** , then check the box next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -141,10 +141,6 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: End unwanted background programs
 
  Some programs running on your computer may conflict with Overwatch or the game launcher, resulting in black screen error on launch.
@@ -171,6 +167,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Right-click the resource-consuming process and select **End Process Tree** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -187,12 +187,16 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click the resource-consuming process and select **End task** .
@@ -200,6 +204,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try launching Overwatch to see if it works properly now. If not, read on and check the next fix.
 
@@ -228,7 +236,7 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-709.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch.
@@ -236,6 +244,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
  Hopefully, Overwatch runs properly now. If the black screen issue still exists, unfortunately, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Repair the game**
 
@@ -246,6 +258,10 @@ Keep getting the black screen when launching Overwatch? You’re not alone! Many
 **2)** Click**Overwatch > Options > Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-713.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Begin Scan** .
 
@@ -270,10 +286,6 @@ To check if there is any update, follow the instructions below:
  If a patch is available, install it, then run your game again to check whether the black screen problem has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9:**Check for Windows Updates**
 
@@ -302,24 +314,16 @@ If your problem persists, check the fix 10, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-718.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Under**View by** , select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-720.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-721.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click**Razer Synapse** , then click**Uninstall** .
 
@@ -330,10 +334,6 @@ If you’re prompted about permissions, select Continue
 **5)** If you wish to keep the program, click**MODIFY** . Or, you can just uninstall Razer Synapse by clicking**UNINSTALL** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-724-1024x640.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Relaunch Overwatch to test your issue.
 
@@ -361,20 +361,22 @@ If you’re prompted about permissions, select Continue
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-unveiling-this-years-premier-trivia-broadcasting-titles/"><u>[New] Unveiling This Year's Premier Trivia Broadcasting Titles</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-empowering-audiences-the-playlist-sharing-approach/"><u>[Updated] 2024 Approved Empowering Audiences The Playlist Sharing Approach</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-is-it-legal-to-screen-record-youtube-videos/"><u>[Updated] Is It Legal to Screen Record YouTube Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/2023s-best-fixes-for-smoother-gameplay-overcoming-minecraft-stuttering/"><u>2023'S Best Fixes for Smoother Gameplay: Overcoming Minecraft Stuttering</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-fixes-to-stop-madden-21-from-collapsing-on-your-desktop/"><u>Effective Fixes to Stop Madden '21 From Collapsing on Your Desktop</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/expert-analysis-iphone-14-meets-requirements-with-solid-performance-a-review/"><u>Expert Analysis: IPhone 14 Meets Requirements with Solid Performance - A Review</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/exploring-the-linksys-wrt3nacm-a-comprehensive-assessment-of-an-exceptional-open-router/"><u>Exploring the Linksys WRT3nacm: A Comprehensive Assessment of an Exceptional Open Router</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/fixing-failed-directx-file-downloads-on-pcs/"><u>Fixing Failed DirectX File Downloads on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-youtube-video-freezes-audio-continueschrome-and-firefox/"><u>How to Fix Youtube Video Freezes Audio Continues|Chrome & Firefox</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-call-of-duty-world-war-ii-error-4128-in-no-time/"><u>How to Overcome Call of Duty: World War II Error 4128 in No Time</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g13-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G13 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-frequent-minecraft-crashes-with-these-six-effective-fixes/"><u>Overcome Frequent Minecraft Crashes with These Six Effective Fixes.</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-windows-compatibility-issues-for-football-manager-2022-gameplay/"><u>Resolving Windows Compatibility Issues for Football Manager 2022 Gameplay</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/simplifying-the-process-of-mp3-download-from-pinterest-for-2024/"><u>Simplifying the Process of MP3 Download From Pinterest for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-smooth-gaming-resolving-football-manager-2021-pc-stability-concerns-today/"><u>Unlock Smooth Gaming: Resolving Football Manager 2021 PC Stability Concerns Today</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-classic-1980s-visual-elements-in-editing-workflow/"><u>[New] Classic 1980S Visual Elements in Editing Workflow</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-decoding-watermarks-in-social-media-imagery-for-2024/"><u>[New] Decoding Watermarks in Social Media Imagery for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-transform-your-videos-expert-choices-for-thumbnails/"><u>[New] In 2024, Transform Your Videos Expert Choices for Thumbnails</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-understanding-av1-your-initial-compre-point/"><u>[New] Understanding AV1 Your Initial Compre Point</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-comprehensive-insights-into-imovie-techniques-for-youtube-creators/"><u>[Updated] 2024 Approved Comprehensive Insights Into iMovie Techniques for YouTube Creators</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-gopro-hero5-a-comprehensive-footage-study/"><u>[Updated] 2024 Approved GoPro Hero5 A Comprehensive Footage Study</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enabling-creativity-with-free-online-and-offline-animation-methods/"><u>[Updated] In 2024, Enabling Creativity with Free Online & Offline Animation Methods</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionary-iphone-techniques-for-hdr-photos/"><u>[Updated] Revolutionary iPhone Techniques for HDR Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-reorganizing-your-spreadsheet-moving-cells-up-or-down-in-ms-excel/"><u>Expert Guide: Reorganizing Your Spreadsheet - Moving Cells Up or Down in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-efficient-ways-to-delete-images-in-an-excel-spreadsheet/"><u>Fast and Efficient Ways to Delete Images in an Excel Spreadsheet</u></a></li>
+<li><a href="https://win-able.techidaily.com/keyboard-shortcuts-adding-rows-in-microsoft-excel-a-step-by-step-guide/"><u>Keyboard Shortcuts: Adding Rows in Microsoft Excel - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-data-arrangement-in-microsoft-excel-discover-the-7-most-effective-techniques/"><u>Mastering Data Arrangement in Microsoft Excel: Discover the 7 Most Effective Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-keyboard-shortcuts-how-to-undo-redo-and-repeat-actions-quickly-in-ms-excel/"><u>Mastering Keyboard Shortcuts: How to Undo, Redo, and Repeat Actions Quickly in MS Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-custom-borders-in-microsoft-excel/"><u>Mastering the Art of Custom Borders in Microsoft Excel</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-art-of-making-text-fit-into-excel-cells-a-step-by-step-guide/"><u>Mastering the Art of Making Text Fit Into Excel Cells: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-use-of-ampersand-symbols-in-microsoft-excel-headerfooter-formatting/"><u>Mastering the Use of Ampersand Symbols in Microsoft Excel Header/Footer Formatting</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-5-from-motorola-moto-g24-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Motorola Moto G24 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
 </ul></div>
 

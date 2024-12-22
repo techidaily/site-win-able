@@ -1,7 +1,7 @@
 ---
 title: "Fix Issues: How to Prevent 'Escape From Tarkov' From Crashing on Your Windows Machine"
-date: 2024-12-19T08:39:11.126Z
-updated: 2024-12-19T17:08:38.146Z
+date: 2024-12-19T00:37:37.541Z
+updated: 2024-12-22T00:39:07.803Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ NieR Replicant ver.1.22474487139… is finally online! But did you manage to pla
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Check your specs
 
 Make sure your PC meets the minimum requirement of NieR Replicant.
@@ -36,6 +32,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Memory    | 8 GB Ram                                     |
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -48,7 +48,7 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Edit username
@@ -70,14 +70,10 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this doesn’t work for you, then try to verify game files in Steam.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
@@ -93,6 +89,10 @@ If this fix doesn’t work, move to the next fix.
 4. When the process is completed, relaunch NieR Replicant.
 
 If this fix doesn’t bring luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your drivers
 
@@ -112,16 +112,16 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -133,12 +133,12 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
@@ -168,24 +168,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-drift-through-darkness-a-cam-review/"><u>[New] Drift Through Darkness A CAM Review</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-leaving-with-honor-a-disconnect-guide-for-servers-for-2024/"><u>[New] Leaving with Honor A Disconnect Guide for Servers for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-premier-stop-motion-works-the-ultimate-15-selection-for-2024/"><u>[New] Premier Stop-Motion Works The Ultimate 15 Selection for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-from-video-to-audio-quickly-create-mp3-from-youtube-on-mac/"><u>[Updated] From Video to Audio Quickly Create MP3 From YouTube on Mac</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-quick-recording-tips-mastering-screen-captures-on-hp-systems/"><u>[Updated] Quick Recording Tips Mastering Screen Captures on HP Systems</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-compilation-of-top-sky-hd-sites-for-2024/"><u>[Updated] The Ultimate Compilation of Top Sky HD Sites for 2024</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2022s-pinnacle-moments-in-snowboarding-x/"><u>2022'S Pinnacle Moments in Snowboarding X</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-optimization-for-seamless-play-overcoming-stuttering-challenges-on-personal-computers/"><u>Assassin’s Creed Valhalla Optimization for Seamless Play: Overcoming Stuttering Challenges on Personal Computers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effortlessly-transfer-your-dvds-the-ultimate-winx-dvd-ripper-tool-for-mac-users/"><u>Effortlessly Transfer Your DVDs: The Ultimate WinX DVD Ripper Tool for Mac Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhance-playing-experience-by-increasing-fps-and-reducing-lag-in-call-of-duty/"><u>Enhance Playing Experience by Increasing FPS and Reducing Lag in Call of Duty</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-discord-screen-sharing-and-audio-glitches/"><u>Expert Tips for Fixing Discord Screen Sharing and Audio Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-correctly-address-the-80n070057-bug-in-cod-black-ops-cold-war/"><u>How To Correctly Address the 80N070057 Bug in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-crashes-in-valorant-on-your-windows-or-mac-computer/"><u>How to Fix Persistent Crashes in Valorant on Your Windows or Mac Computer</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-gmail-how-to-bulk-delete-all-messages-in-the-mobile-version/"><u>Mastering Gmail: How to Bulk Delete All Messages in the Mobile Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-phasmophobia-game-crashing-fix-guide-at-90-load-on-pcconsole/"><u>Overcome Phasmophobia Game Crashing: Fix Guide at 90% Load on PC/Console</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-dev-error-6034-for-call-of-duty-modern-warfare-players-pc-and-xbox-solutions/"><u>Resolving Dev Error 6034 for Call of Duty: Modern Warfare Players - PC and Xbox Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-fixing-battlefield-5-not-starting/"><u>Step-by-Step Guide to Fixing Battlefield 5 Not Starting</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-the-not-starting-problem-in-hogwarts-legacy-tips-and-fixes-2024/"><u>Troubleshooting Steps for the 'Not Starting' Problem in Hogwarts Legacy (Tips & Fixes 2024)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-effective-ways-to-save-your-ps4-games/"><u>[New] Effective Ways to Save Your PS4 Games</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-symbolize-your-brand-exclusive-access-to-free-customizable-logos/"><u>[New] Symbolize Your Brand Exclusive Access to Free, Customizable Logos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-types-of-facebook-video-aspect-ratios/"><u>[Updated] 2024 Approved Types of Facebook Video Aspect Ratios</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-youtubes-revenue-mechanisms/"><u>[Updated] In 2024, Navigating YouTube's Revenue Mechanisms</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-voice-of-vogue-establishing-your-channel-in-the-cosmetic-world/"><u>[Updated] Voice of Vogue Establishing Your Channel in the Cosmetic World</u></a></li>
+<li><a href="https://win-able.techidaily.com/cod-warzone-resolved-issue-of-pacific-map-glitch/"><u>COD: Warzone - Resolved Issue of Pacific Map Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-pc-crash-troubleshooting-and-solutions/"><u>Forza Horizon 4 PC Crash: Troubleshooting and Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-directdraw-problems-successfully-top-tips-and-tricks/"><u>How to Fix DirectDraw Problems Successfully – Top Tips & Tricks</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/leading-free-switch-game-reproducers-for-2024/"><u>Leading Free Switch Game Reproducers for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/real-life-quantum-mechanics-on-the-silver-screen/"><u>Real-Life Quantum Mechanics on the Silver Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/redefine-viewing-premium-platforms-for-videos-for-2024/"><u>Redefine Viewing Premium Platforms for Videos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-for-when-paradox-launcher-fails-to-start-properly/"><u>Step-by-Step Solutions for When Paradox Launcher Fails to Start Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-video-how-to-restore-your-google-meet-camera-functionality/"><u>Trouble with Video? How to Restore Your Google Meet Camera Functionality</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-get-your-alienware-command-center-running-again/"><u>Troubleshooting Guide: How to Get Your Alienware Command Center Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-your-clownfish-vocal-effect-device-fails/"><u>Troubleshooting Tips for When Your Clownfish Vocal Effect Device Fails</u></a></li>
 </ul></div>
 

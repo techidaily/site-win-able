@@ -1,7 +1,7 @@
 ---
 title: "Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005"
-date: 2024-12-13T04:55:46.667Z
-updated: 2024-12-20T09:56:59.518Z
+date: 2024-12-18T21:27:35.611Z
+updated: 2024-12-21T19:10:36.619Z
 tags:
   - win11
   - win10
@@ -33,11 +33,19 @@ If you keep getting the popup**Error Code 80070057** when playing Call of Duty: 
 * [5. Delete the Battle.net Cache folder](https://tools.techidaily.com/drivereasy/download/)
 * [6. Set English as the Windows display language](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Scan and repair
 
 The first thing, as it suggests, is to perform a scan and repair.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/fatal-error.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It’s also a good idea to restart your computer and your game after that. Cliché as it is, sometimes a simple restart can solve some annoying problems.
 
@@ -48,21 +56,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Install the latest patch
@@ -75,7 +75,7 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Click**Check for Updates** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
@@ -98,7 +98,7 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
@@ -122,11 +122,11 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
- Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -140,6 +140,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
@@ -148,18 +156,10 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -186,17 +186,22 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-advanced-tips-for-applying-onscreen-vhs-effects-and-filters/"><u>[New] In 2024, Advanced Tips for Applying Onscreen VHS Effects and Filters</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-diablo-2-resurrected-crashing/"><u>[SOLVED] Diablo 2 Resurrected Crashing</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-2024-approved-final-cut-pros-top-10-must-have-plug-ins-for-professionals/"><u>[Updated] 2024 Approved Final Cut Pro’s Top 10 Must-Have Plug-Ins for Professionals</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-ready-set-resize-transformative-techniques-for-macs-instagram-content/"><u>[Updated] In 2024, Ready, Set, Resize Transformative Techniques for Mac's Instagram Content</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-swiftclick-retrorecall-video-for-2024/"><u>[Updated] SwiftClick RetroRecall Video for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-magic5-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor Magic5 Ultimate | Dr.fone</u></a></li>
-<li><a href="https://win-trending.techidaily.com/1728508659226-iso4/"><u>如何通过不同手段制作ISO磁盘图像（详解4种方法）</u></a></li>
-<li><a href="https://win-able.techidaily.com/disco-elysium-wont-launch-on-windows-troubleshooting-steps-inside/"><u>Disco Elysium Won't Launch on Windows – Troubleshooting Steps Inside</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/download-4k-videos-in-mp4-the-best-conversion-methods-explained/"><u>Download 4K Videos in MP4 The Best Conversion Methods Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/path-of-exile-connection-woes-a-step-by-step-fix-for-the-2024-edition-your-ultimate-resource/"><u>Path of Exile Connection Woes? A Step-by-Step Fix for the 2024 Edition - Your Ultimate Resource</u></a></li>
-<li><a href="https://win-able.techidaily.com/rapid-enhancements-unsticking-and-streamlining-shaders-for-star-wars-battlefront-ii/"><u>Rapid Enhancements: Unsticking and Streamlining Shaders for Star Wars Battlefront II</u></a></li>
-<li><a href="https://facebook.techidaily.com/the-double-edged-sword-of-engagement-on-facebook/"><u>The Double-Edged Sword of Engagement on Facebook</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-the-streamers-blueprint-achieving-peak-performance-on-macos/"><u>[Updated] 2024 Approved The Streamer's Blueprint Achieving Peak Performance on macOS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-15-cameras-excelling-in-live-streaming/"><u>[Updated] In 2024, Top 15 Cameras Excelling in Live Streaming</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-top-20-country-anthems-from-tiktoks-chillest-stations/"><u>2024 Approved Top 20 Country Anthems From TikTok's Chillest Stations</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211342553-9781803818511-a-gift-called-gracy/"><u>A Gift Called Gracy | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-console-lag-the-best-strategies-to-optimize-destiny-2-performance/"><u>Conquer Console Lag: The Best Strategies to Optimize Destiny 2 Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/experience-the-reimagined-avatar-world-wide-with-optimal-pc-performance-and-stability/"><u>Experience the Reimagined Avatar World Wide with Optimal PC Performance and Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-solutions-for-addressing-and-repairing-doom-eternals-crash-issues/"><u>Expert Tips & Solutions for Addressing and Repairing DOOM Eternal's Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-nba-2k23-pc-crash-issues-top-7-solutions/"><u>Fixing NBA 2K23 PC Crash Issues: Top 7 Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-and-network-issues-for-a-smooth-new-world-experience/"><u>Fixing Performance and Network Issues for a Smooth 'New World' Experience</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-samsung-galaxy-s23-tactical-edition-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Samsung Galaxy S23 Tactical Edition?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tickletech-design-easy-entertaining-visuals/"><u>In 2024, TickleTech Design Easy, Entertaining Visuals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-14-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 14 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-frustration-fix-guide-to-cyberpunk-2077-pc-game-crashes/"><u>No More Frustration: Fix Guide to Cyberpunk 2077 PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-technical-glitches-in-resident-evil-village-for-smooth-pc-gameplay/"><u>Overcoming Technical Glitches in Resident Evil Village for Smooth PC Gameplay</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/solved-warning-camera-failed-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Solved Warning Camera Failed on Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-how-to-fix-the-engine-of-your-steelseries-gg-controller-when-it-fails-in-windows/"><u>Troubleshooting: How to Fix the Engine of Your SteelSeries GG Controller When It Fails in Windows</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-edit-videos-on-mac-vn-video-editor-and-beyond/"><u>Updated In 2024, Edit Videos on Mac VN Video Editor and Beyond</u></a></li>
 </ul></div>
 

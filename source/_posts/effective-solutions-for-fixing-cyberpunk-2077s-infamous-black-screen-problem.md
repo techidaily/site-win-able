@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Fixing Cyberpunk 2077’S Infamous Black Screen Problem
-date: 2024-12-18T01:19:46.480Z
-updated: 2024-12-20T06:35:36.524Z
+date: 2024-12-17T16:18:23.827Z
+updated: 2024-12-21T23:14:34.058Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 4. **[Change the power settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Close unnecessary background programs
 
  Programs running in the background like browser or anti-virus may interfere with Cyberpunk 2077 and result in the high CPU usage. So before gaming, you should shut down those unneeded programs to keep your system as clean as possible.
@@ -58,6 +62,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/steam-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check if Cyberpunk 2077 high CPU usage is still there. If so, proceed to **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On GOG
@@ -67,10 +75,14 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 3. Uncheck the box next to **In-Game Overlay** and click **Ok** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Cyberpunk 2077 to check whether your CPU maxes out. If the CPU usage remains high while you’re gaming, try the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Adjust in-game graphics settings
@@ -81,12 +93,12 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
@@ -94,11 +106,11 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-2.jpg)
 
- Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
 
 ### Fix 4 – Change the power settings
 
@@ -108,38 +120,26 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -184,16 +184,17 @@ There are two ways you can update the device drivers correctly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/century-age-of-ashes-fixed-pc-version-no-more-crashes/"><u>Century: Age of Ashes - Fixed PC Version No More Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/enhancing-performance-and-fps-in-tainted-grail-conquest-gameplay-guide/"><u>Enhancing Performance & FPS in Tainted Grail: Conquest Gameplay Guide</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-best-performance-download-updated-drivers-for-your-nvidia-gtx-1650-super-on-windows-11/"><u>Get the Best Performance: Download Updated Drivers for Your NVIDIA GTX 1650 Super on Windows 11</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-track-a-lost-realme-11-proplus-for-free-drfone-by-drfone-virtual-android/"><u>How to Track a Lost Realme 11 Pro+ for Free? | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-establishing-group-communication-on-skype-windows-mac/"><u>In 2024, Establishing Group Communication on Skype (Windows, Mac)</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-knowledge-nexus-best-ed-sources-on-youtube/"><u>In 2024, Knowledge Nexus Best Ed Sources on YouTube</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-disconnect-eliminating-diablo-iiis-frequent-freezes-and-closes/"><u>No More Disconnect: Eliminating Diablo III's Frequent Freezes & Closes</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210404136-9798985059915-portrait-of-my-soul/"><u>Portrait Of My Soul | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-discord-keeps-failing-to-load/"><u>Troubleshooting Steps When Discord Keeps Failing to Load</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-succeeded-users-can-now-download-and-enjoy-the-ascent-app/"><u>Troubleshooting Succeeded: Users Can Now Download & Enjoy The Ascent App</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-securing-speech-accuracy-techniques-for-perfect-translation/"><u>[New] In 2024, Securing Speech Accuracy Techniques for Perfect Translation</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-free-yourself-from-video-edges-on-youtube/"><u>[Updated] Free Yourself From Video Edges on YouTube</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-highest-rated-10-apps-to-watch-golf-and-soccer-in-the-moment/"><u>2024 Approved Highest Rated 10 Apps to Watch Golf & Soccer in the Moment</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomeutant-pc-game-crashes-essential-troubleshooting-guide/"><u>Biomeutant PC Game Crashes : Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/csr8510-a10-nvidia-gpu-driver-solutions-for-windows-users-fixed/"><u>CSR8510 A10 Nvidia GPU Driver Solutions for Windows Users [FIXED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-connection-issues-in-call-of-duty-warzone-for-pc-users/"><u>Fixing Connection Issues in Call of Duty: Warzone for PC Users</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-raw-footage-to-final-cut-youtube-studio-edition-for-2024/"><u>From Raw Footage to Final Cut YouTube Studio Edition for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/future-proofing-assistants-how-apple-plans-to-enhance-siri-by-2025-insights-from-zdnet/"><u>Future-Proofing Assistants: How Apple Plans to Enhance Siri by 2025 - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-visual-clarity-on-kinemaster-projects/"><u>In 2024, Maximizing Visual Clarity on Kinemaster Projects</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/seamless-audio-visual-synchronization-in-premiere-pro-for-2024/"><u>Seamless Audio-Visual Synchronization in Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tricks-to-overcome-the-blackout-in-cod-warzone/"><u>Top Tricks to Overcome the Blackout in COD: Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-roblox-glitches-instantly-top-6-fixes-for-pc-players-updated-guide-2024/"><u>Troubleshoot Roblox Glitches Instantly: Top 6 Fixes for PC Players - Updated Guide 2024</u></a></li>
 </ul></div>
 

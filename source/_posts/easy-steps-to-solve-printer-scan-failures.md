@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Solve Printer Scan Failures
-date: 2024-12-14T21:47:03.619Z
-updated: 2024-12-19T21:54:58.321Z
+date: 2024-12-16T16:53:25.406Z
+updated: 2024-12-21T23:44:52.724Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not try them all; just work your way down the list until you find the one that does the trick.
@@ -34,6 +38,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 6. **[Use the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Repair system files
 
@@ -53,10 +61,6 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2 – Update your device drivers
 
  The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
@@ -73,13 +77,13 @@ There are mainly two ways you can update the driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -113,15 +117,7 @@ There are mainly two ways you can update the driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Opt out of Public Test Channel
 
@@ -136,15 +132,7 @@ It’s suggested you opt out of the Beta mode and here’s how:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6 – Use the dedicated graphics card
 
@@ -154,10 +142,22 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
@@ -185,19 +185,18 @@ Restart Oculus Link and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-gratuitous-access-to-top-digital-editing-suites/"><u>[New] In 2024, Gratuitous Access to Top Digital Editing Suites</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-leading-5-internet-screenshot-kits-for-2024/"><u>[Updated] Leading 5 Internet Screenshot Kits for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-on-pc-how-to-eliminate-gameplay-interruptions-and-improve-performance/"><u>Assassin's Creed Valhalla on PC - How to Eliminate Gameplay Interruptions and Improve Performance</u></a></li>
-<li><a href="https://program-issues.techidaily.com/end-of-the-line-troubleshooting-for-pc-gamers-solve-crashing-final-stages/"><u>End of the Line Troubleshooting for PC Gamers: Solve Crashing Final Stages</u></a></li>
-<li><a href="https://win-able.techidaily.com/far-cry-5-load-screen-troubles-here-are-your-answers/"><u>Far Cry 5 Load Screen Troubles? Here Are Your Answers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-r-type-final-2-continuous-crashes-on-windows-a-comprehensive-guide/"><u>How to Fix R-Type Final 2 Continuous Crashes on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v10-document-with-digital-signature-app-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.0 document with digital signature app</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-visual-clarity-conundrum-ultrawide-vs-uhd-4k-monitors-decision/"><u>In 2024, Visual Clarity Conundrum UltraWide vs UHD 4K Monitors Decision</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solving-gta-n-online-functionality-errors/"><u>Step-by-Step Guide to Solving GTA N Online Functionality Errors</u></a></li>
-<li><a href="https://fox-that.techidaily.com/tech-peacekeepers-guide-silencing-ipad-when-iphone-calls-inbound/"><u>Tech Peacekeepers Guide: Silencing iPad when iPhone Calls Inbound</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-definitive-list-of-top-quality-mics-for-yt-styles-for-2024/"><u>The Definitive List of Top-Quality Mics for YT Styles for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-hub-your-go-to-source-for-in-depth-computer-hardware-reviews/"><u>Tom's Tech Hub: Your Go-To Source for In-Depth Computer Hardware Reviews</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723004154591-troubleshooting-starfield-sound-glitches-cut-out-and-stuttering-fixed/"><u>Troubleshooting Starfield Sound Glitches: Cut Out and Stuttering Fixed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-your-game-library-again-easy-remedies-for-steam-logon-challenges/"><u>Unlock Your Game Library Again: Easy Remedies for Steam Logon Challenges</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-15-steps-towards-perfecting-your-educational-video-content-for-youtube/"><u>[New] 2024 Approved 15 Steps Towards Perfecting Your Educational Video Content for YouTube</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-perfecting-your-craft-making-time-lapse-films-with-ipad/"><u>[New] In 2024, Perfecting Your Craft Making Time-Lapse Films with iPad</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-advanced-techniques-in-itunes-video-saving/"><u>[Updated] 2024 Approved Advanced Techniques in iTunes Video Saving</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-boost-your-brand-with-masterful-looped-videos-on-instagram/"><u>[Updated] Boost Your Brand with Masterful Looped Videos on Instagram</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-your-experience-increasing-fps-on-tainted-grail-conquest/"><u>Elevate Your Experience - Increasing FPS on 'Tainted Grail: Conquest'</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-image-clarity-solutions-for-resolving-fuzzy-graphics-in-cod-warzone-pc-version/"><u>Enhancing Image Clarity: Solutions for Resolving Fuzzy Graphics in COD: Warzone (PC Version)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-gta-5-crashing-woes-tips-and-solutions-explored/"><u>Fix Your GTA 5 Crashing Woes - Tips & Solutions Explored</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-3-top-notch-smartphones-excelling-at-video-capture/"><u>In 2024, 3 Top-Notch Smartphones Excelling at Video Capture</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy XCover 7</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/making-youtube-audio-mp3s-easily-for-your-mac-for-2024/"><u>Making YouTube Audio MP3s Easily for Your Mac for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-performance-issues-in-farming-simulator-22-understanding-frame-rate-dips/"><u>PC Performance Issues in Farming Simulator 22: Understanding Frame Rate Dips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-fatal-exception-in-wow-understanding-and-fixing-error-132/"><u>Resolving Fatal Exception in WoW: Understanding and Fixing Error 132</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-directx-issues-in-battlefield-2042/"><u>Ultimate Guide: Resolving DirectX Issues in Battlefield 2042</u></a></li>
 </ul></div>
 

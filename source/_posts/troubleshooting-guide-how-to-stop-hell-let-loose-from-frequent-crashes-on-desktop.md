@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Stop 'Hell Let Loose' From Frequent Crashes on Desktop"
-date: 2024-08-23T11:16:26.404Z
-updated: 2024-08-24T11:16:26.404Z
+date: 2024-12-15T00:02:00.212Z
+updated: 2024-12-21T19:58:37.568Z
 tags:
   - win11
   - win10
@@ -52,9 +52,6 @@ Left 4 Dead 2 is an old game but there’re still gamers who love playing it. Th
 | Storage:    | 13 GB available space                                          |
 | Sound Card: | DirectX 9.0c compatible sound card                             |
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Update your driver
 
  Driver plays an important part in the Windows system. With outdated or wrong drivers, you may encounter Left 4 Dead 2 crash issue. By updating drivers to the latest version can fully use your graphic card and get a better gaming experience.
@@ -83,9 +80,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -113,28 +112,25 @@ If it doesn’t work for you, move to the next fix.
 3. Click the**LOCAL FILES**  tab, then click **Verify integrity of game files…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-1.png)
 4. Wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/image-2-1.png)
 5. Restart your computer and open the game to check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
 You can also disable Steam overlay in Left 4 Dead 2.
 
 1. Run Steam client and head to**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-34.jpg)
 2. Click**In-Game** , then disable “**Enable the Steam Overlay while in-game** ” and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_14-09-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If it doesn’t work for you, move to the next fix.
 
 ### Fix 5\. Disable add-ons
@@ -153,6 +149,10 @@ To check if your add-ons are the fault, here the following things to do:
 8. Add an add-on from the new folder to your original one by one.
 9. Find the exact add-on that causes the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6\. Change compatibility mode
 
  If the above fixes don’t help, you can consider rolling back drivers to your previous version to see if the problem is solved. If so, it might be a recent patch for L4D2 that made it incompatible with something in your system. If possible, you could check the Event Viewer to find out what happens.
@@ -165,6 +165,10 @@ To check if your add-ons are the fault, here the following things to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run it to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
  I’ve provided most of the fixes that are proved by other users. But there’s no solution that is 100% effective for all PC users and Left 4 Dead 2 crashing causes can be various due to different situations. Hope one of the fixes would solve your issue, and if you have any questions or suggestions, you’re welcome to leave a comment. We’ll try our best to help.
@@ -175,8 +179,6 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +186,26 @@ To check if your add-ons are the fault, here the following things to do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-blitzclick-leisureshot-streaming/"><u>[New] 2024 Approved BlitzClick LeisureShot Streaming</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-ultimate-guide-to-best-android-animal-games/"><u>[New] The Ultimate Guide to Best Android Animal Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-samurai-warriors-5-keeps-crashing-on-pc/"><u>[SOLVED] Samurai Warriors 5 Keeps Crashing on PC</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-asus-rog-phone-7-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Asus ROG Phone 7 | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/custom-film-conclusion-templates-for-free-for-2024/"><u>Custom Film Conclusion Templates, For FREE for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-minecraft-game-freezing-discover-6-quick-solutions-to-stabilize-your-playtime/"><u>End Minecraft Game Freezing - Discover 6 Quick Solutions to Stabilize Your Playtime</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-on-the-enhanced-features-of-ring-video-doorbell-proplus/"><u>Expert Insights on the Enhanced Features of Ring Video Doorbell Pro+</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-improve-stability-for-a-smoother-back-4-blood-experience-on-pc-systems/"><u>Fix and Improve Stability for a Smoother Back 4 Blood Experience on PC Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-resolving-launch-issues-with-mass-effect-legendary-edition/"><u>Fix Guide: Resolving Launch Issues with Mass Effect Legendary Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010750992-fixing-the-launch-problems-of-hitman-3-for-pc-gamers-solutions-found/"><u>Fixing the Launch Problems of Hitman 3 for PC Gamers - Solutions Found</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-conversion-change-wav-files-into-mp4-format-with-ease-movavi/"><u>Free Online Conversion: Change WAV Files Into MP4 Format with Ease - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-failed-updates-on-final-fantasy-xiv-ffxiv/"><u>How to Fix Failed Updates on Final Fantasy XIV (FFXIV)</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/24-android-users-discover-the-top-youtube-video-clips/"><u>In 2024, Android Users, Discover the Top YouTube Video Clips</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/master-your-ipad-expert-advice-on-key-tips-tricks-and-setting-tweaks-every-apple-user-should-know-zdnet/"><u>Master Your iPad: Expert Advice on Key Tips, Tricks & Setting Tweaks Every Apple User Should Know | ZDNET</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mystery-maneuvers-effortless-enhancement-techniques-for-2024/"><u>Mystery Maneuvers Effortless Enhancement Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-war-thunder-game-crashes-with-these-5-essential-techniques/"><u>Resolve Your War Thunder Game Crashes with These 5 Essential Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-endless-loading-on-anthem-a-comprehensive-fix-guide/"><u>Solve Endless Loading on Anthem: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-increasing-your-ark-sanctuarys-performance-tips-for-pc-players/"><u>Ultimate Guide to Increasing Your ARK: Sanctuary's Performance - Tips for PC Players</u></a></li>
+<li><a href="https://games-able.techidaily.com/unlock-controller-functionality-in-windows-operations/"><u>Unlock Controller Functionality in Windows Operations</u></a></li>
+</ul></div>
 

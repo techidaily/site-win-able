@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Twin-Breakdown Challenge: Expert Solutions to PC Double-Crashing Issues"
-date: 2024-12-15T17:53:42.970Z
-updated: 2024-12-19T21:58:57.662Z
+date: 2024-12-14T16:57:50.312Z
+updated: 2024-12-21T21:12:45.568Z
 tags:
   - win11
   - win10
@@ -55,20 +55,16 @@ thumbnail: https://thmb.techidaily.com/9ca2eff6ae26123de716ede19623049b700dbda01
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. You’ll need the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) to do this and you’ll be prompted to upgrade.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Stop overclocking
 
@@ -95,7 +91,7 @@ Here are the system requirements for Control:
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
@@ -115,23 +111,23 @@ Here are the system requirements for Control:
 2. View the Control Panel by **Large icons** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -158,10 +154,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
@@ -172,10 +164,6 @@ Here are the system requirements for Control:
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -190,6 +178,10 @@ Here are the system requirements for Control:
 
  See if the game will crash or not. Normally this issue should be resolved. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Control crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -200,7 +192,15 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
@@ -229,6 +229,10 @@ Here are the system requirements for Control:
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Control.
@@ -245,17 +249,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_12-24-18.png)
 2. In the Properties Window, navigate to**the Compatibility tab** , check the box next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list. Check the box next to**Run as an administrator** and then click**OK** to save the changes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
@@ -284,24 +284,22 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-capturing-the-moment-masterful-techniques-for-excellent-edits/"><u>[New] 2024 Approved Capturing the Moment Masterful Techniques for Excellent Edits</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-joining-independent-iphone-videos-with-ease/"><u>[New] In 2024, Joining Independent iPhone Videos with Ease</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/updated-trending-tutorial-tracker/"><u>[Updated] Trending Tutorial Tracker</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-domain-services-print-problems-in-win11/"><u>Addressing Domain Services Print Problems in Win11</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/crafting-compelling-narratives-in-instagram-ads-top-10-tips-for-success/"><u>Crafting Compelling Narratives in Instagram Ads Top 10 Tips for Success</u></a></li>
-<li><a href="https://win-able.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-guide/"><u>Crusader Kings II Won't Start: Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-the-problem-when-steelseries-gg-engine-stops-responding-in-windows/"><u>Diagnosing and Repairing the Problem: When SteelSeries GG Engine Stops Responding in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-strategies-to-combat-latency-in-dota-2-expert-advice-for-smooth-gameplay/"><u>Effective Strategies to Combat Latency in Dota 2: Expert Advice for Smooth Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/every-proper-noun-eg-kickstarter-indiegogo-must-be-transformed-into-anagrams-that-still-somewhat-relate-to-finance-or-entrepreneurship-for-instance-kickstar587/"><u>Every Proper Noun (E.g., Kickstarter, Indiegogo) Must Be Transformed Into Anagrams that Still Somewhat Relate to Finance or Entrepreneurship. For Instance, Kickstarter Could Become Start Cork Key, Implying a Key Initiative Kicking Off Fundraising Efforts.</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-browser-showdown-opera-gx-vs-microsofts-edge/"><u>Gaming Browser Showdown: Opera GX vs Microsoft's Edge</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-launch-problems-in-payday-2-for-windows-computers/"><u>How to Resolve Launch Problems in Payday 2 for Windows Computers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-lava-yuva-2-pro-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Lava Yuva 2 Pro?</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-12plus-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme 12+ 5G Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-discord-how-to-fix-a-frozen-stream-that-wont-load/"><u>Mastering Discord: How to Fix a Frozen Stream That Won’t Load</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-mlb-the-show-21-connectivity-and-server-errors/"><u>Resolved - MLB The Show 21 Connectivity and Server Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-slow-motion-six-speed-secrets-to-improving-fps-in-elden-ring/"><u>Solve Slow Motion: Six Speed Secrets To Improving FPS in Elden Ring</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-improve-frame-rates-and-eliminate-hiccups-in-naraka-bladepoint-playthroughs/"><u>Step-by-Step Solution to Improve Frame Rates & Eliminate Hiccups in Naraka: Bladepoint Playthroughs</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/strategic-use-of-vpn-for-private-chatgpt-interactions/"><u>Strategic Use of VPN for Private ChatGPT Interactions?</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-boosting-your-home-viewing-experience-with-1byones-hdtv-amplified-antenna-value-king/"><u>The Ultimate Guide to Boosting Your Home Viewing Experience with 1BYONE's HDTV Amplified Antenna – Value King</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[New] A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-leveraging-user-feedback-with-instagram-story-questions-for-2024/"><u>[New] Leveraging User Feedback with Instagram Story Questions for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-beyond-clickbait-whats-real-about-instagram-reels/"><u>[Updated] 2024 Approved Beyond Clickbait What's Real About Instagram Reels?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-broadcast-battles-tech-titans-tussle-for-top-spot/"><u>[Updated] 2024 Approved Broadcast Battles Tech Titans Tussle for Top Spot</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-travel-bloggers-blueprint-strategies-for-professional-growth/"><u>[Updated] 2024 Approved The Travel Blogger's Blueprint Strategies for Professional Growth</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-beat-buzzers-up-and-coming-background-scores-for-yt-shorts/"><u>[Updated] In 2024, Beat Buzzers Up-and-Coming Background Scores For YT Shorts</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-deciphering-youtubes-profit-for-a-mil-of-viewers/"><u>2024 Approved Deciphering YouTube’s Profit for A Mil of Viewers</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/apple-tv-4k-generation-3-an-extensive-evaluation-for-tech-enthusiasts/"><u>Apple TV 4K Generation 3 - An Extensive Evaluation for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-troubleshooting-guide-ensuring-smooth-steam-downloads-without-interruptions/"><u>Complete Troubleshooting Guide: Ensuring Smooth Steam Downloads Without Interruptions</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-the-fixes-an-authoritative-approach-to-overcoming-devastating-ark-server-crashes/"><u>Decode the Fixes: An Authoritative Approach to Overcoming Devastating ARK Server Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-fixes-resolving-ghost-recon-breakpoint-sudden-crash-problems/"><u>Effortless Fixes: Resolving Ghost Recon Breakpoint Sudden Crash Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-xiaomi-mix-fold-3-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Xiaomi Mix Fold 3 on Mac?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-gameplay-smoothness-how-to-eliminate-unresponsive-behavior-and-freezes-in-pubg-for-optimal-pc-gaming-experience/"><u>Mastering Gameplay Smoothness: How To Eliminate Unresponsive Behavior & Freezes in PUBG for Optimal PC Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-resolving-windows-10s-critical-error-code-0xc19001e1/"><u>Overcome the Hurdle: Resolving Windows 10'S Critical Error Code 0xC19001E1</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-issues-with-non-delivery-of-skype-messages-a-comprehensive-guide/"><u>Resolving Issues with Non-Delivery of Skype Messages: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-fixes-two-point-fall-in-pc-games-frame-rate-performance/"><u>Solution Found! Fixes Two-Point Fall in PC Game's Frame Rate Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-fortnite-video-memory-crash-effective-fixes-and-workarounds/"><u>Solve Fortnite Video Memory Crash: Effective Fixes & Workarounds</u></a></li>
 </ul></div>
 

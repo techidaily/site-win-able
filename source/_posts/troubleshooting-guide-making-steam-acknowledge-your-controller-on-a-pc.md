@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2024-12-14T23:18:56.929Z
-updated: 2024-12-20T04:43:38.692Z
+date: 2024-12-14T22:29:55.287Z
+updated: 2024-12-21T19:00:36.704Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to fix Dauntless Crash On PC
 
  Here are six fixes that have helped other users resolve the Dauntless crashing on PC problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -36,10 +32,6 @@ thumbnail: https://thmb.techidaily.com/b6441b39a339f8611b1685213d19341febe69f71b
 4. **[Close the background programs](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Verify game integrity
 
@@ -53,13 +45,13 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Underlock your GPU
 
@@ -96,6 +88,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -124,29 +120,33 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -171,19 +171,20 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-crusader-kings-3-stalling-performance-in-pc/"><u>[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-immediate-access-future-legacy-preserving-your-digital-moments/"><u>[Updated] Immediate Access, Future Legacy Preserving Your Digital Moments</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-rise-and-fall-of-vegas-pro-a-critical-look/"><u>[Updated] The Rise and Fall of Vegas Pro A Critical Look</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723010391893-11-proven-fixes-for-borderlands-3-not-launching/"><u>11 Proven Fixes for 'Borderlands 3 Not Launching'</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-laughlens-creator/"><u>2024 Approved LaughLens Creator</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/bluetooth-audio-dropouts-and-hitches-solutions-for-windows-11-users/"><u>Bluetooth Audio Dropouts & Hitches: Solutions for Windows 11 Users</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-the-power-of-luts-in-digital-photography/"><u>Discover the Power of LUTs in Digital Photography</u></a></li>
-<li><a href="https://win-able.techidaily.com/dissecting-the-solution-to-call-of-duty-warzone-pacific-turmoil/"><u>Dissecting the Solution to Call of Duty: Warzone Pacific Turmoil</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-correcting-discord-instability-problems/"><u>Expert Advice on Correcting Discord Instability Problems</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-apple-iphone-15-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 15 Pro System Issues? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-12-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-discord-upgrade-issues-successful-patch-implemented/"><u>Resolved Discord Upgrade Issues: Successful Patch Implemented</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722998912283-why-does-hyper-scape-keep-crashing-fix-it-now-for-a-smoother-gaming-experience/"><u>Why Does Hyper Scape Keep Crashing? Fix It Now for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/1728497875910-windows-11/"><u>Windows 11 システムのアップデート失敗解決:予約領域修正方法</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-creative-clip-enhancement-gopros-leading-15-color-grading-tools-for-2024/"><u>[Updated] Creative Clip Enhancement GoPro's Leading 15 Color Grading Tools for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-maximize-impact-with-onestreams-streaming-solutions/"><u>[Updated] In 2024, How to Maximize Impact with OneStream's Streaming Solutions</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-producing-impressive-audio-teasers/"><u>[Updated] Innovative Approaches to Producing Impressive Audio Teasers</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-share-smart-techniques-for-youtube-playlist-dispersal/"><u>[Updated] Share Smart Techniques for YouTube Playlist Dispersal</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/chatbot-battle-royale-comparing-chatgpts-vs-geminis-coding-skills/"><u>Chatbot Battle Royale: Comparing ChatGPT's vs Gemini's Coding Skills</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-frame-rate-problem-solutions-and-fixes/"><u>Dying Light Frame Rate Problem: Solutions & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashing-issues-with-metro-exodus-on-computer/"><u>Effective Solutions for Continuous Crashing Issues with Metro Exodus on Computer</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/essential-windows-11-camcorders-and-webcams-guide/"><u>Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-premier-pro-freezing-issues-on-windows-11-and-10/"><u>Fixing Premier Pro Freezing Issues on Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-when-resident-evil-village-wont-start/"><u>How to Resolve When Resident Evil Village Won't Start</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-n3-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find N3 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-msvcr110dll-missing-file-issue-in-helldivers-2/"><u>Resolving the 'msvcr110.dll Missing File' Issue in HellDivers 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-fix-to-uncover-arise-in-epic-games-engine/"><u>The Definitive Fix to Uncover Arise in Epic Games Engine</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
 </ul></div>
 

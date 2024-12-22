@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Why Microsoft Edge Keeps Crashing on Windows 11 and How to Fix It"
-date: 2024-12-18T04:24:49.877Z
-updated: 2024-12-20T04:17:01.242Z
+date: 2024-12-20T22:51:59.335Z
+updated: 2024-12-21T16:54:53.622Z
 tags:
   - win11
   - win10
@@ -23,7 +23,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Common methods
@@ -52,17 +52,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Repair & reset Microsoft Edge
 
@@ -75,16 +79,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
@@ -105,11 +113,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
@@ -118,10 +126,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -148,10 +152,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -167,7 +167,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 4. Reboot your computer to check the changes.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
@@ -194,18 +194,20 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-5-best-gaming-webcams-streammers-must-try-for-2024/"><u>[New] 5 Best Gaming Webcams Streammers Must Try for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-homemade-guide-to-google-vr-headset-construction/"><u>[New] Homemade Guide to Google VR Headset Construction</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-instantly-accessible-downloading-youtube-playlists-effortlessly/"><u>2024 Approved Instantly Accessible Downloading YouTube Playlists Effortlessly</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/elevate-your-iphone-photography-with-advanced-hdr-methods/"><u>Elevate Your iPhone Photography with Advanced HDR Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-solutions-to-silent-lost-ark-dilemma-get-your-sounds-back/"><u>Expert Solutions to Silent Lost Ark Dilemma – Get Your Sounds Back</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005051997-final-fix-for-out-of-date-minecraft-drivers-update-guide-included/"><u>Final Fix for Out-of-Date Minecraft Drivers - Update Guide Included</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-discord-overlay-issues-fast-simple-solutions/"><u>Fix Discord Overlay Issues Fast: Simple Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-tech-hurdle-a-step-by-step-guide-to-resolving-back-to-back-system-failures-in-pc-games/"><u>Master the Tech Hurdle: A Step-by-Step Guide to Resolving Back-to-Back System Failures in PC Games</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-the-hush-technique-audio-removal-expertise-for-mp4-mkv-avi-mov-wmv-video-files/"><u>New The Hush Technique Audio Removal Expertise for MP4, MKV, AVI, MOV, WMV Video Files</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-error-5573-glitch-in-call-of-duty-vanguard-for-better-performance/"><u>Overcoming the Error 5573 Glitch in Call of Duty: Vanguard for Better Performance</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/step-by-step-guide-to-annotate-windows-photos-video-content-for-2024/"><u>Step-by-Step Guide to Annotate Windows Photos Video Content for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-resolving-error-code-3-0x0001000b/"><u>Troubleshooting Rainbow Six Siege: Resolving Error Code 3-0X0001000B</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/unveiling-the-hidden-meanings-behind-facebooks-messenger-icon/"><u>Unveiling the Hidden Meanings Behind Facebook's Messenger Icon</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pinnacle-performance-discover-the-top-8-webcams-today/"><u>[Updated] 2024 Approved Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-swiftly-flip-your-movie-with-vlcs-rotation-feature/"><u>[Updated] 2024 Approved Swiftly Flip Your Movie with VLC's Rotation Feature</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-samsungs-virtual-world-enhanced-by-compatible-smartphones-2023-guide-for-2024/"><u>[Updated] Samsung's Virtual World Enhanced by Compatible Smartphones - 2023 Guide for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-prime-action-recorder-with-in-face-view/"><u>2024 Approved Prime Action Recorder with In-Face View</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-resolving-csgo-frame-rate-hiccups/"><u>Effortless Solutions for Resolving CS:GO Frame Rate Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-fixing-the-persistent-problem-of-discordeventsnotopenerror/"><u>Expert Guide: Fixing the Persistent Problem of DiscordeventsNotOpenError</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-prevent-doom-eternal-from-unexpectedly-crashing/"><u>How to Prevent DOOM Eternal From Unexpectedly Crashing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-macs-screen-capture-champions-the-premier-tools-evaluation/"><u>In 2024, Mac's Screen Capture Champions The Premier Tools Evaluation</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/nighttime-storyscapes-in-moving-pictures-for-2024/"><u>Nighttime Storyscapes in Moving Pictures for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/phoenix-point-stability-issues-heres-how-you-can-solve-them/"><u>Phoenix Point Stability Issues? Here's How You Can Solve Them</u></a></li>
+<li><a href="https://win-able.techidaily.com/reactivate-and-fix-your-windows-11-spotlight-issue-a-step-by-step-guide/"><u>Reactivate and Fix Your Windows 11 Spotlight Issue - A Step-by-Step Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/revolutionary-lenovo-thinkpad-x1-fold-16-examination-the-perfect-union-of-efficiency-and-groundbreaking-form/"><u>Revolutionary Lenovo ThinkPad X1 Fold 16 Examination: The Perfect Union of Efficiency and Groundbreaking Form</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-unreal-engine-4-crash-in-outriders-overcoming-the-infamous-madness-bug/"><u>Solved! Unreal Engine 4 Crash in Outriders – Overcoming the Infamous Madness Bug</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/the-ascension-of-ccp-rule-in-china-historical-analysis-by-yl-computing-and-yl-software/"><u>The Ascension of CCP Rule in China - Historical Analysis by YL Computing & YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-start-pathfinder-wrath-of-the-righteous-game/"><u>Troubleshooting Tips for Players Unable to Start Pathfinder: Wrath of the Righteous Game</u></a></li>
 </ul></div>
 

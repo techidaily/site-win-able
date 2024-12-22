@@ -1,7 +1,7 @@
 ---
 title: "Mastering Startup Stability: Strategies to Shield Against the Perils of an 'Atomic Heart Collapse'"
-date: 2024-12-19T07:56:43.197Z
-updated: 2024-12-20T02:35:44.318Z
+date: 2024-12-20T19:10:59.926Z
+updated: 2024-12-21T22:40:42.199Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all, just work your way down the list until you find the one that works for you.
@@ -38,6 +34,10 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 6. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Check the system requirements
 
@@ -59,7 +59,7 @@ Marvel’s Guardians of the Galaxy system requirements
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
@@ -95,19 +95,11 @@ Marvel’s Guardians of the Galaxy system requirements
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Marvel’s Guardians of the Galaxy after the verifying process is complete. See if it crashes again.
 
 If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
 
@@ -116,10 +108,6 @@ If this issue persists, try the next fix, below.
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 5\. Disable overlays
 
@@ -137,6 +125,10 @@ If this issue persists, try the next fix, below.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Temporarily disable anti-virus software
 
  Many 3rd party antivirus software often blocks important game files. Once some important game files are blocked, the game would crash.
@@ -146,10 +138,6 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -184,17 +172,21 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -203,7 +195,15 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
@@ -238,20 +238,22 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-capturing-youtube-icons-browser-extension-command-line-and-software-trio/"><u>[New] 2024 Approved Capturing Youtube Icons Browser Extension, Command Line & Software Trio</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-world-of-warcraft-error-132-fatal-exception/"><u>[Solved] World of Warcraft Error 132 Fatal Exception</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-best-15-online-photo-editors-2023free/"><u>[Updated] In 2024, Best 15 Online Photo Editors 2023[Free]</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-unleashing-potential-channel-building-mastery/"><u>[Updated] Unleashing Potential Channel Building Mastery</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-engine-malfunctions-heres-how-to-diagnose-and-repair-them-effectively/"><u>Apex Legends Engine Malfunctions? Here's How to Diagnose and Repair Them Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-and-fixing-the-dark-screen-error-in-rainbow-six-siege-gameplay-for-pc-gamers/"><u>Diagnosing and Fixing the Dark Screen Error in Rainbow Six Siege Gameplay for PC Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-solutions-to-decrease-latency-and-enhance-fps-for-counter-strike-2-on-pcs/"><u>Easy Solutions to Decrease Latency & Enhance FPS for Counter-Strike 2 on PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/eliminate-lags-in-resident-evil-village-on-pc-essential-troubleshooting-guide-for-gamers/"><u>Eliminate Lags in Resident Evil Village on PC: Essential Troubleshooting Guide for Gamers</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-halo-infinite-solutions-to-the-troublesome-black-screen-problem/"><u>Fixing Halo Infinite: Solutions to the Troublesome Black Screen Problem</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-12-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone 12 devices? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro?</u></a></li>
-<li><a href="https://fox-http.techidaily.com/market-opening-innovations-for-2024/"><u>Market-Opening Innovations for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-making-rainbow-six-extraction-compatible-with-your-system/"><u>Step-by-Step Guide: Making Rainbow Six Extraction Compatible with Your System</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/top-5-legitimate-sources-for-downloading-your-favorite-chinese-films-safely-and-easily/"><u>Top 5 Legitimate Sources for Downloading Your Favorite Chinese Films Safely and Easily</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/troubleshooting-guide-connecting-your-seagate-external-to-win-10/"><u>Troubleshooting Guide: Connecting Your Seagate External to Win 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-from-youtube-to-instagram-sharing-video-content-with-ease-for-2024/"><u>[New] From YouTube to Instagram Sharing Video Content with Ease for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-iphone-night-scene-mastery-guide/"><u>[New] IPhone Night Scene Mastery Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-helmet-hats-a-comprehensive-look-at-best-cams-in-bike-culture/"><u>[Updated] Helmet Hats A Comprehensive Look at Best Cams in Bike Culture</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-how-to-see-your-subscribers-on-youtube/"><u>[Updated] How to See Your Subscribers on YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-solutions-for-pc-users-experiencing-game-crashes-with-madden-nfl-20/"><u>Comprehensive Solutions for PC Users Experiencing Game Crashes with Madden NFL 20</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-resolving-steams-error-in-connecting-locally/"><u>Expert Advice on Resolving Steam's Error in Connecting Locally</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-risk-of-rain-2-crash-issue-expert-solutions/"><u>Fixing the 'Risk of Rain 2' Crash Issue: Expert Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-your-system-boosted-free-update-for-killer-network-drivers-on-windows-systems-win10-8-7/"><u>Get Your System Boosted: Free Update for Killer Network Drivers on Windows Systems (Win10, 8, 7)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-activities-for-the-modern-podcaster/"><u>In 2024, Innovative Activities for the Modern Podcaster</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-video-watermarks-4-simple-methods-to-insert-images-with-ease/"><u>Mastering the Art of Video Watermarks: 4 Simple Methods to Insert Images with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/praey-fixed-issues-with-stability-and-no-more-crashes-on-windows-computers/"><u>Praey: Fixed Issues with Stability and No More Crashes on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-how-to-resolve-winwordexe-software-issues/"><u>Quick Solutions: How to Resolve WINWORD.EXE Software Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-infinix-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Infinix has been deleted</u></a></li>
+<li><a href="https://win-able.techidaily.com/revive-the-roar-of-the-wasteland-fixing-sound-issues-in-fallout-4-on-desktop-systems/"><u>Revive the Roar of the Wasteland: Fixing Sound Issues in Fallout 4 on Desktop Systems</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-to-fix-unsent-imessages-on-ios-devices/"><u>Step-by-Step Guide to Fix Unsent iMessages on iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/steps-to-stop-palworld-from-frequently-freezing-or-crashing-on-pc/"><u>Steps to Stop PalWorld From Frequently Freezing or Crashing on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-fix-path-of-exile-stuttering-effective-solutions-shared/"><u>Troubleshoot & Fix Path of Exile Stuttering: Effective Solutions Shared</u></a></li>
 </ul></div>
 

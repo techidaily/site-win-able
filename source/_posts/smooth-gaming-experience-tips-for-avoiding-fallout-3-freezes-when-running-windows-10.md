@@ -1,7 +1,7 @@
 ---
 title: "Smooth Gaming Experience: Tips for Avoiding Fallout 3 Freezes When Running Windows 10"
-date: 2024-08-23T11:14:51.292Z
-updated: 2024-08-24T11:14:51.292Z
+date: 2024-12-18T18:54:13.110Z
+updated: 2024-12-21T18:27:55.192Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 | RAM              | 8 GB                                                         |
 | HDD space        | 30 GB                                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6 fixes for Fallout 4 freezing issue
 
  There are**6** easy-to-apply methods that have helped other users fix their lag issues in Fallout 4\. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -50,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game cache
 
  If your game freezes on Fallout 4 startup, it’s possible that the installation of Fallout 4 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -60,6 +68,10 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Remove incompatible programs
 
  If you newly installed some thrid-party programs recently, it is possible they are incompatible with the Fallout 4 and cause the freezing issue. Also, some antivirus software (like Bitdefender) may block some features in Fallout 4 so that you’re encountering Fallout 4 freezing issue.  
@@ -69,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 
  If this resolves your problem, you may need to remove the program or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run your game in compatibility mode
 
  You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
@@ -79,15 +88,13 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
 3. Run your game to see if this works for you.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.
@@ -102,15 +109,12 @@ thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Change your game mode and correct the resolutions by modifying your game file
 
  If the above fixes fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -129,9 +133,6 @@ Here’s how you can do it:
 3. Save the file and exit Notepad.
 4. Run Fallout 4 to see if it goes smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 6: Adjust the frame rate
 
 **Frame rate** refers to the number of individual images that are displayed per second in your game display. If the frame rate of Fallout 4 on your system drops, everything will **slow down** or even**frozen** . **58 fps** is the recommended frame rate you can set. Why 58? It’s some kind of magic number as the least problems happen at this frame rate.
@@ -156,8 +157,6 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +164,19 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-ad-based-revenue-tracking-for-youtubers-success/"><u>[Updated] Ad-Based Revenue Tracking for YouTubers' Success</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/chatgpt-microsoft-discover-who-runs-this-ai/"><u>ChatGPT' Microsoft: Discover Who Runs This AI</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-se-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone SE</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-iphone-wont-connect-to-itunes-on-windows-11-solutions-guide/"><u>Fix: IPhone Won't Connect to iTunes on Windows 11 - Solutions Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a14-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A14 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/multimedia-caption-compiler-for-2024/"><u>Multimedia Caption Compiler for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010838266-rainbow-six-extraction-fixed-no-more-pc-crashes/"><u>Rainbow Six Extraction: Fixed – No More PC Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-truth-behind-elden-rings-delayed-launch/"><u>The Truth Behind Elden Ring's Delayed Launch</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-ultimate-list-of-5-ai-companions-for-inspirational-content-creation/"><u>The Ultimate List of 5 AI Companions for Inspirational Content Creation</u></a></li>
+<li><a href="https://win-answers.techidaily.com/top-12-high-quality-mp3-players-unleash-free-music-downloads/"><u>Top 12 High-Quality MP3 Players: Unleash Free Music Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-why-your-steam-games-wont-start-in-windows-10-and-how-to-solve-them/"><u>Troubleshooting Tips: Why Your Steam Games Won't Start in Windows 10 & How to Solve Them</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/unleash-your-browsers-ai-potential-our-top-7-suggestions/"><u>Unleash Your Browser's AI Potential: Our Top 7 Suggestions</u></a></li>
+</ul></div>
 
