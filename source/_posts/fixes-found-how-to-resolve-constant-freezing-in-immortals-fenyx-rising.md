@@ -1,7 +1,7 @@
 ---
 title: "Fixes Found: How to Resolve Constant Freezing in Immortals Fenyx Rising"
-date: 2024-11-19T17:54:43.629Z
-updated: 2024-11-26T17:02:50.901Z
+date: 2024-12-18T03:22:13.873Z
+updated: 2024-12-20T05:13:41.942Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -34,7 +38,7 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
@@ -63,10 +67,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -78,11 +78,11 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
 
@@ -120,10 +120,6 @@ If this method doesn’t help, you can take a look at the next one.
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Install all Windows updates
 
  Microsoft releases software updates and security patches periodically to fix operating system issues. We always recommend**keeping your system up to date** , as doing so would help you avoid tons of strange errors.
@@ -135,10 +131,14 @@ And here’s how you can make sure your system is the latest:
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -163,22 +163,18 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-uncomplicated-approaches-to-saving-gameplay/"><u>[New] In 2024, Uncomplicated Approaches to Saving Gameplay</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-checklist-for-a-premium-4k-lens-buy/"><u>[New] The Ultimate Checklist for a Premium 4K Lens Buy</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-dota-2-fps-drops-on-windows-11-10/"><u>[SOLVED] Dota 2 FPS Drops on Windows 11, 10</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-iphone-nightscape-techniques-unlocked/"><u>[Updated] IPhone Nightscape Techniques Unlocked</u></a></li>
-<li><a href="https://win-able.techidaily.com/connecting-successfully-in-rainbow-six-siege-overcoming-server-issues/"><u>Connecting Successfully in Rainbow Six Siege: Overcoming Server Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-correcting-critical-pc-stability-errors-for-lego-star-wars-2024-release-fixes/"><u>Expert Advice: Addressing and Correcting Critical PC Stability Errors for Lego Star Wars - 2024 Release Fixes</u></a></li>
-<li><a href="https://driver-download.techidaily.com/freshly-released-geforce-rtx-2nvidas-rtx-2070-driver-upgrade-for-windows-users-versions-10-8-and-7/"><u>Freshly Released: GeForce RTX 2Nvida's RTX 2070 Driver Upgrade for Windows Users (Versions 10, 8 & 7)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-to-update-your-windows-graphic-cards-with-sapphire-drivers/"><u>How to Update Your Windows Graphic Cards with SAPPHIRE Drivers</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-top-tier-tactics-for-crafting-fbs-most-watched-videos/"><u>In 2024, Top-Tier Tactics for Crafting #FB's Most Watched Videos</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-unable-to-join-a-party-issue-a-guide-through-fortnite-error-code-84/"><u>Resolving the 'Unable to Join a Party' Issue: A Guide Through Fortnite Error Code #84</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-to-fix-the-infamous-leaf-error-on-apex-legends-guide-for-gaming-enthusiasts/"><u>Top Tips to Fix the Infamous 'Leaf' Error on Apex Legends – Guide for Gaming Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-city-skylines-2-issues-game-wont-start/"><u>Troubleshooting City Skylines 2 Issues: Game Won't Start?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-launch-problems-in-a-total-war-saga-troy-on-windows/"><u>Troubleshooting Guide: Fixing Launch Problems in A Total War: Saga - Troy on Windows</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-tutorial-how-to-stream-games-from-ps5-with-friends/"><u>Ultimate Tutorial: How to Stream Games From PS5 with Friends</u></a></li>
-<li><a href="https://some-skills.techidaily.com/unlocking-the-secrets-to-smooth-imports-in-windows-10-os-for-2024/"><u>Unlocking the Secrets to Smooth Imports in Windows 10 OS for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/victory-over-fortnites-unable-to-join-a-party-effective-strategies-to-tackle-error-code-84/"><u>Victory Over Fortnite's 'Unable to Join a Party': Effective Strategies To Tackle Error Code 84</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-chatgpt-for-2024/"><u>What Is ChatGPT for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-a-deeper-insight-into-augmented-reality-stickers-by-google/"><u>[New] A Deeper Insight Into Augmented Reality Stickers by Google</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-computer-connection-5-strategies-to-move-files/"><u>[New] Computer Connection 5 Strategies to Move Files</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-mastering-videographic-success-stories-for-client-praise/"><u>[New] In 2024, Mastering Videographic Success Stories for Client Praise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-master-the-art-of-striking-gopro-time-lapse-videos-for-2024/"><u>[Updated] Master the Art of Striking GoPro Time-Lapse Videos for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-smartphone-showdown-10-titans-of-content-creation/"><u>[Updated] Smartphone Showdown 10 Titans of Content Creation</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Infinix Note 30 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/battle-of-the-titans-fixing-character-overlaps-in-popular-comic-book-games-on-pc/"><u>Battle of the Titans: Fixing Character Overlaps in Popular Comic Book Games on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010980723-left-4-dead-2-stability-improvements-no-more-game-crashes/"><u>Left #4 Dead 2 Stability Improvements - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-hogwarts-legacy-playtime-hiccups-with-these-6-fixes/"><u>Overcome Hogwarts Legacy Playtime Hiccups with These 6 Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/tech-troubles-fix-your-game-instant-solutions-to-stop-titanfall-2-from-crashing/"><u>Tech Troubles? Fix Your Game: Instant Solutions to Stop Titanfall 2 From Crashing!</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ourney-to-behind-the-camera-expertise-via-youtube/"><u>The Journey to Behind-the-Camera Expertise via YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-resolving-valheims-stutters-and-pauses-on-windows-computers/"><u>Troubleshooting: Resolving Valheim's Stutters and Pauses on Windows Computers</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unbeatable-labor-day-offer-grab-a-24-discount-on-apples-airtags-at-walmart-exclusive-deal/"><u>Unbeatable Labor Day Offer: Grab a $24 Discount on Apple's AirTags at Walmart Exclusive Deal!</u></a></li>
 </ul></div>
 

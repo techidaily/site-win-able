@@ -1,7 +1,7 @@
 ---
 title: "Master Your Chat Experience: Ending Discord Lags"
-date: 2024-08-23T11:26:36.407Z
-updated: 2024-08-24T11:26:36.407Z
+date: 2024-12-19T11:06:39.517Z
+updated: 2024-12-20T01:16:04.653Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/909f3c7957e52f6fe9de5cd9ae15915a5af92e863
 
 Is your Borderlands 3 so laggy that it’s all but unplayable? If yes, don’t lose hope so soon – this post might help you clear up the problem. Many players are experiencing lag issues with Borderlands 3, just like you. Common as it is, lagging can be caused by various reasons, mostly network-related or hardware-related. Now let’s dig right in and see what’s what.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What sort of “lag” issues I’m having?
 
  Do you know that “lag issue” typically refers to network-related problems? For example, major lag spikes. This is one of the most common problems among online games, such as LOL, Fortnite, and Apex Legends. Obviously you can play Borderlands 3 either online or offline, so if your issue only occurs in online mode (for example, when you’re playing online multiplayer), then there’s no doubt that you’re having a real lag issue. In this case, take note of your network condition and find some ways to improve it.
@@ -24,6 +28,10 @@ Is your Borderlands 3 so laggy that it’s all but unplayable? If yes, don’t l
  If your Borderlands 3 seems laggy even in offline mode, then you’re very likely having a frame rate problem (e.g., having low FPS because your computer can barely handle the game). There’s also an outside chance that the game per se has some unforeseen bugs, so you could only wait for new patches to fix them.
 
  Now, after figuring out what sort of “lag” issues you have, read on and find possible fixes for your problem.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Borderlands 3 lag issues
 
@@ -36,9 +44,6 @@ Jump ahead to the section that best suits your needs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **I’m having network problems**
 
  Alright, now you know it’s your network that causes the lag issues in Borderlands 3\. Go on to check out the following fixes:
@@ -130,8 +135,9 @@ ipconfig /flushdns
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-483.png)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .
 
  For the **Preferred DNS server** , enter **8.8.8.8**  to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** .
@@ -150,25 +156,30 @@ ipconfig /flushdns
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-613.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the **Resource Monitor** window, on the **Network** tab, take note of the **Total (B/sec)** column. In this way, you’ll get an intuitive view of what process is now taking up the most of your network resources.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-482.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) **Right-click** on the process that you want to disable and select **End Process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-621.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) If prompted for permission, click **End process** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-508.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Exercise caution with Step 3 and 4.**DO NOT** close any unfamiliar processes in case you mistakenly end some of the crucial ones (often related to your system), such as sychost.exe.
 
  5) Repeat the steps above until you’ve closed all the bandwidth-hogging programs.
@@ -205,9 +216,6 @@ If this fix didn’t work, take a stab at the next one.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### **I’m having frame rate problems**
 
  More often than not, frame rate problems are related to your hardware (for example, your PC can hardly keep up with the game). Regarding how to improve your FPS in Borderlands 3, I’ve already written a post before: **[FPS Drops in Borderlands 3? Try These Fixes on PC](https://tools.techidaily.com/drivereasy/download/)**  . It includes 8 fixes that helped resolve the frame rate problem and if you’re interested in it, just check it out.
@@ -242,9 +250,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Launch Borderlands 3 and check if your lag issue still remains. In case it does, move down to the next fix.
@@ -257,21 +262,14 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-521.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Then **VISUALS** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-523.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) On the **BASIC** tab, make sure you set **Display Mode** to **Full Screen** . As for other options, you can simply copy the following settings or modify them according to your taste.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-542.png)
@@ -290,9 +288,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-558.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5) Next up:
 
 * Shadows: **Medium/Low**
@@ -306,6 +301,10 @@ Now I’ll list three of the fixes included:
 * Screen Space Reflections: **Off**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-561.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you see instant improvements in FPS, you can either stop here or go on to try the next fix.
 
@@ -322,9 +321,6 @@ Now I’ll list three of the fixes included:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-414.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) In the Borderlands 3 Properties window, on the **Compatibility** tab, select the **Disable fullscreen optimizations** check box. Then, click **Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-419.png)
@@ -334,8 +330,9 @@ Now I’ll list three of the fixes included:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-417.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-421.png)
@@ -352,8 +349,6 @@ Now I’ll list three of the fixes included:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -361,4 +356,20 @@ Now I’ll list three of the fixes included:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-perfecting-captions-adding-words-to-images-in-oses/"><u>[New] In 2024, Perfecting Captions Adding Words to Images in OSes</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>[Updated] Expertise in HDR Perfecting Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024windows11cprm/"><u>「2024」にふさわしい：Windows11向けCPRM解除ソフトウェアの推奨リスト</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-best-20-words-for-marketing-success/"><u>2024 Approved The Best 20 Words for Marketing Success</u></a></li>
+<li><a href="https://win-able.techidaily.com/3-youtubegif/"><u>3効果的なテクニック: YouTube動画から素早くGIF変換</u></a></li>
+<li><a href="https://win-able.techidaily.com/55ww44gq44kl5yuv55s744gu44kq44o844oh44kj44kq44oi44op44od44kv44ks5ymy44kk5b2t44gm44kl5pa55rov/"><u>異なる動画のオーディオトラックを割り当てる方法</u></a></li>
+<li><a href="https://extra-information.techidaily.com/advanced-hue-adjustment-strategies-for-professionals/"><u>Advanced Hue Adjustment Strategies for Professionals</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-with-location-spoofer-on-poco-c65-drfone-by-drfone-virtual-android/"><u>In 2024, How To Simulate GPS Movement With Location Spoofer On Poco C65? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-simplifying-the-task-of-enriching-youtube-plays-with-media/"><u>In 2024, Simplifying the Task of Enriching YouTube Plays with Media</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-the-mystery-of-windows-subsystem-for-linuxs-error-4294967295/"><u>Overcoming the Mystery of Windows Subsystem for Linux's Error 4294967295</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/what-sets-hulu-plus-apart-from-regular-hulu-access-exploring-differences/"><u>What Sets Hulu Plus Apart From Regular Hulu Access? Exploring Differences</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029687692-windows-and-mac/"><u>Windows & Mac: パソコン内蔵マイクを使った静かな録音テクニック</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726029445830-windows/"><u>Windowsマシンで動画から音声へのファイル変換技術</u></a></li>
+</ul></div>
 

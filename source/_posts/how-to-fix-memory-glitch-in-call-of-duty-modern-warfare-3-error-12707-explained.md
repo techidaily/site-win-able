@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Memory Glitch in Call of Duty: Modern Warfare 3 - Error 12707 Explained"
-date: 2024-11-23T19:47:09.613Z
-updated: 2024-11-26T18:00:35.369Z
+date: 2024-12-17T00:24:43.192Z
+updated: 2024-12-19T19:33:23.509Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You might not need to try all of them. Simply work your way down until you find the one that scores.
@@ -35,11 +31,19 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Restart your PC
 
  Some gamers on[Reddit](https://www.reddit.com/r/blackopscoldwar/comments/kia139/get%5Fui%5Ferror%5F27711%5Fand%5Falso%5Fsomething%5Felse/) reported that the game went back to normal after a system restart. So before you try anything more complicated,**exit your game and do a normal reboot** . You’d be surprised how often this trick works.
 
  If the error persists after a reboot, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Scan and repair your game
 
@@ -49,15 +53,19 @@ In the past couple days, many Cold War gamers are reporting a**UI error 27711** 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** . Then wait until the checking is completed.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
 Now you can launch the game and see if it loads this time.
 
  If this method doesn’t give you luck, simply take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -88,10 +96,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,10 +103,6 @@ To do so, first visit the website of your GPU manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If the new driver doesn’t do the charm, you can move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -121,7 +121,7 @@ Here’s how you can check for updates manually:
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
@@ -149,18 +149,24 @@ Here’s how you can check for updates manually:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>[Updated] In 2024, Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-the-ultimate-guide-to-choosing-between-m1-macbooks-for-2024/"><u>[Updated] The Ultimate Guide to Choosing Between M1 MacBooks for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-mastering-instagrams-most-appreciated-ae-layouts/"><u>2024 Approved Mastering Instagram's Most Appreciated AE Layouts</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-to-address-and-solve-the-tfla0002-error-in-microsoft-suite/"><u>Effective Techniques to Address and Solve the TFLA0002 Error in Microsoft Suite</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/fossil-fuels-in-the-crosshairs-are-they-solely-to-blame/"><u>Fossil Fuels in the Crosshairs: Are They Solely to Blame?</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-your-cyberpunk-2077-game-from-freezing-a-comprehensive-guide/"><u>How to Prevent Your Cyberpunk 2077 Game From Freezing - A Comprehensive Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-lava-blaze-2-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From Lava Blaze 2 5G to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-sluggish-downloads-in-utorrent-get-back-to-torrenting-fast/"><u>Quick Fixes for Sluggish Downloads in uTorrent – Get Back to Torrenting Fast!</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-to-stop-kernelbasedll-from-crashing-effective-methods-unveiled/"><u>Quick Fixes to Stop KernelBase.dll From Crashing - Effective Methods Unveiled!</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolve-city-skylines-crashing-problems-with-expert-2024-troubleshooting-guide/"><u>Resolve 'City Skylines' Crashing Problems with Expert 2024 Troubleshooting Guide</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/skype-recording-procedures-streamlined-techniques-for-windows-and-os-x-for-2024/"><u>Skype Recording Procedures - Streamlined Techniques for Windows & OS X for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-unable-to-connect-on-kodi-platform-for-seamless-streaming/"><u>Troubleshooting Unable to Connect on Kodi Platform for Seamless Streaming</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/updated-7-reliable-video-merging-tools-with-no-watermark-output/"><u>Updated 7 Reliable Video Merging Tools with No Watermark Output</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-diversifying-audience-across-30plus-online-venues/"><u>[New] Diversifying Audience Across 30+ Online Venues</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-the-process-to-pinpoint-a-personalized-identifier-for-tiktok-for-2024/"><u>[New] The Process to Pinpoint a Personalized Identifier for TikTok for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-optimal-visual-snatchers-for-videos/"><u>[Updated] 2024 Approved Optimal Visual Snatchers for Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-alert-demystifying-the-leaf-issue-in-the-2022-patch-fixes-inside/"><u>Apex Legends Error Alert: Demystifying the 'Leaf' Issue in the 2022 Patch - Fixes Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bring-back-the-beeps-and-boops-rectifying-audio-issues-in-minecraft-for-windows/"><u>Bring Back the Beeps and Boops! Rectifying Audio Issues in Minecraft for Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-unlock-secrets-resolving-startup-difficulties-for-a-smooth-gaming-experience/"><u>Deathloop Unlock Secrets: Resolving Startup Difficulties for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/digital-beat-chasers-explore-free-scanners-online/"><u>Digital Beat Chasers Explore Free Scanners Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-when-encountered-with-ghostwire-tokyo-pc-game-malfunctioning/"><u>Effective Fixes When Encountered with 'Ghostwire: Tokyo' PC Game Malfunctioning</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-repairing-gta-v-online-functionality-problems/"><u>Expert Tips for Repairing GTA V Online Functionality Problems</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-15-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 15 Pro Screen on PC Easily? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-dota-2s-reduced-fps-in-latest-windows-os-tips-and-tricks-for-gaming-optimization/"><u>How to Resolve Dota 2'S Reduced FPS in Latest Windows OS - Tips and Tricks for Gaming Optimization</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722987245835-no-more-game-crashes-decode-and-repair-your-cod-vanguard-en-error-0x00001338-on-pc-now/"><u>No More Game Crashes – Decode and Repair Your COD Vanguard E:N (Error 0X00001338) on PC Now</u></a></li>
+<li><a href="https://win-dash.techidaily.com/quick-guide-to-download-and-update-xbox-wireless-adapter-drivers/"><u>Quick Guide to Download & Update Xbox Wireless Adapter Drivers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transferring-dvd-content-from-pc-or-mac-to-a-portable-usb/"><u>Step-by-Step Guide: Transferring DVD Content From PC or Mac to a Portable USB</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-essential-solutions-to-prevent-marvels-guardians-of-the-galaxy-from-breaking-down-on-windows/"><u>Top 8 Essential Solutions to Prevent Marvel's Guardians of the Galaxy From Breaking Down on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722989609998-trouble-with-among-us-unstick-your-game-with-these-proven-fixes/"><u>Trouble with 'Among US'? Unstick Your Game With These Proven Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-starts-valheim-not-starting-up-correctly-as-of-march-2024/"><u>Troubleshooting Starts: Valheim Not Starting Up Correctly as of March 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-video-potential-leading-tools-turning-youtubes-to-avis-for-2024/"><u>Unlock Video Potential Leading Tools Turning YouTubes to Avis for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-a-408-request-timeout-detailed-explanation-and-troubleshooting-tips/"><u>What Is a 408 Request Timeout? Detailed Explanation and Troubleshooting Tips</u></a></li>
 </ul></div>
 

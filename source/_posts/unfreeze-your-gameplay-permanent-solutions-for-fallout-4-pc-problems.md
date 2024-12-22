@@ -1,7 +1,7 @@
 ---
 title: "Unfreeze Your Gameplay: Permanent Solutions for Fallout 4 PC Problems"
-date: 2024-08-23T11:29:26.110Z
-updated: 2024-08-24T11:29:26.110Z
+date: 2024-12-13T10:25:14.657Z
+updated: 2024-12-19T20:53:40.956Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Stop your background running programs
 
  Fallout 4 requires Internet access when running. While playing Fallout 4, if you have any other **programs running in background and they’re eating up Internet usage or taking up a lot of your system space** , Fallout 4 may stutter. So check to stop any other unnecessary background programs while you’re playing Fallout 4\. Then check if Fallout 4 runs smoothly.
@@ -65,8 +69,9 @@ Hard disk space: 30 GB free HDD space
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -88,16 +93,14 @@ You can update your video driver either manually or automatically.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -111,8 +114,9 @@ Launch Fallout 4 to see if it runs smoothly.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95db0636cd2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### Step 2: Change the resolutions in Fallout 4 back to your monitor size
 
 1. Launch Fallout 4 on your computer.
@@ -120,9 +124,6 @@ Launch Fallout 4 to see if it runs smoothly.
 3. Make sure the Resolutions is set to same as your monitor size, that is, the**recommended one** you check in Step 1.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95dd0aed0a5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  Save your settings and log in Fallout 4 to run it and see if it runs smoothly.
 
 ---
@@ -168,8 +169,9 @@ Run Fallout 4 to see if it goes smoothly.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable the V-sync feature
 
 **V-sync** (vertical sync) is the synchronization of your frame rate with the maximum refresh rat of the display being used. So being enabled, V-sync would**limits the frame rate** of your game. If the frame rates is low, everything displaying on Fallout 4 will slowdown. In this case, we recommend disabling the V-sync feature.
@@ -198,8 +200,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +207,24 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastering-snapchats-highlighted-stories/"><u>[New] 2024 Approved Mastering Snapchat's Highlighted Stories</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-cutting-edge-cost-free-after-effects-packages-for-2024/"><u>[New] Cutting-Edge, Cost-Free After Effects Packages for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-font-power-boosters-secrets-to-stellar-video-thumbnails-for-2024/"><u>[New] Font Power Boosters Secrets to Stellar Video Thumbnails for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-make-money-with-facebook-a-practical-roadmap/"><u>[New] Make Money with Facebook A Practical Roadmap</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-the-ultimate-guidebook-to-making-wealth-on-instagram-for-2024/"><u>[Updated] The Ultimate Guidebook to Making Wealth on Instagram for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/aterstaende-grafik-for-utan-ljud-skarmning-movavi/"><u>Återstående Grafik För Utan Ljud Skärmning - Movavi</u></a></li>
+<li><a href="https://program-issues.techidaily.com/boost-your-frame-rate-in-valheim-top-strategies-to-achieve-smooth-gameplay/"><u>Boost Your Frame Rate in Valheim: Top Strategies to Achieve Smooth Gameplay</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/download-the-latest-update-lyrx-karaoke-app-version-102-for-mac-enhance-your-singing-experience-with-top-dj-features/"><u>Download the Latest Update: Lyrx Karaoke App (Version 1.02) for Mac - Enhance Your Singing Experience with Top DJ Features!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-quick-recovery-from-failed-discord-setup-attempts/"><u>Expert Tips for Quick Recovery From Failed Discord Setup Attempts</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-found-overcome-the-hurdle-age-of-empires-iv-startup-issue-resolved/"><u>Fixes Found: Overcome the Hurdle - Age of Empires IV Startup Issue Resolved</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-unleash-social-potential-transitioning-from-twitter-videos-to-whatsapp/"><u>In 2024, Unleash Social Potential Transitioning From Twitter Videos to WhatsApp</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-in-escape-from-tarkov-diagnosing-and-repairing-lost-server-connections/"><u>Mastering Stability in Escape From Tarkov: Diagnosing and Repairing Lost Server Connections</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-obstacles-a-guide-to-prevent-wallpaper-engine-from-crashing-on-windows-1110/"><u>Overcoming Obstacles: A Guide to Prevent Wallpaper Engine From Crashing on Windows 11/10</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-troubleshooting-when-age-of-empires-4-wont-boot/"><u>Solution Found! Troubleshooting When Age of Empires 4 Won't Boot</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-directx-draw-issues-a-comprehensive-guide/"><u>Troubleshooting and Fixing DirectX Draw Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-is-the-intel-hd-software-not-functioning/"><u>Troubleshooting Guide: Why Is the Intel HD Software Not Functioning?</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-crashes-fix-your-samurai-warriors-5-gameplay-woes/"><u>Troubleshooting PC Crashes: Fix Your Samurai Warriors 5 Gameplay Woes</u></a></li>
+</ul></div>
 
