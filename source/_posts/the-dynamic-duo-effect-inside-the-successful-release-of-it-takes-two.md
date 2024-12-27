@@ -1,7 +1,7 @@
 ---
 title: "The Dynamic Duo Effect: Inside the Successful Release of 'It Takes Two'"
-date: 2024-08-18T16:22:37.392Z
-updated: 2024-08-19T16:22:37.392Z
+date: 2024-12-24T04:13:44.957Z
+updated: 2024-12-26T19:58:39.582Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ Here are the requirements for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Verify game files
 
  Corrupted or damaged game files could also be the culprits to the crashing of Armored Core 6: Fires of Rubicon, and verifying game files from within Steam helped to fix the crashing problem, according to some gamers in the Steam forum. So the next thing you should do here is to repair the game files. To do so:
@@ -65,9 +69,6 @@ Here are the requirements for your reference:
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)  
 
@@ -86,33 +87,25 @@ Here are the requirements for your reference:
 1. Right-click your **Steam** icon and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Then tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Now open Armored Core 6: Fires of Rubicon again (it should be opened with administrative permission), to see if it still crashes. If the problem still remains, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Update graphics card driver
 
  An outdated or incorrect display card driver could also be the culprit to your Armored Core 6: Fires of Rubicon’s crashing problem, so if the above methods don’t help to fix it, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -135,11 +128,12 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -149,9 +143,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Turn off RTX (Ray Tracing)
 
  If your Armored Core 6: Fires of Rubicon usually crashes in the middle of the game, it’s probably helpful if you can**turn off Ray Tracing** , which helps to produce realistic lighting effects, adding an extra level of realism to the game. But ray tracing also takes much processing power, which could cause problems like game crashing or freezing. To see if turning of ray tracing helps:
@@ -160,22 +154,30 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-59.png)
 2. Select**Graphics Settings** , then**Quality Settings (Detailed)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-60.png)
 3. Select Ray Tracing Quality at the bottom, and set it to  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-61.png)
 4. Select**OFF** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-62.png)
 5. Then play the game and see if the crashing stops.
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If Armored Core 6: Fires of Rubicon still crashes, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Make sure your graphics card and CPU are not running hot
 
@@ -197,8 +199,6 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +206,24 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-civ-6-not-launching-on-windows-11/"><u>[SOLVED] Civ 6 Not Launching on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-steam-keeps-crashing-quickly-and-easily/"><u>[SOLVED] Steam Keeps Crashing | Quickly & Easily!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-beyond-mainstream-a-list-of-6-exclusive-icon-and-logo-providers/"><u>[Updated] 2024 Approved Beyond Mainstream A List of 6 Exclusive Icon & Logo Providers</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002993614-bioshock-2-reborn-with-fixes-a-remastered-gaming-journey-you-cant-miss/"><u>BioShock 2 Reborn with Fixes: A Remastered Gaming Journey You Can't Miss</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-oppo-find-x7-ultra-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-the-ultimate-matchmaker-toolkit/"><u>ChatGPT: The Ultimate Matchmaker Toolkit</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001127536-cracking-the-code-stop-dauntless-from-crashing-on-your-computer-now/"><u>Cracking the Code: Stop Dauntless From Crashing on Your Computer Now</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-fix-error-code-n-103003-in-arma-tarkov-mission/"><u>Expert Solutions to Fix 'Error Code N 103003' In Arma Tarkov Mission</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-remedying-devastating-discord-browser-error-on-win-based-systems/"><u>Guide to Remedying Devastating Discord Browser Error on Win-Based Systems</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-teach-with-technology-effective-use-of-youtube-in-education/"><u>In 2024, Teach with Technology Effective Use of YouTube in Education</u></a></li>
+<li><a href="https://program-issues.techidaily.com/master-your-ghost-hunt-top-solutions-for-phasmophobia-glitches-this-year/"><u>Master Your Ghost Hunt: Top Solutions for Phasmophobia Glitches This Year</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/screen-commanders-face-off-for-2024/"><u>Screen Commanders Face-Off for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-4-social-media-behemoths-transforming-online-engagement-facebook-to-youtube/"><u>Top 4 Social Media Behemoths Transforming Online Engagement – Facebook to YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-solve-gta-v-online-connectivity-issues/"><u>Troubleshooting Steps to Solve GTA V Online Connectivity Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-wallpaper-engine-stability-errors-for-windows-users/"><u>Troubleshooting Tips: Solving Wallpaper Engine Stability Errors for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/untangling-directdraw-glitches-effective-solutions-for-gamers-and-developers/"><u>Untangling DirectDraw Glitches: Effective Solutions for Gamers and Developers</u></a></li>
+<li><a href="https://windows11.techidaily.com/unveiling-the-best-4-windows-compatible-webp-image-vendors/"><u>Unveiling The Best 4 Windows-Compatible WebP Image Vendors</u></a></li>
+</ul></div>
 

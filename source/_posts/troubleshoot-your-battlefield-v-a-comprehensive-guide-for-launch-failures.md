@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Your Battlefield V: A Comprehensive Guide for Launch Failures"
-date: 2024-08-18T16:22:11.194Z
-updated: 2024-08-19T16:22:11.194Z
+date: 2024-12-25T08:20:34.558Z
+updated: 2024-12-26T20:38:40.352Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 3. [Repair the launcher](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -42,6 +46,10 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
@@ -49,8 +57,9 @@ Here’s how to allow the ESO launcher through the firewall.
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Delete the program data
 
  If the program data has corrupted, you may encounter the ESO not loading issue. In this case, we need to delete corrupted files. The launcher will redownload missing files automatically.
@@ -61,9 +70,6 @@ Here’s how to allow the ESO launcher through the firewall.
 3. Find and delete the ProgramData folder.
 4. Restart the ESO Launcher to check.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -75,9 +81,6 @@ Here’s how to allow the ESO launcher through the firewall.
 4. The launcher will reinstall missing files, wait for the process to finish.
 5. Relaunch the game and check to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The Elder Scrolls Online is an online game that requires connecting servers. Make sure you have a stable network with updated drivers. Updating your drivers to the latest version always help. With the latest working driver, you’ll have a better gaming experience.
@@ -102,15 +105,18 @@ OR
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,8 +130,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +137,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-deciphering-the-differences-between-youtubes-and-dailymentions/"><u>[New] 2024 Approved Deciphering the Differences Between YouTubes & DailyMentions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-authentic-audience-growth-practical-advice-for-content-creators-for-2024/"><u>[New] Authentic Audience Growth Practical Advice for Content Creators for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-maximize-your-online-presence-with-these-5-streaming-techniques/"><u>[Updated] 2024 Approved Maximize Your Online Presence with These 5 Streaming Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-optimization-for-new-vloggers/"><u>2024 Approved YouTube Optimization for New Vloggers</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-drones-leap-into-clarity-q500-reviewed/"><u>A Drone's Leap Into Clarity - Q500 Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-twin-breakdown-challenge-expert-solutions-to-pc-double-crashing-issues/"><u>Conquer the Twin-Breakdown Challenge: Expert Solutions to PC Double-Crashing Issues</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-14-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 14 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992696828-minecraft-wont-launch-heres-how-you-can-get-it-working-perfectly-on-windows-11/"><u>Minecraft Won't Launch? Here's How You Can Get It Working Perfectly on Windows 11!</u></a></li>
+<li><a href="https://win-able.techidaily.com/regain-control-of-your-profile-the-web-portal-is-active-once-more/"><u>Regain Control of Your Profile: The Web Portal Is Active Once More</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-obs-crashes-on-modern-windows-systems-tips-and-fixes/"><u>Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722994541102-silent-blocky-world-uncover-why-minecraft-sounds-are-missing-and-how-to-bring-them-back/"><u>Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-stabilizing-your-playthrough-of-city-skylines-2-on-pc/"><u>Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/validity-fingerprint-sensor-driver-installed-in-minutes-start-here/"><u>Validity Fingerprint Sensor Driver Installed in Minutes – Start Here</u></a></li>
+</ul></div>
 

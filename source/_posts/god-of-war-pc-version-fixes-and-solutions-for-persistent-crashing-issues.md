@@ -1,7 +1,7 @@
 ---
 title: "God of War PC Version: Fixes & Solutions for Persistent Crashing Issues"
-date: 2024-12-20T21:54:14.680Z
-updated: 2024-12-21T20:14:14.357Z
+date: 2024-12-23T17:49:19.591Z
+updated: 2024-12-27T12:21:11.936Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -49,20 +45,20 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -84,8 +80,16 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -119,20 +123,16 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -146,13 +146,13 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, start Outriders and test the game.
@@ -180,19 +180,20 @@ Once done, start Outriders and test the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-backtrack-your-youtube-queue-swiftly-and-sweetly/"><u>[New] In 2024, Backtrack Your YouTube Queue, Swiftly & Sweetly</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-cyberpunk-2077-freezing/"><u>[SOLVED] Cyberpunk 2077 Freezing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-ride-the-waves-with-top-tier-surf-cameras/"><u>[Updated] Ride the Waves with Top-Tier Surf Cameras</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/1-understanding-white-balance-a-comprehensive-guide-for-photographers/"><u>1. Understanding White Balance: A Comprehensive Guide for Photographers</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-master-video-capturing-with-the-top-3-smartphone-titans/"><u>2024 Approved Master Video Capturing with the Top 3 Smartphone Titans</u></a></li>
-<li><a href="https://win-able.techidaily.com/century-age-of-ashes-game-stabilization-tips-for-pc-users/"><u>Century: Age of Ashes Game Stabilization Tips for PC Users</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/expert-evaluation-of-google-pixel-6s-advanced-imaging-and-multimedia-functionality/"><u>Expert Evaluation of Google Pixel 6'S Advanced Imaging and Multimedia Functionality</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-4-no-sound-issue-fixes-for-windows-users-expert-tips-and-tricks/"><u>Fallout ^4 No Sound Issue Fixes for Windows Users: Expert Tips and Tricks</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/free-online-converter-change-wmv-files-to-mp4-format-on-macos-and-windows-11/"><u>Free Online Converter: Change WMV Files to MP4 Format on macOS and Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-stuttering-problems-in-the-mass-effect-trilogy-on-next-gen-consoles/"><u>How to Fix Stuttering Problems in the Mass Effect Trilogy on Next-Gen Consoles</u></a></li>
-<li><a href="https://win-able.techidaily.com/maximize-gaming-smoothness-how-to-solve-lag-issues-and-enhance-fps-on-war-thunder/"><u>Maximize Gaming Smoothness: How to Solve Lag Issues and Enhance FPS on War Thunder</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-interruptions-solving-red-dead-redemption-2s-pc-performance-problems/"><u>No More Interruptions: Solving Red Dead Redemption 2'S PC Performance Problems</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/skype-volume-troubles-heres-how-to-restore-your-sound/"><u>Skype Volume Troubles? Here's How to Restore Your Sound</u></a></li>
-<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Itel P55T? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-leveraging-video-cropping-to-maximize-instagram-reach/"><u>[New] 2024 Approved Leveraging Video Cropping to Maximize Instagram Reach</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-record-minecraft-gameplay-complete-guide-for-2024/"><u>[New] How to Record Minecraft Gameplay [Complete Guide] for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-transforming-ordinary-footage-to-ig-masterpieces/"><u>[New] In 2024, Transforming Ordinary Footage to IG Masterpieces</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722982340749-solved-hitman-3-crashing-on-pc-2024-tips/"><u>[Solved] Hitman 3 Crashing on PC – 2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-rapid-solutions-to-resolve-oculus-link-display-issues-effectively/"><u>6 Rapid Solutions to Resolve Oculus Link Display Issues Effectively</u></a></li>
+<li><a href="https://games-able.techidaily.com/auditory-enhancement-through-hrtf-for-competitive-players-in-valorant/"><u>Auditory Enhancement Through HRTF for Competitive Players in Valorant</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-xiaomi-redmi-note-12t-pro-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Xiaomi Redmi Note 12T Pro</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/easy-video-rotation-tricks-with-movavi-perfect-editing-tool/"><u>Easy Video Rotation Tricks with Movavi - Perfect Editing Tool</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-overcoming-hp-security-manager-error-1325-during-windows-7-uninstall-process/"><u>Effective Solutions for Overcoming HP Security Manager Error 1325 During Windows 7 Uninstall Process</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/fixing-folder-anomalies-icons-in-macos/"><u>Fixing Folder Anomalies: ? Icons in macOS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-gameplay-addressing-csgo-performance-hiccups/"><u>Quick Fixes for Smooth Gameplay: Addressing CS:GO Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/resident-evil-village-mastering-steady-gameplay-on-your-gaming-pc-fps-stabilized/"><u>Resident Evil Village - Mastering Steady Gameplay on Your Gaming PC, FPS Stabilized!</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-slow-playback-comprehensive-guide-to-revamping-spotify-on-your-computer-2e-year-edition/"><u>Solving Slow Playback: Comprehensive Guide to Revamping Spotify on Your Computer, 2E Year Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-pc-gameplay-smooth-performance-update-crashes-solved/"><u>Warzone PC Gameplay Smooth Performance Update - Crashes Solved!</u></a></li>
 </ul></div>
 

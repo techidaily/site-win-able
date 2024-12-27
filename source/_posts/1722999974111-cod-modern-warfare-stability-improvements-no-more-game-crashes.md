@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare Stability Improvements - No More Game Crashes"
-date: 2024-12-18T19:00:31.554Z
-updated: 2024-12-21T19:08:12.589Z
+date: 2024-12-25T07:37:18.292Z
+updated: 2024-12-27T02:14:51.576Z
 tags:
   - win11
   - win10
@@ -36,6 +36,10 @@ There is nothing more frustrating than buying a video game and not being able to
 8. **[Configure your in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Meet the minimum system requirements
 
 **The minimum system requirements to play**   **Total War:**
@@ -61,16 +65,12 @@ Here is how to view your computer specifications:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-131.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Make sure your computer meets the requirements, then move to the next fix.
 
@@ -83,6 +83,10 @@ Here is how to view your computer specifications:
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If your game still crashes, move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: **Run your game as an administrator**
 
@@ -99,10 +103,6 @@ If your game still crashes, move on and try the fix below.
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Restart_Total War_ from Steam.
 
@@ -140,10 +140,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -157,6 +153,10 @@ There are two ways you can get the right driver for your graphics card:
 
  To check if there is any update, go to the **[Total War: Three Kingdoms website](https://www.totalwar.com/blog/)**  and search for the latest patch. If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 6, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change the power option
 
  The power plan on all computers is set to Balanced by default. Under this mode, your computer sometimes might slow down automatically to save energy, which could be the reason why your game crashes frequently.
@@ -167,6 +167,10 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
@@ -174,10 +178,6 @@ There are two ways you can get the right driver for your graphics card:
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -191,10 +191,6 @@ There are two ways you can get the right driver for your graphics card:
 
  Now, check if you still face this issue. If the game is still unplayable, then go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Verify the integrity of your game files
 
  Another possible cause of the_Total War_ crashing issue is a damaged or missing game file. In this case, verifying the integrity of your game files can help fix your issue. Follow the instructions below:
@@ -206,7 +202,7 @@ There are two ways you can get the right driver for your graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)**  Right-click **Total War: Three Kingdoms**  and select **Properties** .
@@ -220,6 +216,10 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -256,7 +256,7 @@ If your game crashes again, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
@@ -264,12 +264,16 @@ If your game crashes again, try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Select **Uninstall a program** .
 
@@ -282,10 +286,6 @@ If your game crashes again, try the fix below.
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -320,20 +320,14 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/nravel-the-mystery-of-the-overly-green-hue-in-mac-recordings/"><u>[New] Unravel the Mystery of the Overly Green Hue in Mac Recordings</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-choosing-the-finest-webcams-our-expert-guide/"><u>[Updated] In 2024, Choosing the Finest Webcams - Our Expert Guide</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/updated-unleash-creativity-with-these-5-advanced-tiktok-captioning-techniques-for-2024/"><u>[Updated] Unleash Creativity with These 5 Advanced TikTok Captioning Techniques for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-unveil-your-gaming-prowess-with-perfect-screen-shots-pc-for-2024/"><u>[Updated] Unveil Your Gaming Prowess with Perfect Screen Shots (PC) for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprendi-i-file-webm-guida-completa-su-struttura-e-apertura/"><u>Comprendi I File WebM: Guida Completa Su Struttura E Apertura</u></a></li>
-<li><a href="https://win-able.techidaily.com/easy-techniques-to-customize-your-excel-tab-hues-and-shades/"><u>Easy Techniques to Customize Your Excel Tab Hues and Shades</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-techniques-for-integrating-data-tables-into-microsoft-excel-charts/"><u>Effective Techniques for Integrating Data Tables Into Microsoft Excel Charts</u></a></li>
-<li><a href="https://win-able.techidaily.com/efficient-techniques-for-tallying-text-containing-cells-in-excel/"><u>Efficient Techniques for Tallying Text-Containing Cells in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/elevate-your-spreadsheets-with-top-5-unknown-excel-shortcuts-and-tricks/"><u>Elevate Your Spreadsheets with Top 5 Unknown Excel Shortcuts and Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/excel-basics-unveiled-easy-techniques-for-incorporating-percentage-formulas-into-your-spreadsheets/"><u>Excel Basics Unveiled: Easy Techniques for Incorporating Percentage Formulas Into Your Spreadsheets</u></a></li>
-<li><a href="https://win-able.techidaily.com/excels-powerful-lookup-function-mastering-vlookup-without-an-external-table/"><u>Excel's Powerful Lookup Function: Mastering VLOOKUP Without an External Table</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-building-a-dynamic-summary-chart-with-microsoft-excel/"><u>Expert Guide: Building a Dynamic Summary Chart with Microsoft Excel</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/in-2024-harmonizing-in-tiktoks-duo-videos/"><u>In 2024, Harmonizing in TikTok's Duo Videos</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-metaverse-muse-a-reflective-collection-of-thoughts-arvr/"><u>In 2024, Metaverse Muse A Reflective Collection of Thoughts [AR/VR]</u></a></li>
-<li><a href="https://win-dash.techidaily.com/update-hp-deskjet-ink-advantage-37-55-printer-driver-set-for-windows-operating-systems-windows-10-8-7/"><u>Update HP Deskjet Ink Advantage 37 55 Printer Driver Set for Windows Operating Systems (Windows 10, 8, 7)</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-revolutionizing-storytelling-free-onlineoffline-animations-for-2024/"><u>[Updated] Revolutionizing Storytelling Free Online/Offline Animations for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/airtags-hidden-safety-feature-issue-potential-risks-and-easy-fixes/"><u>AirTag's Hidden Safety Feature Issue: Potential Risks and Easy Fixes</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-guide-fixing-startup-problems-in-persona-3-reload/"><u>Comprehensive Guide: Fixing Startup Problems in Persona 3 Reload</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986498163-league-of-legends-performance-hiccups-heres-how-to-tackle-them-swiftly/"><u>League of Legends Performance Hiccups? Here's How to Tackle Them Swiftly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-halo-infinite-performance-a-guide-to-fixing-persistent-lag-and-crashes-on-your-computer-7-tips/"><u>Mastering Halo Infinite Performance: A Guide to Fixing Persistent Lag and Crashes on Your Computer [7 Tips]</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/navigating-the-igtv-landscape-a-beginners-roadmap/"><u>Navigating the IGTV Landscape A Beginner's Roadmap</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-overcoming-launch-hurdles-with-overwatch-2/"><u>Quick Fixes for Overcoming Launch Hurdles with Overwatch 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-for-fixing-warzones-dev-error-6634-expert-tips-and-solutions/"><u>Step-by-Step Troubleshooting for Fixing Warzone's Dev Error #6634 - Expert Tips & Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-hyperx-cloud-alpha-microphone-fails/"><u>Troubleshooting Steps When Your HyperX Cloud Alpha Microphone Fails</u></a></li>
 </ul></div>
 

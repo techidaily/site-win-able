@@ -1,7 +1,7 @@
 ---
 title: "Fix: How to Resolve MSI Afterburner Failure to Recognize Graphics Card in Windows 10/11"
-date: 2024-08-23T11:13:04.642Z
-updated: 2024-08-24T11:13:04.642Z
+date: 2024-12-25T19:33:55.617Z
+updated: 2024-12-27T13:26:57.173Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ But don’t worry, it’s usually not that hard to fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/dedicated-gpu-integrated-graphics-hdmi-1200x1200.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You should also rule out the possibility of faulty cables.
 
  If you’re sure you got the right port, you can continue to the troubleshooting below.
@@ -50,9 +54,11 @@ You should also rule out the possibility of faulty cables.
 1. Open MSI Afterburner. In the left pane, click the**gear icon** to open properties.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-1.jpg)
 2. In the**Compatibility settings** section, uncheck the box next to**Enable low-level IO driver** .  
+
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-settings-2.jpg)
 3. Restart your PC and check the results in MSI Afterburner.
 
@@ -76,10 +82,6 @@ If you don’t have Vanguard, simply move on to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-killer-networking-rtx-2060-clean.jpg)
 
@@ -89,9 +91,6 @@ If you don’t have Vanguard, simply move on to the next fix.
 
  If the latest drivers don’t give you luck, you can continue to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for Windows updates
 
  Windows updates help you avoid most of the**software compatibility issues** . You should always make sure you’re on the latest system.
@@ -99,19 +98,22 @@ If you don’t have Vanguard, simply move on to the next fix.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once done, restart your computer and check if MSI Afterburner is running correctly.
 
 If the issue lingers on, you can continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -120,21 +122,22 @@ If the issue lingers on, you can continue to the next fix.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -143,8 +146,9 @@ If the issue lingers on, you can continue to the next fix.
 If the issue persists, you can try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Try another version of Afterburner
 
  If none of the fixes can help you, you can try to reinstall MSI Afterburner. This should reset profiles and fix possible issues during installation. Instead of installing the same version, this time you can try the previous and beta ones, which can be easily found on[Guru3D.com](https://www.guru3d.com/files/index.html) .
@@ -161,8 +165,6 @@ If the issue persists, you can try the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +172,22 @@ If the issue persists, you can try the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-2024-approved-seamless-multi-environment-broadcasting-mastery-of-color-key-techniques/"><u>[New] 2024 Approved Seamless Multi-Environment Broadcasting Mastery of Color Key Techniques</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-tasty-tiktoks-worlds-best-food-vloggers/"><u>[New] 2024 Approved Tasty TikToks World's Best Food Vloggers</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-hash-tactics-for-thriving-gaming-vids/"><u>[New] Mastering Hash Tactics for Thriving Gaming Vids</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-quick-start-to-establishing-an-online-platform-for-tech-analysis-for-2024/"><u>[New] Quick Start to Establishing an Online Platform for Tech Analysis for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ringtune-recipe-mixing-and-mastering-tamil-music-for-alerts-for-2024/"><u>[New] RingTune Recipe Mixing & Mastering Tamil Music for Alerts for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-comprehensive-guide-to-youtube-playlists-creation/"><u>[New] The Comprehensive Guide to YouTube Playlists Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-diagnosing-and-repairing-pc-compatibility-problems-with-gray-zone-warfare-software/"><u>Expert Advice: Diagnosing & Repairing PC Compatibility Problems with Gray Zone Warfare Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-continuous-crashes-of-house-flipper-2-tips-for-a-smooth-gaming-experience/"><u>Fixing Continuous Crashes of House Flipper 2: Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-lost-ark-gaming-experience-with-our-expert-performance-optimization-tips/"><u>Improve Lost Ark Gaming Experience with Our Expert Performance Optimization Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-warzone-mechanics-a-step-by-step-solution-for-dev-error-6634-latest-insights/"><u>Mastering Warzone Mechanics: A Step-by-Step Solution for Dev Error 6634 (Latest Insights)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/pixel-perfect-free-mobile-photography-booster-for-2024/"><u>Pixel Perfect Free Mobile Photography Booster for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001750818-rainbow-six-siege-black-display-problem-on-pc-heres-how-to-fix-it/"><u>Rainbow Six Siege Black Display Problem on PC? Here's How to Fix It</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-launching-call-of-duty-modern-warfare-2-here-are-solutions/"><u>Trouble Launching Call of Duty: Modern Warfare 2? Here Are Solutions!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-disk-read-issues-a-guide/"><u>Troubleshooting Disk Read Issues: A Guide</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlock-the-potential-of-youtube-videos-the-ultimate-chapter-addition-technique-for-2024/"><u>Unlock the Potential of YouTube Videos The Ultimate Chapter Addition Technique for 2024</u></a></li>
+</ul></div>
 

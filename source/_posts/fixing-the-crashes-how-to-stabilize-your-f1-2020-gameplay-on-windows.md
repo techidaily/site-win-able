@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Crashes: How to Stabilize Your F1 2020 Gameplay on Windows"
-date: 2024-08-23T11:13:34.127Z
-updated: 2024-08-24T11:13:34.127Z
+date: 2024-12-26T00:05:44.641Z
+updated: 2024-12-26T18:29:10.975Z
 tags:
   - win11
   - win10
@@ -54,9 +54,6 @@ WARNO system requirements
 6. [**Repair corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ## Verify and repair game files
 
  The game would crash if some game files are corrupted or missing. But don’t worry, you can verify and repair the game files in Steam. Here’s how to do it:
@@ -65,18 +62,25 @@ WARNO system requirements
 2. **Right-click** on **WARNO** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch WARNO after the verifying process is complete. See if it crashes again. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If WARNO keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -91,6 +95,11 @@ WARNO system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -103,16 +112,10 @@ WARNO system requirements
 
 ![WARNO new patch](https://images.drivereasy.com/wp-content/uploads/2022/01/WARNO-new-patch-1105x1200.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it. If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run WARNO again and check if the game crashes get fixed. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays are handy. However, sometimes the overlay would interfere with the game and even block the game files.
@@ -128,9 +131,6 @@ WARNO system requirements
 
  Launch WARNO and see if the it crashes again. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Temporarily disable anti-virus software
 
  Many 3rd party antivirus software often block important game files. You can try adding both the game folder and Steam as an exception to your third-party antivirus application. If necessary, temporarily disable the 3rd party antivirus software before playing the game.
@@ -138,6 +138,10 @@ WARNO system requirements
  Launch WARNO and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Repair corrupted system files
 
@@ -153,6 +157,11 @@ If this fix didn’t work, try the next fix, below.
 2. Launch Fortect and it will run a free scan of your PC. After the scan is complete, you will be presented with a report displaying the identified issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Click **Start Repair** to automatically fix all the issues (You’ll need to pay for the full version. It comes with a 60-day money-back guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact**<support@fortect.com>** for a full refund.
@@ -164,28 +173,26 @@ If this fix didn’t work, try the next fix, below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Restart** your PC and launch WARNO to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -212,8 +219,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +226,24 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-heroic-journeys-unleashed-the-premier-game-collection-for-2024/"><u>[New] Heroic Journeys Unleashed The Premier Game Collection for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-streamlined-playback-import-tunes-into-inshot/"><u>[New] Streamlined Playback Import Tunes Into InShot</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/advanced-screen-recorder-options-for-mac-not-including-bandicamp/"><u>Advanced Screen Recorder Options for Mac, Not Including Bandicamp</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-pause-addressing-persistent-launch-problems-in-cold-war-across-various-platforms/"><u>Beat the Pause: Addressing Persistent Launch Problems in Cold War Across Various Platforms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/creative-capers-with-ios-amusing-shenanignans-for-iphones-and-ipads/"><u>Creative Capers with iOS: Amusing Shenanignans for iPhones and iPads</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-seamless-access-origin-overcomes-connectivity-hurdle-for-users/"><u>Ensuring Seamless Access – Origin Overcomes Connectivity Hurdle for Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-smooth-play-in-fifa-19-on-your-computer-solutions-uncovered/"><u>Ensuring Smooth Play in FIFA 19 on Your Computer - Solutions Uncovered</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-fixing-pc-crashes-while-playing-star-wars-jedi-fallen-order/"><u>Guide to Fixing PC Crashes While Playing 'Star Wars Jedi: Fallen Order'</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-best-comprehensive-recorder-apps-pcmacos/"><u>In 2024, Best Comprehensive Recorder Apps - PC/macOS</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-strategies-for-maximizing-youtube-view-counts-through-regular-uploads/"><u>In 2024, Strategies for Maximizing YouTube View Counts Through Regular Uploads</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Vivo V30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-gaming-experience-no-more-praey-crashes-on-pc/"><u>Master Your Gaming Experience: No More Praey Crashes on PC!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fallout-nvidia-nvidia-geforce-gtx-1080-ti-is-a-powerful-graphics-card-from-nvidia-designed-for-gamers-who-need-top-tier-performance-and-high-quali580/"><u>Mastering Fallout nVidia NVIDIA GeForce GTX 1080 Ti Is a Powerful Graphics Card From NVIDIA, Designed for Gamers Who Need Top-Tier Performance and High Quality Visuals. It's Part of the Popular GeForce Lineup that Has Been on the Market Since Its Inception</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/navigating-the-viral-internet-landscape-for-2024/"><u>Navigating the Viral Internet Landscape for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/simplify-security-self-updating-windows-with-new-amd-drivers/"><u>Simplify Security: Self-Updating Windows with New AMD Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-persistent-kinects-and-freezes-in-genshin-impact-on-pc/"><u>Troubleshooting Tips for Persistent Kinects and Freezes in Genshin Impact on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-game-lag-in-grand-theft-auto-v/"><u>Ultimate Guide: Resolving Game Lag in Grand Theft Auto V</u></a></li>
+</ul></div>
 

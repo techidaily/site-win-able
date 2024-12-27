@@ -1,7 +1,7 @@
 ---
 title: Overcoming Connectivity Issues with Your MSI Mystic Light Controller in a Windows Environment
-date: 2024-08-18T16:24:36.366Z
-updated: 2024-08-19T16:24:36.366Z
+date: 2024-12-24T12:12:55.558Z
+updated: 2024-12-27T10:58:53.181Z
 tags:
   - win11
   - win10
@@ -36,11 +36,16 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/rgb-connector.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re not familiar with computer hardware, you can contact a local repair shop, or continue to the following methods to see if the issue is software-related.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Reinstall Mystic Light completely
 
  This issue may suggest a misconfiguration or a faulty installation. Either way, you can try to solve the problem with a clean reinstall.
@@ -54,27 +59,30 @@ thumbnail: https://thmb.techidaily.com/1b3acf6f92837e9104aa399e6aa268354b94b6b82
 2. Under**Apps & features** , click the input box and type**Dragon Center** . Select**Dragon Center** and click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-1.jpg)
 3. Next, search and uninstall**MSI SDK** . Then restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-2.jpg)
 4. You can now use the installer from the official site. Or you can install via Microsoft Store. To do that, on the bottom left corner, click the**Windows icon** and select**Microsoft Store** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-3.jpg)
 5. On the top right corner, click the search box and type**Dragon Center** . Press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/remove-dc-4.jpg)
 6. Under**Apps** , select**MSI Dragon Center** . Click**Get** to install.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once completed, launch Dragon Center and check if Mystic Light works now.
 
 If this trick doesn’t help you, take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  More often than not, the Mystic Light not working issue could indicate a faulty or missing device driver. In addition to healthy hardware, for the ambient lights to work properly, you also need to**make sure you have all the latest necessary drivers** on your rig.
@@ -85,6 +93,11 @@ If this trick doesn’t help you, take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/de-update-all-realtek-audio.jpg)
 
@@ -94,9 +107,6 @@ If this trick doesn’t help you, take a look at the next one.
 
  If the latest drivers don’t give you luck, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4:**Install all Windows updates**
 
  In some cases, after you install new hardware, Windows will download compatible drivers and files for the hardware to work. But you also need to check if your system is missing important updates.
@@ -107,8 +117,9 @@ If this trick doesn’t help you, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 Once done, do a reboot and see if
@@ -122,21 +133,17 @@ Once done, do a reboot and see if
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -144,15 +151,6 @@ Now you can check if you can get the RGB working.
 
 If the problem persists, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 6:**Check for corrupted system files**
 
  If none of the fixes work for you, you might want to check the integrity of your system and scan for faulty settings. We all use our computers differently, which makes it hard to troubleshoot programs one by one. In that case, you need a powerful tool to check and repair your system.
@@ -179,8 +177,6 @@ If the problem persists, continue to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +184,22 @@ If the problem persists, continue to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>[New] Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-tactics-to-triumph-secrets-of-successful-social-media-videos/"><u>2024 Approved Tactics to Triumph Secrets of Successful Social Media Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-launch-postponement-heres-why-it-happened/"><u>Assassin’s Creed Valhalla Launch Postponement - Here's Why It Happened!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-when-elder-scrolls-online-wont-start-properly/"><u>Fixes & Solutions When 'Elder Scrolls Online' Won’t Start Properly</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-navigate-crash-free-gaming-troubleshooting-tips-for-pc-users/"><u>Forza Horizon Navigate Crash-Free Gaming - Troubleshooting Tips for PC Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-fix-a-broken-proximity-sensor-on-your-iphone/"><u>How to Fix a Broken Proximity Sensor on Your iPhone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-lenovo-thinkphone-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Lenovo ThinkPhone Lock Screen Password?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-honor-x50i-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Honor X50i Is Unlocked</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/incorporate-tocindex-in-your-ebook-with-flipbuilder-enhance-readability-and-navigation/"><u>Incorporate TOC/Index in Your eBook with FlipBuilder – Enhance Readability and Navigation!</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-help-how-to-fix-starfield-crashing-problems/"><u>PC Gaming Help - How to Fix Starfield Crashing Problems</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/revisiting-tech-history-thorough-evaluation-of-the-vintage-netgear-c3000-dual-functional-device-for-internet-connectivity/"><u>Revisiting Tech History: Thorough Evaluation of the Vintage Netgear C3000 Dual-Functional Device for Internet Connectivity</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/supercharge-your-data-with-advanced-icomplus-solutions/"><u>Supercharge Your Data with Advanced IComPlus Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gzw-pc-issues-a-comprehensive-guide/"><u>Troubleshooting GZW PC Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smooth-run-in-arcadegeddon-on-your-computer-issues-resolved/"><u>Troubleshooting Tips for a Smooth Run in Arcadegeddon on Your Computer [ISSUES RESOLVED]</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-issues-with-super-pc-crashes/"><u>Ultimate Guide: Resolving Issues with 'Super Pc' Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Your Controller on a PC"
-date: 2024-12-14T22:29:55.287Z
-updated: 2024-12-21T19:00:36.704Z
+date: 2024-12-20T08:55:09.562Z
+updated: 2024-12-27T02:25:30.919Z
 tags:
   - win11
   - win10
@@ -46,7 +46,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Once completed, click to run Dauntless, then check if it plays properly. If yes, then congrats! If the issue still remains, please try **Fix 2** , below.
@@ -61,6 +61,10 @@ Here is how to verify the integrity of Dauntless:
  you can try lowering it back to the default setting. If not, or it doesn’t help with the situation, you should move on to**Fix 3** , below to see if it fixes the issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -80,6 +84,10 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -87,10 +95,6 @@ Here is how to verify the integrity of Dauntless:
 5) Launch the game again to see if runs smoothly without the error. If yes, then great and enjoy the game! If Dauntless still crashes, please try**Fix 4** , below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Close the background programs
 
@@ -120,23 +124,19 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
@@ -145,7 +145,7 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
@@ -171,20 +171,19 @@ Here is how to verify the integrity of Dauntless:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-creative-clip-enhancement-gopros-leading-15-color-grading-tools-for-2024/"><u>[Updated] Creative Clip Enhancement GoPro's Leading 15 Color Grading Tools for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-in-2024-how-to-maximize-impact-with-onestreams-streaming-solutions/"><u>[Updated] In 2024, How to Maximize Impact with OneStream's Streaming Solutions</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-innovative-approaches-to-producing-impressive-audio-teasers/"><u>[Updated] Innovative Approaches to Producing Impressive Audio Teasers</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-share-smart-techniques-for-youtube-playlist-dispersal/"><u>[Updated] Share Smart Techniques for YouTube Playlist Dispersal</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/chatbot-battle-royale-comparing-chatgpts-vs-geminis-coding-skills/"><u>Chatbot Battle Royale: Comparing ChatGPT's vs Gemini's Coding Skills</u></a></li>
-<li><a href="https://win-able.techidaily.com/dying-light-frame-rate-problem-solutions-and-fixes/"><u>Dying Light Frame Rate Problem: Solutions & Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-for-continuous-crashing-issues-with-metro-exodus-on-computer/"><u>Effective Solutions for Continuous Crashing Issues with Metro Exodus on Computer</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/essential-windows-11-camcorders-and-webcams-guide/"><u>Essential Windows 11 Camcorders & Webcams Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-premier-pro-freezing-issues-on-windows-11-and-10/"><u>Fixing Premier Pro Freezing Issues on Windows 11 and 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-when-resident-evil-village-wont-start/"><u>How to Resolve When Resident Evil Village Won't Start</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-oppo-find-n3-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Oppo Find N3 Phone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-critical-development-bug-in-call-of-dutys-modern-warfare-and-warzone/"><u>Resolving Critical Development Bug in Call of Duty's Modern Warfare and Warzone</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-msvcr110dll-missing-file-issue-in-helldivers-2/"><u>Resolving the 'msvcr110.dll Missing File' Issue in HellDivers 2</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-definitive-fix-to-uncover-arise-in-epic-games-engine/"><u>The Definitive Fix to Uncover Arise in Epic Games Engine</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-quintessential-list-of-top-15-masterpieces-in-stop-motion/"><u>The Quintessential List of Top 15 Masterpieces in Stop Motion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-quick-guide-applying-on-screen-captions-to-photos-videos/"><u>[Updated] 2024 Approved Quick Guide Applying On-Screen Captions to Photos Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-elite-8-blu-ray-player-rankings-for-4k-quality/"><u>[Updated] Elite 8 Blu-Ray Player Rankings for 4K Quality</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mp3-broadcasting-toolkit-convert-upload-and-stream-youtube/"><u>[Updated] MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-steps-to-skip-the-water-stained-stock-photos/"><u>[Updated] Steps to Skip the Water-Stained Stock Photos</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-game-disruptions-resolving-age-of-empires-4s-constant-windows-downfalls/"><u>Avoid Game Disruptions: Resolving Age of Empires 4'S Constant Windows Downfalls</u></a></li>
+<li><a href="https://win-able.techidaily.com/elden-ring-starts-in-blackness-heres-how-to-restore-your-quest-beginning/"><u>Elden Ring Starts in Blackness? Here’s How to Restore Your Quest Beginning!</u></a></li>
+<li><a href="https://win-able.techidaily.com/elite-players-handbook-to-a-smooth-run-in-diablo-immortal-pc-avoidance-of-crashes-and-performance-tips-2024/"><u>Elite Player's Handbook to a Smooth Run in Diablo Immortal (PC) - Avoidance of Crashes & Performance Tips 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-your-game-with-v-buck-purchases-on-sony-console/"><u>Enhance Your Game with V-Buck Purchases on Sony Console</u></a></li>
+<li><a href="https://win-able.techidaily.com/experts-reveal-how-to-prevent-resident-evil-4-remake-from-unexpectedly-crashing/"><u>Experts Reveal How to Prevent Resident Evil 4 Remake From Unexpectedly Crashing</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-immersive-experience-creating-rich-skype-recordings-using-obs/"><u>In 2024, Immersive Experience Creating Rich Skype Recordings Using OBS</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-the-top-10-apple-iphone-11-pro-max-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>In 2024, The Top 10 Apple iPhone 11 Pro Max Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-guide-to-selective-object-removal-in-iphone-images/"><u>In 2024, Ultimate Guide to Selective Object Removal in iPhone Images</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-persistent-audios-on-frozen-youtub-videos-in-firefoxchrome/"><u>Troubleshooting Persistent Audios on Frozen YouTub Videos in Firefox/Chrome</u></a></li>
+<li><a href="https://win11.techidaily.com/unlinking-onedrive-from-your-windows-based-microsoft-account/"><u>Unlinking OneDrive From Your Windows-Based Microsoft Account</u></a></li>
 </ul></div>
 

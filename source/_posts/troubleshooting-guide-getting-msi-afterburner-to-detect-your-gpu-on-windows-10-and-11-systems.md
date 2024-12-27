@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Getting MSI Afterburner to Detect Your GPU on Windows 10 & 11 Systems"
-date: 2024-12-17T16:18:53.648Z
-updated: 2024-12-21T20:18:26.178Z
+date: 2024-12-24T16:25:56.954Z
+updated: 2024-12-27T10:31:01.579Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary, here we’ve put together some fixes that proved working for many Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -32,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 4. [Delete the temp folder of After Effects](https://tools.techidaily.com/drivereasy/download/)
 5. [Reinstall codecs and plugins](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Temporarily disable hardware acceleration
 
@@ -45,14 +53,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
@@ -62,10 +66,6 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
@@ -85,6 +85,10 @@ thumbnail: https://thmb.techidaily.com/992704407ab581931890c09cce338091c04f10f6e
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -100,6 +104,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -137,16 +145,8 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -162,11 +162,11 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
-If After Effects still crashes, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
 
@@ -175,7 +175,7 @@ If After Effects still crashes, try the next fix, below.
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
@@ -210,16 +210,22 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-editors-compendium-top-devices-transforming-media-projects/"><u>[New] In 2024, Editor's Compendium Top Devices Transforming Media Projects</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-click-quests-top-10-agile-gaming-platforms/"><u>[New] Quick Click Quests Top 10 Agile Gaming Platforms</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] 2024 Approved Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>[Updated] In 2024, Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieve-uninterrupted-immersion-fixing-game-hiccups-for-a-fluid-high-fps-experience-today/"><u>Achieve Uninterrupted Immersion: Fixing Game Hiccups for a Fluid, High-FPS Experience Today!</u></a></li>
-<li><a href="https://win-able.techidaily.com/effortless-solutions-overcoming-common-fortnite-load-failures/"><u>Effortless Solutions: Overcoming Common Fortnite Load Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-persistent-errors-a-guide-to-fixing-v-rising-pc-compatibility-problems/"><u>Fixing Persistent Errors: A Guide to Fixing V Rising PC Compatibility Problems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-capturing-a-screen-shot-on-your-hp-laptop/"><u>Step-by-Step Guide: Capturing a Screen Shot on Your HP Laptop</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-get-past-madden-22s-loading-screen-glitch/"><u>The Ultimate Guide to Get Past Madden 22’S Loading Screen Glitch</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-overcome-fps-drops-and-stutters-in-call-of-duty-modern-warfare-2-on-pc/"><u>Troubleshooting Guide: How to Overcome FPS Drops & Stutters in Call of Duty Modern Warfare 2 on PC</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unlock-superior-gaming-with-the-updated-magicard-rio-pro-driver-available-for-windows-11-81-and-7-downloads/"><u>Unlock Superior Gaming with the Updated Magicard Rio Pro Driver – Available for Windows 11, 8.1 & 7 Downloads</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-achieving-precise-youtube-content-extraction/"><u>[Updated] 2024 Approved Achieving Precise YouTube Content Extraction</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-professional-audio-setup-unveiling-our-picks-for-6-excellent-mics/"><u>2024 Approved Professional Audio Setup Unveiling Our Picks for 6 Excellent Mics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/archiving-your-media-best-practices-for-mov-files-on-windows-pcs/"><u>Archiving Your Media Best Practices for .mov Files on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-resolve-rainbow-six-extraction-stalling-and-freezing-on-windows-pcs/"><u>Effective Solutions to Resolve Rainbow Six Extraction Stalling and Freezing on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010925336-football-manager-2e020-crash-fix-tips-get-back-in-the-game/"><u>Football Manager 2E020 Crash Fix Tips - Get Back in the Game!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-live-server-connection-failure-issues-effectively/"><u>How to Overcome 'Live Server Connection Failure' Issues Effectively</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/live-video-logging-on-mac-free/"><u>Live Video Logging on Mac, Free</u></a></li>
+<li><a href="https://extra-information.techidaily.com/mastering-the-art-of-frames-with-top-rated-tools-24/"><u>Mastering the Art of Frames with Top-Rated Tools '24</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-problems-solved-stabilizing-genshin-impact-on-personal-computers/"><u>Persistent Problems Solved: Stabilizing Genshin Impact on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-issue-fixing-the-eac-not-installed-error-during-easy-achievement-unlocker-eac-launch/"><u>Resolved Issue: Fixing the 'EAC Not Installed' Error During Easy Achievement Unlocker (EAC) Launch</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/samsung-galaxy-watch-assessment-stunning-aesthetics-and-cutting-edge-features/"><u>Samsung Galaxy Watch Assessment: Stunning Aesthetics & Cutting-Edge Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-gaming-with-tiny-tinas-wonderlands-fixing-setup-issues-for-pc-users/"><u>Seamless Gaming with Tiny Tina's Wonderlands: Fixing Setup Issues for PC Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-gamepad-options-to-boost-performance/"><u>Top Gamepad Options to Boost Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-resolving-your-new-world-connection-problems/"><u>Troubleshooting Tips for Resolving Your New World Connection Problems</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/vanuit-ongelukkig-gegaan-hoe-uw-reconstructieverzoek-naar-voorraad-is-aangeklapt/"><u>Vanuit Ongelukkig Gegaan... Hoe Uw Reconstructieverzoek Naar Voorraad Is Aangeklapt!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002631398-wolcen-lords-of-mayhem-pc-game-crash-fixed-issues/"><u>Wolcen: Lords of Mayhem PC Game Crash - Fixed Issues</u></a></li>
+<li><a href="https://solve-luxury.techidaily.com/yl-web-scraper-revolutionizes-data-collection-and-intelligent-analysis-discover-how-with-yl-computings-latest-innovation/"><u>YL Web Scraper Revolutionizes Data Collection & Intelligent Analysis - Discover How with YL Computing's Latest Innovation</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Reconnect to Fun in Terraria - Discover 6 Confirmed Fixes
-date: 2024-08-18T16:26:10.244Z
-updated: 2024-08-19T16:26:10.244Z
+date: 2024-12-20T18:37:50.162Z
+updated: 2024-12-27T06:40:42.968Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Terraria is a great game for you to explore randomly generated worlds. However, 
 5. [Enable port forwarding](https://tools.techidaily.com/drivereasy/download/)
 6. [Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check for the latest version of the game
 
  This connection issue happens most with multiplayer. If you get this error when you join a friend, you can log out and update Terraria. Also, ensure your friends are using the latest version of Terraria.
@@ -46,8 +50,9 @@ This can be done by verifying the game files in Steam.
  That will scan your game directory and compare it to the most updated version to find file differences and download files it’s missing.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2\. Check if you’re playing different styles
 
  This error**Terraria Lost Connection** will occur if you don’t have a character to coordinate with the type of map.
@@ -55,6 +60,10 @@ This can be done by verifying the game files in Steam.
  If you have a Classic Map or try to join someone’s Classic Mode game, you should have a Classic Character. Likewise, if you have a Journey Map / want to join a Journey Mode game, you should have a Journey Character.
 
  Make sure to create a character accordingly before and you won’t be seeing the**Connection Lost** error in Terraria.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3\. Deactivate Windows Firewall
 
@@ -65,16 +74,19 @@ This can be done by verifying the game files in Steam.
 1. Type**windows defender firewall** in the Search box, and select**Windows Defender Firewall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-windows-defender.jpg)
 2. From the left menu, select **Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![turn off firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/Turn-on-or-off.jpg)
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After turning off your firewall, restart Terraria to check if the**Connection Lost in Terraria** has been solved.
 
 ### Fix 4\. Update your network adapter driver
@@ -90,22 +102,16 @@ This can be done by verifying the game files in Steam.
 
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/06/Driver-Easy-Scan-Now.jpg)
 3. Click the**Update** button next to your network adapter to download the latest and correct driver for it, and then you can install it manually.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 5\. Enable port forwarding
 
  Setting up a **port forward** for Terraria can enhance your gaming experience and help with many different problems, for instance, a ‘Connection Lost’ error. Besides, it has some other benefits:
@@ -136,6 +142,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
 
@@ -145,9 +155,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click**OK** to apply.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -157,15 +164,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Choose both **TCP** and**UDP** ports for your games in the appropriate box (we suggest a number above 5,000 and usually**7777** ).  
 
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Fix 6\. Uninstall and reinstall the game
@@ -193,8 +198,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +205,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-highlight-hubs-choosing-the-right-online-aids/"><u>[New] Highlight Hubs Choosing the Right Online Aids</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-digital-immersion-therapy-for-patients/"><u>[Updated] In 2024, Digital Immersion Therapy for Patients</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-preventing-non-displayed-images-in-youtubes-shorts/"><u>[Updated] In 2024, Preventing Non-Displayed Images in YouTubes Shorts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-navigating-screen-space-enlargement-on-youtube/"><u>[Updated] Navigating Screen Space Enlargement on YouTube</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/addressing-iomap64-bsod-with-easy-steps-for-windows-users/"><u>Addressing IOMap64 BSoD with Easy Steps for Windows Users</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-legacy-of-memories-scanning-and-storing-vintage-photographs/"><u>In 2024, The Legacy of Memories Scanning and Storing Vintage Photographs</u></a></li>
+<li><a href="https://win-able.techidaily.com/is-it-legal-to-duplicate-dvd-content-your-full-legal-analysis-explained/"><u>Is It Legal to Duplicate DVD Content? Your Full Legal Analysis Explained</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-4k-video-uploads-a-comprehensive-tutorial-for-instagram-users/"><u>Mastering 4K Video Uploads: A Comprehensive Tutorial for Instagram Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-quick-gestures-utilizing-the-back-tap-feature-on-your-android-device/"><u>Mastering Quick Gestures: Utilizing the Back Tap Feature on Your Android Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/merging-video-clips-seamlessly-on-windows-10-a-step-by-step-guide/"><u>Merging Video Clips Seamlessly on Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimal-video-capture-app-seamless-uninterrupted-screen-recording-solutions/"><u>Optimal Video Capture App – Seamless, Uninterrupted Screen Recording Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-easy-instructions-for-installing-superior-m-e-t-v-plugin-on-kodi-versions-19-and-20-just-one-click-away/"><u>Quick and Easy Instructions for Installing Superior M-E-T-V Plugin on Kodi Versions 19 & 20 – Just One Click Away!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-guide-efficiently-duplicate-your-dvd-files-on-windows-11/"><u>Quick Guide: Efficiently Duplicate Your DVD Files on Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-hd-streaming-of-usb-content-on-a-sharp-aquos-tv-setup/"><u>Seamless HD Streaming of USB Content on a Sharp Aquos TV Setup</u></a></li>
+<li><a href="https://win-net.techidaily.com/spotting-promising-blockchain-initiatives-tips-by-yl-computing-and-yl-software/"><u>Spotting Promising Blockchain Initiatives: Tips by YL Computing and YL Software</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/unveiling-tech-secrets-toms-guide-to-computer-hardware/"><u>Unveiling Tech Secrets: Tom's Guide to Computer Hardware</u></a></li>
+</ul></div>
 

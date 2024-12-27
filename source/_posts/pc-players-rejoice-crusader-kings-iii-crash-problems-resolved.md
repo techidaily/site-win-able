@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: Crusader Kings III Crash Problems Resolved!"
-date: 2024-08-18T16:24:31.971Z
-updated: 2024-08-19T16:24:31.971Z
+date: 2024-12-23T10:55:15.804Z
+updated: 2024-12-27T02:56:51.054Z
 tags:
   - win11
   - win10
@@ -72,13 +72,11 @@ Here’s how:
 1. Open Steam client and click**Steam** on the top left corner. Select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab, uncheck these boxes to disable the overlay feature. Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Fall Guys and see if it freezes again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this fix doesn’t give you any luck, please move on to the next one.
@@ -93,15 +91,14 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your computer and check if Fall Guys freezes again.
@@ -109,8 +106,9 @@ Here’s how:
  If updating the graphics driver does you no good, please continue to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Verify your game files
 
  Corrupted game files can also cause your game to behave abnormally. So you can run some tests to verify the integrity of your game files.
@@ -121,10 +119,6 @@ And here’s how to do it:
 2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** . Then wait until the process to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/fall-guys-verify-game-files.jpg)
 3. Launch Fall Guys and test your gameplay.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If the issue reappears, simply check out the next method.
 
@@ -136,6 +130,10 @@ If the issue reappears, simply check out the next method.
 
 If you’re not overclocking, go on and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Disable your peripherals
 
  If you’re using peripherals (e.g. controllers) with Fall Guys, try disabling them before starting the game. There’re reports that gamers stop having crashes or freezes after disconnecting their peripherals.
@@ -143,6 +141,10 @@ If you’re not overclocking, go on and try the next fix.
  This usually indicates a driver issue with your peripherals. You can try installing or updating drivers for your peripherals, either by visiting the manufacturer’s website, or by using[Driver Easy](https://tools.techidaily.com/drivereasy/download/) , a smart driver downloader.
 
  If the freezing issue is not peripheral-related, take a look at the last method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Check if it’s a server problem
 
@@ -158,8 +160,6 @@ If you’re not overclocking, go on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +167,23 @@ If you’re not overclocking, go on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-boost-or-dial-down-youtube-audio-with-devices-for-2024/"><u>[New] Boost or Dial Down YouTube Audio with Devices for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-guiding-principles-for-integrating-videos-in-education/"><u>[New] In 2024, Guiding Principles for Integrating Videos in Education</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001620657-solved-discord-overlay-not-working-quickly-and-easily/"><u>[Solved] | Discord Overlay Not Working | Quickly & Easily!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-transform-your-photos-to-slideshow/"><u>[Updated] Transform Your Photos to Slideshow</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-4-overcoming-frustrating-computer-restarts-during-play/"><u>Age of Empires 4: Overcoming Frustrating Computer Restarts During Play</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-to-fix-gzw-malfunctioning-and-crashes-on-your-desktop-pc/"><u>Effective Solutions to Fix GZW Malfunctioning and Crashes on Your Desktop PC</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-easy-listen-no-pay-required/"><u>FB Easy Listen No Pay Required</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Come up With the Best Pokemon Team On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/lag-free-victory-strategies-to-resolve-fortnites-performance-issues-successfully/"><u>Lag-Free Victory: Strategies to Resolve Fortnite's Performance Issues Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-dealing-with-unstable-wallpaper-engine-on-windows-11-10-systems/"><u>Troubleshooting Guide: Dealing with Unstable Wallpaper Engine on Windows 11, 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-a-crash-in-phoenix-point-game/"><u>Troubleshooting Guide: Resolving a Crash in Phoenix Point Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-ultimate-guide-prevent-escape-from-tarkov-game-crashes-on-desktop/"><u>Troubleshooting Ultimate Guide: Prevent Escape From Tarkov Game Crashes on Desktop</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/understanding-facebook-unveiling-its-beginnings-popularity-and-main-attributes/"><u>Understanding Facebook: Unveiling Its Beginnings, Popularity, and Main Attributes</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oneplus-ace-3-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for OnePlus Ace 3 Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/upcoming-samsung-galaxy-z-flip-7-insights-on-pricing-and-release-schedule-plus-detailed-features-overview/"><u>Upcoming Samsung Galaxy Z Flip 7 - Insights on Pricing & Release Schedule + Detailed Features Overview</u></a></li>
+</ul></div>
 

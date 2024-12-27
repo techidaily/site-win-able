@@ -1,7 +1,7 @@
 ---
 title: Madden NFL 21 PC Stability Issues? Here's How to Resolve Them
-date: 2024-12-18T00:54:06.192Z
-updated: 2024-12-21T21:36:44.434Z
+date: 2024-12-26T01:44:48.375Z
+updated: 2024-12-27T00:40:20.917Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ If you’re an avid football fan, the last thing you want to see is**Madden 21 k
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work down the list until you find the one that scores.
@@ -44,23 +48,15 @@ Here’s how to do that on Origin:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-1.jpg)
 2. Select Madden NFL 21\. Then click the setting icon and select**Repair** . Wait for the process to complete.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-verify-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -77,7 +73,7 @@ If the fix doesn’t stop the crash, you can try the next one below.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -100,6 +96,10 @@ To minimize conflicts, you also need to install all the system patches:
 
  If you’re sure your system is up to date, simply check out the next trick below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Switch your DirectX version
 
  Some gamers reported that changing the in-game DirectX version stops the crash. So you can try the same and check if it’s helpful.
@@ -108,19 +108,19 @@ To minimize conflicts, you also need to install all the system patches:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
 
@@ -160,20 +160,21 @@ Once done, restart your game and test the improvement.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-peak-performance-fps-in-deliberate-movements/"><u>[New] Peak Performance FPS in Deliberate Movements</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/a-palettes-journey-learning-the-science-of-colors/"><u>A Palette's Journey Learning the Science of Colors</u></a></li>
-<li><a href="https://win-able.techidaily.com/arma-n3-comprehensive-solutions-to-avoid-game-crashing-scenarios/"><u>Arma N3: Comprehensive Solutions to Avoid Game Crashing Scenarios</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-eliminating-the-crossbow-malfunction-in-minecraft/"><u>Comprehensive Tutorial: Eliminating the Crossbow Malfunction in Minecraft</u></a></li>
-<li><a href="https://win-able.techidaily.com/dota-underlords-troubleshooting-putting-an-end-to-persistent-app-crashes/"><u>Dota Underlords Troubleshooting: Putting an End to Persistent App Crashes</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/effective-strategies-for-reducing-apple-watch-power-consumption-a-comprehensive-guide/"><u>Effective Strategies for Reducing Apple Watch Power Consumption: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-repairing-a-frozen-discord-application-that-wont-open/"><u>Guide to Repairing a Frozen Discord Application That Won't Open</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/how-to-remove-subtitle-feature-from-amazon-prime-video-playback/"><u>How To Remove Subtitle Feature From Amazon Prime Video Playback</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-instagram-increasingdecreasing-stories-frame-rate/"><u>In 2024, Mastering Instagram Increasing/Decreasing Stories' Frame Rate</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/island-innovators-handbook-a-new-era-of-habitat-happiness/"><u>Island Innovators' Handbook: A New Era of Habitat Happiness</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-solution-eliminate-warzone-20-game-crashes-for-a-smooth-pc-gaming-experience/"><u>Mastering the Solution: Eliminate Warzone 2.0 Game Crashes for a Smooth PC Gaming Experience</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/quickly-save-your-screen-in-windows-systems/"><u>Quickly Save Your Screen in Windows Systems</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/revolutionize-your-photos-pro-level-pixlr-techniques/"><u>Revolutionize Your Photos Pro-Level Pixlr Techniques</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-evolution-of-ai-creativity-with-dall-e-3s-integrated-editing-features-is-it-time-for-a-refine/"><u>The Evolution of AI Creativity with DALL-E 3'S Integrated Editing Features - Is It Time for a Refine?</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-qbittorrent-halts-unexpectedly/"><u>Troubleshooting Steps When qBittorrent Halts Unexpectedly</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-livestream-leaders-clash/"><u>[New] 2024 Approved LiveStream Leaders Clash</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-critique-of-vivas-video-capabilities/"><u>[Updated] A Critique of Viva's Video Capabilities</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-subtitle-insertion-for-vimeo-videos/"><u>[Updated] In 2024, Step-by-Step Subtitle Insertion for Vimeo Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mov-m4r-movavi/"><u>無條件還有限時間的 MOV 到 M4R 解碼器 - MoVavi 免費在線上轉換</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/audfreetech-a-deep-dive-into-audio-file-liberation-techniques-for-2024/"><u>AudFreeTech A Deep Dive Into Audio File Liberation Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/civilization-6-wont-start-complete-guide-for-windows-11-users/"><u>Civilization 6 Won't Start? Complete Guide for Windows 11 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-crashing-issues-8-proven-tips-to-optimize-your-multiversus-experience/"><u>Conquer Crashing Issues: 8 Proven Tips to Optimize Your MultiVersus Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2s-broccoli-glitch-ultimate-guide-to-the-2024-patch/"><u>Destiny 2'S Broccoli Glitch: Ultimate Guide to the 2024 Patch</u></a></li>
+<li><a href="https://win-able.techidaily.com/handy-tips-to-overcome-the-challenge-of-discord-not-openthe-issue/"><u>Handy Tips to Overcome the Challenge of 'Discord Not Openthe Issue'</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-itel-s23plus-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Itel S23+</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-11f-5g-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 11F 5G Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stability-issues-how-to-prevent-recurring-pc-crashes-while-playing-valheim/"><u>Overcoming Stability Issues: How to Prevent Recurring PC Crashes While Playing Valheim</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-granblue-fantasy-relinks-crash-issue-in-pc-version/"><u>Resolving the 'Granblue Fantasy Relinks Crash' Issue in PC Version</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-to-correct-zeroxc000003e-windows-software-initiation-problem/"><u>Steps to Correct ZeroXc000003e Windows Software Initiation Problem</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-troubleshooting-pc-crashes-in-minecraft-dungeon/"><u>Ultimate Guide: Troubleshooting PC Crashes in Minecraft Dungeon</u></a></li>
+<li><a href="https://change-location.techidaily.com/why-is-ipogo-not-working-on-samsung-galaxy-m34-5g-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Samsung Galaxy M34 5G? Fixed | Dr.fone</u></a></li>
 </ul></div>
 

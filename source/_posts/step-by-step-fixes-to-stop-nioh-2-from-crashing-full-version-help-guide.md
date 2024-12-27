@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Fixes to Stop Nioh 2 From Crashing: Full Version Help Guide"
-date: 2024-08-18T16:25:34.613Z
-updated: 2024-08-19T16:25:34.613Z
+date: 2024-12-26T08:28:13.627Z
+updated: 2024-12-27T04:15:37.883Z
 tags:
   - win11
   - win10
@@ -37,11 +37,19 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-local-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or you can right-click Nioh 2, and select Manage > Browse local files.
 
  2) Right-click**nioh2** executable file, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Properties-Nioh-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Compatibility** tab. Then, tick the box next to Run this program as an administrator and click **Apply** \> **OK** .
 
@@ -49,9 +57,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Shut down all unnecessary apps
 
  In case other apps are interfering with Nioh 2, please make sure you have shut down all non-essential programs (especially anti-virus) before starting the game.
@@ -60,20 +65,8 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Clean reinstall the graphics card driver
 
  The graphics card driver plays a major role in making sure you have a smooth gaming experience. If the driver is outdated or gets corrupted, you’re very likely to run into game issues such as the game not launching, random game crashing, etc. In that case, you’ll need to update/reinstall the graphics driver.
@@ -98,6 +91,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -109,18 +106,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Verify the game integrity
 
  If you believe that you meet[the requirements for Nioh 2](https://store.steampowered.com/app/1325200/Nioh%5F2%5F%5FThe%5FComplete%5FEdition/) and that your drivers are up to date, please attempt to resolve any potential issues with the game’s local data by performing a file cache integrity check.
@@ -133,9 +118,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/local-files-verify.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
 ## Fix 5: Install/repair Visual C++ files
@@ -146,12 +128,13 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait for the process to complete. This may take 2-3 minutes.
 
@@ -164,8 +147,9 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 Play your game again and see if Nioh 2 not launching is resolved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Disable all overlays
 
  Many players find that disabling all overlays, such as Steam overlay, Discord overlays hele solve the Nioh 2 crashing issue. Here’s how:
@@ -180,10 +164,6 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 
 Now launch your game, and see if it crashes again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 7: Perform a clean boot
 
  To make sure no other apps is interfering with Nioh 2, you can try performing a clean boot. Here’s how:
@@ -199,8 +179,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
@@ -209,9 +190,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
 
@@ -235,8 +224,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +231,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rafting-your-youtube-legacy-a-deep-dive-into-creator-studio-mastery/"><u>[New] Crafting Your YouTube Legacy A Deep Dive Into Creator Studio Mastery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-unveiling-the-secrets-to-download-youtubes-subtitles/"><u>[Updated] 2024 Approved Unveiling the Secrets to Download YouTube's Subtitles</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-leading-graphics-tech-for-uhd-videography/"><u>[Updated] Leading Graphics Tech for UHD Videography</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-rapid-strategies-to-enhance-fps-in-your-elden-ring-adventure/"><u>6 Rapid Strategies to Enhance FPS in Your Elden Ring Adventure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-12-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 12 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-integrate-srt-into-windowsmacos-operations/"><u>In 2024, Integrate SRT Into Windows/macOS Operations</u></a></li>
+<li><a href="https://win-able.techidaily.com/maplestory-troubleshooting-made-easy-fix-game-crashes-on-windows-10-whats-new/"><u>MapleStory Troubleshooting Made Easy: Fix Game Crashes on Windows 10 - What's New</u></a></li>
+<li><a href="https://win-able.techidaily.com/marvels-cosmic-heroes-triumph-fixing-guardians-of-the-galaxy-crash-issues-on-your-computer/"><u>Marvel's Cosmic Heroes Triumph - Fixing Guardians of the Galaxy Crash Issues on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010181315-nba-2k20-gameplay-hacked-eliminate-crashes-with-these-simple-fixes/"><u>NBA 2K20 Gameplay Hacked: Eliminate Crashes with These Simple Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-star-wars-battlefront-2-error-327-a-complete-fix-guide/"><u>Solving Star Wars Battlefront 2 Error 327: A Complete Fix Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-troubleshooting-and-repairing-the-blue-screen-in-helldivers-2/"><u>Step-by-Step Guide: Troubleshooting and Repairing the Blue Screen in Helldivers 2</u></a></li>
+<li><a href="https://win-forum.techidaily.com/vlookup-essentials-a-step-by-step-guide-to-querying-ranges-in-excel-spreadsheets/"><u>VLOOKUP Essentials: A Step-by-Step Guide to Querying Ranges in Excel Spreadsheets</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>
 

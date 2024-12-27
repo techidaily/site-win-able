@@ -1,7 +1,7 @@
 ---
 title: Mastering Latency-Free Performance in OBS Broadcasts and Video Capture Sessions
-date: 2024-12-19T22:11:30.173Z
-updated: 2024-12-21T17:07:59.160Z
+date: 2024-12-21T21:23:50.196Z
+updated: 2024-12-27T03:11:00.425Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes for FPS drops in games
 
@@ -52,6 +48,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Make sure your computer is not overheating
 
  If the ventilation for your computer is rather poor, your machine may run hot, thus with the FPS dropping problems in games, among many other PC performance issues.
@@ -61,6 +61,10 @@ Stop blaming yourself for losing your temper when the FPS (frame per second) dro
  Here is a detailed post for your reference if your computer is overheating: [**How to Know Your CPU Overheating and How to Fix It**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Close CPU- and bandwidth-intensive services and applications
 
@@ -74,6 +78,10 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-49.png)
 3. Pay extra attention to**Intel Turbo Boost Technology** : if you have it running, please disable it as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then run your game again and see if the FPS dropping issue is fixed. If the problem still remains, please move on to the next fix below.
 
@@ -95,10 +103,6 @@ To do so:
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4.1 Flush your DNS
 
  By flushing your DNS, your DNS cache will be cleared. When your PC needs to access a website, it’ll need to obtain the address from the DNS server again. This may fix the FPS dropping issue if the DNS cache data was invalid or corrupt. Here’s how:
@@ -111,10 +115,14 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4.2 Switch to a public DNS server
@@ -134,17 +142,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run your game again to see if the frame rate per second still drops. If the problem still persists, please move on.
@@ -176,10 +180,6 @@ and your network card manufacturer:
 
  Then search for your GPU and network card models. Note that you should only download the latest driver installers that are compatible with your operating system. Once downloaded, open the installers and follow the on-screen instructions to update the drivers one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 2: Update your graphics and network drivers automatically (Recommended)
 
  If you don’t have the time, patience or skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
@@ -191,6 +191,14 @@ and your network card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
@@ -200,10 +208,6 @@ and your network card manufacturer:
  Launch your game again and see if the latest graphics and network drivers help to improve the FPS. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 6\. Modify the Power Mode
 
@@ -215,18 +219,14 @@ To change the power mode:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 3. Then run your game to see if the frame rate per second is higher. If the problem remains still, please move on to the next fix.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ## 7\. Consider hardware upgrade
 
@@ -255,18 +255,22 @@ To change the power mode:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-flashy-fiddles-short-form-melodic-roles/"><u>[New] 2024 Approved Flashy Fiddles Short Form Melodic Roles</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-dive-into-the-future-of-branding-with-these-10-igtv-ideas-for-2024/"><u>[New] Dive Into the Future of Branding with These 10 IGTV Ideas for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlocking-success-with-spotify-marketing-tips/"><u>[Updated] Unlocking Success with Spotify Marketing Tips</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-tailored-treasure-troves-the-ultimate-list-of-online-box-sellers/"><u>2024 Approved Tailored Treasure Troves The Ultimate List of Online Box Sellers</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/dell-webcam-problems-solved-a-guide-for-windows-pc-owners/"><u>Dell Webcam Problems Solved - A Guide for Windows PC Owners</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-overcoming-dragon-age-origins-crashing-woes-in-windows-10/"><u>Expert Advice: Overcoming Dragon Age: Origins' Crashing Woes in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-overcoming-the-crash-dilemma-of-thunder-tier-one-while-playing-on-your-desktop/"><u>Expert Guide to Overcoming the Crash Dilemma of Thunder TIER One While Playing on Your Desktop</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/expert-tips-to-resolve-windows-updates-error-decoding-the-mystery-of-0x8007001f/"><u>Expert Tips to Resolve Windows Updates Error: Decoding the Mystery of 0X8007001F</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-the-unresponsive-epic-games-launcher-problem/"><u>Quick Fixes for the Unresponsive Epic Games Launcher Problem</u></a></li>
-<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-c65-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for C65</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guide-enabling-msi-afterburner-detection-for-gpus-on-latest-windows-operating-systems/"><u>Solution Guide: Enabling MSI Afterburner Detection for GPUs on Latest Windows Operating Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-activating-and-setting-up-hyper-v-on-your-windows-10-pc/"><u>Step-by-Step Guide: Activating and Setting Up Hyper-V on Your Windows 10 PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-ultimate-8-step-troubleshooting-guide-for-uninterrupted-vrchat-experience-on-windows/"><u>The Ultimate 8-Step Troubleshooting Guide for Uninterrupted VRChat Experience on Windows</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-harmonize-your-favorites-creating-custom-youtube-playlists/"><u>[New] In 2024, Harmonize Your Favorites Creating Custom YouTube Playlists</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-samsungs-opponent-the-finest-non-gear-360-cameras/"><u>[Updated] Samsung's Opponent The Finest Non-Gear 360 Cameras</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-magix-video-pro-x-analysis/"><u>2024 Approved Magix Video Pro X Analysis</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-1000-club-achievement-monthly-tips-for-insta-success-and-growth/"><u>2024 Approved The 1,000 Club Achievement Monthly Tips for Insta Success and Growth</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-transfer-music-from-huawei-nova-y71-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Transfer Music from Huawei Nova Y71 to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/dying-light-stability-fix-a-fast-and-easy-solution-for-no-more-crashes/"><u>Dying Light Stability Fix - A Fast & Easy Solution for No More Crashes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effortless-solutions-for-when-your-fortnite-microphone-fails-you/"><u>Effortless Solutions for When Your Fortnite Microphone Fails You</u></a></li>
+<li><a href="https://win-able.techidaily.com/emerging-from-shadows-resolving-elden-rings-perplexing-boot-blackout-problem/"><u>Emerging From Shadows: Resolving Elden Ring's Perplexing Boot Blackout Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-steps-for-recognizing-and-fixing-disabled-hard-drives-in-windows-11/"><u>Essential Steps for Recognizing and Fixing Disabled Hard Drives in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722985025473-house-flipper-2-stalling-heres-how-to-restore-smooth-gaming-on-pc/"><u>House Flipper 2 Stalling? Here's How to Restore Smooth Gaming on PC!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-change-your-infinix-zero-30-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Infinix Zero 30 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-graphics-card-failure-in-msi-afterburner-on-new-windows-11-operating-system/"><u>Overcoming Graphics Card Failure in MSI Afterburner on New Windows 11 Operating System</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-hurdles-in-sea-of-thieves-a-step-by-step-guide/"><u>Overcoming Launch Hurdles in Sea of Thieves – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-pcs-silent-gamut-the-ultimate-guide-to-restoring-audio-in-fallout-4/"><u>Solve Your PC's Silent Gamut: The Ultimate Guide to Restoring Audio in Fallout 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tricks-to-get-valorant-running-smoothly-on-your-pc/"><u>Top Tricks to Get Valorant Running Smoothly on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-euro-truck-simulator-2-no-longer-causes-pc-problems-after-recent-update/"><u>Troubleshooting Guide: How Euro Truck Simulator 2 No Longer Causes PC Problems After Recent Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-tribes-of-midgard-stability-problems-and-crashes/"><u>Troubleshooting Steps: Resolving 'Tribes of Midgard' Stability Problems and Crashes</u></a></li>
 </ul></div>
 

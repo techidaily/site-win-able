@@ -1,7 +1,7 @@
 ---
 title: Overcoming Common Glitches - Tips for a Smoother Gameplay in Genshin Impact
-date: 2024-12-14T21:40:22.543Z
-updated: 2024-12-21T16:32:05.725Z
+date: 2024-12-23T18:38:31.631Z
+updated: 2024-12-27T05:30:10.711Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ Even since its demo, House Flipper 2 has gained popularity and positive reviews 
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 1\. Make sure your machine meets the system requirements for House Flipper 2
 
  Technically speaking, House Flipper 2 doesn’t have rather high requirements for your computer, especially when compared to other games. So if your House Flipper 2 crashes easily, one of the first things you need to check is whether your computer meets the minimum system requirements for the game. If your machine is below or just at the requirements, you may need to upgrade your hardware for House Flipper 2 to run smoothly.
@@ -62,6 +58,10 @@ Here are the requirements for your reference:
 
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-81.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you’re sure that your machine meets the system requirements to run the game, but House Flipper 2 still crashes, please move on to the other fixes below.
 
 ---
@@ -75,13 +75,13 @@ Here are the requirements for your reference:
 ![](https://www.drivereasy.com/wp-content/uploads/2023/12/image-82.png)
 3. When asked if you want to run House Flipper 2, click OK to continue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This command is to force House Flipper 2 to run on Direct 10, which is lower than Direct 11 it requires. It should work on older computers or older graphics cards. But if your House Flipper 2 still crashes or doesn’t open in this way, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 3\. Update Windows
 
@@ -92,22 +92,18 @@ Here are the requirements for your reference:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Then try your House Flipper 2 again to see if it still crashes. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Disable OneDrive, DropBox, or antivirus program(s)
 
@@ -141,26 +137,22 @@ Here are the requirements for your reference:
 5. In the_Specify the settings for this program:_ section, scroll down to find the**Power management** mode, then select**Prefer maximum performance** .![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-17.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 6. Click**Apply** to save the changes.![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-18.png)
 
  Then run House Flipper 2 again to see if the crashes remain. If so, please move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 5.2 I have an AMD display card
 
 1. Right click on your desktop and select **AMD Radeon Settings**  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-19.png) ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-22.png)
 2. Select **System.**  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-21.png)
 3. Select**Switchable Graphics** .  
@@ -230,10 +222,6 @@ To do so, first visit the website of your GPU manufacturer:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 8\. Turn off V-Sync
 
  VSync (Vertical Sync) is designed to fix screen tearing and screen stuttering by syncing the refresh rate with the frame rate of your monitor. When the game’s frame rate is too high for your monitor to keep up, not only will you notice the eye-soring screen tearing, but also the game crashing like the one with House Flipper 2\. To fix it, you can change the VSync settings for your display card.
@@ -251,6 +239,10 @@ To do so, first visit the website of your GPU manufacturer:
 
  Setting Vertical sync to **Adaptive** might also be efficient, according to some players.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **If you have an AMD display card, modify the Wait for Vertical Refresh setting:**
 
 1. On your keyboard, hit the **Windows** key and type **amd** . Then click **AMD Radeon Software** .  
@@ -260,10 +252,6 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-graphics.jpg)
 3. Click **Always on** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/amd-verticle-refresh-on.jpg)
 
  NVIDIA and AMD settings will default to application settings. It means that they will respect in-game settings. If you select Always On for NVIDIA/AMD in-game, then VSYNC will remain On when appropriate.
@@ -271,6 +259,10 @@ To do so, first visit the website of your GPU manufacturer:
  When V-sync is off, launch House Flipper 2 again to see if it still crashes. If the problem still remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 9\. Reinstall the game into a different drive (preferably to an SSD)
 
@@ -282,16 +274,16 @@ To tell which drive you have, please view the Task Manager in this way:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-11.png)
 2. Click the second icon (**Performance** ), then check the **Type** field.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-12.png)
 3. To make sure that you have the best gaming experience with House Flipper 2 and are free from the pain of constant crashes, it’s highly recommended that you install the game on your SSD.
 
  If this still doesn’t fix the crashing problem with House Flipper 2 for you, please move on.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 10\. Repair damaged system files
 
@@ -304,7 +296,15 @@ To tell which drive you have, please view the Task Manager in this way:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
@@ -329,17 +329,22 @@ To tell which drive you have, please view the Task Manager in this way:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-steering-clear-of-the-8-most-frequent-pitfalls-for-first-time-youtubers/"><u>[Updated] 2024 Approved Steering Clear of the 8 Most Frequent Pitfalls for First-Time YouTubers</u></a></li>
-<li><a href="https://win-able.techidaily.com/assassins-creed-odyssey-top-fixes-for-flawless-gameplay-and-no-more-freezes-updated-tips/"><u>Assassin's Creed Odyssey - Top Fixes for Flawless Gameplay and No More Freezes (Updated Tips)</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/existing-enrollment-record-verification-a-guide/"><u>Existing Enrollment Record Verification: A Guide</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015712460-fast-solutions-revive-your-oculus-rift-s-headsets-microphone-in-minutes/"><u>Fast Solutions: Revive Your Oculus Rift S Headset's Microphone in Minutes</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-from-xiaomi-redmi-k70e-by-drfone-android/"><u>How to Bypass FRP from Xiaomi Redmi K70E?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Poco M6 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/lexis-audio-editor-demystified-top-reviews-key-features-and-educational-guides/"><u>Lexis Audio Editor Demystified Top Reviews, Key Features, and Educational Guides</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-dota-2-vac-ban-issues-tips-and-tricks-for-the-new-year/"><u>Overcoming Dota 2 VAC Ban Issues - Tips and Tricks for the New Year</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/1106032-9781781604410-paracelso-medico-alquimista/"><u>Paracelso, médico-alquimista | Free Book</u></a></li>
-<li><a href="https://win-wonderful.techidaily.com/prostaglandin-analogs-such-as-latanoprost-increase-uveoscleral-outflow-to-reduce-iop-and-are-often-prescribed-once-daily-due-to-their-long-duration-of-actio84/"><u>Prostaglandin Analogs, Such as Latanoprost, Increase Uveoscleral Outflow to Reduce IOP and Are Often Prescribed Once Daily Due to Their Long Duration of Action.</u></a></li>
-<li><a href="https://win-able.techidaily.com/team-fortress-not-launching-heres-how-you-can-get-it-running-again/"><u>Team Fortress Not Launching? Here's How You Can Get It Running Again!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repairing-corrupted-disks-on-steam-platform-with-ease/"><u>Troubleshooting and Repairing Corrupted Disks on Steam Platform with Ease</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-openscreens-the-unchained-gamers-screen-record/"><u>[New] 2024 Approved OpenScreens The Unchained Gamer's Screen Record</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-top-10-best-performers-elite-4k-laptops/"><u>[New] Top 10 Best Performers Elite 4K Laptops</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-crafting-unique-instagrams-with-flawless-image-borders/"><u>[Updated] Crafting Unique Instagrams with Flawless Image Borders</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-accelerating-video-conversion-youtube-to-mpeg-edition/"><u>[Updated] In 2024, Accelerating Video Conversion YouTube to MPEG Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-the-waiting-game-solutions-for-lengthy-launch-sequences-in-fallout-4/"><u>Battling the Waiting Game: Solutions for Lengthy Launch Sequences in Fallout 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-troubleshooting-resolve-league-of-legends-crashes-swiftly/"><u>Effortless Troubleshooting: Resolve League of Legends Crashes Swiftly</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-stuttering-glitches-while-playing-age-of-empires-4-expert-tips-and-tricks/"><u>Eliminating Stuttering Glitches While Playing Age of Empires 4: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-graphics-driver-crashed-bug-in-valorant-fast-track/"><u>How to Fix the 'Graphics Driver Crashed' Bug in Valorant Fast-Track</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-frostpunk-game-from-suddenly-closing-expert-tips-and-tricks/"><u>How to Stop Your Frostpunk Game From Suddenly Closing: Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-gaming-fluidity-expert-strategies-for-addressing-and-resolving-frame-rate-dips/"><u>Improving Gaming Fluidity: Expert Strategies for Addressing and Resolving Frame Rate Dips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-playthrough-recording-tutorials-mastering-osu-video-sessions/"><u>PC Playthrough Recording Tutorials: Mastering Osu! Video Sessions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/pioneering-progress-in-ai-with-openais-newly-launched-gpt-4-model/"><u>Pioneering Progress in AI with OpenAI's Newly Launched GPT-4 Model</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-thick-haze-triggers-computer-crash-on-laptop/"><u>Solution Found: Thick Haze Triggers Computer Crash on Laptop</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-sudden-shutdowns-dealing-with-superpowered-account-issues-on-pc/"><u>Troubleshooting Sudden Shutdowns: Dealing with Superpowered Account Issues on PC</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-realme-12-5g-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Realme 12 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/uniting-images-into-an-eye-catching-narrative-display/"><u>Uniting Images Into an Eye-Catching Narrative Display</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-free-compilation-the-best-background-tracks-for-movies-and-videos-for-2024/"><u>Updated Free Compilation The Best Background Tracks for Movies & Videos for 2024</u></a></li>
 </ul></div>
 

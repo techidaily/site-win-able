@@ -1,7 +1,7 @@
 ---
 title: Update Clears Memory Shortage Bug in God of War - Everything You Need to Know
-date: 2024-08-18T16:24:53.504Z
-updated: 2024-08-19T16:24:53.504Z
+date: 2024-12-24T07:17:49.191Z
+updated: 2024-12-27T11:09:24.336Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -47,10 +44,16 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Kill background programs
 
@@ -62,8 +65,9 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -82,20 +86,22 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset your character account
 
  According to players, somehow resetting your character account could fix the Star Citizen crashing issue. You may have a try. At least it’s not a complicated fix.
@@ -104,9 +110,6 @@ So, there are two ways that you can update your graphics driver:
 2. Click**Settings > Character reset** .
 3. Click**Reset Request** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Increase page file size
 
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
@@ -133,8 +136,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +143,26 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-how-to-sculpt-the-perfect-youtube-moniker-tips-and-tricks/"><u>[New] How to Sculpt the Perfect YouTube Moniker Tips & Tricks</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-discover-the-next-big-thing-in-design-the-best-9-sites-featuring-dynamic-3d-text-creation/"><u>[New] In 2024, Discover the Next Big Thing in Design The Best 9 Sites Featuring Dynamic 3D Text Creation</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-masters-crafting-unparalleled-vr-adventures-for-2024/"><u>[Updated] Masters Crafting Unparalleled VR Adventures for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/1721982411538-chatgpt-unleashed-on-desktop-explore-how-it-outshines-its-online-alternative/"><u>ChatGPT Unleashed on Desktop - Explore How It Outshines Its Online Alternative!</u></a></li>
+<li><a href="https://win-able.techidaily.com/complete-solution-to-horizon-forbidden-west-pc-crashes-optimization-tips-and-tricks/"><u>Complete Solution to Horizon Forbidden West PC Crashes - Optimization Tips & Tricks</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/efficient-spotify-listening-safe-speed-adjustment/"><u>Efficient Spotify Listening Safe Speed Adjustment</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-solve-black-screen-error-in-star-wars-battlefront-ii/"><u>How to Solve Black Screen Error in Star Wars Battlefront II</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-enhance-your-yt-summary-top-notch-template-guides/"><u>In 2024, Enhance Your YT Summary Top-Notch Template Guides</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-visual-storytelling-in-business-marketing/"><u>In 2024, Visual Storytelling in Business Marketing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/intelligent-machines-unpacked-strong-and-weak-classes/"><u>Intelligent Machines Unpacked: Strong and Weak Classes</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/is-sns-hdr-pro-the-gold-standard-for-hdr-editors/"><u>Is SNS HDR Pro the Gold Standard for HDR Editors?</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-uncovered-factors-behind-its-delay/"><u>Mafia: Definitive Edition - Uncovered Factors Behind Its Delay</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-rainbow-six-siege-play-a-guide-to-overcoming-connection-issues-and-lag/"><u>Optimize Rainbow Six Siege Play - A Guide to Overcoming Connection Issues and Lag</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-stagnation-effective-solutions-for-a-smooth-qbittorrent-experience/"><u>Overcoming Stagnation: Effective Solutions for a Smooth qBittorrent Experience</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-ultimate-collection-of-elite-cost-free-vfx-and-editing-websites/"><u>The Ultimate Collection of Elite, Cost-Free VFX & Editing Websites</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-guide-to-the-ipad-mini-power-in-tiny-packages/"><u>The Ultimate Guide to the iPad Mini ˈPower in Tiny Packages</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-solution-overcoming-halo-infinites-crashing-problem-in-pc-edition/"><u>The Ultimate Solution: Overcoming Halo Infinite's Crashing Problem in PC Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-persistent-chrome-freezes-in-windows-10-instantly/"><u>Troubleshoot and Resolve Persistent Chrome Freezes in Windows 10 Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-the-mystery-behind-startups-atomic-heart-crashes-how-to-avoid-them/"><u>Unraveling the Mystery Behind Startups' 'Atomic Heart Crashes': How to Avoid Them</u></a></li>
+</ul></div>
 

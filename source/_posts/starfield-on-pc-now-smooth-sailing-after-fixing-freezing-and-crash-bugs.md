@@ -1,7 +1,7 @@
 ---
 title: Starfield on PC Now Smooth Sailing After Fixing Freezing & Crash Bugs
-date: 2024-08-18T16:22:42.143Z
-updated: 2024-08-19T16:22:42.143Z
+date: 2024-12-23T07:31:38.349Z
+updated: 2024-12-26T22:02:00.951Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ A screenshot of The King of Fighters XV from Steam
 6. **[Repair Epic Games launcher](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  The game will not function properly if there is something wrong with the game files. If you’re not sure whether some game files are missing or corrupted, you can verify the game files.
@@ -58,8 +62,9 @@ A screenshot of The King of Fighters XV from Steam
 If the game still crashes after you verified the game files, try the next
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping) and even screen flickering issues.
@@ -86,9 +91,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -105,6 +107,11 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires **[the Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -119,8 +126,9 @@ Run KOF XV and check if it crashes or not.
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
 [SNK CORPORATION](https://store.steampowered.com/search/?developer=SNK%20CORPORATION&snr=1%5F5%5F9%5F%5F2000) , the game developer, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -128,6 +136,10 @@ Run KOF XV and check if it crashes or not.
  If a patch is available, it will be detected by Steam or Epic Games Launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch KOF XV and see if it crashes again. If this issue persists, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -137,9 +149,6 @@ Run KOF XV and check if it crashes or not.
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and launch KOF XV.
 
  See if the game crashes again after you installed the latest DirectX file.
@@ -147,8 +156,9 @@ Run KOF XV and check if it crashes or not.
 If this fix didn’t work for you, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking
 
  Many PC gamers would like to overclock the CPU or turbo boost the graphics card in order to gain a better FPS. However, it often crashes the game.
@@ -168,14 +178,8 @@ If this fix didn’t work for you, try the next fix, below.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epic Games Launcher** and select**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After Windows repaired Epic Games Launcher, launch KOF XV to see if it will crash. If it still crashes, try the next fix, below.
 
 ## Fix 7: Perform a clean boot
@@ -185,18 +189,22 @@ If this fix didn’t work for you, try the next fix, below.
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -229,8 +237,6 @@ If this fix didn’t work for you, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +244,23 @@ If this fix didn’t work for you, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/fixed-horizon-zero-dawn-boost-fps-and-increase-performance/"><u>[Fixed] Horizon Zero Dawn BOOST FPS and Increase Performance</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-the-pathway-to-popularity-on-instagram-from-zero-to-a-thousand-in-30-days/"><u>[New] 2024 Approved The Pathway to Popularity on Instagram From Zero to a Thousand in 30 Days</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-performance-memory-for-a7s-ii/"><u>[New] Peak Performance Memory for A7S II</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-snappy-sharing-uploading-and-publishing-short-videos-online/"><u>[New] Snappy Sharing Uploading and Publishing Short Videos Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-no-hassle-no-money-10-official-passport-pictures-from-our-generator/"><u>[Updated] No Hassle, No Money 10 Official Passport Pictures From Our Generator</u></a></li>
+<li><a href="https://win-able.techidaily.com/corrective-steps-to-restore-your-clownfish-vocal-processors-functionality/"><u>Corrective Steps to Restore Your Clownfish Vocal Processor's Functionality</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-frequent-rainmeter-anomalies-in-windows-environment/"><u>Decoding Frequent Rainmeter Anomalies in Windows Environment</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-the-reconnect-loop-issue-in-lol-2er-2024-was-successfully-addressed/"><u>How the Reconnect Loop Issue in LoL 2Er 2024 Was Successfully Addressed</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethinking-top-movies-7-swap-selections/"><u>In 2024, Rethinking Top Movies - #7 Swap Selections</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-shadow-scribes-compendium-best-kept-voice-apps-iosandroid/"><u>In 2024, Shadow Scribes' Compendium Best-Kept Voice Apps (iOS/Android)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-art-of-disguising-reality-learn-free-green-screen-techniques-via-vfx-leaders-on-4-video-platforms/"><u>In 2024, The Art of Disguising Reality Learn Free Green Screen Techniques via VFX Leaders on 4 Video Platforms</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/iphones-guide-to-slow-motion-video-magic/"><u>IPhone's Guide to Slow-Motion Video Magic</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-troubleshooting-for-tales-of-arise-on-unreal-engine-4/"><u>Navigating Troubleshooting for Tales of Arise on Unreal Engine 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k24-how-to-fix-error-code-727e66ac-2024-tips/"><u>NBA 2K24: How to Fix Error Code 727E66ac -2024 Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stuttering-issues-in-fallout-76-a-comprehensive-guide/"><u>Resolving Stuttering Issues in Fallout 76 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fix-overcoming-content-warning-and-voice-chat-not-working-problems-seamlessly/"><u>The Ultimate Fix: Overcoming 'Content Warning' And 'Voice Chat Not Working' Problems Seamlessly</u></a></li>
+</ul></div>
 

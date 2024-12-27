@@ -1,7 +1,7 @@
 ---
 title: "Closure: The League of Legends 2024 Connectivity Error Correction Explained"
-date: 2024-12-16T19:49:58.274Z
-updated: 2024-12-22T00:11:49.564Z
+date: 2024-12-26T14:03:42.319Z
+updated: 2024-12-26T19:25:53.002Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ Connection issues can happen in every online game and bother many players. The L
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  Here’re 7 fixes that prove to be useful for many LOL players. Just work your way down the list to find out the one that solves your problem!
@@ -36,10 +40,6 @@ Connection issues can happen in every online game and bother many players. The L
 6. [Disable your proxy & VPN](https://tools.techidaily.com/drivereasy/download/)
 7. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 1: Restart your router & modem
 
  You should restart your modem and router especially if they haven’t been switched off for a long time. Just give them some time to cool off and clear up the cache. Here’s how to do it:
@@ -47,6 +47,10 @@ Connection issues can happen in every online game and bother many players. The L
 1. Unplug both your router and modem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
@@ -67,8 +71,16 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel.jpg)
 2. Set Control Panel view by **Large icons** then click **Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
@@ -78,10 +90,6 @@ Connection issues can happen in every online game and bother many players. The L
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 4: Disable antivirus software
 
@@ -113,6 +121,10 @@ Connection issues can happen in every online game and bother many players. The L
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Disable your proxy & VPN
 
  If you’re using a VPN or a proxy, make sure you disable them before getting started to play LOL. These are useful tools to protect your privacy online, but they can also be the causes of your high ping issue.
@@ -124,16 +136,8 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network.jpg)
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Launch LOL and check the connection issue.
 
@@ -142,7 +146,7 @@ Connection issues can happen in every online game and bother many players. The L
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 7: Change your DNS server
@@ -157,30 +161,26 @@ Connection issues can happen in every online game and bother many players. The L
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 8. Reboot your PC and launch LOL. Check the connection issue is resolved or not.
 
@@ -205,19 +205,24 @@ Connection issues can happen in every online game and bother many players. The L
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-mastering-android-facetime-a-step-by-step-guide/"><u>[New] 2024 Approved Mastering Android FaceTime A Step-by-Step Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-7-pro-tips-to-enhance-your-foodie-filmography-for-2024/"><u>[New] 7 Pro Tips to Enhance Your Foodie Filmography for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/nveiling-truth-understanding-youtubes-seo-keywords/"><u>[New] Unveiling Truth Understanding YouTube's SEO Keywords</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-vlc-tutorial-the-art-of-video-angling/"><u>[Updated] VLC Tutorial The Art of Video Angling</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-to-enabling-msi-afterburner-gpu-recognition-on-windows-10-and-11-devices/"><u>Expert Guide to Enabling MSI Afterburner GPU Recognition on Windows 10 & 11 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-to-address-and-resolve-hearts-of-iron-4-performance-issues/"><u>Expert Tips to Address and Resolve Hearts of Iron 4 Performance Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-recurring-pc-breakdowns-during-gas-station-simulator-sessions/"><u>How to Fix Recurring PC Breakdowns During Gas Station Simulator Sessions</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-poco-x5-pro-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Poco X5 Pro Screen Mirroring App | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-infinix-smart-8-hd-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Infinix Smart 8 HD Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722992743536-lost-in-battle-for-azeroth-or-stuck-on-overwatch-rebooting-your-way-back-into-the-game-servers/"><u>Lost in Battle for Azeroth or Stuck on Overwatch? Rebooting Your Way Back Into the Game Servers!</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-troubles-discover-how-to-overcome-crashes-in-detroit-become-human/"><u>PC Troubles? Discover How to Overcome Crashes in Detroit: Become Human!</u></a></li>
-<li><a href="https://fox-zaraz.techidaily.com/preserve-and-protect-expert-advice-from-yl-software-on-maintaining-a-long-lasting-computer/"><u>Preserve and Protect: Expert Advice From YL Software on Maintaining a Long-Lasting Computer</u></a></li>
-<li><a href="https://win-exceptional.techidaily.com/quick-techniques-for-retrieving-erased-information-on-your-lexar-usb-drives/"><u>Quick Techniques for Retrieving Erased Information on Your Lexar USB Drives</u></a></li>
-<li><a href="https://fox-that.techidaily.com/resolve-apple-pay-glitches-in-minutes-with-these-10-troubleshooting-steps/"><u>Resolve Apple Pay Glitches in Minutes with These 10 Troubleshooting Steps</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-becoming-a-metaverse-veteran-top-7-gadgets-for-the-experts-for-2024/"><u>[New] Becoming a Metaverse Veteran Top 7 Gadgets for the Experts for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-strategies-for-engaging-elite-videography-talent/"><u>[Updated] 2024 Approved Strategies for Engaging Elite Videography Talent</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-setting-up-windows-11-for-automatic-hdr-activation/"><u>[Updated] Setting Up Windows 11 for Automatic HDR Activation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-obs-recording-guide-for-gaming-enthusiasts/"><u>2024 Approved The Ultimate OBS Recording Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-update-hp-deskjet-ink-advantage-3050-printer-drivers-for-windows-free/"><u>Download and Update HP Deskjet Ink Advantage 3050 Printer Drivers for Windows: FREE</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-when-your-ryzen-master-drivers-wont-install-correctly/"><u>Effective Solutions When Your Ryzen Master Drivers Won't Install Correctly</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-your-gaming-experience-boosting-fps-stability-for-pc-players-of-resident-evil-village/"><u>Enhancing Your Gaming Experience - Boosting FPS Stability for PC Players of Resident Evil Village</u></a></li>
+<li><a href="https://win-able.techidaily.com/final-solution-resolving-your-far-cry-6-launch-difficulties-on-windows/"><u>Final Solution: Resolving Your Far Cry 6 Launch Difficulties on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-achieve-smooth-gameplay-essential-tips-for-overcoming-wows-low-fps-dilemamas/"><u>How to Achieve Smooth Gameplay: Essential Tips for Overcoming WoW's Low FPS Dilemamas</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-evil-genius-2-when-it-refuses-to-boot-up/"><u>How to Fix Evil Genius 2 When It Refuses to Boot Up</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/internet-explorer-troubles-how-to-fix-webpage-cannot-be-displayed-for-easy-online-navigation/"><u>Internet Explorer Troubles: How to Fix 'Webpage Cannot Be Displayed' For Easy Online Navigation</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-loading-obstacles-a-guide-to-fixing-among-us-stuck-scenes/"><u>Overcome 'Loading' Obstacles: A Guide to Fixing Among Us Stuck Scenes</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/resolve-your-usb-compatibility-woes-with-windows-11-easy-to-follow-tips-and-tricks/"><u>Resolve Your USB Compatibility Woes with Windows 11 - Easy-to-Follow Tips & Tricks</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ify-collaboration-share-and-connect-through-playlists/"><u>Simplify Collaboration Share & Connect Through Playlists</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-finals-keeps-crashing-on-pc-how-to-fix/"><u>The Finals Keeps Crashing on PC: How to Fix</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Making It Possible</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-pc-problems-with-bloodhunt-end-stutters-and-crashes-for-smoother-gaming/"><u>Troubleshooting PC Problems with BloodHunt: End Stutters & Crashes for Smoother Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/uncovered-truth-why-mafia-ultimate-version-wont-see-daylight/"><u>Uncovered Truth: Why Mafia: Ultimate Version Won't See Daylight</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-do-you-want-to-better-your-video-with-premiere-pro-try-transitions-this-article-will-give-you-10-best-premiere-pro-transitions-and-let/"><u>Updated 2024 Approved Do You Want to Better Your Video with Premiere Pro? Try Transitions. This Article Will Give You 10 Best Premiere Pro Transitions and Let You Know How to Add Transitions in Premiere. Check It Out</u></a></li>
 </ul></div>
 

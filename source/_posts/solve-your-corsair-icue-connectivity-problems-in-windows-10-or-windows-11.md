@@ -1,7 +1,7 @@
 ---
 title: Solve Your Corsair iCUE Connectivity Problems in Windows 10 or Windows 11
-date: 2024-08-18T16:24:24.279Z
-updated: 2024-08-19T16:24:24.279Z
+date: 2024-12-22T02:51:01.982Z
+updated: 2024-12-27T02:47:59.124Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/185bd2e3ee5add750b89a3f134c1fcf3132bd9314
 3. [**Change settings in your graphics control panel**](https://tools.techidaily.com/drivereasy/download/)
 4. [**Set graphics preference to High performance**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Run Warzone in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -60,18 +64,21 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
 Once done, restart your PC and see if Warzone is using your GPU.
@@ -79,8 +86,9 @@ Once done, restart your PC and see if Warzone is using your GPU.
  If updating your system doesn’t help, you can take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change settings in your graphics control panel
 
  You can also force Warzone to run on your graphics card by changing settings in the graphics control panel. If you don’t know how, here’re the steps for NVIDIA GPUs:
@@ -90,22 +98,11 @@ Once done, restart your PC and see if Warzone is using your GPU.
 2. In the left pane, click**Manage 3D settings** . Click**CUDA – GPUs** and select your graphics card. Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-1.jpg)
 3. In the left pane, select**Set PhysX Configuration** . Under**Select a PhysX processor** , click to expand the drop down list and**select your GPU** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-nvidia-2.jpg)
 4. Now start your game and check if it’s running properly.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  If this trick doesn’t work for you, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Set graphics preference to High performance
 
  In addition to the graphics control panel, you can also set the preference using Windows Settings. To do so, use these steps:
@@ -115,21 +112,24 @@ The powerful video editing program for your Windows PC</a>
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of Warzone. Choose**ModernWarfare.exe** in the game folder.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  (By default it’s_%USERPROFILE%\\Documents\\Call of Duty Modern Warfare_ )  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/graphics-settings-warzone-browse.jpg)
 4. Click**Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-1.jpg)
 5. In the pop-up window, select**High performance** and click**OK** to apply the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-force-gpu-2.jpg)
 6. You can do the same for**Modern Warfare Launcher.exe** . Once done, start Warzone and compare the GPU utilization with the gameplay.
 
  If this setting doesn’t help, take a look at the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Run Warzone in Windowed mode
 
@@ -139,6 +139,10 @@ The powerful video editing program for your Windows PC</a>
 2. Navigate to the**GRAPHICS** tab. Under the**Display** section, set**Display Mode** to**Windowed** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/warzone-windowed.jpg)
 3. Now check if the game runs as expected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -150,8 +154,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +161,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-sound-on-call-sensor-iphone-24-tech/"><u>[New] 2024 Approved Sound-on-Call Sensor IPhone '24 Tech</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-quick-guide-to-mp3-from-instagram-videos/"><u>[New] In 2024, Quick Guide to MP3 From Instagram Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-optimal-viewing-experience-selecting-between-ultrawide-and-uhd-4k/"><u>[Updated] 2024 Approved Optimal Viewing Experience Selecting Between UltraWide and UHD 4K</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-windows-11-how-to-switch-on-its-built-in-hdr-capability/"><u>2024 Approved Windows 11 How to Switch On Its Built-In HDR Capability</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/do-creators-profit-from-product-evaluations-on-youtube/"><u>Do Creators Profit From Product Evaluations on YouTube?</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-overcoming-opening-problems-with-davinci-resolve-on-pc-running-windows/"><u>Expert Tips: Overcoming Opening Problems with DaVinci Resolve on PC Running Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-problem-when-your-skype-messages-wont-send-step-by-step-fixes/"><u>Fixing the Problem When Your Skype Messages Won't Send: Step-by-Step Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-mobile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>In 2024, Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-path-of-exile-strategies-and-solutions-for-connection-errors/"><u>Mastering Path of Exile : Strategies and Solutions for Connection Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-downtime-effective-fixes-for-stability-issues-in-diablo-iv-pc-ps5-and-xbox/"><u>No More Downtime: Effective Fixes for Stability Issues in Diablo IV (PC, PS5, & Xbox)</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-for-sekiro-crash-problems-no-hassle/"><u>Quick Solutions for Sekiro Crash Problems - No Hassle!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixes-for-epic-games-launcher-displaying-a-dark-interface/"><u>Resolved: Fixes for Epic Games Launcher Displaying a Dark Interface</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ng-youtube-earnings-device-independent-studio-tactics-for-2024/"><u>Scaling YouTube Earnings Device-Independent Studio Tactics for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/screen-savvy-6-advanced-techniques-to-record-minecraft-sessions/"><u>Screen Savvy 6 Advanced Techniques to Record Minecraft Sessions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/snapping-memories-from-your-gameplay-step-by-step-photos-on-ps4/"><u>Snapping Memories From Your Gameplay: Step-by-Step Photos on PS4</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-why-is-my-thaumaturge-app-not-starting-on-windows/"><u>Troubleshooting Steps: Why Is My Thaumaturge App Not Starting on Windows?</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warcraft-low-fps-solutions-the-ultimate-troubleshooting-guide-for-gamers/"><u>World of Warcraft Low FPS Solutions: The Ultimate Troubleshooting Guide for Gamers</u></a></li>
+</ul></div>
 

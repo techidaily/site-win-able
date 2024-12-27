@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Recurring Crashes in Mount & Blade 2: Bannerlord – Top Tips and Tricks"
-date: 2024-08-18T16:22:34.210Z
-updated: 2024-08-19T16:22:34.210Z
+date: 2024-12-24T08:40:46.830Z
+updated: 2024-12-27T09:35:06.067Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 6. **[Reinstall Epic Games launcher](https://tools.techidaily.com/drivereasy/download/)**
 7. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues. So, you should update your graphics driver to see if it fixes your issue.
@@ -58,8 +62,9 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 If your issue persists, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run your game as an administrator
 
  By default, Windows runs programs as a user, with limited access to the files and folders on your PC. To see if that’s the problem for you, try running your game as an administrator. Here is how:
@@ -68,13 +73,14 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
@@ -99,9 +105,6 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Relaunch your game to see if this fixed your issue.
 
 If it didn’t, read on and try the fix below.
@@ -117,19 +120,21 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Restart your game.
 
  If your game still won’t work properly, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  This problem might occur when the game is not properly installed on your PC. If that’s the core issue, reinstalling the game should fix it. Follow the instructions below:
@@ -145,12 +150,13 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 **3)**  Click **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-22-09.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch the **Epic Games Launcher**  to download and install _Phoenix Point_ .
 
@@ -163,15 +169,17 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-01-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)**  Right-click **Phoenix Point**  and click **More > App settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-56-02-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-03-14.jpg)
@@ -194,9 +202,6 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
@@ -205,20 +210,16 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **5)** [**Download**](https://www.epicgames.com/unrealtournament/download) and install the Epic Games Launcher. Then, reinstall _Phoenix Point_ .
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
@@ -231,16 +232,14 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-34.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game.
 
  Hopefully, this article helped. Please leave a comment below if you have any questions or suggestions, or if you managed to fix this issue in some other way. I would love your thoughts!
@@ -258,8 +257,6 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +264,24 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-all-inclusive-list-best-downloader-software-for-vimeo-for-2024/"><u>[New] All-Inclusive List Best Downloader Software for Vimeo for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-mastering-sound-top-10-microphones/"><u>[Updated] 2024 Approved Mastering Sound Top 10 Microphones</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-unleashing-creativity-essential-angles-in-mobile-shooting/"><u>[Updated] Unleashing Creativity Essential Angles in Mobile Shooting</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-prime-collection-of-no-cost-passport-photo-making-software/"><u>2024 Approved The Prime Collection of No-Cost Passport Photo Making Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/dead-by-daylight-playable-again-your-ultimate-fix-for-error-8014/"><u>Dead By Daylight Playable Again? Your Ultimate Fix for Error 8014</u></a></li>
+<li><a href="https://win-able.techidaily.com/destiny-2-beyond-light-now-running-smoothly-on-your-pc-say-goodbye-to-troublesome-crashes/"><u>Destiny 2 Beyond Light Now Running Smoothly on Your PC - Say Goodbye to Troublesome Crashes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-workarounds-solving-spellbreak-crash-issues-in-windows/"><u>Fixes & Workarounds: Solving Spellbreak Crash Issues in Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-fortnites-persistent-startup-hurdle/"><u>How to Overcome Fortnite's Persistent Startup Hurdle</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-inside-the-headset-comprehensive-vr-gear-analysis/"><u>In 2024, Inside the Headset Comprehensive VR Gear Analysis</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-revolutionizing-video-praise-with-innovative-approaches/"><u>In 2024, Revolutionizing Video Praise with Innovative Approaches</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/live-obs-video-on-instagram/"><u>Live OBS Video on Instagram</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-instagrams-podcast-post-and-story-distribution-for-2024/"><u>Mastering Instagram's Podcast Post & Story Distribution for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connectivity-errors-restore-functionality-of-logitech-g-hub-on-windows-computers/"><u>Overcoming Connectivity Errors: Restore Functionality of Logitech G Hub on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/praey-for-the-gods-crash-fixes-enhancing-your-gaming-experience-on-windows/"><u>Praey for the Gods Crash Fixes - Enhancing Your Gaming Experience on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005443254-sid-meiers-civilization-vi-crash-woes-expert-fixes-to-get-you-back-in-action/"><u>Sid Meier’s Civilization VI Crash Woes? Expert Fixes to Get You Back in Action</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723002039781-tackling-call-of-duty-vanguards-dev-error-5573-a-step-by-step-guide-to-success/"><u>Tackling Call of Duty Vanguard's Dev Error 5573 - A Step by Step Guide to Success</u></a></li>
+</ul></div>
 

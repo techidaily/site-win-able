@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Repairing the Non-Working MSI Dragon Centre"
-date: 2024-12-14T21:30:44.925Z
-updated: 2024-12-21T19:40:14.871Z
+date: 2024-12-26T13:05:07.204Z
+updated: 2024-12-27T03:47:27.156Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -30,10 +34,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 2. [Update audio driver](https://tools.techidaily.com/drivereasy/download/)
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Use wire headsets
 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
@@ -41,7 +41,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 Hope it works for you, if not, try updating your audio driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
@@ -58,14 +58,14 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -78,12 +78,12 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -106,16 +106,14 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/n-2024-from-vlogger-to-earnest-by-year-end-following-sourav-joshis-examples/"><u>[New] In 2024, From Vlogger to Earnest by Year End - Following Sourav Joshi's Examples</u></a></li>
-<li><a href="https://win-able.techidaily.com/sovled-back-4-blood-ue4-gobi-fatal-error/"><u>[SOVLED] Back 4 Blood UE4-Gobi Fatal Error</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-quick-youtube-revenue-assessments-available-for-2024/"><u>[Updated] Quick YouTube Revenue Assessments Available for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/achieving-stability-in-a-total-war-saga-troy-fixed-bugs-for-an-uninterrupted-adventure-on-pc/"><u>Achieving Stability in A Total War Saga: Troy - Fixed Bugs For an Uninterrupted Adventure on PC!</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000647867-dealing-with-desperate-pc-crashes-in-necromunda-hired-gun-gameplay-fix-them-now/"><u>Dealing with Desperate PC Crashes in Necromunda: Hired Gun Gameplay – Fix Them Now!</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-clearing-up-minecraft-crossbow-error-code-glitches/"><u>Expert Advice: Clearing Up Minecraft Crossbow Error Code Glitches</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-silent-screens-solutions-for-no-audio-in-valheim-pc-version/"><u>Fixing Silent Screens: Solutions for No Audio in Valheim PC Version</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-unable-to-connect-errors-when-playing-minecraft/"><u>How to Overcome 'Unable to Connect' Errors When Playing Minecraft</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolving-startup-problems-with-back-4-blood-a-step-by-nstep-guide-for-windows-devices/"><u>Resolving Startup Problems with 'Back 4 Blood': A Step-by-nStep Guide for Windows Devices</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-sony-xperia-1-v-by-drfone-android/"><u>Three Ways to Sim Unlock Sony Xperia 1 V</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-oneplus-11-5g-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your OnePlus 11 5G Device</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-skyrocket-to-the-top-on-youtube-secrets-of-effective-seo-tactics-1-11/"><u>[New] 2024 Approved Skyrocket to the Top on YouTube Secrets of Effective SEO Tactics (1-11)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/discover-the-ultimate-list-of-free-windows-11-and-mobile-utility-tools-download-guide/"><u>Discover the Ultimate List of FREE Windows 11 and Mobile Utility Tools (Download Guide)</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-pc-performance-to-stop-recurring-issues-with-hell-let-loose/"><u>Enhance PC Performance to Stop Recurring Issues with Hell Let Loose</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-r-type-final-2-continuous-crashes-on-windows-a-comprehensive-guide/"><u>How to Fix R-Type Final 2 Continuous Crashes on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-realme-gt-5-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Realme GT 5? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/in-depth-analysis-of-fujifilm-x100v-why-its-dominating-the-photography-market/"><u>In-Depth Analysis of Fujifilm X100V: Why It's Dominating the Photography Market</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solving-gta-n-online-functionality-errors/"><u>Step-by-Step Guide to Solving GTA N Online Functionality Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-your-game-library-again-easy-remedies-for-steam-logon-challenges/"><u>Unlock Your Game Library Again: Easy Remedies for Steam Logon Challenges</u></a></li>
 </ul></div>
 

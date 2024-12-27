@@ -1,7 +1,7 @@
 ---
 title: "Success Story: How We Overcame the 'Game Security Infringement Noticed' Issue"
-date: 2024-12-19T16:30:31.009Z
-updated: 2024-12-21T18:06:50.017Z
+date: 2024-12-25T05:28:39.281Z
+updated: 2024-12-26T21:55:18.461Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
 * [Fix 1: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
 * [Fix 3: Reinstall shaders & clear cache](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 4: Change NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 5: Install the old driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your drivers
 
@@ -57,6 +57,10 @@ thumbnail: https://thmb.techidaily.com/4509b58b3a9a19b95f97977ea395ec0191792aea5
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -73,13 +77,13 @@ Restart your computer for the changes to take effect.
 4. Back to the game and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Reinstall shaders & clear cache
@@ -90,10 +94,6 @@ If it’s not working, move to the next fix.
 2. In the**Graphics** tab, scroll down and click**Restart Shaders Installation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-31-21.jpg)
 3. Click**RESTART** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-32-23.jpg)
 4. After the process is finished, restart the game to check. If it’s still flickering, move on to the next step.
@@ -107,6 +107,10 @@ If it’s not working, move to the next fix.
 9. Type**%programdata%** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-07_11-50-43.jpg)
 10. Delete the**Blizzard Entertainment** folder completely.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 11. Restart Battle.net and relaunch the game.
 
@@ -124,10 +128,6 @@ No luck with this fix? Try the next one.
 
  If it’s not working, you’d better follow[fix 5](https://tools.techidaily.com/drivereasy/download/) to install the old NVIDIA driver.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Install the old driver
 
  If your PC has the NVIDIA graphics card, this fix may work for you. Many users indicated this is the only working fix for them.
@@ -137,13 +137,13 @@ No luck with this fix? Try the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8f66b1083.png)
 3. Double click on Display adapters to expand the category. Right-click the NVIDIA graphics card installed on your computer, then select **Uninstall device** (in some cases, this could be**Uninstall** ).![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8fbb41a7c.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. On the Uninstall confirm dialog box, select the **Delete the driver software for this device** check box, then click **Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb8ff4327d4.png)
 5. Go to [NVIDIA’s driver download page](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Enter the information in the field according to your system version and your graphics card model. In my case, my computer is running Windows 10 64-bit, and my graphic card is NVIDIA GeForce GT 640, so I enter the information in the field as follows:![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfb916032434.jpg)
 7. Don’t choose the latest driver, select the older one.
@@ -171,22 +171,24 @@ No luck with this fix? Try the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-building-a-brand-how-to-harness-snapad-power-in-business/"><u>[New] Building a Brand How to Harness SnapAd Power in Business</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-immersive-escapades-top-5-playstation-vr-titles-to-excite-gamers/"><u>[New] Immersive Escapades Top 5 PlayStation VR Titles to Excite Gamers</u></a></li>
-<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-motorola-edge-40-neo-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Motorola Edge 40 Neo to iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/battle-tested-tricks-for-a-smooth-experience-in-modern-warfare-npc-on-windows/"><u>Battle-Tested Tricks for a Smooth Experience in Modern Warfare Npc on Windows</u></a></li>
-<li><a href="https://win-answers.techidaily.com/critical-insights-how-to-navigate-life-threatening-launch-setbacks-before-2024/"><u>Critical Insights: How to Navigate Life-Threatening Launch Setbacks Before 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/cyberpunk-2077-resolved-issue-steady-frame-rates-achieved/"><u>Cyberpunk 2077: Resolved Issue - Steady Frame Rates Achieved!</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ensuring-seamless-gameplay-playing-age-of-empires-ii-after-upgrading-to-windows-11/"><u>Ensuring Seamless Gameplay: Playing Age of Empires II After Upgrading to Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-errgfxbackenderror-for-a-smoother-gameplay-experience-in-gta-v/"><u>Fixing ERR_GFX_BACKEND_ERROR for a Smoother Gameplay Experience in GTA V</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/high-fidelity-streaming-archiving-a-practical-approach/"><u>High-Fidelity Streaming Archiving A Practical Approach</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/how-to-convert-webm-to-mp3-top-10-converter-options-for-2024/"><u>How to Convert WebM to MP3 Top 10 Converter Options for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-successfully-remove-the-ai-writing-assistant-copilot-from-your-windows-11-pc/"><u>How to Successfully Remove the AI Writing Assistant (Copilot) From Your Windows 11 PC</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y78t-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y78t | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-in-game-glitches-top-strategies-for-stable-among-us-playbacks/"><u>Overcome In-Game Glitches: Top Strategies for Stable Among Us Playbacks</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-launch-obstacles-fixing-lost-ark-on-pcmac-2024-edition/"><u>Overcoming Launch Obstacles: Fixing Lost Ark on PC/Mac - 2024 Edition</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-world-of-warships-pc-issues-with-these-five-quick-remedies-crashing/"><u>Resolving World of Warships PC Issues with These Five Quick Remedies [Crashing]</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-overcoming-minecraft-launcher-error-0x803f8001-in-windows-11-and-windows-10/"><u>Troubleshooting Tips: Overcoming Minecraft Launcher Error 0X803f8001 in Windows 11 and Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/unable-to-play-verify-your-installation-for-seamless-gaming-experience/"><u>Unable to Play? Verify Your Installation for Seamless Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-unleash-your-ugc-making-memes-and-marks-on-fb-for-2024/"><u>[New] Unleash Your UGC Making Memes and Marks on FB for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-effortless-media-transition-from-mp3-to-youtube-video-posting/"><u>[Updated] 2024 Approved Effortless Media Transition From MP3 to YouTube Video Posting</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-how-to-add-border-to-instagram-video-3-ways-for-2024/"><u>[Updated] How to Add Border to Instagram Video? [3 Ways] for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-superior-selection-ultimate-cloud-storage-picks/"><u>2024 Approved Superior Selection Ultimate Cloud Storage Picks</u></a></li>
+<li><a href="https://win-rankings.techidaily.com/captivating-computer-decor-with-yl-softwares-bunny-and-butterfly-themed-backgrounds-stunning-visual-content-for-pc-and-mobile-screens/"><u>Captivating Computer Decor with YL Software's Bunny and Butterfly Themed Backgrounds - Stunning Visual Content for PC & Mobile Screens</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/gratuit-online-convertisseur-pour-les-fichiers-dts-en-format-m4v-movavi/"><u>Gratuit Online Convertisseur Pour Les Fichiers DTS en Format M4V - Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-eliminating-lag-issues-with-new-optimizations/"><u>Guilty Gear Strive - Eliminating Lag Issues with New Optimizations</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-tecno-phantom-v-flip-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Transfer Music from Tecno Phantom V Flip to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-14-plus-to-other-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 14 Plus to Other iPhone? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-honor-x9b-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Honor X9b</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-ark-troubleshooting-fps-drops-and-enhancing-gameplay-efficiency/"><u>Lost Ark: Troubleshooting FPS Drops and Enhancing Gameplay Efficiency</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010084690-master-controller-crashing-effective-fixes-within-minutes/"><u>Master Controller Crashing: Effective Fixes Within Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-hurdle-successfully-running-payday-2-on-windowspc/"><u>Overcome the Hurdle: Successfully Running Payday 2 on Windows/PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-crash-problems-successful-troubleshooting-steps-for-crusader-kings-3-on-personal-computers/"><u>Overcoming Crash Problems: Successful Troubleshooting Steps for Crusader Kings 3 on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-immortals-fenyx-rising-fix-for-recurring-game-crashes/"><u>Troubleshooting Immortal's Fenyx Rising: Fix for Recurring Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-stabilizing-your-new-world-online-gaming-experience/"><u>Troubleshooting Steps for Stabilizing Your 'New World' Online Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-the-tfla0002-finals-error/"><u>Ultimate Guide: Resolving the TFLA0002 Finals Error</u></a></li>
+<li><a href="https://win-able.techidaily.com/unseen-by-steam-overcoming-your-vr-headsets-invisibility-with-easy-fixes/"><u>Unseen by Steam: Overcoming Your VR Headset's Invisibility with Easy Fixes</u></a></li>
 </ul></div>
 

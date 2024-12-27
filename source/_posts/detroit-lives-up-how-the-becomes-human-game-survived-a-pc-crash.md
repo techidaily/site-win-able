@@ -1,7 +1,7 @@
 ---
 title: "Detroit Lives Up: How the 'Becomes Human' Game Survived a PC Crash"
-date: 2024-08-18T16:25:07.925Z
-updated: 2024-08-19T16:25:07.925Z
+date: 2024-12-23T22:14:33.527Z
+updated: 2024-12-27T12:04:23.951Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/1f7a28a8bb8145eaefcf7bd927fe30950467d63b1
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -67,14 +71,13 @@ Here’s an example of how to check the game integrity on Steam:
 1. Open your Steam client. Navigate to the**LIBRARY** tab, right-click**Detroit: Become Human** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-01.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
@@ -87,8 +90,9 @@ You can then launch Detroit: Become Human and see if it crashes again.
 If this fix failed to solve your issue, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  More often than not, the crash of new games tends to be graphics-related. It usually indicates that you’re using**a** **faulty or outdated graphics driver** . Whether you’re using a 1,000 dollars gaming rig or just a five-year-old school laptop, always make sure you make the most out of it, with the latest graphics driver.
@@ -115,14 +119,15 @@ If this fix failed to solve your issue, please move on to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Detroit: Become Human crashes again.
 
  If this fix doesn’t give you any luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -141,9 +146,6 @@ Here’s how:
 
  If this solution doesn’t work for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable in-game overlays
 
  In-game overlay is a feature that makes it convenient to purchase game items and interact with friends on third party platforms. But in some cases, it might become the cause of instability. If you’re using in-game overlays such as**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable them and see if it fixes your problem.
@@ -153,18 +155,16 @@ For example, you can follow these steps to disable Steam overlay:
 1. Open your**Steam client** . In the top left corner, click**Steam** select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
@@ -189,8 +189,6 @@ If the crashing reappears, please check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +196,18 @@ If the crashing reappears, please check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-premier-iphone-x8-series-gif-apps-reviewed/"><u>[New] Premier iPhone X/8 Series GIF Apps Reviewed</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-unraveling-instagrams-complex-world-of-data-a-beginner-to-pro-guide-for-2024/"><u>[Updated] Unraveling Instagram's Complex World of Data A Beginner to Pro Guide for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/cing-frequency-and-quality-in-youtube-video-uploads/"><u>Balancing Frequency & Quality in YouTube Video Uploads</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-latency-lag-a-guide-to-fixing-v-rising-gameplay-interruptions-on-pcs/"><u>Eliminate Latency Lag: A Guide to Fixing V Rising Gameplay Interruptions on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/error-code-130-on-steam-heres-how-to-get-it-running-smoothly-again/"><u>Error Code 130 on Steam? Here's How to Get It Running Smoothly Again</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/tial-7-apps-for-high-quality-youtube-live-streaming-on-iphones-and-android-for-2024/"><u>Essential 7 Apps for High-Quality YouTube Live Streaming on iPhones & Android for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-correct-interface-bug-27711-on-call-of-dutys-cold-war-adventure/"><u>How to Correct Interface Bug #27711 on Call of Duty's Cold War Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-for-when-minecraft-wont-start-properly/"><u>Step-by-Step Solution for When Minecraft Won't Start Properly</u></a></li>
+<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-honor-magic5-ultimate-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-players-unable-to-open-league-of-legends/"><u>Troubleshooting Tips for Players Unable to Open League of Legends</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-get-your-fcpx-flow-back-a-comprehensive-reset-and-troubleshooting-guide/"><u>Updated Get Your FCPX Flow Back A Comprehensive Reset and Troubleshooting Guide</u></a></li>
+</ul></div>
 

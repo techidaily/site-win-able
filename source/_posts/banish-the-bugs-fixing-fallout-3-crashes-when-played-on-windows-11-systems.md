@@ -1,7 +1,7 @@
 ---
 title: "Banish the Bugs: Fixing Fallout 3 Crashes When Played on Windows 11 Systems"
-date: 2024-08-18T16:28:40.878Z
-updated: 2024-08-19T16:28:40.878Z
+date: 2024-12-23T01:39:07.408Z
+updated: 2024-12-27T11:18:48.424Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7572b835422df4a46e1dde0ebf1594c94500d035c
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,6 +31,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 3. **[Change compatibility and run Fallout 3 as administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Play in Windowed mode
 
@@ -44,6 +52,10 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Edit your configuration file
 
  If you follow the guide to install the game correctly, you can edit the configuration file to solve the freezing problem.
@@ -52,23 +64,23 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -78,14 +90,8 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the LOCAL FILES tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
@@ -122,6 +128,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -131,9 +142,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5:**Reinstall**  Fallout 3
 
  If none of the fixes above works, it’s time to uninstall Fallout 3 and reinstall it. The broken system file may the reason for the freezes. Do a clean uninstall, then download the game and follow the[guide](https://tools.techidaily.com/drivereasy/download/) to set up the game.
@@ -150,8 +158,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +165,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/how-to-optimize-your-listening-experience-fixing-a-sluggish-2eusncyspotify-web-player/"><u>[How to Optimize Your Listening Experience]: Fixing a Sluggish 2eusncySpotify Web Player</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nhancing-your-video-impact-a-compreranble-plan-for-youtube-success/"><u>[New] Enhancing Your Video Impact A Compreranble Plan for YouTube Success</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-how-to-screenshot-on-mac-5-simple-ways-for-2024/"><u>[New] How to Screenshot on Mac - 5 Simple Ways for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-explore-these-non-periscope-video-platforms-for-iphones-and-androids/"><u>[New] In 2024, Explore These Non-Periscope Video Platforms for iPhones & Androids</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-syncing-fb-vids-with-whatsapp-a-step-by-step-guide/"><u>[Updated] 2024 Approved Syncing FB Vids with WhatsApp A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723004803159-elden-ring-wont-start-here-are-fixes-for-your-consoles-black-screen-dilemma/"><u>Elden Ring Won't Start? Here Are Fixes for Your Console's Black Screen Dilemma</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-essential-insights-on-asmr-videos-unveiled/"><u>In 2024, Essential Insights on ASMR Videos Unveiled</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/movavi-descarga-libre-convertir-facilmente-sus-archivos-vob-al-formato-avimp4/"><u>Movavi Descarga Libre - Convertir Fácilmente Sus Archivos VOB Al Formato AVI/MP4</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-performance-hiccups-a-guide-to-solving-guilty-gear-strive-lags/"><u>Navigating Performance Hiccups: A Guide to Solving Guilty Gear Strive Lags</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/navigating-the-world-of-pixiz-turning-stills-into-storytelling-video/"><u>Navigating the World of Pixiz Turning Stills Into Storytelling Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-game-performance-addressing-high-cpu-usage-in-new-worlds-latest-patch/"><u>Optimizing Game Performance: Addressing High CPU Usage in New World's Latest Patch</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998711786-quick-solutions-resolving-winwordexe-program-crashes-in-no-time/"><u>Quick Solutions: Resolving WINWORD.EXE Program Crashes in No Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-sailing-in-maplestory-world-overcome-launch-glitches-easily/"><u>Smooth Sailing in Maplestory World – Overcome Launch Glitches Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-why-is-call-of-duty-bo4-unresponsive/"><u>Solution: Why Is Call of Duty BO4 Unresponsive?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/top-6-iphone-tools-for-erasing-unwanted-items-in-images/"><u>Top 6 iPhone Tools for Erasing Unwanted Items in Images</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-pacifica-traverse-startup-issues/"><u>Troubleshooting Guide: Resolving Pacifica Traverse Startup Issues</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-documentaries-about-historic-events-space-or-any-other-topic-that-is-impossible-to-stage-rely-on-the-videos-that-entered-the-public-domain-for-one-r/"><u>Updated Documentaries About Historic Events, Space or Any Other Topic that Is Impossible to Stage Rely on the Videos that Entered the Public Domain for One Reason or the Other. Thats Why in This Article, We for 2024</u></a></li>
+</ul></div>
 

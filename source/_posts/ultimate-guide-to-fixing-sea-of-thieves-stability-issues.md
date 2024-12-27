@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Fixing Sea of Thieves Stability Issues
-date: 2024-08-18T16:24:59.671Z
-updated: 2024-08-19T16:24:59.671Z
+date: 2024-12-20T03:41:58.452Z
+updated: 2024-12-26T19:21:24.543Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 5. [**Scan and repair game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Disable Discord overlay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Unplug peripherals
 
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
@@ -43,16 +47,23 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
 3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -64,8 +75,9 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
  Check if the game works normally now. If not, revert the folder’s name and try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4 – Update your graphics driver
 
  The graphics card driver is very essential for gaming performance. If you’re using a faulty or outdated graphics driver, you may suffer from various performance issues of Diablo Immortal including game crashes, low FPS and stuttering. And you should update the graphics driver for maximum gameplay.
@@ -79,14 +91,8 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/de-5.7.2-scan-1.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
 ### Fix 5 – Scan and repair game files
@@ -100,13 +106,11 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/scan-game-files-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The scanning will start immediately, followed by a repair update if missing or corrupt files are found. Once done, restart the game and see how it works. Still no luck? There is one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6 – Disable Discord overlay
 
  The Discord overlay may also cause a game to malfunction. You could just turn it off and see if Diablo Immortal stops crashing.
@@ -132,8 +136,6 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +143,16 @@ thumbnail: https://thmb.techidaily.com/b5b3640eb8447a8da8a74738199b8b360c48cf8e0
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-turn-your-shorts-into-cash-effective-monetization-techniques/"><u>[Updated] 2024 Approved Turn Your Shorts Into Cash Effective Monetization Techniques</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-apple-iphone-13-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From Apple iPhone 13</u></a></li>
+<li><a href="https://win-able.techidaily.com/eversapce-2-troubleshooting-guide-resolving-pc-crash-issues-permanently/"><u>Eversapce 2 Troubleshooting Guide: Resolving PC Crash Issues Permanently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fall-update-exclusive-new-functions-enhance-certain-apple-airpod-models-insights/"><u>Fall Update: Exclusive New Functions Enhance Certain Apple AirPod Models - Insights</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-version-of-fixated-five-nights-at-freddys-resolved-security-glitch/"><u>PC Version of Fixated 'Five Nights at Freddy's - Resolved Security Glitch</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-players-handbook-to-smooth-sailing-overcoming-ping-issues-in-chivalry-ii/"><u>The Player’s Handbook to Smooth Sailing: Overcoming Ping Issues in Chivalry II</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-solution-tips-and-tricks-to-prevent-discord-from-crashing-down/"><u>Unlock the Solution: Tips and Tricks to Prevent Discord From Crashing Down</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/yt-insider-tips-from-chroma-keying-to-cinematic-creations-for-2024/"><u>YT Insider Tips From Chroma Keying to Cinematic Creations for 2024</u></a></li>
+</ul></div>
 

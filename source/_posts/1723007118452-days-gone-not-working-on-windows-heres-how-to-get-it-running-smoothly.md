@@ -1,7 +1,7 @@
 ---
 title: 'Days Gone' Not Working on Windows? Here’s How to Get It Running Smoothly
-date: 2024-12-20T22:32:31.939Z
-updated: 2024-12-21T20:42:36.345Z
+date: 2024-12-26T04:09:28.888Z
+updated: 2024-12-27T03:54:59.267Z
 tags:
   - win11
   - win10
@@ -68,14 +68,26 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your PC fails to meet any of these criteria, or your hardware is showing obvious signs of wear and tear, it’s time to upgrade.
 
  If your PC specs have been up to the mark but Days Gone still fails to launch, please move on to **Fix 2** , below to begin troubleshooting.
 
 ## How to fix Days Gone Not Launching on PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Install the latest game patch
 
@@ -96,10 +108,6 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/5-3.png)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -107,10 +115,6 @@ To check the specs of your PC:
 5. Open the game in your launcher and see if it launches smoothly. If yes, you’ve fixed the problem. If it’s still failing, just head on to**Fix 3** , below.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Launch Days Gone in Windowed Mode
 
@@ -125,7 +129,7 @@ To check the specs of your PC:
 4. Click**Close** to exit the window.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Fire up Days Gone and see if it opens properly this time. If yes, congrats! If it doesn’t do the trick, please try**Fix 4** .
@@ -139,7 +143,7 @@ To check the specs of your PC:
 4. Open Days Gone and see if the launching issue is fixed. If yes, then congrats. If it’s still no joy, please continue with**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4 – Disable all overlays
@@ -153,11 +157,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/properties-1.png)
 3. Uncheck the box for**Enable the Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/uncheck.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Disable GeForce Experience Overlay
 
@@ -178,10 +182,6 @@ To check the specs of your PC:
 
  Once you have disabled these overlays, run Days Gone and see if the launching problem is fixed. If not, move ahead to**Fix 5** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5 – Verify game integrity
 
  Days Gone may not launch if the game files are missing or corrupt. Luckily, both Steam client and Epic Game Launcher have built-in repair features, allowing you to verify the integrity of the game files and fix it (if anything wrong is found).
@@ -196,11 +196,11 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/local.png)
 4. Wait a bit until the process finishes.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1of2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
@@ -212,7 +212,7 @@ To check the specs of your PC:
 3. Wait a bit until the process finishes. After that, re-launch the game and see if it opens without fail. If it’s still not launching, please continue with**Fix 6** , below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6 – Rename the Movies Folder
@@ -220,11 +220,11 @@ To check the specs of your PC:
  According to some players’ feedback, renaming the Movies folder has helped in recovering the game to normal. It may sound not too intuitive, but it’s worth a shot. To do so, simply find your game’s directory, locate the**Movies** folder, then rename the folder (e.g. Movies\_2).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/rename.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Once finished, head back to your game launcher to fire the game up. If this cuts it, then great. If it’s yielding no result, just try**Fix 7** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7 – Close unnecessary apps
 
@@ -258,14 +258,19 @@ Here’s how to close background apps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/ed-top-earnings-achiever-in-the-streaming-world/"><u>[Updated] Top Earnings Achiever in the Streaming World</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/elusive-sites-secure-solutions-7-fixes-for-unresponsive-browsers/"><u>Elusive Sites, Secure Solutions: 7 Fixes for Unresponsive Browsers</u></a></li>
-<li><a href="https://win-able.techidaily.com/get-your-msi-mystic-light-working-again-a-guide-for-windows-users-with-troubled-lights/"><u>Get Your MSI Mystic Light Working Again: A Guide for Windows Users with Troubled Lights</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-code-vein-from-freezing-or-crashing/"><u>How to Stop Your Code Vein From Freezing or Crashing</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-use-the-best-luts-for-lightroom-for-2024/"><u>New Use The Best LUTs for Lightroom for 2024</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-black-screen-woes-in-fallout-4-a-step-by-step-guide/"><u>Solving Black Screen Woes in Fallout 4 - A Step-by-Step Guide</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/unlocking-the-potential-of-minecraft-recording-with-macos-for-2024/"><u>Unlocking the Potential of Minecraft Recording with MacOS for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/youtube-playback-hiccups-how-to-make-sure-your-videos-keep-up-with-their-soundtracks-in-chrome-and-ff/"><u>Youtube Playback Hiccups: How to Make Sure Your Videos Keep Up With Their Soundtracks in Chrome and FF</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-jumpstart-earnings-a-novice-written-guide/"><u>[New] 2024 Approved Jumpstart Earnings A Novice’ Written Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-insights-into-instagrams-maxed-out-videos-for-2024/"><u>[Updated] Insights Into Instagram's Maxed-Out Videos for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-peak-craft-studio-masterpiece-insight/"><u>2024 Approved Peak Craft Studio Masterpiece Insight</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-fixing-the-persistent-error-code-0xc19001e1-on-windows-11-devices/"><u>A Comprehensive Guide: Fixing the Persistent 'Error Code 0XC19001e1' On Windows 11 Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/developers-under-fire-unveiling-the-recruitment-issues-driving-burnout-in-the-tech-industry-zdnet-analyses/"><u>Developers Under Fire: Unveiling the Recruitment Issues Driving Burnout in the Tech Industry | ZDNET Analyses</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719168020295-epic-retro-play-ios-and-nintendo-fusion/"><u>Epic Retro Play: IOS & Nintendo Fusion!</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-solutions-to-cut-down-input-delay-and-boost-performance-in-valorant-on-your-computer-insights-from-2024/"><u>Expert Solutions to Cut Down Input Delay and Boost Performance in Valorant on Your Computer - Insights From 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/experts-picks-top-airtag-wallets-of-the-year-in-depth-analysis-and-buyers-guide-for-2econd-zdnet/"><u>Experts' Picks: Top AirTag Wallets of the Year - In-Depth Analysis and Buyer's Guide for 2Econd | ZDNet</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-nubia-red-magic-9-proplus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Nubia Red Magic 9 Pro+ to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Realme Narzo N53? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/outriders-picture-perfect-strategies-to-tackle-and-fix-pixelated-views/"><u>Outriders Picture Perfect: Strategies to Tackle and Fix Pixelated Views</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-load-problems-when-playing-necromunda-hired-gun-on-desktops-and-laptops/"><u>Overcoming Load Problems When Playing Necromunda: Hired Gun on Desktops and Laptops</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-1011-systems/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 10/11 Systems</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/ultimate-guide-top-screen-capture-apps-analysis-for-2024/"><u>Ultimate Guide Top Screen Capture Apps Analysis for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips: Fixing the Infamous Crossbow Error on Minecraft Servers"
-date: 2024-12-18T23:26:22.652Z
-updated: 2024-12-21T17:50:29.545Z
+date: 2024-12-25T10:14:01.924Z
+updated: 2024-12-27T13:49:41.152Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -44,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 1. Right-click the**Minecraft Launcher** icon, then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-properties.jpg)
 2. In the pop-up window, navigate to the**Compatibility** tab, check the box next to**Run this program in compatibility mode for** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-compatibility.jpg)
 3. Select**Windows 8** from the drop-down menu, then click**Apply** and**OK** to save changes.  
@@ -55,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/37b56893bb3f0e1aebfa5ebfbca34f8037db29ed8
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -65,6 +65,10 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -81,10 +85,6 @@ If the issue remains, move on to the next fix.
 
  Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -106,6 +106,10 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
@@ -121,7 +125,7 @@ If this method doesn’t do the trick, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
@@ -131,7 +135,7 @@ Relaunch Minecraft to see if your issue is resolved.
 If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
@@ -142,10 +146,6 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
@@ -153,12 +153,12 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -184,17 +184,19 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-videos.techidaily.com/new-expert-techniques-for-effective-tiktok-videos-pcmac-for-2024/"><u>[New] Expert Techniques for Effective TikTok Videos (PC/MAC) for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-perfect-your-content-with-tiktoks-number-manipulation-tricks/"><u>[Updated] In 2024, Perfect Your Content with TikTok's Number Manipulation Tricks</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-removing-unwanted-audio-from-videos-essential-steps-for-2024/"><u>[Updated] Removing Unwanted Audio From Videos - Essential Steps for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-final-impressions-how-to-design-a-standout-vimeo-end-screen/"><u>2024 Approved Final Impressions How to Design a Standout Vimeo End Screen</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/2024-approved-mastering-video-sharing-via-discord-channels/"><u>2024 Approved Mastering Video Sharing via Discord Channels</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-insiders-handbook-for-instagrams-audio-emoji-placement/"><u>2024 Approved The Insider’s Handbook for Instagram's Audio Emoji Placement</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme V30T | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/orion-spacecraft-returns-from-lunar-mission-a-closer-look-at-nasas-historic-journey/"><u>Orion Spacecraft Returns From Lunar Mission: A Closer Look at NASA’s Historic Journey</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-and-simple-solutions-stop-wwe-2k20-from-crashing-on-your-pc/"><u>Quick & Simple Solutions: Stop WWE 2K20 From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-dota-nt-launch-issues-overcoming-the-endless-load-screen/"><u>Resolving Dota N't Launch Issues - Overcoming the Endless Load Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-solve-counter-strike-2-not-starting-problem/"><u>Step-by-Step Guide to Solve Counter-Strike 2 Not Starting Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-no-signal-or-black-screen-glitch-on-your-pcs-re8/"><u>Troubleshooting Steps for No Signal or Black Screen Glitch on Your PC's RE8</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-perfect-your-recording-a-comparison-guide-for-30-vs-60fps/"><u>[New] In 2024, Perfect Your Recording A Comparison Guide for 30 Vs. 60FPS</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-total-war-three-kingdoms-game-freezing-and-crashes/"><u>Effective Solutions for Total War: Three Kingdoms Game Freezing & Crashes</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-guide-to-fresh-nvidia-drivers-for-enhanced-graphics-experience/"><u>Effortless Guide to Fresh Nvidia Drivers for Enhanced Graphics Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-the-nightmare-of-dead-by-daylight-crashing-fix-your-game-now-with-our-2024-tips-and-tricks/"><u>End the Nightmare of Dead by Daylight Crashing - Fix Your Game Now with Our 2024 Tips and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-on-diagnosing-and-repairing-devices-with-a-sudden-black-screen-fault/"><u>Expert Advice on Diagnosing and Repairing Devices with a Sudden Black Screen Fault</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-motorola-moto-g13-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Motorola Moto G13 to Roku | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-htc-u23-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On HTC U23 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/la-noire-availability-confirmed-now-releasing-for-pc-gaming/"><u>L.A. Noire Availability Confirmed: Now Releasing for PC Gaming</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leading-steps-to-mute-movie-filming-for-2024/"><u>Leading Steps to Mute Movie Filming for 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-leading-online-video-promo-builders/"><u>New In 2024, Leading Online Video Promo Builders</u></a></li>
+<li><a href="https://win-able.techidaily.com/persistent-wwe-2k22-pc-crashes-identifying-the-causes-and-finding-quick-fixes/"><u>Persistent WWE #2K22 PC Crashes - Identifying the Causes and Finding Quick Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-palworld-search-error-effective-steps-to-restore-your-sessions/"><u>Solving the PalWorld Search Error: Effective Steps to Restore Your Sessions</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/the-comprehensive-blueprint-for-vimeo-video-logging/"><u>The Comprehensive Blueprint for Vimeo Video Logging</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-ultimate-checklist-for-a-premium-4k-lens-buy-for-2024/"><u>The Ultimate Checklist for a Premium 4K Lens Buy for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Definitive Guide to Fixing 'Finals' Continuous Freezing Problems on Desktops
-date: 2024-12-20T21:45:55.840Z
-updated: 2024-12-21T16:25:40.016Z
+date: 2024-12-23T00:49:33.741Z
+updated: 2024-12-27T00:26:01.874Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix it?
 
  You don’t have to try all the fixes; just work your way down the list until you find the one that gives you luck!
@@ -42,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 
  The screenshots below come from Windows 10\. If you are running Windows 11, your screen may look slightly different, but the steps you take will remain consistent.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Delete temporary files in Windows
 
  Excessive temporary files in your system can sometimes take up a large space on your computer. Deleting all the temporary files in Windows could speed up your PC and help Vegas Pro run more stably. Here’s how:
@@ -51,7 +51,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
@@ -67,14 +67,10 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
@@ -93,7 +89,7 @@ thumbnail: https://thmb.techidaily.com/a6603b4c8e64882a75258ea91034b33184d3edc31
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -123,6 +119,10 @@ If the issue is still there, you can move on to the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
@@ -135,11 +135,11 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
 
@@ -165,6 +165,10 @@ If the issue is still there, you can move on to the next fix.
  Note that GPU acceleration does make things faster, but it could also increase system instability. So it’s not a good idea to turn it on if you experience constant crashes. However, if you have a powerful GPU, you could try to turn the acceleration on and off to see which way works better in your case.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-45-14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re only trying to adjust this part of the settings, restart Vegas Pro to test if the issue returns. Or you could move on to work with other settings below.
 
 #### 2: Disable multi-core rendering
@@ -177,10 +181,6 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
 
@@ -189,7 +189,7 @@ If the issue is still there, you can move on to the next fix.
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Disable a CPU processor for Vegas Pro
@@ -200,12 +200,12 @@ If the issue is still there, you can move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
@@ -233,18 +233,16 @@ Run Vegas Pro to see if the problem is solved.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/back-4-blood-pc-game-stability-issues-resolved-no-more-unexpected-crashes/"><u>Back 4 Blood PC Game Stability Issues Resolved: No More Unexpected Crashes!</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/blue-screen-blues-clearing-up-error-0x0000001e-on-your-computer/"><u>Blue Screen Blues: Clearing Up Error 0X0000001E on Your Computer</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/building-better-empathy-with-ai-the-role-of-chatgpt-in-emotional-development/"><u>Building Better Empathy with AI: The Role of ChatGPT in Emotional Development</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Apple iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/game-capturing-simplified-unveiling-the-best-of-windows-11-methods/"><u>Game Capturing Simplified Unveiling the Best of Windows 11 Methods</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-galaxy-f34-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Galaxy F34 5G Phones with/without a PC</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-essential-wmp-routine-for-cds-ripping-and-batch-processing/"><u>In 2024, The Essential WMP Routine for CDs Ripping & Batch Processing</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Honor 70 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/microsoft-word-free-versions-are-they-available-and-how-to-get-them/"><u>Microsoft Word Free Versions - Are They Available and How to Get Them?</u></a></li>
-<li><a href="https://win-able.techidaily.com/roblox-launch-problems-resolved-how-to-get-past-the-endless-loader-screen/"><u>Roblox Launch Problems Resolved: How to Get Past the Endless Loader Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/speeding-up-the-boot-process-of-star-wars-battlefront-ii-on-windows-systems/"><u>Speeding Up the Boot Process of Star Wars: Battlefront II on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-wolcen-lords-of-mayhem-unavailable-issue/"><u>Troubleshooting Guide: Fixing 'Wolcen: Lords of Mayhem' Unavailable Issue</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-seamless-sharing-of-oversized-content-from-iphone-to-macos/"><u>[Updated] 2024 Approved Seamless Sharing of Oversized Content From iPhone to macOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-extended-scope-camera-platforms/"><u>[Updated] Extended Scope Camera Platforms</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-channel-visualization-selecting-the-ideal-size-and-placement-for-yt/"><u>[Updated] In 2024, Channel Visualization Selecting the Ideal Size and Placement for YT</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-new-era-youtubes-shorts-fund-explained/"><u>[Updated] Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-monitor-list-for-an-immersive-xbox-series-x-experience/"><u>[Updated] The Ultimate Monitor List for an Immersive Xbox Series X Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/breaking-free-from-stasis-fixes-to-combat-among-us-unending-start-screen/"><u>Breaking Free From Stasis: Fixes to Combat 'Among Us' Unending Start Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-11-proplus-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme 11 Pro+ to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mafia-definitive-edition-delay-clarification-and-fixes-announced/"><u>Mafia: Definitive Edition Delay Clarification and Fixes Announced</u></a></li>
+<li><a href="https://win-able.techidaily.com/pro-tips-for-repairing-your-rainbow-six-siege-game-server-connection-glitches/"><u>Pro Tips for Repairing Your Rainbow Six Siege Game Server Connection Glitches</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/thousands-gain-access-to-apples-revolutionary-ai-education-program-for-alumni-and-current-students-zdnet-insight/"><u>Thousands Gain Access to Apple's Revolutionary AI Education Program for Alumni & Current Students - ZDNet Insight</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-repair-persistent-game-shutdowns/"><u>Troubleshooting Tips: How to Repair Persistent Game Shutdowns</u></a></li>
 </ul></div>
 

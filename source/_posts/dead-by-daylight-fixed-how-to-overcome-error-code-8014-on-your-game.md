@@ -1,7 +1,7 @@
 ---
 title: Dead by Daylight Fixed! How to Overcome Error Code 8014 on Your Game
-date: 2024-12-15T16:36:18.113Z
-updated: 2024-12-22T00:41:05.149Z
+date: 2024-12-25T18:08:01.031Z
+updated: 2024-12-26T20:41:43.620Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ _Dead by Daylight (DBD)_ keeps crashing on startup, or it constantly closes to d
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Select your gaming platform
 
 Before you move on, select your gaming platform first:
@@ -31,10 +35,6 @@ Before you move on, select your gaming platform first:
 * **[PC](https://tools.techidaily.com/drivereasy/download/)**
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### PC
 
@@ -75,10 +75,6 @@ Before you move on, select your gaming platform first:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-91.png)
 3. Click the **Display** tab, and then check your graphics card’s information.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-132.png)
 
  Make sure your computer meets the minimum requirements to run_DBD_ , then read on and check the fix, below.
@@ -100,7 +96,7 @@ Before you move on, select your gaming platform first:
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
@@ -153,10 +149,6 @@ If your issue persists, then move on and try the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-428.png)
 2. Type **easyanticheat**  in the search box and press **Enter**  on your keyboard.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/07/image-458.png)
 3. Right-click **EasyAntiCheat\_Setup.exe** , and then select **Run as administrator** . If you’re prompted about permissions, select Continue.  
 
@@ -164,7 +156,7 @@ If your issue persists, then move on and try the next fix.
 4. Click the box, and then select**Dead by Daylight** from the drop-down list.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/09/image-191.png)
@@ -220,12 +212,12 @@ Follow the instructions below to see how to fix it:
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-264.png)
 3. Click the list box below to select **Windows 8** , then click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-267.png)
 4. Relaunch your game to check if your issue had been resolved.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your game crashes again under Windows 8 mode, repeat **steps 1 – 3** and select **Windows 7**  from the list box.
 
@@ -266,6 +258,10 @@ If this didn’t work for you, check the fix, below.
 
  Hopefully, one of the fixes above fixed your issue and you’re now able to actually play! If you have any questions, please leave a comment below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Xbox One
 
  If you’re playing_Dead by Daylight_ on Xbox One, check the solutions below.
@@ -304,15 +300,11 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920.jpg)
 2. Select **Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
 3. Select **System** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
@@ -336,11 +328,19 @@ If this didn’t work for you, check the fix, below.
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-90.png)
 4. Select **Console info.**  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 5. Select **Reset console** .  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
 6. Select **Reset and keep my games & apps** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
@@ -354,6 +354,10 @@ If this didn’t work for you, check the fix, below.
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Select **My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
@@ -361,6 +365,10 @@ If this didn’t work for you, check the fix, below.
 **3)**  Press the **A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Highlight your game, then press the **☰ button** on your controller.
 
@@ -373,10 +381,6 @@ If this didn’t work for you, check the fix, below.
 **6)** After the game is uninstalled, insert **the game disc** into the drive to download and install Dead by Daylight.
 
  Hope one of the solutions here worked for you. Feel free to leave a comment below if you have any questions.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### PlayStation 4
 
@@ -420,10 +424,6 @@ If this didn’t work for you, check the fix, below.
 **1)**  On the home screen of your PS4 system, press the **up**  button on your controller to go to the function area.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **2)** Select **Settings** .
 
@@ -490,19 +490,18 @@ If this didn’t work for you, check the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-your-inner-filmmaker-sports-videos-101/"><u>[New] 2024 Approved Unleash Your Inner Filmmaker Sports Videos 101</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-efficient-name-alteration-for-meet-sessions-laptopmobile/"><u>[Updated] In 2024, Efficient Name Alteration for Meet Sessions (Laptop/Mobile)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unleash-the-full-spectrum-of-sound-best-apps-for-music-videos/"><u>[Updated] Unleash the Full Spectrum of Sound Best Apps for Music Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-explanation-deciphering-google-podcasts-app/"><u>2024 Approved Comprehensive Explanation Deciphering Google Podcasts App</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-inoperative-touchscreen-actions-in-windows/"><u>Addressing Inoperative Touchscreen Actions in Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-slow-motion-effective-fixes-for-reducing-lags-in-outriders-gameplay/"><u>Conquer Slow Motion: Effective Fixes for Reducing Lags in Outriders Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-cyberpunk-2077s-gpu-oversight-for-windows-11-users/"><u>Fixing Cyberpunk 2077'S GPU Oversight for Windows 11 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-correcting-the-issue-when-microsoft-ie-stops-functioning-properly/"><u>Guide to Correcting the Issue When Microsoft IE Stops Functioning Properly</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-your-game-of-horizon-zero-dawn-from-crashing-on-pc/"><u>How to Stop Your Game of Horizon Zero Dawn From Crashing on PC</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-oppo-a78-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Oppo A78 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-are-you-thinking-about-whether-or-not-you-should-get-your-hands-on-a-vn-video-editor-for-mac-read-the-article-to-know-about-the-vn-video-editors-unique-/"><u>New Are You Thinking About Whether or Not You Should Get Your Hands on a VN Video Editor for Mac? Read the Article to Know About the VN Video Editors Unique Features and some of Its Alternatives for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-why-immortals-fenyx-rising-delayed-no-longer/"><u>Resolved: Why Immortals: Fenyx Rising Delayed No Longer</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-minecraft-launcher-error-code-0x803f8001-on-windows-11-and-10/"><u>Resolving Minecraft Launcher Error Code 0X803F8001 on Windows 11 and 10</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-for-recurrent-pc-malfunctions-in-thunder-tier-one/"><u>Troubleshooting Guide for Recurrent PC Malfunctions in Thunder Tier One</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-mastering-4k-with-prime-lenses-for-professionals/"><u>[Updated] In 2024, Mastering 4K with Prime Lenses for Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-overcoming-the-challenge-of-elevated-cpu-demands/"><u>Cyberpunk 2077 Update: Overcoming the Challenge of Elevated CPU Demands</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/efficient-4shared-media-extractor-seamless-music-and-video-downloads-from-4shared-compatible-with-windows-and-macos/"><u>Efficient 4Shared Media Extractor: Seamless Music & Video Downloads From 4Shared - Compatible with Windows and macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-3-stability-improvements-for-windows-11-users-no-more-crashes/"><u>Fallout 3 Stability Improvements for Windows 11 Users - No More Crashes!</u></a></li>
+<li><a href="https://win-able.techidaily.com/improve-playability-of-watch-dogs-legion-strategies-to-optimize-frame-rate-and-minimize-delays/"><u>Improve Playability of Watch Dogs: Legion - Strategies to Optimize Frame Rate & Minimize Delays</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-craft-a-richer-user-experience-in-windows-photos-with-music-and-aesthetic-filters/"><u>In 2024, Craft a Richer User Experience in Windows Photos with Music and Aesthetic Filters</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/quick-and-simple-steps-update-your-fb-passcode-instantly/"><u>Quick & Simple Steps: Update Your FB Passcode Instantly</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-audio-problems-in-among-sus-online-gameplay-for-pc-users/"><u>Resolving Audio Problems in 'Among Sus' Online Gameplay for PC Users</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/seamless-audio-switch-from-srt-to-xmlssa-guide/"><u>Seamless Audio Switch From SRT to XML/SSA Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-high-latency-and-stutter-in-bless-unleashed-a-comprehensive-guide-for-pc-users/"><u>Solving High Latency and Stutter in Bless Unleashed: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://win-answers.techidaily.com/success-story-getting-google-chrome-to-open-after-a-stubborn-freeze/"><u>Success Story: Getting Google Chrome to Open After a Stubborn Freeze</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/trasforma-le-tue-immagini-con-eccezionale-qualita-grazie-al-movavi-photo-editor-manuale-di-miglioramento-foto/"><u>Trasforma Le Tue Immagini Con Eccezionale Qualità Grazie Al Movavi Photo Editor | Manuale Di Miglioramento Foto</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-solving-days-gone-game-crashes/"><u>Ultimate Troubleshooting Guide: Solving 'Days Gone' Game Crashes</u></a></li>
 </ul></div>
 

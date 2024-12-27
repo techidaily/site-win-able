@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Slow Chromium Performance with These Quick Fixes
-date: 2024-08-18T16:24:54.583Z
-updated: 2024-08-19T16:24:54.583Z
+date: 2024-12-22T12:18:44.722Z
+updated: 2024-12-26T19:23:22.155Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 
  So,**close those unnecessary tabs** to see if the Chrome slow issue persists. If this issue reappears, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable the Chrome apps and extensions you don’t need
 
  The apps and extensions on your Chrome can also consume lots of resources when you’re surfing the Internet on Chrome. Try disabling the apps and extensions you don’t need any more to see if this issue persists. Here is how to do it:
@@ -56,16 +53,15 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Select **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap25-4.jpg)
 2. **Turn off** **the toggle** on the lower-right corner of the Chrome apps and extensions you don’t need any more to disable them.  
+
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap26-1.jpg)
 
  After disabling some Chrome apps and extensions, hopefully you should notice a difference in speed on your Chrome. If this fix fails to resolve the Chrome slow issue, don’t worry, there are more fixes for your to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 3: Enable the prediction service on your Chrome
 
  The prediction service on your Chrome is a feature that allows Chrome to predict your actions ahead of time so that it can speed up the page load times. Check if you enabled this feature, if not, follow the instructions below to enable it:
@@ -75,15 +71,17 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. In the search bar, type**prediction** and then**turn on the toggle** next to**Use a prediction service to load pages more quickly** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap28-1.jpg)
 3. Reopen your Chrome.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if this issue reappears. If not, you’ve fixed this issue. If the issue persists, try clearing your old stuck browser data.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Clear your old stuck browser data
 
  This annoying issue is also probably caused by the cache and history data on your Chrome. So it is suggested that you **clear the browsing data on your browser** . Here is how to do it:
@@ -94,20 +92,15 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 2. Set the time range to**cover from when you started to use your browser till now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap29.jpg)
 3. Navigate to the**Advanced** tab and select **all the items**  to clear.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap30-1.jpg)
 4. Reopen your Chrome.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  Check to see if this annoying issue reappears. If not, you have resolved this issue. If this issue persists, there are more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable hardware acceleration
 
  Enabling**hardware acceleration** allows your browser to rely on the GPU, not solely the CPU to render web pages. In the most cases, it will speed things up. But sometimes hardware acceleration can bring about unexpected issues. So, try disabling hardware acceleration on your browsers to see if the Chrome slow issue persists. Here is how to do it:
@@ -115,13 +108,18 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap31-1.jpg)
 2. In the search bar, type **hardware** . Then   **turn off the toggle**  next to the feature **Use hardware acceleration when available**  .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap42-1.jpg)
 3. Reopen your Chrome.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the Chrome slow issue is resolved. If not, try resetting your browser settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check your PC for malware in your Chrome and reset your browser settings
 
@@ -132,8 +130,18 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 1. On your Google Chrome, click**the** **menu button** in the upper-right corner. Then select **Settings**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap27-1.jpg)
 2. In the search bar, type **reset**  and then click**Clean up computer** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap34-3.jpg)
 3. Click**Find** to check for harmful software.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap35-1.jpg)
 4. Click**Remove** if you’re asked to remove unwanted software.
 
@@ -146,15 +154,9 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 3. Click**Reset settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap37.jpg)  
  **After resetting the browser settings, you need to enable the extensions you trust** . If you don’t know how to do it, refer to **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to turn on the toggle on the lower-right corner of the extensions you trust.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this annoying issue persists. If so, try updating your Chrome to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Update your Chrome to the latest version
 
  If your Chrome is out of date, this issue may occur. So try updating your Chrome to the latest version. Here is how to do it:
@@ -162,14 +164,16 @@ thumbnail: https://thmb.techidaily.com/2a29084ef28c5d6ebf693615660d627bf6405cc5a
 1. On your Google Chrome, click**the menu button** in the upper-right corner. Then select **Help > About google Chrome** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap38.jpg)
 2. Wait until your Chrome updates itself to the latest version.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap39.jpg)
 3. Reopen your Chrome.
 
  See if this issue reappears. If not, you’ve fixed this annoying issue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: Update your network driver
 
  If the network driver on your PC is missing or outdated, it may also cause the Chrome slow issue. Try updating your network driver to see if the Chrome slow issue persists.
@@ -202,8 +206,6 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +213,24 @@ You can update your drivers automatically with either **the FREE**  or **the Pro
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://games-able.techidaily.com/before-the-buy-sign-consider-these-6-important-points/"><u>Before the BUY Sign, Consider These 6 Important Points</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995168707-deathloop-performance-hitches-solved-smooth-gaming-on-pc-guaranteed/"><u>Deathloop Performance Hitches Solved - Smooth Gaming on PC Guaranteed!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/expert-review-unveiling-the-2023-lineup-for-supreme-electric-yard-trimmers-on-zdnet/"><u>Expert Review: Unveiling the 2023 Lineup for Supreme Electric Yard Trimmers on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-get-your-msi-mystic-light-up-and-running-on-a-pc/"><u>Fixing the Issue: How to Get Your MSI Mystic Light Up and Running on a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/halo-infinite-pc-stability-issues-discover-top-debugging-tips/"><u>Halo Infinite PC Stability Issues? Discover Top Debugging Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990615529-how-to-fix-new-world-connection-error/"><u>How to Fix ‘New World Connection Error’</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-edge-40-pro-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Edge 40 Pro Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-optimize-your-gameplay-by-cutting-down-on-battlefield-5-lag-a-must-read-list-of-10-solutions/"><u>How to Optimize Your Gameplay by Cutting Down on Battlefield 5 Lag: A Must-Read List of 10 Solutions</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unlock-your-youtube-potential-idea-generation-guide/"><u>In 2024, Unlock Your YouTube Potential Idea Generation Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-infinix-note-30i-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Infinix Note 30i</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/savory-sensations-top-youtube-food-influencers-for-2024/"><u>Savory Sensations Top YouTube Food Influencers for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/sims-4-latency-problem-solutions-on-pc-professional-strategies-you-must-try/"><u>Sims 4 Latency Problem Solutions on PC? Professional Strategies You Must Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-error-message-fixing-your-geforce-experience-issues/"><u>Solving the 'Error' Message - Fixing Your GeForce Experience Issues</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/1728468436396-ssd/"><u>SSD セルフバックアップで重要データ保護ガイド</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-ultimate-list-worlds-finest-computing-compan/"><u>The Ultimate List: World's Finest Computing Compan</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transform-written-work-with-gpt-4/"><u>Transform Written Work with GPT-4</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-optimizing-world-of-warcraft-performance-how-to-solve-low-fps-issues/"><u>Ultimate Guide to Optimizing World of Warcraft Performance: How to Solve Low FPS Issues</u></a></li>
+</ul></div>
 

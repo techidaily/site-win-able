@@ -1,7 +1,7 @@
 ---
 title: "'Days Gone': PS4 FPS Hits Computers, Unleash the Wild Bandit in Epic Open World"
-date: 2024-12-17T16:35:41.377Z
-updated: 2024-12-22T01:15:25.715Z
+date: 2024-12-25T08:18:22.029Z
+updated: 2024-12-27T07:16:57.479Z
 tags:
   - win11
   - win10
@@ -22,10 +22,6 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Titanfall 2 players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -40,6 +36,10 @@ thumbnail: https://thmb.techidaily.com/8224c2eaffde473b7b29c4172387e354997fe7d2a
 8. **[Reinstall Titanfall 2](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Titanfall 2
 
@@ -100,6 +100,10 @@ Below are the system requirements for Titanfall 2:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Perform a Windows update
@@ -111,10 +115,6 @@ Below are the system requirements for Titanfall 2:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
 
@@ -144,7 +144,7 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
@@ -157,8 +157,16 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
@@ -166,21 +174,13 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -198,7 +198,7 @@ Below are the system requirements for Titanfall 2:
 4. Download and reinstall Titanfall 2.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Launch Titanfall 2 to see if this issue persists. If not, congratulations! You’ve resolved this issue.
@@ -226,20 +226,19 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-22-in-depth-metaverse-illustrations-for-enlightenment/"><u>[New] 22 In-Depth Metaverse Illustrations for Enlightenment</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-transforming-teams-visuals-for-flawless-video-meetings/"><u>[New] Transforming Teams' Visuals for Flawless Video Meetings</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-free-templates-for-sustainable-storytelling/"><u>[Updated] Free Templates for Sustainable Storytelling</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-scrutinizing-youtubes-comment-clusters-for-2024/"><u>[Updated] Scrutinizing YouTubes' Comment Clusters for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/bypass-reset-pop-8-phone-screen-passcode-pattern-pin-by-drfone-android-unlock-android-unlock/"><u>Bypass/Reset Pop 8 Phone Screen Passcode/Pattern/Pin</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-windows-11-taskbar-glitches-and-getting-it-back-to-normal/"><u>Expert Advice on Fixing Windows 11 Taskbar Glitches and Getting It Back to Normal</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-swiftly-enhancing-shader-effects-in-star-wars-battlefront-ii/"><u>Expert Tips for Swiftly Enhancing Shader Effects in Star Wars Battlefront II</u></a></li>
-<li><a href="https://data-recovery.techidaily.com/exploring-toms-tech-insights-and-hardware-evaluations/"><u>Exploring Tom's Tech Insights and Hardware Evaluations</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-issues-how-to-repair-non-functional-logitech-options-in-windows/"><u>Fixing Issues: How to Repair Non-Functional Logitech Options in Windows</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-the-modern-readers-pathway-to-capturing-internet-television/"><u>In 2024, The Modern Reader's Pathway to Capturing Internet Television</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-photography-timers-with-your-iphone/"><u>Mastering the Art of Photography Timers with Your iPhone</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-sea-of-thieves-game-crash-difficulties-a-step-by-step-fix/"><u>Overcome Sea of Thieves Game Crash Difficulties: A Step-by-Step Fix</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-9-solutions-resolving-marvels-guardians-of-the-galaxy-pc-game-crash-issues/"><u>Top 9 Solutions: Resolving 'Marvel's Guardians of the Galaxy' PC Game Crash Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fix-for-apex-legends-comprehensive-solutions-to-tackle-the-leaf-error-code/"><u>Ultimate Fix for Apex Legends : Comprehensive Solutions to Tackle the 'Leaf' Error Code</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726226919507-online-aiff-mp3-movavi/"><u>모바일 지원, 최신 기술을 사용한 Online AIFF MP3 택시 변환 - Movavi의 강력한 도구</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-nanocapture-screen-video-review-for-2024/"><u>[New] NanoCapture Screen Video Review for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-dslr-cameras-stand-against-mirrorless-for-videographers-for-2024/"><u>[Updated] DSLR Camera's Stand Against Mirrorless for Videographers for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect-for-2024/"><u>[Updated] Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-ops-cold-war-update-clearing-stubborn-shader-compilation-glitches-successfully/"><u>Black Ops Cold War Update - Clearing Stubborn Shader Compilation Glitches Successfully</u></a></li>
+<li><a href="https://win-answers.techidaily.com/end-the-frustration-with-sony-vegas-crashes-step-by-step-remedies-for-seamless-editing/"><u>End the Frustration with Sony Vegas Crashes: Step-by-Step Remedies for Seamless Editing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/essential-ai-learning-hubs-best-places-for-novices-in-ai-tools/"><u>Essential AI Learning Hubs: Best Places for Novices in AI Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-battlefield-2042-pc-glitches-a-step-by-step-solution/"><u>Fixing Battlefield 2042 PC Glitches - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-resolving-msi-afterburners-inability-to-detect-gpu-on-latest-windows-versions/"><u>Guide: Resolving MSI Afterburner's Inability to Detect GPU on Latest Windows Versions</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-lagging-in-your-gameplay-warframe-troubleshooting-guide/"><u>How to Resolve Constant Lagging in Your Gameplay - Warframe Troubleshooting Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-10-capture-applications-for-online-tutorials-for-2024/"><u>Leading 10 Capture Applications for Online Tutorials for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-installation-hurdles-downloading-and-setting-up-age-of-empires-iv-from-the-microsoft-marketplace/"><u>Overcome Installation Hurdles: Downloading and Setting up Age of Empires IV From the Microsoft Marketplace</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/troubleshooting-ios-1ntegration-woes-on-your-iphone-discover-4-reliable-fixes-for-seamless-os-update/"><u>Troubleshooting iOS 1Ntegration Woes on Your iPhone - Discover 4 Reliable Fixes for Seamless OS Update</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/unlock-the-secrets-of-high-quality-gopro-vlogging-for-2024/"><u>Unlock the Secrets of High-Quality GoPro Vlogging for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/unsuccessful-windows-10-build-1607-update-troubleshooting-guide/"><u>Unsuccessful Windows 10 Build 1607 Update: Troubleshooting Guide</u></a></li>
 </ul></div>
 

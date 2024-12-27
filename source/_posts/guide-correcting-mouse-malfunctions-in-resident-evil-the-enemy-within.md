@@ -1,7 +1,7 @@
 ---
 title: "Guide: Correcting Mouse Malfunctions in Resident Evil - The Enemy Within"
-date: 2024-08-23T11:13:13.880Z
-updated: 2024-08-24T11:13:13.880Z
+date: 2024-12-21T07:12:39.187Z
+updated: 2024-12-27T09:29:13.377Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/9929e26ad232462fb3012e528ec110b36cc8e34a7
 
 It’s annoying that the game doesn’t start up with sound, or can’t get any sound. If you have the same issue, this post may help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,9 +35,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 
 Hope it works for you, if not, try updating your audio driver.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update the audio driver
 
  Update your audio driver might fix. Driver is closely related to the audio issue, an outdated or corrupted audio driver would cause sound issue.
@@ -46,20 +47,24 @@ Hope it works for you, if not, try updating your audio driver.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -67,15 +72,11 @@ Hope it works for you, if not, try updating your audio driver.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -90,8 +91,6 @@ Enjoy the game and have a nice day!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -99,4 +98,18 @@ Enjoy the game and have a nice day!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-securing-your-gameplay-on-windows-10-the-5-essentials/"><u>[New] 2024 Approved Securing Your Gameplay on Windows 10 The 5 Essentials</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-viral-visionaries-top-ten-meme-templates-exposed/"><u>[Updated] 2024 Approved Viral Visionaries Top Ten Meme Templates Exposed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-capturing-cinematic-moments-across-devices/"><u>2024 Approved Capturing Cinematic Moments Across Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-freezing-glitches-in-baldurs-gate-your-guide-to-6-essential-tweaks/"><u>Eliminate Freezing Glitches in Baldur’s Gate: Your Guide to 6 Essential Tweaks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/exploring-the-social-sphere-an-insight-into-facebook-twitter-instagram-and-youtube/"><u>Exploring the Social Sphere: An Insight Into Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/first-steps-in-gamified-editing-software-selection/"><u>First Steps in Gamified Editing Software Selection</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-eliminate-lag-in-your-twitch-stream-or-obs-recordings/"><u>How to Eliminate Lag in Your Twitch Stream or OBS Recordings</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-navigating-scavengers-crash-on-personal-computer/"><u>Solved: Navigating Scavengers Crash on Personal Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-new-world-connection-error-a-comprehensive-guide/"><u>Solving the 'New World Connection Error': A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/transition-to-power-shift-from-windows-10-home-to-pro/"><u>Transition to Power: Shift From Windows 10 Home to Pro</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-minecraft-hiccups-advanced-tips-to-combat-stutter-on-computers-updated-guide-2023/"><u>Troubleshooting Common Minecraft Hiccups: Advanced Tips to Combat Stutter on Computers (Updated Guide - 2023)</u></a></li>
+</ul></div>
 

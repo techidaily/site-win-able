@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Discord's Audio Problem During Screen Presentations
-date: 2024-08-18T16:27:15.435Z
-updated: 2024-08-19T16:27:15.435Z
+date: 2024-12-20T13:09:34.001Z
+updated: 2024-12-27T10:39:23.368Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/b2bf4cd4c4150768a4991186ca82f84c6e82b391b
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run Dauntless on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -45,8 +49,9 @@ Here is how to verify the integrity of Dauntless:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Underlock your GPU
 
  Overlocking the GPU is a good method to try if you wish for a faster and smoother game performance. But pushing it too high may cause the game crashing issue.
@@ -56,9 +61,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -78,8 +80,9 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -88,9 +91,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -119,9 +119,6 @@ Here is how to verify the integrity of Dauntless:
 
  1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
@@ -129,11 +126,16 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
@@ -155,8 +157,6 @@ Here is how to verify the integrity of Dauntless:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +164,26 @@ Here is how to verify the integrity of Dauntless:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-obscurity-to-stardom-trendsetting-tactics-for-videos/"><u>[New] 2024 Approved From Obscurity to Stardom Trendsetting Tactics for Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-is-optimal-hdr-with-aurora-worth-it/"><u>[New] 2024 Approved Is Optimal HDR with Aurora Worth It?</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-conquering-peaks-comparing-gopro-hero5-black-and-session-for-2024/"><u>[New] Conquering Peaks Comparing GoPro Hero5 Black and Session for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-the-top-10-streaming-giants-for-live-tv/"><u>[New] Discover the Top 10 Streaming Giants for Live TV</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-audiovid-synergy-community-online/"><u>[Updated] AudioVid Synergy Community Online</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-digital-worlds-revealed-metaverse-vs-multiverse-for-2024/"><u>[Updated] Digital Worlds Revealed Metaverse vs Multiverse for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-discovering-soft-amplification-techniques-in-garageband-for-2024/"><u>[Updated] Discovering Soft Amplification Techniques in Garageband for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-the-complete-process-to-document-real-time-chats/"><u>[Updated] In 2024, The Complete Process to Document Real-Time Chats</u></a></li>
+<li><a href="https://win-able.techidaily.com/flvmp44/"><u>最適なFLVからMP4へのコンバージョンサイトをご紹介！日本語版トップ4講座</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-for-playback-problems-with-dropbox-videos-a-step-by-step-guide/"><u>Effortless Solutions for Playback Problems with Dropbox Videos – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-transition-how-to-change-all-itunes-songs-to-mp3-file-type-without-losing-quality/"><u>Effortless Transition: How To Change All iTunes Songs to MP3 File Type Without Losing Quality</u></a></li>
+<li><a href="https://win-able.techidaily.com/flip-your-videos-horizontally-or-vertically-free-of-charge-with-microsoft-windows/"><u>Flip Your Videos Horizontally or Vertically Free of Charge with Microsoft Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-convert-tvs-to-mp4-using-teamviewerwonderfox/"><u>How to Convert TVS to MP4 Using TeamViewerとWonderFoxビデオコンバーター</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-dvd-creation-how-to-include-subtitles-in-your-projects/"><u>Mastering DVD Creation: How to Include Subtitles in Your Projects</u></a></li>
+<li><a href="https://win-able.techidaily.com/merge-multiple-mxf-video-files-into-a-single-file-without-cost/"><u>Merge Multiple MXF Video Files Into a Single File Without Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/mpeg-4-mvi/"><u>MPEG-4ファイルに効率良く変換: MVIからのコツ</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-simple-guide-how-to-transform-your-music-videos-into-mp4mp3-files/"><u>Quick & Simple Guide: How to Transform Your Music Videos Into MP4/MP3 Files</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/swiftly-overcome-video-send-errors-in-facebook-chat-for-iphones-android/"><u>Swiftly Overcome Video Send Errors in Facebook Chat for iPhones, Android</u></a></li>
+<li><a href="https://extra-information.techidaily.com/tips-for-harnessing-free-visual-content-creatively/"><u>Tips for Harnessing Free Visual Content Creatively</u></a></li>
+</ul></div>
 

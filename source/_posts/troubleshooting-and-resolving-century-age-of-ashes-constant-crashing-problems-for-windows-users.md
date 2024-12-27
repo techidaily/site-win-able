@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting and Resolving 'Century: Age of Ashes' Constant Crashing Problems for Windows Users"
-date: 2024-12-14T21:07:24.838Z
-updated: 2024-12-21T21:21:53.040Z
+date: 2024-12-19T16:12:16.767Z
+updated: 2024-12-27T12:40:46.334Z
 tags:
   - win11
   - win10
@@ -45,10 +45,6 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
@@ -57,17 +53,13 @@ thumbnail: https://thmb.techidaily.com/7886b93aef2a0639ec1e094763681d9231c505608
 ![Switch GPU to CPU for fast previews in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects-1.jpg)
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
- After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
 ## Fix 2: Update your graphics driver
 
@@ -119,7 +111,7 @@ There’re mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -141,19 +133,19 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
@@ -166,6 +158,10 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If After Effects still crashes, try the next fix, below.
 
 ## Fix 5: Reinstall codecs and plugins
@@ -175,12 +171,16 @@ If After Effects still crashes, try the next fix, below.
  Some incompatible plugins would also crash After Effects. Before installing a 3rd party plugin, you need ensure it is 100% compatible with both your version of After Effects and other plugins. If you’ve installed a new plugin recently, try deactivating it to see if it is the crashing culprit. If it doesn’t help, you may need to reinstall After Effects.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Update / reinstall After Effects
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -210,20 +210,21 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-editing-workshop-portal-for-2024/"><u>[New] Editing Workshop Portal for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>[Updated] A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-panoramic-lenses-vs-depth-filled-images/"><u>[Updated] Panoramic Lenses vs Depth-Filled Images</u></a></li>
-<li><a href="https://win-able.techidaily.com/beating-the-clock-techniques-to-decrease-delay-and-improve-reaction-time-in-pcs-bless-unleashed/"><u>Beating the Clock: Techniques to Decrease Delay and Improve Reaction Time in PC's Bless Unleashed</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-shader-compilation-stuck-point-in-cod-black-ops-cold-war/"><u>How to Overcome Shader Compilation Stuck Point in COD: Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-and-fix-fortnites-freezing-problem-a-2024-user-guide/"><u>How to Prevent & Fix Fortnite's Freezing Problem: A 2024 User Guide</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-other-iphone-12-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 7 To Other iPhone 12 Pro Max devices? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-12-proplus-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme 12 Pro+ 5G</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/lechange-bienveillant-en-francais-merci/"><u>L'Echange Bienveillant en Français: Merci</u></a></li>
-<li><a href="https://win-able.techidaily.com/new-world-continues-to-experience-chilling-halts-a-comprehensive-guide/"><u>New World Continues to Experience Chilling Halts: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/pc-gamers-say-goodbye-to-lag-and-stutter-in-half-life-alyx/"><u>PC Gamers, Say Goodbye to Lag and Stutter in 'Half-Life: Alyx'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-ffxivs-check-in-compatibility-error-for-latest-patches/"><u>Resolving FFXIV's Check-In Compatibility Error for Latest Patches</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/save-big-on-filmora-4-legit-ways-to-get-discounted-rates/"><u>Save Big on Filmora 4 Legit Ways to Get Discounted Rates</u></a></li>
-<li><a href="https://win-able.techidaily.com/stream-smoothly-diagnosing-and-fixing-discords-crash-issues-during-broadcasts/"><u>Stream Smoothly: Diagnosing and Fixing Discord's Crash Issues During Broadcasts</u></a></li>
-<li><a href="https://games-able.techidaily.com/why-linkedin-games-might-not-be-as-fun-as-they-seem/"><u>Why LinkedIn Games Might Not Be as Fun as They Seem</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-echoes-of-chuckles-parody-playlists/"><u>[New] In 2024, Echoes of Chuckles Parody Playlists</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-for-entrepreneurs-how-to-register-as-a-biz-page-for-2024/"><u>[New] Instagram for Entrepreneurs How to Register as a Biz Page for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-enhancing-zoom-experience-on-chromebooks-for-2024/"><u>[Updated] Enhancing Zoom Experience on Chromebooks for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-perfect-tunes-essential-music-guide-for-instagram-clips/"><u>2024 Approved Perfect Tunes Essential Music Guide for Instagram Clips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/guide-to-turn-off-spotify-automatic-startup/"><u>Guide to Turn Off Spotify Automatic Startup</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-game-freeze-glitches-in-call-of-duty-black-ops-cold-war-for-smooth-playing-experience/"><u>How To Overcome Game Freeze Glitches In Call of Duty: Black Ops Cold War for Smooth Playing Experience</u></a></li>
+<li><a href="https://driver-install.techidaily.com/no-digsign-in-third-party-inf-resolved/"><u>No DigSign in Third-Party Inf: Resolved</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/perfect-match-found-the-top-6-hdmi-21-monitors-reviewed-for-2024/"><u>Perfect Match Found The Top 6 HDMI 2.1 Monitors Reviewed for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-overcome-issues-preventing-your-game-from-starting/"><u>Quick Solutions: Overcome Issues Preventing Your Game From Starting!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-start-utilizing-the-handy-and-mobile-friendly-version-of-driver-easy/"><u>Quick Start: Utilizing the Handy and Mobile-Friendly Version of Driver Easy</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-xcover-7-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy XCover 7 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/speedy-advice-navigating-through-shader-optimization-snags-in-star-wars-battlefront-ii/"><u>Speedy Advice: Navigating Through Shader Optimization Snags in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-6-trusted-techniques-to-resolve-terraria-disconnection-issues/"><u>Top 6 Trusted Techniques to Resolve Terraria Disconnection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-successfully-starting-starfield-on-your-console-or-pc/"><u>Troubleshooting Tips - Successfully Starting Starfield on Your Console or PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-steps-for-resolving-battlenet-launch-issues/"><u>Ultimate Troubleshooting Steps for Resolving Battle.net Launch Issues</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unlocking-creativity-seamless-integration-of-title-and-caption-overlays-on-video-clips-via-microsoft-photos/"><u>Unlocking Creativity Seamless Integration of Title & Caption Overlays on Video Clips via Microsoft Photos</u></a></li>
 </ul></div>
 

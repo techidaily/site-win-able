@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues Resolved – Fixes & Solutions
-date: 2024-12-19T23:57:55.158Z
-updated: 2024-12-21T16:35:32.771Z
+date: 2024-12-20T17:21:29.356Z
+updated: 2024-12-26T17:21:54.746Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
@@ -69,10 +69,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -95,6 +91,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -102,7 +102,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -110,7 +110,7 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
@@ -141,6 +141,10 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/749e7224dc77351db9654f3d5b625401a4538e3e0
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -193,22 +193,22 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-convenient-procedures-for-recording-screen-chats/"><u>[New] In 2024, Convenient Procedures for Recording Screen Chats</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-pro-android-image-correction-apps/"><u>[New] Pro Android Image Correction Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-simple-solutions-for-capturing-playthroughs/"><u>[New] Simple Solutions for Capturing Playthroughs</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-evaluating-m1s-capabilities-for-heavy-duty-media-editing/"><u>[Updated] Evaluating M1's Capabilities for Heavy-Duty Media Editing</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-top-10-cinemagraphic-cameras-a-guide-from-novices-to-experts/"><u>[Updated] In 2024, Top 10 Cinemagraphic Cameras A Guide From Novices to Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-troubleshooting-techniques-for-connectivity-hiccups-in-rainbow-six-siege/"><u>Comprehensive Troubleshooting Techniques for Connectivity Hiccups in Rainbow Six Siege</u></a></li>
-<li><a href="https://win-able.techidaily.com/cure-your-red-dead-online-woes-effective-troubleshooting-for-seamless-gaming-on-pc/"><u>Cure Your Red Dead Online Woes: Effective Troubleshooting for Seamless Gaming on PC</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-official-logitech-g29-control-wheel-software-for-windows-11-pcs/"><u>Download the Official Logitech G29 Control Wheel Software for Windows 11 PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-and-tricks-for-handling-the-nvidia-geforce-error-0x0003/"><u>Expert Tips and Tricks for Handling the NVIDIA GeForce Error 0X0003</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/gaming-earnings-dive-for-amd-at-59-while-data-center-income-skyrockets-with-a-115-boost/"><u>Gaming Earnings Dive for AMD at -59%, While Data Center Income Skyrockets with a 115% Boost</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashes-on-windows-11-expert-tips-and-solutions/"><u>How to Fix Fallout 3 Crashes on Windows 11: Expert Tips and Solutions</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/light-shadow-and-subtlety-in-film-coloring-for-2024/"><u>Light, Shadow & Subtlety in Film Coloring for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/morphvox-mastery-a-complete-voice-modification-companion/"><u>MorphVOX Mastery A Complete Voice Modification Companion</u></a></li>
-<li><a href="https://win-able.techidaily.com/optimize-graphic-drivers-for-enhanced-gameplay-in-forza-horizon-5/"><u>Optimize Graphic Drivers for Enhanced Gameplay in Forza Horizon 5</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-into-the-world-of-detroit-become-human-a-compelling-decision-driven-adventure-for-pc-players/"><u>Step Into the World of 'Detroit: Become Human' - A Compelling Decision-Driven Adventure for PC Players</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-fixes-to-combat-lag-issues-during-naraka-bladepoint-sessions/"><u>Step-by-Step Fixes to Combat Lag Issues During Naraka Bladepoint Sessions</u></a></li>
-<li><a href="https://win-able.techidaily.com/the-truth-behind-halving-frame-rates-a-deep-dive-into-pc-performance-issues/"><u>The Truth Behind Halving Frame Rates: A Deep-Dive Into PC Performance Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-how-to-reconnect-to-destiny-2-server-issues/"><u>[FIXED] How to Reconnect to Destiny 2 Server Issues</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-digital-riches-unleashed-measuring-your-success-on-youtubes-platform/"><u>[New] In 2024, Digital Riches Unleashed Measuring Your Success on YouTube's Platform</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-a-comprehensive-manual-on-motion-detection-systems/"><u>[Updated] A Comprehensive Manual on Motion Detection Systems</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-crafting-the-perfect-gaming-channel-header/"><u>2024 Approved Crafting the Perfect Gaming Channel Header</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-move-contacts-from-huawei-nova-y91-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways to Move Contacts From Huawei Nova Y91 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/1726219290714-aiff-mp3-movavi/"><u>免費線上 AIFF 到 MP3 轉換 - 使用 Movavi 提供的過渡工具</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-optimal-gameplay-advanced-strategies-to-resolve-warzone-stutter-and-boost-frame-rate/"><u>Achieve Optimal Gameplay: Advanced Strategies to Resolve Warzone Stutter & Boost Frame Rate</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029055305-fc2/"><u>FC2にお任せしよう</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-ready-for-savings-exclusive-cyber-monday-tech-bargains-on-pcs-in-october-2024-zdnet/"><u>Get Ready for Savings! Exclusive Cyber Monday Tech Bargains on PCs in October 2024 | ZDNET</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-90-lite-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 90 Lite to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/new-techniques-for-fixing-pixel-vibration-in-google-chrome-on-windows-pc-updated-guide/"><u>New Techniques for Fixing Pixel Vibration in Google Chrome on Windows PC: Updated Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-constant-errors-in-microsoft-outlook-a-comprehensive-guide/"><u>Overcoming Constant Errors in Microsoft Outlook: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-prolonged-startup-times-in-star-wars-battlefront-ii-for-pc-gamers/"><u>Resolving Prolonged Startup Times in Star Wars Battlefront II for PC Gamers</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/review-of-apc-back-ups-be600m1-powerful-portable-surge-protector-with-integrated-mobile-device-charging/"><u>Review of APC Back-UPS BE600M1 - Powerful Portable Surge Protector with Integrated Mobile Device Charging</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-issue-city-skylines-2-wont-start/"><u>Solving the Issue: City Skylines 2 Won't Start</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-the-troublesome-black-display-when-playing-overwatch-initially/"><u>Tackling the Troublesome Black Display When Playing Overwatch Initially</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-minecraft-server-connectivity-problems-resolved/"><u>Troubleshooting Your Minecraft Server: Connectivity Problems Resolved</u></a></li>
 </ul></div>
 

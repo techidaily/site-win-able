@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix Persistent Game Crashes in The Witcher 3 on PC"
-date: 2024-08-18T16:23:39.414Z
-updated: 2024-08-19T16:23:39.414Z
+date: 2024-12-21T00:12:21.270Z
+updated: 2024-12-27T10:32:44.369Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/524624a8aef372cbe885ba5524fa4cfc7d196c57b
 ## Fix the Uninvited PC Party Crasher: 6 Expert Hacks to Resolve Stray Crashes Now
 
 The Stray is a hit in July. As a cat lover, I’m obsessed with the game, however, the game crashing, freezing, and not launching is pushing me away. We just wanna run around like a cat. It’s common to see crashings when a game is newly released, except waiting for a new patch, there’s something we can try to fix the game issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,6 +42,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it doesn’t work, move to the next fix.
 
 ### Fix 2: Put commands in the launch option
@@ -47,27 +55,19 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Open Oculus app
 
  Still facing the problem? If you have the Oculus app installed on your PC, launch this app and the crashing will be fixed. We don’t know why, but it did work for many players.
@@ -76,9 +76,6 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
@@ -105,15 +102,17 @@ If it doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -126,13 +125,20 @@ If it doesn’t work, move to the next fix.
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
@@ -141,8 +147,9 @@ If it doesn’t work, move to the next fix.
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Lower graphic settings
 
  Some gamers reported lowering the graphics settings in the Stray would fix the random game crashing on Stray.
@@ -157,8 +164,6 @@ If it doesn’t work, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +171,26 @@ If it doesn’t work, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-cut-to-perfection-a-detailed-guide-on-youtube-short-video-making/"><u>[New] 2024 Approved Cut to Perfection A Detailed Guide on YouTube Short Video Making</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/harting-financial-horizons-the-threefold-technique-for-analyzing-youtube-earning-data-for-2024/"><u>[New] Charting Financial Horizons The Threefold Technique for Analyzing YouTube Earning Data for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-tropical-tango-toucan/"><u>[New] Tropical Tango Toucan</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-conquer-the-webcam-world-with-ease/"><u>[Updated] 2024 Approved Conquer the Webcam World with Ease</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-expert-techniques-for-capturing-minute-details-on-video/"><u>[Updated] 2024 Approved Expert Techniques for Capturing Minute Details on Video</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-professional-filming-made-simple-the-essentials-of-logitech-webcam-setup/"><u>[Updated] In 2024, Professional Filming Made Simple The Essentials of Logitech Webcam Setup</u></a></li>
+<li><a href="https://discover-help.techidaily.com/remini/"><u>動画美麗化技巧公開：Reminiを使って品質向上策💡 - バイラルコンテンツ</u></a></li>
+<li><a href="https://win-able.techidaily.com/alan-wake-cufflinks-ii-stability-guide-ultimate-solutions-for-a-smooth-gaming-session/"><u>Alan Wake Cufflinks II Stability Guide: Ultimate Solutions for a Smooth Gaming Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-gaming-pace-proven-methods-to-tackle-frame-drops-and-lag-issues-in-valheim-new-insights/"><u>Enhance Gaming Pace: Proven Methods to Tackle Frame Drops and Lag Issues in Valheim (New Insights)</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-launch-issues-resolved-top-tips-and-tweaks-for-an-uninterrupted-gaming-session/"><u>Forza Horizon 4 Launch Issues Resolved? Top Tips and Tweaks for an Uninterrupted Gaming Session</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strives-latency-dilemma-addressed-and-fixed/"><u>Guilty Gear Strive's Latency Dilemma Addressed & Fixed!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-problem-with-non-responsive-google-chrome-browser/"><u>How to Fix the Problem with Non-Responsive Google Chrome Browser</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-crashing-in-windows-(title)10-issue-resolved/"><u>How to Stop Microsoft Edge From Crashing in Windows <Title>10 [Issue Resolved]</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-pro-tips-for-utilizing-green-screen-effects-professionally/"><u>In 2024, Pro Tips for Utilizing Green Screen Effects Professionally</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unison-video-visionaries-finding-your-cms/"><u>In 2024, Unison Video Visionaries Finding Your CMS</u></a></li>
+<li><a href="https://win-able.techidaily.com/multiversus-wont-open-expert-tips-for-getting-the-game-up-and-running-again/"><u>MultiVersus Won't Open? Expert Tips for Getting the Game Up and Running Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimized-say-goodbye-to-abrupt-disconnections-in-the-hyper-scape-universe-on-pc-platforms/"><u>Optimized: Say Goodbye to Abrupt Disconnections in the Hyper Scape Universe on PC Platforms</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-sim-unlock-code-generators-unlock-your-tecno-camon-20-pro-5g-phone-hassle-free-by-drfone-android/"><u>The Best Android SIM Unlock Code Generators Unlock Your Tecno Camon 20 Pro 5G Phone Hassle-Free</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-taming-starfield-softwares-sky-high-cpu-consumption-2024-edition/"><u>Ultimate Guide to Taming Starfield Software's Sky-High CPU Consumption - 2024 Edition</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Best Practices to Stop Microsoft's Window OS From Giving You a Flickering Display with Chrome (Updated) - A Deep Dive Into the Top Solutions of 2024
-date: 2024-12-18T20:22:12.959Z
-updated: 2024-12-21T23:36:02.012Z
+date: 2024-12-19T19:41:31.991Z
+updated: 2024-12-27T13:21:30.562Z
 tags:
   - win11
   - win10
@@ -48,6 +48,10 @@ Lately there have been many users complaining about the**flickering issue with G
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/hdmi-cables.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Display Cables (HDMI)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/dp-hdmi-adapter.jpg)
@@ -55,10 +59,6 @@ Display Cables (HDMI)
 Passive Adapter (DP to HDMI)
 
  If you’re confident about your cable and adapter, simply move on to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Fix 2: Turn off Automatically pick an accent color (Windows 10)**
 
@@ -70,12 +70,12 @@ Passive Adapter (DP to HDMI)
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/personalize-01.jpg)
 2. From the left menu, select**Colors** . Under the**Choose your accent color** section, make sure you’ve**unchecked** the box next to**Automatically pick an accent color** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-automatically-pick-an-accent-color-02.jpg)
 3. Open Google Chrome and see if it stops flickering.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If this method doesn’t help your case, you can take a look at the next one.
 
@@ -86,6 +86,10 @@ Passive Adapter (DP to HDMI)
  To check if it’s simply a web page issue, you can test the same page with different web browsers.
 
  If the problem is exclusive to Chrome, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Update your graphics driver**
 
@@ -99,7 +103,7 @@ Passive Adapter (DP to HDMI)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -121,13 +125,13 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-1.jpg)
 2. In the search box, type or paste**smooth scrolling** . Set**Smooth Scrolling** to**Enabled** or**Disabled** and see which one works best for you. Remember to restart Chrome after changing the settings.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-flags-2.jpg)
 
  If this trick doesn’t give you luck, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Update Chrome
 
@@ -137,18 +141,14 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-more.jpg)
 2. In the resulting drop-down menu, select **Help** \> **About Google Chrome** . Opening this page will initiate the update process.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-update.jpg)
 3. Once the browser updates, click the **Relaunch** button to reopen Chrome.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If you’re already using the latest version of Chrome, please continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Install all Windows updates
 
@@ -162,7 +162,15 @@ If you don’t know how, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/chrome-settings-1.jpg)
 2. In the search bar, type**hardware** . Find the**Use hardware acceleration when available** setting, toggle the switch to “off” (grey-out) position. Then click**Relaunch** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-hardware-acceleration-chrome.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can test some websites and see if Chrome flickers again.
 
@@ -180,21 +188,21 @@ If this fix doesn’t work for you, go ahead and try the last one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar of Registry Editor, type or paste**HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\DWM** and press**Enter** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm.jpg)
 3. At the empty area of the right pane, right click and create a new**DWORD (32-bit) Value** and name it**OverlayTestMode** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-2.jpg)
 4. Right click the entry and modify the value to**5** . Then reboot your PC and see if the flicker reappears.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/regedit-dwm-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the issue lingers on, you can try the next solution.
 
@@ -207,15 +215,7 @@ If the issue lingers on, you can try the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -240,20 +240,24 @@ If the issue lingers on, you can try the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-making-sounds-count-windows-10-audio-guide/"><u>[New] Making Sounds Count Windows 10 Audio Guide</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-discover-leading-video-ranking-tools-for-youtube-success-for-2024/"><u>[Updated] Discover Leading Video Ranking Tools for YouTube Success for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-saturated-chatgpt-windows-error/"><u>Addressing Saturated ChatGPT Windows Error</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/breathing-life-into-degraded-m4v-videos-steps-included/"><u>Breathing Life Into Degraded M4V Videos: Steps Included</u></a></li>
-<li><a href="https://win-able.techidaily.com/compliance/"><u>Compliance</u></a></li>
-<li><a href="https://win-dash.techidaily.com/discover-the-key-features-of-sony-xperia-z-ultra-a-rapid-insight-into-its-best-qualities/"><u>Discover the Key Features of Sony Xperia Z Ultra: A Rapid Insight Into Its Best Qualities</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-asrock-ab350-pro4-drivers-at-no-cost-compatible-with-windows-systems/"><u>Download ASRock AB350 Pro4 Drivers at No Cost – Compatible with Windows Systems</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expert-review-of-the-huawei-p20-pro-superior-camera-and-solid-smartphone-functions-combined/"><u>Expert Review of the Huawei P20 Pro: Superior Camera and Solid Smartphone Functions Combined</u></a></li>
-<li><a href="https://win-able.techidaily.com/hearthstone-troubleshooting-guide-solving-game-crashes-on-windowsmac-pcs/"><u>Hearthstone Troubleshooting Guide - Solving Game Crashes on Windows/Mac PCs</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-issues-with-launching-tiny-tinas-fantastic-journey-on-windows/"><u>How to Fix Issues with Launching Tiny Tina's Fantastic Journey on Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/improving-your-ubisoft-connect-experience-strategies-to-speed-up-downloads/"><u>Improving Your Ubisoft Connect Experience: Strategies to Speed Up Downloads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-ushering-bliss-in-unboxing-7-strategies/"><u>In 2024, Ushering Bliss in Unboxing 7 Strategies</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-regain-access-after-losing-connection-to-the-destiny-2-servers-what-works/"><u>Resolved: Steps to Regain Access After Losing Connection to the Destiny 2 Servers - What Works?</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-rainbow-six-siege-pc-black-screen-issue-a-comprehensive-guide/"><u>Solving the Rainbow Six Siege PC Black Screen Issue: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-techniques-to-eliminate-dota-2-lag-expert-advice-from-2024/"><u>Ultimate Troubleshooting Techniques to Eliminate Dota 2 Lag - Expert Advice From 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-first-steps-on-social-landscape-creating-a-facebook-account/"><u>[New] First Steps on Social Landscape Creating a Facebook Account</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-how-purchasing-followers-impacts-the-integrity-of-youtube-content-creators-for-2024/"><u>[New] How Purchasing Followers Impacts the Integrity of YouTube Content Creators for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-soundtracks-for-snaps-a-guide-to-video-audio-selection/"><u>[New] In 2024, Soundtracks for Snaps A Guide to Video Audio Selection</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-smart-youtubers-playbook-fixing-short-snafus/"><u>[New] The Smart Youtuber's Playbook Fixing Short Snafus</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-free-screenshot-and-recording-made-simple-for-android-users/"><u>[Updated] 2024 Approved Free Screenshot & Recording Made Simple for Android Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-free-screen-recorder-roundup-the-premium-selection-for-your-android-device/"><u>[Updated] Free Screen Recorder Roundup The Premium Selection for Your Android Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-master-the-art-of-attraction-secrets-to-viral-tiktok-unboxing-content/"><u>[Updated] Master the Art of Attraction Secrets to Viral TikTok Unboxing Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/5-essential-strategies-to-resolve-your-eos-login-issues-on-palworld/"><u>5 Essential Strategies to Resolve Your EOS Login Issues on Palworld</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-getting-banned-handling-the-persistent-dota-2-valve-anti-cheat-concerns/"><u>Avoid Getting Banned: Handling the Persistent Dota 2 Valve Anti-Cheat Concerns</u></a></li>
+<li><a href="https://win-able.techidaily.com/bridging-the-gap-between-ios-and-windows-11-ensuring-itunes-detects-your-iphone/"><u>Bridging the Gap Between iOS and Windows 11: Ensuring iTunes Detects Your iPhone</u></a></li>
+<li><a href="https://win-able.techidaily.com/deathloop-stuck-on-loading-screen-heres-what-you-can-do/"><u>Deathloop Stuck on Loading Screen? Here’s What You Can Do</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-fixing-0xc19001e1-boot-failure-on-windows-nk-pcs/"><u>Expert Tips for Fixing '0Xc19001e1' Boot Failure on Windows Nk PCs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-use-of-chatgpt-in-effective-proofreading-practices/"><u>Exploring the Use of ChatGPT in Effective Proofreading Practices</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-to-downloading-and-updating-amd-smbus-drivers/"><u>Fast & Simple Guide to Downloading and Updating AMD SMBus Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-bugs-swift-solutions-to-avoid-batman-arkham-knight-crashes/"><u>Fixing Bugs: Swift Solutions to Avoid Batman: Arkham Knight Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-decreased-frame-rates-for-dota-2-players-on-windows-11-and-windows-10/"><u>Fixing Decreased Frame Rates for Dota 2 Players on Windows 11 and Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-silent-roblox-solutions-for-audio-problems-in-roblox-games-on-windows-11-and-10/"><u>Fixing Silent Roblox: Solutions for Audio Problems in Roblox Games on Windows 11 and 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capture-clarity-selecting-best-gimbals-for-your-camera/"><u>In 2024, Capture Clarity Selecting Best Gimbals for Your Camera</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-isnt-my-windows-spotlight-showing-images-solutions-for-windows-11-users/"><u>Why Isn't My Windows Spotlight Showing Images? Solutions for Windows 11 Users</u></a></li>
 </ul></div>
 

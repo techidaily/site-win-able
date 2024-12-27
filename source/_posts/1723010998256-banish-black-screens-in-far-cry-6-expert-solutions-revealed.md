@@ -1,7 +1,7 @@
 ---
 title: Banish Black Screens in Far Cry 6 – Expert Solutions Revealed
-date: 2024-12-14T19:39:01.675Z
-updated: 2024-12-21T16:42:16.140Z
+date: 2024-12-20T02:22:38.804Z
+updated: 2024-12-26T22:51:24.201Z
 tags:
   - win11
   - win10
@@ -23,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,9 +58,17 @@ thumbnail: https://thmb.techidaily.com/fb708f6b02bb2770894398e8943ab9eb4326fec35
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -76,7 +88,7 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -84,10 +96,6 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
 
 If you still encounter black screen issues, check out the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -98,7 +106,7 @@ If you still encounter black screen issues, check out the next fix.
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
@@ -109,7 +117,7 @@ Relaunch Far Cry 6 to check if the black screen issue has gone away.
 If this fix doesn’t help, proceed to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable the Ubisoft Connect overlay
@@ -120,36 +128,24 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Switch to windowed mode
 
  If the black screen issue was caused due to a small glitch, you can try to fix it by switching to windowed mode. This workaround has been proven useful by many gamers and you can give it a shot. Simply press**ALT+Enter** to switch to windowed mode while in full screen.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Perform a clean boot
 
@@ -170,6 +166,10 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -220,15 +220,18 @@ If this fix doesn’t do the trick, take a look at the next one.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-ais-best-podcast-naming-tools-top-ten-list/"><u>[New] AI's Best Podcast Naming Tools Top Ten List</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-maximizing-reach-twitch-streams-via-facebook/"><u>[New] Maximizing Reach Twitch Streams via Facebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/solved-a-total-war-saga-troy-crash-on-pc/"><u>[SOLVED] A Total War Saga: Troy Crash on PC</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-hasten-haste-in-videos-with-top-apps-android/"><u>2024 Approved Hasten Haste in Videos with Top Apps, Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-overcoming-lego-star-wars-the-skywalker-saga-game-crashing-problems/"><u>Expert Advice on Overcoming Lego Star Wars: The Skywalker Saga Game Crashing Problems</u></a></li>
-<li><a href="https://win11.techidaily.com/making-outdated-pcs-senior-safe-and-comfortable/"><u>Making Outdated PCs Senior-Safe and Comfortable</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-art-of-gamers-vocal-disguise-selecting-the-ultimate-toolkit/"><u>New The Art of Gamers Vocal Disguise Selecting the Ultimate Toolkit</u></a></li>
-<li><a href="https://win-able.techidaily.com/solution-guides-addressing-and-correcting-the-0xc0000022-launch-issue-for-adobe-products/"><u>Solution Guides: Addressing and Correcting the 0xC0000022 Launch Issue for Adobe Products</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-tips-and-tricks-to-stop-discord-from-crashing-on-your-device/"><u>Top Tips and Tricks to Stop Discord From Crashing on Your Device</u></a></li>
-<li><a href="https://win11.techidaily.com/troubleshooting-unresponsive-click-components-in-win11/"><u>Troubleshooting Unresponsive Click Components in Win11</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-proven-techniques-for-swiftly-locating-your-desired-discord-server/"><u>[New] 2024 Approved Proven Techniques for Swiftly Locating Your Desired Discord Server</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unlock-your-creative-potential-with-audio-edits-in-canva-videos-for-2024/"><u>[New] Unlock Your Creative Potential with Audio Edits in Canva Videos for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-free-srt-tools-the-most-reliable-high-quality-apps-listed/"><u>[Updated] Free SRT Tools The Most Reliable, High-Quality Apps Listed</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-adjust-photos-for-core-outer-softness-in-photoshop-suite/"><u>2024 Approved Adjust Photos for Core-Outer Softness in Photoshop Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-the-insufficient-memory-error-tips-and-tricks-for-god-of-war-gamers/"><u>Bypassing the 'Insufficient Memory' Error: Tips and Tricks for God of War Gamers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/controlling-smart-homes-with-ai-does-chatgpt-have-the-capability/"><u>Controlling Smart Homes with AI: Does ChatGPT Have the Capability?</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-to-successfully-run-resident-evil-5-on-your-personal-computer-no-more-launch-failures/"><u>Crack the Code to Successfully Run Resident Evil 5 on Your Personal Computer, No More Launch Failures!</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-find-and-install-logitech-g403-mouse-software-on-your-pc/"><u>How to Find and Install Logitech G403 Mouse Software on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-fallout-3-crashing-issues-in-windows-11/"><u>How to Fix Fallout 3 Crashing Issues in Windows 11</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-find-my-app-troubleshooting-no-location-found-vs-location-not-available-and-how-to-fix-them-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Find My App Troubleshooting No Location Found vs. Location Not Available & How to Fix Them On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-to-prevent-valheim-from-collapsing-your-gameplay-experience/"><u>Step-by-Step Solutions to Prevent Valheim From Collapsing Your Gameplay Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-minecraft-from-freezing-and-crashing-with-these-quick-solutions/"><u>Stop Minecraft From Freezing & Crashing with These Quick Solutions!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/translating-views-into-dollars-on-youtube-via-cpm-for-2024/"><u>Translating Views Into Dollars on YouTube via CPM for 2024</u></a></li>
 </ul></div>
 

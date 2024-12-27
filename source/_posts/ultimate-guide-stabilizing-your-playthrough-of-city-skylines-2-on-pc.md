@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Stabilizing Your Playthrough of City Skylines 2 on PC"
-date: 2024-12-21T00:38:53.269Z
-updated: 2024-12-21T17:23:21.363Z
+date: 2024-12-24T21:16:04.600Z
+updated: 2024-12-27T11:50:05.660Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -32,6 +36,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -47,10 +55,6 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 
  If your specs are more than capable for the game, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -61,11 +65,19 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
@@ -76,7 +88,7 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If this trick doesn’t give you luck, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3: Disable overlays
@@ -89,10 +101,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Update your graphics driver
 
  In most cases, the lag and stuttering simply means you’re using**a** **faulty or outdated graphics driver** . Manufacturers keep updating their drivers so as to deliver the best possible performance. If the last time you updated your drivers feels like ages ago, definitely do it now as it might save your day.
@@ -104,22 +112,18 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your GPU driver, restart your PC and test your gameplay.
 
  If the latest driver doesn’t do the trick, you can continue to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Install all Windows updates
 
@@ -131,16 +135,8 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
@@ -152,6 +148,10 @@ Here’s how you can check for updates manually:
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Set additional launch options
 
@@ -186,18 +186,18 @@ To do so, follow these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/yans-revenue-revolution-from-childhood-to-youtube-riches/"><u>[New] Ryan’s Revenue Revolution From Childhood to YouTube Riches</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-revolutionize-patient-engagement-with-ad-insights/"><u>2024 Approved Revolutionize Patient Engagement with Ad Insights</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 12 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/chronoscope-effect-flip-your-snapchat-videos-right-for-2024/"><u>Chronoscope Effect Flip Your Snapchat Videos Right for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-technology-with-toms-hardware-mastery/"><u>Exploring Technology with Tom's Hardware Mastery</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-persistent-starvation-glitches-from-crashing-pc-systems/"><u>How to Prevent Persistent Starvation Glitches From Crashing PC Systems</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-innovation-hub-for-youtube-gurus/"><u>In 2024, Innovation Hub for YouTube Gurus</u></a></li>
-<li><a href="https://win-able.techidaily.com/mass-effect-legendary-collection-addressing-game-performance-hiccups/"><u>Mass Effect Legendary Collection: Addressing Game Performance Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-ubisoft-connect-tips-and-tricks-to-overcome-setbacks/"><u>Mastering Ubisoft Connect: Tips and Tricks to Overcome Setbacks !</u></a></li>
-<li><a href="https://fox-shield.techidaily.com/multi-account-integration-using-google-drive-for-desktop-on-windows-1011/"><u>Multi-Account Integration: Using Google Drive for Desktop on Windows 10/11</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-gray-screens-resolving-halo-infinites-black-screen-error/"><u>No More Gray Screens: Resolving Halo Infinite’s Black Screen Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-graphics-hurdle-a-users-guide-for-correcting-errors-in-the-sims-4/"><u>Overcoming the Graphics Hurdle: A User's Guide for Correcting Errors in The Sims 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-runtime-errors-in-stardew-valley-on-personal-computers-tips-and-tricks/"><u>Resolving Runtime Errors in Stardew Valley on Personal Computers - Tips & Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-crafting-captivating-stories-on-fb-a-comprehensive-guide-to-bio-crafting/"><u>[New] In 2024, Crafting Captivating Stories on FB A Comprehensive Guide to Bio Crafting</u></a></li>
+<li><a href="https://win-able.techidaily.com/access-resumed-the-latest-update-fixes-origins-online-account-issue/"><u>Access Resumed - The Latest Update Fixes Origin's Online Account Issue</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-the-evolution-of-ai-from-gpt-1-to-gpt-4-a-comprehensive-guide/"><u>Exploring the Evolution of AI: From GPT-1 to GPT-4 - A Comprehensive Guide</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-infinix-note-30-vip-racing-edition-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Infinix Note 30 VIP Racing Edition Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-persistent-zoom-issues-on-windows-1110-expert-tips/"><u>How to Fix Persistent Zoom Issues on Windows 11/10 - Expert Tips</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-fix-the-search-tool-in-windows-11-and-11-not-displaying-results/"><u>How to Fix the Search Tool in Windows 11 & 11 Not Displaying Results</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-your-windows-11-spotlight-photos-when-they-stop-displaying-correctly/"><u>How to Restore Your Windows 11 Spotlight Photos When They Stop Displaying Correctly</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-from-sd-to-4k-superiority-a-look-inside-the-d500/"><u>In 2024, From SD to 4K Superiority A Look Inside the D500</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-patchwork-ultimate-solutions-to-start-fallout-n-3-on-your-pc/"><u>Master the Patchwork: Ultimate Solutions to Start Fallout N 3 on Your PC</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximize-your-development-codegpt-plus-vs-code/"><u>Maximize Your Development: CodeGPT + VS Code</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-fortnite-when-it-gets-jammed-at-the-loading-phase/"><u>Resolved: Fixing Fortnite When It Gets Jammed at the Loading Phase</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-for-pathfinder-wrath-of-the-righteous-no-more-freezes-on-windows-machines/"><u>Solution Found for 'Pathfinder: Wrath of the Righteous'; No More Freezes on Windows Machines!</u></a></li>
+<li><a href="https://driver-error.techidaily.com/step-by-step-guide-restoring-the-missing-coprocessor-on-windows-nix/"><u>Step-by-Step Guide: Restoring the Missing Coprocessor on Windows Nix</u></a></li>
 </ul></div>
 

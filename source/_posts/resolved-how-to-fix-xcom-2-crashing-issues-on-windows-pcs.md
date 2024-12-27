@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix XCOM 2 Crashing Issues on Windows PCs"
-date: 2024-08-18T16:28:48.647Z
-updated: 2024-08-19T16:28:48.647Z
+date: 2024-12-26T06:43:28.921Z
+updated: 2024-12-27T09:00:57.595Z
 tags:
   - win11
   - win10
@@ -35,13 +35,19 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 1. Launch Steam and navigate to**the LIBRARY tab** , then**right-click** on**It Takes Two** and select**Properties** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -53,8 +59,9 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 There are mainly two ways you can update your graphics drivers:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
@@ -70,6 +77,10 @@ There are mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -87,11 +98,12 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
 
@@ -117,9 +129,6 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -128,9 +137,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -139,9 +145,6 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -161,8 +164,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +171,26 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/uick-clip-creations-role-and-music-tango-for-2024/"><u>[New] Quick Clip Creations Role & Music Tango for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-superior-screen-quality-10-in-4ks-for-2024/"><u>[New] Superior Screen Quality – #10 in 4Ks for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-six-super-simple-free-fb-downloader-tools/"><u>[Updated] In 2024, Six Super Simple Free FB Downloader Tools</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-guide-restoring-spatial-sound-features-on-pc-win-10-and-11-edition/"><u>A Guide: Restoring Spatial Sound Features on PC - Win 10 and 11 Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/amds-zen-daddy-mike-clark-reveals-upcoming-zen-5-release-and-shift-towards-smaller-desktop-chip-cores/"><u>AMD's 'Zen Daddy' Mike Clark Reveals Upcoming Zen 5 Release & Shift Towards Smaller Desktop Chip Cores</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhance-your-dying-light-2-gaming-resolve-frame-rate-drops-stop-the-stutters/"><u>Enhance Your Dying Light 2 Gaming: Resolve Frame Rate Drops, Stop the Stutters</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-slow-loading-on-steam-for-smoother-gaming-experience/"><u>Fixing Slow Loading on Steam for Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/football-manager-2020-stability-fix-overcoming-the-infamous-game-crashes/"><u>Football Manager 2020 Stability Fix: Overcoming the Infamous Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-microsoft-edges-exe-error-and-improve-performance-on-your-pc/"><u>How to Resolve Microsoft Edge's .exe Error and Improve Performance on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-gt-10-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix GT 10 Pro Devices</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Passcode Easily Video Inside</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-playbook-for-procuring-partners-on-youtube/"><u>In 2024, The Ultimate Playbook for Procuring Partners on YouTube</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ios-17-unveiled-an-in-depth-analysis-of-key-advantages-and-disadvantages-against-previous-ios-systems-and-android-competitors/"><u>IOS 17 Unveiled: An In-Depth Analysis of Key Advantages and Disadvantages Against Previous iOS Systems and Android Competitors</u></a></li>
+<li><a href="https://driver-install.techidaily.com/lenovo-g580-seamless-driver-updates/"><u>Lenovo G580: Seamless Driver Updates!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-elden-ring-experience-solutions-to-overcome-performance-hiccups/"><u>Optimize Elden Ring Experience: Solutions to Overcome Performance Hiccups</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-not-loading-problems-in-the-elder-scrolls-online-adventure/"><u>Overcoming 'Not Loading' Problems in The Elder Scrolls Online Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/say-goodbye-to-dead-by-daylight-disruptions-a-guide-to-seamless-gaming-performance/"><u>Say Goodbye to 'Dead by Daylight' Disruptions : A Guide to Seamless Gaming Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013052553-troubleshoot-the-notorious-mw-series-bug-6068-for-gaming-victory-pro-tips-revealed/"><u>Troubleshoot the Notorious MW Series Bug 6068 for Gaming Victory - Pro Tips Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-persistent-crashes-of-sovled-warno-game-on-your-computer/"><u>Ultimate Solution: Resolving Persistent Crashes of [SOVLED] Warno Game on Your Computer</u></a></li>
+</ul></div>
 

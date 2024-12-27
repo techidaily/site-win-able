@@ -1,7 +1,7 @@
 ---
 title: "How to Set Up and Use Hyper-V Hypervisor with Windows 10: Essential Steps"
-date: 2024-08-18T16:27:39.121Z
-updated: 2024-08-19T16:27:39.121Z
+date: 2024-12-23T00:26:23.475Z
+updated: 2024-12-27T07:02:49.502Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**World of Warships** and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4-2.jpg)
@@ -57,6 +61,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Continue** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-6.jpg)
@@ -64,8 +72,9 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics card driver
 
  Graphics card is important in determining the video game performance. If your GPU driver is wrong or outdated, you might get a lot of crashes when playing World of Warships. To solve this, you need to get the right and latest graphics driver safely. Here’re two options for you: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -94,13 +103,14 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -118,16 +128,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
 
 See if the crashing issue goes away. If not, try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Launch World of Warships in safe mode
 
  If you’re accustomed to playing World of Warships with installed modifications but found the game started to malfunction after an update, the problem is possibly related to the mods. To identify whether that’s the case, you can try the safe mode.
@@ -138,10 +142,11 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 Do the crashes disappear now? If not, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Reinstall the game
 
@@ -160,8 +165,9 @@ Do the crashes disappear now? If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 
 **5)** Paste**C:\\Users\\\[User Name\]\\AppData\\Roaming\\Wargaming.net** to the address bar and press Enter. (If you play on Steam, then go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** .)
@@ -183,8 +189,6 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +196,22 @@ Do the crashes disappear now? If not, continue to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-from-raw-footage-to-excellence-the-webcam-edition/"><u>[Updated] 2024 Approved From Raw Footage to Excellence The Webcam Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-pro-level-clarity-in-videos-with-easy-handheld-sharpening-tricks/"><u>Achieve Pro-Level Clarity in Videos with Easy Handheld Sharpening Tricks!</u></a></li>
+<li><a href="https://win-forum.techidaily.com/advanced-file-security-basics-applying-password-protection-on-text-files-using-revouninstaller/"><u>Advanced File Security Basics: Applying Password Protection on Text Files Using RevoUninstaller</u></a></li>
+<li><a href="https://win-able.techidaily.com/advanced-youtube-format-shifter-extreme-effortlessly-convert-your-favorite-youtube-videos-to-various-video-standards/"><u>Advanced YouTube Format Shifter Extreme: Effortlessly Convert Your Favorite YouTube Videos to Various Video Standards</u></a></li>
+<li><a href="https://win-able.techidaily.com/buy-the-amazing-wonderfox-app-top-of-the-line-video-to-gif-maker/"><u>Buy the Amazing WonderFox App: Top-of-the-Line Video to GIF Maker!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-samsung-galaxy-f04-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Samsung Galaxy F04 is off? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/clear-the-blackout-troubleshooting-videos-in-windows-10-and-11-without-picture-but-sound/"><u>Clear the Blackout: Troubleshooting Videos in Windows 10 and 11 Without Picture but Sound</u></a></li>
+<li><a href="https://win-able.techidaily.com/easily-transform-videos-into-m4a-format-a-simple-guide/"><u>Easily Transform Videos Into M4A Format: A Simple Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-for-changing-audio-from-ogg-to-mp3-and-back-using-audacity-software/"><u>Easy Steps for Changing Audio From OGG to MP3 (and Back) Using Audacity Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-successfully-watching-flv-videos-on-your-iphone-or-ipad/"><u>Easy Steps: Successfully Watching FLV Videos on Your iPhone or iPad</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-to-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Mirror PC to Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-obs-mastery-5-edits-that-will-elevate-your-work/"><u>In 2024, OBS Mastery 5 Edits That Will Elevate Your Work</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/by-step-save-youtube-sounds-directly-for-2024/"><u>Step-by-Step Save YouTube Sounds Directly for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/trasforma-i-tuoi-file-aiff-in-formato-wmv-online-gratuito-con-movavi/"><u>Trasforma I Tuoi File AIFF in Formato WMV Online Gratuito Con Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1726029684787-windows-11/"><u>Windows 11で動画表示の明るさ設定 - 簡単ガイド</u></a></li>
+</ul></div>
 

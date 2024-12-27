@@ -1,7 +1,7 @@
 ---
 title: "Overcome Freezing Frustration: Expert Guides You Through Six Steps to Fix MW2 PC Issues"
-date: 2024-12-17T18:41:42.466Z
-updated: 2024-12-21T20:41:47.144Z
+date: 2024-12-20T05:11:16.656Z
+updated: 2024-12-26T21:05:59.456Z
 tags:
   - win11
   - win10
@@ -50,15 +50,15 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3\. Wait until you see the following message. Then click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-586.png)
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your drivers
 
@@ -80,13 +80,13 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -100,16 +100,12 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
@@ -130,6 +126,10 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
@@ -147,15 +147,19 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Play with VPN
 
@@ -177,20 +181,20 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
@@ -202,10 +206,6 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -228,17 +228,20 @@ thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c226672
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/anthem-endless-boot-loop-solution-for-smooth-gaming-experience/"><u>Anthem Endless Boot Loop Solution for Smooth Gaming Experience</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/enhancing-imagery-with-illustrators-motion-blur-features/"><u>Enhancing Imagery with Illustrator's Motion Blur Features</u></a></li>
-<li><a href="https://win-able.techidaily.com/evil-genius-2-issue-fixing-the-silent-game-with-easy-solutions/"><u>Evil Genius 2 Issue: Fixing the Silent Game with Easy Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-troubleshoot-alienware-command-center-issues/"><u>Fixes & Solutions: How To Troubleshoot Alienware Command Center Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723000959618-halo-infinite-smoother-than-ever-fix-for-graphics-glitches-unveiled/"><u>Halo Infinite Smoother Than Ever! Fix for Graphics Glitches Unveiled.</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/in-2024-postpresence-mastering-photo-and-video-sizing-on-instagram/"><u>In 2024, PostPresence Mastering Photo and Video Sizing on Instagram</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-samsung-galaxy-xcover-6-pro-tactical-edition-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Samsung Galaxy XCover 6 Pro Tactical Edition to PC- Detailed Steps | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/photographic-prose-weaving-words-into-images-across-operating-systems-for-2024/"><u>Photographic Prose Weaving Words Into Images Across Operating Systems for 2024</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/the-videos-you-record-with-your-phone-often-dont-last-very-long-which-makes-it-a-bit-difficult-to-tell-the-entire-story-of-the-scene-you-captured-thats-why-/"><u>The Videos You Record with Your Phone Often Dont Last Very Long, Which Makes It a Bit Difficult to Tell the Entire Story of the Scene You Captured. Thats Why in This Article We Are Going to Present</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-resolve-constant-dayz-game-crashing-issues/"><u>Troubleshoot and Resolve Constant DayZ Game Crashing Issues</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-why-isnt-my-iphone-hotspot-functioning/"><u>Troubleshooting Guide: Why Isn't My iPhone Hotspot Functioning?</u></a></li>
-<li><a href="https://article-helps.techidaily.com/twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>Twitch vs YouTube An In-Depth Comparative Analysis</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-step-by-step-crafting-youtube-content-in-sony-vegas/"><u>[New] In 2024, Step-by-Step Crafting YouTube Content in Sony Vegas</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-harmonizing-content-and-platform-youtubes-brief-melodies-explained/"><u>[Updated] In 2024, Harmonizing Content and Platform YouTube's Brief Melodies Explained</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-mastering-snips-on-mac-top-5-picks-unveiled/"><u>[Updated] In 2024, Mastering Snips on Mac Top 5 Picks Unveiled</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-mastering-the-art-of-capturing-dynamic-images-on-ios-devices-for-2024/"><u>[Updated] Mastering the Art of Capturing Dynamic Images on iOS Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-blues-with-directdraw-error-resolution-expert-techniques-revealed/"><u>Beat the Blues with DirectDraw Error Resolution - Expert Techniques Revealed</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/clear-up-audio-in-youtube-a-step-by-step-guide-for-2024/"><u>Clear Up Audio in YouTube A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-unstoppable-freezing-and-crashing-issues-with-nox-player-pc-version/"><u>Fixing Unstoppable Freezing and Crashing Issues with Nox Player PC Version</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/how-to-repair-corrupt-video-files-on-macos/"><u>How to Repair Corrupt Video Files on macOS?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-obsidian-client-lag-while-streaming-and-recording/"><u>Resolved: How to Fix Obsidian Client Lag While Streaming and Recording</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-13c-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi 13C Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-fixes-for-when-your-pc-fails-to-detect-steams-vr-gear/"><u>The Ultimate Fixes for When Your PC Fails to Detect Steam's VR Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-tricks-to-stop-sims-4-from-slowing-down-expert-advice/"><u>Top Tricks to Stop Sims 4 From Slowing Down : Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/trouble-with-no-sound-in-lost-ark-learn-how-to-get-audio-functionality-back/"><u>Trouble With No Sound in Lost Ark? Learn How to Get Audio Functionality Back</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-the-secrets-understanding-the-release-roadblocks-for-guilty-gear-strive/"><u>Unlock the Secrets: Understanding the Release Roadblocks for Guilty Gear Strive</u></a></li>
 </ul></div>
 

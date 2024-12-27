@@ -1,7 +1,7 @@
 ---
 title: Effective Fixes for 'Discord Won't Open' - A Comprehensive Guide
-date: 2024-08-18T16:22:33.093Z
-updated: 2024-08-19T16:22:33.093Z
+date: 2024-12-25T00:33:18.727Z
+updated: 2024-12-27T02:31:56.474Z
 tags:
   - win11
   - win10
@@ -62,6 +62,10 @@ Recommended system requirements of FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Navigate to the**Display** tab and view your graphics card.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-3.jpg)
@@ -70,10 +74,6 @@ Recommended system requirements of FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Roll back the graphics driver
 
  Rolling back the graphics driver to a previous version that is more stable has helped a lot of players stop FIFA 21 from crashing. So, give it a shot and see how it works.
@@ -82,17 +82,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-1-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 **2)** Double-click**Display adapters** to expand the list.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Right-click your graphics card and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-3.jpg)
@@ -103,17 +100,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Choose one of the reasons according to your own situations and click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process completes, you can restart your computer for the changes to take effect. Then, launch FIFA 21 and see if the crashing issue reoccurs. If yes, please continue to the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Update your device drivers
 
  If rolling back the graphics driver doesn’t help, it’s likely that your device drivers are faulty or outdated. To fix the constant FIFA 21 crashes and avoid other potential gaming issues, you should update your device drivers to the latest version.
@@ -135,8 +137,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -145,6 +148,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
  Now that all the device drivers are up-to-date, you can expect FIFA 21 to run properly. If not, try the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Verify integrity of your game files
 
@@ -164,6 +171,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-3-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait until the process completes and go back to your pitch to test the issue. If the crashing persists, check out **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  then.
 
 #### If you’re playing on Origin
@@ -171,6 +182,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 **1)** Launch Origin and select**My Game Library** from the left pane.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click**FIFA 21** and click**Repair** .
 
@@ -181,8 +196,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Change the DirectX settings
 
  If you encountered the FIFA 21 crashing problem with a specific DirectX error, the very solution is to change the related DirectX settings of the game.
@@ -199,9 +215,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_12-33-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** After locating the right text, set DIRECTX\_SELECT as below:
 
 * If**DIRECTX\_SELECT = 1** , change**1** to**0**
@@ -214,17 +227,9 @@ C:\Users\<username>\Documents\FIFA 21
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Modify the in-game settings
 
  You may have set high in-game settings for a better visual effect and gaming experience, but if your computer is not powerful enough to cope with that, FIFA 21 will crash. You can try the following lower settings:
@@ -233,10 +238,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_17-32-34.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 **2)** Set the settings as below:
 
 * **Resolution** : Windowed Borderless
@@ -247,9 +248,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7 – Disable overlay
 
  The overlay feature you’re using may prevent FIFA 21 from working as well. To let the game runs without interruption, make sure to turn off overlay whether you’re playing on[Steam](https://tools.techidaily.com/drivereasy/download/) or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -260,9 +258,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click**FIFA 21** from the list in the left pane and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-1.jpg)
@@ -271,9 +266,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-20-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Play FIFA 21 and check if the crashes reappear. If yes, you can proceed to **[Fix 8](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### Origin
@@ -286,9 +278,6 @@ C:\Users\<username>\Documents\FIFA 21
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_11-15-03.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Untick**Enable Origin in Game for EA SPORTS FIFA 21 Ultimate Edition** , and click**Save** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/image-1.jpg)
@@ -318,8 +307,6 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -327,4 +314,26 @@ C:\Users\<username>\Documents\FIFA 21
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-unlocking-google-docs-transcription-your-complete-manual/"><u>[New] In 2024, Unlocking Google Docs Transcription Your Complete Manual</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-sustaining-youtube-cc-status-to-boost-engagement/"><u>[New] Sustaining YouTube CC Status to Boost Engagement</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-ideal-top-ten-video-calls-applications-for-alltech/"><u>[Updated] Ideal Top-Ten Video Calls Applications for Alltech</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-video-gamings-top-10-capture-card-recommendations/"><u>[Updated] Video Gaming's Top 10 Capture Card Recommendations</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-error-code-23-diagnosis-and-effective-fixes-detailed/"><u>Apex Legends Error Code 23 – Diagnosis and Effective Fixes Detailed</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-valhalla-overcoming-persistent-pc-game-crashes/"><u>Assassin's Creed Valhalla - Overcoming Persistent PC Game Crashes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-the-fun-three-techniques-for-lol-broadcasting/"><u>Capture the Fun Three Techniques for LOL Broadcasting</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-error-overcoming-valheims-unresponsive-boot/"><u>Common Error: Overcoming Valheim's Unresponsive Boot</u></a></li>
+<li><a href="https://solve-info.techidaily.com/enhance-online-engagement-with-cookiebot-technology/"><u>Enhance Online Engagement with Cookiebot Technology</u></a></li>
+<li><a href="https://win-able.techidaily.com/epic-quest-awaits-troubleshoot-baldurs-gate-freezing-and-stuttering-with-these-6-essential-fixes/"><u>Epic Quest Awaits: Troubleshoot Baldur's Gate Freezing & Stuttering with These 6 Essential Fixes!</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/from-clash-to-harmony-mastering-color-matching-in-final-cut-pro/"><u>From Clash to Harmony Mastering Color Matching in Final Cut Pro</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/googles-augmented-reality-stickers-an-in-depth-look-and-alternatives-for-2024/"><u>Google's Augmented Reality Stickers An In-Depth Look and Alternatives for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-decoding-the-quest-for-ultimate-sound-engineering-mastery-the-role-of-magix-samplitude-for-2024/"><u>New Decoding the Quest for Ultimate Sound Engineering Mastery The Role of MAGIX Samplitude for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-escape-from-tarkovs-anticheat-disconnect-error/"><u>Resolving Escape From Tarkov's 'Anticheat Disconnect Error'</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-your-2024-phasmophobia-crash-concerns-comprehensive-guide/"><u>Resolving Your 2024 Phasmophobia Crash Concerns - Comprehensive Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-the-game-from-quitting-resolve-your-issues-with-assassins-creed-valhalla/"><u>Stop the Game From Quitting: Resolve Your Issues with Assassin's Creed Valhalla</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/top-15-creative-ways-to-use-filters-on-snapchat-for-2024/"><u>Top 15 Creative Ways to Use Filters on Snapchat for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-poe-crashes-ultimate-guide-to-unfreeze-path-of-exile/"><u>Troubleshooting POE Crashes: Ultimate Guide to Unfreeze Path of Exile</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-pc-lag-issues-in-outlast-freedom/"><u>Ultimate Guide: Resolving PC Lag Issues in Outlast Freedom</u></a></li>
+</ul></div>
 

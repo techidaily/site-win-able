@@ -1,7 +1,7 @@
 ---
 title: Expert Advice on Correcting Discord Instability Problems
-date: 2024-12-14T22:07:53.490Z
-updated: 2024-12-22T01:01:53.892Z
+date: 2024-12-22T19:57:52.543Z
+updated: 2024-12-27T00:22:47.499Z
 tags:
   - win11
   - win10
@@ -39,10 +39,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -90,6 +86,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Install the latest game patch
 
  The developers of The Division 2 release regular game patches to fix bugs. It’s possible that a recent patch has triggered the game crash issue, and that a new patch is required to fix it.
@@ -112,10 +112,6 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -146,6 +142,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Epic Game Launcher
 
  1) In Epic Game Launcher, navigate to your**Library** .
@@ -158,14 +158,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-123.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Launch the game after verifying the game file to see if this fix works. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Run Windows Compatibility Troubleshooter
@@ -182,6 +178,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
@@ -189,6 +189,10 @@ thumbnail: https://thmb.techidaily.com/6de10ca092ea22440e0ee57b0e4d9c17ed8937d0a
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -223,7 +227,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-152.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  5)**Check the box** next to**Automatically manage paging file size for all drives** . Then click OK to save the changes.
@@ -242,10 +246,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-154-1024x744.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Set**Spot Shadows** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-155-1024x744.png)
@@ -254,20 +254,20 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Set**Vegetation Quality** to**Medium** .
@@ -275,7 +275,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  7)**Turn off Local Reflection Quality** .
@@ -317,22 +317,24 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-ease-into-content-creation-crafting-the-top-10-accessible-youtube-videos/"><u>[New] 2024 Approved Ease Into Content Creation Crafting the Top 10 Accessible YouTube Videos</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-essential-tips-for-enhancing-posts-on-snapchat-for-2024/"><u>[New] Essential Tips for Enhancing Posts on Snapchat for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-the-video-creators-guide-to-igtv-and-youtube-finding-the-right-fit/"><u>[Updated] 2024 Approved The Video Creator’s Guide to IGTV & YouTube Finding the Right Fit</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-camrecorder-essential-techniques-for-gaming-pros-for-2024/"><u>[Updated] CamRecorder Essential Techniques for Gaming Pros for 2024</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/buyers-guide-to-selecting-between-a-roku-or-fire-tv-stick/"><u>Buyer's Guide to Selecting Between a Roku or Fire TV Stick</u></a></li>
-<li><a href="https://program-issues.techidaily.com/effective-water-management-ensures-that-crops-receive-adequate-moisture-with-minimal-waste-preventing-erosion-and-nutrient-runoff-which-are-essential-for-th588/"><u>Effective Water Management Ensures that Crops Receive Adequate Moisture with Minimal Waste, Preventing Erosion and Nutrient Runoff, Which Are Essential for the Sustainability of Agricultural Lands</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/the-unknown-how-to-start-and-flourish-as-a-travel-videographer-for-2024/"><u>Into the Unknown How To Start & Flourish As a Travel Videographer for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-cleanup-the-ultimate-tips-for-removing-data-sheets-in-excel/"><u>Mastering Cleanup: The Ultimate Tips for Removing Data Sheets in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-excel-tutorial-on-adding-and-tweaking-signature-lines-for-professional-correspondence/"><u>Mastering Excel: Tutorial on Adding & Tweaking Signature Lines for Professional Correspondence</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-excels-textafter-function-a-comprehensive-guide-to-efficient-data-retrieval/"><u>Mastering Excel's TEXTAFTER Function: A Comprehensive Guide to Efficient Data Retrieval</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-microsoft-excel-a-comprehensive-guide-on-leveraging-the-subtotal-formula/"><u>Mastering Microsoft Excel: A Comprehensive Guide on Leveraging the Subtotal Formula</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-precision-three-techniques-to-alter-decimals-in-ms-excel/"><u>Mastering Precision: Three Techniques to Alter Decimals in MS Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-rule-based-cell-highlights-a-step-by-step-guide-to-conditional-formatting-in-excel/"><u>Mastering Rule-Based Cell Highlights: A Step-by-Step Guide to Conditional Formatting in Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-summation-the-ultimate-guide-to-adding-numbers-with-microsoft-excel/"><u>Mastering Summation: The Ultimate Guide to Adding Numbers with Microsoft Excel</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-treemaps-in-excel-techniques-for-designing-tailored-data-diagrams/"><u>Mastering Treemaps in Excel: Techniques for Designing Tailored Data Diagrams</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-5-from-itel-p55t-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 5 from Itel P55T to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-windows-player-failure-due-to-non-existent-sources-expert-fixes/"><u>Troubleshooting Windows Player Failure Due to Non-Existent Sources - Expert Fixes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-gb-games-selecting-pc-emulators-to-simulate-gba-perfectly/"><u>[New] In 2024, Essential GB Games Selecting PC Emulators to Simulate GBA Perfectly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tier-hdr-camera-selection-made-easy/"><u>[Updated] Top-Tier HDR Camera Selection Made Easy</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/assemble-mp3-files-with-powerpoint-narratives-for-2024/"><u>Assemble MP3 Files with PowerPoint Narratives for 2024</u></a></li>
+<li><a href="https://win-web3.techidaily.com/enhancing-user-interactions-crafting-improved-conversations-with-emeditor-your-advanced-text-editing-solution/"><u>Enhancing User Interactions: Crafting Improved Conversations with EmEditor - Your Advanced Text Editing Solution</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ethical-concerns-with-ai-derived-windows-11-codes/"><u>Ethical Concerns with AI-Derived Windows 11 Codes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/fix-your-startech-hardware-issues-in-windows-systems-win1187-expert-solutions-revealed/"><u>Fix Your StarTech Hardware Issues in Windows Systems (Win11/8/7): Expert Solutions Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/horizon-zero-dawn-pc-performance-optimized-fixing-the-notorious-crash-problems/"><u>Horizon Zero Dawn PC Performance Optimized: Fixing the Notorious Crash Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audiovisual-harmony-perfecting-voiceover-in-videos/"><u>In 2024, Audiovisual Harmony Perfecting Voiceover in Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/navigating-computer-lifecycle-challenges-in-202n4-expert-advice-to-fix-last-epoch-crash-on-your-device/"><u>Navigating Computer Lifecycle Challenges in 202N4: Expert Advice to Fix Last Epoch Crash on Your Device</u></a></li>
+<li><a href="https://win-able.techidaily.com/nba-2k23-fixed-discover-the-ultimate-7-tricks-to-prevent-gaming-glitches-on-your-computer/"><u>NBA 2K23 Fixed? Discover the Ultimate 7 Tricks to Prevent Gaming Glitches on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hiccups-in-total-war-warhammer-iii-for-a-seamless-gaming-experience-on-windows/"><u>Overcoming Performance Hiccups in TOTAL WAR: WARHAMMER III for a Seamless Gaming Experience on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-resolve-for-path-of-exile-avoid-game-connection-issues/"><u>Quick Resolve for 'Path of Exile': Avoid Game Connection Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-the-minecraft-launcher-error-0x803f8001-on-windows-11-and-10/"><u>Resolved: Fixing the Minecraft Launcher Error 0X803F8001 on Windows 11 & 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fix-when-windows-11s-spotlight-service-fails-to-display-images/"><u>Step-by-Step Fix: When Windows 11'S Spotlight Service Fails to Display Images</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-on-preventing-and-resolving-ring-of-elysium-software-interruptions/"><u>The Definitive Guide on Preventing and Resolving 'Ring of Elysium' Software Interruptions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-a34-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy A34 5G Location | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-solving-frequent-ark-survival-ascended-game-crashes-on-your-computer/"><u>Ultimate Troubleshooting Tips for Solving Frequent ARK: Survival Ascended Game Crashes on Your Computer</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-iphone-17-details-anticipated-launch-timeline-pricing-and-feature-rumors/"><u>Unveiling iPhone 17 Details: Anticipated Launch Timeline, Pricing & Feature Rumors</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-on-horizon-the-complete-guide-to-the-google-pixel-watch-3-expected-launch-cost-estimates-and-specs/"><u>What's on Horizon? The Complete Guide to the Google Pixel Watch 3 - Expected Launch, Cost Estimates & Specs</u></a></li>
 </ul></div>
 

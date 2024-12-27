@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Disruptions: Eliminating Stutters and Freezes During Fortnite Sessions on PC"
-date: 2024-12-20T17:13:27.426Z
-updated: 2024-12-21T17:36:16.942Z
+date: 2024-12-22T08:07:41.728Z
+updated: 2024-12-27T11:15:48.783Z
 tags:
   - win11
   - win10
@@ -24,10 +24,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How do I fix Cortana not working?
 
  Here are 5 methods you can try to fix this glitch. Please work your way down the list until you find the that works.
@@ -38,13 +34,13 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 2: Check your region and language settings
 
@@ -58,6 +54,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
@@ -66,15 +66,7 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5) Try Cortana again to see if it works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
@@ -85,7 +77,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Check for updates** .
@@ -93,7 +85,7 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3) Install the available updates.
@@ -120,6 +112,10 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -135,6 +131,10 @@ Or click  **Update All** to automatically download and install the correct versi
  1) Type **Cortana**  in the search box from Start and click **Cortana & Search settings**  from the top.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb16d80e39a.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the button beside **On** in **Hey Cortana** to turn off it. You should then see the **Off**  status.
 
@@ -164,20 +164,14 @@ Or click  **Update All** to automatically download and install the correct versi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-best-7-dslr-vlogging-cameras/"><u>[New] 2024 Approved Best 7 DSLR Vlogging Cameras</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-5-best-finger-tech-for-virtual-reality-mastery/"><u>[Updated] In 2024, 5 Best Finger Tech for Virtual Reality Mastery</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-unlock-full-potential-of-zoom-in-windows-10/"><u>[Updated] Unlock Full Potential of Zoom in Windows 10</u></a></li>
-<li><a href="https://win-able.techidaily.com/black-screen-issue-resolution-tactics-covered-here/"><u>Black Screen Issue Resolution Tactics Covered Here</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-download-speeds-on-ubisoft-connect-platforms/"><u>Boosting Download Speeds on Ubisoft Connect Platforms</u></a></li>
-<li><a href="https://techtrends.techidaily.com/desktop-decisions-unpacked-understanding-the-top-8-purchasing-criteria/"><u>Desktop Decisions Unpacked: Understanding the Top 8 Purchasing Criteria</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/effective-fixes-for-unresponsive-zoom-mics-on-windows-10-and-11-devices/"><u>Effective Fixes for Unresponsive Zoom Mics on Windows 10 and 11 Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/efficient-guide-downloading-and-updating-canon-mp560-printer-drivers/"><u>Efficient Guide: Downloading and Updating Canon MP560 Printer Drivers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-oppo-reno-11f-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Oppo Reno 11F 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-xs-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone XS Max and iPad</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-staring-at-darkness-effective-fixes-for-elden-rings-black-screen-hurdle/"><u>No More Staring at Darkness: Effective Fixes for Elden Ring's Black Screen Hurdle</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-pc-issues-comprehensive-guide-to-avoiding-lost-ark-game-crashes/"><u>Resolving PC Issues: Comprehensive Guide to Avoiding Lost Ark Game Crashes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-valorant-lag-issues-optimize-performance-on-pc-2024-edition/"><u>Solving Valorant Lag Issues - Optimize Performance on PC, 2024 Edition</u></a></li>
-<li><a href="https://some-tips.techidaily.com/strategies-dadoption-des-technologies-dans-lindustrie-de-lassurance-un-plan-detaille/"><u>Stratégies D'Adoption Des Technologies Dans L'Industrie De L'Assurance : Un Plan Détaillé</u></a></li>
-<li><a href="https://win-able.techidaily.com/tower-of-fantasy-on-pc-ultimate-fix-guide-to-stop-the-constant-crashing/"><u>Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing!</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-unlocking-the-power-of-visuals-zooms-filter-guide/"><u>[New] 2024 Approved Unlocking the Power of Visuals Zoom's Filter Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/achieve-smooth-frame-rates-in-ark-scorched-earth-optimizing-pc-settings-for-the-ultimate-fps-boost/"><u>Achieve Smooth Frame Rates in ARK: Scorched Earth - Optimizing PC Settings for the Ultimate FPS Boost</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-ways-to-overcome-csgo-no-user-onboard-errors-and-get-back-in-action/"><u>Best Ways to Overcome CSGO No User Onboard Errors and Get Back in Action</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-realme-12-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/how-to-fix-a-non-detected-network-card-issue-with-ease-guided-by-yl-tech-experts/"><u>How to Fix a Non-Detected Network Card Issue with Ease - Guided by YL Tech Experts</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Is Fake GPS Location Spoofer a Good Choice On Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-troubleshooters-manual-eliminating-fifa-20-pc-crashing-problems-once-and-for-all/"><u>The Ultimate Troubleshooter's Manual: Eliminating FIFA 20 PC Crashing Problems Once and For All</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-why-your-steelseries-gg-gamepad-fails-to-work-with-windows-os/"><u>Troubleshooting Guide: Why Your SteelSeries GG Gamepad Fails to Work with Windows OS</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-pc-audio-issues-boosting-your-windows-10-systems-speakers/"><u>Troubleshooting PC Audio Issues: Boosting Your Windows 10 System's Speakers</u></a></li>
 </ul></div>
 

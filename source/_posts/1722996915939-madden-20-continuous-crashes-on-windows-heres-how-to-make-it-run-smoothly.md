@@ -1,7 +1,7 @@
 ---
 title: Madden 20 Continuous Crashes on Windows? Here's How to Make It Run Smoothly
-date: 2024-08-18T16:26:08.423Z
-updated: 2024-08-19T16:26:08.423Z
+date: 2024-12-20T18:35:40.344Z
+updated: 2024-12-26T19:55:21.508Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/f03d30631576de9c6f4ebbf1b70482dc429c1bbf9
 
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix**Madden 20** crashing
 
  Here are 5 fixes that have helped other users resolve the**Madden 20** **crashing** issue. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 3. **[Repair Madden 20](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Origin and Madden 20](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your device drivers
 
@@ -47,15 +55,16 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -86,9 +95,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
@@ -105,9 +111,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -127,8 +130,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -137,18 +141,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -164,8 +156,9 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -188,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +188,18 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blast-from-the-past-top-1980s-vhs-techniques-to-infect-your-edits-with-flair/"><u>[New] Blast From the Past Top 1980S VHS Techniques to Infect Your Edits with Flair</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-highest-rated-slow-mo-camera-applications-iphonesandroid/"><u>[New] Highest Rated Slow Mo Camera Applications, iPhones/Android</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-conquer-social-media-optimal-video-converters-for-twitters/"><u>[Updated] Conquer Social Media Optimal Video Converters for Twitters</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/hp-envy-27-4k-usb-c-monitor-review/"><u>HP Envy 27 4K USB-C Monitor Review</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/instant-download-of-amd-ryzen-5-2400g-drivers-seamless-setup-tips/"><u>Instant Download of AMD Ryzen 5 2400G Drivers - Seamless Setup Tips</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/picshot-the-gateway-to-elegant-photographic-assemblies/"><u>Picshot The Gateway to Elegant Photographic Assemblies</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-guide-accessing-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>Solution Guide: Accessing Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-free-compatible-enhancements-for-kodi-20-and-19-boost-your-experience/"><u>Top Free Compatible Enhancements for Kodi 20 & 19: Boost Your Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-free-gospel-songs-effortless-downloading-from-youtube-and-more/"><u>Ultimate Guide to FREE Gospel Songs: Effortless Downloading From YouTube & More!</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-installation-tips-for-streaming-classic-sweet-and-salty-treats-on-your-kodi-device-with-leia-and-krypton-themes/"><u>Ultimate Installation Tips for Streaming Classic Sweet and Salty Treats on Your Kodi Device with Leia and Krypton Themes</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows/"><u>Windows上で動画形式のファイルサイズ調整ガイド</u></a></li>
+</ul></div>
 

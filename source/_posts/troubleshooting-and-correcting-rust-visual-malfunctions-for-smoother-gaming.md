@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Correcting Rust Visual Malfunctions for Smoother Gaming
-date: 2024-12-16T20:20:15.657Z
-updated: 2024-12-21T19:25:01.140Z
+date: 2024-12-22T10:46:36.123Z
+updated: 2024-12-27T11:11:11.657Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix CoD Vanguard Crashing
 
  Here are seven fixes that have helped other users resolve their CoD Vanguard crashing problem. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -33,10 +37,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Repair system files
 
@@ -72,16 +72,16 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28ad73ad4a9.png)
 2. Click**Yes** when prompted to confirm.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -98,11 +98,15 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your PC for the changes to take effect.
@@ -130,16 +134,8 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
@@ -155,7 +151,15 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable overlays
 
@@ -166,7 +170,7 @@ To check the specs of your PC:
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
@@ -191,10 +195,6 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
@@ -222,16 +222,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/updated-step-by-step-analysis-mastering-xmedia-studio-software/"><u>[Updated] Step by Step Analysis Mastering XMedia Studio Software</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/932070-9780307816528-beyond-supernature/"><u>Beyond Supernature | Free Book</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-microsoft-edge-crashes-in-windows-10-solutions-and-tips/"><u>Fix Microsoft Edge Crashes in Windows 10 – Solutions and Tips</u></a></li>
-<li><a href="https://games-able.techidaily.com/gaming-audio-breakthroughs-next-gen-iems-discussed/"><u>Gaming Audio Breakthroughs: Next Gen IEMs Discussed</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/get-ready-to-play-updated-windows-11-driver-for-amd-radeon-hd-6950/"><u>Get Ready to Play: Updated Windows 11 Driver for AMD Radeon HD 6950</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-realme-gt-5-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Realme GT 5 | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-can-life360-track-you-when-your-oppo-find-x7-ultra-is-off-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track You When Your Oppo Find X7 Ultra is off? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-naraka-bladepoints-performance-a-step-by-nstep-solution-to-fix-stuttering-and-boost-fps/"><u>Master Naraka: Bladepoint's Performance: A Step-by-nStep Solution to Fix Stuttering and Boost FPS</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-dreaded-warzone-error-code-5573-on-pc-and-consoles-a-step-by-step-guide/"><u>Solving the Dreaded Warzone Error Code 5573 on PC and Consoles: A Step-by-Step Guide</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ecret-technique-for-instantaneous-deletion-of-youtube-discussions-for-2024/"><u>The Secret Technique for Instantaneous Deletion of Youtube Discussions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-rainbow-six-siege-overcoming-the-3-0x0001000b-glitch/"><u>Troubleshooting Tips for Rainbow Six Siege: Overcoming the 3-0X0001000B Glitch</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-smartphone-identity-iphone-x-and-galaxy-phones-through-the-lens-of-faces/"><u>2024 Approved Smartphone Identity IPhone X and Galaxy Phones Through the Lens of Faces</u></a></li>
+<li><a href="https://article-tips.techidaily.com/choosing-the-finest-10-free-subtitles-editors-online-for-2024/"><u>Choosing the Finest 10 Free Subtitles Editors Online for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-glitch-bustling-techniques-to-mend-your-devices-fluttering-image-issues/"><u>Conquer the Glitch: Bustling Techniques to Mend Your Device's Fluttering Image Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/decoding-winwordexe-errors-your-go-to-list-of-effortless-fixes-to-restore-microsoft-wordpad-functionality/"><u>Decoding WINWORD.EXE Errors - Your Go-To List of Effortless Fixes to Restore Microsoft WordPad Functionality</u></a></li>
+<li><a href="https://techtrends.techidaily.com/discover-the-latest-on-samsungs-upcoming-galaxy-watch-n-cost-and-features-inside/"><u>Discover the Latest on Samsung's Upcoming Galaxy Watch N - Cost & Features Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-fixes-for-prolonged-start-up-of-star-wars-battlefront-ii-on-pcs/"><u>Efficient Fixes for Prolonged Start-Up of Star Wars: Battlefront II on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-mass-effect-legendary-edition-from-stopping-unexpectedly-tips-for-xbox-and-computer-players/"><u>How To Stop Mass Effect Legendary Edition From Stopping Unexpectedly - Tips for Xbox & Computer Players</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-oppo-a58-4g-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Oppo A58 4G Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-premier-edits-the-ultimate-filmmakers-guide/"><u>In 2024, Premier Edits The Ultimate Filmmaker's Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-srt-files-unveiled-creating-and-optimizing-guide/"><u>In 2024, SRT Files Unveiled Creating and Optimizing Guide</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/koreas-daily-language-puzzle-solved/"><u>Korea's Daily Language Puzzle Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-persistent-steam-stalls-tips-for-smooth-gameplay/"><u>Solving Persistent Steam Stalls: Tips for Smooth Gameplay</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-ultimate-companion-for-recording-google-video-calls-for-2024/"><u>The Ultimate Companion for Recording Google Video Calls for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-apples-wellness-platform-discover-its-impact-on-personal-fitness-with-zdnet-analysis/"><u>Unveiling Apple's Wellness Platform: Discover Its Impact on Personal Fitness with ZDNet Analysis</u></a></li>
 </ul></div>
 

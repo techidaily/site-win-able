@@ -1,7 +1,7 @@
 ---
 title: "Troubleshoot Fixes for NW_Store.exe Errors: Step-by-Step Instructions"
-date: 2024-08-18T16:24:48.005Z
-updated: 2024-08-19T16:24:48.005Z
+date: 2024-12-23T06:11:24.670Z
+updated: 2024-12-27T02:18:22.305Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ New Grounded patch is live! However, many players reported that Grounded keeps c
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Play single-player in the offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Make sure your PC meets the minimum specs for Grounded
 
  Game crashes will occur if your machine isn’t powerful enough to play Grounded. So before we move on to more in-depth fixes, it’s necessary to confirm your PC meets the game’s minimum system requirements.
@@ -51,6 +55,10 @@ Here are Grounded’s minimum specs:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select the**Display** tab and check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
@@ -60,8 +68,9 @@ Here are Grounded’s minimum specs:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Temporarily disable your anti-virus programs
 
  Anti-virus programs can interfere with Grounded and stop it from running properly. To test if they’re the causes, you could temporarily disable your anti-virus programs and relaunch Grounded.
@@ -100,9 +109,6 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
@@ -116,6 +122,10 @@ If the problem persists, move towards the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
  Many players reported that Grounded crashes in the DirectX 12 mode. In this case, you can force the game to run on DirectX 11 and see if the problem is solved.
@@ -124,16 +134,10 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have an older version such as DirectX 10 or DirectX 9, you may need to **[update DirectX](https://tools.techidaily.com/drivereasy/download/)**  to run the game.
 
 **3)** Launch Steam, and click the**Library** tab.
@@ -141,8 +145,9 @@ If the problem persists, move towards the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
@@ -155,20 +160,21 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Relaunch Grounded to check if the issue is solved. If not, there’s another fix for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -182,16 +188,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-2-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Play single-player in the offline mode
 
@@ -205,16 +216,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Click**Restart in offline mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
@@ -237,8 +242,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +249,24 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-filming-made-simple-steps-for-pcs-iphones-and-macbooks/"><u>[New] Filming Made Simple Steps for PCs, iPhones & MacBooks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-gecata-game-recorder-review/"><u>[Updated] 2024 Approved Gecata Game Recorder Review</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-surviving-in-mc-6-home-ideas/"><u>[Updated] Surviving in MC 6 Home Ideas</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-2042-pc-crashes-no-more-expert-advice-for-a-smooth-gaming-experience/"><u>Battlefield 2042 PC Crashes No More - Expert Advice for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-minecraft-hiccups-and-enjoy-uninterrupted-gaming-expert-advice-for-your-pc/"><u>Fix Minecraft Hiccups & Enjoy Uninterrupted Gaming - Expert Advice for Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-to-overcome-frequent-freezes-and-clashes-with-moon-software-on-pc-systems/"><u>Guide to Overcome Frequent Freezes & Clashes with Moon Software on PC Systems</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-discover-the-best-glitch-video-editors-for-desktop-and-online-use/"><u>In 2024, Discover the Best Glitch Video Editors for Desktop and Online Use</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/interactive-steps-to-peruse-windows-11s-registry-contents/"><u>Interactive Steps to Peruse Windows 11'S Registry Contents</u></a></li>
+<li><a href="https://win-able.techidaily.com/login-keyboard-errors-effective-fixes-and-tips-for-immediate-resolution/"><u>Login Keyboard Errors: Effective Fixes and Tips for Immediate Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gamers-rejoice-fix-your-dragons-dogma-2-crash-problem-today/"><u>PC Gamers Rejoice! Fix Your Dragon's Dogma 2 Crash Problem Today</u></a></li>
+<li><a href="https://games-able.techidaily.com/redefining-your-gaming-space-ps5/"><u>Redefining Your Gaming Space (PS5)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-assassins-creed-valhalla-lag-and-crashes-2024-update-tips/"><u>Resolving Assassin's Creed Valhalla Lag and Crashes: 2024 Update Tips</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-networking-platform-launches-precision-moderation-aids/"><u>Social Networking Platform Launches Precision Moderation Aids</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-guide-operating-the-mobile-app-for-drivereasy/"><u>Step-by-Step Guide: Operating the Mobile App for DriverEasy</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tutorial-to-resolve-game-crash-issues-on-nioh-2-complete/"><u>Step-by-Step Tutorial to Resolve Game-Crash Issues on Nioh 2 (Complete)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-guide-to-free-software-for-turning-mkv-content-into-dvd-ready-media/"><u>The Ultimate Guide to Free Software for Turning MKV Content Into DVD-Ready Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-for-a-non-responsive-corsair-icue-interface/"><u>Troubleshooting Steps for a Non-Responsive Corsair iCUE Interface</u></a></li>
+</ul></div>
 

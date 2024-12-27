@@ -1,7 +1,7 @@
 ---
 title: Team Fortress 2 Now Running Smoothly After Initial Glitches
-date: 2024-08-18T16:26:50.828Z
-updated: 2024-08-19T16:26:50.828Z
+date: 2024-12-22T20:17:38.215Z
+updated: 2024-12-26T18:00:36.335Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -38,9 +42,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -67,9 +68,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -86,9 +84,11 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -100,6 +100,10 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -108,9 +112,6 @@ Or
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -119,10 +120,11 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
@@ -149,9 +151,14 @@ Or
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
@@ -177,8 +184,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +191,24 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-boosting-your-zoom-meetings-chromebook-edition/"><u>[New] 2024 Approved Boosting Your Zoom Meetings Chromebook Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamers-blueprint-for-money-making/"><u>[Updated] In 2024, Gamer’s Blueprint for Money-Making</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-soaring-sights-dissecting-the-gopro-karma-drones-features-for-2024/"><u>[Updated] Soaring Sights Dissecting the GoPro Karma Drone's Features for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/vobmp4-5/"><u>「オンラインですぐに - VOBからMP4への最適なコンバーター ベスト5ピックアップ！」</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-easy-video-to-audio-extraction-turn-your-videos-into-high-quality-mp3s/"><u>1. Easy Video-to-Audio Extraction: Turn Your Videos Into High-Quality MP3s</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-seamlessly-integrate-a-dvd-video-into-your-microsoft-powerpoint-presentations/"><u>1. Seamlessly Integrate a DVD Video Into Your Microsoft PowerPoint Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-universal-3gp-format-transformer-seamless-conversion-between-3gp-and-popular-video-types-like-mp4-avi-mkv/"><u>1. Universal 3GP Format Transformer: Seamless Conversion Between 3GP and Popular Video Types Like MP4, AVI, MKV</u></a></li>
+<li><a href="https://fox-within.techidaily.com/figma-pro-mastery-unlocking-efficiency-with-horizon-ai-boilerplate-plus-design-excellence-by-creative-tim/"><u>Figma Pro Mastery: Unlocking Efficiency with Horizon AI Boilerplate PLUS | Design Excellence by Creative Tim</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-oppo-k11x-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Oppo K11x Through Google Earth?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/premier-video-capture-systems-for-online-streaming-for-2024/"><u>Premier Video Capture Systems for Online Streaming for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/revisiting-sound-quality-with-logitech-g533-review/"><u>Revisiting Sound Quality with Logitech G533 Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-1011wma/"><u>Windows 10/11におけるWMAファイルの効果的な編集テクニック</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10vr/"><u>Windows 10上でVRオーディオファイル再生方法とトラブルシューティング手順</u></a></li>
+<li><a href="https://win-able.techidaily.com/wmvmp4-8windowsmac/"><u>WMVからMP4へ無料コンバータ: 最高の8つのソフトウェアプログラムはWindowsやMacにぴったり!</u></a></li>
+<li><a href="https://win-able.techidaily.com/youtubetiktok/"><u>トレンディなカットアウト動画を制作するためのテクニック - YouTube・TikTok編集者へ</u></a></li>
+</ul></div>
 

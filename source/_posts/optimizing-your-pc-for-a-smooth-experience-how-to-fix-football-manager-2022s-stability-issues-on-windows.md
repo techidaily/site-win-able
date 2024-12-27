@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your PC for a Smooth Experience: How to Fix Football Manager 2022'S Stability Issues on Windows"
-date: 2024-08-18T16:25:36.789Z
-updated: 2024-08-19T16:25:36.789Z
+date: 2024-12-22T23:25:02.194Z
+updated: 2024-12-27T05:12:09.801Z
 tags:
   - win11
   - win10
@@ -55,21 +55,19 @@ thumbnail: https://thmb.techidaily.com/be7eb26b929d376d352a2b6560c781f129b853a98
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Psychonauts 2 to see if the game crashes again.
 
 If the issue persists, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -80,13 +78,18 @@ If the issue persists, go ahead with the next fix.
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -98,9 +101,17 @@ If the crashing issue remains, continue to the next fix.
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Check your firewall and antivirus settings
 
@@ -111,40 +122,29 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Psychonauts 2
 
  If none of the fixes above help you in resolving the crashing issue in Psychonauts 2, you can try reinstalling the game as a last resort. Some gamers have reported that reinstalling the game alleviates this issue. So you can give it a shot.
@@ -161,8 +161,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +168,22 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-securing-your-videos-on-facebook-pc-plus-android-methods/"><u>[New] Securing Your Videos on Facebook PC + Android Methods</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-speak-loud-and-clear-on-tiktok-a-comprehensible-guide-for-2024/"><u>[New] Speak Loud and Clear on TikTok - A Comprehensible Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-leverage-audience-engagement-through-strategic-posting-for-2024/"><u>[Updated] Leverage Audience Engagement Through Strategic Posting for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/adjusting-windows-files-write-access-no-more-restrictions/"><u>Adjusting Windows Files: Write Access No More Restrictions</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apple-vision-pro-slashed-by-200-on-amazon-limited-time-offer-find-out-why-at-zdnet/"><u>Apple Vision Pro Slashed by $200 on Amazon - Limited Time Offer! Find Out Why at ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/assassins-creed-unity-performance-tweaks-stop-game-crashing-in-2-the-1st-quarter-of-2024/"><u>Assassin's Creed Unity Performance Tweaks: Stop Game Crashing in 2 the 1St Quarter of 2024!</u></a></li>
+<li><a href="https://win-able.techidaily.com/division-2-not-opening-expert-advice-and-fixes-to-try/"><u>Division 2 Not Opening? Expert Advice and Fixes to Try</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-troubleshoot-and-resolve-netflix-issues-on-your-xbox-one-console/"><u>How to Troubleshoot and Resolve Netflix Issues on Your Xbox One Console</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-how-to-write-a-script-for-a-youtube-video/"><u>In 2024, How to Write a Script for a YouTube Video</u></a></li>
+<li><a href="https://facebook.techidaily.com/master-the-marketplace-the-best-4-business-analytics-resources/"><u>Master the Marketplace: The Best 4 Business Analytics Resources</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-hurdles-in-watching-amazon-prime-videos-a-comprehensive-guide/"><u>Overcoming Hurdles in Watching Amazon Prime Videos – A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/quick-guide-capturing-screenshots-and-recording-videos-on-a-mac-using-quicktime/"><u>Quick Guide: Capturing Screenshots and Recording Videos on a Mac Using QuickTime</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-troubleshooting-steps-for-pc-crashes-in-the-witcher-3/"><u>Resolved: Troubleshooting Steps for PC Crashes in 'The Witcher 3'</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-instability-problems-a-guide-to-fixing-gas-station-tycoons-crashes-on-desktop-computers/"><u>Solving Instability Problems: A Guide to Fixing Gas Station Tycoon's Crashes on Desktop Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/ubisoft-game-maintenance-essential-troubleshooting-tips-for-a-flawless-assassins-creed-mirage-experience/"><u>Ubisoft Game Maintenance: Essential Troubleshooting Tips for a Flawless Assassin's Creed Mirage Experience</u></a></li>
+</ul></div>
 

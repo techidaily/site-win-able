@@ -1,7 +1,7 @@
 ---
 title: "Solved: Fixing PC Issues - Preventing Fallout 4 From Crashing"
-date: 2024-08-23T11:13:20.880Z
-updated: 2024-08-24T11:13:20.880Z
+date: 2024-12-20T01:47:30.987Z
+updated: 2024-12-26T17:24:20.253Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ Necromunda: Hired Gun
 
  If you play Necromunda: Hired Gun on a powerful PC and the game still keeps crashing, read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of this issue vary from player to player, here we’ve gathered the latest fixes for the crashing issue. Whether Necromunda: Hired Gun crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -61,6 +65,11 @@ Necromunda: Hired Gun
 1. Launch Steam and navigate to**LIBRARY** , then**right-click** on**Necromunda: Hired Gun** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 It may take some time to complete the verifying process.
@@ -72,15 +81,13 @@ It may take some time to complete the verifying process.
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  Graphics driver is essential to the functioning of video games. If Necromunda: Hired Gun keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -97,9 +104,6 @@ It may take some time to complete the verifying process.
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 
  You need to restart your PC after you finished updating your graphics driver.
 
@@ -110,6 +114,10 @@ It may take some time to complete the verifying process.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  Streum On Studio (the developers of Necromunda: Hired Gun) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -118,9 +126,6 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -130,10 +135,6 @@ It may take some time to complete the verifying process.
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Necromunda: Hired Gun_ . Then select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -149,8 +150,9 @@ It may take some time to complete the verifying process.
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -170,8 +172,6 @@ It may take some time to complete the verifying process.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +179,24 @@ It may take some time to complete the verifying process.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-ticklishtones-selecting-the-best-ringtones-for-smiles-for-2024/"><u>[New] TicklishTones Selecting the Best Ringtones for Smiles for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2023-access-exclusive-beats-for-free-fb-downloader-for-2024/"><u>[Updated] 2023 Access Exclusive Beats for Free - FB Downloader for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>2024 Approved Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-performance-effective-fixes-for-low-frame-rates-in-cs2/"><u>Boosting Performance: Effective Fixes for Low Frame Rates in CS2</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/dealing-with-disturbing-acoustic-issues-how-to-fix-buzz-in-audio-devices/"><u>Dealing with Disturbing Acoustic Issues: How to Fix Buzz in Audio Devices</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-access-group-policy-editor-gpeditmsc-on-windows-home-systems/"><u>How to Access Group Policy Editor (gpedit.msc) on Windows Home Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-crashing-issues-in-euro-truck-simulator-2-on-your-computer/"><u>How to Fix Crashing Issues in Euro Truck Simulator 2 on Your Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/how-to-record-and-save-voices-on-iphone-efficiently-for-2024/"><u>How to Record & Save Voices on iPhone Efficiently for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-google-pixel-8-pro-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Google Pixel 8 Pro Phone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-how-to-quickly-and-easily-share-a-youtube-playlist/"><u>In 2024, How to Quickly And Easily Share A YouTube Playlist</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-slow-gameplay-heres-how-to-resolve-it/"><u>League of Legends Slow Gameplay? Here's How to Resolve It!</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996345945-origin-back-online-after-fixes-enjoy-uninterrupted-access-again/"><u>Origin Back Online After Fixes - Enjoy Uninterrupted Access Again</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-performance-hitches-15-methods-to-enhance-destiny-2-gaming-experience/"><u>Overcoming Performance Hitches: 15 Methods to Enhance Destiny 2 Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-gaming-without-pain-easy-ways-to-address-deathloop-crashing-problems/"><u>PC Gaming Without Pain: Easy Ways to Address Deathloop Crashing Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-valorant-launch-issues-comprehensive-troubleshooting-guide/"><u>Resolving Valorant Launch Issues : Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/strategies-pour-une-desinfection-antivirus-reussie-sur-votre-appareil/"><u>Stratégies Pour Une Désinfection Antivirus Réussie Sur Votre Appareil</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722986565133-ultimate-fixes-for-starcraft-2-stability-issues-on-pc-now-working/"><u>Ultimate Fixes for StarCraft 2 Stability Issues on PC – Now Working!</u></a></li>
+</ul></div>
 

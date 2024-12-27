@@ -1,7 +1,7 @@
 ---
 title: How to Fix Microsoft Edge Stability Issues in Windows 10
-date: 2024-12-16T21:14:18.149Z
-updated: 2024-12-21T22:59:31.063Z
+date: 2024-12-23T19:01:21.777Z
+updated: 2024-12-27T09:38:27.119Z
 tags:
   - win11
   - win10
@@ -22,14 +22,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these methods
 
@@ -44,7 +44,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Run the troubleshooter
@@ -55,6 +55,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Click**Run the troubleshooter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
@@ -78,10 +82,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
@@ -89,10 +89,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -103,15 +99,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,7 +120,7 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
@@ -147,8 +143,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
@@ -165,10 +169,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -194,16 +194,17 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-virtual-horizons-the-foremost-ps-vr-games-to-await-you/"><u>[Updated] 2024 Approved Virtual Horizons The Foremost PS VR Games to Await You</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mirrorless-vs-dslr-cameras-which-is-better-for-videos/"><u>[Updated] Mirrorless Vs. DSLR Cameras Which Is Better for Videos?</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-in-depth-insight-on-effortless-photo-and-video-importers-in-windows-10/"><u>2024 Approved In-Depth Insight on Effortless Photo & Video Importers in Windows 10</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/vering-the-ins-and-outs-of-youtube-shorts-capital/"><u>Discovering the Ins and Outs of YouTube Shorts Capital</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-co-op-connectivity-issues-how-to-get-online-play-running-smoothly-again/"><u>Elden Ring Co-Op Connectivity Issues - How to Get Online Play Running Smoothly Again</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-pc-game-stability-issues-heres-how-you-fixed-it/"><u>Fortnite PC Game Stability Issues? Here's How You Fixed It!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-y100i-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo Y100i To Phone | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-premiere-pros-shadowy-showdown/"><u>In 2024, Premiere Pro's Shadowy Showdown</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-no-user-logged-in-issue-in-cs-go/"><u>Top 5 Solutions for Resolving 'No User Logged In' Issue in CS: GO</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-solving-nwstoreexe-software-failures-effectively/"><u>Troubleshooting and Solving NW_store.exe Software Failures Effectively</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-does-my-new-world-game-keep-freezing-solve-the-mystery/"><u>Why Does My 'New World' Game Keep Freezing? Solve the Mystery</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-cutting-clutter-effective-usage-of-photoshops-eraser-tool-for-2024/"><u>[New] Cutting Clutter Effective Usage of Photoshop’s Eraser Tool for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-global-streaming-giants-face-off-facebook-live-youtube-live-periscope/"><u>[Updated] 2024 Approved Global Streaming Giants' Face-Off Facebook Live, YouTube Live, Periscope</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-smart-money-making-on-youtube-shorts/"><u>[Updated] Smart Money-Making on Youtube Shorts</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-step-by-step-obs-configuration-for-smooth-broadcasting/"><u>[Updated] Step-By-Step OBS Configuration for Smooth Broadcasting</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-performance-fast-a-guide-to-effortless-shader-customization-in-swbfii/"><u>Boost Performance Fast! A Guide to Effortless Shader Customization in SWBFII</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-a-smooth-uninterrupted-gaming-experience-with-titanfall-2/"><u>Expert Tips for a Smooth, Uninterrupted Gaming Experience with Titanfall 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-guide-how-to-get-resident-evil-5-running-smoothly-on-your-pc/"><u>Fix Guide: How to Get Resident Evil 5 Running Smoothly on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-cod-modern-warfare-2-gameplay-with-these-directx-error-solutions/"><u>Fix Your COD Modern Warfare 2 Gameplay with These DirectX Error Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-my-vivo-t2x-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>How to Fix My Vivo T2x 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-rectify-silent-streams-with-obs/"><u>How to Rectify Silent Streams with OBS</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-tips-to-stop-stuttering-and-increase-fps-in-valorant/"><u>Improving Performance: Tips to Stop Stuttering & Increase FPS in VALORANT</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-transcription-mastery-for-office-productivity-using-microsoft-words-voice-recognition-features/"><u>In 2024, Transcription Mastery for Office Productivity Using Microsoft Word's Voice Recognition Features</u></a></li>
 </ul></div>
 

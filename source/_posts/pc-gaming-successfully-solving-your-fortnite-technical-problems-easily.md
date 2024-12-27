@@ -1,7 +1,7 @@
 ---
 title: "PC Gaming Successfully: Solving Your Fortnite Technical Problems Easily"
-date: 2024-08-18T16:23:53.264Z
-updated: 2024-08-19T16:23:53.264Z
+date: 2024-12-21T13:09:56.531Z
+updated: 2024-12-26T20:41:15.722Z
 tags:
   - win11
   - win10
@@ -63,8 +63,9 @@ thumbnail: https://thmb.techidaily.com/9dc3437ed1a0c4e12ecf0fe73c74b8d72b51654a1
  **You may need to upgrade your hardware if your PC fails to meet the minimum system requirements of League of Legends.**
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics driver**
 
  This issue may occur if the graphics driver on your PC is missing or outdated, so make sure your graphics driver is up to date. By updating your graphics driver, you can not only keep your graphics card in good condition, but also avoid many unexpected issue while playing games.
@@ -83,9 +84,6 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. Run **Driver Easy**  and click the **Scan Now**  button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap759.png)
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap760.png)  
  You can do it for free if you like, but it’s partly manual.  
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -112,23 +110,22 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap764.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 #### **If you’re using AMD graphics card:**
 
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap765.png)
 2. View Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap766.png)
 3. Select your **AMD Radeon Settings**   to open it.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap767.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **If you’re using Intel graphics card:**
 
@@ -137,29 +134,30 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. View Control Panel by   **Large icons**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap769.png)
 3. Select **Intel Graphics Settings**  to open it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap770.png)
 4. Click **3D**  to open the 3D settings.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap771.png)
 5. Click **Scan**  to add your **League of Legends**  to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap772.png)
 6. Modify the settings the same way you see on the screenshot below.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap773.png)
 7. Click **Apply**  to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap774.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run League of Legends again to see if the FPS will drop or not. If this issue reappears, don’t worry, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Enable low spec mode**
 
@@ -171,11 +169,16 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. **Check the box** next to**Enable Low Spec Mode** and click**DONE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run League of Legends to see if you resolved this issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 5: Initiate full repair**
 
  Corrupted game files may also be the root of this issue. If the game itself is crewed up, it can also affect the FPS in the game. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -184,18 +187,17 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. In the upper-right corner, click**the gear button**  to open the game settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 3. Click**Initiate Full Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 4. Click**Yes** to continue. This may take a while.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  See if you fixed this issue after the full repair process completed. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 6: Change the power plan of your PC and adjust your Windows system for the best performance**
 
  League of Legends FPS drop issue is also probably caused by the power plan of your PC. Most PC are configured to **Balanced** , which  limits the  operating capacity of your graphics card and CPU. So, the FPS drop issue may occur. Follow the instructions below to change the power plan of your PC and adjust your Windows system for the best performance:
@@ -205,17 +207,15 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap782.png)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap783.png)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap784.png)
 5. Select **Adjust for best performance** and click **OK**  .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap785.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -231,8 +231,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +238,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-mastery-of-visual-storytelling-advanced-techniques-with-luts-in-after-effects/"><u>[New] In 2024, Mastery of Visual Storytelling Advanced Techniques with LUTs in After Effects</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-ultimate-plan-for-streamlining-your-video-queue-on-youtube/"><u>[New] The Ultimate Plan for Streamlining Your Video Queue on YouTube</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/solved-nvidia-installer-cannot-continue/"><u>[Solved] NVIDIA Installer Cannot Continue</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-3d-modeling-software-to-use-for-animation/"><u>[Updated] 2024 Approved 3D Modeling Software to Use for Animation</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-combining-images-with-flair-your-ultimate-guide-to-instagram-stories/"><u>[Updated] Combining Images with Flair Your Ultimate Guide to Instagram Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-your-gateway-to-digital-proficiency-understanding-screen-capture-on-macbook-air/"><u>[Updated] In 2024, Your Gateway to Digital Proficiency Understanding Screen Capture on MacBook Air</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-reasons-why-obs-doesnt-record-screenshots-or-gameplay-solutions-inside/"><u>Common Reasons Why OBS Doesn't Record Screenshots or Gameplay – Solutions Inside</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-to-prevent-gta-v-from-crashing-during-playtime/"><u>Expert Tips and Fixes to Prevent GTA V From Crashing During Playtime</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-stop-valheim-from-crashing-on-your-computer/"><u>Fixes and Solutions: Stop Valheim From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-issues-with-dragon-age-origins-game-crashes-in-windows-11/"><u>Fixing Issues with Dragon Age: Origins Game Crashes in Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/guida-passo-passo-per-il-cloning-di-un-disco-gpt-in-sistemi-operativi-windows/"><u>Guida Passo-Passo per Il Cloning Di Un Disco GPT in Sistemi Operativi Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-days-gone-pc-launch-issues-a-comprehensive-guide/"><u>How to Fix 'Days Gone' PC Launch Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/inside-outlook-what-youre-missing-as-a-story-viewer/"><u>Inside Outlook What You're Missing as a Story Viewer</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-update-a-guide-for-upgrading-your-minecraft-launcher-smoothly/"><u>Mastering the Update: A Guide for Upgrading Your Minecraft Launcher Smoothly</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimize-your-valheim-experience-fix-network-latency-for-peak-performance-on-windows/"><u>Optimize Your Valheim Experience: Fix Network Latency for Peak Performance on Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/portable-monitor-test-the-viewsonic-va1655-review-neither-here-nor-there-on-every-metric/"><u>Portable Monitor Test: The ViewSonic VA1655 Review – Neither Here nor There on Every Metric</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997689592-troubleshooting-failed-monster-hunter-rise-launches-effective-fixes-revealed/"><u>Troubleshooting Failed Monster Hunter Rise Launches – Effective Fixes Revealed!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unleashing-broadcast-potential-from-obs-to-facebook-platform-for-2024/"><u>Unleashing Broadcast Potential From OBS to Facebook Platform for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-now-wrath-of-the-righteous-pathfinder-game-stabilized-and-safe-from-previous-crashes/"><u>Update Now! 'Wrath of the Righteous' Pathfinder Game Stabilized & Safe From Previous Crashes</u></a></li>
+</ul></div>
 

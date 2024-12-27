@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare 3 Performance Issues & Latency Drops Expected for Players"
-date: 2024-12-14T23:11:02.195Z
-updated: 2024-12-21T18:21:19.957Z
+date: 2024-12-22T11:54:26.536Z
+updated: 2024-12-26T20:29:45.402Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all of them. Simply work through the list until you find the one that works for you.
@@ -32,10 +36,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -72,11 +72,11 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
 
- If changing Display Mode doesn’t give you any luck, you can check out the next solution.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
 ### Fix 3: Update your graphics driver
 
@@ -89,26 +89,14 @@ You can do it with only 2 steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -124,7 +112,7 @@ And it’s quite easy to update too:
 3. Once you’ve installed the updates, restart the computer.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
@@ -139,6 +127,10 @@ And it’s quite easy to update too:
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -152,8 +144,16 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
@@ -180,22 +180,19 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-adjusting-google-meet-display-mobile-and-laptop-focus/"><u>[New] In 2024, Adjusting Google Meet Display Mobile and Laptop Focus</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-the-balance-of-serene-visuals/"><u>[New] In 2024, The Balance of Serene Visuals</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-subtitle-tactics-for-instagrams-video-feed-for-2024/"><u>[Updated] Subtitle Tactics for Instagram's Video Feed for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-top-ranked-pixel-perfection-appweb-software-for-2024/"><u>[Updated] Top-Ranked Pixel Perfection App/Web Software for 2024</u></a></li>
-<li><a href="https://change-location.techidaily.com/all-you-need-to-know-about-mega-greninja-for-samsung-galaxy-xcover-7-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/behind-the-scenes-the-reasons-behind-guilty-gear-strive-postponement-explained/"><u>Behind the Scenes: The Reasons Behind 'Guilty Gear Strive' Postponement Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/everlasting-voyages-in-sea-of-thieves-crash-errors-now-solved/"><u>Everlasting Voyages in Sea of Thieves: Crash Errors Now Solved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-preventing-resident-evil-4-remastered-from-suddenly-shutting-down/"><u>Fixing the Issue: Preventing Resident Evil 4 Remastered From Suddenly Shutting Down</u></a></li>
-<li><a href="https://win-able.techidaily.com/free-from-glitches-fixing-lag-in-call-of-duty-vanguard-effortlessly/"><u>Free From Glitches: Fixing Lag in Call of Duty: Vanguard Effortlessly</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-reconnecting-fallout-76-game-servers-on-pc/"><u>Guide: Reconnecting Fallout 76 Game Servers on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011857463-how-to-fix-witcher-3-wild-hunt-wont-launch/"><u>How to Fix Witcher 3: Wild Hunt Won’t Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-smooth-gameplay-effective-solutions-for-chivalry-2s-ping-and-latency-issues/"><u>Master Smooth Gameplay: Effective Solutions for Chivalry 2'S Ping and Latency Issues</u></a></li>
-<li><a href="https://win-answers.techidaily.com/mastering-city-skylines-2-how-to-resolve-games-initialization-hiccups/"><u>Mastering City Skylines 2: How to Resolve Game's Initialization Hiccups</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-insight-discovering-6-realistic-examples-for-2024/"><u>Metaverse Insight Discovering 6 Realistic Examples for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-the-issue-why-does-my-overwatch-2-continuously-crash-on-pc/"><u>Solving the Issue: Why Does My Overwatch 2 Continuously Crash on PC?</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-ultimate-meme-playbook-no-10-essentials/"><u>The Ultimate Meme Playbook No. 10 Essentials</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ultrawide-displays-for-gamers-best-picks-2nd3/"><u>Top Ultrawide Displays for Gamers - Best Picks 2nD3</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-frozen-olympics-spectacular-2022-highlights/"><u>[New] In 2024, Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-pioneering-tools-for-the-future-of-3d-model-and-animation-artistry-for-2024/"><u>[New] Pioneering Tools for the Future of 3D Model & Animation Artistry for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-perfecting-stability-a-no-tripod-guide/"><u>[Updated] Perfecting Stability A No-Tripod Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-precision-record-keeper-for-chromebook-for-2024/"><u>[Updated] Precision Record Keeper for ChromeBook for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/6-essential-troubleshooting-tips-to-resolve-dreamlight-valley-crashes-on-windows/"><u>6 Essential Troubleshooting Tips to Resolve Dreamlight Valley Crashes on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-microsoft-edge-from-unexpectedly-crashing-on-windows-10/"><u>How to Stop Microsoft Edge From Unexpectedly Crashing on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-performance-how-to-address-significant-dips-in-frames-per-second-fps/"><u>Improving Performance: How to Address Significant Dips in Frames Per Second (FPS)</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/inside-look-at-youtubes-digital-media-oasis/"><u>Inside Look at YouTube's Digital Media Oasis</u></a></li>
+<li><a href="https://win-able.techidaily.com/pc-conquered-by-the-valiant-warriors-of-like-a-dragon-the-newest-yakuza-saga/"><u>PC Conquered by the Valiant Warriors of 'Like a Dragon': The Newest Yakuza Saga</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-expert-advice-on-improving-download-velocity-this-year/"><u>Speeding Up Origin: Expert Advice on Improving Download Velocity This Year</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-walkthrough-of-pokemon-unite-gameplay/"><u>The Ultimate Walkthrough of Pokémon Unite Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-witcher-3-on-pc-how-to-fix-and-prevent-game-crashes/"><u>The Witcher 3 on PC: How to Fix and Prevent Game Crashes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-no-cost-web-creation-tools-zdnet-review/"><u>Top No-Cost Web Creation Tools - ZDNet Review</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-atandts-cellular-network-global-roaming-strategy/"><u>Understanding AT&T's Cellular Network Global Roaming Strategy</u></a></li>
 </ul></div>
 

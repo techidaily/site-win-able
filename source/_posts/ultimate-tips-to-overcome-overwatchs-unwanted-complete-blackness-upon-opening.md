@@ -1,7 +1,7 @@
 ---
 title: Ultimate Tips to Overcome Overwatch's Unwanted Complete Blackness Upon Opening
-date: 2024-08-18T16:26:11.168Z
-updated: 2024-08-19T16:26:11.168Z
+date: 2024-12-20T12:30:35.287Z
+updated: 2024-12-27T09:08:42.442Z
 tags:
   - win11
   - win10
@@ -62,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/819ca37a79eec3bdd5aa4e06aa1b76048f3e03078
 
  **You may need to upgrade your hardware if your PC fails to meet the minimum system requirements of League of Legends.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 2: Update your graphics driver**
 
  This issue may occur if the graphics driver on your PC is missing or outdated, so make sure your graphics driver is up to date. By updating your graphics driver, you can not only keep your graphics card in good condition, but also avoid many unexpected issue while playing games.
@@ -82,16 +86,14 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. Click **Update**  next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee  ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap760.png)  
  You can do it for free if you like, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact**Driver Easy’s support team** at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  See if this issue is fixed after you updated your graphics driver. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### **Fix 3: Modify your graphics card settings**
 
  Modifying your graphics card settings is another essential step  in resolving League of Legends FPS drop issue. Just follow the steps below to modify your graphics card settings:
@@ -105,16 +107,10 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap761.png)
 2. View Control Panel by   **Large icons**  .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap762.png)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap763.png)
 4. Click **3D Settings**  and select   **Adjust image settings with preview** . Then select **Use my preference emphasizing**  and **drag the slider to the left**  .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap764.png)
 
 #### **If you’re using AMD graphics card:**
@@ -122,9 +118,11 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. On your keyboard, press **the Windows logo key**  and **R**  at the same time to open the Run dialog. Then type **control** and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap765.png)
 2. View Control Panel by   **Large icons**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap766.png)
 3. Select your **AMD Radeon Settings**   to open it.
 4. Go to **Gaming**  **\>**  **Global Settings**  . Then modify the settings the same way you see on the screenshot below.  
@@ -139,28 +137,16 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. Select **Intel Graphics Settings**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap770.png)
 4. Click **3D**  to open the 3D settings.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap771.png)
 5. Click **Scan**  to add your **League of Legends**  to the application list.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap772.png)
 6. Modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap773.png)
 7. Click **Apply**  to save the settings.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap774.png)
 
  Run League of Legends again to see if the FPS will drop or not. If this issue reappears, don’t worry, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Fix 4: Enable low spec mode**
 
  If your PC fails to meet the recommended system requirements for League of Legends, you may need to **enable low spec mode**  to ensure that League of Legends runs smoothly. Here is how to do it:
@@ -171,7 +157,15 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. **Check the box** next to**Enable Low Spec Mode** and click**DONE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run League of Legends to see if you resolved this issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 5: Initiate full repair**
 
@@ -183,16 +177,19 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 3. Click**Initiate Full Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 4. Click**Yes** to continue. This may take a while.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if you fixed this issue after the full repair process completed. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### **Fix 6: Change the power plan of your PC and adjust your Windows system for the best performance**
 
  League of Legends FPS drop issue is also probably caused by the power plan of your PC. Most PC are configured to **Balanced** , which  limits the  operating capacity of your graphics card and CPU. So, the FPS drop issue may occur. Follow the instructions below to change the power plan of your PC and adjust your Windows system for the best performance:
@@ -200,27 +197,27 @@ There are two ways to update your graphics driver: **manually**  and **automatic
 1. On your keyboard, press  **the Windows logo key** and  **R**  at the same time, then type **powercfg.cpl**  and press  **Enter**  .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap781.png)
 2. In the pop-up window, expand **Hide additional plans**  and select **High performance**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap782.png)
 3. Type **advanced**  in the search box in the upper-right corner and then click **View advanced system settings**  .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap783.png)
 4. In the pop-up window, click **Settings…** in the **Performance**  section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap784.png)
 5. Select **Adjust for best performance** and click **OK**  .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap785.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -236,8 +233,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +240,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-breaking-barriers-with-excellent-job-interview-techniques-for-2024/"><u>[Updated] Breaking Barriers with Excellent Job Interview Techniques for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-efficient-transition-mac-users-on-the-verge-of-macos-11-big-sur-for-2024/"><u>[Updated] Efficient Transition Mac Users on the Verge of macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-virtual-venturers-guide-discovering-top-adventure-titles/"><u>[Updated] In 2024, Virtual Venturers' Guide Discovering Top Adventure Titles</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-shot-without-a-lifeline-hand-balancing-hacks/"><u>2024 Approved The Shot Without a Lifeline Hand Balancing Hacks</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-beginners-guide-mastering-video-cropping-techniques-in-davinci-resolve/"><u>Easy Beginners Guide: Mastering Video Cropping Techniques in DaVinci Resolve</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-change-your-lol-replay-from-rofl-to-mp4-format/"><u>Easy Steps to Change Your LoL Replay From .rofl to MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-tutorial-convert-any-youtube-video-into-an-animated-gif-file/"><u>Easy Tutorial: Convert Any YouTube Video Into an Animated GIF File</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-transformation-the-ultimate-tutorial-for-converting-webm-to-high-quality-m4a-audio-files/"><u>Effortless Transformation: The Ultimate Tutorial for Converting WebM to High-Quality M4A Audio Files</u></a></li>
+<li><a href="https://win-able.techidaily.com/free-dvd-ripping-tool-with-zero-watermarks-how-to-transform-your-dvds-perfectly/"><u>Free DVD Ripping Tool with Zero Watermarks - How to Transform Your DVDs Perfectly</u></a></li>
+<li><a href="https://win-able.techidaily.com/gi-joe-retaliation-dvd-unlocks-secure-your-copy-today/"><u>G.I. Joe: Retaliation DVD Unlocks - Secure Your Copy Today!</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-transforming-your-rzmmj-files-from-youtube-video-editor-into-high-quality-mp4/"><u>Guide: Transforming Your RZMMJ Files From YouTube Video Editor Into High-Quality MP4</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-journey-through-audio-production-initiating-with-auditions-fade-in/"><u>In 2024, Journey Through Audio Production Initiating with Audition’s Fade In</u></a></li>
+<li><a href="https://techtrends.techidaily.com/in-depth-analysis-of-the-fitbit-charge-6-the-ultimate-gym-companion/"><u>In-Depth Analysis of the Fitbit Charge 6 - The Ultimate Gym Companion</u></a></li>
+<li><a href="https://win-able.techidaily.com/innovative-youtube-uploaders-unconventional-methods-to-overcome-video-upload-challenges/"><u>Innovative YouTube Uploaders: Unconventional Methods to Overcome Video Upload Challenges</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/step-by-step-guide-installing-handbrake-with-libdvdcss-on-macos-monterey-and-windows-11-visual-instructions-included/"><u>Step-by-Step Guide: Installing Handbrake with Libdvdcss on macOS Monterey and Windows 11 – Visual Instructions Included</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/streamlining-the-process-of-making-smaller-images-tips-and-tricks/"><u>Streamlining the Process of Making Smaller Images Tips & Tricks</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-samsung-galaxy-a24-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Samsung Galaxy A24 Phone Network-Ready</u></a></li>
+</ul></div>
 

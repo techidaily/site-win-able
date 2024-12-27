@@ -1,7 +1,7 @@
 ---
 title: "Solving Splitgate Performance Issues: Increase Your FPS & Eliminate Stutter"
-date: 2024-12-15T21:26:41.534Z
-updated: 2024-12-21T18:23:59.173Z
+date: 2024-12-21T08:38:40.625Z
+updated: 2024-12-27T03:19:48.216Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try all the solutions. Simply work down the list until you find the one that gives you luck.
@@ -34,10 +38,6 @@ The recent hotfix by Riot didn’t seem to fix the stuttering issue in Valorant,
 4. **[Lower your mouse report rate](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Turn on VSync](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Empty Standby Memory](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Install all Windows updates
 
@@ -55,10 +55,6 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -66,10 +62,6 @@ Here’s how you can check for updates manually:
  Once you’ve installed all the updates, do a reboot and check if the stuttering issue persists.
 
 If this fix doesn’t help you, take a look at the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Change your power plan
 
@@ -83,7 +75,7 @@ If this fix doesn’t help you, take a look at the next one below.
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
@@ -124,10 +116,14 @@ To do so, first visit the website of your GPU manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -142,11 +138,11 @@ If the latest driver doesn’t help you, check out the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/valorant-report-rate.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix doesn’t give you luck, simply continue to the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn on VSync
 
@@ -165,7 +161,7 @@ This method may require a basic level of computer knowledge.
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
@@ -173,6 +169,10 @@ This method may require a basic level of computer knowledge.
 4. Once downloaded, right click the**EmptyStandbyList** program and select**Run as an Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist.jpg)
 5. Go back to**Resource Monitor** and check if the standby memory has been cleared. Then you can check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **(Optional)** You can also use**Task Scheduler** to clear the standby memory automatically. Theoretically, you can achieve the same result with a reboot, but it’ll be a different story while you’re in the middle of the game.
 
@@ -183,15 +183,11 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/emptystandbylist-3.jpg)
 3. On your keyboard, press**Win+R** to invoke the**Run** box. Type or paste**taskchd.msc** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/taskschd.msc_.jpg)
 4. In the right pane, select**Create Task** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-1.jpg)
@@ -216,13 +212,17 @@ This method may require a basic level of computer knowledge.
 11. Then navigate to the**Triggers** tab, click**New..** ..  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
@@ -247,17 +247,17 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-troubleshoot-facebook-live-pause-strategies-for-smooth-broadcasts/"><u>[New] 2024 Approved Troubleshoot Facebook Live Pause Strategies for Smooth Broadcasts</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-zip-to-subs-creating-srt-from-compressed-texts-for-2024/"><u>[Updated] Zip to Subs Creating .SRT From Compressed Texts for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-unlocking-the-full-potential-of-windows-11s-video-production-suite/"><u>2024 Approved Unlocking the Full Potential of Windows 11'S Video Production Suite</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-the-annoying-pixel-shaking-solutions-to-stabilize-your-screen/"><u>Conquer the Annoying Pixel Shaking - Solutions to Stabilize Your Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-compiling-shaders-in-call-of-duty-black-ops-cold-war-problem-no-more/"><u>How to Fix 'Compiling Shaders' In Call of Duty Black Ops Cold War – Problem No More</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-tecno-camon-20-pro-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Tecno Camon 20 Pro 5G Phone and Remove Locked Screen</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/new-free-online-video-orientation-changer-best-options/"><u>New Free Online Video Orientation Changer Best Options</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-logitech-g-hub-malfunctions-a-comprehensive-fix-guide-for-windows-users/"><u>Overcoming Logitech G Hub Malfunctions - A Comprehensive Fix Guide for Windows Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-world-of-tanks-blitz-app-crashes-a-comprehensive-fix-guide/"><u>Resolving the 'World of Tanks Blitz' App Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-the-issue-of-non-launching-far-cry-6-for-windows-users/"><u>Resolving the Issue of Non-Launching Far Cry 6 for Windows Users</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/the-symphony-of-silence-breakers-crafting-your-own-custom-alerts-and-sounds-on-android/"><u>The Symphony of Silence Breakers Crafting Your Own Custom Alerts & Sounds on Android</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/troubleshooting-tips-uncovering-common-reasons-for-car-speaker-failure/"><u>Troubleshooting Tips: Uncovering Common Reasons for Car Speaker Failure</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-effortless-image-bending-in-adobe/"><u>[New] Effortless Image Bending in Adobe</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-5-innovative-strategies-for-crafting-youtube-titles-and-tags/"><u>[Updated] 2024 Approved 5 Innovative Strategies for Crafting YouTube Titles & Tags</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-unveiling-youtubes-behind-the-scenes-editor-space/"><u>2024 Approved Unveiling YouTube's Behind-the-Scenes Editor Space</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-correctly-update-your-synaptic-device-drivers-for-windows-pertinent-issues-in-windows-11/"><u>How to Correctly Update Your Synaptic Device Drivers for Windows Pertinent Issues in Windows 11</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unleash-creative-potential-with-a-comprehensive-guide-to-ps-background-removal/"><u>In 2024, Unleash Creative Potential with a Comprehensive Guide to PS Background Removal</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-the-stability-of-metro-exoduss-pc-enhanced-edition-crashes-no-more/"><u>Master the Stability of Metro Exodus's PC Enhanced Edition: Crashes No More!</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-capture-with-nvidias-shadowplay-overcoming-recording-hurdles-on-windows-pcs/"><u>Mastering Game Capture with Nvidia's ShadowPlay: Overcoming Recording Hurdles on Windows PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcome-the-ghostrunner-breakdown-problems-in-windows-10-with-ease/"><u>Overcome the Ghostrunner Breakdown Problems in Windows 10 with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-fixes-for-when-minecraft-says-your-game-drivers-need-an-update/"><u>Step-by-Step Fixes for When Minecraft Says Your Game Drivers Need an Update</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshoot-hardwaredriver-not-compatible-in-rainbow-six-extraction-expert-solutions/"><u>Troubleshoot 'Hardware/Driver Not Compatible' In Rainbow Six Extraction - Expert Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723000918247-troubleshoot-wow-sea-battle-game-pc-issues-with-these-5-quick-fixes/"><u>Troubleshoot WoW Sea Battle Game PC Issues with These 5 Quick Fixes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/troubleshooting-tips-for-photoshopping-on-windows-11/"><u>Troubleshooting Tips for Photoshopping on Windows 11</u></a></li>
 </ul></div>
 

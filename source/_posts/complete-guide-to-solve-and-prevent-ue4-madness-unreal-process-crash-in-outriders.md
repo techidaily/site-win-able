@@ -1,7 +1,7 @@
 ---
 title: "Complete Guide to Solve and Prevent 'UE4-Madness': Unreal Process Crash in Outriders"
-date: 2024-08-18T16:27:25.995Z
-updated: 2024-08-19T16:27:25.995Z
+date: 2024-12-20T02:45:57.482Z
+updated: 2024-12-26T16:43:58.486Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -82,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -95,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -106,18 +104,23 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted game files
 
@@ -133,19 +136,16 @@ thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -159,9 +159,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -179,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +186,19 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-are-thoughtful-analyses-monetarily-rewarded/"><u>[Updated] Are Thoughtful Analyses Monetarily Rewarded?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-elevating-zooms-video-resolution-expert-advice-for-2024/"><u>[Updated] Elevating Zoom's Video Resolution Expert Advice for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagrams-temporal-twist-learn-how-to-turn-back-time/"><u>[Updated] Instagram's Temporal Twist Learn How to Turn Back Time</u></a></li>
+<li><a href="https://win-able.techidaily.com/1-secure-and-fast-xhamster-video-downloads-top-reliable-sites-revealed/"><u>1. Secure & Fast Xhamster Video Downloads: Top Reliable Sites Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726027961053-windows/"><u>高解像度動画改良: Windowsプラットフォームにおける専門的な編集方法</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726026863167-2024/"><u>最新音楽ダウンロード手順集:パソコン向け無料版 2024年新入門</u></a></li>
+<li><a href="https://facebook.techidaily.com/how-to-add-and-modify-facebook-group-rules/"><u>How to Add and Modify Facebook Group Rules</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-transform-your-channels-look-for-free/"><u>In 2024, Transform Your Channel's Look for Free</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-solutions-resolving-usb-flash-drive-not-detected-issues/"><u>Quick Solutions: Resolving 'USB Flash Drive Not Detected' Issues</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/the-essential-guide-to-windows-group-policy-interpretation-3-ways/"><u>The Essential Guide to Windows Group Policy Interpretation (3 Ways)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/top-mac-mouse-picks-of-2024-enhancing-your-computing-experience/"><u>Top Mac Mouse Picks of 2024 - Enhancing Your Computing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028568195-windowsopusmp3/"><u>Windows上でOPUSファイルを効率よくMP3に自由に変換するテクニック</u></a></li>
+</ul></div>
 

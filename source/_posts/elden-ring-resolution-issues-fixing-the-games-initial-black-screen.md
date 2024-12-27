@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring Resolution Issues: Fixing the Game's Initial Black Screen"
-date: 2024-08-18T16:28:52.999Z
-updated: 2024-08-19T16:28:52.999Z
+date: 2024-12-25T07:52:59.296Z
+updated: 2024-12-27T06:33:16.930Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/fallout-4-black-screen-1024x576.jpg)
 
  When you click Fallout 4 but see the black screen which doesn’t load anything, you must feel frustrated. Don’t worry, there are tips that can help you solve this**black screen issue** . Read on to find how…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,11 +43,12 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -57,14 +62,12 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
+
+---
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
----
 
 ### Fix 3: Edit configuration files
 
@@ -82,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -93,23 +93,16 @@ thumbnail: https://thmb.techidaily.com/1ed4f091728645649c840ae907d2be87aba494a53
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -132,8 +125,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +132,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionize-note-taking-with-mematic-app-for-2024/"><u>[Updated] Revolutionize Note-Taking with Mematic App for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-frame-it-right-essential-2023-tools-and-sites-for-image-edits/"><u>2024 Approved Frame It Right Essential 2023 Tools & Sites for Image Edits</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-fixes-to-resolve-persistent-gameplay-interruptions-in-elex-ii/"><u>Comprehensive Fixes to Resolve Persistent Gameplay Interruptions in Elex II</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oppo-reno-10-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Oppo Reno 10 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/get-your-fall-guys-game-running-smoothly-again-overcoming-launch-problems/"><u>Get Your 'Fall Guys' Game Running Smoothly Again - Overcoming Launch Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-performance-lags-in-forza-horizon-5/"><u>How To Resolve Performance Lags In Forza Horizon 5?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-motorola-moto-g73-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Motorola Moto G73 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://facebook.techidaily.com/instagrams-shift-to-nft-world/"><u>Instagram's Shift to NFT World</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-systems-kernelbasedll-error-in-no-time/"><u>Resolve Your System's KernelBase.dll Error in No Time!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-you-dont-have-authorization-to-play-in-fortnite-troubleshooting-guide/"><u>Resolving 'You Don't Have Authorization to Play' In Fortnite - Troubleshooting Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-8-solutions-expert-guide-on-resolving-multiversus-game-crashes/"><u>Top 8 Solutions: Expert Guide on Resolving MultiVersus Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-gta-v-online-connection-issues-quick-fixes/"><u>Troubleshooting GTA V Online Connection Issues: Quick Fixes</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-step-by-step-eliminating-sound-from-modern-avi-format-avi-2023/"><u>Updated In 2024, Step-by-Step Eliminating Sound From Modern AVI Format (AVI 2023)</u></a></li>
+</ul></div>
 

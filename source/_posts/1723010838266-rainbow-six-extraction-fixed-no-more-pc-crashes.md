@@ -1,7 +1,7 @@
 ---
 title: "Rainbow Six Extraction: Fixed – No More PC Crashes!"
-date: 2024-08-18T16:28:13.431Z
-updated: 2024-08-19T16:28:13.431Z
+date: 2024-12-21T17:16:23.945Z
+updated: 2024-12-26T19:42:40.568Z
 tags:
   - win11
   - win10
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -54,12 +58,13 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Check your VPN
 
@@ -73,10 +78,6 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -84,20 +85,25 @@ thumbnail: https://thmb.techidaily.com/7f19cc98af8fc35bf3d4ed1bfe5dccfd58f56435c
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
 
@@ -108,9 +114,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your network adapter driver
 
  If you’ve tried the fixes above but nothing worked, you may try to update your network adapter driver. Making sure your network adapter driver is working properly could help solve Error 4201 on Genshin Impact.
@@ -149,8 +152,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +159,20 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-facebook-video-orientation-dilemma-for-2024/"><u>[New] Facebook Video Orientation Dilemma for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-innovative-techniques-for-igtv-backgrounds/"><u>[New] In 2024, Innovative Techniques for IGTV Backgrounds</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-the-essential-guide-to-free-attractive-youtube-intros/"><u>[Updated] 2024 Approved The Essential Guide to Free, Attractive YouTube Intros</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-journey-through-animated-expression-your-guide-to-snapface-magic-for-2024/"><u>[Updated] Journey Through Animated Expression Your Guide to Snapface Magic for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-fixes-to-ensure-smooth-launch-of-outriders-on-your-pc-updated/"><u>Effective Fixes to Ensure Smooth Launch of Outriders on Your PC (Updated )</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-dolby-atmos-sound-setup-errors-in-windows-1110-environments/"><u>Fixing Dolby Atmos Sound Setup Errors in Windows 11/10 Environments</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/innovative-responses-the-ultimate-guide-to-youtube-reacts/"><u>Innovative Responses The Ultimate Guide to YouTube Reacts</u></a></li>
+<li><a href="https://extra-support.techidaily.com/media-lens-adjustment-software-for-2024/"><u>Media Lens Adjustment Software for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/recmaster-screen-recorder-review/"><u>Recmaster Screen Recorder Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stability-issues-stop-final-fantasy-xv-from-crashing-on-your-computer/"><u>Resolving Stability Issues: Stop Final Fantasy XV From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/spellbreak-troubleshooting-guide-stop-your-game-from-crashing-on-windows/"><u>Spellbreak Troubleshooting Guide - Stop Your Game From Crashing on Windows</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/xbox-live-service-outage-how-to-determine-if-its-down/"><u>Xbox Live Service Outage: How To Determine If It's Down?</u></a></li>
+</ul></div>
 

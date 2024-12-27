@@ -1,7 +1,7 @@
 ---
 title: No More Quits! Tackle Persistent Crashing on Any Platform with These Diablo 4 Solutions
-date: 2024-12-16T01:03:51.733Z
-updated: 2024-12-21T23:42:07.834Z
+date: 2024-12-23T19:28:23.687Z
+updated: 2024-12-26T20:19:21.492Z
 tags:
   - win11
   - win10
@@ -46,10 +46,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/how-to-fix-steam-black-screen-or-not-working/#option2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your drivers
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
@@ -74,13 +70,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and open Steam client to check if the issue is fixed. If not, try the other fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Delete web browser cache
 
@@ -92,25 +88,25 @@ Here’s how you can do this:
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) From the left panel, click**Web Browser** . Then click**DELETE WEB BROWSER CACHE** . Once it’s done, click**DELETE ALL BROWSER COOKIES** . After it’s finished, simply click**OK** .  
   
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-web-browser-cache-Steam.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Now your Steam client should be running as normal. If the black screen issue persists, you should[delete the app cache](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3: Delete app cache
 
  The app cache in your Steam directory stores various data about your Steam apps and setup essentially it remembers small details each time you open Steam ensuring that the next time you run Steam, things will work that little bit faster. However, things can go wrong with the cache. It can miss remembering things which may be a cause for Steam not loading properly. To fix this, try deleting the app cache folder. And you don’t need to worry because this will be recreated the next time you open Steam.
 
  1) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
@@ -119,7 +115,7 @@ Here’s how you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/appcache-folder.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  4) Now you can**delete the appcache folder** in your Steam directory. Then try starting Steam again. If it works well, you can then go and delete the original backup appcache folder as a healthy new one will be created in its place.
@@ -133,10 +129,6 @@ To participate in the Steam Client beta, follow the instructions below:
  1) With Steam running, click**Steam** in the upper left, then select**Settings** .
 
 ![delete web browser cache Steam](https://images.drivereasy.com/wp-content/uploads/2020/10/settings.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**Account** tab. Under the**Beta Participation** section, click the**CHANGE…** button.  
   
@@ -155,10 +147,6 @@ To participate in the Steam Client beta, follow the instructions below:
   
 ![Steam Propertites](https://images.drivereasy.com/wp-content/uploads/2020/10/Steam-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Click the**Shortcut** tab. In the**Target** section, type**\-no-cef-sandbox** at the end. Then click**Apply > OK** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/no-cef-sandbox.jpg)
@@ -166,7 +154,7 @@ To participate in the Steam Client beta, follow the instructions below:
 Now try opening Steam client to check if it works.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 6: Reinstall Steam
@@ -180,11 +168,19 @@ Now try opening Steam client to check if it works.
 
  2) On your keyboard, press the **Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and **E**  at the same time to open File Explorer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Navigate to**Windows (C:) > Program Files (×86) > Steam** to go to the Steam directory.
 
  4) Delete everything except**steamapps** ,**userdata,** and**steam.exe** **(steam Application)** .
 
  5) Double-click**Steam.exe** and let it reinstall.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If your problem persists…
 
@@ -197,6 +193,10 @@ Now try opening Steam client to check if it works.
  3) Click **Start Repair** to start the repair process and wait for Fortect to fix the problem.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -220,17 +220,24 @@ Now try opening Steam client to check if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/sons-of-the-forest-sudden-shutdowns-on-pc-diagnosis-and-solutions-explained/"><u>'Sons of the Forest' Sudden Shutdowns on PC: Diagnosis & Solutions Explained</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-converting-srt-into-sub-quick-effective-ways/"><u>[New] 2024 Approved Converting SRT Into SUB Quick, Effective Ways</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-premium-sites-summarized-acquiring-personal-preferences-in-ringtone-vids/"><u>[New] 2024 Approved Premium Sites Summarized Acquiring Personal Preferences in Ringtone Vids</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-choosing-the-best-iphone-video-editor-filmorago-or-cameo/"><u>[New] Choosing the Best iPhone Video Editor FilmoRaGo or Cameo?</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005175065-how-to-overcome-unloading-twitch-broadcasts-discover-7-essential-fixes/"><u>How to Overcome Unloading Twitch Broadcasts? Discover 7 Essential Fixes</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-supreme-five-optimal-dvd-software-for-sierra-os/"><u>In 2024, Supreme Five Optimal Dvd Software for Sierra OS</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-ultimate-screencast-handbook-adept-techniques-and-tools/"><u>In 2024, Ultimate Screencast Handbook Adept Techniques & Tools</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-assessment-the-mighty-performance-of-beatit-bt-d11-starter-kit/"><u>In-Depth Assessment: The Mighty Performance of Beatit BT-D11 Starter Kit</u></a></li>
-<li><a href="https://win-able.techidaily.com/mount-and-blade-ii-bannerlord-how-to-fix-and-prevent-game-crashing-issues/"><u>Mount & Blade II: Bannerlord - How to Fix and Prevent Game Crashing Issues</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-iphone-12-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab iPhone 12 Backup Unlocker Top 4 Alternatives</u></a></li>
-<li><a href="https://win-able.techidaily.com/rust-debugging-guide-effective-solutions-for-unresponsive-codes/"><u>Rust Debugging Guide: Effective Solutions for Unresponsive Codes</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-city-building-game-crashes-expert-fixes-and-strategies/"><u>Solve Your City Building Game Crashes: Expert Fixes and Strategies</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-tips-elevating-your-projects-with-movie-maker-in-win11/"><u>[New] Expert Tips Elevating Your Projects with Movie Maker in Win11</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-funimate-unraveled-your-path-to-mastery/"><u>[Updated] In 2024, Funimate Unraveled Your Path to Mastery</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-the-essential-manual-for-personalizing-android-ringtones-and-sounds/"><u>[Updated] The Essential Manual for Personalizing Android Ringtones and Sounds</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-swiftpodcasts-guide-for-iphone-users-download-made-simple/"><u>2024 Approved SwiftPodcasts Guide for iPhone Users - Download Made Simple</u></a></li>
+<li><a href="https://win-able.techidaily.com/black-desert-pc-woes-heres-what-you-need-to-know-about-preventing-crashes/"><u>Black Desert PC Woes? Here's What You Need to Know About Preventing Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-strategies-for-correcting-acrocefexe-application-failures/"><u>Comprehensive Strategies for Correcting acrocef.exe Application Failures</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-the-blackout-effective-fixes-for-persistent-screen-issues-on-zoom-during-presentations/"><u>Conquer the Blackout: Effective Fixes for Persistent Screen Issues on Zoom During Presentations</u></a></li>
+<li><a href="https://win-able.techidaily.com/crack-the-code-fixing-the-dark-display-glitch-on-your-fallout-relzs-gameplay-screen/"><u>Crack the Code: Fixing the Dark Display Glitch on Your Fallout ˈrəʊlz's Gameplay Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995455728-dayzoned-crash-woes-heres-how-to-fix-them/"><u>DayZoned Crash Woes? Here's How to Fix Them !</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-steps-to-retrieve-accidentally-erased-emails-from-googles-inbox/"><u>Easy Steps to Retrieve Accidentally Erased Emails From Google's Inbox</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/te-your-youtube-presence-with-masterful-editing-skills/"><u>Elevate Your YouTube Presence with Masterful Editing Skills</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/increase-clicks-and-watch-time-with-best-in-class-thumbnails-for-youtube/"><u>Increase Clicks and Watch Time with Best-in-Class Thumbnails for YouTube</u></a></li>
+<li><a href="https://techtrends.techidaily.com/innovative-ways-to-personalize-your-inbox-building-specific-rules-in-gmail/"><u>Innovative Ways to Personalize Your Inbox: Building Specific Rules in Gmail</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximize-performance-increase-frames-per-second-fps-for-a-better-experience-in-ring-of-elysium/"><u>Maximize Performance: Increase Frames per Second (FPS) for a Better Experience in Ring of Elysium</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/outperforming-vimeo-with-these-superior-alternatives-for-2024/"><u>Outperforming Vimeo with These Superior Alternatives for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/restoring-realtek-usb-controls-post-windows-change/"><u>Restoring Realtek USB Controls Post-Windows Change</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-adventures-in-salem-tactics-to-prevent-deathloop-from-haltin-on-pcps5/"><u>Seamless Adventures in Salem: Tactics to Prevent Deathloop From Haltin' On PC/PS5</u></a></li>
+<li><a href="https://win-able.techidaily.com/solutions-for-black-screen-problem-on-persona-5-strikers-platform/"><u>Solutions for Black Screen Problem on Persona 5 Strikers Platform</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-techniques-for-smooth-gameplay-in-naraka-bladepoint/"><u>Troubleshooting Techniques for Smooth Gameplay in Naraka: Bladepoint</u></a></li>
 </ul></div>
 

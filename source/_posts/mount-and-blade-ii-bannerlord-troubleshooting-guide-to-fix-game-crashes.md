@@ -1,7 +1,7 @@
 ---
 title: "Mount and Blade II: Bannerlord - Troubleshooting Guide to Fix Game Crashes"
-date: 2024-12-14T17:38:08.605Z
-updated: 2024-12-21T18:53:04.279Z
+date: 2024-12-24T01:22:20.975Z
+updated: 2024-12-27T12:40:09.711Z
 tags:
   - win11
   - win10
@@ -64,6 +64,10 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -84,10 +88,6 @@ There are two ways you can get the latest correct graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 3: **Run your game as an administrator**
 
  Steam sometimes may not be able to access certain game files on your computer under normal user mode, which could be the culprit of the_Diablo 3_ crashing. To see if that’s the problem for you, try running your game as an administrator. Here is how:
@@ -98,23 +98,19 @@ There are two ways you can get the latest correct graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-499.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-500.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Relaunch_Diablo 3_ from the Blizzard Battle.net app.
 
 If your game crashes again, go ahead with the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Repair your game files
 
@@ -126,6 +122,10 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-501.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click **Begin Scan** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-502.png)
@@ -133,10 +133,6 @@ If your game crashes again, go ahead with the fix below.
  Wait for the scans to be complete, then relaunch _Diablo 3_ to test your issue. If your game crashes again, read on and try the fix below.
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest patch
 
@@ -197,7 +193,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-706.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)**  Highlight and delete the **Blizzard Entertainment** and**Battle.net folder** .
@@ -207,6 +203,10 @@ If your game crashes again, go ahead with the fix below.
  Relaunch_Diablo 3_ to check if this worked for you. If the game is still unplayable, try the fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Run your game in compatibility mode
 
@@ -220,9 +220,17 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-510.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the list box below to select **Windows 8** , then click **Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-511.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -248,16 +256,12 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-508.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click **Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-513.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Restart the Blizzard Battle.net app to download and install _Diablo 3_ .
 
@@ -269,21 +273,17 @@ If your game crashes again, go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-441.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-443.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-444.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)** Right-click the**Battle.net app** , then click **Uninstall/Change** .
 
@@ -292,7 +292,7 @@ If your game crashes again, go ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-445.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** **[Download](https://www.blizzard.com/en-us/apps/battle.net/desktop)**  and install the Blizzard Battle.net app.
@@ -321,24 +321,22 @@ If your game crashes again, go ahead with the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-boost-creativity-how-to-use-movie-maker-on-windows-8/"><u>[New] Boost Creativity How to Use Movie Maker on Windows 8</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-guide-to-successfully-saving-your-iptv-streams/"><u>[Updated] In 2024, Guide to Successfully Saving Your IPTV Streams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-video-talk-with-ease-how-to-utilize-whatsapp-web-on-your-notebook/"><u>[Updated] In 2024, Video Talk with Ease How to Utilize WhatsApp Web on Your Notebook</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-boot-bug-fix-hogwarts-legacy-from-crashing-on-pc-using-our-top-nights-fixes/"><u>Beat the Boot Bug: Fix Hogwarts Legacy From Crashing on PC Using Our Top Nights Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722989705790-conquer-lag-troubles-in-fallout-4-with-these-proven-fix-methods/"><u>Conquer Lag Troubles in Fallout 4 with These Proven Fix Methods!</u></a></li>
-<li><a href="https://win-able.techidaily.com/decoding-frame-rate-reductions-insights-into-fortnites-season-8-performance-tweaks/"><u>Decoding Frame Rate Reductions - Insights Into Fortnite's Season #8 Performance Tweaks</u></a></li>
-<li><a href="https://win-answers.techidaily.com/embark-on-an-epic-adventure-with-the-pinnacle-of-samurai-games-yakuza-like-a-dragon-now-for-pc-enthusiasts/"><u>Embark on an Epic Adventure with the Pinnacle of Samurai Games – Yakuza: Like a Dragon, Now for PC Enthusiasts</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005590179-expert-advice-for-a-smooth-hell-let-loose-gaming-experience-crash-no-more/"><u>Expert Advice for a Smooth Hell Let Loose Gaming Experience: Crash No More!</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-issue-of-msi-afterburner-not-acknowledging-gpu-in-windows-11-environments/"><u>Fixing the Issue of MSI Afterburner Not Acknowledging GPU in Windows 11 Environments</u></a></li>
-<li><a href="https://win11.techidaily.com/how-to-revive-windows-11s-help-interaction/"><u>How to Revive Windows 11'S Help Interaction</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-samsung-galaxy-f15-5g-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Samsung Galaxy F15 5G Device SIM</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-gt-5-pro-phone-without-password-by-drfone-android/"><u>In 2024, How To Unlock Realme GT 5 Pro Phone Without Password?</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-common-causes-of-phasmophobia-breaks-a-comprehensive-guide/"><u>Overcoming Common Causes of Phasmophobia Breaks: A Comprehensive Guide</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/tted-recording-youtube-video-screenshots-in-2024/"><u>Permitted Recording YouTube Video Screenshots, In 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-palworld-discover-immediate-launch-fixes-here/"><u>Trouble with Palworld? Discover Immediate Launch Fixes Here!</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-fixing-black-display-problems/"><u>Troubleshooting and Fixing Black Display Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-and-repair-steps-for-when-pacific-drive-fails-on-your-computer/"><u>Troubleshooting and Repair Steps for When Pacific Drive Fails on Your Computer</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/windows-defender-smartscreen-temporarily-unavailable-troubleshooting-steps/"><u>Windows Defender SmartScreen Temporarily Unavailable - Troubleshooting Steps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-screen-capture-in-dota-2-matches/"><u>[New] 2024 Approved Effortless Screen Capture in Dota 2 Matches</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-snowrunner-keeps-crashing-on-pc/"><u>[SOLVED] SnowRunner Keeps Crashing on PC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-oppo-reno-10-5g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Oppo Reno 10 5G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722997174357-dealing-with-limited-system-resources-solutions-to-the-inadequate-memory-bug-in-god-of-war/"><u>Dealing with Limited System Resources: Solutions to the 'Inadequate Memory' Bug in God of War.</u></a></li>
+<li><a href="https://win-able.techidaily.com/decode-and-fix-the-audio-issues-in-dying-light-with-proven-techniques/"><u>Decode and Fix the Audio Issues in 'Dying Light' With Proven Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008919933-destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-heightened-aesthetics-editing-high-resolution-footage-in-fcpx-for-instagram/"><u>In 2024, Heightened Aesthetics Editing High-Resolution Footage in FCPX for Instagram</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-mix-fold-3-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Mix Fold 3 Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-introductory-insights-crafting-listener-love/"><u>In 2024, Introductory Insights Crafting Listener-Love</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-v30-pro-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo V30 Pro Phone? Unlock It Now</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-complete-guide-to-vivo-v27-pro-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Vivo V27 Pro FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-patched-reconnect-loop-gameplay-improvement-for-2er-year/"><u>League of Legends Patched 'Reconnect Loop' - Gameplay Improvement for 2Er Year</u></a></li>
+<li><a href="https://win-able.techidaily.com/masterminds-mute-fix-restoring-audio-to-evil-genius-2/"><u>Mastermind's Mute Fix: Restoring Audio to Evil Genius 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722996530460-quick-solutions-to-overcome-fortnite-login-troubles-effortlessly/"><u>Quick Solutions to Overcome Fortnite Login Troubles Effortlessly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-dipping-fps-in-forza-horizon-5-on-pc-a-complete-guide/"><u>Resolved: Dipping FPS in Forza Horizon 5 on PC - A Complete Guide</u></a></li>
+<li><a href="https://fox-http.techidaily.com/selecting-the-ideal-vr-device-seeking-simplicity-with-wireless-or-precision-with-tethers-for-2024/"><u>Selecting the Ideal VR Device Seeking Simplicity with Wireless, Or Precision With Tethers for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/step-by-step-guide-setting-up-lock-screen-ownership-details-on-android-devices/"><u>Step-by-Step Guide: Setting Up Lock Screen Ownership Details on Android Devices</u></a></li>
 </ul></div>
 

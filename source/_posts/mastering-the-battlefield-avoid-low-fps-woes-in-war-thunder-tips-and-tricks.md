@@ -1,7 +1,7 @@
 ---
 title: "Mastering the Battlefield: Avoid Low FPS Woes in War Thunder (Tips & Tricks)"
-date: 2024-12-16T17:56:44.942Z
-updated: 2024-12-21T19:17:57.872Z
+date: 2024-12-21T04:15:50.165Z
+updated: 2024-12-27T01:57:50.516Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 5. **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Uninstall and reinstall Minecraft](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Minecraft in compatibility mode
 
  Some older games might run poorly in the most recent version of Windows 10\. To see if that’s the case for Minecraft, try running the game in compatibility mode. Here’s how:
@@ -51,7 +55,7 @@ thumbnail: https://thmb.techidaily.com/74722f9cb9d89019ce2bd2f1c80c266bfc2adc6c2
 If the issue persists, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Check your antivirus settings
@@ -63,7 +67,7 @@ If the issue persists, read on and try the next fix.
 If the issue remains, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -99,12 +103,12 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/file-explorer.jpg)
 4. Open the**options.txt** file, then find the line with the following entry, and change the number to 4, like so:**gfx\_msaa:4** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Relaunch Minecraft to see if the problem is solved.
 
@@ -120,11 +124,19 @@ If this method doesn’t do the trick, continue to the next fix.
 2. One at a time, select the resource-hogging program and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/end-task-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 Relaunch Minecraft to see if your issue is resolved.
 
 If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Uninstall and reinstall Minecraft
 
@@ -134,31 +146,19 @@ If not, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/appdata-minecraft.jpg)
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
 6. Go to **[Minecraft’s official website](https://www.minecraft.net/en-us)**  to download and reinstall the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once the installation is completed, launch Minecraft to check if the game works properly.
 
@@ -184,16 +184,18 @@ If not, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-top-techniques-for-captivating-instagram-image-highlights/"><u>[New] In 2024, Top Techniques for Captivating Instagram Image Highlights</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-ultimate-flashback-2022s-snowboard-x-winners/"><u>[New] Ultimate Flashback 2022'S Snowboard X Winners</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-desktop-and-mobile-solutions-how-to-rotate-videos-for-instagram/"><u>[Updated] In 2024, [Desktop & Mobile Solutions] How to Rotate Videos for Instagram?</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unveiling-the-quintessential-five-strategic-moves-for-youtube-marketing-success/"><u>[Updated] In 2024, Unveiling the Quintessential Five Strategic Moves for YouTube Marketing Success</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-elevating-your-itunes-media-library-with-recordings/"><u>2024 Approved Elevating Your iTunes Media Library with Recordings</u></a></li>
-<li><a href="https://win-able.techidaily.com/apex-legends-error-resolution-guide-for-smooth-gaming-experience/"><u>Apex Legends Error Resolution Guide for Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/eliminate-win11-restart-cycles/"><u>Eliminate Win11 Restart Cycles</u></a></li>
-<li><a href="https://techtrends.techidaily.com/resolving-d3d9dll-file-absent-or-inaccessible-mishaps/"><u>Resolving d3d9.dll File Absent or Inaccessible Mishaps</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-playback-problems-for-smooth-gaming-in-deathloop-on-pc-setups/"><u>Solving Playback Problems for Smooth Gaming in Deathloop on PC Setups</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-to-up-your-download-speeds-on-origin-in-the-year-2024/"><u>Ultimate Fixes to Up Your Download Speeds on Origin in the Year 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-cant-i-play-addressing-initial-launch-issues-with-diablo-ii-resurrected/"><u>Why Can't I Play? Addressing Initial Launch Issues with Diablo II: Resurrected</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-the-evolution-continues-sw320s-spectacular-journey-to-4k-excellence/"><u>[New] In 2024, The Evolution Continues Sw320’s Spectacular Journey to 4K Excellence</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-iphones-path-to-film-retrospection-for-2024/"><u>[Updated] IPhone's Path to Film Retrospection for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-understanding-and-assessing-cloud-cost-variability/"><u>2024 Approved Understanding & Assessing Cloud Cost Variability</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ai-conversations-elevated-comparing-gemini-and-chatgpt-plus-features/"><u>AI Conversations Elevated: Comparing Gemini and ChatGPT Plus Features</u></a></li>
+<li><a href="https://win-able.techidaily.com/battling-persistent-glitches-ensuring-stable-playthroughs-of-age-of-wonders-planetfall-on-your-computer/"><u>Battling Persistent Glitches: Ensuring Stable Playthroughs of 'Age of Wonders: Planetfall' On Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fallout-nv-76-pc-server-disconnection-heres-how-you-fix-it/"><u>Fallout nV-76 PC Server Disconnection? Here’s How You Fix It!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-infinix-note-30-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Infinix Note 30 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-streamlining-post-production-with-after-effects-and-luts/"><u>In 2024, Streamlining Post Production with After Effects and LUTs</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-troubleshooting-error-connecting-to-the-apple-id-server-on-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Troubleshooting Error Connecting to the Apple ID Server On Apple iPhone 14 Plus</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-troubleshooting-for-eliminating-lag-in-counter-strike-online-gameplay/"><u>Quick Troubleshooting for Eliminating Lag in Counter-Strike Online Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-league-of-legends-connectivity-glitch-patch-update-2024/"><u>Resolving the League of Legends Connectivity Glitch: Patch Update 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/solve-common-fcpx-problems-with-a-simple-reset-for-2024/"><u>Solve Common FCPX Problems with a Simple Reset for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/tips-for-correcting-skewed-images-in-online-video-views/"><u>Tips for Correcting Skewed Images in Online Video Views</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Total War: Warhammer II Crashing Problems - Now Fixed"
-date: 2024-12-20T19:35:35.197Z
-updated: 2024-12-21T22:22:20.478Z
+date: 2024-12-25T18:17:36.296Z
+updated: 2024-12-27T09:35:11.390Z
 tags:
   - win11
   - win10
@@ -33,10 +33,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -46,6 +42,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 3. [Verify game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 5. [Disable your antivirus software](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Edit username
 
@@ -63,18 +63,18 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 2. In the**Compatibility** tab, check**Run this program as administrator** and hit**OK > Apply** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this doesn’t work for you, then try to verify game files in Steam.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Verify game files
 
@@ -87,6 +87,10 @@ If this fix doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -105,6 +109,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
@@ -114,10 +122,6 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -129,21 +133,17 @@ Here’s how to disable Windows Security temporarily.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -168,17 +168,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-reloading-the-dead-ranking-eminent-zombie-games/"><u>[Updated] 2024 Approved Reloading the Dead Ranking Eminent Zombie Games</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-obs-glitch-fix-stop-frames-from-dropping/"><u>[Updated] OBS Glitch Fix Stop Frames From Dropping</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-achieving-smooth-volume-decreases-using-lumafusion/"><u>2024 Approved Achieving Smooth Volume Decreases Using Lumafusion</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-ultrawide-vs-uhd-4k-monitors-the-experts-advice/"><u>2024 Approved UltraWide VS UHD 4K Monitors The Expert's Advice</u></a></li>
-<li><a href="https://facebook.techidaily.com/cultivating-secure-teenage-habits-for-facebook-usage/"><u>Cultivating Secure Teenage Habits for Facebook Usage</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-ways-to-troubleshoot-and-resolve-pc-malfunctions-with-thaumaturge-games/"><u>Effective Ways to Troubleshoot and Resolve PC Malfunctions with Thaumaturge Games</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-any-realme-c55-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Realme C55 Phone Password Using Emergency Call</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-subnautica-below-zero-on-your-pc-no-more-frustrating-freezes/"><u>Mastering Subnautica Below Zero on Your PC - No More Frustrating Freezes</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/real-time-film-extractor-for-2024/"><u>Real-Time Film Extractor for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/short-lived-hikes-overcome-xbox-game-pass-tips-and-tricks/"><u>Short-Lived Hikes Overcome: Xbox Game Pass Tips & Tricks</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frozen-chrome-in-windows-11-effective-solutions/"><u>Troubleshooting Frozen Chrome in Windows 11: Effective Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-instructions-for-turning-on-hyper-v-feature-in-windows-10/"><u>Ultimate Instructions for Turning On Hyper-V Feature in Windows 10</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-crafting-cinematic-images-on-iphone-8-advanced-techniques/"><u>[New] Crafting Cinematic Images on iPhone 8 Advanced Techniques</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-youtube-studios-secret-for-seamless-video-editing-for-2024/"><u>[Updated] YouTube Studio's Secret for Seamless Video Editing for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-maisto-rc-rock-crawler-assessment-top-choice-for-families/"><u>Comprehensive Maisto RC Rock Crawler Assessment: Top Choice for Families</u></a></li>
+<li><a href="https://win-able.techidaily.com/conquer-frozen-gaming-sessions-expert-step-by-step-solutions-to-stabilize-your-ps4-performance/"><u>Conquer Frozen Gaming Sessions: Expert Step-by-Step Solutions to Stabilize Your PS4 Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/end-firefox-freeze-frustration-with-these-8-effective-fixes/"><u>End Firefox Freeze Frustration with These 8 Effective Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-destiny-2-resolving-the-centipede-bug-effectively/"><u>Fixing Destiny 2: Resolving the Centipede Bug Effectively</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-drivers-for-your-hp-elitebook-x360-model-1030-g2-at-no-cost/"><u>Get the Newest Drivers for Your HP EliteBook X360 Model 1030 G2 at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/google-meet-camera-malfunction-follow-these-steps-to-get-it-fixed-now/"><u>Google Meet Camera Malfunction? Follow These Steps to Get It Fixed Now</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-poco-x6-pro-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Poco X6 Pro Through Google Earth?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-vivo-y100-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Vivo Y100 Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-the-essential-handheld-guide-to-youtube-production/"><u>In 2024, The Essential Handheld Guide to YouTube Production</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-various-methods-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Various Methods to Transfer Pictures from Apple iPhone 8 to PC | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723013267652-instantly-improve-your-slow-chrome-browser-with-simple-tweaks/"><u>Instantly Improve Your Slow Chrome Browser with Simple Tweaks!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-developer-issue-no-5573-in-call-of-duty-warzone-a-complete-tutorial-for-pc-and-console-players/"><u>Troubleshooting Developer Issue No. 5573 in Call of Duty: Warzone – A Complete Tutorial for PC and Console Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-overcoming-severe-glitches-in-activisions-modern-warfare-franchise/"><u>Troubleshooting Tips for Overcoming Severe Glitches in Activision's Modern Warfare Franchise</u></a></li>
 </ul></div>
 

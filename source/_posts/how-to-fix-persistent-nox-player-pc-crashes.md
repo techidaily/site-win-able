@@ -1,7 +1,7 @@
 ---
 title: How to Fix Persistent Nox Player PC Crashes
-date: 2024-08-18T16:24:52.404Z
-updated: 2024-08-19T16:24:52.404Z
+date: 2024-12-22T16:44:21.679Z
+updated: 2024-12-26T21:22:36.934Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
 **SnowRunner keeps crashing on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of SnowRunner crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether SnowRunner crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 5. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify integrity of game files
 
  Corrupted game files may cause SnowRunner to crash. If you’re not sure if the game crashing issue is triggered by the faulty game files, just verify integrity of game files. By doing that, you can repair the game.
@@ -39,7 +47,16 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 1. Launch **Steam** and go to your **LIBRARY** . **Right-click** on **SnowRunner** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **If you play** **SnowRunner** in Epic Games Launcher, you can follow the instructions below to verify the game files:
 
@@ -51,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
  Relaunch SnowRunner after the verifying process completed to see if this fix works. If not, don’t worry. Just move on and try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If SnowRunner keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -74,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
  Launch SnowRunner and see if the latest graphics driver stops the crash. If this fix doesn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of SnowRunner releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -85,9 +96,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 
  Launch SnowRunner again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Enable VSync
 
  VSync is a graphics technology that synchronizes the frame rate of a game with a monitor’s refresh rate. If your PC is suffering from screen tearing, enabling VSync can be an effective fix.
@@ -99,8 +107,9 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
  Launch the game and see if this fix works. If the game still crashes, just try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Close CPU / memory hogging applications
 
  Another common cause of SnowRunner crashes is insufficient memory. If there’re lots of applications running in the background at the same time, your computer may run out of RAM and the game may crash.
@@ -112,8 +121,9 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If SnowRunner works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent SnowRunner from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
@@ -131,16 +141,14 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Restart** your PC and run SnowRunner to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
@@ -164,8 +172,6 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +179,21 @@ thumbnail: https://thmb.techidaily.com/c96841199ff180b06a551ff8b5da580eafb5a9f00
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-clearing-your-name-after-a-youtube-copyright-strike-notice/"><u>[New] 2024 Approved Clearing Your Name After a YouTube Copyright Strike Notice</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-ultimate-guide-top-10-high-quality-no-cost-recording-tools-for-2024/"><u>[Updated] Ultimate Guide Top 10 High-Quality, No-Cost Recording Tools for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-from-screen-to-stage-best-anime-inspired-tiktok-plays/"><u>2024 Approved From Screen to Stage Best Anime-Inspired TikTok Plays</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-sudden-crashes-in-windows-or-mac-systems/"><u>Diagnosing and Repairing Sudden Crashes in Windows or Mac Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009252406-ds4-device-failure-on-windows-heres-how-to-install-the-correct-driver-and-fix-it/"><u>DS4 Device Failure on Windows? Here’s How to Install the Correct Driver & Fix It</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ring-youtubes-latest-revenue-guidelines/"><u>Exploring YouTube's Latest Revenue Guidelines</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-elite-dangerous-game-crash-issue-on-your-windows-computer/"><u>Fixing the Elite Dangerous Game Crash Issue on Your Windows Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-honor-play-40c-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Honor Play 40C to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-superb.techidaily.com/maximizing-pc-efficiency-expert-tips-for-enhancing-your-systems-speed-yl-tech-solutions/"><u>Maximizing PC Efficiency: Expert Tips for Enhancing Your System's Speed - YL Tech Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-your-pc-setup-expert-tips-for-reducing-lag-and-improving-ping-in-street-fighter-6/"><u>Optimizing Your PC Setup: Expert Tips for Reducing Lag and Improving Ping in Street Fighter 6</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/social-network-harmony-integrating-instagram-and-facebook/"><u>Social Network Harmony Integrating Instagram & Facebook</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-eliminating-low-frames-and-hitches-on-naraka-bladepoint/"><u>Step-by-Step Guide to Eliminating Low Frames & Hitches on Naraka: Bladepoint</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnet-reviews-unobtrusive-yet-powerful-smart-lock-solutions-for-apple-devices/"><u>ZDNet Reviews Unobtrusive Yet Powerful Smart Lock Solutions for Apple Devices</u></a></li>
+</ul></div>
 

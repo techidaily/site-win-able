@@ -1,7 +1,7 @@
 ---
 title: "Expertly Tested Strategies: Ending VRChat PC Malfunctions in 8 Steps"
-date: 2024-08-18T16:26:35.926Z
-updated: 2024-08-19T16:26:35.926Z
+date: 2024-12-23T17:53:22.717Z
+updated: 2024-12-26T21:50:42.513Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ To check the specs of your PC:
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to fix Scavengers Crashing on PC
 
  Here are six fixes that have helped other players resolve the Scavengers crashing on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -68,21 +72,20 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -109,9 +112,6 @@ Here is how to do it:
 1. Open**Epic Games** **Launcher** , click **Unreal Engine** \> **Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/ue.png)
 2. From there, you will see your current version of Unreal Engine. Click the**down arrow** to see if you have the latest one installed.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
@@ -124,22 +124,25 @@ Here is how to do it:
 1. On your keyboard, press **the Windows logo ke** y, then copy & paste **dxdiag** into the box and click **dxdiag** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
-3. Wait a while for Windows to check and install the updates (DirectX 12 included).
+
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
+3. Wait a while for Windows to check and install the updates (DirectX 12 included).
+
 With the latest DirectX, check to see if Scavengers still crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close background apps
 
@@ -154,6 +157,10 @@ Here’s how to close background apps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -173,8 +180,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +187,23 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/2024-approved-sourcing-free-frame-videos-without-a-dollar-drop/"><u>2024 Approved Sourcing Free Frame Videos Without a Dollar Drop</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-buffering-and-frame-drops-in-obs-comprehensive-fix-guide-new-strategies/"><u>Beat Buffering and Frame Drops in OBS: Comprehensive Fix Guide - New Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/comparing-video-codecs-unpacking-mpeg-4-and-h264-distinctions/"><u>Comparing Video Codecs: Unpacking MPEG-4 and H.264 Distinctions</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-your-favorite-vimeo-videos-into-mp4-format-for-free-with-these-simple-methods/"><u>Convert Your Favorite Vimeo Videos Into MP4 Format for Free with These Simple Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/convert-your-portrait-videos-free-a-step-by-step-guide-to-landscape-transformation/"><u>Convert Your Portrait Videos Free: A Step-by-Step Guide to Landscape Transformation</u></a></li>
+<li><a href="https://win-able.techidaily.com/discover-the-best-free-avi-players-your-comprehensive-selection-for-pc-mac-and-mobile-devices-androidios/"><u>Discover the Best Free AVI Players : Your Comprehensive Selection for PC, Mac, and Mobile Devices (Android/iOS)</u></a></li>
+<li><a href="https://win-able.techidaily.com/dvdvobq/"><u>DVDファイルからVOBフォーマットへの効果的な変換テクニッQ</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-conversion-tutorial-turn-your-mov-file-into-an-mp4-with-solutions-for-pc-and-mac-users/"><u>Easy Conversion Tutorial: Turn Your MOV File Into an MP4 with Solutions for PC and Mac Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/enhance-productivity-connect-two-displays-to-your-m3-macbook-pro-tips-and-tricks-for-a-smooth-setup/"><u>Enhance Productivity: Connect Two Displays to Your M3 MacBook Pro - Tips and Tricks for a Smooth Setup</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-100-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor 100 Lock Screen Password?</u></a></li>
+<li><a href="https://fake-location.techidaily.com/life360-learn-how-everything-works-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Life360 Learn How Everything Works On Samsung Galaxy S23 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-top-free-video-editors-for-32-bit-windows-computers/"><u>New Top Free Video Editors for 32-Bit Windows Computers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-to-dealing-with-breakpoint-exception-in-windows/"><u>Quick Guide to Dealing with Breakpoint Exception in Windows</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/revealing-the-potential-within-chatgpt-the-art-of-creation/"><u>Revealing the Potential Within ChatGPT: The Art of Creation</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-kindle-oasis-2019-assessment-nearly-indistinguishable-from-real-paper/"><u>Ultimate Kindle Oasis (2019) Assessment - Nearly Indistinguishable From Real Paper!</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/zing-youtubes-annotation-feature-for-2024/"><u>Utilizing YouTube's Annotation Feature for 2024</u></a></li>
+</ul></div>
 

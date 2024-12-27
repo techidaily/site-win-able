@@ -1,7 +1,7 @@
 ---
 title: "PC Players' Solution: Why Does Overwatch 2 Keep Collapsing & How to Fix It?"
-date: 2024-08-23T11:13:30.682Z
-updated: 2024-08-24T11:13:30.682Z
+date: 2024-12-24T09:32:58.480Z
+updated: 2024-12-27T00:11:09.784Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/26c79816e74e12a8f414621a79d8575a6f7513edd
 
 Spend a weekend playing World of Warcraft on your computer but there’s brightness flickering on the loading screen and while in the world, it could be frustrating. Don’t worry, you’re not the only one. This post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -25,11 +29,19 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Update graphics card driver
 
@@ -48,11 +60,16 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Rolling back your driver
 
@@ -63,17 +80,11 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
 7. Check the issue is persist or not.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -81,21 +92,12 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 6. Restart your computer and check to see if the problem resolves.
 
 ### Method 5: Use windowed mode
@@ -118,8 +120,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +127,20 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-diving-into-the-world-of-youtubers-starting-your-channel-earning-cash/"><u>[New] Diving Into the World of Youtubers Starting Your Channel, Earning Cash</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-inside-look-the-power-of-recmeister-capturing-features/"><u>[New] Inside Look The Power of Recmeister Capturing Features</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-become-a-youtube-earning-expert-universal-device-strategies/"><u>[Updated] 2024 Approved Become a YouTube Earning Expert Universal Device Strategies</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/a-new-era-of-business-with-vr-integration-for-2024/"><u>A New Era of Business with VR Integration for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210836539-9798986988610-birth-time-rectification/"><u>Birth Time Rectification | Free Book</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/enhance-tiktok-velocity-with-these-hacks-for-2024/"><u>Enhance TikTok Velocity with These Hacks for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/enhanced-gameplay-for-call-of-duty-warzone-master-techniques-to-fix-stutter-and-raise-fps/"><u>Enhanced Gameplay for Call of Duty: Warzone – Master Techniques To Fix Stutter & Raise FPS</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/global-gourmandise-guide-chocolate-words-unveiled-in-30-languages/"><u>Global Gourmandise Guide: Chocolate Words Unveiled in 30 Languages</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-restore-functionality-solving-discords-unresponsive-camera-problem/"><u>How To Restore Functionality: Solving Discord's Unresponsive Camera Problem</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/the-art-of-blurring-iphone-images-four-steps-covered-for-2024/"><u>The Art of Blurring iPhone Images - Four Steps Covered for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-when-world-of-tanks-blitz-app-freezes-or-fails-to-load/"><u>Troubleshooting Steps When World of Tanks Blitz App Freezes or Fails to Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-guide-for-street-fighter-6-no-more-pc-restarts-in-2ver/"><u>Ultimate Fix Guide for Street Fighter 6: No More PC Restarts in 2veR</u></a></li>
+<li><a href="https://win-able.techidaily.com/world-of-warships-crashing-on-pc-5-quick-fixes/"><u>World of Warships Crashing on PC [5 Quick Fixes]</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolving OBS Crashes on Modern Windows Systems - Tips and Fixes
-date: 2024-12-15T16:34:28.401Z
-updated: 2024-12-21T16:16:35.306Z
+date: 2024-12-20T19:35:12.320Z
+updated: 2024-12-27T08:31:10.471Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 5. [**Scan and repair corrupt game files**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Check the Diablo 2 Resurrected minimum system requirement
 
  If your computer isn’t powerful enough to run a demanding game like Diablo 2 Resurrected, you may run into the crashes constantly. That’s why you should always check the game’s minimum system requirements before you proceed to the more advanced steps.
@@ -48,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 
  If you don’t know how to check your computer specs, simply follow this guide:[How to find computer specs on Windows 10](https://tools.techidaily.com/drivereasy/download/) . If your machine isn’t up for the game, considering upgrading your PC first.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Stop overclocking
 
  By overclocking your CPU and GPU, you may see a significant boost in the game performance. However, doing this can sometimes lead to problems like instability in the system and crashes your game. So if Diablo 2 Resurrected keeps crashing after an overclock, you may want to**turn off all the overclocking utilities** such as MSI Afterburner and**reset your processor to the default** .
@@ -55,7 +63,7 @@ thumbnail: https://thmb.techidaily.com/6e9394e67e16c95be7dda814b36b7c21bb54383a5
 If this method doesn’t help, check out your graphics driver.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
@@ -70,10 +78,6 @@ If this method doesn’t help, check out your graphics driver.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
@@ -95,13 +99,13 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
 
  Relaunch Diablo 2 Resurrected to see if it runs properly. If not, there are a few more fixes to try below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Scan and repair corrupt game files
 
@@ -114,14 +118,10 @@ If this method doesn’t help, check out your graphics driver.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5 – Turn off overlays
@@ -145,7 +145,7 @@ If this method doesn’t help, check out your graphics driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -172,18 +172,21 @@ If this method doesn’t help, check out your graphics driver.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/updated-the-pros-playbook-mastering-the-art-of-capturing-ps4-gaming-for-2024/"><u>[Updated] The Pro's Playbook Mastering the Art of Capturing PS4 Gaming for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/a-visual-guide-to-building-believable-characters-in-virtual-space-for-2024/"><u>A Visual Guide to Building Believable Characters in Virtual Space for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-blackout-expert-strategies-to-fix-lol-black-screen-glitches-as-of-2024/"><u>Beat the Blackout: Expert Strategies to Fix LoL Black Screen Glitches as of 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/diagnosing-the-reasons-behind-your-pcs-sudden-failures/"><u>Diagnosing the Reasons Behind Your PC's Sudden Failures</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013544823-end-wows-annoying-visual-stutter-for-good-heres-your-guide/"><u>End Wow's Annoying Visual Stutter for Good - Here's Your Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/googles-latest-gemini-ai-vs-chatgpt-an-in-depth-comparison/"><u>Google's Latest Gemini AI Vs. ChatGPT - An In-Depth Comparison</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-u23-pro-frp-by-drfone-android/"><u>How Can We Bypass HTC U23 Pro FRP?</u></a></li>
-<li><a href="https://win-able.techidaily.com/immediate-fixes-to-resolve-palworld-not-opening-correctly/"><u>Immediate Fixes to Resolve Palworld Not Opening Correctly</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-poco-m6-pro-4g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Poco M6 Pro 4G FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-bdo-crashes-on-your-windows-machine-with-these-proven-steps/"><u>Overcoming BDO Crashes on Your Windows Machine with These Proven Steps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-when-ie-wont-open-get-your-browser-running-again/"><u>Troubleshooting Tips for When IE Won’t Open: Get Your Browser Running Again!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-oppo-a1-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Oppo A1 5G Users</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-top-10-unique-gaming-screen-capture-applications/"><u>[New] In 2024, Top 10 Unique Gaming Screen Capture Applications</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-advances-in-photography-with-lut-technology-for-2024/"><u>[Updated] Advances in Photography with LUT Technology for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-whats-your-take-home-pay-in-podcasting/"><u>[Updated] In 2024, What’s Your Take-Home Pay in Podcasting?</u></a></li>
+<li><a href="https://win-superb.techidaily.com/windows-10-robocopy/"><u>从基础开始：在 Windows 10 上快速应用 Robocopy技能</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/complete-guide-to-installing-msi-speakers-and-headset-software-on-windows-computers/"><u>Complete Guide to Installing MSI Speakers & Headset Software on Windows Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/curing-far-cry-6s-pc-performance-glitches-a-comprehensive-guide/"><u>Curing Far Cry 6'S PC Performance Glitches: A Comprehensive Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-barrier-in-fortnite-an-in-depth-guide-on-clearing-error-code-84-unable-to-join-a-party/"><u>Overcoming Barrier in Fortnite: An In-Depth Guide on Clearing Error Code 84 'Unable to Join a Party'</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-doom-eternals-stability-problems-a-step-by-step-guide/"><u>Resolving DOOM Eternal's Stability Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-tecno-spark-go-2023-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Tecno Spark Go (2023) with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-tutorial-altering-your-netflix-country-with-ease/"><u>Step-by-Step Tutorial: Altering Your Netflix Country with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-tricks-to-cut-down-long-waits-during-launch-of-star-wars-battlefront-ii-pc/"><u>Tips & Tricks to Cut Down Long Waits During Launch of Star Wars: Battlefront II (PC)</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-strategies-for-reducing-warzone-20-latency/"><u>Top Strategies for Reducing Warzone 2.0 Latency</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-the-rainbow-six-siege-black-screen-issue-on-your-pc/"><u>Troubleshooting Guide: Resolving the Rainbow Six Siege Black Screen Issue on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/unraveling-destiny-2s-broccoli-glitch-comprehensive-guide-to-the-2024-game-update-solution/"><u>Unraveling Destiny 2'S Broccoli Glitch: Comprehensive Guide to the 2024 Game Update Solution</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-the-complete-handbook-to-adding-auditory-elements-to-ae-projects-revised/"><u>Updated In 2024, The Complete Handbook to Adding Auditory Elements to AE Projects, Revised</u></a></li>
 </ul></div>
 

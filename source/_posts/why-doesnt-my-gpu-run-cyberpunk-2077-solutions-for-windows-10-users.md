@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-12-17T17:45:21.034Z
-updated: 2024-12-21T16:24:47.880Z
+date: 2024-12-24T00:22:33.070Z
+updated: 2024-12-27T00:09:04.872Z
 tags:
   - win11
   - win10
@@ -39,6 +39,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -68,10 +72,6 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -80,6 +80,10 @@ To do so, first visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -91,6 +95,10 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
@@ -100,20 +108,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
@@ -127,10 +131,6 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -155,18 +155,17 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-funimate-unraveled-your-path-to-mastery-for-2024/"><u>[New] Funimate Unraveled Your Path to Mastery for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/ai-detectors-under-the-lens-zerogpt-and-friends-a-closer-look-at-their-trustworthiness/"><u>AI Detectors Under the Lens - ZeroGPT and Friends: A Closer Look at Their Trustworthiness.</u></a></li>
-<li><a href="https://win-awesome.techidaily.com/effective-strategies-to-eliminate-the-windows-security-alert-phishing-scheme/"><u>Effective Strategies to Eliminate the Windows Security Alert Phishing Scheme</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-for-diablo-2-resurrected-sudden-shutdowns/"><u>Fixes for 'Diablo 2: Resurrected' Sudden Shutdowns</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-gaming-on-the-green-comprehenive-review-of-vegas-pro-2021/"><u>In 2024, Gaming on the Green Comprehenive Review of Vegas Pro 2021</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-iconic-stop-motion-creations-15-greatest-of-all-time/"><u>In 2024, Iconic Stop-Motion Creations - #15 Greatest of All Time</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-network-locked-sim-card-inserted-on-your-vivo-y78t-phone-unlock-it-now-by-drfone-android/"><u>In 2024, Network Locked SIM Card Inserted On Your Vivo Y78t Phone? Unlock It Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/mass-effect-ultimate-collection-bug-fixes-now-include-stutteringstutter-free-experience-guarantee/"><u>Mass Effect Ultimate Collection Bug Fixes Now Include Stuttering/Stutter-Free Experience Guarantee</u></a></li>
-<li><a href="https://win-able.techidaily.com/trouble-with-the-sound-heres-how-you-can-resolve-audio-problems-in-minecraft-for-windowsmac/"><u>Trouble with the Sound? Here's How You Can Resolve Audio Problems in Minecraft for Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-madden-nfl-21-pc-instability-issues/"><u>Troubleshooting Guide: Fixing Madden NFL 21 PC Instability Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-guide-eliminating-valorants-pc-crashes-for-good/"><u>Ultimate Troubleshooting Guide: Eliminating Valorant's PC Crashes for Good</u></a></li>
-<li><a href="https://win-able.techidaily.com/understanding-and-resolving-frame-rate-drops-in-pc-versions-of-farming-simulator-cuaderno-de-laboratorio-22/"><u>Understanding and Resolving Frame Rate Drops in PC Versions of Farming Simulator Cuaderno De Laboratorio 22</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-rainbow-six-extraction-crashing-on-pc/"><u>[SOLVED] Rainbow Six Extraction Crashing on PC</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[Updated] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://win-able.techidaily.com/addressing-low-frame-rate-problems-in-dota-2-for-windows-11-and-10-users/"><u>Addressing Low Frame Rate Problems in Dota 2 for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/boost-your-gameplay-ultimate-guide-to-increasing-fps-and-resolving-stutters-in-valorant/"><u>Boost Your Gameplay: Ultimate Guide to Increasing FPS & Resolving Stutters in Valorant</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/how-to-speed-up-your-print-jobs-effective-strategies-by-yl-software-experts/"><u>How to Speed Up Your Print Jobs: Effective Strategies by YL Software Experts</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-mordhau-from-freezing-and-crashing-effective-fixes/"><u>How to Stop Mordhau From Freezing & Crashing: Effective Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-programas-gratuitos-de-camara-web-en-windows-nt-descubre-los-16-primeros-con-movavi/"><u>Los Mejores Programas Gratuitos De Cámara Web en Windows nT, ¡Descubre Los 16 Primeros Con Movavi!</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pc-trouble-fixing-rainbow-six-sieges-screen-turned-completely-black/"><u>PC Trouble? Fixing Rainbow Six Siege's Screen Turned Completely Black</u></a></li>
+<li><a href="https://fox-within.techidaily.com/protecting-your-computers-heartbeat-securing-your-windows-registry-with-expert-tips-from-yl-computing/"><u>Protecting Your Computer's Heartbeat: Securing Your Windows Registry with Expert Tips From YL Computing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/smart-and-miniature-unpacking-the-features-of-the-criacr-bluetooth-fm-transmitter-the-cp24-model-reviewed/"><u>Smart & Miniature: Unpacking the Features of the CRIACR Bluetooth FM Transmitter - The CP24 Model Reviewed</u></a></li>
+<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-overcome-borderlands-3-startup-issues/"><u>Top 11 Solutions to Overcome Borderlands 3 Startup Issues</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/verwendung-von-nvidias-nvenc-in-der-handbrake-videokonvertierung-ein-leitfaden/"><u>Verwendung Von NVIDIA's NVENC in Der HandBrake Videokonvertierung: Ein Leitfaden</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Truth Behind Elden Ring's Delayed Launch
-date: 2024-08-18T16:28:16.665Z
-updated: 2024-08-19T16:28:16.665Z
+date: 2024-12-21T21:09:36.318Z
+updated: 2024-12-27T04:56:31.507Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/aef257ce3a4717ff2a174fecf2a8bdf62b913152d
 4. [**Install the latest version of Games for Windows Live (GFWL)**](https://www.drivereasy.com/knowledge/solved-resident-evil-5-not-launching-on-pc/#fix4)
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
 
@@ -44,6 +52,10 @@ Here’s how you can check the file integrity on Steam:
 
  If this trick doesn’t give you luck, take a look at the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of launching issue is**a broken or outdated graphics driver** . You can try updating your driver and see if that fixes the issue. New drivers often tackle compatibility issues and come with a performance boost.
@@ -57,19 +69,12 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  The Windows 10 system updates help keep your system running smoothly. Usually Windows installs updates on a regular basis, but you can check manually to confirm you’re using the latest system.
@@ -77,21 +82,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest version of Games for Windows Live (GFWL)
 
  Resident Evil 5 runs on Microsoft’s Games for Windows LIVE (GFWL) platform, which has already been phased out on Windows 10\. That being said, there’s still a way you can run the game: To make Resident Evil 5 work on Windows 10, you need to install[**the latest GFWL**](https://community.pcgamingwiki.com/files/file/1012-microsoft-games-for-windows-live/) .
@@ -100,11 +101,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -113,6 +109,11 @@ The powerful video editing program for your Windows PC</a>
 2. Unzip the patch and copy all the files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-1.jpg)
 3. Open the Resident Evil 5 folder and paste the patch files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
 
@@ -128,6 +129,10 @@ The powerful video editing program for your Windows PC</a>
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -140,8 +145,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +152,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-lost-reddit-content-instant-access-techniques/"><u>[New] Unveiling Lost Reddit Content Instant Access Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-the-ultimate-itunes-guide-mastering-recordings-for-2024/"><u>[Updated] The Ultimate iTunes Guide Mastering Recordings for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-top-student-vids-essential-histories-channel-list/"><u>2024 Approved Top Student Vids Essential Histories Channel List</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-utorrent-speed-effective-solutions-for-faster-torrents/"><u>Boosting uTorrent Speed: Effective Solutions for Faster Torrents</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/essential-techniques-zoom-and-fb-live-streaming/"><u>Essential Techniques ZOOM & FB Live Streaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-tracking-victory-in-escape-from-tarkov-a-pros-secrets-to-overcome-slow-fps-through-six-key-modifications/"><u>Fast-Tracking Victory in Escape From Tarkov: A Pro's Secrets to Overcome Slow FPS Through Six Key Modifications</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-gameloop-issues-how-to-prevent-crashes-in-games-on-windows-11-and-10/"><u>Fixing GameLoop Issues: How to Prevent Crashes in Games on Windows 11 and 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-issue-how-to-stop-watch-dogs-legion-from-continuously-crashing-on-pc/"><u>Fixing the Issue: How to Stop Watch Dogs Legion From Continuously Crashing on PC</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-swiftly-update-your-intel-iris-plus-graphics-640-software/"><u>How to Swiftly Update Your Intel Iris Plus Graphics 640 Software</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-list-of-top-hd-video-player-apps-android/"><u>In 2024, Exclusive List of Top HD Video Player Apps, Android</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-phasmophabria-a-comprehensive-walkthrough-for-overcoming-vr-compatibility-issues/"><u>Mastering Phasmophabria: A Comprehensive Walkthrough for Overcoming VR Compatibility Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/minecraft-fixed-understanding-the-solution-behind-exit-code-0-issue/"><u>Minecraft Fixed! Understanding the Solution Behind Exit Code '0' Issue</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-network-snags-seven-strategies-to-connect-in-obs-windows/"><u>Navigating Network Snags: Seven Strategies to Connect in OBS Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011532802-phoenix-point-crash-no-more-easy-fix-solutions-revealed/"><u>Phoenix Point Crash No More - Easy Fix Solutions Revealed</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolve-your-nba-2k23-pc-problems-effortlessly-learn-about-the-7-best-solutions-available-now/"><u>Resolve Your NBA 2K23 PC Problems Effortlessly: Learn About the 7 Best Solutions Available Now!</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>The Magnificent Art of Pokemon Go Streaming On Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/timing-duration-for-a-20mb-high-definition-video/"><u>Timing Duration for a 20Mb High-Definition Video</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-starfields-pc-freezing-issues/"><u>Troubleshooting Guide: Fixing Starfield's PC Freezing Issues</u></a></li>
+</ul></div>
 

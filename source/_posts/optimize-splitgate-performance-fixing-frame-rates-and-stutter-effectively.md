@@ -1,7 +1,7 @@
 ---
 title: "Optimize Splitgate Performance: Fixing Frame Rates & Stutter Effectively"
-date: 2024-08-18T16:22:12.232Z
-updated: 2024-08-19T16:22:12.232Z
+date: 2024-12-25T11:56:43.871Z
+updated: 2024-12-26T19:55:28.761Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5137476410d550ff3157a9e8b8c303fc95e61e87d
 
 Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re one of the many that run into this problem, don’t worry. In this post, you’ll learn 5 methods to boost your FPS, easily and quickly!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all. Just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Optimize the graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background programs](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Adjust the in-game graphics settings
 
@@ -39,11 +47,12 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 4. On the next page, turn off**Dynamic Reflections** and**Ambient Occlusion** . Then, set**Texture Quality** and**Effect Quality** to**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart Nioh 2 for the changes to take effect. If the FPS drop is still not solved, try the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Disable overlays
 
  In-game overlays allow you to access various features while in-game such as interacting with friends or placing orders, but this can also cause Nioh 2 low FPS. If you’re using overlays on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Discord](https://tools.techidaily.com/drivereasy/download/)**  and **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  , follow the instructions to turn them off.
@@ -53,22 +62,26 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 1. Open your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Nioh 2** from the game list and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-settings.jpg)
-3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-settings.jpg)
+3. Untick**Enable the Steam Overlay while in-game** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
+
 #### On Discord
 
 1. Run Discord.
 2. Click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 3. Click the**Overlay** tab and toggle off**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 #### On GeForce Experience
@@ -77,9 +90,22 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 3. Scroll to toggle off**In-Game Overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/0-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you disable any overlays in-use, restart Nioh 2 to see if it performs better now. If not, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -104,9 +130,6 @@ There are two ways you can update the driver:
 
  Restart the computer and launch Nioh 2 to test. If you don’t see any improvements in the game performance, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Optimize the graphics card settings
 
  If you have a dedicated NVIDIA graphics card and hope to better enjoy a graphically intensive PC game like Nioh 2, you need to customize the GPU settings appropriately. Here are the steps:
@@ -116,24 +139,10 @@ There are two ways you can update the driver:
 2. Select**3D Settings** \>**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-2.jpg)
 3. Go to the**Program Settings** tab. Then click the**Add** button and select Nioh 2 to customize.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-3.jpg)
 4. Choose **High-performance NVIDIA processor** as the preferred graphics processor.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-8-1.jpg)
 5. Adjust the specific settings as follows:  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Image Sharpening** :_Off_  
 **Antialiasing** :_Off_  
 **Power management mode** :_Prefer maximum performance_  
@@ -151,14 +160,8 @@ There are two ways you can update the driver:
 1. Right-click any empty space on the taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-1.jpg)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Run Nioh 2 and you should achieve higher frame rates during the gameplay.
 
 ---
@@ -174,8 +177,6 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +184,26 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-diy-audio-excellence-no-mic-necessary/"><u>[New] 2024 Approved DIY Audio Excellence No Mic Necessary</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-cutting-edge-tips-for-outshining-others-in-facebooks-social-space-for-2024/"><u>[Updated] Cutting-Edge Tips for Outshining Others in Facebook's Social Space for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/century-age-of-ashes-on-pc-solutions-for-unstable-performance-and-crashes/"><u>Century: Age of Ashes on PC - Solutions for Unstable Performance and Crashes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/comparing-top-tech-does-active-live-up-to-hype-for-2024/"><u>Comparing Top Tech Does Active Live Up to Hype for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/elevate-the-fun-with-smoother-gameplay-a-guide-to-improve-frame-rates-and-decrease-latency-issues-in-fall-guys/"><u>Elevate the Fun with Smoother Gameplay - A Guide to Improve Frame Rates and Decrease Latency Issues in Fall Guys</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-power-preservation-in-gopro-cameras-for-2024/"><u>Enhancing Power Preservation in GoPro Cameras for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/game-patch-notes-for-the-elder-scrolls-online-tackling-blackwood-zone-delays/"><u>Game Patch Notes for The Elder Scrolls Online: Tackling Blackwood Zone Delays</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-infinix-gt-10-pro-get-deleted-photos-back-with-ease-and-safety-by-fonelab-android-recover-photos/"><u>How to Infinix GT 10 Pro Get Deleted photos Back with Ease and Safety?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nubia-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nubia FRP Bypass Instantly</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagram-edge-constructing-compelling-square-footage-in-imovie/"><u>Instagram Edge Constructing Compelling Square Footage in iMovie</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/la-guia-definitiva-convertir-codecs-mpeg-a-formatos-mp3-escogiendo-el-mejor-herramienta-online-o-aplicacion-local/"><u>La Guía Definitiva: Convertir Códecs MPEG a Formatos MP3 - Escogiendo El Mejor Herramienta Online O Aplicación Local</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-lag-how-to-keep-your-pubg-gaming-seamless-and-responsive/"><u>Overcoming Lag: How to Keep Your PUBG Gaming Seamless and Responsive</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-pc-issues-how-to-stop-hearthstone-from-crashing/"><u>Resolving PC Issues - How to Stop Hearthstone From Crashing</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-how-to-get-past-the-endless-load-screen-in-madden-nfl-22/"><u>Solved: How to Get Past the Endless Load Screen in Madden NFL 22</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-correcting-the-darkened-screen-dilemma-in-epic-games-launcher/"><u>Step-by-Step Guide to Correcting the Darkened Screen Dilemma in Epic Games Launcher</u></a></li>
+<li><a href="https://win-able.techidaily.com/tackling-game-stutter-for-fluid-playbacks-achieve-higher-fps-and-enhanced-gaming/"><u>Tackling Game Stutter for Fluid Playbacks - Achieve Higher FPS and Enhanced Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-loading-errors-on-discord-live-streams-resolved/"><u>Troubleshooting Tips: Loading Errors on Discord Live Streams Resolved</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/witness-real-satisfaction-with-mac-clients-videos/"><u>Witness Real Satisfaction with Mac Clients' Videos</u></a></li>
+<li><a href="https://win-able.techidaily.com/zoom-stability-solutions-on-windows-1110-avoidance-tips-and-fixes/"><u>Zoom Stability Solutions on Windows 11/10 - Avoidance Tips and Fixes</u></a></li>
+</ul></div>
 

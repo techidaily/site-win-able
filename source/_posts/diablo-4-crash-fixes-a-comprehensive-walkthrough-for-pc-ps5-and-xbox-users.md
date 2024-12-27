@@ -1,7 +1,7 @@
 ---
 title: "Diablo 4 Crash Fixes: A Comprehensive Walkthrough for PC, PS5 & Xbox Users"
-date: 2024-12-16T21:32:50.447Z
-updated: 2024-12-21T21:22:36.530Z
+date: 2024-12-22T04:04:10.762Z
+updated: 2024-12-26T18:55:59.449Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to fix Diablo 4 crashing on a PC
@@ -40,6 +40,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 5. [Close or uninstall conflicts apps](https://tools.techidaily.com/drivereasy/download/)
 6. [Update operating system](https://tools.techidaily.com/drivereasy/download/)
 7. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Upgrade your drivers
 
@@ -65,10 +69,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,6 +81,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 2) Download the Microsoft Accessories app on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/ms-accessories.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Run the app, it automatically detected the Microsoft controller which was connected to your PC.
 
@@ -98,6 +102,10 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/diablo-4-menu-options.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Graphics** tab, in the**Performance** section, make sure NVIDIA DLSS is NOT set to DLAA (anything but DLAA). And disable the**NVIDIA Reflex Low Latency** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/reflex-1.jpg)
@@ -106,15 +114,15 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/quality.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Move to the**Social** tab. Simply uncheck**Cross-Network Play** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/crossplay.jpg)
 
  5) Save the changes and back to the game, check if the game will crash again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4 – Remove overclocking
 
@@ -127,10 +135,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 3. Select BIOS Setup to access the BIOS.
 4. Find the reverting to default option in BIOS settings, select it, save changes, and exit.  
  If you can’t find the option, find the Advanced tab, go to Performance and look for CPU overclocking. Then disable it and save changes.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Close or uninstall conflicts apps
 
@@ -148,10 +152,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 6 – Update operating system
 
  An outdated operating system can cause underlying errors, including game crashing. There are gamers who fix Diablo 4 crashing by upgrading their operating system.
@@ -160,10 +160,6 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 2. Click the Update & Security.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/update-security.jpg)
 3. In the right panel, click Check for update. Your PC will check for updates immediately.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/check-for-updates.jpg)
 4. Windows will download and install the new updates automatically. When the process is finished, reboot your PC and relaunch the game to check if the problem has been solved.
@@ -178,7 +174,7 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -188,22 +184,26 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 5. Restart your PC and check whether the Diablo 4 crashing is solved or not.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Diablo 4 crashing fixes for PS5/Xbox
 
  Many PS5 and Xbox gamers say they’ve encountered constant crashes. They have to start restarting the game after each dungeon which is annoying. Restarting works for PS5, but that’s not a permanent fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Free up storage
 
  If your storage is nearly full, you can clear up some space and see if it helps. The full storage might be a cause of the game crashing.
 
  You can delete or remove data to other storage spaces, but it’s better to leave more than half storage in the[extended storage drive](https://www.playstation.com/en-us/support/hardware/ps5-manage-storage-space/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Disable crossplay
 
@@ -234,19 +234,22 @@ It’s very frustrating to experience endless Fenris error crashes, blue screen 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-future-of-cosmetics-youtube-gurus-on-the-rise/"><u>[Updated] Future of Cosmetics YouTube Gurus on the Rise</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-optimizing-space-setting-up-a-vr-capable-area/"><u>[Updated] Optimizing Space Setting Up a VR-Capable Area</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-essential-tips-for-navigating-telegram-web/"><u>2024 Approved Essential Tips for Navigating Telegram Web</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefield-5-performance-boost-a-10-step-guide-to-reducing-latency/"><u>Battlefield 5 Performance Boost: A 10-Step Guide to Reducing Latency</u></a></li>
-<li><a href="https://app-tips.techidaily.com/becoming-an-effective-tech-team-leader-by-understanding-the-core-business-strategies-for-success-on-zdnet/"><u>Becoming an Effective Tech Team Leader by Understanding the Core Business | Strategies for Success on ZDNet</u></a></li>
-<li><a href="https://blog-min.techidaily.com/effortless-mov-file-format-converter-on-the-web-with-moveavi-no-cost-involved/"><u>Effortless MOV File Format Converter on the Web with Moveavi, No Cost Involved!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-overwatch-2-running-smoothly-a-guide-to-7-crucial-fixes/"><u>How to Get Overwatch 2 Running Smoothly : A Guide to 7 Crucial Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009546290-stardew-valley-wont-load-here-are-the-proven-remedies/"><u>Stardew Valley Won't Load? Here Are the Proven Remedies</u></a></li>
-<li><a href="https://win-able.techidaily.com/steam-not-working-heres-how-to-stabilize-your-game-launcher-swiftly/"><u>Steam Not Working? Here's How to Stabilize Your Game Launcher Swiftly</u></a></li>
-<li><a href="https://win-answers.techidaily.com/step-by-step-approach-to-rectify-the-destructive-fatal-error-ark/"><u>Step-by-Step Approach to Rectify the Destructive 'Fatal Error ARK'</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-repair-risk-of-rain-2-game-crashes-effective-strategies-inside/"><u>Troubleshoot and Repair Risk of Rain 2 Game Crashes – Effective Strategies Inside!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/troubleshooting-how-to-recover-from-a-sudden-crash-of-your-default-radeon-wattman-configurations/"><u>Troubleshooting: How to Recover From a Sudden Crash of Your Default Radeon Wattman Configurations</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-solution-to-the-ue4-madness-repair-steps-for-the-unreal-engine-4-crash-error-in-outriders-gameplay/"><u>Ultimate Solution to the 'UE4-Madness': Repair Steps for the Unreal Engine 4 Crash Error in Outriders Gameplay</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-slow-down-the-action-top-10-video-players-for-smooth-playback/"><u>Updated In 2024, Slow Down the Action Top 10 Video Players for Smooth Playback</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-gain-more-followers-masterful-youtube-marketing-techniques/"><u>[New] In 2024, Gain More Followers Masterful YouTube Marketing Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-world-of-warcraft-error-132-fatal-exception/"><u>[Solved] World of Warcraft Error 132 Fatal Exception</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-enhancing-your-facebook-presence-with-effective-covers/"><u>[Updated] In 2024, Enhancing Your Facebook Presence with Effective Covers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-social-networking-visual-delights-on-fb/"><u>[Updated] In 2024, Top Social Networking Visual Delights on FB</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-subtle-sound-reduction-tactics-with-garageband-for-2024/"><u>[Updated] Subtle Sound Reduction Tactics with Garageband for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/apex-legends-engine-malfunctions-heres-how-to-diagnose-and-repair-them-effectively/"><u>Apex Legends Engine Malfunctions? Here's How to Diagnose and Repair Them Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-fixing-the-dark-screen-error-in-rainbow-six-siege-gameplay-for-pc-gamers/"><u>Diagnosing and Fixing the Dark Screen Error in Rainbow Six Siege Gameplay for PC Gamers</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diy-repair-how-to-get-your-sennheiser-game-one-microphone-back-on-track/"><u>DIY Repair: How To Get Your Sennheiser Game One Microphone Back On Track</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-solutions-to-decrease-latency-and-enhance-fps-for-counter-strike-2-on-pcs/"><u>Easy Solutions to Decrease Latency & Enhance FPS for Counter-Strike 2 on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminate-lags-in-resident-evil-village-on-pc-essential-troubleshooting-guide-for-gamers/"><u>Eliminate Lags in Resident Evil Village on PC: Essential Troubleshooting Guide for Gamers</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/expand-your-screen-space-with-yls-expert-tips-for-multi-monitor-setups/"><u>Expand Your Screen Space with YL's Expert Tips for Multi-Monitor Setups!</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-halo-infinite-solutions-to-the-troublesome-black-screen-problem/"><u>Fixing Halo Infinite: Solutions to the Troublesome Black Screen Problem</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-from-apple-iphone-11-pro-max-or-ipad-by-drfone-ios/"><u>In 2024, How to Bypass Activation Lock from Apple iPhone 11 Pro Max or iPad?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-the-definitive-guide-to-film-gear-buying-tips/"><u>In 2024, The Definitive Guide to Film Gear Buying Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-solution-for-when-witcher-3-wild-hunt-fails-to-open/"><u>Mastering the Solution for When Witcher 3: Wild Hunt Fails to Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-making-rainbow-six-extraction-compatible-with-your-system/"><u>Step-by-Step Guide: Making Rainbow Six Extraction Compatible with Your System</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stabilizing-your-blender-program-on-desktop/"><u>Troubleshooting Guide: Stabilizing Your Blender Program on Desktop</u></a></li>
 </ul></div>
 

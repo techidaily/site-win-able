@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Mastering Roller Champions Co-Op Mode"
-date: 2024-08-23T11:13:48.923Z
-updated: 2024-08-24T11:13:48.923Z
+date: 2024-12-26T06:20:36.239Z
+updated: 2024-12-27T08:36:17.319Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/db345622b66c3b6984b775950925cc8114e2a134a
 ## DOOM Eternal Installation Woes? Here's Your Ultimate Fix Guide
 
 Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry not – you’re not alone. There may be quite a few causes behind this issue, but it’s usually not that hard to resolve.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Check your computer specs first
 
@@ -93,18 +97,12 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy Pro to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Run DOOM Eternal and wait to see if it still fails to launch. If it does, give Fix 2 a try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Use dedicated GPU
 
  If you’re using an integrated GPU, then it’s probably the culprit for your problem. Perform the following actions to make sure you run DOOM Eternal with the NVIDIA dedicated GPU:
@@ -113,9 +111,6 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the left pane, click**3D Settings > Manage 3D Settings** .
 
  3) On the right panel, go to the**Program Settings** tab and select**DOOM Eternal** from the drop-down list.
@@ -131,13 +126,18 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Plug your monitors into the primary GPU
 
  DOOM Eternal may fail to start if you have multiple monitors plugged into different GPUs, so make sure you plug both monitors into the primary GPU (also the dedicated one). After that, relaunch the game to see if it keeps crashing. If it doesn’t, then congrats – you’ve fixed the issue! If it does, please move on to the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install DirectX End-User Runtimes
 
@@ -146,8 +146,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your BIOS
 
  There’s a chance that your crash issue is caused by the out-dated Basic Input Output System (BIOS). Since BIOS plays a crucial role in your computer’s normal functioning, you must know that the process of updating BIOS could be risky and error-prone due to various reasons. For example, if you install a wrong BIOS version or your computer loses power during the update, major problems will come along – you might need to spend much to get your PC repaired. In short, perform a BIOS update at your own risk.
@@ -165,11 +166,16 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Exercise caution with this step.** If you mistakenly end the important system processes, your computer may fail to work properly.
 
@@ -181,9 +187,6 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Verify the integrity of game files
 
  If you play DOOM Eternal on Steam, you can verify the integrity of your game files using the following procedure:
@@ -193,8 +196,9 @@ Experiencing crashes on launch when you’re about to play DOOM Eternal? Worry n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Right-click **DOOM Eternal** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-22.png)
@@ -217,9 +221,6 @@ If this fix is to no avail, move on to Fix 8 below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
@@ -229,8 +230,9 @@ If this fix is to no avail, move on to Fix 8 below.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 9: Wait for new game patches
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else rather than sit tight, you can also forward your problem to the developer or look for other solutions on related forums.
@@ -248,8 +250,6 @@ If this fix is to no avail, move on to Fix 8 below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +257,16 @@ If this fix is to no avail, move on to Fix 8 below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-essential-techniques-for-quiet-filming/"><u>[New] 2024 Approved Essential Techniques for Quiet Filming</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-the-cinematic-revolution-exploring-the-best-shots-and-lighting-tips-24-edition-for-2024/"><u>[Updated] The Cinematic Revolution Exploring the Best Shots & Lighting Tips - '24 Edition for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/enhancing-visuals-how-to-address-and-fix-blurry-graphics-while-playing-cod-warzone-on-your-pc/"><u>Enhancing Visuals - How to Address and Fix Blurry Graphics While Playing COD: Warzone on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-for-gta-v-sudden-game-crashes-troubleshooting-tips/"><u>Fixes for GTA V Sudden Game Crashes: Troubleshooting Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-successfully-connect-to-steam-servers-despite-errors/"><u>How to Successfully Connect to Steam Servers Despite Errors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-motorola-moto-g24-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Motorola Moto G24 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-video-editing-essentials-turning-your-avis-into-eye-catching-gifs-with-filmora-on-windowsmacos/"><u>In 2024, Video Editing Essentials Turning Your AVIs Into Eye-Catching GIFs with Filmora on Windows/macOS</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/tips-and-tricks-for-setting-up-your-sony-xperia-5-v-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Sony Xperia 5 V Phone Pattern Lock</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolve-the-problem-with-audio-configuration-in-itunes/"><u>Troubleshooting Tips: Resolve the 'Problem with Audio Configuration' In iTunes</u></a></li>
+</ul></div>
 

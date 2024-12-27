@@ -1,7 +1,7 @@
 ---
 title: "L.A. Noire Coming To Your Computer: The Update That Was Hard to Believe Is True!"
-date: 2024-08-18T16:25:10.053Z
-updated: 2024-08-19T16:25:10.053Z
+date: 2024-12-19T22:37:07.962Z
+updated: 2024-12-26T22:49:04.321Z
 tags:
   - win11
   - win10
@@ -81,21 +81,25 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
  Your game may crash if it doesn’t meet the system requirements for the game. So before attempting anything more advanced, you should compare your system to the officially suggested specifications to see if your PC is powerful enough to run the game.
@@ -117,8 +121,18 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
@@ -132,11 +146,13 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
-4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Launch Vanguard again and check to see if the crashing issue still occurs.
+
 ### Fix 5: Disable overlays
 
  The overlay gives you access to features and apps without having to leave the game. However, some players report that the feature could interfere with their gameplay and even block game files.
@@ -145,9 +161,6 @@ To check the specs of your PC:
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -158,9 +171,6 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 ### Fix 7: Make sure your system is up to date
@@ -172,11 +182,13 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer.
 
 ---
@@ -191,8 +203,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +210,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-analyzing-the-impact-of-reduced-photo-jiggles-in-adobe/"><u>[New] Analyzing the Impact of Reduced Photo Jiggles in Adobe</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-how-to-automate-iphones-video-repetition/"><u>[New] In 2024, How to Automate iPhone's Video Repetition</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-analyzing-the-best-for-gaming-screens/"><u>[Updated] In 2024, Analyzing the Best for Gaming Screens</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-directing-rhythms-integrating-sounds-into-youtube/"><u>[Updated] In 2024, Directing Rhythms Integrating Sounds Into Youtube</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-nailing-your-online-visibility-with-optimal-youtube-thumbnail-dimensions/"><u>[Updated] Nailing Your Online Visibility with Optimal YouTube Thumbnail Dimensions</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-solution-to-correct-the-infamous-leaf-bug-in-apex-legends/"><u>A Step-by-Step Solution to Correct the Infamous 'Leaf' Bug in Apex Legends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-ranked-4k-uhd-media-viewers-available-at-no-cost/"><u>Best-Ranked 4K UHD Media Viewers Available at No Cost</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-encountering-chilling-glitches-solutions-and-fixes/"><u>Cyberpunk 2077 Encountering Chilling Glitches: Solutions & Fixes</u></a></li>
+<li><a href="https://win-able.techidaily.com/diablo-immortal-stability-fixes-and-optimizations-avoiding-crashes-in-your-2024-adventure/"><u>Diablo Immortal Stability Fixes and Optimizations: Avoiding Crashes in Your 2024 Adventure</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-on-overcoming-black-screen-problems-now-solved/"><u>Expert Tips on Overcoming Black Screen Problems, Now Solved!</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/freshly-released-realtek-bluetooth-drivers-optimized-for-windows-11-and-windows-10-systems/"><u>Freshly Released RealTek Bluetooth Drivers – Optimized for Windows 11 and Windows 10 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-overcome-failed-to-connect-errors-on-path-of-exile-in-the-new-year-2024-a-complete-walkthrough/"><u>How to Overcome 'Failed To Connect' Errors on Path of Exile in the New Year 2024 - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/keep-it-private-heres-leaving-chatgpt/"><u>Keep It Private? Here’s Leaving ChatGPT</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-stalls-in-qbittorent-a-step-by-step-guide/"><u>Resolving Stalls in qBittorent: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011402149-solve-the-problem-unstuck-and-get-your-windows-pressentational-bar-working-again/"><u>Solve the Problem: Unstuck and Get Your Windows Pressentational Bar Working Again!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/speeding-up-vimeo-streams-efficiently-for-2024/"><u>Speeding Up Vimeo Streams Efficiently for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-gratis-video-schneidsoftware-fur-windows-11-8-und-7-sowie-macos-erfahren-sie-wie-man-ungewunschtes-filmmaterial-effizient-entfernt/"><u>Top Gratis Video-Schneidsoftware Für Windows 11, 8 Und 7 Sowie macOS - Erfahren Sie Wie Man Ungewünschtes Filmmaterial Effizient Entfernt</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-eradicate-sims-4-performance-issues-on-your-pc/"><u>Ultimate Guide: Eradicate Sims 4 Performance Issues on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-woes-decode-and-repair-dev-error-5573-on-your-gaming-devices/"><u>Warzone Woes? Decode and Repair Dev Error 5573 on Your Gaming Devices</u></a></li>
+</ul></div>
 

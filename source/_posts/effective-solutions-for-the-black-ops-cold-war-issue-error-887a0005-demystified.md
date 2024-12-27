@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for the Black Ops Cold War Issue - Error 887A0005 Demystified
-date: 2024-12-20T20:34:15.923Z
-updated: 2024-12-21T23:32:00.980Z
+date: 2024-12-19T17:17:07.565Z
+updated: 2024-12-26T19:58:25.851Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ thumbnail: https://thmb.techidaily.com/b0e6c7278d6ccf548c998db09b6cda475848470d5
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,6 +56,10 @@ You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of this error is that you’re using**a faulty or outdated graphics driver** . If you want to fully enjoy a new AAA title, first make sure your graphics driver is up to date.
@@ -74,7 +82,7 @@ If this trick doesn’t help you, simply continue to the next one.
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -90,7 +98,7 @@ And it’s fairly easy to update:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -98,10 +106,6 @@ And it’s fairly easy to update:
  Once you’ve installed all the system updates, restart your PC and test the gameplay in Black Ops Cold War.
 
  If the updates don’t stop the crash, you can take a look at the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
@@ -115,18 +119,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
@@ -143,10 +147,6 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Under the**RAY TRACING** section, disable all three options.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-disable-ray-tracing.jpg)
 3. Restart the game and test the gameplay.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  None of these fixes can help you? Check out[this post](https://tools.techidaily.com/drivereasy/download/) for more advanced troubleshooting.
 
@@ -169,21 +169,22 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/new-2024-approved-ace-your-workflow-fast-signature-backdrop-elimination/"><u>[New] 2024 Approved Ace Your Workflow Fast Signature Backdrop Elimination</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-secrets-to-seamless-overwatch-game-captures-unveiled/"><u>[New] 2024 Approved Secrets to Seamless Overwatch Game Captures Unveiled</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-substitutes-to-winmovie-making-software/"><u>[New] Substitutes to WinMovie Making Software</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-client-reviews-the-heart-of-modern-marketing-strategies/"><u>[Updated] Client Reviews The Heart of Modern Marketing Strategies</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-effortless-youtube-video-to-text-conversion-at-no-cost/"><u>[Updated] Effortless YouTube Video to Text Conversion at No Cost!</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-navigating-copyright-on-youtube-and-cc-for-2024/"><u>[Updated] Navigating Copyright on YouTube & CC for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/elden-ring-delay-explained-unveiling-the-reasons-behind-the-postponed-launch/"><u>Elden Ring Delay Explained - Unveiling the Reasons Behind the Postponed Launch</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-past-a-hang-up-ultimate-guide-to-fixing-dota-2-loading-delays/"><u>Getting Past a Hang-Up: Ultimate Guide to Fixing Dota 2 Loading Delays</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-stabilizing-palworld-game-performance-on-pcs/"><u>Guide to Stabilizing PalWorld Game Performance on PCs</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-on-your-apple-iphone-14-plus-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock on your Apple iPhone 14 Plus and iPad?</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/in-2024-unlock-laughter-traps-20-quirky-fb-detention-anecdotes-for-amusement/"><u>In 2024, Unlock Laughter Traps 20 Quirky FB Detention Anecdotes for Amusement</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed-for-2024/"><u>Journey to Metaverse Leading VR Headsets Reviewed for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-your-fnaf-security-breach-pc-errors-a-step-by-step-guide/"><u>Solve Your FNaF Security Breach PC Errors - A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-issues-with-pathfinder-wrath-of-the-righteous-troubleshooting-game-start-up-problems/"><u>Solving Issues with Pathfinder: Wrath of the Righteous - Troubleshooting Game Start-Up Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-repairing-damaged-video-game-data-files-pc-2024/"><u>Ultimate Guide: Repairing Damaged Video Game Data Files (PC) - 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/unlock-seamless-gameplay-in-red-dead-redemption-ii-by-resolving-fps-drops-and-stuttering-issues/"><u>Unlock Seamless Gameplay in Red Dead Redemption II by Resolving FPS Drops & Stuttering Issues</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-break-the-ice-how-to-make-a-hit-youtube-reaction-in-just-15-minutes-or-less/"><u>[Updated] 2024 Approved Break the Ice - How to Make a Hit YouTube Reaction in Just 15 Minutes or Less</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-deciphering-your-affection-filmoras-top-10-features/"><u>[Updated] 2024 Approved Deciphering Your Affection Filmora’s Top 10 Features</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/7-schnelle-tricks-um-ihre-lieblingsmusik-von-iphone-auf-verschiedene-ipad-modelle-zu-ubertragen/"><u>7 Schnelle Tricks, Um Ihre Lieblingsmusik Von iPhone Auf Verschiedene iPad Modelle Zu Übertragen</u></a></li>
+<li><a href="https://win-able.techidaily.com/biomutant-for-pc-crash-dilemma-discover-the-ultimate-fixes-and-hacks-updated-for-2anno/"><u>Biomutant for PC Crash Dilemma? Discover the Ultimate Fixes and Hacks (Updated for 2Anno)</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/counterclockwise-chronicles-iphones-video-tutorial-for-2024/"><u>Counterclockwise Chronicles IPhone's Video Tutorial for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/dragons-dogma-2-pc-stability-essential-fixes-for-smooth-gaming/"><u>Dragon's Dogma 2 PC Stability: Essential Fixes for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/eliminating-pauses-and-hitches-tips-for-a-seamless-overwatch-gaming-experience/"><u>Eliminating Pauses and Hitches: Tips for a Seamless Overwatch Gaming Experience</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-jailbreak-icloud-locked-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to jailbreak iCloud locked Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-speed-up-your-sluggish-chrome-in-minutes/"><u>How to Speed Up Your Sluggish Chrome in Minutes</u></a></li>
+<li><a href="https://win-able.techidaily.com/improving-gameplay-a-guide-to-enhancing-frame-rate-and-resolving-stutters-in-the-ascent/"><u>Improving Gameplay: A Guide to Enhancing Frame Rate & Resolving Stutters in The Ascent</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-ultimate-guide-on-iphone-6-plus-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Ultimate Guide on iPhone 6 Plus iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722992679506-pharmacogenomics-can-influence-the-risk-of-drug-induced-liver-injury-dili-by-affecting-drug-metabolism-pathways/"><u>Pharmacogenomics Can Influence the Risk of Drug-Induced Liver Injury (DILI) by Affecting Drug Metabolism Pathways</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy A24 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-xiaomi-redmi-k70-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-the-annoying-directx-error-in-anno-1800/"><u>Resolved: How to Fix the Annoying DirectX Error in Anno 1800</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/terramat-cubefit-evaluation-revolutionize-your-workout-in-a-stationary-position/"><u>TerraMat CubeFit Evaluation: Revolutionize Your Workout in a Stationary Position</u></a></li>
+<li><a href="https://win-able.techidaily.com/warframe-wont-start-heres-how-to-overcome-the-common-error/"><u>Warframe Won’t Start? Here’s How to Overcome the Common Error!</u></a></li>
 </ul></div>
 

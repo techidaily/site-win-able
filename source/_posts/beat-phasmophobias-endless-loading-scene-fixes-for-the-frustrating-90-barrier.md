@@ -1,7 +1,7 @@
 ---
 title: Beat Phasmophobia's Endless Loading Scene - Fixes for the Frustrating 90%% Barrier
-date: 2024-12-18T20:10:52.624Z
-updated: 2024-12-21T18:15:37.793Z
+date: 2024-12-21T02:23:59.411Z
+updated: 2024-12-27T13:26:57.388Z
 tags:
   - win11
   - win10
@@ -21,10 +21,6 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -64,6 +60,10 @@ Phasmophobia is, according to the reviews, the best ghost game ever made. It all
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  Using outdated drivers can affect performance. So we recommend checking for driver updates on a regular basis. When you encounter the issue of a loading screen stuck, updating your drivers especially your graphics driver could be the best shot you take.
@@ -81,10 +81,6 @@ OR
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) , [AMD](https://www.amd.com/en/support) , and[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) keep releasing driver updates. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
 
  Once you’ve downloaded the drivers, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your drivers**
 
@@ -110,10 +106,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 3: Verify the integrity of game files
 
  Verifying the integrity of game files is a recommended troubleshooting step you should take when you’re faced with game bugs like the screen stuck at loading. It can help you verify if the integrity of your game files is intact. If it is not, it’ll then restore any missing or corrupted files. Here’s how you can do this:
@@ -121,10 +113,6 @@ OR
  1) Launch Steam client. From the**LIBRARY** section, right-click on**Phasmophobia** and select**Properties** from the menu.
 
 ![verify integrity of game files Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-Properties-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Select the**LOCAL FILES** tab and click the**VERIFY INTEGRITY OF GAME FILES…** button.
 
@@ -134,6 +122,10 @@ OR
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Delete the game’s save file
 
  If your game files are corrupt, they can cause your game to be stuck on the loading screen. Deleting the files can sometimes resolve the problem:
@@ -141,7 +133,7 @@ OR
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-icon.jpg) and**R** at the same time to invoke the Run box.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic GamesPhasmophobia** , then press**Enter** on your keyboard.
@@ -157,7 +149,7 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Run Steam as an administrator
@@ -168,6 +160,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-right-click-from-the-desktop-and-select-open-file-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Scroll down and find the **Steam application** . It should be highlighted. Right-click on it and select **Properties** .
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-Steam-as-an-administrator-select-Properties-1.jpg)
@@ -176,13 +172,13 @@ OR
 
 ![run Steam as an administrator to fix Phasmophobia stuck at 90% loading screen](https://images.drivereasy.com/wp-content/uploads/2020/11/run-steam-as-an-administrator-apply-ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If this didn’t work, move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Reset your network
 
@@ -194,9 +190,17 @@ Here’s how you can do this:
   
 ![reset network](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-type-in-the-search-bar.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Reset now** .  
   
 ![do a network reset](https://images.drivereasy.com/wp-content/uploads/2020/10/network-reset-click-Reset-now.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Yes** .
 
@@ -213,10 +217,6 @@ Now restart your computer and your problem should be fixed.
 Take these steps:
 
  1) On your keyboard, press the**Windows logo key** ![windows logo key](https://images.drivereasy.com/wp-content/uploads/2020/10/Windows.png) and**R** at the same time to invoke the Run box.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Type**%appdata%LocalLowKinetic Games** and press**Enter** .
 
@@ -252,19 +252,18 @@ Take these steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-dissecting-video-platform-distinctions-youtube-vs-dailymention/"><u>[New] In 2024, Dissecting Video Platform Distinctions YouTube Vs. DailyMention</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-viral-for-2024/"><u>[New] Twitter Video Viral for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-capturing-vistas-with-the-high-end-z32x-monitor/"><u>[Updated] Capturing Vistas with the High-End Z32X Monitor</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-fb-link-mastery-8-powerful-free-extractor-tools/"><u>[Updated] In 2024, FB Link Mastery 8 Powerful FREE Extractor Tools</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-in-2024-step-by-step-save-youtube-sounds-directly/"><u>[Updated] In 2024, Step-by-Step Save YouTube Sounds Directly</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-iphoneandroids-top-sticker-adding-apps-the-essential-10-collection/"><u>2024 Approved IPhone/Android's Top Sticker-Adding Apps The Essential 10 Collection</u></a></li>
-<li><a href="https://win-able.techidaily.com/deathloop-launch-glitches-effective-solutions-discovered/"><u>Deathloop Launch Glitches - Effective Solutions Discovered</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/has-gpt-transformed-the-landscape-of-college-writing-projects/"><u>Has GPT Transformed the Landscape of College Writing Projects?</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-nokia-c210-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Nokia C210</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-frustration-resolving-persistent-dirt-5-crashes-on-windows-machines/"><u>No More Frustration: Resolving Persistent Dirt 5 Crashes on Windows Machines!</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-fixes-for-smooth-csgo-gaming-without-the-hiccups/"><u>Quick Fixes for Smooth CS:GO Gaming Without the Hiccups</u></a></li>
-<li><a href="https://fox-that.techidaily.com/revive-your-iphones-performance-by-fixing-these-5-problems-using-dfu-modes-explained/"><u>Revive Your iPhone's Performance by Fixing These 5 Problems Using DFU Modes Explained</u></a></li>
-<li><a href="https://win-able.techidaily.com/smooth-sailing-for-age-of-empires-4-say-goodbye-to-pc-hiccups/"><u>Smooth Sailing for Age of Empires 4: Say Goodbye to PC Hiccups</u></a></li>
-<li><a href="https://win-able.techidaily.com/solving-connectivity-and-latency-problems-in-the-latest-game-update/"><u>Solving Connectivity & Latency Problems in the Latest Game Update</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-avoiding-common-pitfalls-in-drone-battery-choices/"><u>[New] Avoiding Common Pitfalls in Drone Battery Choices</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-easy-desktop-screen-capture-method/"><u>[Updated] 2024 Approved Easy Desktop Screen Capture Method</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-squeezing-light-from-iphone-nocturnes/"><u>2024 Approved Squeezing Light From iPhone Nocturnes</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-poco-x6-pro-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Poco X6 Pro Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/bypassing-launch-errors-in-borderlands-3-effective-strategies-you-can-apply-now/"><u>Bypassing Launch Errors in Borderlands 3: Effective Strategies You Can Apply Now</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/diving-deeper-distinguishing-the-unique-capabilities-of-siri-from-chatgpt/"><u>Diving Deeper: Distinguishing the Unique Capabilities of Siri From ChatGPT</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/essential-guide-to-preserving-screen-chats/"><u>Essential Guide to Preserving Screen Chats</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-from-chrome-os-to-linux-a-comprehensive-installation-guide/"><u>New 2024 Approved From Chrome OS to Linux A Comprehensive Installation Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-failures-a-users-handbook-for-pacficial-drive-setup/"><u>Overcoming Launch Failures: A User's Handbook for Pacficial Drive Setup</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-frame-rate-and-stutter-issues-in-avatar-frontiers-of-pandora/"><u>Resolving Frame Rate & Stutter Issues in Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-final-epoch-conundrum-a-step-by-step-fix-for-persistent-pc-crashing-updated-tips/"><u>The Final Epoch Conundrum: A Step-by-Step Fix for Persistent PC Crashing (Updated Tips )</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-disco-elysium-pc-launch-errors-successfully/"><u>Troubleshooting Guide: Fixing Disco Elysium PC Launch Errors Successfully</u></a></li>
+<li><a href="https://win-able.techidaily.com/winning-the-battle-against-no-record-solutions-for-shadowplay-on-pcs/"><u>Winning the Battle Against No-Record: Solutions for ShadowPlay on PCs</u></a></li>
 </ul></div>
 

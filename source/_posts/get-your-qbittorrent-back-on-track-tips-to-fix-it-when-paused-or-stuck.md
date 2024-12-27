@@ -1,7 +1,7 @@
 ---
 title: "Get Your qBittorrent Back on Track: Tips to Fix It when Paused or Stuck"
-date: 2024-08-18T16:24:08.091Z
-updated: 2024-08-19T16:24:08.091Z
+date: 2024-12-26T12:11:16.416Z
+updated: 2024-12-26T20:19:51.131Z
 tags:
   - win11
   - win10
@@ -35,15 +35,16 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 4. [Reinstall the application](https://tools.techidaily.com/drivereasy/download/)
 5. [Check firewall settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the number of seed/peer
 
  The Stalled status usually appeared when you try to download torrents that have a low number of seed/peers. So you can check the number of speed/peer first. You can reconnect to peers by reinserting torrent in it and the speed will recover a bit. It’s just a temporary fix but worth trying.
 
  If your speed/peers were fine, you can restart the qBittorrent. Some users said after reboot the program, the qBittorrent client works like a charm.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Your ISP might be throttling
 
  If your speed/peers were fine and restarting doesn’t make a difference, check your internet connection. Your ISP might be throttling which leads to Stalled status.
@@ -61,18 +62,15 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 Then you should use NordVPN when downloading torrents with qBittorrent.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Check your hard drive space
 
  Some users have reported when your drive was full, no more data could be written to it which cause the qBittorrent to be stalled issue.
 
  You can adjust the install destination to a desirable place, or you can clean up the disc by deleting useless files.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall the application
 
  Some users install qBittorrent in an external HDD drive. Once you remove the default drive, it might cause the qBittorrent stalled status. It’s because the program couldn’t find the default folder.
@@ -80,18 +78,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. In the search bar, type control to open the Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-controlpanel.jpg)
 3. Find qBittorrent and right-click on it. Click**Uninstall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-qb.jpg)
 4. Go to[qBittorent webpage](https://www.fosshub.com/qBittorrent.html) , download, and install it in a local drive with enough space.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Check firewall settings
@@ -112,8 +115,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +122,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-perfecting-playback-game-capturing-on-windows-10/"><u>[New] 2024 Approved Perfecting Playback Game Capturing on Windows 10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-youtube-pace-control-top-tips-for-slower-views-48-chars/"><u>[Updated] Mastering YouTube Pace Control Top Tips for Slower Views (48 Chars)</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-honor-x50i-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Honor X50i? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/cracking-the-code-to-restore-sound-in-evil-genius-2/"><u>Cracking the Code to Restore Sound in 'Evil Genius 2'</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/dvd-decrypterdvdmp4/"><u>DVD Decrypterを使ったDVDからMP4へのシンプル変換法：専門家ガイド</u></a></li>
+<li><a href="https://win-able.techidaily.com/far-cry-5-fixes-overcoming-the-perpetual-loading-screen-issue/"><u>Far Cry 5 Fixes: Overcoming the Perpetual Loading Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-outpost-war-of-the-champions-crashing-problems-in-windows-10-and-11/"><u>Fix Outpost: War of the Champions Crashing Problems in Windows 10 and 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-infinix-note-30-vip-racing-edition-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Infinix Note 30 VIP Racing Edition Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-check-if-your-xiaomi-14-pro-is-unlocked-by-drfone-android/"><u>In 2024, How To Check if Your Xiaomi 14 Pro Is Unlocked</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-stability-in-hyper-scape-solutions-for-pc-crash-prevention-and-recovery/"><u>Mastering Stability in Hyper Scape: Solutions for PC Crash Prevention and Recovery</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-errors-a-guide-to-successfully-running-payday-2-on-pc/"><u>Overcoming Launch Errors: A Guide to Successfully Running Payday 2 on PC</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-cbt-with-machine-learning-powered-assistance/"><u>Revolutionizing CBT with Machine Learning-Powered Assistance</u></a></li>
+<li><a href="https://win-able.techidaily.com/rocket-league-performance-restored-say-goodbye-to-freezing-glitches/"><u>Rocket League Performance Restored - Say Goodbye to Freezing Glitches!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/top-80s-cinematic-elements-for-modern-editing/"><u>Top 80S Cinematic Elements for Modern Editing</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723205834727-wireless-mouse-stops-and-restarts-on-windows-1110-heres-how-to-fix-it/"><u>Wireless Mouse Stops & Restarts on Windows 11/10? Here's How to Fix It!</u></a></li>
+</ul></div>
 

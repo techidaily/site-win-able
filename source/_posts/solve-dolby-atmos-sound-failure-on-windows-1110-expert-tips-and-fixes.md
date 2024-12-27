@@ -1,7 +1,7 @@
 ---
 title: Solve Dolby Atmos Sound Failure on Windows 11/10 – Expert Tips & Fixes
-date: 2024-12-14T18:50:47.445Z
-updated: 2024-12-21T19:59:57.037Z
+date: 2024-12-22T07:00:48.610Z
+updated: 2024-12-27T06:42:56.427Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/35db44591f3dcbc09fec63cf1897abe760727c167
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,10 +47,14 @@ Here’s how to do it on the Epic Games client:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Click the**ellipses** at the bottom right corner of Sid Meier’s Civilization VI. Then select**Verify** and wait for the process to complete.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-verify.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you can try again and see if Civ 6 launches.
@@ -89,25 +89,13 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -116,6 +104,10 @@ If this solution doesn’t help, you can continue to the next one.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
@@ -130,7 +122,7 @@ If this solution doesn’t help, you can continue to the next one.
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
@@ -146,16 +138,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 2. Open the installer and follow the on-screen instructions to install.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -178,24 +178,24 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-clearer-horizons-the-ultimate-tweet-video-viewing-guide/"><u>[New] 2024 Approved Clearer Horizons The Ultimate Tweet Video Viewing Guide</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ndroid-centric-top-downloads-for-youtube-videos-explored/"><u>[New] Android-Centric Top Downloads for YouTube Videos Explored</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/vercoming-video-shadows-youtube-fix-tips/"><u>[New] Overcoming Video Shadows YouTube Fix Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-tier-window-snapper-for-win11-users-for-2024/"><u>[New] Top-Tier Window Snapper for Win11 Users for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-size-it-up-right-instagrams-best-videography-practices/"><u>[Updated] In 2024, Size It Up Right Instagram's Best Videography Practices</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-when-your-steelseries-gg-engine-wont-start-on-windows-guide/"><u>Comprehensive Fixes: When Your SteelSeries GG Engine Won't Start on Windows - Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/getting-your-origin-app-to-work-again-on-win10-and-win11-systems/"><u>Getting Your Origin App to Work Again on Win10 and Win11 Systems</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Realme Narzo N53</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-4-quick-fixes-for-your-warzones-persistent-directx-glitches/"><u>Master the 4 Quick Fixes for Your Warzone's Persistent DirectX Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-starfield-performance-tackling-the-cpu-hurdle-with-effective-methods/"><u>Mastering Starfield Performance: Tackling the CPU Hurdle with Effective Methods</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-wilds-of-valheim-without-interruption-fix-your-pc-game-crashes-now/"><u>Mastering the Wilds of Valheim Without Interruption - Fix Your PC Game Crashes Now!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/new-xml-files-demystified-a-beginners-guide-to-fcpx/"><u>New XML Files Demystified A Beginners Guide to FCPX</u></a></li>
-<li><a href="https://win-able.techidaily.com/top-10-methods-to-eliminate-lag-in-battlefield-5-a-comprehensive-guide/"><u>Top 10 Methods to Eliminate Lag in Battlefield 5: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/troubleshooting-and-solving-incompatibility-problems-in-drivers-by-yl-software/"><u>Troubleshooting & Solving Incompatibility Problems in Drivers by YL Software</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-endless-hunger-problems-resulting-in-pc-malfunctions/"><u>Troubleshooting Endless Hunger Problems Resulting in PC Malfunctions</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-to-enhancing-performance-and-increasing-fps-on-watch-dogs-legion/"><u>Ultimate Guide to Enhancing Performance & Increasing FPS on Watch Dogs: Legion</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-the-2024-steam-black-screen-and-loading-issues-in-just-7-easy-steps/"><u>Ultimate Guide: Solve the 2024 Steam Black Screen & Loading Issues in Just 7 Easy Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unleashing-ai-the-ultimate-guide-to-chatgpt-crypto-queries/"><u>Unleashing AI: The Ultimate Guide to ChatGPT Crypto Queries</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-direct-transmission-of-google-meet-into-your-youtube-playlist-for-2024/"><u>[New] Direct Transmission of Google Meet Into Your YouTube Playlist for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-unmatched-8-visual-effects-for-smooth-live-videos/"><u>[Updated] Unmatched 8 Visual Effects for Smooth Live Videos</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-ultimate-secret-amplifying-gaming-vids-with-hashes/"><u>[Updated] Unveiling the Ultimate Secret Amplifying Gaming Vids with Hashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-best-fixes-for-call-of-duty-warzone-lag-and-freezes-on-personal-computers/"><u>2024'S Best Fixes for Call of Duty Warzone Lag and Freezes on Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-fixes-for-stardew-valley-wont-open-a-step-by-step-solution/"><u>Common Fixes for 'Stardew Valley Won't Open': A Step-by-Step Solution</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comprehensive-acid-pro-evaluation-and-alternative-software-for-2024/"><u>Comprehensive ACID Pro Evaluation & Alternative Software for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/defeating-firefox-lag-and-freezes-the-definitive-2024-solution-guide/"><u>Defeating Firefox Lag & Freezes: The Definitive 2024 Solution Guide</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-email-protected-for-hp-officejet-pro-69-series/"><u>Easy Installation: [Email Protected] for HP Officejet Pro 69 Series</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-techniques-and-secrets-for-success-in-roller-champions-pc-multiplayer-edition-guide-updated-for-216/"><u>Essential Techniques & Secrets for Success in Roller Champions PC Multiplayer Edition (Guide Updated for 2^16)</u></a></li>
+<li><a href="https://win-able.techidaily.com/from-silent-dragons-to-roaring-battles-solving-skyrims-sound-malfunctions/"><u>From Silent Dragons to Roaring Battles: Solving Skyrim's Sound Malfunctions</u></a></li>
+<li><a href="https://fox-where.techidaily.com/how-to-fix-a-sluggish-pc-tips-on-dealing-with-lag-and-persistent-blue-screen-errors-expert-advice-from-yl-tech-support/"><u>How to Fix a Sluggish PC: Tips on Dealing with Lag and Persistent Blue Screen Errors - Expert Advice From YL Tech Support</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-premium-monitors-the-optimal-4k-choices-for-editors/"><u>In 2024, Premium Monitors The Optimal 4K Choices for Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/no-more-freezes-in-path-of-exile-easy-solutions-and-tips-for-smooth-gaming/"><u>No More Freezes in Path of Exile: Easy Solutions & Tips for Smooth Gaming</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-super-glitch-a-guide-to-handling-super-people-in-your-game/"><u>Solving the 'Super Glitch' - A Guide to Handling Super People in Your Game</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-troubleshooting-getting-rid-of-minecraft-launchers-error-0x80f8001-on-pc/"><u>Step-by-Step Troubleshooting: Getting Rid of Minecraft Launcher's Error 0X80^F8001 on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-resolving-call-of-duty-warzones-dev-error-6634/"><u>Ultimate Guide: Resolving Call of Duty Warzone's Dev Error 6634</u></a></li>
+<li><a href="https://win-great.techidaily.com/understanding-the-motivations-of-chinas-great-leap-forward-campaign-insights-from-yl-digital-innovations/"><u>Understanding the Motivations of China's Great Leap Forward Campaign – Insights From YL Digital Innovations</u></a></li>
+<li><a href="https://windows11.techidaily.com/unlocking-defaults-permissions-restoration-guide/"><u>Unlocking Defaults: Permissions Restoration Guide</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windows-10-storage-guide-how-to-save-and-organize-mov-for-2024/"><u>Windows 10 Storage Guide How to Save and Organize .mov for 2024</u></a></li>
 </ul></div>
 

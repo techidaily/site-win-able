@@ -1,7 +1,7 @@
 ---
 title: "Call of Duty: Modern Warfare 3 FPS Hitching Problems Revealed: Solutions & Prevention Tips"
-date: 2024-08-18T16:24:34.133Z
-updated: 2024-08-19T16:24:34.133Z
+date: 2024-12-24T18:44:41.688Z
+updated: 2024-12-27T10:52:58.537Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 4. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -62,15 +66,13 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  When you’re experiencing FPS drops during gameplay, nine times out of ten you’re using a**faulty or outdated graphics driver** . That’s also why we recommend gamers to always keep their graphics driver up to date. Driver updates come with not only bug fixes but improvements of compatibility with new titles.
@@ -81,9 +83,11 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -104,16 +108,16 @@ And it’s quite easy to update too:
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
  After updating your system, launch Modern Warfare and check if your FPS has been improved.
 
  If this method doesn’t help your case, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
 
@@ -130,27 +134,22 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -164,8 +163,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +170,26 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-dynamic-shade-adjuster-app/"><u>[New] In 2024, Dynamic Shade Adjuster App</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-exploring-the-gap-between-standard-and-virtual-reality-video/"><u>[Updated] Exploring the Gap Between Standard & Virtual Reality Video</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723007190604-access-granted-online-login-now-fully-operational-issue-resolved/"><u>Access Granted: Online Login Now Fully Operational - Issue Resolved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-launch-errors-in-division-2-with-these-proven-techniques/"><u>Beat Launch Errors in Division 2 with These Proven Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Samsung Galaxy S24 Ultra</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-v30-lite-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo V30 Lite 5G</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/cookiebot-delivering-tailored-content-and-analytics-through-advanced-tracking-technologies/"><u>Cookiebot: Delivering Tailored Content and Analytics Through Advanced Tracking Technologies</u></a></li>
+<li><a href="https://win-able.techidaily.com/crisp-and-clear-imagery-how-recent-fixes-have-refined-outriders-visual-presentation/"><u>Crisp and Clear Imagery: How Recent Fixes Have Refined Outriders' Visual Presentation</u></a></li>
+<li><a href="https://win-able.techidaily.com/cure-for-the-nier-gestalt-games-unexpected-closures-now-fixed/"><u>Cure for the NieR Gestalt Game's Unexpected Closures - Now Fixed!</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/digital-dexterity-quick-quality-trimming-of-vimeo-videos-5-ways/"><u>Digital Dexterity Quick, Quality Trimming of Vimeo Videos (5 Ways)</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-the-f1-2021-game-crashes-effective-solutions-for-pc-players/"><u>Fix the F1 2021 Game Crashes: Effective Solutions for PC Players</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/raw-footage-to-polished-videos-imovies-role-in-youtube-content-creation/"><u>From Raw Footage to Polished Videos IMovie's Role in YouTube Content Creation</u></a></li>
+<li><a href="https://win-able.techidaily.com/guide-diagnosing-and-repairing-outlook-not-connecting-problems/"><u>Guide: Diagnosing and Repairing 'Outlook Not Connecting' Problems</u></a></li>
+<li><a href="https://win-help.techidaily.com/resolve-eac3-playback-problems-a-detailed-guide-to-fixing-audio-non-compatibility-concerns/"><u>Resolve EAC3 Playback Problems: A Detailed Guide to Fixing Audio Non-Compatibility Concerns</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-microsoft-flight-simulator-2020-update-issue/"><u>Resolved: How to Fix Microsoft Flight Simulator 2020 Update Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-code-vein-game-lag-effective-solutions-and-tips/"><u>Resolving Code Vein Game Lag: Effective Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/speeding-up-origin-proven-techniques-to-enhance-download-velocity/"><u>Speeding Up Origin: Proven Techniques to Enhance Download Velocity</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/unboxing-the-tp-link-archer-c80-superior-performance-at-a-budget-friendly-price/"><u>Unboxing the TP-Link Archer C80: Superior Performance at a Budget-Friendly Price</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/why-snapchats-my-ai-stands-out-beyond-toys-and-games/"><u>Why Snapchat’s My AI Stands Out Beyond Toys and Games</u></a></li>
+</ul></div>
 

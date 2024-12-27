@@ -1,7 +1,7 @@
 ---
 title: "Far Cry 6 Fix: How To Resolve Black Screen Errors"
-date: 2024-08-18T16:25:50.412Z
-updated: 2024-08-19T16:25:50.412Z
+date: 2024-12-22T09:37:23.220Z
+updated: 2024-12-27T06:18:54.959Z
 tags:
   - win11
   - win10
@@ -62,8 +62,9 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -80,6 +81,10 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -87,8 +92,9 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
@@ -114,8 +120,9 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  Chances are the crashing issue has been triggered by a corrupted game file. If that’s indeed the cause, you should attempt to verify the integrity of all the game files, using the built-in tool of Steam, Origin, or Epic Games Launcher.
@@ -130,15 +137,16 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -158,8 +166,9 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
@@ -180,16 +189,10 @@ To completely shut down a program:
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
 **Note** that your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if Star Wars Jedi can run normally. (Consult your antivirus documentation for instructions on disabling it.)
@@ -205,8 +208,9 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -243,8 +247,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +254,24 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-everlasting-screenshot-functionality/"><u>[New] 2024 Approved Everlasting Screenshot Functionality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-elevating-selfies-and-pics-on-snapchat-edit-like-a-pro/"><u>[New] In 2024, Elevating Selfies and Pics on Snapchat – Edit Like a Pro</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-easy-access-best-free-youtube-subtitle-extractors/"><u>[Updated] Easy Access Best Free YouTube Subtitle Extractors</u></a></li>
+<li><a href="https://common-error.techidaily.com/beating-oddworld-soulstorm-pc-freezing-glitches-a-step-by-step-fix/"><u>Beating Oddworld: Soulstorm PC Freezing Glitches – A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-able.techidaily.com/boosting-forza-horizon-5-visuals-update-your-graphic-drivers-today/"><u>Boosting Forza Horizon 5 Visuals? Update Your Graphic Drivers Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-and-gpu-usage-issues-on-windows-11-solved/"><u>Cyberpunk 2077 and GPU Usage Issues on Windows 11 - Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/diagnosing-and-repairing-recurring-game-crashes-in-rainbow-six-siege-for-personal-computers/"><u>Diagnosing and Repairing Recurring Game Crashes in Rainbow Six: Siege for Personal Computers</u></a></li>
+<li><a href="https://win-able.techidaily.com/enabling-virtualization-a-comprehensive-tutorial-for-hyper-v-in-windows-11/"><u>Enabling Virtualization: A Comprehensive Tutorial for Hyper-V in Windows 11</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/ezvid-for-mac-the-ultimate-slideshow-and-video-making-solution-for-2024/"><u>Ezvid for Mac The Ultimate Slideshow and Video Making Solution for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-winwordexe-hiccups-effortless-strategies-for-word-users/"><u>Fixing WINWORD.EXE Hiccups: Effortless Strategies for Word Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-oppo-find-x6-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Oppo Find X6 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/hp-visual-unit-failure-heres-how-to-get-your-screen-working-again/"><u>HP Visual Unit Failure? Here’s How to Get Your Screen Working Again</u></a></li>
+<li><a href="https://driver-download.techidaily.com/nvidia-geforce-rtx-3070-ti-authorized-driver-download-options-for-windows-versions-vista-xp-and-earlier/"><u>NVIDIA GeForce RTX 3070 Ti: Authorized Driver Download Options for Windows Versions - Vista, XP & Earlier</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-steps-for-the-missing-vcompdll-error-message/"><u>Troubleshooting Steps for the Missing Vcomp.dll Error Message</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-to-stabilizing-age-of-wonders-planetfall-resolving-pc-crash-issues/"><u>Ultimate Guide to Stabilizing Age of Wonders: Planetfall - Resolving PC Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-solution-resolving-gameloops-instability-issues-on-windows-11-and-10-systems/"><u>Ultimate Solution: Resolving GameLoop's Instability Issues on Windows 11 and 10 Systems</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-free-and-clear-top-websites-for-public-domain-video-downloads/"><u>Updated 2024 Approved Free and Clear Top Websites for Public Domain Video Downloads</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Top 10 Tips to Eliminate Battlefield 5 Stuttering Issues
-date: 2024-08-18T16:25:12.208Z
-updated: 2024-08-19T16:25:12.208Z
+date: 2024-12-26T03:56:35.791Z
+updated: 2024-12-27T04:30:33.870Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/ddfdfc8e69381106d1b66c2809b663a8f7e41d96d
 ## No More Lag: Ultimate Guide to Eliminating Stuttering in Halo Infinite
 
 Halo Infinite is available now and some gamers have noticed that the game has been stuttering, lagging, and having low frame rates. If you encounter this issue and want to get it fixed, you’ve come to the right place. This post has gathered fixes that would help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -55,16 +59,10 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -72,8 +70,9 @@ There are mainly two ways you can update the graphics driver:
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -84,15 +83,16 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
@@ -101,9 +101,6 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
@@ -119,9 +116,14 @@ If it’s not working, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -139,8 +141,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,24 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-dissecting-disney-delights-a-review-of-the-goofy-saga/"><u>[New] 2024 Approved Dissecting Disney Delights A Review of 'The Goofy Saga'</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-amplify-video-dynamics-a-guide-to-perfecting-jump-cutting/"><u>[Updated] In 2024, Amplify Video Dynamics A Guide to Perfecting Jump Cutting</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-soft-volume-tricks-lives-hidden-gems/"><u>[Updated] In 2024, Soft Volume Tricks Live’s Hidden Gems</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/battlefield-5-pc-stability-issues-resolved-no-more-game-crashes/"><u>Battlefield 5 PC Stability Issues Resolved - No More Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723005532935-comprehensive-guide-to-fixing-microsoft-edge-crashes-on-windows-10/"><u>Comprehensive Guide to Fixing Microsoft Edge Crashes on Windows 10</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-for-overcoming-amazon-prime-video-functionality-glitches/"><u>Expert Tips for Overcoming Amazon Prime Video Functionality Glitches</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-essential-tips-for-digital-board-usage-during-web-conferences-on-diverse-devices/"><u>In 2024, Essential Tips for Digital Board Usage During Web Conferences on Diverse Devices</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-ultimate-guide-how-to-transfer-music-from-apple-iphone-6-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Ultimate Guide, How to Transfer Music From Apple iPhone 6 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-asus-rog-rapture-gt-ax110e-router-analysis-ultimate-performance-for-gamers-and-speed-enthusiasts/"><u>In-Depth Asus ROG Rapture GT-AX110e Router Analysis - Ultimate Performance for Gamers & Speed Enthusiasts</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-rollers-champions-multiplayer-mode-on-pc-a-detailed-playbook/"><u>Mastering Rollers Champions Multiplayer Mode on PC : A Detailed Playbook</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/navigating-the-latest-in-technology-toms-expert-hardware-analysis/"><u>Navigating the Latest in Technology: Tom's Expert Hardware Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-starting-troubles-with-call-of-duty-modern-warfare-tips-for-a-smooth-launch/"><u>Overcoming Starting Troubles with Call of Duty: Modern Warfare - Tips for a Smooth Launch</u></a></li>
+<li><a href="https://win-latest.techidaily.com/step-by-step-tutorial-for-saving-vimeo-on-demand-content-as-high-quality-video-files-in-various-players-preferred-codecs/"><u>Step-by-Step Tutorial for Saving Vimeo On Demand Content as High-Quality Video Files in Various Players' Preferred Codecs</u></a></li>
+<li><a href="https://win-able.techidaily.com/uncover-hidden-gpeditmsc-a-step-by-step-guide-to-enable-group-policy-on-windows-home/"><u>Uncover Hidden gpedit.msc: A Step-by-Step Guide to Enable Group Policy on Windows Home</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-gamers-rejoice-days-gone-debuted-with-patched-performance-and-stability/"><u>Windows Gamers Rejoice: 'Days Gone' Debuted with Patched Performance and Stability</u></a></li>
+<li><a href="https://win-able.techidaily.com/wwe-2k20-pc-crash-fixes-a-step-by-step-guide-for-smooth-gaming/"><u>WWE 2K20 PC Crash Fixes - A Step-by-Step Guide for Smooth Gaming</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Addressing PC FPS Drops for a Smooth Playthrough of Resident Evil Village [FIXED]"
-date: 2024-12-21T00:18:39.078Z
-updated: 2024-12-21T20:59:32.268Z
+date: 2024-12-19T19:23:00.265Z
+updated: 2024-12-26T21:35:14.038Z
 tags:
   - win11
   - win10
@@ -35,7 +35,7 @@ thumbnail: https://thmb.techidaily.com/7a6d4afad02b673dd8fdf74213202fda14f2e9bab
 5. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements to play Madden NFL 22
@@ -53,6 +53,10 @@ Here are the minimum requirements for Madden NFL 22:
 
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -68,24 +72,12 @@ There are mainly two ways to update your drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3 – Run the game as an administrator
 
@@ -97,7 +89,15 @@ There are mainly two ways to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 See if the issue persists. If yes, continue to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Repair the game files
 
@@ -108,6 +108,10 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
@@ -125,10 +129,6 @@ See if the issue persists. If yes, continue to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5 – Temporarily disable your antivirus
 
@@ -168,15 +168,24 @@ See if the issue persists. If yes, continue to the next solution.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-top-rated-apps-to-elevate-instagram-imagery/"><u>[New] Top-Rated Apps to Elevate Instagram Imagery</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-live-broadcasts-a-step-by-step-guide-for-fb-users/"><u>[Updated] 2024 Approved Mastering Live Broadcasts A Step-by-Step Guide for FB Users</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/3g-2-movavi/"><u>流動網路無限制的移除3G-2格式影片 - Movavi</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722994817926-apex-legends-engine-mishaps-heres-how-you-can-resolve-them/"><u>Apex Legends Engine Mishaps? Here's How You Can Resolve Them!</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-chill-tips-to-overcome-freezing-issues-in-call-of-duty-black-ops-cold-war/"><u>Beat the Chill: Tips to Overcome Freezing Issues in Call of Duty: Black Ops Cold War</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-a-recent-vac-penalty-in-dota-2/"><u>How to Overcome a Recent VAC Penalty in Dota 2</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-bringing-rhythm-to-slides-including-tunes-in-ppt/"><u>In 2024, Bringing Rhythm to Slides Including Tunes in PPT</u></a></li>
-<li><a href="https://win-able.techidaily.com/step-by-step-guide-resolving-ghost-runner-game-errors-on-windows-10-pc/"><u>Step-by-Step Guide: Resolving Ghost Runner Game Errors on Windows 10 PC</u></a></li>
-<li><a href="https://os-tips.techidaily.com/streamline-your-safari-experience-a-comprehensive-walkthrough-for-emptying-browser-cache-on-ipads/"><u>Streamline Your Safari Experience: A Comprehensive Walkthrough for Emptying Browser Cache on iPads</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1726029963153-7mp4/"><u>オススメの7つの強力な無料MP4カッタープログラム</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-humor-hacks-simplifying-the-process-of-meme-creation/"><u>[New] Humor Hacks Simplifying the Process of Meme Creation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-nows-vr-innovation-snapshot/"><u>[New] Now's VR Innovation Snapshot</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-mastering-image-magic-top-10-mobile-apps-with-stickers-on-iphones-and-androids/"><u>[Updated] In 2024, Mastering Image Magic Top 10 Mobile Apps with Stickers on iPhones & Androids</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-fixes-for-successful-shared-subscriptions-under-family-group-settings/"><u>5 Essential Fixes for Successful Shared Subscriptions Under Family Group Settings</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-to-overcome-the-kof-xv-crash-glitch-when-playing-on-a-desktop-computer/"><u>Expert Tips to Overcome the KOF XV Crash Glitch When Playing on a Desktop Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-the-eac-error-message-steps-to-install-easy-anti-cheat/"><u>Fixing the EAC Error Message: Steps to Install Easy Anti-Cheat</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-discover-which-users-saved-your-photos-on-instagram-comprehensive-steps-inside/"><u>How To Discover Which Users Saved Your Photos on Instagram – Comprehensive Steps Inside!</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-13-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 13 without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-samsung-galaxy-s24plus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Samsung Galaxy S24+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/loud-solutions-addressing-the-no-sound-glitch-in-evil-genius-2/"><u>Loud Solutions: Addressing the No-Sound Glitch in Evil Genius 2</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-palworld-how-to-fix-recurring-launch-and-performance-errors-on-pc/"><u>Mastering Palworld: How to Fix Recurring Launch and Performance Errors on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/mastering-picture-in-picture-feature-in-chrome-anywhere/"><u>Mastering Picture In Picture Feature in Chrome, Anywhere</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-the-ultimate-guide-to-video-editing-on-windows-10-for-2024/"><u>New The Ultimate Guide to Video Editing on Windows 10 for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009749032-overcome-gaming-lags-and-frame-drops-with-our-pro-tips/"><u>Overcome Gaming Lags & Frame Drops with Our Pro Tips!</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-playback-issues-when-does-minecraft-freeze-on-windows/"><u>Resolving Playback Issues: When Does Minecraft Freeze on Windows?</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/review-all-round-performance-and-features-of-the-garmin-gpsmap-64st-gps-unit/"><u>Review: All-Round Performance and Features of the Garmin GPSMAP 64St GPS Unit</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-your-recording-problems-top-6-strategies-for-a-fixed-obs-microphone/"><u>Solve Your Recording Problems: Top 6 Strategies for a Fixed OBS Microphone</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-ultimate-players-handbook-overcoming-lag-and-boosting-fps-in-valorant-2024-edition/"><u>The Ultimate Player's Handbook: Overcoming Lag and Boosting FPS in Valorant - 2024 Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/warzone-20-performance-boosting-tips-how-to-optimize-connection-speed-and-lower-ping/"><u>Warzone 2.0 Performance Boosting Tips: How to Optimize Connection Speed and Lower Ping</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Launch Issues for Dragon's Dogma 2 on Windows Computers
-date: 2024-12-15T17:42:07.714Z
-updated: 2024-12-21T22:21:03.582Z
+date: 2024-12-26T09:29:51.536Z
+updated: 2024-12-27T12:48:33.780Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ The Ascent
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of The Ascent
 
  You should ensure that your PC meets the system requirements of The Ascent. Just take a quick glance at the system requirements of The Ascent and check if your PC meets its system requirements:
@@ -45,6 +49,10 @@ The Ascent
 
  If The Ascent still keeps crashing on your powerful PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of The Ascent crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers.
@@ -60,10 +68,6 @@ The Ascent
 7. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 8. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Verify integrity of game files
 
  The Ascent may crash if its game files are corrupted or incomplete. But don’t worry. You can follow the steps below to verify and repair the game files in Steam:
@@ -74,7 +78,7 @@ The Ascent
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -98,10 +102,6 @@ The Ascent
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
@@ -110,7 +110,7 @@ The Ascent
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -129,10 +129,6 @@ The Ascent
 2. **Right-click** on **The Ascent** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the GENERAL section, enter`**-dx11**` under LAUNCH OPTIONS. By doing that, Steam will run the game with DirectX 11 next time.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![Run The Ascent with DriectX 11](https://images.drivereasy.com/wp-content/uploads/2021/08/Run-The-Ascent-with-DriectX-11.jpg)
 4. Launch The Ascent and see if this issue persists.
@@ -193,7 +189,7 @@ If the game still crashes, try the next fix, below.
 If this fix didn’t work, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Perform a clean boot
@@ -207,11 +203,15 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -223,7 +223,7 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Restart your PC and launch The Ascent to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -260,15 +260,24 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/n-2024-best-free-subtitles-and-downloader-guide/"><u>[New] In 2024, Best Free Subtitles & Downloader Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-strategies-for-improving-youtubefacebook-video-quality/"><u>[Updated] Strategies for Improving YouTube/Facebook Video Quality</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723005547552-audio-gone-missing-in-action-solve-lost-ark-sound-glitch-easily/"><u>Audio Gone Missing in Action? Solve Lost Ark Sound Glitch Easily</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-quickly-solve-skype-connection-issues-on-windows-10-simple-methods-that-work/"><u>How to Quickly Solve Skype Connection Issues on Windows 10 - Simple Methods That Work</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-12-pro-passcode-easily-video-inside-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 12 Pro Passcode Easily Video Inside</u></a></li>
-<li><a href="https://win-able.techidaily.com/increase-your-gameplay-smoothness-with-these-6-essential-fixes-for-escape-from-tarkov-fps/"><u>Increase Your Gameplay Smoothness with These ^6 Essential Fixes for Escape From Tarkov FPS</u></a></li>
-<li><a href="https://win-dash.techidaily.com/install-broadcom-bluetooth-drivers-efficiently-for-windows-1187-users/"><u>Install Broadcom Bluetooth Drivers Efficiently for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/lenovos-lightweight-laptop-unveiled-secret-features-including-a-concealed-trackpoint-revealed-tech-analysis-by-zdnet/"><u>Lenovo's Lightweight Laptop Unveiled: Secret Features Including a Concealed TrackPoint Revealed | Tech Analysis by ZDNET</u></a></li>
-<li><a href="https://win-able.techidaily.com/master-the-game-overcoming-obstacles-and-crashes-in-heart-of-iron-iv/"><u>Master the Game: Overcoming Obstacles & Crashes in Heart of Iron IV</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issues-with-insurgency-sandstorm-frequent-system-failures/"><u>Resolved Issues with 'Insurgency: Sandstorm' Frequent System Failures</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-mastering-igtv-a-comprehensive-guide-for-beginners/"><u>[New] In 2024, Mastering IGTV A Comprehensive Guide for Beginners</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>[New] JollyJingles Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>[New] The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>[Updated] Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-guide-to-fixing-stutters-and-boosting-frames-in-dragons-dogma-n-second-edition/"><u>A Comprehensive Guide to Fixing Stutters and Boosting Frames in Dragon's Dogma N: Second Edition</u></a></li>
+<li><a href="https://win-able.techidaily.com/age-of-empires-iv-installation-issues-resolved-fixes-and-solutions/"><u>Age of Empires IV Installation Issues Resolved – Fixes & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/beat-the-bug-steps-to-fix-black-ops-cold-wars-error-code-887a005/"><u>Beat the Bug: Steps to Fix Black Ops Cold War's Error Code 887A005</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/crucial-factors-to-evaluate-when-choosing-the-right-smartwatch-for-you/"><u>Crucial Factors to Evaluate When Choosing the Right Smartwatch for You</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-instructions-how-to-apply-an-emminence-2-interface-for-your-kodi-experience/"><u>Easy Instructions: How To Apply an Emminence 2 Interface for Your Kodi Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723008994181-explore-yokohama-like-never-before-with-like-a-dragon-on-your-pc/"><u>Explore Yokohama Like Never Before with 'Like a Dragon' On Your PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-oppo-a18-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Oppo A18 Phone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-your-city-builder-game-from-crashing-on-pc-tips-for-cities-skylines-pressures/"><u>How to Stop Your City Builder Game From Crashing on PC: Tips for Cities: Skylines Pressures</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-best-of-both-worlds-top-free-and-paid-android-video-editors/"><u>In 2024, The Best of Both Worlds Top Free and Paid Android Video Editors</u></a></li>
+<li><a href="https://win-able.techidaily.com/in-depth-guide-to-correcting-google-chromes-page-load-failures/"><u>In-Depth Guide to Correcting Google Chrome's Page Load Failures</u></a></li>
+<li><a href="https://solve-info.techidaily.com/launching-intelligent-transit-solutions-insights-from-the-abbyy-blog/"><u>Launching Intelligent Transit Solutions: Insights From the ABBYY Blog</u></a></li>
+<li><a href="https://extra-information.techidaily.com/leading-apps-for-dji-video-manipulation-and-mixing/"><u>Leading Apps for DJi Video Manipulation and Mixing</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-definitive-guide-to-fixing-finals-continuous-freezing-problems-on-desktops/"><u>The Definitive Guide to Fixing 'Finals' Continuous Freezing Problems on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722999225971-total-war-warhammer-ii-crashing-problems-now-fixed/"><u>Total War: Warhammer II Crashing Problems - Now Fixed</u></a></li>
+<li><a href="https://win-able.techidaily.com/tricks-to-enhance-performance-and-minimize-delay-for-an-optimal-fall-guys-experience/"><u>Tricks to Enhance Performance & Minimize Delay for an Optimal Fall Guys Experience</u></a></li>
 </ul></div>
 

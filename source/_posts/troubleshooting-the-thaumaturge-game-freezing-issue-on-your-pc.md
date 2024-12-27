@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Thaumaturge Game Freezing Issue on Your PC
-date: 2024-12-15T21:24:21.523Z
-updated: 2024-12-21T17:37:14.495Z
+date: 2024-12-19T17:07:41.718Z
+updated: 2024-12-26T23:32:06.778Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
@@ -58,10 +58,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-212.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-222.png)
@@ -77,7 +73,7 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
  If your computer meets the minimum requirements, read on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2:**Restart your computer**
@@ -85,10 +81,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
  If you’re running multiple programs on your computer at the same time, hogging your resources, your game might crash. If that’s the core issue， performing a simple reboot on your PC should fix your problem.
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Run the game as an administrator**
 
@@ -98,9 +90,17 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Yes** .
 
@@ -109,6 +109,10 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4:**Run the game in compatibility mode**
 
@@ -123,16 +127,12 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
@@ -142,15 +142,15 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and select **Windows 7**  from the drop-down list.
 
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
 
@@ -170,10 +170,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -183,6 +179,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Relaunch and play Oxygen Not Included.
 
@@ -202,6 +202,10 @@ If the game crashing issue persists, check the fix below.
 **3)** Restart your computer and your game to test your issue.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
 
@@ -255,10 +259,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer.
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
@@ -279,13 +279,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
@@ -312,20 +312,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-boosting-your-snapchat-presence-with-easy-voice-modification-tricks/"><u>[New] In 2024, Boosting Your Snapchat Presence with Easy Voice Modification Tricks</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-top-10-video-screenshot-tools-reviewed-for-2024/"><u>[New] Top 10 Video Screenshot Tools Reviewed for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-explore-nature-on-android-best-animal-simulation-games/"><u>2024 Approved Explore Nature on Android Best Animal Simulation Games</u></a></li>
-<li><a href="https://win-able.techidaily.com/dauntless-pc-issues-resolved-how-to-stop-the-game-from-crashing/"><u>Dauntless PC Issues Resolved - How to Stop the Game From Crashing</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/exploring-the-new-travel-case-for-apple-vision-pro-surprisingly-snug-at-just-199-zdnet/"><u>Exploring the New Travel Case for Apple Vision Pro - Surprisingly Snug at Just $199 | ZDNET</u></a></li>
-<li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Fixing Foneazy MockGo Not Working On Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-titanfall-2-crashes-swift-and-easy-guide/"><u>How to Stop Titanfall 2 Crashes: Swift & Easy Guide!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-honor-v-purse-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Honor V Purse to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-the-art-of-zooming-in-youtube-videos/"><u>In 2024, The Art of Zooming in YouTube Videos</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-top-10-secure-business-data-sphere/"><u>In 2024, TOP 10 Secure Business Data Sphere</u></a></li>
-<li><a href="https://win-able.techidaily.com/no-more-game-disruptions-solving-persona-5-strikers-pc-performance-issues/"><u>No More Game Disruptions: Solving Persona 5 Strikers PC Performance Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/quick-solutions-to-league-of-legends-game-freezing-issues/"><u>Quick Solutions to League of Legends Game Freezing Issues</u></a></li>
-<li><a href="https://win-able.techidaily.com/1722990617559-solving-the-puzzle-of-cyberpunk-2077-interruptions-essential-strategies-for-a-seamless-play/"><u>Solving the Puzzle of Cyberpunk 2077 Interruptions: Essential Strategies for a Seamless Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-frame-rate-fluctuations-and-latency-problems-in-black-ops-4/"><u>Troubleshooting Frame Rate Fluctuations & Latency Problems in Black Ops 4</u></a></li>
-<li><a href="https://win-able.techidaily.com/war-thunder-continuously-crashing-fix-it-with-these-top-5-expert-tips/"><u>War Thunder Continuously Crashing? Fix It with These Top 5 Expert Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-why-no-video-suggestions-pop-up-in-your-social-media-world/"><u>[New] 2024 Approved Why No Video Suggestions Pop Up in Your Social Media World?</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-audio-to-action-mp3-to-youtube-conversion-journey/"><u>[New] In 2024, From Audio to Action MP3-to-YouTube Conversion Journey</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seamless-ppt-showcase-across-tablets-and-laptops-for-gmeet-for-2024/"><u>[Updated] Seamless PPT Showcase Across Tablets & Laptops for GMeet for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/call-of-duty-black-ops-cold-war-fix-the-continuous-pc-freeze-issue-update-2024/"><u>Call of Duty: Black Ops Cold War - Fix the Continuous PC Freeze Issue (Update 2024)</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/discover-the-changes-in-ios-1nvitation-for-tech-lovers-device-support-new-functions-patch-notes-and-jailbreak-updates/"><u>Discover the Changes in iOS 1Nvitation for Tech Lovers: Device Support, New Functions, Patch Notes, and Jailbreak Updates!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/excellent-alarms-best-download-sites-for-2024/"><u>Excellent Alarms Best Download Sites for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-tips-and-fixes-for-stable-gameplay-stop-starfield-pc-crashes-now/"><u>Expert Tips and Fixes for Stable Gameplay: Stop Starfield PC Crashes Now</u></a></li>
+<li><a href="https://video-capture.techidaily.com/historys-heaviest-battles-rts-review-of-7-epic-games/"><u>History's Heaviest Battles RTS Review of 7 Epic Games</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-zte-nubia-z60-ultra-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from ZTE Nubia Z60 Ultra to Gmail | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/journey-to-metaverse-leading-vr-headsets-reviewed/"><u>Journey to Metaverse Leading VR Headsets Reviewed</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012520797-master-the-mysteries-no-more-crashes-resident-evil-village-on-pc-solved/"><u>Master the Mysteries, No More Crashes: Resident Evil Village on PC Solved!</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-launch-problems-a-guide-to-playing-modern-warfare-successfully-on-a-pc/"><u>Overcoming Launch Problems: A Guide to Playing Modern Warfare Successfully on a PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-video-card-compatibility-problem-in-the-sims-4-tips-and-solutions/"><u>Resolving 'Video Card Compatibility Problem in The Sims 4': Tips & Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-to-glitch-free-playthrough-of-assassins-creed-valhalla-on-your-pc/"><u>Solution to Glitch-Free Playthrough of Assassin’s Creed Valhalla on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-resolving-issues-when-starting-farmland-tycoon-22/"><u>Troubleshooting Tips: Resolving Issues When Starting Farmland Tycoon 22</u></a></li>
 </ul></div>
 

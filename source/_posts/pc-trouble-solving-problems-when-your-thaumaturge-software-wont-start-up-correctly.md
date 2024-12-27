@@ -1,7 +1,7 @@
 ---
 title: "PC Trouble: Solving Problems When Your Thaumaturge Software Won't Start Up Correctly"
-date: 2024-08-18T16:23:56.109Z
-updated: 2024-08-19T16:23:56.109Z
+date: 2024-12-23T17:02:02.420Z
+updated: 2024-12-27T00:34:41.963Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/how-to-fix-error-Unable-to-launch-game-please-verify-your-game-data.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify your game files
 
  Obviously, when this error message pops up, the first thing you would do is to verify the game files. If you’ve done this for multiple times but it still doesn’t work, move to[fix 2](https://tools.techidaily.com/drivereasy/download/) .
@@ -40,6 +44,10 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 2. Navigate to**Settings** . Under**My installed games** on the left, select the game you need to verify. Then click on the tab**VERIFY INTEGRITY** .  
 
 ![Rockstar Games Launcher verify game files](https://images.drivereasy.com/wp-content/uploads/2021/12/rockstar-verify.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Upon completion, a message will pop up above the system tray stating that your game is verified and ready to play.
 
@@ -56,9 +64,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
 
 ## 3\. Update your drivers
@@ -72,9 +77,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -85,9 +87,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  After the update is finished, restart your PC. If the error message still occurs, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable background applications
 
  If you’re experiencing launching problems when using Rockstar Games Launcher, it could be due to a third-party application running in the background. In this situation, you can disable applications running in the background by following the instructions below.
@@ -97,20 +96,19 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Run the launcher as administrator
 
  If your game fails to launch properly, it could be due to the lack of administrative rights. To fix it, try to run the Rockstar Games Launcher as an administrator by following the instructions below.
@@ -120,11 +118,19 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 ![run Rockstar Games Launcher with compatibility mode with administrator priviledges](https://images.drivereasy.com/wp-content/uploads/2020/12/select-Properties.png)
 2. In the Properties window, select the**Compatibility** tab. Then check the box next to**Run the program as an administrator** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
 
  Then click**Apply > OK** to save the changes.
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Delete the Rockstar Games folders
 
@@ -132,11 +138,12 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
 
  Navigate to**C:\\Users\\\*YourUserName\*\\Documents\\** . Then find the Rockstar Games folder and delete it.
@@ -153,8 +160,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +167,19 @@ Wondering how you can fix the error “Unable to launch game, please verify your
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-from-concept-to-cinematic-creating-charismatic-clips-with-wmm/"><u>[New] From Concept to Cinematic Creating Charismatic Clips with WMM</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-ideal-drawing-programs-a-compreenasaurus-rex-guide-to-chromebooks-art-tools/"><u>[Updated] Ideal Drawing Programs A Compreenasaurus Rex Guide to Chromebook's Art Tools</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-amplify-your-voice-expert-insights-on-podcast-editing-in-garageband/"><u>2024 Approved Amplify Your Voice Expert Insights on Podcast Editing in GarageBand</u></a></li>
+<li><a href="https://win-able.techidaily.com/common-launch-errors-in-farming-simulator-22-and-how-to-correct-them/"><u>Common Launch Errors in Farming Simulator 22 and How to Correct Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007347267-how-to-resolve-audio-issues-in-dying-light-expert-solutions-uncovered/"><u>How to Resolve Audio Issues in Dying Light – Expert Solutions Uncovered</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/making-the-most-of-your-ppt-on-google-meet-devices-included/"><u>Making the Most of Your PPT on Google Meet Devices Included</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photoshop-wizardry-for-bending-photos-for-2024/"><u>Photoshop Wizardry for Bending Photos for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-fixes-for-instant-reload-resolving-apex-legends-issues/"><u>Quick Fixes for Instant Reload: Resolving Apex Legends Issues</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/soft-onset-showcasing-for-2024/"><u>Soft Onset Showcasing for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-world-of-warships-pc-problems-5-fast-and-effective-solutions/"><u>Solving the World of Warships PC Problems: 5 Fast and Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-your-football-manager-202n1-pc-solutions-to-end-game-crashing-woes/"><u>Troubleshooting Your Football Manager 202N1 PC: Solutions to End Game Crashing Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-fix-for-rocket-leagues-crash-problem-a-comprehensive-2024-solutions-list/"><u>Ultimate Fix for Rocket League's Crash Problem: A Comprehensive 2024 Solutions List</u></a></li>
+</ul></div>
 

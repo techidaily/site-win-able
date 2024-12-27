@@ -1,7 +1,7 @@
 ---
 title: Instant Solutions to Fix League of Legends Crashes – Get Back in Action Now
-date: 2024-12-15T18:37:16.182Z
-updated: 2024-12-21T18:09:59.711Z
+date: 2024-12-24T21:54:18.783Z
+updated: 2024-12-26T23:08:01.755Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,10 +37,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -69,6 +69,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -97,13 +101,13 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -116,10 +120,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Wait until Windows downloaded and installed all the updates.
 
@@ -137,10 +137,6 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -149,11 +145,11 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -170,6 +166,10 @@ thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -193,22 +193,20 @@ Run League of Legends to see if you resolved this issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-slowly-fading-the-beat-a-pro-guide-for-audio-easing-for-2024/"><u>[New] Slowly Fading the Beat A Pro Guide for Audio Easing for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-the-no-user-can-login-hurdle-in-cs-go-using-our-top-five-fix-techniques/"><u>Beat the ‘No User Can Login’ Hurdle in CS: GO Using Our Top Five Fix Techniques</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discovering-11-powerful-gpt-strategies-for-authenticity-in-fiction/"><u>Discovering 11 Powerful GPT Strategies for Authenticity in Fiction</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-remedies-for-when-the-msi-mystic-light-wont-work-on-pcs-running-windows/"><u>Effective Remedies for When the MSI Mystic Light Won't Work on PCs Running Windows</u></a></li>
-<li><a href="https://win-able.techidaily.com/euro-truck-simulator-2-troubleshooting-pc-crashes-fixed-solutions/"><u>Euro Truck Simulator 2: Troubleshooting PC Crashes - Fixed Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/experience-ancient-epic-battles-with-new-god-of-war-fps-on-pc/"><u>Experience Ancient Epic Battles with New God of War FPS on PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-keeping-halo-3-running-smoothly-and-avoiding-pc-crashes/"><u>Expert Advice on Keeping Halo 3 Running Smoothly and Avoiding PC Crashes</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/first-timers-review-kid-approved-waterproof-cameras/"><u>First Timer's Review: Kid-Approved Waterproof Cameras</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-get-your-graphics-card-detected-in-msi-afterburner-under-windows-11/"><u>How to Get Your Graphics Card Detected in MSI Afterburner Under Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-overcome-the-reconnect-loop-issue-in-league-of-legends-latest-fixes-and-patch-notes/"><u>How to Overcome the Reconnect Loop Issue in League of Legends - Latest Fixes and Patch Notes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-moto-g-5g-2023-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Moto G 5G (2023) Bootloader Easily</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-the-ultimate-mini-portable-charger-power-up-your-laptops-tablets-and-phones-with-ease-review/"><u>Introducing the Ultimate Mini Portable Charger: Power up Your Laptops, Tablets & Phones with Ease Review</u></a></li>
-<li><a href="https://win-cloud.techidaily.com/navigating-the-perils-of-geek-squad-frauds-a-comprehensive-guide-for-email-security/"><u>Navigating the Perils of Geek Squad Frauds: A Comprehensive Guide for Email Security</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/optimize-your-system-fixing-svchostexes-extreme-cpu-usage-on-windows-11/"><u>Optimize Your System: Fixing Svchost.exe's Extreme CPU Usage on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcome-microsoft-flight-simulator-2020s-updates-stuck-dilemma-expert-advice-inside/"><u>Overcome Microsoft Flight Simulator 2020'S Updates Stuck Dilemma - Expert Advice Inside</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-for-windows-update-problem-how-to-fix-error-0x80070490/"><u>Troubleshooting Guide for Windows Update Problem: How to Fix Error '0X80070490'</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/1719363856500-unfreeze-reset-and-restore-shift-key/"><u>Unfreeze, Reset, and Restore Shift Key</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-thunder-gods-fury-new-age-begins/"><u>[New] In 2024, Thunder God's Fury New Age Begins</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-navigating-youtubes-subtitle-system-download-with-ease-using-3-methods/"><u>[Updated] 2024 Approved Navigating YouTube's Subtitle System Download with Ease Using 3 Methods</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-the-essential-technique-screen-recording-on-the-go/"><u>2024 Approved The Essential Technique Screen Recording on the Go</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-xiaomi-redmi-note-12-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Xiaomi Redmi Note 12 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-iphone-xr-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>How to Unlock Apple iPhone XR When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-11-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 11 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-from-honor-play-8t-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock from Honor Play 8T Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-game-launches-solving-problems-with-steam-on-windows-10-systems/"><u>Mastering Game Launches: Solving Problems with Steam on Windows 10 Systems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/-strategies-for-randomizing-youtube-tracks-across-media-for-2024/"><u>Quick Strategies for Randomizing YouTube Tracks Across Media for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/quintessential-6-giants-of-vast-language-systems/"><u>Quintessential 6 Giants of Vast Language Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-successfully-installing-age-of-empires-iv-via-microsoft-store/"><u>Solution Found: Successfully Installing Age of Empires IV via Microsoft Store</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-a-guide-for-windows-users/"><u>Solving 'No Rest for the Wicked' Game Crashes: A Guide for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-problem-valorant-wont-start-on-your-pc/"><u>Solving the Problem: Valorant Won't Start on Your PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-preventing-and-fixing-crashes-in-stardew-valley-on-your-computer/"><u>Step-by-Step: Preventing and Fixing Crashes in Stardew Valley on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722995175018-this-title-indicates-that-it-is-a-step-by-step-guide-to-fixing-startup-issues-and-includes-the-current-year-for-freshness/"><u>This Title Indicates that It Is a Step-by-Step Guide to Fixing Startup Issues and Includes the Current Year for Freshness.</u></a></li>
 </ul></div>
 

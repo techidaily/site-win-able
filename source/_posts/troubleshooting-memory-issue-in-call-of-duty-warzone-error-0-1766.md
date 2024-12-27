@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Memory Issue in Call of Duty: Warzone (Error 0-1766)"
-date: 2024-08-18T16:27:19.710Z
-updated: 2024-08-19T16:27:19.710Z
+date: 2024-12-22T01:08:45.682Z
+updated: 2024-12-27T08:43:41.767Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2\. Clear the game cache
 
  If you’re still running into Vanguard error codes, it might be caused by your game cache. A quick fix is to delete the “Players” folder. Here’s how:
@@ -45,17 +49,11 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
 `(C:\ProgramData\Blizzard Entertainment\Battle.net\Cache)`
 
  4) Delete every folder or file under the**Cache** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 3\. Disable Ray Tracing
 
  Another possible cause of Vanguard Error Code 0x00001338 N is your game settings. By turning off Ray Tracing, you may find the game is working like charm again.
@@ -76,17 +74,11 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -96,6 +88,10 @@ After updating your drivers, restart your PC and test the gameplay.
  2) Click Game Settings, and tick additional command-line arguments. Then add**\-d3d11** and click done.
 
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch CoD Vanguard and test the gameplay.
 
@@ -115,8 +111,9 @@ Launch CoD Vanguard and test the gameplay.
 * Twitch
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7\. Repair your system files
 
  If none of these fixes above fixed your problem, you may need to check for any corrupt game files and restore them. Your game might be sharing the same system file (DLL), thus causing you the Vanguard error codes. There are mainly two ways for you to fix a corrupt/missing system file:
@@ -144,8 +141,9 @@ Launch CoD Vanguard and test the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -162,6 +160,10 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -173,8 +175,9 @@ sfc /scannow
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) You may receive something like the following messages after the verification.
 
 * no errors
@@ -224,8 +227,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +234,21 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-frame-rate-dilemma-30-vs-60-fps-in-video-production-for-2024/"><u>[New] Frame Rate Dilemma 30 Vs. 60 FPS in Video Production for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-authenticating-a-step-by-step-for-youtube-users/"><u>[Updated] In 2024, Authenticating A Step-by-Step for Youtube Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/windowsmac2024mp3/"><u>「Windows・Mac」向けにお勧めの2024年MP3音量調整方法：ファイル全体を簡単に変更する手順ガイド</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-elite-windows-sound-weaver/"><u>2024 Approved Elite Windows Sound Weaver</u></a></li>
+<li><a href="https://network-issues.techidaily.com/bright-windows-clean-views-ahead/"><u>Bright Windows, Clean Views Ahead</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/deciding-between-the-titans-of-streaming-a-detailed-guide-to-apple-tv-4k-and-roku-ultra/"><u>Deciding Between the Titans of Streaming: A Detailed Guide to Apple TV 4K and Roku Ultra</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-ultimate-list-11-ideal-free-software-update-utilities/"><u>Discover the Ultimate List: 11 Ideal Free Software Update Utilities</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-repairing-stuck-keys-on-windows-laptops-and-desktops/"><u>Expert Tips for Repairing Stuck Keys on Windows Laptops and Desktops</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/instagram-story-perfection-seamless-emoji-integration-techniques/"><u>Instagram Story Perfection Seamless Emoji Integration Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-bin-file-transformer-seamless-conversion-from-bin-to-mp4-and-avi-for-universal-compatibility/"><u>Top Bin File Transformer: Seamless Conversion From BIN to MP4 & AVI for Universal Compatibility</u></a></li>
+<li><a href="https://win-able.techidaily.com/tweet-upload-failure-effective-solutions/"><u>Tweet Upload Failure - Effective Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-transforming-mkv-files-into-high-quality-mp4-format/"><u>Ultimate Guide: Transforming MKV Files Into High-Quality MP4 Format</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-11-mp4-2024/"><u>Windows 11 MP4編集ガイド: 2024年最新ツール紹介</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-78/"><u>Windows 7/8でビデオからスチル写真を抽出するためのコツ</u></a></li>
+</ul></div>
 

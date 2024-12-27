@@ -1,7 +1,7 @@
 ---
 title: Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back
-date: 2024-12-14T19:28:24.259Z
-updated: 2024-12-21T20:36:09.967Z
+date: 2024-12-23T09:20:34.898Z
+updated: 2024-12-26T21:56:45.760Z
 tags:
   - win11
   - win10
@@ -27,7 +27,7 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes…
@@ -49,13 +49,17 @@ thumbnail: https://thmb.techidaily.com/580872e4bd4e21da3535470ce3b918e09ae5b8653
 2. Go to the**Audio** tab, and set the**Dynamic Range** setting to**Compressed mode** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_12-37-13.jpg)
 3. Play a game to test the issue.
 
 If this fix doesn’t solve your problem, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -82,12 +86,16 @@ If this fix doesn’t solve your problem, try the next fix.
 
  Restart your PC for the new drivers to take effect. If the audio problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Configure Windows sound settings
 
  Last but not least, you can try to adjust the sound settings on your PC to see if it helps. While we’re waiting for the developers to recognize and work on the bugs, these workarounds may improve the in-game audio quality.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Configure the output device settings
@@ -98,14 +106,10 @@ If this fix doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-14.jpg)
 2. Make sure you select the**Stereo** audio. Hands-Free audio allows you to use your device as both the output and input device, but your audio quality will be very low.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-12-24.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Turn on loudness equalization
@@ -120,10 +124,6 @@ If this fix doesn’t solve your problem, try the next fix.
 3. Switch to the**Enhancements** tab. Tick the checkbox of**Loudness Equalization** , then click**Apply** and**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-19_16-28-36.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If this doesn’t work for you or you wish to revert the change, simply repeat the steps above and uncheck the Loudness Equalization setting.
 
@@ -143,7 +143,7 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Go to the**Communications** tab, select**Do nothing** , then click**Apply** and**OK** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-22_10-11-57.jpg)
@@ -169,18 +169,17 @@ If this fix doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-secrets-to-effective-vr-game-playback/"><u>[New] Secrets to Effective VR Game Playback</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-streamlined-approach-record-movies-everywhere-you-go/"><u>[New] Streamlined Approach Record Movies Everywhere You Go</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-top-picks-ultimate-tools-for-efficient-scheduling-screen-captures-for-2024/"><u>[Updated] Top Picks Ultimate Tools for Efficient Scheduling Screen Captures for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-prime-authorship-workshop/"><u>2024 Approved Prime Authorship Workshop</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-secure-mobile-messaging-made-simple-with-these-10-best-free-chat-services-on-iphoneandroid/"><u>2024 Approved Secure Mobile Messaging Made Simple with These 10 Best Free Chat Services on iPhone/Android</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-guide-to-repair-steams-steamuidll-loading-error/"><u>Comprehensive Guide to Repair Steam's steamui.dll Loading Error</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723007238934-doom-eternal-wont-launch-yet-here-are-quick-fixes-you-need-to-know-about/"><u>DOOM Eternal Won't Launch Yet? Here Are Quick Fixes You Need to Know About!</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-fix-dragon-quest-xis-unexpected-shutdown-bug-a-complete-guide/"><u>How to Fix Dragon Quest XI's Unexpected Shutdown Bug - A Complete Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-vivo-y78plus-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Vivo Y78+ to iPhone | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Oppo Reno 11F 5G | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-overcome-the-preparations-screen-problem-in-granblue-fantasy/"><u>Troubleshooting Tips to Overcome the Preparations Screen Problem in Granblue Fantasy</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/ultimate-guide-to-permanently-removing-temp-files-by-yl-software-experts/"><u>Ultimate Guide to Permanently Removing Temp Files by YL Software Experts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/understanding-the-impact-of-circular-videography/"><u>Understanding the Impact of Circular Videography</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-review-of-asuss-4k-hdr-powerhouse/"><u>[New] The Ultimate Review of ASUS's 4K HDR Powerhouse</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-top-ranked-costless-pixel-perfection-aid/"><u>[New] Top-Ranked Costless Pixel Perfection Aid</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-gameglasses-glimpse-guide/"><u>2024 Approved GameGlasses Glimpse Guide</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/experience-the-virtual-universe-in-depth-analysis-of-the-vive-cosmos-top-contender-in-a-crowded-market/"><u>Experience the Virtual Universe: In-Depth Analysis of the Vive Cosmos - Top Contender in a Crowded Market</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-every-aspect-of-apples-ai-breakthroughs-revealed-at-wwdc-2024/"><u>Exploring Every Aspect of Apple’s AI Breakthroughs Revealed at WWDC 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/guilty-gear-strive-lag-fix-tips-and-techniques-to-enhance-gameplay-performance/"><u>Guilty Gear Strive Lag Fix: Tips and Techniques to Enhance Gameplay Performance</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/navigating-through-luts-for-improved-photography-techniques-for-2024/"><u>Navigating Through LUTs for Improved Photography Techniques for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-game-crash-errors-in-chinese-classic-legends-chapter-seven-for-a-seamless-experience/"><u>Overcoming Game Crash Errors in Chinese Classic Legends Chapter Seven for a Seamless Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/play-classic-detective-game-on-pc-the-arrival-of-l-a-noire/"><u>Play Classic Detective Game on PC: The Arrival of L. A. Noire</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722958641445-quickly-find-and-install-the-latest-wacom-intuos-tablet-driver/"><u>Quickly Find and Install the Latest Wacom Intuos Tablet Driver</u></a></li>
+<li><a href="https://win-able.techidaily.com/total-war-warhammer-3-stability-improvements-no-more-pc-disruptions/"><u>Total War: Warhammer 3 Stability Improvements – No More PC Disruptions!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-to-restore-dolby-atmos-sound-for-windows-operating-systems/"><u>Troubleshooting Tips to Restore Dolby Atmos Sound for Windows Operating Systems</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Eliminate Titanfall 2 Glitches - Step-by-Step Easy Fix for Continuous Crashes
-date: 2024-08-18T16:26:53.996Z
-updated: 2024-08-19T16:26:53.996Z
+date: 2024-12-26T08:41:33.668Z
+updated: 2024-12-27T12:10:43.167Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -31,6 +35,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i3 2.4 Ghz** |
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recommended system requirements for Fortnite
 
@@ -43,18 +51,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -75,8 +71,9 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Use compatibility mode
 
  Run Fortnite in compatibility mode is a way to solve many problems. This Fortnite black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -120,14 +117,16 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -136,9 +135,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ### Method 5: Change scale and layout limit
 
  This solution has been proved by some users that help them fix the Fortnite black screen problem. Follow the steps below to change the display settings on your computer.
@@ -149,9 +145,9 @@ OR
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
@@ -161,14 +157,13 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 1. Type “firewall” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
@@ -187,8 +182,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +189,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-best-mp3-extractors-from-tiktok-online-and-at-zero-price/"><u>[New] Best MP3 Extractors From TikTok - Online & at Zero Price</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-the-watchers-workshop-advanced-guide-to-live-tv-broadcasting-via-windows-pc/"><u>[New] In 2024, The Watcher's Workshop Advanced Guide to Live TV Broadcasting via Windows PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-capture-it-all-the-top-5-sd-cards-for-gopro-hero-footage/"><u>[Updated] Capture It All The Top 5 SD Cards for GoPro Hero Footage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-virtual-realms-at-your-fingertips-the-1-list-of-immersive-vr-streamers-for-pc/"><u>[Updated] In 2024, Virtual Realms at Your Fingertips The #1 List of Immersive VR Streamers for PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-prime-8-transformative-lenses-for-virtual-conferencing/"><u>[Updated] Prime 8 Transformative Lenses for Virtual Conferencing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-essential-list-of-8-authentic-youtube-boosters/"><u>[Updated] The Essential List of 8 Authentic YouTube Boosters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-cycling-sims-worth-your-time-for-2024/"><u>[Updated] Top Cycling Sims Worth Your Time for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-ultimate-guide-to-podcast-names-plus-50plus-podcast-name-ideas/"><u>[Updated] Ultimate Guide to Podcast Names (Plus 50+ Podcast Name Ideas)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/3-ways-for-android-pokemon-go-spoofing-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>3 Ways for Android Pokemon Go Spoofing On Honor 90 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-convert-and-transfer-your-music-a-step-by-step-guide-to-burning-mp3s-onto-a-dvd/"><u>How to Convert and Transfer Your Music: A Step-by-Step Guide to Burning MP3s Onto a DVD</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/master-your-media-with-leading-vob-editors-tips-for-slicing-and-combining-video-chapters-effortlessly/"><u>Master Your Media with Leading VOB Editors: Tips for Slicing and Combining Video Chapters Effortlessly</u></a></li>
+<li><a href="https://win-able.techidaily.com/optional-12-cup-grated-parmesan-cheese/"><u>Optional: 1/2 Cup Grated Parmesan Cheese</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-and-effective-techniques-to-secure-your-favorite-audios-from-youtube/"><u>Quick & Effective Techniques to Secure Your Favorite Audios From YouTube</u></a></li>
+<li><a href="https://win-able.techidaily.com/removing-cinavia-protection-enabling-hd-streaming-from-your-ps4-with-a-personal-copy/"><u>Removing Cinavia Protection: Enabling HD Streaming From Your PS4 with a Personal Copy</u></a></li>
+<li><a href="https://win-able.techidaily.com/seamless-acc-to-wav-conversion-techniques-for-windows-users/"><u>Seamless ACC-to-WAV Conversion Techniques for Windows Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/simple-steps-converting-mp4-files-to-mov-format-both-online-and-desktop-methods/"><u>Simple Steps: Converting MP4 Files to MOV Format - Both Online and Desktop Methods</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-to-adding-the-tv-chopo-extension-in-kodi-195-leia/"><u>Step-by-Step Guide to Adding the TV Chopo Extension in Kodi 19.5 Leia</u></a></li>
+<li><a href="https://win-able.techidaily.com/mp3mp/"><u>おススメのビットレート変換フリーソフト MP3/MP オプションのガイド</u></a></li>
+</ul></div>
 

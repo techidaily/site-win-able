@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Playtime: Strategies to Combat Lag and Improve Response Time in 'Back 4 Blood'"
-date: 2024-12-15T18:26:03.164Z
-updated: 2024-12-22T00:34:27.229Z
+date: 2024-12-25T10:21:28.899Z
+updated: 2024-12-27T06:40:05.371Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -69,10 +65,6 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
@@ -92,7 +84,7 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
@@ -100,13 +92,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update both your graphics driver and network driver with just one click. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Check your DNS settings
 
@@ -126,17 +122,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2: Switch to a public DNS server
 
@@ -155,13 +151,17 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
@@ -196,22 +196,21 @@ thumbnail: https://thmb.techidaily.com/a1ac37f5d8004b4ebc86b20658724b93ef9aff951
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-mastering-subtitle-extraction-from-youtube-unveiling-three-steps/"><u>[New] Mastering Subtitle Extraction From YouTube Unveiling Three Steps</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-ending-dark-mode-glitches-on-playback/"><u>2024 Approved Ending Dark Mode Glitches on Playback</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/acer-touchpad-software-and-driver-downloads-fully-supports-windows-10-systems/"><u>Acer Touchpad Software & Driver Downloads: Fully Supports Windows 10 Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/battlefront-ii-stability-issues-fixed-for-windows-users-top-solutions-explored/"><u>Battlefront II Stability Issues Fixed for Windows Users – Top Solutions Explored</u></a></li>
-<li><a href="https://win-able.techidaily.com/call-of-duty-modern-warfare-stability-improvements-for-uninterrupted-gaming/"><u>Call of Duty: Modern Warfare Stability Improvements for Uninterrupted Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-your-game-beat-nba-2k23-pc-lag-with-our-7-expert-tips/"><u>Fix Your Game: Beat NBA 2K23 PC Lag with Our 7 Expert Tips</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-bandicam-vs-camtasia-a-comparative-review/"><u>In 2024, Bandicam Vs. Camtasia A Comparative Review</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-securing-social-media-memories-the-latest-on-downloading-fb-statuses/"><u>In 2024, Securing Social Media Memories The Latest on Downloading Fb Statuses</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/1719169077022-linking-up-with-fun-think-twice-about-it/"><u>Linking Up With Fun? Think Twice About It!</u></a></li>
-<li><a href="https://program-issues.techidaily.com/overcoming-launch-problems-with-the-nier-replicant-remaster/"><u>Overcoming Launch Problems with the NieR Replicant Remaster</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-the-stuck-loading-error-on-discord-streams-a-comprehensive-guide/"><u>Overcoming the Stuck Loading Error on Discord Streams: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/shadowplay-not-recording-on-windows-solved/"><u>Shadowplay Not Recording on Windows [Solved]</u></a></li>
-<li><a href="https://win-able.techidaily.com/speed-up-your-gameplay-overcoming-delays-in-loading-fallout-4-levels/"><u>Speed Up Your Gameplay – Overcoming Delays in Loading Fallout 4 Levels</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-resolving-issues-with-a-nonfunctional-paradox-launcher/"><u>Troubleshooting Guide: Resolving Issues with a Nonfunctional Paradox Launcher</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-honor-magic-6-lite-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Honor Magic 6 Lite? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-didnt-immortals-of-agni-and-logos-release-on-time-explained/"><u>Why Didn't Immortals of Agni & Logos Release on Time? [EXPLAINED]</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-navigating-virtual-meetings-setting-up-video-calls-via-whatsapp-browser-on-pcs/"><u>[New] Navigating Virtual Meetings Setting up Video Calls via WhatsApp Browser on PCs</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premier-platforms-for-game-casting/"><u>[Updated] Premier Platforms for Game Casting</u></a></li>
+<li><a href="https://win-able.techidaily.com/cyberpunk-2077-update-eliminates-screen-freeze-problems-for-players/"><u>Cyberpunk 2077 Update Eliminates Screen Freeze Problems for Players</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ing-youtube-income-how-much-does-each-1000-viewer-earn-in-2024/"><u>Decoding YouTube Income How Much Does Each 1,000 Viewer Earn, In 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-fixes-resolving-gtfo-application-errors/"><u>Easy Fixes: Resolving GTFO Application Errors</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-tips-resolve-dvd-playback-issues-with-these-10-reliable-methods-for-smooth-viewing-experience/"><u>Expert Tips: Resolve DVD Playback Issues with These 10 Reliable Methods for Smooth Viewing Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-intel-graphics-software-stuck-in-error-state/"><u>Fixes & Solutions: Intel Graphics Software Stuck in Error State</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-implemented-unlocking-all-levels-in-mass-effect-trilogy-fps-enhancements/"><u>Fixes Implemented: Unlocking All Levels in Mass Effect Trilogy - FPS Enhancements</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-grand-theft-auto-5s-errgfxd3dinit-graphics-issue-easily/"><u>Fixing Grand Theft Auto 5'S ERR_GFX_D3D_INIT Graphics Issue Easily</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-locked-iphone-15-plus-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>Forgot Locked iPhone 15 Plus Password? Learn the Best Methods To Unlock</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723012288372-get-your-pcs-minecraft-back-to-playing-smoothly-fix-common-freeze-problems-today/"><u>Get Your PC's Minecraft Back to Playing Smoothly - Fix Common Freeze Problems Today</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-record-your-ps4-games-like-a-pro-expert-advice/"><u>How to Effortlessly Record Your PS4 Games Like a Pro: Expert Advice</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-streamline-conversion-selecting-the-top-10-free-tools/"><u>In 2024, Streamline Conversion Selecting the Top 10 Free Tools</u></a></li>
+<li><a href="https://discover-forum.techidaily.com/ios-15-installation-error-uninstall-and-reinstall-steps/"><u>IOS 15 Installation Error - Uninstall & Reinstall Steps</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-persistent-echoes-of-eternal-return-a-look-at-black-endurance/"><u>The Persistent Echoes of 'Eternal Return': A Look at Black Endurance</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upgrading-to-rtx-is-your-system-ready-for-enhanced-performance/"><u>Upgrading to RTX: Is Your System Ready for Enhanced Performance?</u></a></li>
 </ul></div>
 

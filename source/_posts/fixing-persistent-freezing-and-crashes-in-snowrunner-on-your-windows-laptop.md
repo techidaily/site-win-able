@@ -1,7 +1,7 @@
 ---
 title: Fixing Persistent Freezing & Crashes in SnowRunner on Your Windows Laptop
-date: 2024-12-20T18:25:30.665Z
-updated: 2024-12-21T16:18:58.619Z
+date: 2024-12-21T05:38:21.230Z
+updated: 2024-12-26T16:22:28.806Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Table of contents
 
 * [Official Fix](https://tools.techidaily.com/drivereasy/download/)  
@@ -32,7 +36,7 @@ It’s annoying to face crashes during the game. Don’t worry, the SEGA team ha
 * [Fix 2: Edit Settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Official Fix
@@ -83,12 +87,16 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
@@ -103,16 +111,8 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-31-35.jpg)
 4. Click**Disable fullscreen optimizations** &**Run this program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-32-29.jpg)
 5. Save the changes and relaunch the game.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  This fix works for some players. But computers vary from person to person, if it’s not working, please try another fix.
 
@@ -124,31 +124,31 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
 4. Go to the**Advanced** tab and make sure Programs is checked. Then click**Change…**  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-40.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -174,24 +174,16 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-video-synchronization-with-obs/"><u>[New] 2024 Approved Mastering Video Synchronization with OBS</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-from-farm-to-feast-shooting-gourmet-films-with-grace/"><u>[New] From Farm to Feast Shooting Gourmet Films with Grace</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-subscribers-count-in-real-time/"><u>[New] Subscribers Count in Real-Time</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-fading-sound-tracks-with-logic-pro/"><u>[Updated] 2024 Approved Fading Sound Tracks with Logic Pro</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-warping-letters-in-photographyvideo-for-2024/"><u>[Updated] Warping Letters in Photography/Video for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeat-dead-by-daylight-crashes-proven-strategies-and-fixes-of-2024/"><u>Defeat Dead by Daylight Crashes: Proven Strategies and Fixes of 2024</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-the-latest-tp-link-ub400-bluetooth-adapter-drivers-free-updates-available/"><u>Download the Latest TP-Link UB400 Bluetooth Adapter Drivers - Free Updates Available</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-advice-on-fixing-resident-evil-village-not-loading-errors/"><u>Expert Advice on Fixing Resident Evil Village Not Loading Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/fallout-4-screen-issue-fixed-a-step-by-step-troubleshooting-guide/"><u>Fallout 4 Screen Issue Fixed - A Step-by-Step Troubleshooting Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-itel-s23-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Itel S23 FRP In 3 Different Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011845344-launching-struggles-beat-the-forza-horizon-4-boot-problems-now/"><u>Launching Struggles? Beat the Forza Horizon 4 Boot Problems Now!</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/navigating-the-world-of-android-video-snapshots/"><u>Navigating the World of Android Video Snapshots</u></a></li>
-<li><a href="https://win-able.techidaily.com/rolling-into-victory-the-definitive-2024-roller-champions-pc-playbook-and-tactics-manual/"><u>Rolling Into Victory: The Definitive 2024 Roller Champions PC Playbook and Tactics Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/stop-fifa-21-from-crashing-expert-tips-for-a-smooth-gaming-experience/"><u>Stop FIFA 21 From Crashing: Expert Tips for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-pc-bugs-for-a-smooth-grounded-gaming-experience-tips-and-guides/"><u>Troubleshooting PC Bugs for a Smooth 'Grounded' Gaming Experience : Tips and Guides</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723011469641-troubleshooting-tips-for-preventing-pc-disruptions-in-fifa-19-play-now-fixed/"><u>Troubleshooting Tips for Preventing PC Disruptions in FIFA 19 Play – Now Fixed</u></a></li>
-<li><a href="https://win-able.techidaily.com/ultimate-fixes-for-when-armored-core-vi-doesnt-load-a-comprehensive-solution-to-the-fires-of-rubicon-not-launching-problem/"><u>Ultimate Fixes for When Armored Core VI Doesn't Load: A Comprehensive Solution to the 'Fires of Rubicon Not Launching' Problem</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/windows-11-compatible-top-bitlocker-recovery-tools/"><u>Windows 11-Compatible Top BitLocker Recovery Tools</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-crafting-compelling-examples-podcast-summaries/"><u>[New] 2024 Approved Crafting Compelling Examples Podcast Summaries</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-htcs-masterstroke-in-immersive-technology-a-deep-dive-into-vive/"><u>[Updated] HTC's Masterstroke in Immersive Technology - A Deep Dive Into Vive</u></a></li>
+<li><a href="https://win-able.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-guide/"><u>Crusader Kings II Won't Start: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/every-proper-noun-eg-kickstarter-indiegogo-must-be-transformed-into-anagrams-that-still-somewhat-relate-to-finance-or-entrepreneurship-for-instance-kickstar587/"><u>Every Proper Noun (E.g., Kickstarter, Indiegogo) Must Be Transformed Into Anagrams that Still Somewhat Relate to Finance or Entrepreneurship. For Instance, Kickstarter Could Become Start Cork Key, Implying a Key Initiative Kicking Off Fundraising Efforts.</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/lg-um7300-49-inch-4k-tv-review/"><u>LG UM7300 49-Inch 4K TV Review</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-discord-how-to-fix-a-frozen-stream-that-wont-load/"><u>Mastering Discord: How to Fix a Frozen Stream That Won’t Load</u></a></li>
+<li><a href="https://win-able.techidaily.com/solve-slow-motion-six-speed-secrets-to-improving-fps-in-elden-ring/"><u>Solve Slow Motion: Six Speed Secrets To Improving FPS in Elden Ring</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solution-to-improve-frame-rates-and-eliminate-hiccups-in-naraka-bladepoint-playthroughs/"><u>Step-by-Step Solution to Improve Frame Rates & Eliminate Hiccups in Naraka: Bladepoint Playthroughs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-itel-s23plus-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Itel S23+ Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-secrets-to-professional-sound-capture-in-audacity/"><u>Unveiling the Secrets to Professional Sound Capture in Audacity</u></a></li>
 </ul></div>
 

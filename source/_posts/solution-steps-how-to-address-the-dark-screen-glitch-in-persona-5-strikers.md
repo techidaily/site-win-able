@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: How to Address the Dark Screen Glitch in Persona 5 Strikers"
-date: 2024-08-18T16:25:53.621Z
-updated: 2024-08-19T16:25:53.621Z
+date: 2024-12-23T12:46:11.836Z
+updated: 2024-12-26T19:46:06.195Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -47,13 +51,14 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -66,14 +71,13 @@ Restart your computer for the changes to take effect.
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Check the issue is persist or not.
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -81,18 +85,22 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Restart your computer and check to see if the problem resolves.
 
 ### Method 5: Use windowed mode
@@ -103,9 +111,6 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -118,8 +123,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +130,24 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-able.techidaily.com/solved-sword-and-fairy-7-keeps-crashing-on-pc/"><u>[SOLVED] Sword and Fairy 7 Keeps Crashing on PC</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-become-a-snapchat-pro-securing-and-sharing-screen-videos/"><u>[Updated] 2024 Approved Become a Snapchat Pro Securing & Sharing Screen Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-core-concepts-of-story-making/"><u>[Updated] Core Concepts of Story Making</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-step-by-written-by-a-language-model-ai-i-can-help-rewrite-the-paragraph-into-an-academic-style-but-please-note-that-my-responses-may-not-hav/"><u>[Updated] In 2024, Step-By Written by a Language Model AI. I Can Help Rewrite the Paragraph Into an Academic Style, but Please Note that My Responses May Not Have the Same Depth as Those Written by Subject Matter Experts. Here Is a Revised Version</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unlocking-the-secrets-of-saving-hulu-episodes-on-various-devices-for-2024/"><u>[Updated] Unlocking the Secrets of Saving Hulu Episodes on Various Devices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/alien-fireteam-elite-on-pc-top-fixes-for-game-crashes-and-uninterrupted-gaming-experience/"><u>Alien: Fireteam Elite on PC - Top Fixes for Game Crashes and Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/closure-on-team-fortress-2s-persistent-crash-problem-expert-advice-for-players/"><u>Closure on Team Fortress 2'S Persistent Crash Problem: Expert Advice for Players</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-the-power-of-smart-tracking-solutions-discover-how-cookiebot-empowers-your-website/"><u>Harnessing the Power of Smart Tracking Solutions - Discover How Cookiebot Empowers Your Website</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-get-your-steam-game-library-up-and-running-again-on-win-10-devices/"><u>How to Get Your Steam Game Library Up and Running Again on Win 10 Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-stardew-valley-from-crashing-on-your-windows-or-mac/"><u>How to Stop Stardew Valley From Crashing on Your Windows or Mac</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-file-transfer-in-google-chrome-now-easier-on-windows/"><u>Mastering File Transfer in Google Chrome, Now Easier on Windows</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-csglobal-offensive-initialization-failures-a-guide-to-fixing-the-issue/"><u>Overcoming CS:Global Offensive Initialization Failures - A Guide to Fixing the Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-xiaomi-14-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Xiaomi 14 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/solved-fixing-the-issue-when-your-game-wont-start-check-your-game-files/"><u>Solved: Fixing the Issue When Your Game Won't Start - Check Your Game Files</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reset-blank-login-windows-1011/"><u>Strategies to Reset Blank Login Windows 10/11</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/twitch-content-integration-boosting-engagement-with-fb-sharing/"><u>Twitch Content Integration Boosting Engagement with FB Sharing</u></a></li>
+<li><a href="https://win-able.techidaily.com/unveiling-the-mystery-football-manager-2022-release-held-up-now-fixed/"><u>Unveiling the Mystery: Football Manager 2022 Release Held Up, Now Fixed!</u></a></li>
+</ul></div>
 

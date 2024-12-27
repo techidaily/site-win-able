@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Corsair iCUE Connectivity Problems on Windows 11 PCs
-date: 2024-12-17T22:27:19.781Z
-updated: 2024-12-21T17:13:10.293Z
+date: 2024-12-20T06:15:49.892Z
+updated: 2024-12-26T23:55:26.194Z
 tags:
   - win11
   - win10
@@ -33,7 +33,7 @@ It’s frustrating when you experience the launching problem when playing Age of
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Run the game as an administrator
@@ -44,25 +44,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  \*If you’re playing the game on Steam, also run Steam as an administrator.
 
@@ -70,13 +58,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **6)** Click**OK** .
 
@@ -113,7 +101,7 @@ If AoE still won’t launch, move on and try the fix below.
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of your game files
@@ -136,10 +124,6 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
@@ -159,6 +143,10 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
@@ -175,12 +163,16 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-51-27.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Age of Empires** , then**Advanced options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Click**Reset** .
@@ -190,6 +182,10 @@ If the issue continues to occur, go to the next solution.
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
@@ -206,12 +202,16 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -238,24 +238,21 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-quick-recording-tips-mastering-screen-captures-on-hp-systems/"><u>[New] Quick Recording Tips Mastering Screen Captures on HP Systems</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-imovie-techniques-for-squaring-up-your-instagram-feed/"><u>[Updated] In 2024, IMovie Techniques for Squaring Up Your Instagram Feed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-unveiling-ar-a-modern-illusionists-toolkit-for-2024/"><u>[Updated] Unveiling AR A Modern Illusionist's Toolkit for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/beat-necromunda-bug-blues-permanent-solutions-for-pc-version-freezes-and-crashes/"><u>Beat Necromunda Bug Blues: Permanent Solutions for PC Version Freezes & Crashes</u></a></li>
-<li><a href="https://video-capture.techidaily.com/capture-screenshots-of-a-full-page-for-2024/"><u>Capture Screenshots of a Full Page for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/conquer-call-of-dutys-dark-side-your-guide-to-overcoming-warzones-black-screen-glitches/"><u>Conquer Call of Duty's Dark Side: Your Guide to Overcoming Warzone's Black Screen Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/counter-strike-2-pc-stability-improvements-for-gaming-in-the-new-year-crash-solutions/"><u>Counter-Strike 2 PC Stability Improvements for Gaming in the New Year - Crash Solutions</u></a></li>
-<li><a href="https://win-able.techidaily.com/flicker-free-display-tips-eliminating-your-monitors-annoying-blink/"><u>Flicker-Free Display Tips: Eliminating Your Monitor's Annoying Blink</u></a></li>
-<li><a href="https://win-able.techidaily.com/genshin-impact-boot-up-problems-here-are-5-simple-remedies/"><u>Genshin Impact Boot-Up Problems? Here Are 5 Simple Remedies</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-pova-6-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Pova 6 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-realme-v30-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hpad-equipment-the-beginners-checklist-for-2024/"><u>Launchpad Equipment The Beginner's Checklist for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/spectacular-racing-thrills-the-quintet-for-2024/"><u>Spectacular Racing Thrills The Quintet for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-rainbow-six-siege-pc-issues-overcoming-the-persistent-black-screen-problem/"><u>Troubleshooting Rainbow Six Siege PC Issues - Overcoming the Persistent Black Screen Problem</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-steps-to-eliminate-latency-issues-in-street-fighter-6-a-guide-for-smooth-gameplay/"><u>Troubleshooting Steps to Eliminate Latency Issues in Street Fighter 6: A Guide for Smooth Gameplay</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-launch-problems-in-overwatch-conquering-the-ominous-black-screen/"><u>Troubleshooting Tips for Launch Problems in Overwatch - Conquering the Ominous Black Screen</u></a></li>
-<li><a href="https://win-able.techidaily.com/unstick-your-dota-2-solutions-for-launch-failures-and-endless-loads/"><u>Unstick Your Dota 2: Solutions for Launch Failures and Endless Loads</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-not-connecting-a-comprehensive-fix-guide-for-playstation-and-pc-users/"><u>Warzone Not Connecting? A Comprehensive Fix Guide for PlayStation and PC Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/why-apple-skips-older-models-for-upcoming-ai-innovations-an-economic-perspective-reported/"><u>Why Apple Skips Older Models for Upcoming AI Innovations: An Economic Perspective | Reported</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/mplify-video-impact-leading-trackers-for-youtube-ranks/"><u>[New] Amplify Video Impact Leading Trackers for YouTube Ranks</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-steps-for-starting-a-youtube-channel/"><u>[New] In 2024, Essential Steps for Starting a YouTube Channel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-excellent-web-based-screen-capture-solutions/"><u>2024 Approved 10 Excellent Web-Based Screen Capture Solutions</u></a></li>
+<li><a href="https://win-able.techidaily.com/avoid-game-disruptions-resolving-grand-theft-auto-5-gta-v-crash-issues/"><u>Avoid Game Disruptions: Resolving Grand Theft Auto 5 (GTA V) Crash Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/cutting-edge-screen-recorders-for-professionals-for-2024/"><u>Cutting-Edge Screen Recorders for Professionals for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-gaming-fixing-the-complete-edition-of-horizon-forbidden-west-to-prevent-pc-game-crashes/"><u>Effortless Gaming: Fixing the Complete Edition of Horizon Forbidden West to Prevent PC Game Crashes</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-terrarias-frequent-crashes-with-these-expert-tips-for-gamers/"><u>Fix Terraria's Frequent Crashes with These Expert Tips for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-start-the-quick-assist-tool-in-windows-11/"><u>How to Start the Quick Assist Tool in Windows 11</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-lava-yuva-3-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Lava Yuva 3 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-motorola-moto-g14-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Motorola Moto G14 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/liberamente-converti-i-tuoi-amv-in-formato-mpeg-utilizzando-il-servizio-di-rete-di-movavi/"><u>Liberamente Converti I Tuoi AMV in Formato MPEG Utilizzando Il Servizio Di Rete Di Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-connection-problems-in-elden-rings-multiplayer-mode-a-guide/"><u>Overcoming Connection Problems in Elden Ring's Multiplayer Mode: A Guide</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210532939-9780762478040-signs-skymates/"><u>Signs & Skymates | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/smooth-gameplay-in-lost-ark-addressing-fps-fluctuations-and-ensuring-optimal-performance/"><u>Smooth Gameplay in Lost Ark: Addressing FPS Fluctuations & Ensuring Optimal Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-content-warning-in-voice-chat/"><u>Troubleshooting Steps: Resolving 'Content Warning' In Voice Chat</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-a-smoother-play-resolving-pc-crashes-in-madden-21/"><u>Troubleshooting Tips for a Smoother Play - Resolving PC Crashes in Madden 21</u></a></li>
 </ul></div>
 

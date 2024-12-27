@@ -1,7 +1,7 @@
 ---
 title: "Chivalry II Stability Issue Resolved: Game Now Running Smoothly"
-date: 2024-08-18T16:25:05.624Z
-updated: 2024-08-19T16:25:05.624Z
+date: 2024-12-26T02:35:59.010Z
+updated: 2024-12-27T08:32:00.894Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -86,16 +83,14 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -109,17 +104,9 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ---
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair Madden 20
 
  The Madden 20 game crash error may also occur if the files are corrupt. So you can repair it in Origin.
@@ -139,9 +126,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -151,8 +138,9 @@ Here is how to do it:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -162,6 +150,10 @@ Here are the steps:
  1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **appwiz.cpl** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
@@ -189,8 +181,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +188,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-in-depth-analysis-leading-tv-streaming-providers/"><u>[New] 2024 Approved In-Depth Analysis Leading TV Streaming Providers</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-lightning-loop-transferring-youtube-playlists-fast/"><u>[New] 2024 Approved Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-troubleshooting-why-are-your-shorts-thumbnails-hiding/"><u>[Updated] In 2024, Troubleshooting Why Are Your Shorts' Thumbnails Hiding?</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-tranquil-sleep-soundtrack-expertly-selected-voices-for-2024/"><u>[Updated] Tranquil Sleep Soundtrack Expertly Selected Voices for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/2024s-definitive-guide-to-solving-biomutants-pc-stability-and-eliminating-crashes-for-gamers/"><u>2024'S Definitive Guide to Solving Biomutant's PC Stability and Eliminating Crashes for Gamers.</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>8 Solutions to Fix Find My Friends Location Not Available On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-tutorial-installing-hyper-v-features-on-windows-10-computers/"><u>Comprehensive Tutorial: Installing Hyper-V Features on Windows 10 Computers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-tips-to-resolve-launch-problems-with-battlefield-4-game-on-desktop-computers/"><u>Effective Tips to Resolve Launch Problems with Battlefield 4 Game on Desktop Computers</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/excels-versatility-in-data-analysis-beyond-chatbot-capabilities/"><u>Excel’s Versatility in Data Analysis, Beyond Chatbot Capabilities</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-windows-specific-malfunctions-in-star-citizen-gameplay/"><u>How to Resolve Windows-Specific Malfunctions in Star Citizen Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001694671-how-to-stop-phoenix-point-from-crashing-proven-fixes-that-work/"><u>How to Stop Phoenix Point From Crashing: Proven Fixes That Work</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-motorola-moto-g14-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Motorola Moto G14 Users</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/overcoming-mouse-challenges-for-a-seamless-experience-in-resident-evil-village/"><u>Overcoming Mouse Challenges for a Seamless Experience in Resident Evil Village</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-the-issue-when-team-fortress-2-refuses-to-open/"><u>Resolving the Issue When 'Team Fortress 2 Refuses to Open</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722990938542-stardew-valley-error-resolved-now-running-smoothly/"><u>Stardew Valley Error Resolved: Now Running Smoothly!</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-wow-crashes-effective-methods-for-a-smooth-gaming-experience/"><u>Troubleshooting WoW Crashes: Effective Methods for a Smooth Gaming Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing Continuous Freezes: A Player's Handbook to Stabilize Forza Horizon 5 on Your Computer"
-date: 2024-08-18T16:22:45.142Z
-updated: 2024-08-19T16:22:45.142Z
+date: 2024-12-21T05:59:39.526Z
+updated: 2024-12-26T18:06:26.265Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 
  You might not need to try all the fixes. Simply work your way down until you find the one that gives you luck.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## PC
 
 1. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
@@ -39,8 +43,9 @@ thumbnail: https://thmb.techidaily.com/576613d76775eba96e07a16efe944a1e36820bdf5
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes for PC gamers
 
 If you encounter the issue on your computer, try these solutions.
@@ -55,12 +60,13 @@ If you encounter the issue on your computer, try these solutions.
 3. Click**Begin Scan** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  Now you can launch Warzone and check if the error code reoccurs during gameplay.
 
 If this method doesn’t help you, check out the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Install all Windows updates
 
@@ -71,9 +77,6 @@ If this method doesn’t help you, check out the next one below.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your PC and check if the problem persists.
@@ -93,15 +96,16 @@ If the issue remains, you can try the next fix below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated all your drivers, restart your PC and see if Warzone crashes again.
 
  If the latest drivers didn’t help you, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Perform a clean boot
 
  In order to further rule out any possible interference, you need to**perform a clean boot** to make sure your system is free of compatibility issues. It means you need to start your PC with only the essential software and services.
@@ -109,50 +113,27 @@ If the issue remains, you can try the next fix below.
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 
 Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t do the trick for you, move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Rebuild your settings
 
@@ -164,16 +145,14 @@ Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t give you luck, simply continue to the cross-platform solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes for PC & console
 
 The following fixes apply to both PC and console.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Change to Windowed mode
 
  According to the feedback, changing in-game settings to Windowed mode could be a potential fix for the crash. So you can try this and see how things go.
@@ -184,24 +163,22 @@ The following fixes apply to both PC and console.
 
  If changing the display mode doesn’t solve your problem, you can try the next method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Switch to another account
 
  According to some, the Dev Error 5573 only appears on certain accounts. So if possible, you can**switch to another account** , then check if the crash happens again. If the problem disappears, you can contact the Activision support for further troubleshooting regarding your account.
 
 If the issue lingers on, take a look at the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 3: Switch to Modern Warfare operators
 
  If you’re using an operator from Black Ops Cold War, you can try another one from Modern Warfare. Some users reported that the error disappeared when**using operators that are not from Black Ops Cold War** . It’s unclear whether it’s just a glitch or a compatibility issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/mw-operators.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
  For an overview of operators, you can check out[this page](https://www.gamesatlas.com/cod-modern-warfare/operators/) .
 
 ### Fix 4: Switch loadouts and cosmetics
@@ -209,6 +186,10 @@ If the issue lingers on, take a look at the next solution.
  Aside from operators, it’s reported that certain**loadouts or cosmetics** are the one to blame. So if you’re using any of those, try to switch or simply unequip them and see how things go.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/warzone-cosmetics-watches-1200x675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -220,8 +201,6 @@ If the issue lingers on, take a look at the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +208,24 @@ If the issue lingers on, take a look at the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-calculator-projected-profits-from-youtube/"><u>[New] Calculator Projected Profits From YouTube</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-urgent-top-10-lost-iphone-x-solutions-revealed/"><u>[New] In 2024, Urgent Top 10 Lost iPhone X Solutions Revealed</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-average-podcast-income-whats-the-payoff-for-2024/"><u>[Updated] Average Podcast Income What's the Payoff for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-depth-look-top-10-social-media-video-tools/"><u>[Updated] In-Depth Look Top 10 Social Media Video Tools</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-snapdivide-assessment/"><u>[Updated] SnapDivide Assessment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-capturing-still-moments-from-clips-on-windows-11/"><u>2024 Approved Capturing Still Moments From Clips on Windows 11</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-the-food-filmmakers-blueprint-techniques-and-tricks/"><u>2024 Approved The Food Filmmaker’s Blueprint Techniques and Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-your-game-library-resolve-warzone-disc-read-errors-50-31-for-pc-users/"><u>Fixing Your Game Library: Resolve Warzone Disc Read Errors [5.0, 3.1] for PC Users</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-hevc-h-265-video-on-samsung-galaxy-m34-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>How to play HEVC H.265 video on Samsung Galaxy M34 5G?</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-repair-your-broken-hp-display-expert-advice/"><u>How to Repair Your Broken HP Display – Expert Advice</u></a></li>
+<li><a href="https://win-able.techidaily.com/lost-in-digital-battlefields-reboot-your-link-with-blizzard-gaming-servers-now/"><u>Lost in Digital Battlefields? Reboot Your Link with Blizzard Gaming Servers Now</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-ultimate-list-of-on-line-aid-sources-for-flawless-visual-text-for-2024/"><u>The Ultimate List of On-Line Aid Sources for Flawless Visual Text for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/tips-and-solutions-for-dealing-with-unavailable-pc-support-on-rockstar-games/"><u>Tips and Solutions for Dealing with Unavailable PC Support on Rockstar Games</u></a></li>
+<li><a href="https://win-able.techidaily.com/top-5-solutions-for-resolving-zoom-unable-to-play-videos/"><u>Top 5 Solutions for Resolving 'Zoom Unable to Play Videos'</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-complete-guide-how-to-stop-fifa-2021-from-crashing-on-pcs/"><u>Troubleshooting Complete Guide: How to Stop FIFA 2021 From Crashing on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-skyfall-solving-launch-issues-in-how-to-build-a-city-sims-3/"><u>Troubleshooting SkyFall: Solving Launch Issues in How to Build a City - Sims 3</u></a></li>
+<li><a href="https://win-able.techidaily.com/valheim-performance-optimization-2024-strategies-to-improve-low-frame-rates/"><u>Valheim Performance Optimization: 2024 Strategies to Improve Low Frame Rates</u></a></li>
+</ul></div>
 

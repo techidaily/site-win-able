@@ -1,7 +1,7 @@
 ---
 title: Overcome Dead By Daylight's 2024 Crash Glitches with These Proven Solutions & Tips!
-date: 2024-08-18T16:26:56.219Z
-updated: 2024-08-19T16:26:56.219Z
+date: 2024-12-23T22:36:31.025Z
+updated: 2024-12-26T23:56:58.331Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -48,9 +52,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -59,21 +60,32 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 2. Click**Advanced system settings.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
@@ -86,14 +98,8 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 5. Reboot your computer and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
@@ -136,8 +142,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +149,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-journey-to-behind-the-camera-expertise-via-youtube-for-2024/"><u>[Updated] The Journey to Behind-the-Camera Expertise via YouTube for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/chrome4/"><u>「Chromeブラウザーにおける音声の録音技術：4選択肢のガイド」</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-explore-popular-youtube-comment-sections/"><u>2024 Approved Explore Popular YouTube Comment Sections</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-first-steps-in-the-youtubian-economy-building-a-brand-boosting-bank-balance/"><u>2024 Approved First Steps in the Youtubian Economy Building a Brand, Boosting Bank Balance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-ultimate-hd-capture-software-for-windows-and-macos/"><u>2024 Approved Ultimate HD Capture Software for Windows & macOS</u></a></li>
+<li><a href="https://win-able.techidaily.com/6lplusu5zob5pmc44gu44gk5a6i5qey44g444gu6lplusu6yer44ox44ot44k744k5ic0g44gu55ar5zwp55u46kuh44gc44kk44gm44gf44gp5a2y44gy5lik44gs44gplus44gz/"><u>返品時のお客様への返金プロセス - ご疑問相談ありがたく存じ上げます</u></a></li>
+<li><a href="https://win-able.techidaily.com/54sh5paz44ki44ox44oq44gn57ch5y2y44gr5yuv55s744gu44kr44od44oi57eo6zug44gm5yplusv6io977yb/"><u>無料アプリで簡単に動画のカット編集が可能！</u></a></li>
+<li><a href="https://win-able.techidaily.com/audacity-aac-handling-errors-uncovered-effective-solutions-to-overcome-import-and-export-challenges/"><u>Audacity AAC Handling Errors Uncovered: Effective Solutions to Overcome Import and Export Challenges</u></a></li>
+<li><a href="https://win-able.techidaily.com/best-tools-to-transform-your-audio-files-from-aac-format-to-mp3/"><u>Best Tools to Transform Your Audio Files From AAC Format to MP3</u></a></li>
+<li><a href="https://win-able.techidaily.com/converting-frame-interlace-to-progressive-a-guide-from-1080i-to-1080p/"><u>Converting Frame Interlace to Progressive: A Guide From 1080I to 1080P</u></a></li>
+<li><a href="https://win-able.techidaily.com/dmms-english-lessons-proven-techniques-for-recording-audio-and-video-sessions/"><u>DMM's English Lessons: Proven Techniques for Recording Audio and Video Sessions</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-to-capture-youtube-sounds-without-hassle/"><u>Easy Steps to Capture YouTube Sounds Without Hassle</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-downloading-audiobooks-from-youtube-two-effective-techniques/"><u>Easy Steps: Downloading Audiobooks From YouTube - Two Effective Techniques</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/effective-strategies-for-creating-diy-music-cd-copies-as-a-reliable-backup-method/"><u>Effective Strategies for Creating DIY Music CD Copies as a Reliable Backup Method</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fine-tune-your-cinematography-mastering-kinemaster-zoom-features-for-2024/"><u>Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/lettura-e-comprensione-dei-numeri-italiani-da-1-a-1000/"><u>Lettura E Comprensione Dei Numeri Italiani: Da 1 a 1000</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-ultimate-surveillance-avoidance-tips-for-instagrams-livestreams/"><u>The Ultimate Surveillance Avoidance Tips for Instagram's Livestreams</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-guide-when-microsofts-wireless-display-stick-fails-to-link-up-with-windows-10-systems/"><u>Troubleshooting Guide: When Microsoft's Wireless Display Stick Fails to Link Up With Windows 10 Systems</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unraveling-the-mystery-behind-blue-screen-computing-issues/"><u>Unraveling the Mystery Behind 'Blue Screen' Computing Issues</u></a></li>
+</ul></div>
 

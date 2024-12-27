@@ -1,7 +1,7 @@
 ---
 title: "Clear the Haze: Techniques for Enhancing COD: Warzone Graphics on Desktop Systems"
-date: 2024-12-18T19:13:09.515Z
-updated: 2024-12-21T20:43:34.361Z
+date: 2024-12-23T12:52:19.007Z
+updated: 2024-12-27T10:39:10.675Z
 tags:
   - win11
   - win10
@@ -37,7 +37,7 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Meet the minimum system requirements
@@ -85,19 +85,11 @@ Video games crash for various reasons, such as a corrupted graphics driver, miss
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-113-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-358.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -143,7 +135,7 @@ If this didn’t work, try the fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/04/2020-04-01_17-36-42.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)** Relaunch the game to see if this worked.
@@ -161,12 +153,16 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click **Settings** .
 
@@ -177,7 +173,7 @@ If not, move on and try the next solution below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
@@ -187,10 +183,6 @@ If not, move on and try the next solution below.
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
@@ -213,10 +205,6 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576.jpg)
@@ -224,6 +212,10 @@ If not, move on and try the next solution below.
 **3)** Restart your computer after the update is complete, then try running DOOM again.
 
  Hope Doom is running correctly now. If it’s not, don’t fret. Try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall DOOM Eternal
 
@@ -233,16 +225,24 @@ If not, move on and try the next solution below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **4)**  Highlight the **DOOM Eternal folder** , and then press the **Del** key on your keyboard to delete the folder.
@@ -274,20 +274,22 @@ If not, move on and try the next solution below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-disclosing-the-top-10-hidden-story-enthusiasts/"><u>[New] Disclosing the Top 10 Hidden Story Enthusiasts</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-initiate-your-video-journey-establishing-a-youtube-account/"><u>[Updated] Initiate Your Video Journey Establishing a YouTube Account</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-logitechs-4k-pro-webcam-a-complete-exploration/"><u>[Updated] Logitech's 4K Pro Webcam A Complete Exploration</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/beyond-acid-the-future-of-graphic-vectors-for-2024/"><u>Beyond ACID The Future of Graphic Vectors for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/comprehensive-fixes-for-smooth-minecraft-gaming-on-your-computer/"><u>Comprehensive Fixes for Smooth Minecraft Gaming on Your Computer</u></a></li>
-<li><a href="https://win-able.techidaily.com/echoes-lost-voices-found-correcting-fallout-amoanqf4-no-output-problems-on-desktop/"><u>Echoes Lost, Voices Found: Correcting Fallout Amoanqf4 No Output Problems on Desktop</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixes-implemented-for-seamless-play-r-type-final-2-now-stable-on-windows-machines/"><u>Fixes Implemented for Seamless Play - R-Type Final 2 Now Stable on Windows Machines</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-the-adobe-failed-to-launch-properly-error-code-0xc0000022/"><u>Fixing the 'Adobe Failed to Launch Properly' Error Code 0xC0000022</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-resolve-hunger-malfunctions-and-improve-performance-in-dread-game-for-windows-users/"><u>How to Resolve Hunger Malfunctions and Improve Performance in Dread Game for Windows Users</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From Apple iPhone XS Max?</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-14-showdown-pro-vs-pro-max-which-device-makes-the-cut-for-your-upgrade-gadgetpundit/"><u>IPhone 14 Showdown: Pro vs Pro Max – Which Device Makes the Cut for Your Upgrade? | GadgetPundit</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/mouse-gesture-power-ups-for-xpwin-7/"><u>Mouse Gesture Power-Ups for XP/Win 7</u></a></li>
-<li><a href="https://win-able.techidaily.com/overcoming-new-gen-game-latency-a-comprehensive-guide-for-smooth-play/"><u>Overcoming New-Gen Game Latency: A Comprehensive Guide for Smooth Play</u></a></li>
-<li><a href="https://win-able.techidaily.com/why-hasnt-elden-ring-hit-the-market-exploring-the-reasons-behind-its-hold-up/"><u>Why Hasn't Elden Ring Hit the Market? Exploring the Reasons Behind Its Hold-Up</u></a></li>
-<li><a href="https://techtrends.techidaily.com/windows-11-widgets-disabling-instructions-for-a-simpler-desktop-experience/"><u>Windows 11 Widgets Disabling Instructions for a Simpler Desktop Experience</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-screen-selection-dilemma-ultrawide-monitors-versus-uhd-4k-for-2024/"><u>[New] Screen Selection Dilemma UltraWide Monitors versus UHD 4K for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-amplify-online-impact-through-savvy-templates-design-for-2024/"><u>[Updated] Amplify Online Impact Through Savvy Templates Design for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-crafting-engaging-gamers-banners-using-pre-made-themes/"><u>[Updated] In 2024, Crafting Engaging Gamers' Banners Using Pre-Made Themes</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-expert-tips-for-memorable-youtube-names/"><u>[Updated] In 2024, Expert Tips for Memorable YouTube Names</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/essential-steps-for-seamless-use-of-telegram-web/"><u>Essential Steps for Seamless Use of Telegram Web</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-repair-steps-for-when-microsoft-outlook-fails-to-connect/"><u>Expert Advice: Repair Steps for When Microsoft Outlook Fails to Connect</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-game-stability-tackling-the-repeated-crash-problem-in-tormented-souls-for-pc-players/"><u>Fixing Game Stability: Tackling the Repeated Crash Problem in Tormented Souls for PC Players</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-ghost-recon-breakpoint-crashes-simple-solutions-that-work/"><u>Fixing Ghost Recon Breakpoint Crashes: Simple Solutions That Work</u></a></li>
+<li><a href="https://win-able.techidaily.com/forza-horizon-4-steps-to-fix-pc-game-breaking-crashes-effectively/"><u>Forza Horizon 4: Steps to Fix PC Game-Breaking Crashes Effectively</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ispoofer-is-not-working-on-apple-iphone-11-pro-fixed-drfone-by-drfone-virtual-ios/"><u>In 2024, iSpoofer is not working On Apple iPhone 11 Pro? Fixed | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/league-of-legends-ultimate-guide-solve-the-black-screen-issue/"><u>League of Legends Ultimate Guide: Solve the Black Screen Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/oculus-link-not-working-here-are-six-swift-solutions-to-revitalize-your-virtual-reality-experience/"><u>Oculus Link Not Working? Here Are Six Swift Solutions to Revitalize Your Virtual Reality Experience!</u></a></li>
+<li><a href="https://win-able.techidaily.com/prevent-persistent-new-world-game-crashes-tips-and-techniques-for-a-smooth-pc-experience/"><u>Prevent Persistent 'New World' Game Crashes: Tips and Techniques for a Smooth PC Experience</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-win1011s-corrupted-recycle-bin-woes/"><u>Resolving WIN10/11's Corrupted Recycle Bin Woes</u></a></li>
+<li><a href="https://win-able.techidaily.com/successfully-installing-and-fixing-tiny-tinas-stardust-bravest-warriors-on-your-pc/"><u>Successfully Installing and Fixing Tiny Tina's Stardust Bravest Warriors on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-blueprint-for-successful-individual-podcasts/"><u>The Blueprint for Successful Individual Podcasts</u></a></li>
 </ul></div>
 

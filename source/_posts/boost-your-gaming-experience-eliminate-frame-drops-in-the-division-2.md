@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Gaming Experience: Eliminate Frame Drops in 'The Division 2'"
-date: 2024-08-18T16:27:55.052Z
-updated: 2024-08-19T16:27:55.052Z
+date: 2024-12-26T04:07:58.201Z
+updated: 2024-12-26T21:37:08.707Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/71b29e512538a1ca57df111d49f95a750cd58f363
 
 Compared to the first game, The Division 2 presents a much stronger campaign experience. But players would still wish to maximize FPS and hopefully get rid of any performance issues to smooth the gameplay. This is definitely achievable. In this tutorial, we’ll show you how to boost FPS and fix the stuttering issues on The Division 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -27,6 +31,10 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set the game’s priority to high](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Close unnecessary programs
 
@@ -48,13 +56,14 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
   
 ![disable apps from running automatically at startup](https://images.drivereasy.com/wp-content/uploads/2021/04/startup-disable.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you’ve done these, play The Division 2 and check if your game looks better.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Disable Windows 10 Game Mode
 
  Game mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to give you a performance boost. But there are some circumstances that you would experience performance loss. To get rid of it, you’re supposed to disable Windows 10 Game Mode:
@@ -69,16 +78,14 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
  After applying the changes, play The Division 2 to check if your issues persist. If disabling Windows 10 Game Mode didn’t do the trick, proceed to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Disable overlays
 
  Overlay technology is commonly used in various programs. The Ubisoft Connect and GeForce Experience in-game overlays enable you to access GPU-accelerated video recording, screen-shot capture, broadcasting, and cooperative gameplay capabilities. But if you don’t really need to use these features, you can disable in-game overlays by following the instructions below:
@@ -94,9 +101,9 @@ Compared to the first game, The Division 2 presents a much stronger campaign exp
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-ubisoft-connect-overlay-1200x655.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **To disable GeForce Experience Overlay, take these steps:**
 
  1) From the GeForce Experience app, click on the**Settings icon** located on the top right corner.  
@@ -117,9 +124,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[**automatically**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -142,12 +146,17 @@ Here’s how to update drivers with Driver Easy:
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -155,13 +164,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## 5\. Set the game’s priority to high
 
  By default, every program runs on “normal” which means Windows handles the system resources automatically. But you can tell your computer that your game, The Division 2 should have a higher priority than others to make sure that it uses system resources first. This may give you a considerable framerate boost.
@@ -174,17 +176,10 @@ To set your game’s priority to high, you can take these steps:
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Under the**Processes** tab, find your game title. Right-click it and select**Go to details** and you’ll be directed to the**Details** tab.  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/Task-Manager-Go-to-details.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  4) Your game should be highlighted. Make sure to right-click it and select**Set priority > High** .  
   
 ![set The Division 2 priority to high](https://images.drivereasy.com/wp-content/uploads/2021/04/set-priority-to-high.png)
@@ -192,6 +187,10 @@ The ultimate burning program for all your needs!</a>
  After applying the changes, launch The Division 2 and it should be running with high priority.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -220,8 +219,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +226,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-gopro-expertise-unleashed-livestreams-directed-at-periscope-and-facebook/"><u>[New] Gopro Expertise Unleashed Livestreams Directed at Periscope & Facebook</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-top-10-engaging-screen-free-mobile-games-for-android-users-for-2024/"><u>[New] Top 10 Engaging Screen-Free Mobile Games for Android Users for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-large-display-medium-network-selection-tips-for-2024/"><u>[Updated] Large Display Medium Network Selection Tips for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-adjusting-obs-encoding-settings/"><u>2024 Approved Adjusting OBS Encoding Settings</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-honor-v-purse-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Honor V Purse | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fatal-error-in-ark-effective-troubleshooting-steps-and-fixes/"><u>Fatal Error in ARK: Effective Troubleshooting Steps & Fixes</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/fixed-issue-preventing-intersecting-sectors-in-data-storage/"><u>Fixed Issue: Preventing Intersecting Sectors in Data Storage</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-constant-crashes-in-dead-by-daylight-latest-fixed-solutions/"><u>How To Resolve Constant Crashes in Dead By Daylight - Latest Fixed Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-track-imei-number-of-oneplus-open-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of OnePlus Open Through Google Earth?</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ions-innovation-showcased-action-camera-review-of-pro-3-model/"><u>In 2024, ION's Innovation Showcased Action Camera Review of Pro 3 Model</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/quick-start-10-effective-tips-for-first-time-users-of-formerly-known-as-twitter/"><u>Quick Start: 10 Effective Tips for First-Time Users of Formerly Known as Twitter</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-lengthy-boot-phases-for-pc-players-of-the-force-unleashed-2-star-wars/"><u>Resolving Lengthy Boot Phases For PC Players Of The Force Unleashed 2 (Star Wars)</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-persistent-issues-keep-hitman-3-running-smoothly-on-pc/"><u>Resolving Persistent Issues: Keep Hitman #3 Running Smoothly on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/sea-of-thieves-troubleshooting-fixes-for-game-crashes-and-errors/"><u>Sea of Thieves Troubleshooting: Fixes for Game Crashes and Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-critical-frame-rate-issues-eliminating-fps-slumps-and-inconsistent-gameplay-delays-for-a-smoother-experience/"><u>Solving Critical Frame Rate Issues: Eliminating FPS Slumps & Inconsistent Gameplay Delays for a Smoother Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-tips-for-unfreezing-your-call-of-duty-black-ops-cold-war-gameplay-experience/"><u>Step-by-Step Tips for Unfreezing Your Call of Duty: Black Ops Cold War Gameplay Experience</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-your-trusted-guide-in-computer-gear/"><u>Tom's Tech Review: Your Trusted Guide in Computer Gear</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-recurring-nox-player-malfunctions-on-your-computer/"><u>Troubleshooting Guide: Fixing Recurring Nox Player Malfunctions on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/xcom-2-windows-stability-problems-resolved-tips-and-tricks-for-smooth-gaming/"><u>XCOM 2 Windows Stability Problems Resolved: Tips & Tricks for Smooth Gaming</u></a></li>
+</ul></div>
 

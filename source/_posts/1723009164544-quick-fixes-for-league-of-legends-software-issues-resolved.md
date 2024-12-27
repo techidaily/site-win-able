@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for League of Legends Software Issues - Resolved
-date: 2024-08-18T16:26:19.556Z
-updated: 2024-08-19T16:26:19.556Z
+date: 2024-12-24T22:30:53.096Z
+updated: 2024-12-27T06:10:57.773Z
 tags:
   - win11
   - win10
@@ -83,20 +83,22 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -111,10 +113,9 @@ thumbnail: https://thmb.techidaily.com/2d978f83661066646581916767cce9455414cb9d5
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -132,8 +133,9 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -142,14 +144,8 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -161,6 +157,10 @@ The powerful video editing program for your Windows PC</a>
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
@@ -179,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +186,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-pre-upgrade-essentials-a-comprehensive-guide/"><u>[New] In 2024, Pre-Upgrade Essentials A Comprehensive Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-record-and-upload-speeches-to-powerpoint/"><u>[New] Record and Upload Speeches to PowerPoint</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-crafting-clear-and-consistent-slug-lines/"><u>2024 Approved Crafting Clear and Consistent Slug Lines</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-enthralling-viewers-stream-with-success-even-if-youre-just-starting-out/"><u>2024 Approved Enthralling Viewers Stream with Success, Even if You're Just Starting Out</u></a></li>
+<li><a href="https://win-able.techidaily.com/enable-seamless-multitasking-with-youtube-pip-comprehensive-instructions-for-chrome-and-firefox-users/"><u>Enable Seamless Multitasking with YouTube PiP: Comprehensive Instructions for Chrome and Firefox Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/essential-fixes-for-sony-vegas-mp4-troubles-overcoming-challenges-with-no-sound-no-picture-and-more/"><u>Essential Fixes for Sony Vegas MP4 Troubles: Overcoming Challenges with No Sound, No Picture, and More</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-guide-choosing-and-utilizing-leading-dvd-encryption-crackers-effectively/"><u>Expert Guide: Choosing and Utilizing Leading DVD Encryption Crackers Effectively</u></a></li>
+<li><a href="https://win-able.techidaily.com/fast-and-easy-guide-to-changing-your-videos-audio-format/"><u>Fast and Easy Guide to Changing Your Video's Audio Format</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-130-music-by-drfone-android/"><u>How to Bypass FRP from Nokia 130 Music?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-realme-12-pro-5g-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Realme 12 Pro 5G Location on Skout | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigating-through-your-preferred-youtube-viewing-pace/"><u>In 2024, Navigating Through Your Preferred YouTube Viewing Pace</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-zoom-on-chromebook-essential-advice-for-2024/"><u>Navigating Zoom on Chromebook Essential Advice for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-pc-video-dubbing-made-easy-top-software-options-for-2024/"><u>Updated PC Video Dubbing Made Easy Top Software Options for 2024</u></a></li>
+</ul></div>
 

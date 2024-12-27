@@ -1,7 +1,7 @@
 ---
 title: Cure Marvel's Guardians of the Galaxy PC Glitches with These 8 Essential Fixes
-date: 2024-12-14T20:55:46.742Z
-updated: 2024-12-21T19:35:18.779Z
+date: 2024-12-19T23:39:18.723Z
+updated: 2024-12-27T06:23:14.301Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the system requirements
 
  Before trying anything more complicated, you need to make sure that your PC meets the system requirements of Marvel’s Guardians of the Galaxy first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
@@ -53,10 +57,6 @@ Marvel’s Guardians of the Galaxy system requirements
  If your PC fails to meet the system requirements of the game, you may need to upgrade your PC first.
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 2\. Update your graphics driver
 
@@ -98,7 +98,7 @@ Marvel’s Guardians of the Galaxy system requirements
 If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Install the latest game patch
@@ -121,6 +121,10 @@ If this issue persists, try the next fix, below.
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run the game and see if it crashes again. If this fix doesn’t work, try the next fix, below.
@@ -134,10 +138,6 @@ If this issue persists, try the next fix, below.
  Launch Marvel’s Guardians of the Galaxy and see if the game crashes after you disabled the anti-virus software on your PC.
 
 If this fix didn’t work, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 7\. Repair corrupted system files
 
@@ -159,13 +159,13 @@ If this fix didn’t work, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. After the scanning process is completed, Fortect will provide you with the PC scan summary.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If there’s any issue, then click the Start Repair button on the lower-right corner, and with just one click, Fortect will start to repair the Windows OS on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)  
  Note: This is a paid service with a 60-day Money-Back Guarantee, which means that you’ll need to buy the full version to start repair.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 8\. Perform a clean boot
 
@@ -176,7 +176,7 @@ If this fix didn’t work, try the next fix, below.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -185,24 +185,24 @@ If this fix didn’t work, try the next fix, below.
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Restart** your PC and launch Marvel’s Guardians of the Galaxy to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -238,22 +238,18 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-discover-top-ios-video-downloads-facebook-edition/"><u>[New] 2024 Approved Discover Top iOS Video Downloads Facebook Edition</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-expert-audio-enhancement-toolkit-for-2024/"><u>[New] Expert Audio Enhancement Toolkit for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-ranked-techniques-for-capturing-online-sport-spectacles/"><u>[New] In 2024, Top-Ranked Techniques for Capturing Online Sport Spectacles</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-crafting-a-seamless-gift-discovery-journey/"><u>[Updated] Crafting a Seamless Gift Discovery Journey</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevating-youtube-live-with-high-quality-webcam-cameras/"><u>[Updated] In 2024, Elevating YouTube Live with High-Quality Webcam Cameras</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-seamless-clip-recording-solutions-for-2024/"><u>[Updated] Seamless Clip Recording Solutions for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/essential-tips-for-resolving-batman-arkham-knight-crash-problems-and-critical-errors/"><u>Essential Tips for Resolving Batman: Arkham Knight Crash Problems & Critical Errors</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-for-resolving-launch-problems-with-days-gone-on-windowsmac/"><u>Expert Tips for Resolving Launch Problems with Days Gone on Windows/Mac</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixed-solutions-for-helldivers-2-failure-to-start-on-steam/"><u>Fixed! Solutions for Helldivers 2 Failure to Start on Steam</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-premium-data-recorder-compatible-with-sony-a7s/"><u>In 2024, Premium Data Recorder Compatible with Sony A7S</u></a></li>
-<li><a href="https://win-able.techidaily.com/lightsabers-onscreen-once-more-how-to-repair-the-star-wars-battlefront-ii-midnight-void-bug/"><u>Lightsabers Onscreen Once More - How to Repair the 'Star Wars Battlefront II' Midnight Void Bug</u></a></li>
-<li><a href="https://win-able.techidaily.com/mastering-the-launch-sequence-fixes-for-back-4-blood-game-not-starting-on-different-windows-platforms/"><u>Mastering the Launch Sequence: Fixes for 'Back 4 Blood' Game Not Starting on Different Windows Platforms</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/resolved-how-to-fix-minecraft-not-starting-on-windows-os/"><u>Resolved: How to Fix 'Minecraft Not Starting on Windows OS'</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-steps-to-update-your-minecraft-graphics-card-driver/"><u>Resolved: Steps to Update Your Minecraft Graphics Card Driver</u></a></li>
-<li><a href="https://win-able.techidaily.com/restoring-audio-in-your-twitch-stream-a-comprehensive-guide-to-sound-solutions/"><u>Restoring Audio in Your Twitch Stream: A Comprehensive Guide to Sound Solutions</u></a></li>
-<li><a href="https://discover-hacks.techidaily.com/select-your-usb-drive-in-rufus-choose-the-correct-partition-scheme-mbr-for-bioslegacy-boot-or-gpt-for-uefi-and-select-fat32-as-the-format/"><u>Select Your USB Drive in Rufus, Choose the Correct Partition Scheme (MBR for BIOS/Legacy Boot or GPT for UEFI), and Select FAT32 as the Format.</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-why-your-outriders-game-keeps-failing-to-launch/"><u>Troubleshooting: Why Your Outriders Game Keeps Failing to Launch</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-decoding-instagrams-reels-culture-and-techniques/"><u>[New] In 2024, Decoding Instagram's Reels Culture and Techniques</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-for-fresh-filmmakers-an-introduction-to-aspect-ratios-and-resolution/"><u>[Updated] 2024 Approved For Fresh Filmmakers An Introduction to Aspect Ratios & Resolution</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-comprehensive-solution-for-persistent-dota-underlords-stability-problems/"><u>A Comprehensive Solution for Persistent Dota Underlords Stability Problems</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/diagnosing-and-repairing-redragon-headset-microphone-malfunctions-on-desktops/"><u>Diagnosing and Repairing Redragon Headset Microphone Malfunctions on Desktops</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-management-of-terminals-focus-mode-entryexit-rituals/"><u>Effortless Management of Terminal's Focus Mode Entry/Exit Rituals</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-launches-sound-focused-platform-amidst-clubhouse-rise/"><u>Facebook Launches Sound-Focused Platform Amidst Clubhouse Rise</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-oppo-a78-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Oppo A78? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-persona-cuarto-ultimate-guide-to-fix-pc-instability-and-crash-issues/"><u>Mastering Persona Cuarto: Ultimate Guide to Fix PC Instability and Crash Issues</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-the-virtual-cityscape-cyberpunk-2077s-smoothed-fps-experience/"><u>Mastering the Virtual Cityscape: Cyberpunk 2077'S Smoothed FPS Experience</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-steps-for-overcoming-call-of-duty-wwii-blackout-issue-on-pcs/"><u>Solution Steps for Overcoming Call of Duty: WWII Blackout Issue on PCs</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-reactivating-the-windows-spotlight-slideshow-on-windows-11/"><u>Step-by-Step Guide: Reactivating the Windows Spotlight Slideshow on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/swipe-150-off-your-favorite-immersive-game-audio-system-available-exclusively-at-amazon-check-out-the-review-from-zdnet/"><u>Swipe $150 Off Your Favorite Immersive Game Audio System Available Exclusively at Amazon – Check Out the Review From ZDNet!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-realme-11-proplus-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Realme 11 Pro+ | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide - Resolving Non-Functional Nvidia Overlay Issues
-date: 2024-12-19T00:25:45.782Z
-updated: 2024-12-21T21:31:43.331Z
+date: 2024-12-25T20:46:03.312Z
+updated: 2024-12-27T11:13:31.809Z
 tags:
   - win11
   - win10
@@ -66,6 +66,10 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/0f3aee40842c77652092959c44bb37ef79d636e0b
  8) Double-click the**Local**  folder to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  9) Delete the**Origin**  folder in the **Local** folder.
 
@@ -127,6 +127,10 @@ Or
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 3: Run the Program Compatibility Troubleshooter**
 
  This issue may occur if Origin is not compatible for your current Windows operating system. If you’re net sure, run the**Program Compatibility Troubleshooter** . The **Program Compatibility Troubleshooter**  can check whether that program is compatible for your current Windows operating system or not. Just follow the steps below to run the **Program Compatibility Troubleshooter** :
@@ -134,10 +138,6 @@ Or
  1) Right-click the shortcut to Origin on your desktop and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
@@ -147,17 +147,9 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) If the problem persists, adjust the following settings manually and select**OK** when you’re done.
 
@@ -167,13 +159,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
@@ -187,6 +179,10 @@ Or
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -195,13 +191,13 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Select the**Startup** tab and click **Open Task Manager** .
 
@@ -211,27 +207,27 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -252,7 +248,7 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Fix 7: Reinstall Origin**
@@ -267,12 +263,16 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  iii. Double-click**Origin** to uninstall it.
@@ -305,22 +305,17 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-the-evolution-of-excellence-lg-bp550/"><u>[New] In 2024, The Evolution of Excellence - LG BP550</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>[New] Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-top-8-srt-conversion-websites-without-a-cost/"><u>[New] Top 8 SRT Conversion Websites Without a Cost</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-compare-metaverse-vs-omniverse-an-ultimate-guide/"><u>[Updated] Compare Metaverse Vs. Omniverse An Ultimate Guide</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-unmatched-access-the-finest-5-browser-tools-for-fb-videos/"><u>[Updated] In 2024, Unmatched Access The Finest 5 Browser Tools for FB Videos</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-virtualvicar-video-vetting/"><u>[Updated] VirtualVicar Video Vetting</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/apple-endorses-mondly-peaking-at-10-education-app-ranking/"><u>Apple Endorses Mondly, Peaking at #10 Education App Ranking</u></a></li>
-<li><a href="https://win-able.techidaily.com/ark-software-bug-fixes-resolving-common-stability-problems/"><u>ARK Software Bug Fixes: Resolving Common Stability Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/directx-errors-in-fifa-19-heres-how-to-fix-them-quickly-and-efficiently/"><u>DirectX Errors in FIFA 19? Here's How to Fix Them Quickly and Efficiently</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-address-apex-legends-networking-glitches/"><u>Effective Solutions to Address Apex Legends Networking Glitches</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-eliminating-mordhaus-crash-bug-for-smooth-gaming/"><u>Expert Guide: Eliminating Mordhau's Crash Bug for Smooth Gaming</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-tips-on-fixing-unable-to-connect-to-configuration-services-problems/"><u>Expert Tips on Fixing 'Unable to Connect to Configuration Services' Problems</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-to-prevent-enshrouded-title-crashes-in-your-windows-gaming-experience/"><u>Guide to Prevent Enshrouded Title Crashes in Your Windows Gaming Experience</u></a></li>
-<li><a href="https://win-dash.techidaily.com/installing-the-perfect-print-driver-the-ultimate-guide-to-setting-up-the-brother-mfc-l2700dw-on-windows-systems/"><u>Installing the Perfect Print Driver: The Ultimate Guide to Setting up the Brother MFC-L2700DW on Windows Systems</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-fix-continuous-crashes-in-tower-of-fantasy-game-on-your-computer/"><u>Resolved: How to Fix Continuous Crashes in Tower of Fantasy Game on Your Computer</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/transforming-your-single-picture-into-video-magic-with-pixiz/"><u>Transforming Your Single Picture Into Video Magic with Pixiz</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshoot-and-stop-chrome-from-locking-up-in-windows-11-quickly/"><u>Troubleshoot and Stop Chrome From Locking Up in Windows 11 Quickly</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixed-euro-truck-simulator-2-crashes-pc/"><u>[FIXED] Euro Truck Simulator 2 Crashes PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-a-journey-through-creativity-using-movie-maker-to-make-animated-dreams-for-2024/"><u>[New] A Journey Through Creativity Using Movie Maker to Make Animated Dreams for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-maximize-your-video-impact-with-free-vimeo-editing-for-2024/"><u>[New] Maximize Your Video Impact with FREE Vimeo Editing for 2024</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/all-in-one-dvd-management-suite-convert-rip-and-transfer-videos-for-dvds-ipads-phones-and-more/"><u>All-in-One DVD Management Suite: Convert, Rip & Transfer Videos for DVDs, iPads, Phones, & More</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-methods-to-eliminate-freezing-problems-in-fortnite-a-comprehensive-guide-for-pc-users/"><u>Effective Methods to Eliminate Freezing Problems in Fortnite: A Comprehensive Guide for PC Users</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-your-lol-game-starts-for-good-expert-strategies-to-tackle-launch-problems/"><u>Fix Your LoL Game Starts for Good: Expert Strategies to Tackle Launch Problems</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-a-oppo-a59-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Oppo A59 5G Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-itel-a70-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Itel A70 Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-cross-functional-collaboration-for-comprehensive-market-research-for-2024/"><u>Leveraging Cross-Functional Collaboration for Comprehensive Market Research for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/stop-lost-ark-from-disappearing-into-digital-darkness-tips-for-stable-playtime-on-pc/"><u>Stop Lost Ark From Disappearing Into Digital Darkness: Tips for Stable Playtime on PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-corsair-icue-interface-in-windows-10-and-windows-11-environments/"><u>Troubleshooting the Corsair iCUE Interface in Windows 10 and Windows 11 Environments</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unlocking-connectivity-excellence-the-definitive-review-on-linksys-velop-mesh-technology/"><u>Unlocking Connectivity Excellence: The Definitive Review on Linksys Velop Mesh Technology</u></a></li>
 </ul></div>
 

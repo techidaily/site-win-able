@@ -1,7 +1,7 @@
 ---
 title: Solving Connection Problems & Lags in the Latest Version of 'New World'
-date: 2024-12-18T21:38:26.545Z
-updated: 2024-12-21T21:38:35.814Z
+date: 2024-12-24T19:41:02.772Z
+updated: 2024-12-26T17:54:00.474Z
 tags:
   - win11
   - win10
@@ -49,6 +49,10 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
@@ -58,22 +62,18 @@ thumbnail: https://thmb.techidaily.com/4494210181b361ed33c42bb9503adb4d12c1be013
 2. Select**Visuals** , and then under**Video Settings** , ensure the**Video Card Selection** is set to your primary graphics card.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-video-card.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if you still have the freezing issue in Deathloop.
 
 If this does not resolve the problem, proceed to Fix 3\.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -87,10 +87,14 @@ If this does not resolve the problem, proceed to Fix 3\.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -99,7 +103,7 @@ If this does not resolve the problem, proceed to Fix 3\.
 If the game still keeps freezing, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Close background programs
@@ -138,10 +142,6 @@ If this method doesn’t do the trick, check out the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-power-button.jpg)
 2. Turn off the PS5 with**Turn Off PS5** and not “Enter Rest Mode”.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Make sure the light goes out on the console and then**unplug its power cable** and**wait for 10 seconds** .
 4. Plug the power cable back in and turn the console back on by pressing the**power button** on your controller.
 
@@ -170,22 +170,16 @@ Check if the game freezes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-unexpected-10-best-kept-facebook-memes/"><u>[New] 2024 Approved Unexpected 10 Best-Kept Facebook Memes</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-optimal-methods-to-source-stock-photography-and-visuals-for-2024/"><u>[New] Optimal Methods to Source Stock Photography and Visuals for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-constructing-youtube-video-content-that-resonates-with-viewers/"><u>[Updated] 2024 Approved Constructing YouTube Video Content That Resonates with Viewers</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-animating-elegance-self-designed-tricks-and-effects/"><u>[Updated] Animating Elegance Self-Designed Tricks & Effects</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-the-insiders-tale-to-tripling-instagram-traffic-for-2024/"><u>[Updated] The Insider’s Tale to Tripling Instagram Traffic for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/banish-wow-flicker-forever-effortless-troubleshooting-guide/"><u>Banish WoW Flicker Forever: Effortless Troubleshooting Guide</u></a></li>
-<li><a href="https://win-able.techidaily.com/effective-solutions-to-eliminate-lag-while-playing-avatar-frontiers-of-pandora/"><u>Effective Solutions to Eliminate Lag While Playing Avatar: Frontiers of Pandora</u></a></li>
-<li><a href="https://win-able.techidaily.com/fix-issues-civ-6-wont-start-on-windows-10-devices/"><u>Fix Issues: Civ 6 Won't Start on Windows 10 Devices</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-successfully-overcome-the-not-launching-hurdle-for-overwatch-2-a-guide/"><u>How To Successfully Overcome The 'Not Launching' Hurdle for Overwatch 2 - A Guide</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-icloud-on-apple-iphone-14-plus-smoothly-by-drfone-ios/"><u>In 2024, How To Remove iCloud On Apple iPhone 14 Plus Smoothly</u></a></li>
-<li><a href="https://win-able.techidaily.com/inside-the-reason-behind-elden-rings-postponed-debut/"><u>Inside the Reason Behind Elden Ring's Postponed Debut</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/network-locked-sim-card-inserted-on-your-realme-note-50-phone-unlock-it-now-by-drfone-android/"><u>Network Locked SIM Card Inserted On Your Realme Note 50 Phone? Unlock It Now</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-color-correction-mastery-a-tutorial-on-matching-video-clips-in-final-cut-pro/"><u>New In 2024, Color Correction Mastery A Tutorial on Matching Video Clips in Final Cut Pro</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-issue-fixes-for-unresponsive-steam-titles-on-windows-11/"><u>Resolved Issue: Fixes for Unresponsive Steam Titles on Windows 11</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009461689-solving-overwatch-audio-lag-issues-expert-solutions-and-tips/"><u>Solving Overwatch Audio Lag Issues: Expert Solutions & Tips</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-11-best-free-update-utilities-essential-tools-for-keeping-your-software-current/"><u>Top 11 Best Free Update Utilities: Essential Tools for Keeping Your Software Current</u></a></li>
-<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixes-for-non-responsive-cortana/"><u>Troubleshooting Guide: Fixes for Non-Responsive Cortana</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-a-journey-through-time-best-history-youtubes-for-scholars-and-enthusiasts/"><u>[Updated] A Journey Through Time Best History YouTubes for Scholars & Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stepwise-approach-to-unleash-creativity-with-your-logitech-webcam/"><u>2024 Approved Stepwise Approach to Unleash Creativity with Your Logitech Webcam</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-crashes-in-cyberpunk-2077-expert-pc-tips-fixed/"><u>Fixing Crashes in Cyberpunk 2077: Expert PC Tips [FIXED]</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-tech-reveal-the-exciting-possibility-of-iphone-15-pros-standout-functionality-in-next-years-iphone-16-lineup-analysis/"><u>Future Tech Reveal: The Exciting Possibility of iPhone 15 Pro's Standout Functionality in Next Year's iPhone 16 Lineup Analysis</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-dead-by-daylight-from-crashing-expert-advice/"><u>How To Stop Dead By Daylight From Crashing – Expert Advice</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-gt-5-pro-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme GT 5 Pro FRP</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-from-oneplus-nord-ce-3-lite-5g-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from OnePlus Nord CE 3 Lite 5G FRP Bypass</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-connection-delays-strategies-for-lowering-back-4-blood-ping-rates/"><u>Troubleshooting Connection Delays: Strategies for Lowering 'Back 4 Blood' Ping Rates</u></a></li>
+<li><a href="https://windows11.techidaily.com/tutorial-adding-dolby-atmos-to-windows-11/"><u>Tutorial: Adding Dolby Atmos to Windows 11</u></a></li>
+<li><a href="https://win-able.techidaily.com/unlock-smooth-gaming-resolving-football-manager-2021-pc-stability-concerns-today/"><u>Unlock Smooth Gaming: Resolving Football Manager 2021 PC Stability Concerns Today</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723011861002-wrc-10-pc-version-stability-fixed-now-running-smoothly/"><u>WRC 10 PC Version Stability Fixed: Now Running Smoothly</u></a></li>
 </ul></div>
 

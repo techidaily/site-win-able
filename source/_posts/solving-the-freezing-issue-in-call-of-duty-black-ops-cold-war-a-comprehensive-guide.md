@@ -1,7 +1,7 @@
 ---
 title: "Solving the Freezing Issue in Call of Duty: Black Ops Cold War - A Comprehensive Guide"
-date: 2024-08-18T16:28:38.785Z
-updated: 2024-08-19T16:28:38.785Z
+date: 2024-12-26T08:21:50.408Z
+updated: 2024-12-27T04:24:37.760Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/e2b7342586f1532a636225d5506546a483f2a235b
 If you keep getting the popup**Error Code 80070057** when playing Call of Duty: Black Ops Cold War and your game crashes immediately or in a few minutes after it, don’t panic.
 
  This error code 80070057 is not lethal and it can be solved easily. We’ve put together all the possible fixes that proved helpful to other gamers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,14 +46,16 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Scan and Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-1.jpg)
 4. Wait for the process to complete.
 
  Launch the game again to test the issue. If you see this error again, don’t worry, because there’re more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## 2\. Install the latest patch
 
  No matter what problem you’re experiencing, be sure to install the latest patch. Game developers keep releasing new updates to fix known issues.
@@ -58,16 +64,18 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Go to the**GAMES** tab, select**Call of Duty: BOCW** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 3. Click**Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2020/12/update-to-new-version-battle.net_.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update the graphics driver
 
  If this error code 80070057 persists after you tried “Scan and Repair” and “Check for Updates”, it is mainly related to the video file, which can be caused by an outdated/corrupt driver or driver incompatibility.
@@ -82,17 +90,20 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run your game in DX11
 
@@ -108,9 +119,6 @@ The first thing, as it suggests, is to perform a scan and repair.
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 5\. Delete the Battle.net Cache folder
 
  Your cache folder might get corrupted and it might cause some game issues such as the error code 80070057\. To fix this error code, you can try deleting the Cache folder (this won’t affect your game data) to resolve issues caused by outdated files.
@@ -119,15 +127,18 @@ The first thing, as it suggests, is to perform a scan and repair.
 2. Press**Windows** Key+**R** to open the Run dialogue. Type**%ProgramData%** into the Run field and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Set English as the Windows display language
 
  Many players fixed the error code by setting English as the display language when playing Black Ops Cold War.
@@ -155,8 +166,6 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +173,26 @@ Restart your computer and relaunch your game again to test the issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-snapchat-story-genius-over-a-hundred-story-ideas-to-elevate-your-social-narrative-for-2024/"><u>[New] Snapchat Story Genius Over a Hundred Story Ideas to Elevate Your Social Narrative for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-dynamic-film-transformation-premium-15-color-correction-tools-for-gopro/"><u>[Updated] 2024 Approved Dynamic Film Transformation Premium 15 Color Correction Tools for GOPRO</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-mobile-beat-benders-for-android-and-ios-devices/"><u>[Updated] Mobile Beat Benders for Android and iOS Devices</u></a></li>
+<li><a href="https://win-able.techidaily.com/chivalry-ii-stability-improvement-tips-for-a-smooth-gaming-experience/"><u>Chivalry II Stability Improvement Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/easy-steps-for-brothers-printer-resuming-normalcy-online/"><u>Easy Steps for Brother's Printer Resuming Normalcy Online</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-advice-addressing-and-fixing-your-league-of-legends-slowdown/"><u>Expert Advice: Addressing and Fixing Your League of Legends Slowdown</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-options-when-facebook-takes-down-my-content/"><u>Exploring Options When Facebook Takes Down My Content</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723010213139-fortnite-login-troubles-overcome-the-permission-error-easily/"><u>Fortnite Login Troubles? Overcome the 'Permission Error' Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/harnessing-free-clip-art-legally/"><u>Harnessing Free Clip Art Legally</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-stop-starfield-game-from-crashing-on-desktops/"><u>Optimizing Performance: Stop Starfield Game From Crashing on Desktops</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-pc-crashes-in-everscape-ii-expert-advice-and-guides/"><u>Overcoming PC Crashes in Everscape II - Expert Advice & Guides</u></a></li>
+<li><a href="https://win-able.techidaily.com/solution-found-overcoming-launch-problems-with-monster-hunter-stories-2-wings-of-ruin/"><u>Solution Found: Overcoming Launch Problems with Monster Hunter Stories 2: Wings of Ruin</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-solutions-eliminating-erroneous-graphics-glitches-in-rust-coding/"><u>Step-by-Step Solutions: Eliminating Erroneous Graphics Glitches in Rust Coding</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lueprint-to-climbing-your-way-up-in-youtube-ranks-for-2024/"><u>The Blueprint to Climbing Your Way Up in YouTube Ranks for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/the-synergy-of-content-and-platform-for-peak-performance-for-2024/"><u>The Synergy of Content and Platform for Peak Performance for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-lost-ark-audio-issues-solutions-and-tips/"><u>Troubleshooting Lost Ark Audio Issues – Solutions & Tips</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-solving-dota-2s-decreased-frame-rate-issues-in-windows-10-and-11/"><u>Troubleshooting: Solving Dota 2'S Decreased Frame Rate Issues in Windows 10 and 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/why-this-titanium-band-elevates-your-apple-watch-top-picks-revealed/"><u>Why This Titanium Band Elevates Your Apple Watch: Top Picks Revealed</u></a></li>
+</ul></div>
 

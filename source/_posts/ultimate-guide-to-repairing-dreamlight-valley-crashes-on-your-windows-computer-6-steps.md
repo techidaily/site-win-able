@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Repairing Dreamlight Valley Crashes on Your Windows Computer (6 Steps)
-date: 2024-08-18T16:24:40.775Z
-updated: 2024-08-19T16:24:40.775Z
+date: 2024-12-22T01:46:23.509Z
+updated: 2024-12-26T17:47:55.843Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 5. **[Change your game mode and correct the resolutions by modifying your game file](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the frame rate](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify your game cache
 
  If your game freezes on Fallout 4 startup, it’s possible that the installation of Fallout 4 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -60,6 +64,10 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Remove incompatible programs
 
  If you newly installed some thrid-party programs recently, it is possible they are incompatible with the Fallout 4 and cause the freezing issue. Also, some antivirus software (like Bitdefender) may block some features in Fallout 4 so that you’re encountering Fallout 4 freezing issue.  
@@ -69,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 
  If this resolves your problem, you may need to remove the program or contact the vendor of the software for advice.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run your game in compatibility mode
 
  You may be having compatibility issues with your Fallout 4 so the game frozen in the midway. To fix these issues, you should try running your game in compatibility mode. Here’s how you can do it:
@@ -79,18 +84,18 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 1. Right click the _executable (.exe) file_ or the _shortcut_ for your game, then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cae670797.png)
 2. Click the **Compatibility** tab, check **Run this program in compatibility mode** , and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
-3. Run your game to see if this works for you.
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b56cbe70a295.jpg)
+3. Run your game to see if this works for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Outdated graphics drivers may cause the “Fallout 4 freezing” issue. So you can try to update the graphics driver to fix the problem.
@@ -105,15 +110,8 @@ thumbnail: https://thmb.techidaily.com/496184fd4152c46b6485f793c6a0f28b5d68db1c2
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Change your game mode and correct the resolutions by modifying your game file
 
  If the above fixes fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -131,6 +129,10 @@ Here’s how you can do it:
 **iSize W=1920**
 3. Save the file and exit Notepad.
 4. Run Fallout 4 to see if it goes smoothly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Adjust the frame rate
 
@@ -156,8 +158,6 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +165,18 @@ Here’s how you can set the frame rate of Fallout 4:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-answers.techidaily.com/comprehensive-guide-fixing-gtfo-program-malfunctions/"><u>Comprehensive Guide: Fixing GTFO Program Malfunctions</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fast-and-simple-guide-to-downloading-hp-officejet-5740-drivers/"><u>Fast & Simple Guide to Downloading HP OfficeJet 5740 Drivers</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-steamvr-issues-a-simple-and-fast-solution/"><u>Fixing SteamVR Issues: A Simple and Fast Solution</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212036791-icue-no-device-trouble-heres-how-you-can-fix-it/"><u>ICUE 'No Device' Trouble? Here's How You Can Fix It</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-ultimate-guide-to-purging-youtube-videos/"><u>In 2024, The Ultimate Guide to Purging YouTube Videos</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/intel-and-snapdragon-showdown-who-wins-when-it-comes-to-elite-battery-life-for-laptops/"><u>Intel and Snapdragon Showdown: Who Wins When It Comes to Elite Battery Life for Laptops?</u></a></li>
+<li><a href="https://win-able.techidaily.com/maximizing-fps-using-your-graphics-card-with-cyberpunk-2077-on-windows-10-pcs/"><u>Maximizing FPS: Using Your Graphics Card with Cyberpunk 2077 on Windows 10 PCs</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/solving-the-pixels-curse-efficient-methods-for-restoring-an-iphone-plagued-by-blackout/"><u>Solving the Pixels' Curse: Efficient Methods for Restoring an iPhone Plagued by Blackout</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-ultraportable-notebook-with-exceptional-all-day-battery-life-featured-on-zdnet/"><u>Top Rated Ultraportable Notebook with Exceptional All-Day Battery Life Featured on ZDNet</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-mastery-eliminate-steam-error-code-130-with-ease/"><u>Troubleshooting Mastery: Eliminate Steam Error Code 130 with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/update-on-the-guilty-gear-strive-launch-postponement-explained/"><u>Update on the Guilty Gear Strive Launch Postponement Explained</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "The Long-Awaited Premiere: 'It Takes Two' Now On Screen"
-date: 2024-08-18T16:24:27.511Z
-updated: 2024-08-19T16:24:27.511Z
+date: 2024-12-23T06:32:10.018Z
+updated: 2024-12-27T00:26:19.149Z
 tags:
   - win11
   - win10
@@ -47,8 +47,9 @@ If you encounter Oculus Link black screen / not working when you’re launching 
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Oculus Link black screen or not working issue can also be driver-related, especially if your graphics driver and USB driver are incompatible, faulty or outdated. Your Oculus devices also require specific drivers. So, to keep your Oculus device in tip-top condition and boost the performance of your VR games, you should update the drivers regularly.
@@ -80,9 +81,6 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
@@ -95,16 +93,19 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
+
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Opt out of Public Test Channel
 
  According to[Oculus official support](https://support.oculus.com/200468603765391/) , Oculus Link may not work as intended if you enroll in Public Test Channel. That means you will be testing a beta version of the Oculus software which is possibly unreliable and more likely to run into the black screen issue.
@@ -115,11 +116,17 @@ It’s suggested you opt out of the Beta mode and here’s how:
 2. Select**Settings** on the left pane and navigate to the**Beta** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-1.jpg)
 3. **Toggle off** the button next to Public Test Channel.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
 ### Fix 6 – Use the dedicated graphics card
@@ -129,16 +136,19 @@ It’s suggested you opt out of the Beta mode and here’s how:
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-3-1.jpg)
 2. On the left pane, select**3D settings** \>**Manage 3D settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-4.jpg)
 3. Go to the**Program Settings** tab. Then, select your Oculus app from the drop-down list and choose**High-performance NVIDIA processor** below.  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
 Restart Oculus Link and see how it works.
@@ -156,8 +166,6 @@ Restart Oculus Link and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +173,20 @@ Restart Oculus Link and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-essential-tips-for-skyrocketing-your-instagram-followers/"><u>[New] In 2024, Essential Tips for Skyrocketing Your Instagram Followers</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-performances-in-snowboard-cross-world-cup-22/"><u>[New] Top Performances in Snowboard Cross World Cup '22</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-guide-to-decoding-diagonal-aspect-ratios/"><u>[Updated] Beginners Guide to Decoding Diagonal Aspect Ratios</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-jocular-images-for-apple-devices/"><u>[Updated] In 2024, Jocular Images for Apple Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-13-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 13 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-why-is-my-iphone-not-detected-by-itunes-on-windows-10-solved/"><u>Fix: Why Is My iPhone Not Detected by iTunes on Windows 10? | Solved</u></a></li>
+<li><a href="https://win-able.techidaily.com/helldivers-ebx-error-resolved-restoring-the-msvcr110dll-file/"><u>Helldivers Ebx Error Resolved: Restoring the MSVCR110.dll File</u></a></li>
+<li><a href="https://discover-data.techidaily.com/optimizing-energy-efficiency-in-windows-11-with-expert-advice-by-yl-software/"><u>Optimizing Energy Efficiency in Windows 11 with Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolving-counter-strike-2s-crash-dilemma-on-windows-10-and-above-latest-fixes/"><u>Resolving Counter-Strike 2'S Crash Dilemma on Windows 10 and Above - Latest Fixes</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/say-thanks-free-and-subscribed-outro-samples-available-for-2024/"><u>Say Thanks! Free & Subscribed Outro Samples Available for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/sunlit-surfaces-fb-operations-bathed-in-solar-energy/"><u>Sunlit Surfaces: FB Operations Bathed in Solar Energy</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-honor-90-gt-by-drfone-android/"><u>Three Ways to Sim Unlock Honor 90 GT</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-how-to-stop-subnautica-pc-game-from-frequent-crashes/"><u>Troubleshooting Guide: How to Stop Subnautica [PC] Game From Frequent Crashes</u></a></li>
+</ul></div>
 

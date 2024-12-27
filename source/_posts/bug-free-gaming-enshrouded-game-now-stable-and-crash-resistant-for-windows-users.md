@@ -1,7 +1,7 @@
 ---
 title: Bug-Free Gaming - Enshrouded Game Now Stable and Crash-Resistant for Windows Users
-date: 2024-08-18T16:26:28.397Z
-updated: 2024-08-19T16:26:28.397Z
+date: 2024-12-23T13:16:37.553Z
+updated: 2024-12-27T04:04:00.041Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/a02a9911f50368d686754fe93fbecd3af42fa7537
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -61,6 +58,10 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -78,9 +79,11 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -101,15 +104,13 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ## Fix 3: Turn off GPU acceleration
 
  GPU acceleration is one of the common causes of Premiere Pro crashing. If you’ve turned on GPU acceleration, temporarily disable it to see if you can fix Premiere Pro crashing. Here is how to do it:
@@ -117,10 +118,11 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Launch Premiere Pro and go to**File** \>**Project Settings** \>**General** .  
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
@@ -133,16 +135,15 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 See if this fix stops the crashing. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Close CPU / memory hogging applications
 
  Premiere Pro is a resource intensive application. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and causes Premiere Pro to crash. If it’s the case, closing those CPU / memory hogging applications may get Premiere Pro work again, Here is how to do it:
@@ -151,9 +152,17 @@ See if this fix stops the crashing. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Check for overheating components
 
@@ -169,9 +178,6 @@ To cool down your computer, you may need to
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -189,8 +195,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,24 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-expert-advice-on-logging-google-voice-chats/"><u>[New] In 2024, Expert Advice on Logging Google Voice Chats</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-lunar-luster-online-a-curated-list-of-hdr-sky-images/"><u>[New] Lunar Luster Online A Curated List of HDR Sky Images</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-giggle-engineer-apocalyptic-comic-relief/"><u>[Updated] Giggle Engineer Apocalyptic Comic Relief</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-streamline-your-youtube-productions-with-pc-editing-techniques-for-2024/"><u>[Updated] Streamline Your YouTube Productions with PC Editing Techniques for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/best-free-windows-11-blu-ray-ripper-tools-full-version-downloads/"><u>Best Free Windows 11 Blu-Ray Ripper Tools - Full Version Downloads</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-for-listening-to-audiobooks-in-m4b-format-on-android-tablets-and-phones/"><u>Easy Steps for Listening to Audiobooks in M4B Format on Android Tablets and Phones</u></a></li>
+<li><a href="https://win-able.techidaily.com/easy-steps-speedy-conversion-from-weba-to-mp3-audio/"><u>Easy Steps: Speedy Conversion From WEBA to MP3 Audio</u></a></li>
+<li><a href="https://win-able.techidaily.com/efficient-techniques-for-creating-mp3-files-on-your-computer/"><u>Efficient Techniques for Creating MP3 Files on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-downloading-of-bilibili-media-in-mp4-format-a-step-by-step-tutorial/"><u>Effortless Downloading of Bilibili Media in MP4 Format – A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-hd-video-grabber-seamless-streaming-content-capture-and-conversion/"><u>Effortless HD Video Grabber: Seamless Streaming Content Capture and Conversion</u></a></li>
+<li><a href="https://win-able.techidaily.com/ensuring-superior-sound-fidelity-steps-for-transforming-audio-to-top-tier-wav/"><u>Ensuring Superior Sound Fidelity: Steps for Transforming Audio to Top-Tier WAV</u></a></li>
+<li><a href="https://win-able.techidaily.com/expert-review-top-rated-dvd-transformers-convert-your-discs-into-various-media-formats-with-ease/"><u>Expert Review: Top Rated DVD Transformers - Convert Your Discs Into Various Media Formats with Ease!</u></a></li>
+<li><a href="https://win-able.techidaily.com/firefoxmp4/"><u>FirefoxにおけるMP4形式動画の再生不能:解決法</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-to-deactivate-windows-10-sound-amplification-features/"><u>Guide to Deactivate Windows 10 Sound Amplification Features</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-can-we-bypass-tecno-camon-30-pro-5g-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Tecno Camon 30 Pro 5G FRP?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-proven-ways-in-how-to-hide-location-on-life360-for-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, Proven Ways in How To Hide Location on Life360 For Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/save-costs-simple-tricks-to-repair-your-broken-mouse-without-overspending/"><u>Save Costs: Simple Tricks to Repair Your Broken Mouse Without Overspending</u></a></li>
+</ul></div>
 
