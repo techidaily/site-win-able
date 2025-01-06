@@ -1,7 +1,7 @@
 ---
 title: "[RESOLVED] Troubleshooting Steps for Crusader Kings 3 Stalling Performance in PC"
-date: 2024-12-20T23:20:06.840Z
-updated: 2024-12-26T17:37:48.997Z
+date: 2024-12-30T19:24:53.461Z
+updated: 2025-01-06T01:45:59.566Z
 tags:
   - win11
   - win10
@@ -57,10 +57,6 @@ Necromunda: Hired Gun
 5. **[Add the game as an exception to your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking / turbo boosting](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1: Verify the game files
 
  If some important game files are broken or missing, Necromunda: Hired Gun may crash. If it’s the case, you need to verify and repair the game files. Here’s how to do it:
@@ -71,7 +67,15 @@ Necromunda: Hired Gun
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from official server.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It may take some time to complete the verifying process.
 
@@ -84,10 +88,6 @@ It may take some time to complete the verifying process.
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Launch Necromunda: Hired Gun when the verifying process completed and see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 2: Update graphics driver
 
@@ -103,6 +103,10 @@ It may take some time to complete the verifying process.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
@@ -124,6 +128,10 @@ It may take some time to complete the verifying process.
 
  Launch Necromunda: Hired Gun to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable overlays
 
  Sometimes overlays may interfere with the game. According to some PC gamers, it seems that the Steam Overlay doesn’t pair well with the game.
@@ -135,14 +143,10 @@ It may take some time to complete the verifying process.
 2. Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -155,10 +159,6 @@ It may take some time to complete the verifying process.
  You can try adding both the game and steam (or Epic Games Launcher) as an exception to your third-party antivirus application. If necessary, you can also try temporarily disabling your 3rd party antivirus software before you play the game.
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking / turbo boosting
 
@@ -188,14 +188,24 @@ It may take some time to complete the verifying process.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-picturecut-pro/"><u>[New] In 2024, PictureCut Pro</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-pushing-perception-analyzing-the-dreamcolors-z32x-4k-for-2024/"><u>[New] Pushing Perception Analyzing the DreamColor's Z32X 4K for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-cut-to-impact-in-depth-youtube-video-editing-mastery-for-2024/"><u>[Updated] Cut to Impact In-Depth Youtube Video Editing Mastery for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/boosting-your-gaming-experience-by-resolving-fps-issues-within-outriders/"><u>Boosting Your Gaming Experience by Resolving FPS Issues Within Outriders</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/choose-your-product-geforce-rtx-series-from-the-drop-down-menu/"><u>Choose Your Product (GeForce RTX Series) From the Drop-Down Menu.</u></a></li>
-<li><a href="https://win-able.techidaily.com/destiny-2s-beyond-light-update-flawlessly-implemented-on-pc-no-more-crashes/"><u>Destiny 2'S Beyond Light Update Flawlessly Implemented on PC - No More Crashes!</u></a></li>
-<li><a href="https://win-able.techidaily.com/guide-overcoming-problems-with-non-responsive-outlook-application/"><u>Guide: Overcoming Problems with Non-Responsive Outlook Application</u></a></li>
-<li><a href="https://win-able.techidaily.com/microsoft-edge-windows-11-update-say-goodbye-to-unwanted-crashes/"><u>Microsoft Edge Windows 11 Update - Say Goodbye to Unwanted Crashes!</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-troubleshooting-tip-starting-up-your-mac-in-diagnostics-or-recovery-mode/"><u>Ultimate Troubleshooting Tip: Starting Up Your Mac in Diagnostics or Recovery Mode</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-beyond-advertisements-a-direct-look-at-recordcast/"><u>[Updated] 2024 Approved Beyond Advertisements A Direct Look at RecordCast</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-crafting-contrast-and-depth-in-hdr-portraits/"><u>[Updated] 2024 Approved Crafting Contrast and Depth in HDR Portraits</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-tips-the-process-of-reversing-a-steam-game-purchase/"><u>Comprehensive Tips: The Process of Reversing A Steam Game Purchase</u></a></li>
+<li><a href="https://win-able.techidaily.com/farming-simulator-22-understanding-and-fixing-the-pc-fps-drop-issue/"><u>Farming Simulator 22: Understanding & Fixing the PC FPS Drop Issue</u></a></li>
+<li><a href="https://win-able.techidaily.com/fix-and-prevent-hell-let-loose-game-from-crashing-on-windows-pc/"><u>Fix & Prevent Hell Let Loose Game From Crashing on Windows PC</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-and-solutions-how-to-stop-valheim-from-continuously-crashing-on-your-pc/"><u>Fixes & Solutions: How to Stop Valheim From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-casting-issues-in-windows-11-troubleshooting-steps/"><u>Fixing Casting Issues in Windows 11 – Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-clear-the-liquid-alert-on-an-iphone-when-using-a-usb-c-charging-cable/"><u>How to Clear the Liquid Alert on an iPhone When Using a USB-C Charging Cable</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-fix-the-elder-scrolls-online-when-it-wont-load-a-comprehensive-guide/"><u>How to Fix 'The Elder Scrolls Online' When It Won’t Load: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-visual-extravaganza-detailed-examination-of-lg-ud88-uhd-tv/"><u>In 2024, A Visual Extravaganza Detailed Examination of LG UD88-UHD TV</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-break-down-long-form-videos-the-insiders-guide-to-youtube-chapter-inclusion/"><u>In 2024, Break Down Long-Form Videos The Insider's Guide to YouTube Chapter Inclusion</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-huawei-nova-y71-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Huawei Nova Y71 to New Android? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/leveraging-quantum-tech-to-accelerate-ai-growth-singapores-new-vision-with-cutting-edge-data-centers/"><u>Leveraging Quantum Tech to Accelerate AI Growth - Singapore's New Vision with Cutting-Edge Data Centers</u></a></li>
+<li><a href="https://win-able.techidaily.com/mastering-fluid-gaming-tips-and-tricks-for-fixing-stutter-lags-and-drops-in-fps/"><u>Mastering Fluid Gaming: Tips and Tricks for Fixing Stutter, Lags, & Drops in FPS</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/melodic-matchmaking-music-that-matters-on-social-media/"><u>Melodic Matchmaking Music That Matters on Social Media</u></a></li>
+<li><a href="https://win-able.techidaily.com/1722998488816-quick-fix-solve-rage-2-crash-problems-instantly-and-with-minimal-hassle/"><u>Quick Fix: Solve RAGE 2 Crash Problems Instantly and With Minimal Hassle!</u></a></li>
+<li><a href="https://win-able.techidaily.com/quick-solutions-to-improve-fast-loading-times-while-playing-fallout-4/"><u>Quick Solutions to Improve Fast-Loading Times While Playing Fallout 4</u></a></li>
+<li><a href="https://win-able.techidaily.com/the-2024-playbook-for-overcoming-rust-program-freeze-scenarios-expert-tips-and-tricks/"><u>The 2024 Playbook for Overcoming Rust Program Freeze Scenarios - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-tips-for-stopping-pc-video-game-crashes/"><u>Ultimate Troubleshooting Tips for Stopping PC Video Game Crashes</u></a></li>
 </ul></div>
 

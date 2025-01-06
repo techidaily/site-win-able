@@ -1,7 +1,7 @@
 ---
 title: Why Doesn't My GPU Run Cyberpunk 2077? Solutions for Windows 10 Users
-date: 2024-12-24T00:22:33.070Z
-updated: 2024-12-27T00:09:04.872Z
+date: 2025-01-04T01:25:59.675Z
+updated: 2025-01-05T17:18:19.458Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that scores.
@@ -38,10 +42,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  You also need to make sure that the video output comes from your dedicated graphics card. That means your monitor should be connected with your graphics card.
 
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -75,15 +75,15 @@ To do so, first visit the website of your graphics card manufacturer:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -96,7 +96,7 @@ Here’s how:
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
@@ -108,17 +108,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -155,17 +155,18 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-able.techidaily.com/solved-rainbow-six-extraction-crashing-on-pc/"><u>[SOLVED] Rainbow Six Extraction Crashing on PC</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[Updated] The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
-<li><a href="https://win-able.techidaily.com/addressing-low-frame-rate-problems-in-dota-2-for-windows-11-and-10-users/"><u>Addressing Low Frame Rate Problems in Dota 2 for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win-able.techidaily.com/boost-your-gameplay-ultimate-guide-to-increasing-fps-and-resolving-stutters-in-valorant/"><u>Boost Your Gameplay: Ultimate Guide to Increasing FPS & Resolving Stutters in Valorant</u></a></li>
-<li><a href="https://discover-forum.techidaily.com/how-to-speed-up-your-print-jobs-effective-strategies-by-yl-software-experts/"><u>How to Speed Up Your Print Jobs: Effective Strategies by YL Software Experts</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-stop-mordhau-from-freezing-and-crashing-effective-fixes/"><u>How to Stop Mordhau From Freezing & Crashing: Effective Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/los-mejores-programas-gratuitos-de-camara-web-en-windows-nt-descubre-los-16-primeros-con-movavi/"><u>Los Mejores Programas Gratuitos De Cámara Web en Windows nT, ¡Descubre Los 16 Primeros Con Movavi!</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pc-trouble-fixing-rainbow-six-sieges-screen-turned-completely-black/"><u>PC Trouble? Fixing Rainbow Six Siege's Screen Turned Completely Black</u></a></li>
-<li><a href="https://fox-within.techidaily.com/protecting-your-computers-heartbeat-securing-your-windows-registry-with-expert-tips-from-yl-computing/"><u>Protecting Your Computer's Heartbeat: Securing Your Windows Registry with Expert Tips From YL Computing</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/smart-and-miniature-unpacking-the-features-of-the-criacr-bluetooth-fm-transmitter-the-cp24-model-reviewed/"><u>Smart & Miniature: Unpacking the Features of the CRIACR Bluetooth FM Transmitter - The CP24 Model Reviewed</u></a></li>
-<li><a href="https://program-issues.techidaily.com/top-11-solutions-to-overcome-borderlands-3-startup-issues/"><u>Top 11 Solutions to Overcome Borderlands 3 Startup Issues</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/verwendung-von-nvidias-nvenc-in-der-handbrake-videokonvertierung-ein-leitfaden/"><u>Verwendung Von NVIDIA's NVENC in Der HandBrake Videokonvertierung: Ein Leitfaden</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/aking-every-minute-count-youtube-length-reduction-techniques-for-2024/"><u>[New] Making Every Minute Count YouTube Length Reduction Techniques for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>[Updated] 2024 Approved Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-facebook-fiasco-getting-back-to-social-networking/"><u>[Updated] In 2024, Facebook Fiasco? Getting Back to Social Networking</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-finding-the-perfect-dj-template-video-download-for-your-events/"><u>[Updated] In 2024, Finding the Perfect DJ Template Video Download for Your Events</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211349242-9798988596257-a-manual-for-manifesting-your-dream-life/"><u>A Manual For Manifesting Your Dream Life | Free Book</u></a></li>
+<li><a href="https://win-able.techidaily.com/billmire-l-et-al-2016-environmental-fate-of-the-herbicide-glyphosate-and-its-degradation-product-ampa-in-a-small-agricultural-watershed-following-simulated-501/"><u>Billmire, L., Et Al (2016). Environmental Fate of the Herbicide Glyphosate and Its Degradation Product AMPA in a Small Agricultural Watershed Following Simulated Rainfall Events. J Environ Qual, 45(3), 973-84</u></a></li>
+<li><a href="https://win-able.techidaily.com/comprehensive-guide-overcome-stuck-screens-in-madden-22-before-gameplay/"><u>Comprehensive Guide: Overcome Stuck Screens in Madden '22 Before Gameplay</u></a></li>
+<li><a href="https://win-able.techidaily.com/getting-stardew-valley-running-smoothly-again-post-update/"><u>Getting Stardew Valley Running Smoothly Again (Post-Update)</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/maximize-your-savings-with-jackerys-40-off-deals-on-portable-power-stations-exclusive-cyber-monday-offer/"><u>Maximize Your Savings with Jackery's 40% Off Deals on Portable Power Stations - Exclusive Cyber Monday Offer!</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/recuperation-efficace-guide-complet-pour-recuperer-les-videos-mts-eliminees/"><u>Récupération Efficace : Guide Complet Pour Recuperer Les Vidéos MTS Éliminées</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-future-is-here-unveiling-apples-plans-for-intelligent-robotic-assistants-in-residential-spaces-zdnet/"><u>The Future Is Here: Unveiling Apple's Plans for Intelligent Robotic Assistants in Residential Spaces | ZDNET</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/king-youtube-mastery-of-video-segmentation/"><u>Unlocking YouTube Mastery of Video Segmentation</u></a></li>
+<li><a href="https://win-able.techidaily.com/why-football-manager-2022-was-postponed-problem-identified-and-solved/"><u>Why Football Manager 2022 Was Postponed: Problem Identified & Solved</u></a></li>
 </ul></div>
 
